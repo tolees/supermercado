@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Marcilla Café Molido Natural 500 g'
+date: 2025-11-05 21:33:15
+image: 'https://m.media-amazon.com/images/I/416ISk8w33L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07QJCSH82-es Marcilla Café Molido Natural 500 g'
+sku: 'B07QJCSH82-es'
+tags: [ 'Alimentación y bebidas','Arborist Merchandising Root','Café','Café molido','Café molido y en grano','Café, té y bebidas','Novedades en Alimentación y bebidas','Self Service','Special Features Stores','café','dd53b5bc-bcd1-4c9b-ab43-793ed912ccdd_0','dd53b5bc-bcd1-4c9b-ab43-793ed912ccdd_1501','dd53b5bc-bcd1-4c9b-ab43-793ed912ccdd_2401','dd53b5bc-bcd1-4c9b-ab43-793ed912ccdd_7001','dd53b5bc-bcd1-4c9b-ab43-793ed912ccdd_901','marcilla','molido','🇪🇸', ]
+actualPrice: 8.35 EUR
+currency: EUR
+price: 8.35
+comparePrice: 8.95 EUR
+prodname: 'Marcilla Café Molido Natural 500 g'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Marcilla'
+buyurl: 'https://www.amazon.es/dp/B07QJCSH82/?tag=tolees-21'
+descuento: '6.70'
+average: '8.35'
+---
+
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Café molido en el punto adecuado para lograr un excelente filtro
+- Formato ahorro
+- Envasado al vacío paquetes de 500 g conservando todo su aroma y sabor
+- Un paquete permite preparar hasta 114 tazas
+
+[🛒 Visítala!!!]({{< param buyurl >}})
+{{<world>}}B07QJCSH82{{</world>}}
