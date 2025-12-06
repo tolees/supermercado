@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cerveza dorada y brillante, de espuma cremosa y consistente, con un sabor característico, moderado y fino.
 - El aroma principal es afrutado suave y fresco, a plátano y manzana, con cierta fragancia seca y un toque a levadura, apreciándose también notas florales del lúpulo al beber. En boca, tiene fuerza, consistencia y resulta muy equilibrada, con un amargor moderado y una ligera acidez.
 - Mahou 5 Estrellas está elaborada con las mejores variedades de lúpulo y levadura, además de agua y malta, dando lugar al sabor cervecero de siempre, al de toda la vida.
 - Mahou Cinco Estrellas en pack de 12 botellas de vidrio de 25 centilitros cada una y 5.5% de alcohol.
 - Para un mayor disfrute se recomienda consumir entre 4º y 6º C.
+- Cerveza dorada y brillante, de espuma cremosa y consistente, con un sabor característico, moderado y fino.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XDNTRIM{{</world>}}

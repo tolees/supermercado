@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con la tecnología patentada OLAPLEX Bond Building technology
 - Absorbe la grasa, da volumen, refresca y desintoxica
+- Con la tecnología patentada OLAPLEX Bond Building technology
 - Para todo tipo de cabello y color
 - Alta calidad
 

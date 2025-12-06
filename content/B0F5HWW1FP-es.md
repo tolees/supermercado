@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El surtido contiene, entre otros, botellitas de cola, ositos, huevos, moras, ranas
-- Surtido de caramelos de goma en bolsa de 1 kg
-- Die folgenden Informationen gelten für jede Einheit pro Packung
-- Todas las gomitas son tamaño mini de unos 3 cm de largo la más grande
-- Delicioso mix de diferentes piezas recubiertas de pica
 - La siguiente información se aplica a cada unidad del paquete
+- Todas las gomitas son tamaño mini de unos 3 cm de largo la más grande
+- El surtido contiene, entre otros, botellitas de cola, ositos, huevos, moras, ranas
+- Delicioso mix de diferentes piezas recubiertas de pica
+- Die folgenden Informationen gelten für jede Einheit pro Packung
+- Surtido de caramelos de goma en bolsa de 1 kg
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F5HWW1FP{{</world>}}

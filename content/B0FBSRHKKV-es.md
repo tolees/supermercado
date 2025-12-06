@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Embotellada en origen en Brakel, Bélgica
 - Conservar en lugar fresco y seco
-- Sabor perfectamente equilibrado
 - Contiene minerales naturales
+- Sabor perfectamente equilibrado
 - Agua mineral natural
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Digestive Avena Choco de Gullón, elaboradas con un 34% de copos de avena y chips de chocolate negro
+- Fabricado por Galletas Gullón.
 - Las galletas perfectas para darte un capricho entre horas.
 - Sin aceite de palma. Producto elaborado con aceite de girasol alto oleico.
 - Integrales con un alto contenido en fibra, la combinación perfecta para disfrutar cuidándote.
-- Fabricado por Galletas Gullón.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08HW71MSX{{</world>}}

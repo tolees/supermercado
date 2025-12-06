@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 🎶 Notas de Sabor: Chocolate, Especiado, Cítrico, Tabaco, Picante.
-- 🔥 Tostamos el grano semanalmente para que pueda recibir el café con todo su aroma y sin perdida de sabor. Recibirá su café descafeinado ecién preparado y envasado.
-- 👌🏽 Ideal para café sólo o con leche - Nuestro café Amigo es 100% propio y sin intermediarios, seleccionado, cocinado y tostado,para que no sea la cafeína la que te impida disfrutar de un buen café
-- ☕ Amigos mexicanos que en Chiapas cultivan un café de altura riquísimo y en verde, con agua, sí, con agua y acetato de etilo natural le extraen la cafeína sin alterar en nada su sabor
 - ✅ No Torrefacto, sin aditivos, 100% natural, ecológico, vegano, original de Brasil e India. Molienda semanal, siempre recibirás un paquete recién molido.
+- 👌🏽 Ideal para café sólo o con leche - Nuestro café Amigo es 100% propio y sin intermediarios, seleccionado, cocinado y tostado,para que no sea la cafeína la que te impida disfrutar de un buen café
+- 🔥 Tostamos el grano semanalmente para que pueda recibir el café con todo su aroma y sin perdida de sabor. Recibirá su café descafeinado ecién preparado y envasado.
+- ☕ Amigos mexicanos que en Chiapas cultivan un café de altura riquísimo y en verde, con agua, sí, con agua y acetato de etilo natural le extraen la cafeína sin alterar en nada su sabor
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CYWHLDZB{{</world>}}

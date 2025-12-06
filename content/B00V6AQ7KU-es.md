@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Barrita sabor leche fermentada y limón bañada en chocolate blanco
 - Sustitutivo de una comida para control de peso
 - Dos barritas sustituyen una comida
+- Barrita sabor leche fermentada y limón bañada en chocolate blanco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00V6AQ7KU{{</world>}}

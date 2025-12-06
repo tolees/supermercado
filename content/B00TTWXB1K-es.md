@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con tecnología Dual Desensitizing Tech, genera una acción desensibilizante basada en la combinación de nitrato potásico y fluoruro sódico
-- Para hipersensibilidad dental, generadas por retracción gingival, tratamientos periodontales, desgaste del esmalte, higiene profesional y tratamientos blanqueadores;
 - Colutorio de uso diario para la hipersensibliad bucodental. Elimina el dolor frente a estímulos externos
 - Mantiene las encías en buen estado gracias a sus ingredientes regeneradores y tonificantes como el dexpantenol y el laureth-9; Consigue acción prolongda
+- Para hipersensibilidad dental, generadas por retracción gingival, tratamientos periodontales, desgaste del esmalte, higiene profesional y tratamientos blanqueadores;
+- Con tecnología Dual Desensitizing Tech, genera una acción desensibilizante basada en la combinación de nitrato potásico y fluoruro sódico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00TTWXB1K{{</world>}}

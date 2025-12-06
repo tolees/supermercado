@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- mini
 - dental care
+- mini
 - puppy
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

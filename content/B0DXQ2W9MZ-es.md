@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Pack de 12 unidades. 118g cada una.
+- Mantener en lugar fresco y seco.
+- Galletas crujientes cubiertas de chocolate . Una combinación de textura y chocolate que crean una explosión de sabor en cada bocado.
+- En cómodas bandejas, ideal para compartir entre amigos o en familia.
 - Galleta bañada en auténtico chocolate blanco
 - Prueba la Edición Especial de Filipinos, ¡con un delicioso toque a frutos rojos!
-- Galletas crujientes cubiertas de chocolate . Una combinación de textura y chocolate que crean una explosión de sabor en cada bocado.
-- Mantener en lugar fresco y seco.
-- Pack de 12 unidades. 118g cada una.
-- En cómodas bandejas, ideal para compartir entre amigos o en familia.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DXQ2W9MZ{{</world>}}

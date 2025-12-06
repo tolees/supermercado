@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DETALLES DEL ENVÍO - NIVEA Micellar Water Skin Glow con 5% Sérum, Vitamina C y E, agua micelar desmaquillante con efecto iluminador instantáneo, sin perfume, 1 x 400 ml
-- ENERGIZA E HIDRATA - La fórmula con 5% Sérum, Amino Acido Complex y Vitamina C y E de este limpiador facial limpia, ilumina e hidrata eficazmente la piel, uniformizando el tono
 - LIMPIA EN PROFUNDIDAD - Este aceite limpiador facial elimina el 100% del maquillaje waterproof, las impurezas y la suciedad en unas pocas pasadas y sin necesidad de frotar
-- RESPETUOSA CON LA PIEL - Dermatológica y oftalmológicamente comprobada, esta agua micelar NIVEA es apta para pieles apagadas y sensibles, con resultados clínicamente demostrados
+- ENERGIZA E HIDRATA - La fórmula con 5% Sérum, Amino Acido Complex y Vitamina C y E de este limpiador facial limpia, ilumina e hidrata eficazmente la piel, uniformizando el tono
 - CUIDA TU PIEL Y EL PLANETA - La fórmula 98% biodegradable de estos limpiadores faciales es vegana y no contiene microplásticos. Botella fabricada con 97% de material reciclado*
+- RESPETUOSA CON LA PIEL - Dermatológica y oftalmológicamente comprobada, esta agua micelar NIVEA es apta para pieles apagadas y sensibles, con resultados clínicamente demostrados
+- DETALLES DEL ENVÍO - NIVEA Micellar Water Skin Glow con 5% Sérum, Vitamina C y E, agua micelar desmaquillante con efecto iluminador instantáneo, sin perfume, 1 x 400 ml
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D2XQ4VDX{{</world>}}

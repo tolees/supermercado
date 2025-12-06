@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Detergente para lavadora en formato cápsula con agentes quitamanchas Vanish y acción todo en 1
 - Limpieza profunda de tu ropa gracias a los activos quitamanchas Vanish
 - Las cápsulas de detergente para la ropa te permiten utilizar la dosis óptima para tu colada
-- Eficacia en agua fría y ciclos cortos
 - Apto para ropa blanca y de color, no daña los tejidos y deja una agradable fragancia en tu ropa
+- Eficacia en agua fría y ciclos cortos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B082VTX3VF{{</world>}}

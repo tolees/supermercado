@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- producto 1: Gusto: En boca se manifiesta ligero con un final de acidez refrescante y un agradable retrogusto
-- producto 2: Aroma: Destacan los aromas varietales frescos con alta intensidad de piña, melón y maracuyá sobre un fondo de anís
-- producto 1: Tipo de uva: Elaborado con una selección de uvas Verdejo, una de las uvas blancas más reconocidas y que más gusta en nuestro país; fermentado en depósitos de acero inoxidable a una temperatura de 16º C
-- producto 2: Apariencia: Vino blanco color amarillo pálido y aspecto brillante con matices verdosos
-- producto 2: Tipo de uva: Elaborado con la selección de uvas Verdejo, una de las uvas blancas más reconocidas y que más gusta en nuestro país; la fermentación se hace en depósitos de acero inoxidable con un estricto control de temperatura entre 13 y 15 grados
-- producto 2: Gusto: En boca es sabroso y refrescante, abierto en boca, con un final persistente y un retrogusto afrutado
-- producto 1: Apariencia: Vino blanco color amarillo pálido con aspecto brillante y matices dorados
 - producto 1: Aroma: Presenta un perfil aromático muy refrescante de frutas tropicales y un fondo de matices florales muy discreto
+- producto 2: Apariencia: Vino blanco color amarillo pálido y aspecto brillante con matices verdosos
+- producto 1: Tipo de uva: Elaborado con una selección de uvas Verdejo, una de las uvas blancas más reconocidas y que más gusta en nuestro país; fermentado en depósitos de acero inoxidable a una temperatura de 16º C
+- producto 2: Tipo de uva: Elaborado con la selección de uvas Verdejo, una de las uvas blancas más reconocidas y que más gusta en nuestro país; la fermentación se hace en depósitos de acero inoxidable con un estricto control de temperatura entre 13 y 15 grados
+- producto 1: Apariencia: Vino blanco color amarillo pálido con aspecto brillante y matices dorados
+- producto 1: Gusto: En boca se manifiesta ligero con un final de acidez refrescante y un agradable retrogusto
+- producto 2: Gusto: En boca es sabroso y refrescante, abierto en boca, con un final persistente y un retrogusto afrutado
+- producto 2: Aroma: Destacan los aromas varietales frescos con alta intensidad de piña, melón y maracuyá sobre un fondo de anís
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B87VPJ97{{</world>}}

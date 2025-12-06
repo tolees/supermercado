@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hechas con 100% microfibras
 - Bayetas superabsorbentes
+- Hechas con 100% microfibras
 - Formato ahorro: 10 bayetas + 2
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Una mezcla con un 60% de emolientes, agentes acondicionadores, antioxidantes y vitamina E
-- Hidrata activamente para unos labios más suaves y con volumen (comparado con labios sin maquillar)
-- Enriquecido con antioxidantes y vitamina E
 - Hidratación y brillo en una pasada
+- Hidrata activamente para unos labios más suaves y con volumen (comparado con labios sin maquillar)
 - Color al instante
+- Una mezcla con un 60% de emolientes, agentes acondicionadores, antioxidantes y vitamina E
+- Enriquecido con antioxidantes y vitamina E
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07V8VZMZS{{</world>}}

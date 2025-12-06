@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El kit contiene: 2 paquetes de coloración permanente Garnier Good 5.5 Castaño Cereza
 - Vierta la crema colorante y el revelador en el bol y mezcle. Use guantes y aplique el producto en su cabello. Dejar actuar durante 30 minutos y enjuagar. Aplicar el acondicionador nutritivo
-- Fórmula vegana y sin amoniaco con 90% de ingredientes de origen natural. Textura cremosa que se aplica fácilmente como una mascarilla, no gotea
-- Cada pack contiene: crema colorante, crema reveladora, bálsamo nutritivo post-coloración, un par de guantes, una espátula mezcladora y la hoja de instrucciones
+- El kit contiene: 2 paquetes de coloración permanente Garnier Good 5.5 Castaño Cereza
 - Recrea los colores naturales del cabello, gracias a sus reflejos visibles y cubre el 100% de los cabellos blancos. El color dura hasta 8 semanas, le da al cabello un aspecto más brillante y saludable
+- Cada pack contiene: crema colorante, crema reveladora, bálsamo nutritivo post-coloración, un par de guantes, una espátula mezcladora y la hoja de instrucciones
+- Fórmula vegana y sin amoniaco con 90% de ingredientes de origen natural. Textura cremosa que se aplica fácilmente como una mascarilla, no gotea
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CNWH32FC{{</world>}}

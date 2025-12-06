@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Brand: Revlon Professional ProYou
-- Formula acondicionadora que ayuda a desenredar
-- Volumen 350 ml
 - Mejora el brillo y prolonga el color de alta definición
+- Volumen 350 ml
+- Formula acondicionadora que ayuda a desenredar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08HZWM15W{{</world>}}

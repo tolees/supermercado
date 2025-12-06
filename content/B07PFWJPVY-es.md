@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El embalaje puede variar
+- 6 botellas en las que los sabores pueden variar
 - Alcohol: 2.6 - 9.1%
 - Tipo de cerveza: Radler, IPA, roja, blanca de trigo, rubia, negra, tripel blonde
 - Temperatura de consumo: 4-6 ˚C
-- 6 botellas en las que los sabores pueden variar
+- El embalaje puede variar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07PFWJPVY{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Un vino muy bien estructurado, suave y fresco
+- Muestra aromas a frutas rojas confitadas junto a notas refrescantes y de especias
 - Color de media intensidad y tono rojo amoratado, vivo y brillante
 - Entrada en boca potente y de gran personalidad
-- Muestra aromas a frutas rojas confitadas junto a notas refrescantes y de especias
 - Postgusto persistente y muy agradable
-- Un vino muy bien estructurado, suave y fresco
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08K3ZNHPB{{</world>}}

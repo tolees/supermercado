@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Contiene 75 gr.
 - De la marca Armani.
 - Este producto está indicado para hombres.
-- Contiene 75 gr.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000VOLAUY{{</world>}}

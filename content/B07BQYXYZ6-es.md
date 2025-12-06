@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- UTILIZAMOS LA FRUTA ENTERA: Nuestro CRANBERRY COMPLEX contiene el fruto completo de Arándano Rojo Americano (pulpa, semillas y piel), garantizando así el espectro completo de todos sus componentes activos.
-- COMBINACIÓN EXCLUSIVA: La dosis diaria de 1 cápsula proporciona el equivalente a 28.000 mg de polvo del fruto de arándano rojo y 40 mg de proantocianidinas tipo A (PACs), 9 cepas distintas de fermentos lácticos, fibra prebiótica que actúa como fertilizante estimulando el crecimiento de bacterias sanas en el intestino, 100mg de D-Manosa y 80mg de Vitamina C.
-- TECNOLOGÍA PATENTADA PROBIOACT: compuesto a base de 80 millones de UFC (unidades formadoras de colonias) procedentes de 9 cepas de fermentos lácticos diferentes, que garantiza la supervivencia a través del tracto digestivo y su activación en el intestino.
 - ¿POR QUÉ ESTADO PURO? Es el resultado de la búsqueda de la excelencia en productos naturales, vitaminas y minerales. En Estado Puro no tienen cabida los ingredientes adulterados o enmascarados y sólo los 100% Puros pasan las exigentes pruebas a las que son sometidos. Es la consecuencia de la constancia, rigor y experiencia en TONGIL, tras más de cuarenta años como uno de los mejores fabricantes herbodietéticos españoles.
+- COMBINACIÓN EXCLUSIVA: La dosis diaria de 1 cápsula proporciona el equivalente a 28.000 mg de polvo del fruto de arándano rojo y 40 mg de proantocianidinas tipo A (PACs), 9 cepas distintas de fermentos lácticos, fibra prebiótica que actúa como fertilizante estimulando el crecimiento de bacterias sanas en el intestino, 100mg de D-Manosa y 80mg de Vitamina C.
 - CRANBERRY COMPLEX se presenta en blíster de 30 cápsulas vegetales, es apto para veganos y no contiene alérgenos. Con 1 cápsula al día puedes obtener todos sus beneficios.
+- UTILIZAMOS LA FRUTA ENTERA: Nuestro CRANBERRY COMPLEX contiene el fruto completo de Arándano Rojo Americano (pulpa, semillas y piel), garantizando así el espectro completo de todos sus componentes activos.
+- TECNOLOGÍA PATENTADA PROBIOACT: compuesto a base de 80 millones de UFC (unidades formadoras de colonias) procedentes de 9 cepas de fermentos lácticos diferentes, que garantiza la supervivencia a través del tracto digestivo y su activación en el intestino.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07BQYXYZ6{{</world>}}

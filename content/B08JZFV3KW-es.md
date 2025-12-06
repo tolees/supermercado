@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - De textura gomosa
 - En trozos pequeños
-- Surtido con discos fresa, balla-balla red, balla-balla white, mega torcidas fresa y ladrillos fresa-nata
 - Ideal para compartir
+- Surtido con discos fresa, balla-balla red, balla-balla white, mega torcidas fresa y ladrillos fresa-nata
 - Conservar en lugar fresco y seco
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- FÓRMULA ANTICAÍDA: Su fórmula anticaída reduce la caída capilar, mejora la densidad y fortaleza del cabello, potencia el brillo y protege frente al estrés oxidativo. También favorece el bienestar general de la persona
-- INGREDIENTES NATURALES: Incluye +30 ingredientes naturales como, aminoácidos de colágeno y queratina, ubiquinol 10, vitaminas C, D3, E, biotina y minerales como cobre, zinc, hierro y selenio, extractos naturales, cúrcuma, semillas de calabaza y antioxidantes como astaxantina
-- MODO DE EMPLEO: Incluye 28 dosis bebibles, 1 para cada día del mes + 2 días de descanso, durante un mínimo de 6 meses. Puede beberse directamente o diluido en agua o zumo, agitar antes de usar y mantener en nevera
 - OLISTIC WOMEN: Complemento alimenticio bebible anticaída de pelo diseñado para el mantenimiento y cuidado del cabello, y para dar soporte al crecimiento capilar normal en mujeres. Con sabor tropical a mango y naranja, es vegano, sin gluten y se presenta en viales fáciles de tomar
+- MODO DE EMPLEO: Incluye 28 dosis bebibles, 1 para cada día del mes + 2 días de descanso, durante un mínimo de 6 meses. Puede beberse directamente o diluido en agua o zumo, agitar antes de usar y mantener en nevera
+- INGREDIENTES NATURALES: Incluye +30 ingredientes naturales como, aminoácidos de colágeno y queratina, ubiquinol 10, vitaminas C, D3, E, biotina y minerales como cobre, zinc, hierro y selenio, extractos naturales, cúrcuma, semillas de calabaza y antioxidantes como astaxantina
+- FÓRMULA ANTICAÍDA: Su fórmula anticaída reduce la caída capilar, mejora la densidad y fortaleza del cabello, potencia el brillo y protege frente al estrés oxidativo. También favorece el bienestar general de la persona
 - RESULTADOS: Los efectos pueden notarse desde el mes 1, con menor caída y cabello más fuerte. A los 3 meses se puede notar mayor volumen y densidad, y tras 6 meses de uso constante, un cabello más sano, denso y fuerte
 
 [🛒 Visítala!!!]({{< param buyurl >}})

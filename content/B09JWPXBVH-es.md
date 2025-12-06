@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuatro cuchillas dentro de un jabón para permitir enjabonar y afeitar en un solo gesto
-- Jabón dermatológicamente probado y compuesto por Provitin B5, Aloe Vera y Vitamina e
 - Paquete XXL con 1 mango + 6 cuchillas de recarga
-- Tipo de piel: seca
 - Cabezal flexible para alcanzar cada curva femenina
+- Jabón dermatológicamente probado y compuesto por Provitin B5, Aloe Vera y Vitamina e
+- Tipo de piel: seca
+- Cuatro cuchillas dentro de un jabón para permitir enjabonar y afeitar en un solo gesto
 - Las cuchillas Sensitive Care son compatibles con las afeitadoras Intuition Ultra Moisture e Intuition Dry Skin
 
 [🛒 Comprar!!!]({{< param buyurl >}})

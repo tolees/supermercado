@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hidrata la piel intensamente.
-- Rápida absorción.
 - Ayuda a aliviar la sensación de tirantez en la piel.
 - Proporciona una sensación duradera de suavidad y protección.
+- Rápida absorción.
+- Hidrata la piel intensamente.
 - Testado dermatológicamente.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

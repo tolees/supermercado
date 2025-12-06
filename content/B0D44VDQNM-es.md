@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Una mayonesa hecha con huevos de calidad y vinagre de vino blanco
-- Con aceite sostenible
 - Apta para vegetarianos y sin gluten
 - Gran mayonesa hellmanns 825ml
+- Con aceite sostenible
+- Una mayonesa hecha con huevos de calidad y vinagre de vino blanco
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D44VDQNM{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Una deliciosa mezcla crujiente y suave
 - Ideal como tentempié entre horas o también después de la actividad física
 - Alto contenido de proteínas del 40 %
 - Bajo contenido de azúcares
+- Una deliciosa mezcla crujiente y suave
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CPXZ9L7H{{</world>}}

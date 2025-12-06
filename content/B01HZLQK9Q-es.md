@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producción ecológica
-- Procedente de comercio justo
 - Certificado sin gluten
+- Procedente de comercio justo
+- Producción ecológica
 - Fuente de proteína vegetal
 
 [🛒 Comprar!!!]({{< param buyurl >}})

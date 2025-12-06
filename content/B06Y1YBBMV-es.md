@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ANTI ROTURAS: Fórmula avanzada con Tecnología Silksteel Fusion que protege el cabello contra la rotura ocasionada por el cepillado - actúa como protector térmico en el proceso de secado
 - REPARACIÓN INTENSA: Enriquecida con Aminoácidos de Seda y Lípidos Micronizados que reparan la estructura de las fibras capilares del cabello -hidrata fortalece y da brillo
-- CHAMPÚ: Champú de reparación intensa - Desenreda, repara y protege el pelo seco y dañado - Tratamiento hidratante que fortalece y suaviza las fibras capilares del cabello -Aporta brillo y suavidad.
 - PURIFICADOR DE METALES: Protege el cabello de los metales pesados -impurezas y sustancias nocivas presentes en el agua - Mantiene las fibras capilares del cabello suaves y sanas
+- ANTI ROTURAS: Fórmula avanzada con Tecnología Silksteel Fusion que protege el cabello contra la rotura ocasionada por el cepillado - actúa como protector térmico en el proceso de secado
+- CHAMPÚ: Champú de reparación intensa - Desenreda, repara y protege el pelo seco y dañado - Tratamiento hidratante que fortalece y suaviza las fibras capilares del cabello -Aporta brillo y suavidad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B06Y1YBBMV{{</world>}}

@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - VALORES NUTRICIONALES: Valor energético (3,700 kJ / 900 kcal), Grasas (100.0 g), Saturadas (94.5 g), Ácido laurico (50.0 g), Hidratos de carbono (0.00 g), Azúcares (0.00 g), Proteínas (0.00 g), Sal (0.00 g)
 - MODO DE EMPLEO: Puede consumirse directamente o bien ser utilizado como ingrediente en sus recetas de repostería.
-- así como sustituto de la mantequilla o la margarina. Se puede cocinar y hornear sin problema. Puedes utilizarlo también como exfoliante para tu piel o acondicionador de pelo.
 - CONSUMO ADECUADO: Este producto puede ser consumido por cualquier grupo poblacional excepto por aquellos con alergias o intolerancias recogidas en la tabla de alérgenos.
 - PRODUCTO ECOLÓGICO: El aceite de coco virgen ecológico NaturGreen posee numerosas propiedades beneficiosas para nuestro organismo. Puede utilizarse en la elaboración de diferentes platos y recetas
+- así como sustituto de la mantequilla o la margarina. Se puede cocinar y hornear sin problema. Puedes utilizarlo también como exfoliante para tu piel o acondicionador de pelo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BQYX6MH2{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sin azúcares añadidos, contiene azúcares naturalmente presentes
 - No necesita frío
-- Sin colorantes ni conservantes, según la legislación vigente
+- Sin azúcares añadidos, contiene azúcares naturalmente presentes
 - Fuente natural de calcio
+- Sin colorantes ni conservantes, según la legislación vigente
 - Lácteo infantil adaptado desde los 6 meses
 
 [🛒 Visítala!!!]({{< param buyurl >}})

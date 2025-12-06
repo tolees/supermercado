@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Eliminan la electricidad estática de la ropa
-- Toallitas para la secadora on efecto suavizante acondicionador
-- La colada con un plus extra de frescor
 - Aporta suavizad a las prendas y le deja un ligero y fresco aroma
+- La colada con un plus extra de frescor
+- Toallitas para la secadora on efecto suavizante acondicionador
+- Eliminan la electricidad estática de la ropa
 - Descubre el resto de aditivos y suavizantes de la gama Flor Elixir
 
 [🛒 Visítala!!!]({{< param buyurl >}})

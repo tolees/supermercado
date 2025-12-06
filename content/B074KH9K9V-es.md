@@ -29,14 +29,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - FRAGANCIA Y AROMA: Una Mezcla refinada y persistente, que se presenta con: Cuerpo: 9.8 - Intensidad: 10 - Persistencia: 10 - Dulzor: 6 - Acidez: 4
-- *ESE dm 44 y *ESE son marcas registradas por el consorcio EASY SERVING ESPRESSO. La producción de estas cápsulas es autónoma y no está conectada ni directa ni indirectamente a EASY SERVING ESPRESSO
 - FRAGANCIA Y AROMA: Una Mezcla refinada y persistente, que se presenta con: Cuerpo: 9.8 - Intensidad: 10 - Persistencia: 10 - Dulzor: 6 - Acidez: 4
-- MEZCLA DE CAFÉ NEGRA: Una Mezcla de Café Cremoso de sabor intenso y marcado. Un carácter firme que evoca la tradición típica del verdadero café napolitano: el resultado de una fina selección de blends, pensadas para un Espresso con mucho cuerpo, rico y cremoso el de un típico bar italiano. Una mezcla hábil y seleccionada de Robusta, envasada en atmósfera protectora
-- *ESE mm 44 y *ESE son marcas registradas por el consorcio EASY SERVING ESPRESSO; La producción de estas cápsulas es autónoma y no está conectada ni directa ni indirectamente a EASY SERVING ESPRESSO
-- FORMATO: 50 Cápsulas de Café Compostables
 - MEZCLA DE CAFÉ NEGRA: Una Mezcla de Café Cremoso de sabor intenso y marcado; Un carácter firme que evoca la tradición típica del verdadero café napolitano: el resultado de una fina selección de blends, pensadas para un Espresso con mucho cuerpo, rico y cremoso el de un típico bar italiano; Una mezcla hábil y seleccionada de Robusta, envasada en atmósfera protectora
-- FORMATO: 50 Cápsulas de Café Compostables
+- MEZCLA DE CAFÉ NEGRA: Una Mezcla de Café Cremoso de sabor intenso y marcado. Un carácter firme que evoca la tradición típica del verdadero café napolitano: el resultado de una fina selección de blends, pensadas para un Espresso con mucho cuerpo, rico y cremoso el de un típico bar italiano. Una mezcla hábil y seleccionada de Robusta, envasada en atmósfera protectora
 - Las Cápsulas Compostables ESE Caffè Borbone de 44 mm de papel de filtro son 100% Compatibles con todas las máquinas de café que utilizan el sistema Easy Serving Espresso. ¡Haz la elección correcta para un mundo mejor: elige un producto 100% ecológico!
+- FORMATO: 50 Cápsulas de Café Compostables
+- *ESE mm 44 y *ESE son marcas registradas por el consorcio EASY SERVING ESPRESSO; La producción de estas cápsulas es autónoma y no está conectada ni directa ni indirectamente a EASY SERVING ESPRESSO
+- *ESE dm 44 y *ESE son marcas registradas por el consorcio EASY SERVING ESPRESSO. La producción de estas cápsulas es autónoma y no está conectada ni directa ni indirectamente a EASY SERVING ESPRESSO
+- FORMATO: 50 Cápsulas de Café Compostables
 - Las Cápsulas Compostables ESE Caffè Borbone de 44 mm de papel de filtro son 100% compatibles con todas las máquinas de café que utilizan el sistema Easy Serving Espresso. ¡Haz la elección correcta para un mundo mejor: elige un producto 100% ecológico!
 
 [🛒 Comprar!!!]({{< param buyurl >}})

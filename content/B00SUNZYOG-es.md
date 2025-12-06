@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Libre de perfume, colorantes y conservantes
 - Adecuado para la piel sensible de los niños
-- Reduce el riesgo de alergias inducidas por el sol
 - Proporciona protección UVA-UVB inmediata
+- Reduce el riesgo de alergias inducidas por el sol
+- Libre de perfume, colorantes y conservantes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00SUNZYOG{{</world>}}

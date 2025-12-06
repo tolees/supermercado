@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Origen: Elemento Penedès
-- Graduación: 14,5% vol.
-- Excelente con carnes rojas, especialmente si están acompañadas de salsas a base de especias como la pimienta verde.
 - Rojo cereza. En nariz compota de fruta roja sobre tostados. Cuerpo medio-alto, elegante y complejo.
+- Excelente con carnes rojas, especialmente si están acompañadas de salsas a base de especias como la pimienta verde.
+- Origen: Elemento Penedès
 - Puede disfrutarlo desde ahora, bien conservado aguantará 8 años.
+- Graduación: 14,5% vol.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01LN42I6U{{</world>}}

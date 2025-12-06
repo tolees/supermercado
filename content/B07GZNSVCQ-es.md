@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El producto representa un champú
 - Es de la marca Elvive
 - Contiene aceite de ricino
+- El producto representa un champú
 - Tiene 300 ml
 
 [🛒 Visítala!!!]({{< param buyurl >}})

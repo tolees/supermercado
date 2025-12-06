@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Color impactante
+- Fórmula única con pigmentos finos y tecnología Flex
 - Sensación ligera, como si no llevaras nada
 - Cuida tus labios y los hidrata
-- Fórmula única con pigmentos finos y tecnología Flex
 - Contiene escolano, vitaminas A,E y C, y proteínas de seda
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

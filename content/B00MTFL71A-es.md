@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - El equilibrio de la elegante, compleja y singular mezcla de whiskies de malta y grano hace de JandB Reserve un whisky idóneo para apreciar solo
-- JandB recibió la primera Garantía Real del rey Jorge III, costumbre que han mantenido los sucesivos monarcas
-- Suave, con un persistente toque amaderado dulce y un delicado ahumado
 - Elaborado a partir de una selección cuidada de whiskies de malta y de grano madurados; envejecido durante un mínimo de 15 años
+- JandB recibió la primera Garantía Real del rey Jorge III, costumbre que han mantenido los sucesivos monarcas
 - JandB Reserve contiene whiskies de malta de Speyside de gran calidad, madurados 15 años, confiriendo una curiosa suavidad a la mezcla
+- Suave, con un persistente toque amaderado dulce y un delicado ahumado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00MTFL71A{{</world>}}

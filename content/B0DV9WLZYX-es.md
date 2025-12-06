@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Color: Multicolor
-- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
-- Medidas: 11,5 x 23 x 11,5 centímetros
 - Set de la marca Nivea
 - Referencia: S05127923
+- Medidas: 11,5 x 23 x 11,5 centímetros
+- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
+- Color: Multicolor
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DV9WLZYX{{</world>}}

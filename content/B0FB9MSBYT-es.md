@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mezcla de aceites: enriquecido con una mezcla de aceites de jojoba, coco y nuez de macadamia australiana, este acondicionador hidrata, refresca y aporta un movimiento natural a tu pelo
 - Aromas icónicos de aussie: deliciosos y exóticos aromas con notas de maracuyá, naranja y leche de coco, para un pelo que huele de maravilla
-- La manera aussie de usar: tras lavar con el champú aussie bouncy curls, aplica una buena cantidad de acondicionador en tu pelo mojado; masajea bien y aclara como un profesional. ¡ta-dah, rizos fabulosos!
-- Cruelty free y vegano: aussie es reconocida por peta como una marca cruelty free y en contra de las pruebas en animales, ¡y adivina qué! ¡este acondicionador también es vegano! ¡di hola a un pelo nutrido!
 - Impulso diario de hidratación para pelorizado: acondicionador ligero de aussie para pelo ondulado y rizado, que proporciona un impulso diario de hidratación sin apelmazar
+- La manera aussie de usar: tras lavar con el champú aussie bouncy curls, aplica una buena cantidad de acondicionador en tu pelo mojado; masajea bien y aclara como un profesional. ¡ta-dah, rizos fabulosos!
+- Mezcla de aceites: enriquecido con una mezcla de aceites de jojoba, coco y nuez de macadamia australiana, este acondicionador hidrata, refresca y aporta un movimiento natural a tu pelo
+- Cruelty free y vegano: aussie es reconocida por peta como una marca cruelty free y en contra de las pruebas en animales, ¡y adivina qué! ¡este acondicionador también es vegano! ¡di hola a un pelo nutrido!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FB9MSBYT{{</world>}}

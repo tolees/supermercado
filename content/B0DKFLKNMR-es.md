@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El combo perfecto para disfrutar de los sabores más ricos de Granini
 - Néctar de Pera: hecho a partir de zumo de pera (24%) y puré de pera (25%) con textura cremosa
-- Pack que incluye Bebida de Pomelo Rosa 2x1L, Néctar de Pera 2x1L y Néctar de Plátano 2x1L
-- Néctar de Plátano: hecho a partir de puré de plátano (25%) con edulcorante, azúcar y Vitamina B
+- El combo perfecto para disfrutar de los sabores más ricos de Granini
 - Bebida de Pomelo Rosa: hecho a partir de zumo de frutas (42%), un placer aromático para los 5 sentidos
+- Néctar de Plátano: hecho a partir de puré de plátano (25%) con edulcorante, azúcar y Vitamina B
+- Pack que incluye Bebida de Pomelo Rosa 2x1L, Néctar de Pera 2x1L y Néctar de Plátano 2x1L
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DKFLKNMR{{</world>}}

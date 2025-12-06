@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fórmula resistente al agua; enriquecida con manteca de karité y aceite de jojoba
-- Máscara Healthy Mix Waterproof de Bourjois
-- Contiene un 95% de ingredients de origen natural
 - Volumen limpio, pestaña por pestaña para un resultado de lo más natural
+- Contiene un 95% de ingredients de origen natural
+- Máscara Healthy Mix Waterproof de Bourjois
+- Fórmula resistente al agua; enriquecida con manteca de karité y aceite de jojoba
 - Resiste todo el día y fácil de enjuagar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

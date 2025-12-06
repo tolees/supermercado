@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- MÚLTIPLES BENEFICIOS: El maíz es una fuente de antioxidantes que te ayudará a combatir el envejecimiento prematuro. Además, es un cereal aliado de diversas funciones cerebrales y contribuye a controlar tu apetito.
-- COPOS DE MAÍZ ECOLÓGICOS: Nuestros cereales de maíz tostado son un alimento que te proporcionará energía y un potente efecto saciante. Destaca por su alto valor nutritivo y por ser el acompañante perfecto para una dieta saludable.
 - IDEAL COMO DESAYUNO: Estos copos de maíz son idóneos para la primera comida del día. Añádelos a la leche, bebidas vegetales, yogures o zumos para disfrutar de un delicioso sabor por las mañanas, ¡como nunca antes lo habías hecho!
-- SOBRE NOSOTROS: Ecocesta nació con una misión clara: dar visibilidad a la alimentación de origen vegetal. Somos empresa BCorp certificada y cumplimos con los más altos estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
+- MÚLTIPLES BENEFICIOS: El maíz es una fuente de antioxidantes que te ayudará a combatir el envejecimiento prematuro. Además, es un cereal aliado de diversas funciones cerebrales y contribuye a controlar tu apetito.
 - INGREDIENTES NATURALES: Elaborado a base de harina de maíz (95%), malta de maíz (4%) y sal (1%), es un producto orgánico y no contiene conservantes ni colorantes. Su alto contenido en fibra te ayudará a mejorar la función intestinal.
+- COPOS DE MAÍZ ECOLÓGICOS: Nuestros cereales de maíz tostado son un alimento que te proporcionará energía y un potente efecto saciante. Destaca por su alto valor nutritivo y por ser el acompañante perfecto para una dieta saludable.
+- SOBRE NOSOTROS: Ecocesta nació con una misión clara: dar visibilidad a la alimentación de origen vegetal. Somos empresa BCorp certificada y cumplimos con los más altos estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B099XN4P2Y{{</world>}}

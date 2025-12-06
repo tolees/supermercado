@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- PRODUCTO VEGANO. Todos nuestros alimentos son aptos para las personas veganas o vegetarianas.
+- SIN GLUTEN. Aliado perfecto para personas celíacas, ya que no contiene gluten.
 - AVELLANA REPELADA TOSTADA BIO. Avellanas ecológicas seleccionadas rigurosamente y cultivadas de forma natural. Las avellanas tostadas ecológicas son una gran fuente de energía gracias a su elevado contenido de grasas, así como de proteínas.
 - 100% NATURAL. Las avellanas tienen grandes cantidades de minerales y de vitamina E, C y K, compuestos que pueden ayudar a conservar la salud del sistema cardiovascular e inmunológico.
 - FRUTOS SECOS NATURALES. Las avellanas tostadas son excelentes para incorporarlas en una dieta sana y equilibrada, dando sabor a nuestros platos dulces o salados, o incluso tomarlo como un snack. Las principales propiedades de las avellanas son antioxidantes y antiinflamatorias.
-- PRODUCTO VEGANO. Todos nuestros alimentos son aptos para las personas veganas o vegetarianas.
-- SIN GLUTEN. Aliado perfecto para personas celíacas, ya que no contiene gluten.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BPDDXGZY{{</world>}}

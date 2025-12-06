@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Deliciosos y crujientes copos de maíz sin gluten para tu desayuno
-- ¡Cereales de chocolate sin gluten, para toda la familia!
 - Los cereales Go Free Chocolate para el desayuno, sin colorantes ni aromas artificiales
 - Cereales Nestlé sin gluten, con vitaminas del grupo B
+- ¡Cereales de chocolate sin gluten, para toda la familia!
+- Deliciosos y crujientes copos de maíz sin gluten para tu desayuno
 - Cereales Nestle Go Free Chocolate, todo el sabor del cereal, sin gluten
 
 [🛒 Comprar!!!]({{< param buyurl >}})

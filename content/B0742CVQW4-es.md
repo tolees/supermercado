@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dermatológicamente y oftalmológicamente probado
 - Fórmula suave y cremosa para una fácil aplicación
-- Resistente al agua
-- Dibuja una línea fina sobre el ojo para una mirada más intensa
 - Color de alta intensidad para un impacto instantáneo
+- Dibuja una línea fina sobre el ojo para una mirada más intensa
+- Resistente al agua
+- Dermatológicamente y oftalmológicamente probado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0742CVQW4{{</world>}}

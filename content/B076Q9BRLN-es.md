@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 5 veces más volumen de pestañas, conteo, área de contraste y visibilidad
-- Adecuado para usuarios de lentes de contacto
-- Fórmula a prueba de manchas
 - Excelente opción para ojos sensibles
+- 5 veces más volumen de pestañas, conteo, área de contraste y visibilidad
 - 5 veces más llamativas que las pestañas descubiertas
+- Fórmula a prueba de manchas
+- Adecuado para usuarios de lentes de contacto
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B076Q9BRLN{{</world>}}

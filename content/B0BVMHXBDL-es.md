@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- NOTAS DE PRUEBA: Con un sabor marcado y aromático.
-- FORMATO: 220 gr
-- ORIGEN: Un blend equilibrado que combina distintas variedades de café, resultando en una bebida de calidad excepcional, con un sabor marcado y aromático.
 - PERFIL SENSORIAL: Café que combina distintas variedades de café; Aroma 10/15, cuerpo 12/15, acidez 12/15, intensidad 12/15
+- ORIGEN: Un blend equilibrado que combina distintas variedades de café, resultando en una bebida de calidad excepcional, con un sabor marcado y aromático.
 - INTENSIDAD: 12
+- FORMATO: 220 gr
+- NOTAS DE PRUEBA: Con un sabor marcado y aromático.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BVMHXBDL{{</world>}}

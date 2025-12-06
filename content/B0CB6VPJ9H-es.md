@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PROTECCIÓN DEL TINTE: Esta mascarilla hidratante se aplica una vez a la semana para conservar la vitalidad del color - Productos Wella Professionals, ¡un regalo perfecto para la mujer y su cabello!
 - MASCARILLA CAPILAR: Tratamiento hidratante que energiza las fibras capilares del cabello - diseñada para proteger y realzar la vitalidad del color en cabellos teñidos, secos y dañados - Mascarilla para cabellos finos y normales.
 - CUIDADO DEL CABELLO: Utilíza esta mascarilla junto con el champú y el acondicionador Color Brilliance para un cuidado completo del cabello.
+- PROTECCIÓN DEL TINTE: Esta mascarilla hidratante se aplica una vez a la semana para conservar la vitalidad del color - Productos Wella Professionals, ¡un regalo perfecto para la mujer y su cabello!
 - COLOR VIBRANTE: El Purificador de Metales protege el cabello de los metales nocivos presentes en el agua y ayuda a mantener la vitalidad.
 - SUAVIDAD: Enriquecido con Caviar de Lima, con antioxidantes y Vitamina E para un acabado más suave y brillante.
 

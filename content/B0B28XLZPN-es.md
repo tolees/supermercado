@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto de calidad óptima
-- Agradable sensación en la piel
 - Gel de ducha antiestrés
+- Agradable sensación en la piel
+- Producto de calidad óptima
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B28XLZPN{{</world>}}

@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - HIDRATACIÓN ÚTIL: La mascarilla capilar de gelatina hidrata el cabello a la vez que proporciona protección contra la pérdida de color
 - SALUD DEL CUERO CABELLUDO: Cuando se utiliza junto con el Color Protective Micellar Shampoo, la mascarilla capilar protectora del color respeta, equilibra y protege el microbioma del cuero cabelludo
-- FÁCIL DE USAR: Para mantener el color radiante y cuidar el cabello, aplica la mascarilla desde medios a puntas y deja actuar de 3 a 5 minutos antes de enjuagar
-- ANTI-PÉRDIDA DE COLOR: La mascarilla capilar para cabellos teñidos combina antioxidantes naturales como el açai para proteger y mantener el color del cabello
 - CALIDAD PROFESIONAL DE SALÓN: Desarrollada por Revlon Professional para resultados de alto rendimiento en casa; adecuada para uso regular
+- ANTI-PÉRDIDA DE COLOR: La mascarilla capilar para cabellos teñidos combina antioxidantes naturales como el açai para proteger y mantener el color del cabello
+- FÁCIL DE USAR: Para mantener el color radiante y cuidar el cabello, aplica la mascarilla desde medios a puntas y deja actuar de 3 a 5 minutos antes de enjuagar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B091BHWMCN{{</world>}}

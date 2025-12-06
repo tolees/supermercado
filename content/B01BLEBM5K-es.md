@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mejora la apariencia de la piel incluso en varices
-- Relajante para piernas y pies
-- Árnica 100% natural
 - Poder refrescante
+- Mejora la apariencia de la piel incluso en varices
+- Árnica 100% natural
+- Relajante para piernas y pies
 - Tonifica y rejuvenece
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

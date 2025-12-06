@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fórmula vegana
 - Acabado radiante e impecable
-- Viene con un gran aplicador de tacto suave para una aplicación fácil e impecable
 - Prebase, potenciador de brillo e iluminador 3 en 4
+- Fórmula vegana
+- Viene con un gran aplicador de tacto suave para una aplicación fácil e impecable
 - Con biopéptidos, vitaminas C y E, revitaliza y nutre la piel
 
 [🛒 Visítala!!!]({{< param buyurl >}})

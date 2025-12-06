@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Rellena tu botella de champú con este envase y ahorra un 73% de plástico**.
 - Reparación definitiva para cabellos dañados y secos. Resultados probados: El champú resurge visiblemente el cabello dañado con un tacto muy ligero y suave que resulta en un 77%* menos de daño en la superficie de la fibra.
+- Rellena tu botella de champú con este envase y ahorra un 73% de plástico**.
 - *Test instrumental con el Champú + Mascarilla después de 5 aplicaciones. **vs botella de 500ml tradicional.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

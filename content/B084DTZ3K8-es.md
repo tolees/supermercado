@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100% Pollo
-- Adecuadas para premiar a tu perrito en momentos especiales
 - Snacks saludables y sabrosos adaptados para perros de todos los tamaños y edades
+- Adecuadas para premiar a tu perrito en momentos especiales
+- 100% Pollo
 - Bocaditos de pollo liofilizados para una conservación de nutrientes
 - Hasta 5 unidades al dia por cada 10kg de peso
 

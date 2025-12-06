@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño de la botella elegante
 - Fragancia floral para mujer
+- Diseño de la botella elegante
 - Pulverizar sobre la ropa o sobre la piel
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Especialmente concebido para cabello teñido o con mechas: lava con suavidad, nutre y protege la fibra capilar frente a las agresiones exteriores. *Derivado de Vitamina C.
-- Recarga Ecopack de Champú Protector para pelo teñido 500ml de Elvive Color Vive.
-- Champú protector con Vitamina Cg Pura* y filtro UV para un color intenso y duradero.
-- Nutre, Protege y Fija el color con Vitamina Cg Pura Y filtro UV para un color intenso y duradero.
 - Recarga reciclable de 500ml del Champú Elvive Color Vive Ecopack con un 60% menos de plástico.
+- Nutre, Protege y Fija el color con Vitamina Cg Pura Y filtro UV para un color intenso y duradero.
+- Champú protector con Vitamina Cg Pura* y filtro UV para un color intenso y duradero.
+- Recarga Ecopack de Champú Protector para pelo teñido 500ml de Elvive Color Vive.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FBXDCS2B{{</world>}}

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Nuestro Gin Gimlet es muy fácil de preparar y de servir: tan solo tienes que agitarlo con hielo para crear tu cóctel favorito
+- Estos cócteles ya preparados son óptimos para crear momentos inolvidables en casa con los amigos, en cualquier ocasión; óptimos para sacudir el ambiente y hacer que cualquier día sea especial
 - Una botella de Tails Cocktails contiene 4 cócteles premezclados de categoría profesional, fáciles de hacer en un momento; son divertidos de preparar y de compartir
 - El Gin Gimlet de Tails Cocktails combina la ginebra BOMBAY SAPPHIRE con el refrescante sabor de la lima y un toque de licor floral
-- Estos cócteles ya preparados son óptimos para crear momentos inolvidables en casa con los amigos, en cualquier ocasión; óptimos para sacudir el ambiente y hacer que cualquier día sea especial
 - El Gin Gimlet fue creado en colaboración con mixólogos expertos y es óptimo para completar cualquier kit de coctelería de regalo para amantes de la buena vida
 - Los Tails Cocktails se elaboran con maestría con los ingredientes de calidad; el Gin Gimlet contiene: ginebra BOMBAY SAPPHIRE, zumo de lima y licor de flor de saúco
 

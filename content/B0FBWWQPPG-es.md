@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Café Cultivado en altura, cada grano ofrece una complejidad natural única. Su aroma te transporta a montañas lejanas con una taza envolvente. Ideal para quienes valoran lo auténtico y exótico en cada sorbo. Disfruta una experiencia sensorial que no olvidarás jamás.
-- Tueste natural y artesanal. Procesado de forma tradicional para conservar la esencia del grano. El tueste natural libera sabores sin saturar ni perder aromas. Aporta cuerpo redondo, textura sedosa y persistencia en boca. Ideal para quienes buscan autenticidad sin aditivos ni mezclas. Una experiencia cafetera pura y sin distracciones.
-- Notas Cata: Caramelo, Chocolate y Fruta Madura Altitud: 1300 VSA: 96 Tueste: 5 Intensidad: 9 Sabor: 9 Aroma: 9 Cuerpo: 9 Acidez: 9 Origen: Brasil, São Paulo-Baixa Mogiana, Rancho Grande Variedad: 100% Arabica, Bourbon Proceso: Natural
-- Sabor suave con toques equilibrados. Una armonía perfecta que acarician el paladar. El equilibrio perfecto sorprende en cada taza. Perfecto para cafés filtrados, espresso o prensa francesa. Convierte tu momento de café en un ritual gourmet diario.
-- Presentación elegante y funcional Empaque hermético con diseño moderno y distintivo de alta calidad. Conserva frescura y aroma por más tiempo gracias a su sellado profesional. Ideal para regalar o disfrutar en casa u oficina con estilo.
 - 100% Arabica con intensidad equilibrada. Granos seleccionados con puntuación superior al 80 para máxima calidad. Una bebida que energiza con elegancia, sin agresividad. Café con cafeína natural para comenzar el día con buen ritmo. Una opción premium para paladares exigentes.
+- Sabor suave con toques equilibrados. Una armonía perfecta que acarician el paladar. El equilibrio perfecto sorprende en cada taza. Perfecto para cafés filtrados, espresso o prensa francesa. Convierte tu momento de café en un ritual gourmet diario.
+- Tueste natural y artesanal. Procesado de forma tradicional para conservar la esencia del grano. El tueste natural libera sabores sin saturar ni perder aromas. Aporta cuerpo redondo, textura sedosa y persistencia en boca. Ideal para quienes buscan autenticidad sin aditivos ni mezclas. Una experiencia cafetera pura y sin distracciones.
+- Presentación elegante y funcional Empaque hermético con diseño moderno y distintivo de alta calidad. Conserva frescura y aroma por más tiempo gracias a su sellado profesional. Ideal para regalar o disfrutar en casa u oficina con estilo.
+- Notas Cata: Caramelo, Chocolate y Fruta Madura Altitud: 1300 VSA: 96 Tueste: 5 Intensidad: 9 Sabor: 9 Aroma: 9 Cuerpo: 9 Acidez: 9 Origen: Brasil, São Paulo-Baixa Mogiana, Rancho Grande Variedad: 100% Arabica, Bourbon Proceso: Natural
+- Café Cultivado en altura, cada grano ofrece una complejidad natural única. Su aroma te transporta a montañas lejanas con una taza envolvente. Ideal para quienes valoran lo auténtico y exótico en cada sorbo. Disfruta una experiencia sensorial que no olvidarás jamás.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FBWWQPPG{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Esta caja contiene 18 tabletas Jungly
-- Deliciosa tableta de chocolate negro y crujiente galleta Jungly
 - Vuelve la diversión con Nestlé Jungly, ahora con chocolate Negro
-- Con un irresistible chocolate Negro y crujiente galleta, disfruta del divertido retorno de Jungly
+- Deliciosa tableta de chocolate negro y crujiente galleta Jungly
+- Esta caja contiene 18 tabletas Jungly
 - 100% Cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan; certificado Rainforest Alliance
+- Con un irresistible chocolate Negro y crujiente galleta, disfruta del divertido retorno de Jungly
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BSFXNQMF{{</world>}}

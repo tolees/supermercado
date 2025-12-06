@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La siguiente información se aplica a cada unidad del paquete
-- Los comprimidos del Edulcorante Stevia de Castello since 1907 son una alternativa natural y saludable al azúcar que no afecta a tus niveles de glucosa, insulina, colesterol, triglicéridos o electrolitos, gracias a su índice glucémico de aproximadamente cero, ya que no se absorbe en el intestino delgado.
 - Es un edulcorante sin calorías y sin carbohidratos.
-- ¿Buscas un edulcorante sin calorías para sustituir el azúcar sin sacrificar la dulzura natural? Prueba el edulcorante de Stevia en comprimidos de Castello since 1907. Utilízalo en tu bebida caliente favorita. Se disuelve perfectamente en tu café o té caliente.
 - 1 comprimido del producto equivale a 1 cucharadita de azúcar (4g). Un dispensador tiene 150 comprimidos -> 150 cucharaditas de azúcar.
+- Los comprimidos del Edulcorante Stevia de Castello since 1907 son una alternativa natural y saludable al azúcar que no afecta a tus niveles de glucosa, insulina, colesterol, triglicéridos o electrolitos, gracias a su índice glucémico de aproximadamente cero, ya que no se absorbe en el intestino delgado.
+- ¿Buscas un edulcorante sin calorías para sustituir el azúcar sin sacrificar la dulzura natural? Prueba el edulcorante de Stevia en comprimidos de Castello since 1907. Utilízalo en tu bebida caliente favorita. Se disuelve perfectamente en tu café o té caliente.
 - Es perfecto para dietas especiales como la dieta cetogénica, la dieta para la candidiasis y dietas para atletas.
+- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DN6TMTQT{{</world>}}

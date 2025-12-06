@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Complemento alimenticio
 - Aboca
+- Complemento alimenticio
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0953ZN5PF{{</world>}}

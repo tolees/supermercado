@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- FIELES A NUESTRA TRADICIÓN: Nos mantenemos fieles a una tradición centenaria en la producción de conservas. Cada lata de pescado es un testimonio de nuestro compromiso con la excelencia y el respeto por nuestras raíces andaluzas.
-- EL MEJOR SABOR EN UN PACK: Incluye 8 unidades (3 latas) de atún en aceite de oliva, para que puedas disfrutar del mejor sabor de Andalucía.
 - CONSERVAS COMPLETAMENTE NATURALES: Producido en España, TEJERO se enorgullece de ofrecer conservas de pescado totalmente naturales, sin conservantes ni aditivos.
-- EL ATÚN EN CONSERVA DE SIEMPRE: Ofrecemos el Atún en aceite de oliva con el sabor de siempre y del sur de España
 - ELABORACIÓN ARTESANAL: Cada lata TEJERO se produce con dedicación, asegurando una degustación única. Incluimos solo ingredientes naturales: atún, aceite de oliva y sal.
+- EL ATÚN EN CONSERVA DE SIEMPRE: Ofrecemos el Atún en aceite de oliva con el sabor de siempre y del sur de España
+- EL MEJOR SABOR EN UN PACK: Incluye 8 unidades (3 latas) de atún en aceite de oliva, para que puedas disfrutar del mejor sabor de Andalucía.
+- FIELES A NUESTRA TRADICIÓN: Nos mantenemos fieles a una tradición centenaria en la producción de conservas. Cada lata de pescado es un testimonio de nuestro compromiso con la excelencia y el respeto por nuestras raíces andaluzas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07JC18HY4{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se puede servir solo, con hielo o en una gama de bebidas y cócteles
-- Mezcla de whiskies añejados durante un mínimo de 12 años
-- Color miel dorado
 - El acabado es duradero, refrescante y dulce
+- Mezcla de whiskies añejados durante un mínimo de 12 años
+- Se puede servir solo, con hielo o en una gama de bebidas y cócteles
+- Color miel dorado
 - Con notas florales, y un cremoso toque de roble
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

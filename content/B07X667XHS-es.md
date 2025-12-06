@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El color oscuro de la botella protege el aceite de la oxidación y conserva su sabor natural
+- Apto especial para carnes a la parrilla, con verduras y sopas
 - Cultivado y prensado en frío en Italia con aceitunas de la zona
 - Visite nuestra BRAND STORE para descubrir toda la selección Le Terre di Colombo; enlace directo debajo del título del producto
-- Apto especial para carnes a la parrilla, con verduras y sopas
+- El color oscuro de la botella protege el aceite de la oxidación y conserva su sabor natural
 - Sabor afrutado y equilibrado que combina hierbas aromáticas y notas de tomates verdes que le dan un toque especiado
 - Botella de 750 ml con estrías y tapón mecánico
 

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- No contiene azúcar
 - Se recomienda servir frio
-- Es una bebida dulce
 - Para disfrutar en cualquier momento del día, lugar y ocasión
 - Bebida refrescante con sabor a cola
+- No contiene azúcar
+- Es una bebida dulce
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C37MBDXC{{</world>}}

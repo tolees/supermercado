@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La frescura duradera que todos quieren]
 - Actúa como escudo protector contra las manchas blancas y amarillentas
+- La frescura duradera que todos quieren]
 - Dile adiós a los malos olores durante 48 horas
 - [Old Spice Deep Sea, con aroma a mar abierto, flores y notas cítricas, te hará inolvidable: te convertirás prácticamente en el centro del universo
 

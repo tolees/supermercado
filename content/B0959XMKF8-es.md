@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aplicar en cabello húmedo, repartiendo de forma uniforme. Emulsionar y aclarar.
 - Para un cabello fortalecido y reparado al instante. Repara y fortalece las áreas más dañadas del cabello.
+- Aplicar en cabello húmedo, repartiendo de forma uniforme. Emulsionar y aclarar.
 - Champú Reparador y fortalecedor de las áreas más dañadas del cabello con proteína de quínoa dorada para cabello muy dañado y debilitado. El cabello queda instantáneamente reconstruido y transformado desde el interior.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

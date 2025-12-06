@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - De la marca Haribo
 - Geles dulces sabor fresa
-- Irresistible sabor a fresa-nata
 - Deliciosas piezas en forma de ladrillos recubiertos de pica
+- Irresistible sabor a fresa-nata
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0716HDRSW{{</world>}}

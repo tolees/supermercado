@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - [Equinácea, Saúco, Própolis, Zinc, Vitaminas C y D] Contribuyen al normal funcionamiento del sistema inmunitario
-- [Recomendaciones] No superar la dosis diaria recomendada. Los complementos alimenticios no deben utilizarse como sustitutos de una dieta variada y equilibrada. Mantener fuera del alcance de los niños más pequeños
 - [Modo de empleo] Tomar 2 gummies al día a lo largo de la mañana. Deben ser masticados hasta que se deshagan y no tragarlos enteros
-- [Inmunidad Gummies] Complemento alimenticio en formato de gominolas con sabor a frambuesa, que contribuyen al normal funcionamiento del sistema inmunitario. No contiene lactosa, gluten, soja, frutos de cáscara, ni huevo. Apto para hombres y mujeres
 - [Ayuda adicional] Son una ayuda adicional para tu sistema inmune, siendo ideales para épocas de mayor vulnerabilidad, como los cambios de estación o períodos de estrés
+- [Inmunidad Gummies] Complemento alimenticio en formato de gominolas con sabor a frambuesa, que contribuyen al normal funcionamiento del sistema inmunitario. No contiene lactosa, gluten, soja, frutos de cáscara, ni huevo. Apto para hombres y mujeres
+- [Recomendaciones] No superar la dosis diaria recomendada. Los complementos alimenticios no deben utilizarse como sustitutos de una dieta variada y equilibrada. Mantener fuera del alcance de los niños más pequeños
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CWPN6Y8V{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mahou Cinco Estrellas en pack de 24 latas de 33 centilitros cada una y 5.5% de alcohol.
 - El aroma principal es afrutado suave y fresco, a plátano y manzana, con cierta fragancia seca y un toque a levadura, apreciándose también notas florales del lúpulo al beber. En boca, tiene fuerza, consistencia y resulta muy equilibrada, con un amargor moderado y una ligera acidez.
-- Para un mayor disfrute se recomienda consumir entre 4º y 6º C.
+- Mahou Cinco Estrellas en pack de 24 latas de 33 centilitros cada una y 5.5% de alcohol.
 - Mahou 5 Estrellas está elaborada con las mejores variedades de lúpulo y levadura, además de agua y malta, dando lugar al sabor cervecero de siempre, al de toda la vida.
 - Cerveza dorada y brillante, de espuma cremosa y consistente, con un sabor característico, moderado y fino.
+- Para un mayor disfrute se recomienda consumir entre 4º y 6º C.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B072KKWT3H{{</world>}}

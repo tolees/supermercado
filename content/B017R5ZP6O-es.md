@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Modelos patentados para realizar tabletas con formas originales
 - Adecuado para el contacto con alimentos
+- Modelos patentados para realizar tabletas con formas originales
 - Tamaño molde 200X120X22MM
 - Moldes profesionales, realizados de policarbonato, un material que permite obtener chocolates brillantes y perfectos
 

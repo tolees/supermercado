@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Surtidos de galletas modelo Campurrianas - Cuétara
 - Campurrianas - Cuétara de la marca Cuétara
+- Surtidos de galletas modelo Campurrianas - Cuétara
 - Cuétara. Los productos de esta marca están fabricados con los materiales de la mejor calidad.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Un snack para fiestas y cumpleaños
-- Sin aceite de palma y sin conservantes ni colorantes artificiales
-- Elaborados con jamón y tomate
 - Snacks horneados con ingredientes naturales
+- Elaborados con jamón y tomate
+- Sin aceite de palma y sin conservantes ni colorantes artificiales
 - Fuente de fibra
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Son fuente de fibra, no contienen aceite de palma, ni colorantes, ni aromas artificiales
-- Cada estuche contiene, aproximadamente, 12 porciones de 30 g
 - Deliciosos copos de trigo integral, arroz y avena integral, recubiertos de chocolate negro (36 %) y con vitaminas del grupo B (B2, B3, B5 y B6) que contribuyen al metabolismo energético normal
+- Cada estuche contiene, aproximadamente, 12 porciones de 30 g
 - Cereales integrales como ingrediente número 1
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

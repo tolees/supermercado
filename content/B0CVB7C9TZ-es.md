@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Application Techniques: Proper application techniques can enhance the products effectiveness (e.g., using a beauty blender for foundation, layering skincare).
 - Skin Types: Choose products based on your skin type (oily, dry, combination, sensitive) for better results.
+- Application Techniques: Proper application techniques can enhance the products effectiveness (e.g., using a beauty blender for foundation, layering skincare).
 - Hygiene: Keep applicators and tools clean to prevent bacteria buildup that can cause breakouts.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

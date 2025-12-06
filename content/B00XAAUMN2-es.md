@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El producto está hecho sin conservantes
-- Preparación rápida y fácil en 15 minutos
-- Incluye tortillas, paquete de condimentos y salsa
 - El sabor es de barbacoa original con especias suaves
+- Incluye tortillas, paquete de condimentos y salsa
+- Preparación rápida y fácil en 15 minutos
+- El producto está hecho sin conservantes
 - Conservar en lugar fresco y seco
 
 [🛒 Visítala!!!]({{< param buyurl >}})

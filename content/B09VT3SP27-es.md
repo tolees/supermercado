@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- SÚTIL Y DELICADO: La mezcla de estos granos y su proceso de tueste confieren al café un toque suave y aromático.
+- CAFÉ ESPRESSO, RISTRETTO O LUNGO: Con este café podrás preparar un espresso, café negro corto que se disfruta solo o con base de leche como el capuchino o el latte. Un ristretto, una versión más concentrada de un espresso, con menos agua y la misma cantidad de café. O un café lungo, la misma cantidad de café pero el doble de agua que un espresso.
 - 1 PAQUETE DE 500 GRAMOS: 500 gramos de café en grano listo para ser molido en tu máquina de café superautomática. Una vez molido, podrá ser utilizado en cualquier cafetera.
 - CAFÉ SOSTENIBLE: Trabajamos junto a UTZ (Rainforest Alliance) para asegurarnos de que cada variedad de café L’OR se elabora con granos de café de la mas alta calidad y promoviendo prácticas sostenibles.
+- SÚTIL Y DELICADO: La mezcla de estos granos y su proceso de tueste confieren al café un toque suave y aromático.
 - INTENSIDAD 6: Café en grano 100 % arábica de tueste natural y orgánico suave y cremoso.
-- CAFÉ ESPRESSO, RISTRETTO O LUNGO: Con este café podrás preparar un espresso, café negro corto que se disfruta solo o con base de leche como el capuchino o el latte. Un ristretto, una versión más concentrada de un espresso, con menos agua y la misma cantidad de café. O un café lungo, la misma cantidad de café pero el doble de agua que un espresso.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09VT3SP27{{</world>}}

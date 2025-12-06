@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con un corte más grueso para conseguir una crujiente textura
-- Sin aceite de palma
-- Corte más grueso
-- Apto para compartir
 - Patatas fritas con aceite de oliva
+- Sin aceite de palma
+- Apto para compartir
+- Corte más grueso
+- Con un corte más grueso para conseguir una crujiente textura
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DT9RDJHF{{</world>}}

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cada caja contiene 3 sobres de 240g
-- Versatilidad para preparar diversas recetas
-- Sin gluten
-- Para uso profesional
-- Mousse deshidratado con sabor a Chocolate
 - Fácil de preparar
+- Versatilidad para preparar diversas recetas
+- Cada caja contiene 3 sobres de 240g
+- Sin gluten
+- Mousse deshidratado con sabor a Chocolate
+- Para uso profesional
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00XA98SVG{{</world>}}

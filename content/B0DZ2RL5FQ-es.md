@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Testado por pediatras y dermatólogos. Alta tolerancia dermatologica, incluso en pieles muy sensibles, dermatitis atópica o costra láctea
-- Limpieza suave. Gel y champú 2 en 1 que limpia con suavidad la piel y el cabello del bebé gracias a sus tensioactivos naturales a base de plantas. Extra suave con los ojos
-- Aceite de almendra y sésamo orgánicos. Aportan hidratación, suavidad y flexibilidad, dejando la piel sedosa y el cabello fácil de peinar
 - Con Caléndula BIO calmante. El extracto de caléndula orgánica cuida y protege la piel delicada del bebé, ayudando a prevenir la sequedad e irritación
+- Limpieza suave. Gel y champú 2 en 1 que limpia con suavidad la piel y el cabello del bebé gracias a sus tensioactivos naturales a base de plantas. Extra suave con los ojos
+- Testado por pediatras y dermatólogos. Alta tolerancia dermatologica, incluso en pieles muy sensibles, dermatitis atópica o costra láctea
 - Natural y vegano. Sin jabón, fragancias sintéticas, colorantes, conservantes, microplásticos ni aceites minerales. Aroma suave y floral que aporta sensación de bienestar
+- Aceite de almendra y sésamo orgánicos. Aportan hidratación, suavidad y flexibilidad, dejando la piel sedosa y el cabello fácil de peinar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DZ2RL5FQ{{</world>}}

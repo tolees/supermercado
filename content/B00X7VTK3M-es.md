@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- MODO DE EMPLEO: Para lavar a máquina, sigue las indicaciones de la etiqueta según la suciedad y dureza del agua. Para lavado a mano, añade 20ml de jabón en 3.5L de agua fría, deja la ropa en remojo durante unos minutos, aclara con agua y escurre.
 - MÚLTIPLES BENEFICIOS: Este jabón es perfecto para la limpieza de ropa de bebé y prendas delicadas, respetando y protegiendo pieles sensibles o con problemas dérmicos. Está formulado con extracto de aloe vera, el cual brinda hidratación y calma.
 - SOBRE NOSOTROS: En Biobel fabricamos artesanalmente jabones naturales, donde combinamos la tradición e innovación. Ofrecemos soluciones respetuosas con el medioambiente y la salud de las personas. Contamos con certificaciones ISO 9001 y Ecocert.
-- JABÓN DE COCO: Nuestro jabón natural de aceite de coco es ideal para lavar a mano o a máquina todo tipo de prendas, logrando una limpieza profunda y una gran suavidad. Al ser un producto 2 en 1, no necesita suavizante y no daña las fibras.
 - INGREDIENTES NATURALES: Utilizamos ingredientes 100% vegetales y naturales respetando la salud y el entorno. Sin petroquímicos, etoxilados, enzimas, aceite de palma, ni conservantes sintéticos. Apto para veganos y personas con piel sensible.
-- MODO DE EMPLEO: Para lavar a máquina, sigue las indicaciones de la etiqueta según la suciedad y dureza del agua. Para lavado a mano, añade 20ml de jabón en 3.5L de agua fría, deja la ropa en remojo durante unos minutos, aclara con agua y escurre.
+- JABÓN DE COCO: Nuestro jabón natural de aceite de coco es ideal para lavar a mano o a máquina todo tipo de prendas, logrando una limpieza profunda y una gran suavidad. Al ser un producto 2 en 1, no necesita suavizante y no daña las fibras.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00X7VTK3M{{</world>}}

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - 🔹 Notas de corazón: Cacao seductor, nuez moscada especiada y la intensidad aromática de Davana
 - 🔹 Notas de salida: Lavanda, ciruela Mirabel y un toque vibrante de pimienta rosa
-- ✔️Perfecto para quienes buscan un aroma intenso, masculino y duradero, ideal para cualquier ocasión. ¡Atrévete a destacar con Asad Bourbon!
 - 🔹 Notas de fondo: La calidez de la vainilla Bourbon, el toque sofisticado del ámbar y la profundidad del vetiver
+- ✔️Perfecto para quienes buscan un aroma intenso, masculino y duradero, ideal para cualquier ocasión. ¡Atrévete a destacar con Asad Bourbon!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQJBMZVW{{</world>}}

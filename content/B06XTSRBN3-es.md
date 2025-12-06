@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Complemento alimenticio que ayuda a reducir digestiones pesadas, gases, hinchazón y sensación de náuseas.
 - Modo de empleo: Tomar 2 comprimidos masticables tras la comida.
+- Uso recomendado para mayores de 12 años.
+- Complemento alimenticio que ayuda a reducir digestiones pesadas, gases, hinchazón y sensación de náuseas.
 - Composición: Calcio 539mg, enzimas digestivas 75mg, Hinojo 96mg, Papaya 25mg.
 - Contiene Hinojo, planta comunmente utilizada por sus beneficios ya que ayuda a reducir la sensación de hinchazón y gases. Además, la Papaya contribuye al bienestar digestivo y Jengibre que ayuda a reducir la sensación de náuseas asociada a la mala digestión.
-- Uso recomendado para mayores de 12 años.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B06XTSRBN3{{</world>}}

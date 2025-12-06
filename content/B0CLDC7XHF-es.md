@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Barrita de cereales integrales, como ingrediente n°1.
 - Barritas Nestlé Fitness 0% azúcares añadidos y rico en proteína.
-- Fitness Proteína, tu barrita de cereales Nestlé con avena, trigo y quinoa integrales, cuidadosamente seleccionados
+- Barrita de cereales integrales, como ingrediente n°1.
 - Barritas de proteinas sin azúcar, con un delicioso sabor a cacao
+- Fitness Proteína, tu barrita de cereales Nestlé con avena, trigo y quinoa integrales, cuidadosamente seleccionados
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CLDC7XHF{{</world>}}

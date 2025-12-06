@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conservar en lugar fresco y seco
-- Se disuelve en agua o leche
-- La siguiente información se aplica a cada unidad del paquete
 - Ideal para el desayuno o una pausa durante el día
-- Fácil y rápido de preparar
+- Conservar en lugar fresco y seco
+- La siguiente información se aplica a cada unidad del paquete
+- Se disuelve en agua o leche
 - Viene en un recipiente de vidrio
+- Fácil y rápido de preparar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DP4YNHV1{{</world>}}

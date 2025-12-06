@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los caramelos redondos masticables están formados por una crujiente capa exterior y un núcleo interior blando que hace ese típico crujido al morderlo y está buenísimo.
 - Caramelos masticables hechos con ingredientes naturales, zumo de frutas y colorantes naturales.
+- Ideal para llevar siempre contigo y para cualquier ocasión: en casa, momento peli, en la calle, en la oficina, en fiestas y entre horas como snack. Perfectos para compartir.
 - Caramelo masticable Mentos Fruit. Delicioso mix de safores frutales: fresa, naranja y limón. El producto contiene 20x38 gr. de caramelos masticables en un envase único y práctico.
+- Los caramelos redondos masticables están formados por una crujiente capa exterior y un núcleo interior blando que hace ese típico crujido al morderlo y está buenísimo.
 - El envase práctico cabe en cualquier bolso o bolsillo del pantalón. Fácil de usar y listo para que lo saborees. ¡Que no te falten Mentos en casa ni en el bolsillo!
 - Descubre más sobre este y otros productos de Mentos más abajo.
-- Ideal para llevar siempre contigo y para cualquier ocasión: en casa, momento peli, en la calle, en la oficina, en fiestas y entre horas como snack. Perfectos para compartir.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00I4SZYKG{{</world>}}

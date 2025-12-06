@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Las servilletas Scottex son ideales para todos los días.
 - Resistencia y suavidad todos los días en su mesa.
+- Las servilletas Scottex son ideales para todos los días.
 - Prácticas en la mesa, útiles en múltiples ocasiones.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

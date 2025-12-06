@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hidrata la piel en profundidad y aporta una placentera sensación de suavidad
 - Fortalece la resistencia de la piel madura contra la secuencia y aporta un confort duradero
+- Hidrata la piel en profundidad y aporta una placentera sensación de suavidad
 - Aplícatela regularmente sobre el rostro limpio y disfruta de una piel radiante
 - Revitaliza la piel del rostro y le devuelve su aspecto radiante
 - Adecuado para pieles maduras ya que reduce visiblemente las líneas finas y las arrugas en la cara

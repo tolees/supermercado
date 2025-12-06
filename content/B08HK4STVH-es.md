@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- NUTRICIÓN EXPERTA diseñada para lactantes sanos desde el nacimiento, cuando la lactancia materna no sea posible, que ayuda al desarrollo saludable proporcionando unas bases sólidas para su futuro.
 - 100% lactosa y sin aceite de palma.
 - Con OPTIPRO, una exclusiva combinación de proteínas. Un proceso tecnológico patentado para conseguir la calidad óptima de proteínas.
+- NUTRICIÓN EXPERTA diseñada para lactantes sanos desde el nacimiento, cuando la lactancia materna no sea posible, que ayuda al desarrollo saludable proporcionando unas bases sólidas para su futuro.
 - Con DHA, de acuerdo con lo requerido por la legislación 2016/127.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

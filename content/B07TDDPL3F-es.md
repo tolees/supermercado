@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - La hidratación dura hasta 24 horas.
 - Este labial se encarga de cuidar continuamente tus labios, que mejorarán de forma notable en 7 días.
 - Es ligero y muy fácil de poner; la tapa va suave y se puede poner bien.
-- Tiene una mezcla de agentes acondicionadores y antioxidantes entre los que se incluye la vitamina E.
 - El labial da color e hidratación con una sola pasada.
+- Tiene una mezcla de agentes acondicionadores y antioxidantes entre los que se incluye la vitamina E.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07TDDPL3F{{</world>}}

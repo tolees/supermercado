@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Resultado: color vibrante en una sola pasada para labios cubiertos de una suavidad colorida
-- Fórmula vegana cremosa y confortable compuesta por un 86% de ingredientes de origen natural, Enriquecida con manteca de cacao, Edición Verde: tubo fabricado con un 95% de plástico reciclado, Disponible en 12 tonos vibrantes
-- Barra de labios satinada con fórmula cremosa y pigmentada para una cobertura ligera y natural, Apto para todos los labios, incluso los más sensibles.
-- Aplicación: Aplicar desde el centro hacia el exterior de la boca, Usar un tono más claro en el centro de los labios para un efecto de volumen.
 - Contenido: 1 barra de labios Butter Cream Green Edition de Maybelline New York, tono: Sandy (14)
+- Aplicación: Aplicar desde el centro hacia el exterior de la boca, Usar un tono más claro en el centro de los labios para un efecto de volumen.
+- Barra de labios satinada con fórmula cremosa y pigmentada para una cobertura ligera y natural, Apto para todos los labios, incluso los más sensibles.
+- Fórmula vegana cremosa y confortable compuesta por un 86% de ingredientes de origen natural, Enriquecida con manteca de cacao, Edición Verde: tubo fabricado con un 95% de plástico reciclado, Disponible en 12 tonos vibrantes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BB89B3F8{{</world>}}

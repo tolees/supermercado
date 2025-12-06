@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Explora nuestra gama de productos
-- Rico en fibra, vitaminas y minerales
 - Los deliciosos cereales LION, están elaborados con cereales integrales como ingrediente principal, contienen vitaminas, minerales y un sabor único a chocolate y caramelo; irresistibles cereales crujientes, que encantan a mayores y pequeños, placer salvaje Cereales sin aceite de palma; comienza el día a lo grande con LION #LionStyle
 - Cereales integrales como ingrediente número 1
+- Explora nuestra gama de productos
+- Rico en fibra, vitaminas y minerales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09DZ4LMPN{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- // PROPIEDADES: Crema regeneradora y protectora que recupera la integridad de la piel dañada gracias a una potente combinación de activos regeneradores y cicatrizantes. Repara la piel agredida y restaura la barrera cutánea. Junto a activos antimicrobianos que la protegen de posibles infecciones cutáneas y un prebiótico que ayuda a mejorar las defensas.
 - // MODO DE EMPLEO: Body milk. Aplicar sobre la zona afectada tantas veces como sea necesario extendiéndolo con la yema del dedo hasta su completa absorción. No aplicar en heridas abiertas e infectadas.
-- // BENEFICIOS: 1) Centella Asiática con Acción cicatrizante y regeneradora. 2) Prebiótico que estimula el crecimiento de la flora cutánea beneficiosa en detrimento de la flora no deseada. Devolviendo el equilibrio a la piel. 3) Agente antimicrobiano que estimula las células inmunitarias de la piel y activa las vías antiinflamatorias como efecto protector de la barrera cutánea frente a agentes infecciosos. 4) Polisacáridos que proporciona hidratación inmediata. 5) Zinc Sulfato acción bactericida.
-- // INDICACIONES: Crema hidratante corporal/capilar piel seca. Emulsión reparadora multifunción indicado para pieles erosionadas que han perdido la integridad de la epidermis como irritaciones periorales, cortes, post-tatuajes... Procesos donde exista un riesgo de infección.
 - // PRESENTACIÓN: Nuestra crema regeneradora para la piel se presenta en una bote de 50ml. Airless.
+- // PROPIEDADES: Crema regeneradora y protectora que recupera la integridad de la piel dañada gracias a una potente combinación de activos regeneradores y cicatrizantes. Repara la piel agredida y restaura la barrera cutánea. Junto a activos antimicrobianos que la protegen de posibles infecciones cutáneas y un prebiótico que ayuda a mejorar las defensas.
+- // INDICACIONES: Crema hidratante corporal/capilar piel seca. Emulsión reparadora multifunción indicado para pieles erosionadas que han perdido la integridad de la epidermis como irritaciones periorales, cortes, post-tatuajes... Procesos donde exista un riesgo de infección.
+- // BENEFICIOS: 1) Centella Asiática con Acción cicatrizante y regeneradora. 2) Prebiótico que estimula el crecimiento de la flora cutánea beneficiosa en detrimento de la flora no deseada. Devolviendo el equilibrio a la piel. 3) Agente antimicrobiano que estimula las células inmunitarias de la piel y activa las vías antiinflamatorias como efecto protector de la barrera cutánea frente a agentes infecciosos. 4) Polisacáridos que proporciona hidratación inmediata. 5) Zinc Sulfato acción bactericida.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BR5ZLQC2{{</world>}}

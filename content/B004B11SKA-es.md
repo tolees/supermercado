@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- De color dorado
 - Toques de rico y suave chocolate con naranja
 - Aromas afrutados a naranja de naranja dulce y melocotón
 - Se puede usar para preparar cócteles
-- De color dorado
 - Notas de mazapán y nueces
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

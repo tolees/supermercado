@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Multipack de 10 Kit Kat
-- Sin colorantes, aromas y conservantes artificiales
-- Ideal para tomarte un respiro en cualquier momento
 - Cada porción contiene 109 calorías
+- Ideal para tomarte un respiro en cualquier momento
 - 4 barritas de crujiente galleta recubiertas de suave chocolate con leche
+- Sin colorantes, aromas y conservantes artificiales
+- Multipack de 10 Kit Kat
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01IUQVEIC{{</world>}}

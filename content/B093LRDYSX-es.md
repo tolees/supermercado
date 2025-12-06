@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Un refrescante jabón para las manos que envuelve sus manos en el fresco y encantador aroma de la delicada rosa silvestre; aplique sobre las palmas de las manos mojadas y aclare
 - En 2019, más del 85 % de nuestros productos estarán envasados en botellas y tubos de origen vegetal, lo que implica un menor uso de plásticos convencionales y mayores beneficios para el medio ambiente
 - Nuestros productos son de origen natural, veganos y cer-tificados por Ecocert Cosmos Organic según los estándares de COSMOS Organic
-- Los ingredientes hidratantes y de cuidado, como el aloe vera, ayudan a reponer e hidratar la piel
 - Con certificación orgánica, naturalmente
+- Los ingredientes hidratantes y de cuidado, como el aloe vera, ayudan a reponer e hidratar la piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B093LRDYSX{{</world>}}

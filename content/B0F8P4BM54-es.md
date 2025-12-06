@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Maquillaje: Bases, sombras, labiales y delineadores para realzar la belleza.
 - La siguiente información se aplica a cada unidad del paquete
 - Cuidado de la piel: Hidratantes, limpiadores, exfoliantes y sérums para una piel saludable.
 - Fragancias: Perfumes y colonias que ofrecen aromas únicos y atractivos.
 - Accesorios de belleza: Brochas, esponjas y herramientas para la aplicación de maquillaje.
+- Maquillaje: Bases, sombras, labiales y delineadores para realzar la belleza.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F8P4BM54{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aplicación fácil y rápida en una sola pasada
-- Gracias a la punta de alta precisión dibuja un trazo preciso, intenso y modulable
 - Forma ergonómica que se adapta a la forma de tu ojo
+- Gracias a la punta de alta precisión dibuja un trazo preciso, intenso y modulable
 - Perfilador líquido con trazo fino de color negro
+- Aplicación fácil y rápida en una sola pasada
 - Punta de pluma extra fina para conseguir un trazo más delicado y elegante
 
 [🛒 Visítala!!!]({{< param buyurl >}})

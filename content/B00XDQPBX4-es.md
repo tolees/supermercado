@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Edición gourmet
-- Producto envasado en atmósfera protectora
 - Conservar en lugar fresco y seco
+- Producto envasado en atmósfera protectora
+- Edición gourmet
 - Patatas fritas con sal
 - Sin colorantes artificiales
 

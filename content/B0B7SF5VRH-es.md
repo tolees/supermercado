@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 1. Limpieza suave del cabello y el cuero cabelludo
 - 5. Antirizaje
+- 1. Limpieza suave del cabello y el cuero cabelludo
 - 3. Máxima sedación y suavidad
 - 4. No daña el cabello
 - 2. Protege y cuida el cuero cabelludo

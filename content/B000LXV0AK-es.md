@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La receta con ingredientes naturales, sin colorantes ni conservantes añadidos, promueve una mayor resiliencia y favorece un crecimiento sano gracias a la mezcla de proteínas
 - Los mini gránulos se ablandan enseguida tiempo antes de hundirse lentamente, por lo que resultan idóneos para peces que se alimentan en la región media del acuario / Los mini gránulos fácilmente digeribles favorecen el agua limpia y de mejor calidad
 - La Lata resellable hecho de materiales reciclados protege los alimentos contra influencias nocivas como la luz solar, el aire y la humedad - preservando así los ingredientes importantes / Volumen de suministro: 1 x 100 ml de TetraMin Mini Granules
-- Mezcla alimenticia de gránulos pequeños para una alimentación variada, equilibrada y sana de para peces ornamentales más pequeños del acuario
 - Vitaminas, minerales, oligoelementos esenciales y prebióticos favorecen las funciones corporales de los peces y la conversión de los alimentos - esto garantiza la vitalidad y la intensidad de los colores
+- Mezcla alimenticia de gránulos pequeños para una alimentación variada, equilibrada y sana de para peces ornamentales más pequeños del acuario
+- La receta con ingredientes naturales, sin colorantes ni conservantes añadidos, promueve una mayor resiliencia y favorece un crecimiento sano gracias a la mezcla de proteínas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000LXV0AK{{</world>}}

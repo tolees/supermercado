@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Procedencia: AUSTRIA
-- Turrón de chocolate con leche y galletas oreo de la marca suchard, en una tableta de 260 g
+- Ingredientes: Turrón [azúcar, frutos de cáscara (ALMENDRAS molidas, AVELLANAS molidas) manteca de cacao, pasta de cacao, LECHE desnatada en polvo, suero de LECHE en polvo, grasa de LECHE, emulgente (lecitina de SOJA) aroma natural], galleta 20% [harina de TRIGO, azúcar, grasas vegetales (palma, palmiste) cacao desgrasado en polvo (6,6%) jarabe de glucosa y fructosa, almidón de TRIGO, gasificantes (carbonato ácido de potasio, carbonato ácido de amonio, carbonato ácido de sodio) sal, emulgentes (lecitina de SOJA, lecitina de girasol) aroma]; con chocolate con leche
 - Sabor: Navidad y fiestas
 - Elaborado con chocolate con leche de exquisito sabor que contrasta con los deliciosos trocitos de las galletas oreo
-- Alérgenos: contiene gluten, puede contener leche, frutos de cáscara y soja
-- El icono navideño por excelencia, esta vez con un relleno de galletas oreo, la combinación ideal para toda la familia
-- Advertencia de seguridad: Conservar en lugar fresco y seco; proteger de la luz
-- Ingredientes: Turrón [azúcar, frutos de cáscara (ALMENDRAS molidas, AVELLANAS molidas) manteca de cacao, pasta de cacao, LECHE desnatada en polvo, suero de LECHE en polvo, grasa de LECHE, emulgente (lecitina de SOJA) aroma natural], galleta 20% [harina de TRIGO, azúcar, grasas vegetales (palma, palmiste) cacao desgrasado en polvo (6,6%) jarabe de glucosa y fructosa, almidón de TRIGO, gasificantes (carbonato ácido de potasio, carbonato ácido de amonio, carbonato ácido de sodio) sal, emulgentes (lecitina de SOJA, lecitina de girasol) aroma]; con chocolate con leche
+- Procedencia: AUSTRIA
 - Conservar en lugar fresco y seco, proteger del calor
+- El icono navideño por excelencia, esta vez con un relleno de galletas oreo, la combinación ideal para toda la familia
+- Alérgenos: contiene gluten, puede contener leche, frutos de cáscara y soja
+- Turrón de chocolate con leche y galletas oreo de la marca suchard, en una tableta de 260 g
+- Advertencia de seguridad: Conservar en lugar fresco y seco; proteger de la luz
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0180Q6SHY{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Paquete de 3 rollos
+- 60 hojas por rollo
 - Fuerte y absorbente
 - Tejido estampado blanco
+- Paquete de 3 rollos
 - 14,4 m por rollo
-- 60 hojas por rollo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B077Q4LH6P{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Galleta para acompañar el café
 - Toque de canela y azúcar granulado
 - Crujientes
-- Galleta para acompañar el café
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B009JVLKL4{{</world>}}

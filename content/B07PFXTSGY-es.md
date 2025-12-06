@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Para disfrutar sólo con hielo, con agua o en formato trago largo con Ginger Ale. .
 - Suave. Cereales, malta, toffee, frutos secos tostados con vainilla. Un ligero toque de turba que perdura en la boca.
-- Origen: Miyagikyo/Yoichi
 - Graduación: 40% vol.
+- Origen: Miyagikyo/Yoichi
 - Ideal para tomar con aperitivos y entrantes.
+- Para disfrutar sólo con hielo, con agua o en formato trago largo con Ginger Ale. .
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07PFXTSGY{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- País de origen: España
 - Ingredientes: Harina de TRIGO (56%), agua, aceite vegetal (aceite girasol alto oleico)
 - Alérgenos: harina de trigo, cereales que contienen gluten
 - Mantener en un lugar fresco y seco
-- País de origen: España
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B082VV22QZ{{</world>}}

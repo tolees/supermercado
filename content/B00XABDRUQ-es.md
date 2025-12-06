@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Geles dulces
-- Modelo 0001653
-- Irresistible sabor a fresa
 - Deliciosas piezas en forma de spaghetti
+- Geles dulces
+- Irresistible sabor a fresa
+- Modelo 0001653
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XABDRUQ{{</world>}}

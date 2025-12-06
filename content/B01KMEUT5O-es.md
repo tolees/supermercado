@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Al extracto de Ginkgo.
 - Perfume energizante de notas marinas.
+- Al extracto de Ginkgo.
 - pH neutro para la piel.
 - Disfruta de una experiencia energizante para el cuerpo y el espíritu con Fa Cap Tonique.
 

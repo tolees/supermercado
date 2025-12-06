@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Como lo harías en casa.
 - Cocido en olla a fuego lento durante 3 horas.
 - Solo ingredientes naturales.
 - Sin lactosa, sin gluten y sin huevo.
-- Como lo harías en casa.
 - Envase reciclado.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

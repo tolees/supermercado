@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Suave al paladar, mantiene matices frescos y dulces de melón en un final largo y sabroso.
+- Ampersand Melón es un Ginebra Premium elaborado a partir de enebro y melón dulce.
 - Una sorprendente propuesta que resalta el sabroso y dulce aroma del melón para crear exquisitos combinados que evocan a verano.
 - 37.5º Vol.
 - Ampersand melón es perfecta para combinar con el toque ácido de un refresco de limón.
-- Ampersand Melón es un Ginebra Premium elaborado a partir de enebro y melón dulce.
-- Suave al paladar, mantiene matices frescos y dulces de melón en un final largo y sabroso.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07SM71YJD{{</world>}}

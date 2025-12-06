@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🌊 ORIGEN SOSTENIBLE: Elaboradas con sardinas seleccionadas de forma responsable, pescadas en aguas frías, garantizando una textura jugosa y una calidad excepcional.
-- 🚚Envío rápido garantizado: entrega en 14-24h para máxima frescura.
-- 🌱 100% NATURAL Y SIN ADITIVOS: Preparadas de forma artesanal, nuestras sardinas ahumadas en aceite son completamente naturales, sin conservantes ni aditivos. Disfruta del auténtico sabor del mar en cada bocado.
-- 🌟 CALIDAD GARANTIZADA: Producto premium cuidadosamente seleccionado y elaborado para brindarte lo mejor del mar en cada porción.
-- ✅ FÁCIL DE SERVIR: Solo abre la lata, coloca las sardinas y transforma tus ensaladas o aperitivos en una experiencia gourmet sin esfuerzo.
-- 🕒 LARGA CONSERVACIÓN: Gracias a su cuidadoso proceso de ahumado y envasado, nuestras sardinas en aceite mantienen su frescura y sabor durante mucho tiempo.
 - 🌊 Te invitamos a descubrir nuestra tienda Gourmet, donde podrás conocer nuestra historia y explorar una variada selección de conservas y salazones. En nuestro catálogo encontrarás productos como anchoas, anchoas en mantequilla líquida, bonito, bacalao, sardinas, mojama de atún, huevas, boquerones en vinagre, anchoas Revilla en mantequilla ecológica y lascas de oro de anchoas. Si estás buscando un regalo único y original, ¡estamos aquí para ayudarte! Tenemos opciones ideales para ocasiones especiales como el Día de la Madre, el Día del Padre, Navidad o aniversarios. Además, personalizamos tu lote según tu presupuesto y gustos.
+- 🌟 CALIDAD GARANTIZADA: Producto premium cuidadosamente seleccionado y elaborado para brindarte lo mejor del mar en cada porción.
+- 🌱 100% NATURAL Y SIN ADITIVOS: Preparadas de forma artesanal, nuestras sardinas ahumadas en aceite son completamente naturales, sin conservantes ni aditivos. Disfruta del auténtico sabor del mar en cada bocado.
+- 🌊 ORIGEN SOSTENIBLE: Elaboradas con sardinas seleccionadas de forma responsable, pescadas en aguas frías, garantizando una textura jugosa y una calidad excepcional.
+- 🕒 LARGA CONSERVACIÓN: Gracias a su cuidadoso proceso de ahumado y envasado, nuestras sardinas en aceite mantienen su frescura y sabor durante mucho tiempo.
+- 🚚Envío rápido garantizado: entrega en 14-24h para máxima frescura.
+- ✅ FÁCIL DE SERVIR: Solo abre la lata, coloca las sardinas y transforma tus ensaladas o aperitivos en una experiencia gourmet sin esfuerzo.
 - 🍽️ VERSÁTILES EN LA COCINA: Ideales para dar un toque único a tus platos. Perfectas para ensaladas, tapas, pastas, y guisos de inspiración marinera.
 - 😋 SABOR AUTÉNTICO Y AHUMADO: Descubre un sabor intenso y delicioso que lleva el alma de la tradición mediterránea directamente a tu mesa.
 

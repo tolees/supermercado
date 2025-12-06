@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ETIQUETAS: Este producto es apto para veganos y celíacos
-- El aceite de coco se digiere más rápido que otras grasas, por esta razón, su aporte energético es más eficaz. Los triglicéridos que lo forman se convierten en cuerpos cetónicos al descomponerse sus grasas para uso energético, por lo que, es ideal para incluir en nuestras recetas. Se puede freír a altas termperaturas, ya que sigue manteniendo todas sus propiedades y no se oxida
-- KETO. 100% Aceite de coco virgen extra procedente de Agricultura Ecológica
 - MODO DE USO: Listo para consumir
 - PROPIEDADES: Se obtiene de cocos procedentes de agricultura ecológica, por lo que se consigue un aceite con todo el sabor y las propiedades naturales del coco
+- ETIQUETAS: Este producto es apto para veganos y celíacos
+- KETO. 100% Aceite de coco virgen extra procedente de Agricultura Ecológica
+- El aceite de coco se digiere más rápido que otras grasas, por esta razón, su aporte energético es más eficaz. Los triglicéridos que lo forman se convierten en cuerpos cetónicos al descomponerse sus grasas para uso energético, por lo que, es ideal para incluir en nuestras recetas. Se puede freír a altas termperaturas, ya que sigue manteniendo todas sus propiedades y no se oxida
 - BENEFICIOS: El aceite de coco es utilizado para cocinar, freír y hornear tus recetas gracias a que éste, no se adultera ni se vuelve tóxico a altas temperaturas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

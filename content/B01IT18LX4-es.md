@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Conservar en lugar fresco y seco, proteger del calor
-- Alérgenos: contiene gluten y almendras, puede contener leche, frutos de cáscara y soja
-- El icono navideño por excelencia relleno de almendra tostada entera, es sabor más crujiente para una experiencia deliciosa
 - Elaborado con chocolate con leche de exquisito sabor que contrasta el sabor más crujiente de la almendra tostada
 - Turrón de chocolate con leche y almendras enteras la marca suchard, en una tableta de 260 g
+- El icono navideño por excelencia relleno de almendra tostada entera, es sabor más crujiente para una experiencia deliciosa
+- Alérgenos: contiene gluten y almendras, puede contener leche, frutos de cáscara y soja
+- Conservar en lugar fresco y seco, proteger del calor
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01IT18LX4{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CARACTERÍSTICAS: El tueste prolongado resalta las notas aromáticas de maderas nobles, otorgando a este espresso un sabor fuerte y persistente. Su retrogusto envolvente y prolongado lo hace ideal para quienes desean un café intenso y rico
 - SOSTENIBILIDAD: Gimoka apuesta por la producción responsable del café, reduciendo el impacto ambiental y garantizando un producto de calidad que respeta los recursos naturales
 - CONTENIDO: Paquete con 50 cápsulas de café tostado y molido, envasado en atmósfera protectora para preservar la frescura y el aroma. Las cápsulas son compatibles con las máquinas de café Nespresso de uso doméstico
-- GIMOKA: Tostadora italiana con 40 años de historia, selecciona café de 17 países para más de 90 mezclas. Con 3 plantas, ofrece café en grano, molido, monodosis y cápsulas compatibles, llevando el auténtico espresso italiano a 50 países
 - MEZCLA: Espresso Deciso de Gimoka es una mezcla de carácter fuerte y envolvente, con un equilibrio perfecto entre notas de cacao amargo y frutos secos. Su sabor decidido y pleno transforma cada sorbo en una experiencia intensa y satisfactoria
+- GIMOKA: Tostadora italiana con 40 años de historia, selecciona café de 17 países para más de 90 mezclas. Con 3 plantas, ofrece café en grano, molido, monodosis y cápsulas compatibles, llevando el auténtico espresso italiano a 50 países
+- CARACTERÍSTICAS: El tueste prolongado resalta las notas aromáticas de maderas nobles, otorgando a este espresso un sabor fuerte y persistente. Su retrogusto envolvente y prolongado lo hace ideal para quienes desean un café intenso y rico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZ45VSV4{{</world>}}

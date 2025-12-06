@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Milka
 - Milka Cake&Choc Galletas - 350 gr
+- Milka
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07V1J8LTG{{</world>}}

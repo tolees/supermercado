@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MODO DE USO: Adultos (18+), 1 comprimido al día, fácil de tragar, durante o inmediatamente después de cualquier comida. No exceder la dosis diaria recomendada
-- FÓRMULA ÚNICA 3 EN 1: Con 3 probióticos, 12 vitaminas y 7 minerales. Las vitaminas B2, B3 y B7 ayudan al intestino², las Vitaminas B12 y B6 ayudan al metabolismo energético¹, la Vitamina C y el Hierro ayudan a la reducción de la fatiga¹
-- CON PROBIÓTICOS: Cada comprimido masticable contiene 10 millones de Probióticos (L. gasseri, B. bifidum, B. longum) seleccionados para llegar vivos al intestino
-- ENERGÍA¹ y PROBIÓTICOS: Complemento alimenticio multivitamínico para adultos 50+, con probióticos, minerales y vitaminas para ayudar al intestino², a la energía mental y física¹, a la visión³ y a los huesos⁴
 - CONTENIDO: 1x Bion3 Energy 50+ complemento alimenticio multivitamínico con probióticos para ayudar al intestino², a la energía física y mental¹, la visión³ y los huesos⁴, 120 comprimidos, para 4 meses de uso
+- ENERGÍA¹ y PROBIÓTICOS: Complemento alimenticio multivitamínico para adultos 50+, con probióticos, minerales y vitaminas para ayudar al intestino², a la energía mental y física¹, a la visión³ y a los huesos⁴
+- FÓRMULA ÚNICA 3 EN 1: Con 3 probióticos, 12 vitaminas y 7 minerales. Las vitaminas B2, B3 y B7 ayudan al intestino², las Vitaminas B12 y B6 ayudan al metabolismo energético¹, la Vitamina C y el Hierro ayudan a la reducción de la fatiga¹
+- MODO DE USO: Adultos (18+), 1 comprimido al día, fácil de tragar, durante o inmediatamente después de cualquier comida. No exceder la dosis diaria recomendada
+- CON PROBIÓTICOS: Cada comprimido masticable contiene 10 millones de Probióticos (L. gasseri, B. bifidum, B. longum) seleccionados para llegar vivos al intestino
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FKBJKBZD{{</world>}}

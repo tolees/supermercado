@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Anchura: 285mm
 - Capacidad de 600 toallas (altura de 375mm)
+- Anchura: 285mm
 - Color Verde
-- Fabricado con ABS anti-choque
 - Profundidad: 135mm
+- Fabricado con ABS anti-choque
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08BZH4GB7{{</world>}}

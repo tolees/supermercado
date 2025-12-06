@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Mahou cerveza icónica nacida hace más de 40 años para satisfacer a los paladares más exigentes
 - Pack de 24 latas de 33 cl de Cerveza Mahou Rosè, maestría cervecera con un toque afrutado y extra refrescante, con 4.8% de alcohol. Para un mayor disfrute se recomienda consumir entre 4º y 6º C
 - Aroma: Con un aroma principal afrutado suave y fresco, la cerveza aromática Rosè de Mahou tiene también cierta fragancia seca y un toque a levadura, donde se aprecian notas florales del lúpulo al beber
-- Sabor: cerveza sabor Rosé premium, con toque afrutado y extra refrescante, marcada por el equilibrio entre sus notas afrutadas, amargor y cuerpo
 - Apariencia: Cerveza lata espumante Mahou Rose de aspecto brillante, color dorado y una espuma cremosa y consistente
+- Sabor: cerveza sabor Rosé premium, con toque afrutado y extra refrescante, marcada por el equilibrio entre sus notas afrutadas, amargor y cuerpo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C46M8RK5{{</world>}}

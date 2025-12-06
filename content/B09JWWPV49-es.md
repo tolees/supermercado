@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Comida española fácil de preparar: al baño maria, en cazo o al microondas
 - Selecto embutido elaborado en Asturias
-- Disfruta de un plato típico de la cocina casera española, con la calidad de LITORAL
 - Disponible en formato lata
+- Disfruta de un plato típico de la cocina casera española, con la calidad de LITORAL
 - 100% Ingredientes Naturales sin gluten, ni aditivos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

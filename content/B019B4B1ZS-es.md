@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Disfruta del sabor cremoso y textura crujiente del chocolate con leche de Candury Twirl
 - Barrita elaborada con cacao sostenible gracias al programa Cocoa Life, para mejorar las condiciones de vida de los productores de cacao y sus comunidades
-- Cadbury Twirl es una deliciosa y crujiente barrita de chocolate con leche, excelente para cualquier momento del día
 - En un formato práctico y manejable de 43g y en un pack de 24 unidas podrás disfrutar de esta barrita en reuniones o en soledad y en cualquier momento y lugar
+- Cadbury Twirl es una deliciosa y crujiente barrita de chocolate con leche, excelente para cualquier momento del día
 - Rellenas de chocolate en espirales y cubiertas con el famoso chocolate con leche Cadbury, proveniente de cacao sostenible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

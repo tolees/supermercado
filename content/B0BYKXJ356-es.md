@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compuesta por un 90 por Cientode ingredientes de origen natural
-- Te sorprenderá su aroma óptima
 - Fórmula clean y vegana
+- Compuesta por un 90 por Cientode ingredientes de origen natural
 - Óptimo bálsamo con color
+- Te sorprenderá su aroma óptima
 - Contiene vitamina C y E, manteca de karité y ácido hialurónico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

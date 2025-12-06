@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ha sido galardonada con numerosos premios internacionales, como el World Beer Challenge, la medalla de Oro en el Brussels Beer Challenge o el European Beer Star
-- Es una cerveza lager especial de sabor equilibrado y refrescante, que marida bien con una amplia variedad de platos, como quesos, verduras y hortalizas, setas, mariscos, pescados blancos y carnes
-- Elaborada con agua de la ciudad de A Coruña, MALTAS Pilsen y tostada, MAÍZ, LÚPULOS Nugget y Perle Hallertau y LEVADURA seleccionada. Alc 5.5% vol
-- De color dorado brillante y aroma a la cebada y la malta de la que proviene, con notas tostadas y evocaciones a frutos secos
 - Pack de cervezas lager sin gluten con un sabor neutro y ligero, con un matiz muy marcado de sabor a lúpulo. Se recomienda su consumo entre 4 y 5º
+- Elaborada con agua de la ciudad de A Coruña, MALTAS Pilsen y tostada, MAÍZ, LÚPULOS Nugget y Perle Hallertau y LEVADURA seleccionada. Alc 5.5% vol
+- Ha sido galardonada con numerosos premios internacionales, como el World Beer Challenge, la medalla de Oro en el Brussels Beer Challenge o el European Beer Star
+- De color dorado brillante y aroma a la cebada y la malta de la que proviene, con notas tostadas y evocaciones a frutos secos
+- Es una cerveza lager especial de sabor equilibrado y refrescante, que marida bien con una amplia variedad de platos, como quesos, verduras y hortalizas, setas, mariscos, pescados blancos y carnes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B098F91WBN{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Enriquecido con un 3% de AHA, un ácido soluble en agua. Ayuda a purificar la superficie del cuero cabelludo para un aspecto sano y limpio.
-- Aplicar uniformemente sobre el cuero cabelludo y el cabello mojado. Emulsionar suavemente con las yemas de los dedos. Aclarar bien. En caso de contacto con los ojos, lávense inmediata y abundantemente con agua.
 - El Champú anti grasa Scalp Advanced contiene una fórmula específica para cueros cabelludos grasos. Este champú suave purifica el cuero cabelludo y la fibra de residuos, sudor y grasa para una sensación más fresca y limpia.
+- Aplicar uniformemente sobre el cuero cabelludo y el cabello mojado. Emulsionar suavemente con las yemas de los dedos. Aclarar bien. En caso de contacto con los ojos, lávense inmediata y abundantemente con agua.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BPYFBWF4{{</world>}}

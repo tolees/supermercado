@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ingredientes naturales: agua, 60% TRIGO malteado, 40% malta de CEBADA, lúpulos seleccionados y levadura Paulaner
 - Con 5.5% de alcohol en volumen
 - De fermentación óptima, con un sabor afrutado y natural que le da un carácter especialmente refrescante
+- Ingredientes naturales: agua, 60% TRIGO malteado, 40% malta de CEBADA, lúpulos seleccionados y levadura Paulaner
 - Cerveza tipo Ale y estilo de trigo Alemana, originaria de Múnich
 - Cerveza turbia por la presencia de levadura, de color dorado con una tonalidad blanquecina
 

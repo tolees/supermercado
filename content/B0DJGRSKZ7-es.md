@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Piñas, la novedad más tropical. Descubre su textura única con un interior extra tierno.
-- Disfruta con alegría y diversión.
 - Variedad multicolor para grandes y pequeños
+- Disfruta con alegría y diversión.
+- Piñas, la novedad más tropical. Descubre su textura única con un interior extra tierno.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DJGRSKZ7{{</world>}}

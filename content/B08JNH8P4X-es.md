@@ -29,12 +29,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Aroma sorprendente y estimulante
-- El aceite de argán y el aloe vera suavizan y alisan el pelo
-- Gorro de ducha flamenco ridículamente adorable
 - Mascarillas capilares inspiradas en las rutinas de belleza coreanas
 - Mascarilla capilar Bear Fruits para un tratamiento capilar de hasta 30 minutos
-- Tratamiento acondicionador intensivo
 - Como una mascarilla facial pero para el pelo
+- Gorro de ducha flamenco ridículamente adorable
+- Tratamiento acondicionador intensivo
+- El aceite de argán y el aloe vera suavizan y alisan el pelo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08JNH8P4X{{</world>}}

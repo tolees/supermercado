@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CONSERVAS ALBO, DESDE 1869. En Albo llevamos más de 150 años dedicados a elaborar conservas de pescado y marisco, así como platos preparados que aportan a tu dieta alimentos de calidad y con un gran sabor. Nuestro secreto reside en seleccionar las materias primas y tratarlas con el mayor cuidado y cariño posible para mantener sus cualidades nutricionales y organolépticas.
 - IDÓNEAS PARA TAPAS Y PICNICS. Las sardinas en lata Albo son idóneas para servir como tapa, y también un buen recurso para cenas y comidas espontáneas. Y, por supuesto, serán tus aliadas en picnics, excursiones y comidas fuera de casa.
+- RECETA CON 150 AÑOS DE TRADICIÓN. Nuestra receta tradicional de escabeche está elaborada con los ingredientes naturales de siempre: vinagre, aceite de girasol, especias y sal. Un clásico de las conservas de pescado que querrás tener siempre a mano.
 - SARDINAS EN ESCABECHE. Conservas Albo presenta un clásico de las conservas, las sardinas en escabeche. Una receta tradicional en la que las sardinas se limpian y se preparan en un escabeche elaborado solamente con ingredientes naturales como aceite de girasol, vinagre y sal.
 - RICAS EN PROTEÍNAS Y VITAMINA D. Las sardinas Albo se caracterizan por su alto contenido en proteínas, y también por su gran aportación de vitamina D.
-- RECETA CON 150 AÑOS DE TRADICIÓN. Nuestra receta tradicional de escabeche está elaborada con los ingredientes naturales de siempre: vinagre, aceite de girasol, especias y sal. Un clásico de las conservas de pescado que querrás tener siempre a mano.
+- CONSERVAS ALBO, DESDE 1869. En Albo llevamos más de 150 años dedicados a elaborar conservas de pescado y marisco, así como platos preparados que aportan a tu dieta alimentos de calidad y con un gran sabor. Nuestro secreto reside en seleccionar las materias primas y tratarlas con el mayor cuidado y cariño posible para mantener sus cualidades nutricionales y organolépticas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01N9EPKV8{{</world>}}

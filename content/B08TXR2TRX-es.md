@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - RUTINA DE CUIDADO PARA UN PELO SANO: Si necesitas un cuidado adicional, combínalo con el resto de productos de nuestra línea Repara y Protege para revertir al instante los signos de daños y aportar suavidad y brillo
-- MAYOR FUERZA: Consigue un pelo hasta un 100% más fuerte* y visiblemente más sano (*frente al desgaste por el peinado, en comparación con el champú Aqualight, Volumen o Purificante)
-- BASTA CON UNA GOTITA: Basta con una pequeña cantidad en las puntas mojadas o secas para lograr una transformación en un pelo brillante
 - PROTECCIÓN DE KERATINA: Este aceite protector con Keratina fortalece e ilumina el pelo dañado desde el primer uso, proporcionando un mayor brillo a tu pelo
+- BASTA CON UNA GOTITA: Basta con una pequeña cantidad en las puntas mojadas o secas para lograr una transformación en un pelo brillante
+- MAYOR FUERZA: Consigue un pelo hasta un 100% más fuerte* y visiblemente más sano (*frente al desgaste por el peinado, en comparación con el champú Aqualight, Volumen o Purificante)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08TXR2TRX{{</world>}}

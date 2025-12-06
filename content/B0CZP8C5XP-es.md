@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dermatológicamente probado: indicado para todo tipo de pieles.
-- Fórmula vegana: no contiene ingredientes ni productos de desecho de origen animal.
 - by Amazon - Acondicionador Intense Colour, 2 x 300 ml
-- Cómo usarlo: después de lavar con champú, aplicar en cabello mojado y repartir de medios a puntas. Cubrir todo el cabello a partes iguales. Dejar actuar 2 o 3 minutos y aclarar con abundante agua.
-- Protección y cuidado: acondicionador para cabellos tintados con extracto de arándano rojo, ayuda a protegerlos y mantener el brillo del color.
-- Tipo de cabello: tintado.
 - Fórmula sin: siliconas ni microplásticos.
+- Cómo usarlo: después de lavar con champú, aplicar en cabello mojado y repartir de medios a puntas. Cubrir todo el cabello a partes iguales. Dejar actuar 2 o 3 minutos y aclarar con abundante agua.
+- Fórmula vegana: no contiene ingredientes ni productos de desecho de origen animal.
+- Tipo de cabello: tintado.
+- Protección y cuidado: acondicionador para cabellos tintados con extracto de arándano rojo, ayuda a protegerlos y mantener el brillo del color.
+- Dermatológicamente probado: indicado para todo tipo de pieles.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZP8C5XP{{</world>}}

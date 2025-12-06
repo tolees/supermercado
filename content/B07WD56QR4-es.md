@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cepillo de fibra en zigzag, con micro espacios para acumular fórmula y cargar al máximo
+- La película super flexible permite conseguir capa tras capa un volumen espectacular sin apelmazar las pestañas
 - Fórmula ultra negra de larga duración
 - Enriquecida con colágeno
 - Máscara de pestañas que aporta un volumen intenso y pestañas más largas sin grumos
-- La película super flexible permite conseguir capa tras capa un volumen espectacular sin apelmazar las pestañas
-- Cepillo de fibra en zigzag, con micro espacios para acumular fórmula y cargar al máximo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07WD56QR4{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- De textura crujiente
 - Apto para toda la familia
 - Ideal para acompañar el café
-- De textura crujiente
 - Con un toque de canela y azúcar granulado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

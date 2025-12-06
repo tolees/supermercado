@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto que combina tradición e innovación
-- Cuida tu salud de la mano de nuestros productos
-- Cuidarse nunca fue tan fácil gracias a nuestros productos
 - Gel de baño y ducha aloe vera organico 250 ml
+- Producto que combina tradición e innovación
 - Ingredientes: Aloe Barbadensis Leaf Juice Extract, Aqua, Coco-Glucoside, Sodium Coco-Sulfate, Citric Acid, Cocoyl Proline, Glyceryl Oleate, Sodium Chloride, Sodium Benzoate, Potassium Sorbate, Parfum, Citrus Medica Limonum (Lemon) Oil, Citrus Aurantium Dulcis (Orange) Oil, Linalool, Limonene
+- Cuidarse nunca fue tan fácil gracias a nuestros productos
+- Cuida tu salud de la mano de nuestros productos
 - Tipo de piel: Seca
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

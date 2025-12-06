@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- by Amazon - Desodorante de bola de Aloe Vera, 1 x 75 ml
-- Fórmula vegana: no contiene ingredientes ni productos de desecho de origen animal.
-- Aloe vera: hidratante.
-- La siguiente información se aplica a cada unidad del paquete
-- Fórmula sin: alcohol, sales de aluminio, colorantes, parabenos, parafina y aceites minerales.
-- Cómo usarlo: aplicar en piel seca y limpia en las axilas.
 - Dermatológicamente probado en pieles sensibles: adecuado para pieles sensibles. Se puede utilizar después del afeitado.
+- by Amazon - Desodorante de bola de Aloe Vera, 1 x 75 ml
+- Cómo usarlo: aplicar en piel seca y limpia en las axilas.
+- Fórmula sin: alcohol, sales de aluminio, colorantes, parabenos, parafina y aceites minerales.
+- Fórmula vegana: no contiene ingredientes ni productos de desecho de origen animal.
+- La siguiente información se aplica a cada unidad del paquete
+- Aloe vera: hidratante.
 - 24 h: protege 24 h de los olores.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

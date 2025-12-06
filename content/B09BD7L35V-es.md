@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Su nueva fórmula combina la eficacia de un 3.5% de ingredientes activos: Vitamina C**, niacinamida, ácido salicílico, y melasyl, ingrediente patentado, que reduce el exceso de melanina que causa las manchas oscuras.
 - * El Embalaje puede variar*
+- Su nueva fórmula combina la eficacia de un 3.5% de ingredientes activos: Vitamina C**, niacinamida, ácido salicílico, y melasyl, ingrediente patentado, que reduce el exceso de melanina que causa las manchas oscuras.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09BD7L35V{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CONFIANZA EN CADA ELECCIÓN: en Smileat nos comprometemos con la sostenibilidad y la transparencia, utilizando ingredientes ecológicos y promoviendo prácticas responsables que cuidan del planeta y del futuro de nuestros peques.
-- APTO PARA PEQUES DESDE 6 MESES: especialmente formulado para la introducción de alimentos sólidos en la dieta del peque, este tarrito es adecuado desde los 6 meses, contribuyendo a una alimentación equilibrada desde temprana edad.
+- SMILEAT: nacimos para revolucionar la alimentación infantil y lo seguimos haciendo con cada producto. Como la primera marca B-Corp en alimentación infantil ecológica de España, en Smileat trabajamos para crear un impacto positivo en el mundo, ofreciendo productos ricos y responsables que cuidan de los más pequeños, del planeta y de su futuro.
 - TARRITO DE FRUTAS ECOLÓGICAS: elaborado con frutas de pera, ciruela y plátano. Cultivo ecológico, este producto ofrece una textura suave y homogénea, facilitando la alimentación de los más pequeños y ayudando en la introducción de nuevos sabores.
 - INGREDIENTES DE CALIDAD: contiene frutas seleccionadas sin azúcar añadido ni sal añadida, sin leche y sin huevos, adaptándose a diversas necesidades alimentarias y respetando el sabor original de las frutas.
-- SMILEAT: nacimos para revolucionar la alimentación infantil y lo seguimos haciendo con cada producto. Como la primera marca B-Corp en alimentación infantil ecológica de España, en Smileat trabajamos para crear un impacto positivo en el mundo, ofreciendo productos ricos y responsables que cuidan de los más pequeños, del planeta y de su futuro.
+- CONFIANZA EN CADA ELECCIÓN: en Smileat nos comprometemos con la sostenibilidad y la transparencia, utilizando ingredientes ecológicos y promoviendo prácticas responsables que cuidan del planeta y del futuro de nuestros peques.
+- APTO PARA PEQUES DESDE 6 MESES: especialmente formulado para la introducción de alimentos sólidos en la dieta del peque, este tarrito es adecuado desde los 6 meses, contribuyendo a una alimentación equilibrada desde temprana edad.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09G3DW3KS{{</world>}}

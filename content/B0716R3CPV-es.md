@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hasta 16 horas de duración
 - Color intenso y ahumado con una fácil y suave aplicación
-- Khôl y delineador de ojos 2 en 1 que enfatiza perfectamente la mirada
+- Hasta 16 horas de duración
 - Hipoalergénico, fórmula agradable para los ojos enriquecida con cera natural y vitamina E
+- Khôl y delineador de ojos 2 en 1 que enfatiza perfectamente la mirada
 - Fórmula enriquecida con pigmentos suaves para un resultado intenso desde la primera pasada
 
 [🛒 Aquí!!!]({{< param buyurl >}})
