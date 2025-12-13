@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tomate frito sin gluten y sin aditivos ni conservantes
-- Es la salsa de tomate frito con aceite de oliva para acompañar tus platos de arroz o pasta
-- Se utilizan prácticas sostenibles respectuosas con el medio ambiente; hay responsabilidad con el consumo del agua, un bien escaso en el planeta
-- SOLÍS una marca que ofrece la calidad y el sabor especial
 - En Solís se trabaja con agricultores de las Vegas del Guadiana, Extremadura, que generación tras generación cuidan de los tomates
+- Se utilizan prácticas sostenibles respectuosas con el medio ambiente; hay responsabilidad con el consumo del agua, un bien escaso en el planeta
+- Es la salsa de tomate frito con aceite de oliva para acompañar tus platos de arroz o pasta
+- SOLÍS una marca que ofrece la calidad y el sabor especial
+- Tomate frito sin gluten y sin aditivos ni conservantes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B098TTF1SG{{</world>}}

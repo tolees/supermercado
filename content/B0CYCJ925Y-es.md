@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'GARNIER DELIAL Crema Facial Fluida Uso Diário Muy Alta Protección Solar FPS50+ AntiImperfecciones Con Niacinamida  Fórmula No Comedogénica 40 ml'
-date: 2025-11-24 07:42:42
+title: 'GARNIER DELIAL Crema Facial Fluida Uso Diário Muy Alta Protección Solar FPS50+ AntiImperfecciones Con Niacinamida Fórmula No Comedogénica 40 ml'
+date: 2025-12-13 05:02:12
 image: 'https://m.media-amazon.com/images/I/41z2ZV5L5AL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0CYCJ925Y-es GARNIER DELIAL Crema Facial Fluida Uso Diário Muy Alta...'
 sku: 'B0CYCJ925Y-es'
-tags: [ 'Belleza','Cremas diurnas faciales','Cuidado diurno facial','Hidratantes faciales','Productos para el cuidado de la cara','Productos para el cuidado de la piel','delial','garnier','🇪🇸', ]
-actualPrice: 13.99 EUR
+tags: [ '9ed22afa-2efb-4171-8c99-31b8476ebf6d_0','9ed22afa-2efb-4171-8c99-31b8476ebf6d_6401','Arborist Merchandising Root','Belleza','Cremas diurnas faciales','Cuidado diurno facial','Esenciales del día a día: Belleza','Hidratantes faciales','Productos para el cuidado de la cara','Productos para el cuidado de la piel','Self Service','Special Features Stores','delial','garnier','🇪🇸', ]
+actualPrice: 9.93 EUR
 currency: EUR
-price: 13.99
-comparePrice: 14.51 EUR
-prodname: 'GARNIER DELIAL Crema Facial Fluida Uso Diário Muy Alta Protección Solar FPS50+ AntiImperfecciones Con Niacinamida  Fórmula No Comedogénica 40 ml'
+price: 9.93
+comparePrice: 10.45 EUR
+prodname: 'GARNIER DELIAL Crema Facial Fluida Uso Diário Muy Alta Protección Solar FPS50+ AntiImperfecciones Con Niacinamida Fórmula No Comedogénica 40 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Delial'
 buyurl: 'https://www.amazon.es/dp/B0CYCJ925Y/?tag=tolees-21'
-descuento: '3.58'
-average: '10.9030769230769'
+descuento: '4.98'
+average: '10.7733333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Dividir el pelo en dos secciones, aplicar 1-2 pulsaciones por sección. Extender sobre el cabello. No aclarar.
 - Sérum de brillo instantáneo que protege el color, combate el encrespamiento y aporta luminosidad intensa.
 - Aporta un acabado brillante y suave. Prolonga la intensidad del color. Protege contra la humedad y el calor.
-- Dividir el pelo en dos secciones, aplicar 1-2 pulsaciones por sección. Extender sobre el cabello. No aclarar.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DSLKR6GW{{</world>}}

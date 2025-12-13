@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Acabado de larga duración, afrutado
 - Sabor aterciopelado, floral, chocolate negro, toques de humo dulce y suave
-- Con notas de fruta seca, caramelo, chocolate negro
 - Perfecto como un regalo
+- Acabado de larga duración, afrutado
 - De color ámbar intenso
+- Con notas de fruta seca, caramelo, chocolate negro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B001P4SF0C{{</world>}}

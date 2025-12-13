@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De distintos colores y sabores
-- Geles dulces
 - Deliciosas piezas de regaliz enrolladas en forma de disco
+- Geles dulces
+- De distintos colores y sabores
 - Conservar en lugar fresco y seco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

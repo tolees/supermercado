@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Die folgenden Informationen gelten für jede Einheit pro Packung
-- Surtido de caramelos de goma en bolsa de 1 kg
-- Delicioso mix de diferentes piezas recubiertas de pica
 - La siguiente información se aplica a cada unidad del paquete
+- Surtido de caramelos de goma en bolsa de 1 kg
 - Todas las gomitas son tamaño mini de unos 3 cm de largo la más grande
+- Delicioso mix de diferentes piezas recubiertas de pica
 - El surtido contiene, entre otros, botellitas de cola, ositos, huevos, moras, ranas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

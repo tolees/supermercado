@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Deliciosas piezas redondeadas recubiertas de azúcar
+- Caramelos de goma
 - Sabor a fresa
 - Conservar en lugar fresco y seco
-- Caramelos de goma
-- Deliciosas piezas redondeadas recubiertas de azúcar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BZT48QMC{{</world>}}

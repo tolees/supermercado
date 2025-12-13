@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Destaca por su extraordinaria delicadeza, redondez y enorme complejidad, dentro de una apreciable intensidad y buen cuerpo, y, sobre todo, su excepcional frutosidad, aromática y gustativa.
-- Este aceite de oliva virgen extra de Canena (Jaén) es un monovarietal de la variedad arbequina
 - Botella de vidrio de 500 ml
+- Este aceite de oliva virgen extra de Canena (Jaén) es un monovarietal de la variedad arbequina
+- Destaca por su extraordinaria delicadeza, redondez y enorme complejidad, dentro de una apreciable intensidad y buen cuerpo, y, sobre todo, su excepcional frutosidad, aromática y gustativa.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01GRU5RM2{{</world>}}

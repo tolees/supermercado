@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aroma refrescante
-- Espuma rica y cremosa
 - Óptimo para todo tipo de piel
+- Espuma rica y cremosa
+- Aroma refrescante
 - Uso diario para una piel limpia
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

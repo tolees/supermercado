@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- COPA DE CHAMPÁN: adecuada para fiestas hawaianas, puede contener bebidas, café, champán, cócteles y otros usos de contenedores. Diseño de apariencia única, creatividad original. taza tropical
 - VASOS DE ROCAS: taza de calavera vikinga, material cerámico de , apariencia suave y delicada.
-- VIDRIO VINTAGE: excelente estabilidad, no se producirán sustancias nocivas después de almacenar el vino, seguro y saludable para su uso.
 - TAZA DE CAFÉ CON CALAVERA: aplicable al hogar, restaurante y otros lugares.
+- COPA DE CHAMPÁN: adecuada para fiestas hawaianas, puede contener bebidas, café, champán, cócteles y otros usos de contenedores. Diseño de apariencia única, creatividad original. taza tropical
+- VIDRIO VINTAGE: excelente estabilidad, no se producirán sustancias nocivas después de almacenar el vino, seguro y saludable para su uso.
 - TAZAS DE CAFÉ MEXICANAS: la taza tiki cup tiki, de gran capacidad, se puede usar como decoración o como recipiente para copas de vino, exquisita y práctica.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

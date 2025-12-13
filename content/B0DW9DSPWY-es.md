@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La siguiente información se aplica a cada unidad del paquete
+- TODOS LOS TIPOS DE MANCHAS OSCURAS: manchas solares, manchas de envejecimiento, manchas postacné
 - Fórmula ligera, de rápida absorción y que no mancha.
-- PHYTO VITAMIN COMPLEX - sinergia de CURCUMA, REGALIZ y NIACINAMIDA para maximizar el efecto iluminador de la piel
-- 以下の情報は単品あたりの情報です。
 - CÚRCUMA PRENSADA EN FRÍO, DE ORIGEN ORGÁNICO; 97% de ingredientes de origen natural; 100% reciclable; clínicamente testado.
 - PIEL MÁS CLARA DESPUÉS DEL 1ER USO; EXFOLIA; MEJORA LA TEXTURA DE LA PIEL
-- TODOS LOS TIPOS DE MANCHAS OSCURAS: manchas solares, manchas de envejecimiento, manchas postacné
+- PHYTO VITAMIN COMPLEX - sinergia de CURCUMA, REGALIZ y NIACINAMIDA para maximizar el efecto iluminador de la piel
+- La siguiente información se aplica a cada unidad del paquete
+- 以下の情報は単品あたりの情報です。
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DW9DSPWY{{</world>}}

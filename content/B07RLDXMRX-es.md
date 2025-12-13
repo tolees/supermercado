@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuenta con función de mantenimiento del calor y un recolector de jugos; incluye una tabla con los tiempos de cocinado recomendados para cada alimento
 - Almacenaje compacto, función de desconexión automática y sistema de protección contra el sobrecalentamiento.
+- Cuenta con función de mantenimiento del calor y un recolector de jugos; incluye una tabla con los tiempos de cocinado recomendados para cada alimento
 - Los recipientes son ecológicos y libres de bpa; temporizador de 60 minutos, con indicador lumínico y sonoro al finalizar la cocción
 - Cocina 3 platos a la vez con sus 3 recipientes, capacidad 9 l; soportes para la cocción de huevos y piezas no eléctricas aptas para el lavavajillas
 - Vaporera eléctrica para cocinar al vapor, conservando los nutrientes; cuenco para preparar arroz, de 1 l, acero inoxidable, 800 w de potencía

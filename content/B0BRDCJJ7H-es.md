@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dermatológicamente probado: no irrita las manos
-- 99 % de ingredientes biodegradables (excepto agua y sales no orgánicas)
-- 100 % fragancias naturales: romero y lavanda de Provenza
 - Eficacia en el agua de lavado: cada gota actúa de forma prolongada para dejar los platos limpios y sin manchas
 - Potencia antigrasa: lava los platos rápidamente y sin esfuerzo
+- Dermatológicamente probado: no irrita las manos
+- 100 % fragancias naturales: romero y lavanda de Provenza
+- 99 % de ingredientes biodegradables (excepto agua y sales no orgánicas)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BRDCJJ7H{{</world>}}

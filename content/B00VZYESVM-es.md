@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cocina oriental en tu hogar
 - Un producto de calidad marca ROYAL ORIENT
 - Sabor asiático
+- Cocina oriental en tu hogar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00VZYESVM{{</world>}}

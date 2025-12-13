@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gourmet es una alimentación completa y equilibrada; es una importante fuente de hidratación para tu gato; le estarás dando una alimentación variada en sabores y texturas para su disfrute
 - Elaborado con ingredientes de calidad
+- Gourmet es una alimentación completa y equilibrada; es una importante fuente de hidratación para tu gato; le estarás dando una alimentación variada en sabores y texturas para su disfrute
 - Alimento completo y equilibrado
-- Combinación irresistible de 24 latitas Tartalette de Buey, 24 latitas Tartalette de Pollo, 24 latitas Tartalette de Atún y 24 latitas Tartalette de Salmón
 - Trocitos delicadamente cortados con un toque de delicadas verduras y con solo un toque de salsa
+- Combinación irresistible de 24 latitas Tartalette de Buey, 24 latitas Tartalette de Pollo, 24 latitas Tartalette de Atún y 24 latitas Tartalette de Salmón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08K3MM8SH{{</world>}}

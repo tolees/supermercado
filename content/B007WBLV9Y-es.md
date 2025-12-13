@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- INGREDIENTES: Agua, haba de soja* (14%), sirope de agave* (3,5%), sal marina, aromas naturales de vainilla*. *Ingredientes procedentes de la Agricultura Ecológica
 - MODO DE EMPLEO: Puede consumirse directamente o bien ser utilizado como ingrediente en sus recetas. Se recomienda agitar antes de ser consumido Una vez abierto puede mantenerse en refrigeración durante 5 días.
+- PRODUCTO ECOLÓGICO: bebida vegetal de soja con sirope de agave.
 - FORMATO: Tetrapack de 1 L.
 - VALORES NUTRICIONALES: Valor energético 261,00 kJ (62,00 kcal), Grasas 2,90 g, Saturadas 0,50 g, Hidratos de carbono 5,24 g, Azúcares 3,50 g, Proteínas 3,40 g, Sal 0,20 g, Calcio 0,00 mg
-- INGREDIENTES: Agua, haba de soja* (14%), sirope de agave* (3,5%), sal marina, aromas naturales de vainilla*. *Ingredientes procedentes de la Agricultura Ecológica
-- PRODUCTO ECOLÓGICO: bebida vegetal de soja con sirope de agave.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B007WBLV9Y{{</world>}}

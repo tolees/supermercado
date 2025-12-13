@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sun Perfect es la línea experta de protección solar antiedad más avanzada de Lancaster, que combina su experiencia en la formulación de protectores solares y productos de cuidado de la piel para su uso durante todo el año
 - Sun Perfect Sun Clear & Tinted stick SPF50 es una barra de doble cara que ofrece un efecto matificante inmediato por el lado claro y un efecto corrector inmediato por el otro
+- Sun Perfect es la línea experta de protección solar antiedad más avanzada de Lancaster, que combina su experiencia en la formulación de protectores solares y productos de cuidado de la piel para su uso durante todo el año
 - Su tecnología Full Light y su tecnología antiedad proporcionan una amplia protección solar, a la par que previenen y contribuyen a corregir las arrugas, las líneas de expresión y las manchas oscuras
 
 [🛒 Visítala!!!]({{< param buyurl >}})

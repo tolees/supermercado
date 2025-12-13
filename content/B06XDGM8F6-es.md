@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para cabello graso, sin siliconas y sin parabenos
-- Para cabello sano y fresco, limpio por más tiempo
 - Con pepino y agentes purificantes
+- Para cabello sano y fresco, limpio por más tiempo
+- Para cabello graso, sin siliconas y sin parabenos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B06XDGM8F6{{</world>}}

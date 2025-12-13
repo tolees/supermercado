@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Deja el pelo limpio, más fuerte, brillante y fresco
-- Elaborado con esencia de pomelo y vitaminas B3 y B6
 - No contiene silicona
 - Fórmula testada bajo control dermatológico
 - Limpia, fortifica y tonifica la fibra del cabello
+- Deja el pelo limpio, más fuerte, brillante y fresco
+- Elaborado con esencia de pomelo y vitaminas B3 y B6
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B06XCWSDFT{{</world>}}

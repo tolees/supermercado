@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estuche regalo para ella: Cuidadosamente envuelto, este set de ducha con diseño de origami es el detalle perfecto para amigas, familiares o para darse un capricho
+- Completa el ritual: Descubre The Ritual of Ayurveda con este cofre compuesto por gel de ducha en espuma, una vela aromática, una crema de manos y una crema corporal
 - Cuidado corporal: Encuentra el equilibrio reflejando tu belleza interior con este set de regalo Rituals y consigue una piel tersa gracias a sus propiedades equilibrantes
 - The Ritual of Ayurveda: Inspirado en la creencia ancestral de la India, este lujoso set de regalo te ayuda a encontrar el equilibrio entre el cuerpo, la mente y el alma.
+- Estuche regalo para ella: Cuidadosamente envuelto, este set de ducha con diseño de origami es el detalle perfecto para amigas, familiares o para darse un capricho
 - Dulce fragancia: La combinación del delicado aroma a rosas de la India y el aceite esencial de almendras dulces hace del baño un ritual deliciosamente relajante
-- Completa el ritual: Descubre The Ritual of Ayurveda con este cofre compuesto por gel de ducha en espuma, una vela aromática, una crema de manos y una crema corporal
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CGFRXKSL{{</world>}}

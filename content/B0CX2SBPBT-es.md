@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- PIRÁMIDE OLFATIVA: Notas de salida: mandarina, pera y pimienta rosa; Notas de corazón: jazmín, nerolí y azahar; Notas de fondo: haba tonka, vainilla y almizcle.
 - DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más.
+- FEMENINO Y PRIMAVERAL: Un perfume para mujeres que evoca vibras positivas y que te conquistará con su olor a ricas de jazmín con toques florales y frutales, ideal para mujeres originales.
 - PERFUME: Colonia femenina con un carácter positivo, que te traslada a una combinación de ensueño entre armonía y sensualidad. Frasco con vaporizador.
 - TENDENCIA OLFATIVA: Este perfume de mujer tiene una tendencia floral oriental afrutada ideal para personas optimistas, colaboradoras y originales.
-- PIRÁMIDE OLFATIVA: Notas de salida: mandarina, pera y pimienta rosa; Notas de corazón: jazmín, nerolí y azahar; Notas de fondo: haba tonka, vainilla y almizcle.
-- FEMENINO Y PRIMAVERAL: Un perfume para mujeres que evoca vibras positivas y que te conquistará con su olor a ricas de jazmín con toques florales y frutales, ideal para mujeres originales.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CX2SBPBT{{</world>}}

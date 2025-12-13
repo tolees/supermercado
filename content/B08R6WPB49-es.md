@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- INGREDIENTES NATURALES: Elaborado a partir de agua, trigo espelta (16%), aceite de girasol de prensado en frío y sal, este producto es apto para veganos. Además, no contiene lactosa ni azúcares añadidos, solo los naturalmente presentes.
+- SOBRE NOSOTROS: Ecocesta nació con una misión clara: dar visibilidad a la alimentación de origen vegetal. Somos empresa BCorp certificada y cumplimos con los más altos estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
+- BEBIDA VEGETAL: Suave y delicioso sabor, bajo contenido en sal y un potente efecto saciante, estas son las principales características de nuestra bebida vegetal de trigo espelta. Además, es el acompañante perfecto para seguir una dieta saludable.
 - MÚLTIPLES BENEFICIOS: La soja es una legumbre exótica con alto contenido en proteínas vegetales, carbohidratos y aminoácidos esenciales. Como resultado, te ayudará a regular el tránsito intestinal y a combatir los signos de la menopausia.
 - MEZCLA Y DISFRUTA: Toma nuestra bebida vegetal en los desayunos, tanto fría como caliente. Puedes consumirla sola, en smoothies, con café, infusiones, cereales, mueslis o copos. Incluso en cremas o sopas. ¡Hay un sinfín de posibilidades!
-- BEBIDA VEGETAL: Suave y delicioso sabor, bajo contenido en sal y un potente efecto saciante, estas son las principales características de nuestra bebida vegetal de trigo espelta. Además, es el acompañante perfecto para seguir una dieta saludable.
-- SOBRE NOSOTROS: Ecocesta nació con una misión clara: dar visibilidad a la alimentación de origen vegetal. Somos empresa BCorp certificada y cumplimos con los más altos estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
-- INGREDIENTES NATURALES: Elaborado a partir de agua, trigo espelta (16%), aceite de girasol de prensado en frío y sal, este producto es apto para veganos. Además, no contiene lactosa ni azúcares añadidos, solo los naturalmente presentes.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08R6WPB49{{</world>}}

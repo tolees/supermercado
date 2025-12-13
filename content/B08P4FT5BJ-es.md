@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- cerveza que fusiona de una cerveza artesanal con zumo de limón y aroma natural de limón
-- alc. 2.6% vol.
-- ingredientes: Cerveza (Agua, malta de cebada y de trigo, piel de limón, cilantro y lúpulo), Limonada (Agua, jarabe de azúcar invertido, base de limón [zumo concentrado de limón natural, agua, aroma natural de limón, extracto de limón natural, estabilizante E410] (1.45%), conservante: sorbato de potasio).
 - de la marca: La Sagra
+- alc. 2.6% vol.
+- cerveza que fusiona de una cerveza artesanal con zumo de limón y aroma natural de limón
+- ingredientes: Cerveza (Agua, malta de cebada y de trigo, piel de limón, cilantro y lúpulo), Limonada (Agua, jarabe de azúcar invertido, base de limón [zumo concentrado de limón natural, agua, aroma natural de limón, extracto de limón natural, estabilizante E410] (1.45%), conservante: sorbato de potasio).
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08P4FT5BJ{{</world>}}

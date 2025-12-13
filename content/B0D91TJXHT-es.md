@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Delicioso surtido de 9 Bombones de Chocolate con leche y Avellanas
+- Desde 1972, Nestlé CAJA ROJA acompañándonos en celebraciónes y momentos especiales
 - Cacao 100% obtenido de forma sostenible seleccionado a través de NESTLE Cocoa Plan; certificado Rainforest Alliance
 - Bombones especialmente pensados para regalar un detalle
-- Desde 1972, Nestlé CAJA ROJA acompañándonos en celebraciónes y momentos especiales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D91TJXHT{{</world>}}

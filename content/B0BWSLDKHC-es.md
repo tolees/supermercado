@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Protege contra los rayos UVB y UVA +UVA ultra largos, es resistente al agua, al sudor y a la arena.
 - Protector solar facial con color que protege contra los rayos UVB/UVA, IR-A y la polución. Formulado con Mexoryl 400, XL-PROTECT y agua termal, proporciona una protección resistente al agua, al sudor y a la arena.
 - Aplicar el producto 20 minutos antes de exponerse al sol, como último paso en tu rutina de cuidado de la piel.
-- Protege contra los rayos UVB y UVA +UVA ultra largos, es resistente al agua, al sudor y a la arena.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BWSLDKHC{{</world>}}

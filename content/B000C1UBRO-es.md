@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Las notas olfativas principales de este producto son floral y afrutado.
-- Contiene 100 ml.
 - De la marca Calvin Klein.
 - Este producto está indicado para mujeres.
+- Contiene 100 ml.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B000C1UBRO{{</world>}}

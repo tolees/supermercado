@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Acondicionador de calidad profesional, diseñado con Prostyle Tech que contiene aminácidos y ceramidas
-- Acondicionador Lamellar Shine, para un acabado de salón con Brillo Ultra Gloss
-- Acondicionador para cabello apagado o sin vida
 - La siguiente información se aplica a cada unidad del paquete
 - Despierta la vitalidad de tu cabello con la rutina de brillo Lamellar Shine
+- Acondicionador Lamellar Shine, para un acabado de salón con Brillo Ultra Gloss
+- Acondicionador para cabello apagado o sin vida
 - Tecnología Lamellar Shine, envuelve las fibras capilares para corregir, suavizar y alinear tu cabello para un acabado brillante
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Medidas: 5 x 5 x 18 centímetros
 - Color: Multicolor
 - Referencia: S05128033
-- Medidas: 5 x 5 x 18 centímetros
 - Set de la marca Nivea
 - ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
 

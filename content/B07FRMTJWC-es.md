@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Complementa la alimentación habitual
 - Avena de cocción
 - Cereales para el desayuno
-- Complementa la alimentación habitual
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07FRMTJWC{{</world>}}

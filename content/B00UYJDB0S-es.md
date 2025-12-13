@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tecnología "Gloss Lock" que da un brillo elevado y duradero
 - Hasta 6 horas de color, brillo e hidratación
+- Tecnología "Gloss Lock" que da un brillo elevado y duradero
 - Fórmula con aceite de argán y vitamina E que ayuda a la hidratación
 - Con un aplicador preciso para una fácil aplicación
 - Color brillante, labios suaves

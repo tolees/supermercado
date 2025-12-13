@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fluido Dimethicone base suave y ligera
 - Formúla con Permatone en el primer paso y brillo de labios en el segundo
-- Color inalterable y brillo
 - Labial en dos pasos para un color inalterable durante 8 horas y el brillo de un gloss
+- Fluido Dimethicone base suave y ligera
+- Color inalterable y brillo
 - Rica base de color de larga duración y topcoat de brillo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

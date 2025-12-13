@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Verde.
-- Bar.
 - cristal
+- Bar.
 - cóctel.
 - 500 ml.
 

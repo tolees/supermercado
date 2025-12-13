@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Testado dermatológicamente
+- Limpia, refresca y suaviza; mantiene intacta la fisiología propia de la zona íntima gracias a su pH fisiológico y sus agentes celulósicos protectores
 - Protege, hidrata y regula el pH de la zona íntima
 - Más que higiene, protección
-- Limpia, refresca y suaviza; mantiene intacta la fisiología propia de la zona íntima gracias a su pH fisiológico y sus agentes celulósicos protectores
 - Gel-crema fisiológico para la higiene íntima diaria de la piel más delicada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

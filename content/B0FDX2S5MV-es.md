@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Una experiencia divertida de unboxing – ideal para regalar o para ti
 - Caja sorpresa con seis productos misteriosos para looks brillantes y atrevidos
 - Combina y crea tu propio estilo con tus nuevos favoritos
 - Momentos infinitos de maquillaje con toques cósmicos
-- Una experiencia divertida de unboxing – ideal para regalar o para ti
 - Incluye efectos cambiantes, luminosos y con purpurina
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

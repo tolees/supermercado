@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un whisky escocés blended envejecido 12 años que resulta en un sabor fiel a sus orígenes con notas refinadas y gentiles
-- Originalmente llamado Buchanans Finest Liquor, Buchanans Deluxe pasa por un proceso de añejamiento de 12 años
-- En boca, sabor frutal suave con notas de naranja y chocolate; su aroma embriaga con esencias de frutas cítricas y miel; su final es ligero y floral con un cosquilleo de humo
-- Uno de los whiskies escoceses más apreciados y premiados del mundo, se ha convertido en la referencia del whisky
-- Para disfrutarlo solo con hielo o con soda, adornado con un trozo de piel de naranja
 - Graduación alcohólica: 40 %
+- Para disfrutarlo solo con hielo o con soda, adornado con un trozo de piel de naranja
+- Originalmente llamado Buchanans Finest Liquor, Buchanans Deluxe pasa por un proceso de añejamiento de 12 años
+- Uno de los whiskies escoceses más apreciados y premiados del mundo, se ha convertido en la referencia del whisky
+- En boca, sabor frutal suave con notas de naranja y chocolate; su aroma embriaga con esencias de frutas cítricas y miel; su final es ligero y floral con un cosquilleo de humo
+- Un whisky escocés blended envejecido 12 años que resulta en un sabor fiel a sus orígenes con notas refinadas y gentiles
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00MTFIL0U{{</world>}}

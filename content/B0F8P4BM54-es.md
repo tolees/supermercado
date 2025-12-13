@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuidado de la piel: Hidratantes, limpiadores, exfoliantes y sérums para una piel saludable.
-- Accesorios de belleza: Brochas, esponjas y herramientas para la aplicación de maquillaje.
 - La siguiente información se aplica a cada unidad del paquete
 - Maquillaje: Bases, sombras, labiales y delineadores para realzar la belleza.
+- Cuidado de la piel: Hidratantes, limpiadores, exfoliantes y sérums para una piel saludable.
+- Accesorios de belleza: Brochas, esponjas y herramientas para la aplicación de maquillaje.
 - Fragancias: Perfumes y colonias que ofrecen aromas únicos y atractivos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

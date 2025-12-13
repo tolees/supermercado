@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Con 6,4 % de alcohol en volumen
+- Cerveza 100% malta
 - Consumirla entre 0° y 3°C para obtener sus máximas cualidades
 - Ingredientes Naturales: Agua, malta de cebada, levadura, lúpulo y extracto de lúpulo
 - Color ámbar brillante, espuma compacta y cremosa, aroma intenso y agradable que le aporta el tueste de la malta; con cuerpo y amargo moderado
-- Cerveza 100% malta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07B12YVF7{{</world>}}

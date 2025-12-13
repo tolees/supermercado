@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Iluminación en el color del cabello
-- 0% siliconas, 0% sulfatos, 0% amoniaco, 0% sal
 - Coloración temporal no agresiva
+- 0% siliconas, 0% sulfatos, 0% amoniaco, 0% sal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07SXB2HVD{{</world>}}

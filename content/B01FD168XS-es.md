@@ -28,16 +28,16 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Varietales: Tempranillo 100%
-- Nota de cata (vista): Picota intenso, con ribete rubí de marcada intensidad
-- Maridaje: Arroz, verduras, caza y carnes rojas acompañan perfectamente al vino Viña Pomal Reserva
+- Nota de cata (boca): Persistente, con el equilibrio de los grandes Riojas.
+- Temperatura óptima de servicio: 16-18 ºC.
 - Nota de cata (vista): Picota intenso, con ribete rubí de marcada intensidad.
 - Nota de cata (nariz): Intenso y elegante. Notas florales y frutos rojos que se matizan con especias dulces (vainilla) y torrefactos.
-- Nota de cata (boca): Persistente, con el equilibrio de los grandes Riojas
-- Nota de cata (boca): Persistente, con el equilibrio de los grandes Riojas.
-- Reserva, D.O.Ca; rioja
-- Temperatura óptima de servicio: 16-18 ºC.
 - Varietales: Tempranillo 100 %
+- Reserva, D.O.Ca; rioja
+- Nota de cata (vista): Picota intenso, con ribete rubí de marcada intensidad
+- Nota de cata (boca): Persistente, con el equilibrio de los grandes Riojas
+- Maridaje: Arroz, verduras, caza y carnes rojas acompañan perfectamente al vino Viña Pomal Reserva
+- Varietales: Tempranillo 100%
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01FD168XS{{</world>}}

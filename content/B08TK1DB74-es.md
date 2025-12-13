@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Especialmente molido para que lo uses en tu cafetera tradicional o de filtro
-- Café intenso, sabor profundo y aroma más envolvente
 - El mejor con leche
-- Café molido de tueste natural
+- Especialmente molido para que lo uses en tu cafetera tradicional o de filtro
 - Conservar en lugar fresco y seco
+- Café intenso, sabor profundo y aroma más envolvente
+- Café molido de tueste natural
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08TK1DB74{{</world>}}

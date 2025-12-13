@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- En boca tiene una entrada sedosa y amable con un estallido dulcemente tánico y un final prolongado
 - Es versátil y fácil de maridar con carnes, quesos semicurados e ibéricos
-- Con uvas 100% Tempranillo
+- En boca tiene una entrada sedosa y amable con un estallido dulcemente tánico y un final prolongado
 - De color cereza brillante
 - En nariz destacan los aromas varietales de fruta roja como frambuesa, cerezas y especias
+- Con uvas 100% Tempranillo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01N1V9NJM{{</world>}}

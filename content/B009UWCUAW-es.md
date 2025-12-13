@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Se utilizan tres ingredientes naturales para crear tres estilos de whisky y luego se envejecen en tres tipos diferentes de barricas de maduración; Esto hace que Tullamore DEW sea el único whisky de triple destilación, triple mezcla y triple maduración del mundo, un sabor galardonado.
-- Whisky irlandés Tullamore DEW 70cl con un 40% de grado de alcohol.
-- La destilería original de Tullamore abrió sus puertas en 1.829 en el corazón de la ciudad de Tullamore.
-- Triple destilado y envejecido lentamente en una combinación de barricas de ex-bourbon y jerez.
 - Un whiksy perfecto para regalar para el día del padre o Navidad, que se disfruta mejor on the rocks. Tullamore DEW es el whisky irlandés original de triple mezcla, conocido en todo el mundo por su suave y sutil complejidad.
+- La destilería original de Tullamore abrió sus puertas en 1.829 en el corazón de la ciudad de Tullamore.
+- Whisky irlandés Tullamore DEW 70cl con un 40% de grado de alcohol.
+- Triple destilado y envejecido lentamente en una combinación de barricas de ex-bourbon y jerez.
+- Se utilizan tres ingredientes naturales para crear tres estilos de whisky y luego se envejecen en tres tipos diferentes de barricas de maduración; Esto hace que Tullamore DEW sea el único whisky de triple destilación, triple mezcla y triple maduración del mundo, un sabor galardonado.
 - El embalaje puede variar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

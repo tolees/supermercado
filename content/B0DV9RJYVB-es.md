@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
-- Medidas: 11,8 x 31 x 35,5 centímetros
-- Referencia: S05119119
 - Color: Multicolor
+- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
+- Referencia: S05119119
+- Medidas: 11,8 x 31 x 35,5 centímetros
 - Neceser de la marca Isdin
 
 [🛒 Comprar!!!]({{< param buyurl >}})

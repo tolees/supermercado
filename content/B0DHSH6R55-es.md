@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Seagrams Dry Gin nace de la mezcla y la doble destilación en frío de finos y exóticos botánicos, junto a los alcoholes más neutros en alambiques centenarios
 - Entre sus botánicos destacan: enebro de Italia, cilantro de la República Checa, raíz de angélica, nuez moscada, canela, cacao, piel de naranjas españolas dulces y amargas, cardamomo de Sri Lanka y varios aceites esenciales
-- Es una ginebra obtenida a través de la destilación de grano 100% americano
 - Es un gin con un ligero color oro, y un aroma suave a cítricos, botánicos y hierbas de tocador
+- Es una ginebra obtenida a través de la destilación de grano 100% americano
 - Pack de dos botellas de Seagrams Dry y 6 vasos Ballantines de regalo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

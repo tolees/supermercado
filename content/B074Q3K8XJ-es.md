@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sin parabenos
-- Cabello suave, sano y hidratado
 - Con aceite de fruto de amla
+- Sin parabenos
 - Para cabello dañado
+- Cabello suave, sano y hidratado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B074Q3K8XJ{{</world>}}

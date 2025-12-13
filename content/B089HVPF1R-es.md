@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Globalmente TRESemmé no testa en animales
-- Fórmula con biotina y pro bond complex​
-- Repara hasta 7 daños en 1 uso*
-- Champú de calidad profesional que regenera, fortaleza y nutre el cabello​
 - Champú para cabellos secos y dañados​
+- Champú de calidad profesional que regenera, fortaleza y nutre el cabello​
+- Fórmula con biotina y pro bond complex​
+- Globalmente TRESemmé no testa en animales
+- Repara hasta 7 daños en 1 uso*
 - Champú apto para el uso diario​; Botella 100% reciclable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

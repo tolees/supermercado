@@ -28,16 +28,16 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La siguiente información se aplica a cada unidad del paquete
-- PRETRATA LAS MANCHAS: 1. Aplica una pequeña cantidad de detergente líquido Ariel sobre las manchas 2. Frota suavemente 3. Empieza el lavado
 - PARA DISFRUTAR AL MÁXIMO, PRUEBA LA COMBINACIÓN PERFECTA: úsalo junto con las perlas de perfume Lenor para un frescor aún mayor
+- PRETRATA LAS MANCHAS: 1. Aplica una pequeña cantidad de detergente líquido Ariel sobre las manchas 2. Frota suavemente 3. Empieza el lavado
 - LIMPIEZA IMPECABLE + TOQUE DE FRESCOR DE LENOR: el detergente líquido Ariel proporciona una limpieza impecable, enriquecida con un toque de frescor de Lenor para una colada limpia y fragante
 - INSTRUCCIONES PARA MEJORES RESULTADOS: llena el tapón verde con detergente líquido Ariel según el nivel de llenado del tambor y colócalo en el tambor, encima de la ropa
-- EDICIÓN LIMITADA COSTA MEDITERRÁNEA: descubre el detergente líquido Ariel Mediterránea, impregnado con los refrescantes aromas de Brisa Marina y Jazmín
 - PRETRATA LAS MANCHAS: 1. Aplica una pequeña cantidad de detergente líquido Ariel sobre las manchas 2. Frota suavemente 3. Empieza el lavado
-- PARA DISFRUTAR AL MÁXIMO, PRUEBA LA COMBINACIÓN PERFECTA: úsalo junto con las perlas de perfume Lenor para un frescor aún mayor
 - LIMPIEZA IMPECABLE + TOQUE DE FRESCOR DE LENOR: el detergente líquido Ariel proporciona una limpieza impecable, enriquecida con un toque de frescor de Lenor para una colada limpia y fragante
 - EDICIÓN LIMITADA COSTA MEDITERRÁNEA: descubre el detergente líquido Ariel Mediterránea, impregnado con los refrescantes aromas de Brisa Marina y Jazmín
+- La siguiente información se aplica a cada unidad del paquete
+- EDICIÓN LIMITADA COSTA MEDITERRÁNEA: descubre el detergente líquido Ariel Mediterránea, impregnado con los refrescantes aromas de Brisa Marina y Jazmín
+- PARA DISFRUTAR AL MÁXIMO, PRUEBA LA COMBINACIÓN PERFECTA: úsalo junto con las perlas de perfume Lenor para un frescor aún mayor
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FC2C2TS8{{</world>}}

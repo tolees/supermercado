@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Recuerda que la tapa y la lata son 100% reciclables.
-- Cacao cuidadosamente seleccionado.
-- Ingredientes: Cacao en polvo (42%) azúcar, cacao desgrasado en polvo (28%) aroma natural, canela. Puede contener SOJA
 - Instrucciones para su uso adecuado: Añade 2 cucharaditas colmadas (11g) en 200ml de leche semidesnatada caliente, remueve y disfruta. Sin gluten. Sin lactosa
+- Cacao cuidadosamente seleccionado.
 - NESQUIK INTENSO 100% Cacao es apto para dietas SIN GLUTEN. Elaborado con cacao de máxima calidad, sostenbile, y certificado por UTZ.
+- Ingredientes: Cacao en polvo (42%) azúcar, cacao desgrasado en polvo (28%) aroma natural, canela. Puede contener SOJA
+- Recuerda que la tapa y la lata son 100% reciclables.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0030MNFTI{{</world>}}

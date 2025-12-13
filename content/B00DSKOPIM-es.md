@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Olor atractivo al combinar notas exóticas tipo coco/piña con almendras, leche, vainilla y un toque de ron
 - Exótica y deliciosa mezcla de Ron Barceló Añejo, envejecido por 12 meses, en combinación y armonía con la crema concentrada de ron a base de leche, elaborada a partir de los mejores ingredientes
 - Idoneo para degustar solo o en algunos cócteles
 - Delicada en boca con una entrada al paladar intensa y un largo retrogusto; el sabor permanece y te invita a continuar disfrutando cada sorbo
-- Olor atractivo al combinar notas exóticas tipo coco/piña con almendras, leche, vainilla y un toque de ron
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00DSKOPIM{{</world>}}

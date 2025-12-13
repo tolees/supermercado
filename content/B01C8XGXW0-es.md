@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Certificado por el programa Informed Sport y, por lo tanto, apto para su uso por parte de atletas y personal militar sometidos a controles antidopaje
-- Una barrita de triple capa de turrón proteico, recubierto de caramelo blanco, bañado en chocolate blanco y crispies de galleta
+- Repleto de proteínas, con más de 22 g por barrita
 - Este delicioso bocado bajo en azúcar es perfecto para disfrutar en cualquier momento del día como un rico tentempié o un capricho para después de entrenar.
 - Bajo en azúcar, con solo 1,5 g por barrita
-- Repleto de proteínas, con más de 22 g por barrita
+- Una barrita de triple capa de turrón proteico, recubierto de caramelo blanco, bañado en chocolate blanco y crispies de galleta
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01C8XGXW0{{</world>}}

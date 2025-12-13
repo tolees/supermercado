@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Piel Sana: Nuestro gel de ducha para piel muy seca se ha diseñado con una combinación única de nutrientes que ayuda a mantener sano el microbioma de la piel
 - Hidratación profunda: El Gel de Ducha Sanex Cuidado Experto Pro Hydrate para piel muy seca está desarrollado por expertos para limpiar suavemente e hidratar profundamente la piel
 - Producto exclusivo en Amazon. Testado dermatológicamente
-- Piel Sana: Nuestro gel de ducha para piel muy seca se ha diseñado con una combinación única de nutrientes que ayuda a mantener sano el microbioma de la piel
 - Cuidado avanzado: Con una fórmula con un exclusivo complejo prebiótico y postbiótico, nuestro gel de ducha para hombres y mujeres ayuda a crear una fuerte barrera contra los agresores externos y deja la piel menos propensa a la sequedad después de cada ducha
 - Fórmula que combina cuidado e higiene: El gel de ducha apoya a las bacterias buenas y ayuda a mejorar la barrera natural de la piel y la hidratación
 

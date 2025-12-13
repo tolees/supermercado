@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Hood
 - Jacket
-- materialFabricComposition: Outer: 100% Polyester; Coating: 100% Polyurethane; Lining: 100% Polyester; Padding: 100% Polyester
 - Long Sleeves
+- materialFabricComposition: Outer: 100% Polyester; Coating: 100% Polyurethane; Lining: 100% Polyester; Padding: 100% Polyester
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CN1GS6XN{{</world>}}

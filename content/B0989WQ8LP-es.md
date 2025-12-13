@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con una forma optima para ofrecer una exquisita experiencia culinaria
 - Delicadas y refinadas mousse con una deliciosa cascada de salsa
-- Reciclable por favor separe la tapa de la pirámide
+- Con una forma optima para ofrecer una exquisita experiencia culinaria
 - Elaborado con ingredientes de buena calidad
+- Reciclable por favor separe la tapa de la pirámide
 - Alimento 100% completo y equilibrado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

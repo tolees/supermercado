@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Gama de tonos: desde los neutros a los brillantes y desde los claros a los profundos
-- Nueva fórmula suave y cremosa
-- Aplicador de doble punta
 - Paleta de ojos, con 8 tonos
+- Nueva fórmula suave y cremosa
 - 4 acabados y infinitos looks
+- Aplicador de doble punta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0979LZRCW{{</world>}}

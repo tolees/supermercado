@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Abraza un estilo de vida equilibrado: añade esta tisana que huele bien, sabe bien y hace bien a tu régimen diario para poner un impulso en tu paso cuando lo necesites con este té nutritivo hecho de ingredientes puros y sin conservantes añadidos.
-- Té de manzanilla 100% puro: relájate con la esencia serena de nuestras bolsas de té de manzanilla premium, hechas a mano con las mejores flores de manzanilla. Cada paquete libera un suave aroma floral, ofreciendo una experiencia de té tranquila que calma tus sentidos.
-- Nos preocupamos por las personas y el planeta: ahora somos una marca con orgullo neutro en carbono y plástico neutro. Medimos nuestra huella general de carbono y plástico y la compensamos a través de nuestras inversiones en iniciativas de sostenibilidad ambiental en la India.
 - De origen ético: experimenta la esencia de la pureza con nuestro té de manzanilla de origen ético. Sin cafeína y rico en antioxidantes naturales, refleja nuestro compromiso con la calidad, el bienestar y la sostenibilidad con cada sorbo fragante.
 - Empaquetadas en bolsas de té ecológicas: nuestras bolsas de té de manzanilla ecológicas están empaquetadas sin tintes, productos químicos, adhesivo, pegamento o blanqueador con cloro. Deléitate con té de manzanilla puro y de alta calidad que no contiene contaminantes nocivos.
+- Té de manzanilla 100% puro: relájate con la esencia serena de nuestras bolsas de té de manzanilla premium, hechas a mano con las mejores flores de manzanilla. Cada paquete libera un suave aroma floral, ofreciendo una experiencia de té tranquila que calma tus sentidos.
+- Abraza un estilo de vida equilibrado: añade esta tisana que huele bien, sabe bien y hace bien a tu régimen diario para poner un impulso en tu paso cuando lo necesites con este té nutritivo hecho de ingredientes puros y sin conservantes añadidos.
+- Nos preocupamos por las personas y el planeta: ahora somos una marca con orgullo neutro en carbono y plástico neutro. Medimos nuestra huella general de carbono y plástico y la compensamos a través de nuestras inversiones en iniciativas de sostenibilidad ambiental en la India.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BT7H247Z{{</world>}}

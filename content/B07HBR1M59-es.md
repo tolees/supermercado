@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con glucosamina y condroitina para mejorar las articulaciones; Con taurina para tener la vista y el corazón saludables
-- El ingrediente nº1: pollo
 - Sin aromas, colores o conservantes artificiales
-- Conservar en un lugar fresco, seco y oscuro. Una vez abierto, volver a sellar lo más hermético posible
-- Con biotina, zinc y linaza: una fuente natural de Omega 3 para mantener la piel y el cabello sanos
-- Con pollo fresco; carne y derivados animales: aprox. un 30%
-- Sin soja, cebada ni productos lácteos. Receta sabrosa con proteínas de alta calidad
 - Comida para perros adultos: nutrición 100% completa y equilibrada
 - Prebióticos naturales para mejorar la digestión sensible
+- El ingrediente nº1: pollo
+- Con glucosamina y condroitina para mejorar las articulaciones; Con taurina para tener la vista y el corazón saludables
+- Sin soja, cebada ni productos lácteos. Receta sabrosa con proteínas de alta calidad
 - Diseñada por nutricionistas de animales y revisada por veterinarios
+- Con biotina, zinc y linaza: una fuente natural de Omega 3 para mantener la piel y el cabello sanos
+- Con pollo fresco; carne y derivados animales: aprox. un 30%
+- Conservar en un lugar fresco, seco y oscuro. Una vez abierto, volver a sellar lo más hermético posible
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07HBR1M59{{</world>}}

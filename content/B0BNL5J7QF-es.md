@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Protección de calor para el cabello
 - Crema capilar enriquecida con una combinación de vitamina Pro-V y aceite de argán
 - Para un cabello ondulado suave e hidratado
+- Protección de calor para el cabello
 - Crema de peinar nutritiva Pantene Pro-V sin aclarado que ofrece a tu cabello ondulado una definición natural
 
 [🛒 Visítala!!!]({{< param buyurl >}})

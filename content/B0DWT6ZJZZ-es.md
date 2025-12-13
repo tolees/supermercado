@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Elaborado con ingredientes de alta calidad
 - Con una forma perfecta para ofrecer una exquisita experiencia culinaria
 - Reciclable. Por favor separe la tapa de la pirámide
-- Alimento 100% completo y equilibrado
 - Tiernos trozos finamente cortados, en una transparente y elegante gelatina
+- Alimento 100% completo y equilibrado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DWT6ZJZZ{{</world>}}

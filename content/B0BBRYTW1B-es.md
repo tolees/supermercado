@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 👚 ROPA BLANCA: protege los blancos de tus sábanas, toallas, y prendas, aportando luminosidad y un olor fresco
-- 🌀 AROMA ESPECIAL ESENCIA FLORAL
 - 🌀 EFICACIA: Incluso en lavados cortos o a baja temperatura
 - ✋🏻 APTO PARA LAVAR A MANO: prendas delicadas como medias, ropa interior, prendas de baño, etc
 - 🌀 COLADA IMPECABLE: Limpieza total, antimanchas y antiolores
+- 🌀 AROMA ESPECIAL ESENCIA FLORAL
+- 👚 ROPA BLANCA: protege los blancos de tus sábanas, toallas, y prendas, aportando luminosidad y un olor fresco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BBRYTW1B{{</world>}}

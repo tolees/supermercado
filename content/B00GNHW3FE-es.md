@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Resultados: hidratante y suavizante, óptimo para aportar suavidad y brillo a las pieles secas y delicadas. Indicado para uso frecuente
+- Formulación: Omia Non Jabón manos facial Eco Bio es un limpiador fisiológico sin jabón a base de aloe barbadensis miller procedente de la agricultura biológica certificada
 - Probado: el producto contiene 0% de parabenos (sin parabenos), aceites minerales, siliconas y colorantes sintéticos. El producto está dermatológicamente probado con níquel cobalto y cromo valores < 0,0001%
 - Tipo de piel: este jabón a base de aloe vera está especialmente indicado para personas con piel seca y delicada
-- Formulación: Omia Non Jabón manos facial Eco Bio es un limpiador fisiológico sin jabón a base de aloe barbadensis miller procedente de la agricultura biológica certificada
+- Resultados: hidratante y suavizante, óptimo para aportar suavidad y brillo a las pieles secas y delicadas. Indicado para uso frecuente
 - Acción: su fórmula especial actúa sobre la piel del rostro y las manos sin evacuar las defensas naturales
 
 [🛒 Aquí!!!]({{< param buyurl >}})

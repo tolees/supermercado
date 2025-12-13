@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Estudio clínico sobre el diámetro y volumen del granito después de 1 uso
 - Cada paquete incluye 44 parches en dos tamaños (10 mm y 12 mm) para adaptarse al tamaño de cada granito
 - 1 - rasgar a lo largo de la línea de puntos para despegar el parche; 2 - en el rostro limpio y seco, aplicar directamente en el granito; 3 - dejar actuar y retirar después de 8 horas; consejo: funciona mejor en granitos maduros como puntos blancos; disponible en dos tamaños para adaptarse a todos los granitos
 - Garnier Pure Active se une a la REVOLUCIÓN DE LOS PARCHES PARA GRANITOS, invisibles, con tecnología hidrocoloide y diseñados para reducir el tamaño y la visibilidad de los granitos en tan solo 8 horas
-- Estudio clínico sobre el diámetro y volumen del granito después de 1 uso
 - Estos parches invisibles, clínicamente probados, ofrecen una protección ultra fina que ayuda a absorber la suciedad y a reducir el volumen del granito, sin dejar marcas residuales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Erborian 6AA30057
-- Crema de Centella Asiática con SPF 25
-- Antivejecimiento
 - 45 ml
+- Erborian 6AA30057
+- Antivejecimiento
+- Crema de Centella Asiática con SPF 25
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00WPABW5A{{</world>}}

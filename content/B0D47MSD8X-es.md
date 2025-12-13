@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Descongestiona el contorno de ojos y reduce en un 36% la mirada fatigada².
+- Suaviza las líneas de expresión asociadas a la falta de hidratación y ayuda a prevenir los primeros signos de la edad..
 - Se aplica en todo el contorno de los ojos, incluido el párpado superior y es ideal para preparar la piel antes del maquillaje.
 - Su textura gel-sorbete se puede conservar en el congelador y ayuda a disminuir la temperatura de la piel -1,6ºC en 1 minuto².
-- Descongestiona el contorno de ojos y reduce en un 36% la mirada fatigada².
 - Incrementa la hidratación hasta en un 180% en 2 horas y protege la barrera hasta cutánea hasta 24 horas.¹
-- Suaviza las líneas de expresión asociadas a la falta de hidratación y ayuda a prevenir los primeros signos de la edad..
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D47MSD8X{{</world>}}

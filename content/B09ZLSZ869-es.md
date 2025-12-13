@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Jack Daniels Triple Mash está diseñado para funcionar en cócteles americanos clásicos, con hielo o solo; old Pal es un cóctel clásico que complementa el perfil del whisky Jack Daniels Triple Mash: Triple Mash Old Pal, 3/4 oz Jack Daniels Triple Mash, 3/4 oz Vermut Seco, 3/4 oz Campari, Piel de limón para decorar
-- Elaborado a partir de tres whiskies bonded y ofrece un dulzor de miel con notas de malta y roble suave que conducen a un final duradero
-- Se utilizan barricas de whisky seleccionadas a mano con un color, sabor y aroma profundos para crear un whisky más oscuro, rico y con más sabor a roble
-- El whisky Bottled-in-Bond se destila durante una sola temporada, se madura en un depósito oficial durante al menos 4 años y se embotella a 50 grados
 - Jack Daniels Triple Mash es una mezcla de Bonded American Malt, Rye y Tennessee Whiskeys a 50 grados
+- Elaborado a partir de tres whiskies bonded y ofrece un dulzor de miel con notas de malta y roble suave que conducen a un final duradero
+- El whisky Bottled-in-Bond se destila durante una sola temporada, se madura en un depósito oficial durante al menos 4 años y se embotella a 50 grados
+- Se utilizan barricas de whisky seleccionadas a mano con un color, sabor y aroma profundos para crear un whisky más oscuro, rico y con más sabor a roble
+- Jack Daniels Triple Mash está diseñado para funcionar en cócteles americanos clásicos, con hielo o solo; old Pal es un cóctel clásico que complementa el perfil del whisky Jack Daniels Triple Mash: Triple Mash Old Pal, 3/4 oz Jack Daniels Triple Mash, 3/4 oz Vermut Seco, 3/4 oz Campari, Piel de limón para decorar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09ZLSZ869{{</world>}}

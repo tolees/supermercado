@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Delicada fusión de sabores tales como vainilla, madera de roble y miel, complementados por especias, caramelo y nueces
+- Tiene un aroma suave y fragante, con notas de madera tostada y jerez
 - Su triple destilación lo convierte en un whiskey especialmente suave
 - Su color recuerda a una cálida y dorada puesta de sol
+- Delicada fusión de sabores tales como vainilla, madera de roble y miel, complementados por especias, caramelo y nueces
 - Jameson con Ginger Ale y lima: llena un vaso con hielo y sirve el Jameson. Completa con Ginger Ale. Exprime un cuarto de lima, échala en el vaso y disfruta
-- Tiene un aroma suave y fragante, con notas de madera tostada y jerez
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004JV9UHU{{</world>}}

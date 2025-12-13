@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dile adiós a los malos olores durante 48 horas.
-- El paquete puede variar
 - Actúa como escudo protector contra las manchas blancas y amarillentas.
 - La frescura duradera que todos quieren.
+- El paquete puede variar
+- Dile adiós a los malos olores durante 48 horas.
 - Old Spice Captain, con aroma a mar abierto, sándalo y notas cítricas, te hará inolvidable: te convertirás prácticamente en el centro del universo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

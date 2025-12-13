@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Resultado: impurezas atenuadas, poros refinados y un aspecto de la piel inmediatamente limpiado y mate, efecto antibrillo de 24 horas
-- Aplicación: aplicar el limpiador sobre la cara húmeda (excepto los ojos y los labios), masajear suavemente, enjuagar con agua limpia, uso diario recomendado
-- Fórmula: fórmula vegana y 94% biodegradable con BHA y carbón de origen natural – ideal para pieles propensas al acné, embalaje sostenible hecho de plástico 100% reciclado
-- Contenido del envío: Garnier Skin Clear Carbon Cleanser, gel de lavado antipuntos negros, 1 x 250 ml
 - Gel de lavado facial para mitigar espinillas y puntos negros, así como para eliminar el sebo, la contaminación y el maquillaje, ideal para pieles propensas al acné
+- Fórmula: fórmula vegana y 94% biodegradable con BHA y carbón de origen natural – ideal para pieles propensas al acné, embalaje sostenible hecho de plástico 100% reciclado
+- Aplicación: aplicar el limpiador sobre la cara húmeda (excepto los ojos y los labios), masajear suavemente, enjuagar con agua limpia, uso diario recomendado
+- Resultado: impurezas atenuadas, poros refinados y un aspecto de la piel inmediatamente limpiado y mate, efecto antibrillo de 24 horas
+- Contenido del envío: Garnier Skin Clear Carbon Cleanser, gel de lavado antipuntos negros, 1 x 250 ml
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C78VFRP8{{</world>}}

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Tienen un sabor dulce
+- Están envueltos individualmente
 - Caja con barritas de cacahuetes, almendras y chocolate
 - Ideales como un postre
-- Están envueltos individualmente
 - Conservar en un lugar fresco y seco
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CUIDADO: Ayuda a suavizar las fibras de tu ropa, dejándolas suaves
 - DURACIÓN: fórmula con x4 duración de la fragancia
-- FRAGANCIA: Mimosín Origins Bergamota Salvaje aporta a la ropa una fragancia duradera con notas cítricas y florales, con una sofisticada base de ámbar
-- Mimosín es el suavizante que lleva cuidando tu ropa desde hace más de 40 años ​
 - PROTECCIÓN: Protege las fibras de las prendas y preserva el brillo del color
+- Mimosín es el suavizante que lleva cuidando tu ropa desde hace más de 40 años ​
+- CUIDADO: Ayuda a suavizar las fibras de tu ropa, dejándolas suaves
+- FRAGANCIA: Mimosín Origins Bergamota Salvaje aporta a la ropa una fragancia duradera con notas cítricas y florales, con una sofisticada base de ámbar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CX22XL1M{{</world>}}

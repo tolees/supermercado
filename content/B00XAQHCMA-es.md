@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Las galletas Príncipe Original son excelentes para servir solas o con leche, para compartir en fiestas con familia y amigos, desayunos, meriendas o mezclarlas con tu receta de postre favorita. Atrévete y experimenta usándolas en múltiples recetas y postres como tartas, batidos o muffins. La galleta preferida ahora también con un formato abre fácil
-- Nuestro compromiso es seguir ofreciendo deliciosas galletas con la mejor calidad del trigo a la misma vez que garantizamos el menor impacto en nuestro planeta
 - Clásicas galletas Príncipe Original tipo sándwich con textura crujiente y rellenas de delicioso chocolate. Las galletas Príncipe Original vienen en formato rollo ideal para llevar a cualquier parte y disfrutar de Príncipe en cualquier momento del día
+- Las galletas Príncipe Original son excelentes para servir solas o con leche, para compartir en fiestas con familia y amigos, desayunos, meriendas o mezclarlas con tu receta de postre favorita. Atrévete y experimenta usándolas en múltiples recetas y postres como tartas, batidos o muffins. La galleta preferida ahora también con un formato abre fácil
 - Príncipe se ha convertido en un símbolo de nuestras meriendas, y continúa compartiendo su pasión por el mundo, asegurando que cada bocado sea una combinación perfecta de sabor y responsabilidad
 - La galletas Príncipe Original ricas en cereales y fibra, con un cremoso sabor a chocolate en su interior, crean la explosión de sabor.. Ideal para meriendas, snacks o para disfrutar de un delicioso desayuno, las galletas Príncipe son las galletas de toda la vida para disfrutar en cualquier momento
+- Nuestro compromiso es seguir ofreciendo deliciosas galletas con la mejor calidad del trigo a la misma vez que garantizamos el menor impacto en nuestro planeta
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XAQHCMA{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La siguiente información se aplica a cada unidad del paquete
-- Siente tu piel suave como la seda durante todo el dia: esta fórmula nutritiva contiene millones de microgotas hidratantes que alcanzan y humectan cada milímetro de tu piel para una nutrición duradera durante todo el día
-- Nuritivo y suave: con espuma abundante, esta fórmula contiene limpiadores de origen natural, nutrientes naturales de la piel y no tiene sulfatos SLES, lo que la hace suave para tu piel y su microbioma
 - Ducha tu piel y deleita tus sentidos: creado con nutrientes naturales de la piel, esta fórmula para piel seca regenera activamente la humedad natural de la piel, dejándola suave e hidratada en solo una ducha
+- La siguiente información se aplica a cada unidad del paquete
+- Nuritivo y suave: con espuma abundante, esta fórmula contiene limpiadores de origen natural, nutrientes naturales de la piel y no tiene sulfatos SLES, lo que la hace suave para tu piel y su microbioma
+- Siente tu piel suave como la seda durante todo el dia: esta fórmula nutritiva contiene millones de microgotas hidratantes que alcanzan y humectan cada milímetro de tu piel para una nutrición duradera durante todo el día
 - 24 horas de cuidado, ahora desde tu ducha: el gel de ducha Dove Advanced Care Hidratación Profunda limpia suavemente e hidrata profundamente la piel, dejándola suave y nutrida como la seda durante 24 horas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

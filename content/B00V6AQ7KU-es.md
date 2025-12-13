@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dos barritas sustituyen una comida
 - Sustitutivo de una comida para control de peso
 - Barrita sabor leche fermentada y limón bañada en chocolate blanco
+- Dos barritas sustituyen una comida
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00V6AQ7KU{{</world>}}

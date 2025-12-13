@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Hasta 70 días de frescor
 - Spray Automático Active Fresh: nuestra nueva y mejor teconologia sin aerosol
 - Infusionado con Aceites Esenciales Naturales
-- Hasta 70 días de frescor
 - Con control de intensidad y botón boost para un impulso adicional de frescura Botella del recambio está fabricada con un 50% de plático reciclado. Botella reciclable.
 - Libre de ftalatos, propulsores y colorantes
 

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Rico en vitaminas B6 y B12
-- La siguiente información se aplica a cada unidad del paquete
-- Conservar en lugar fresco y seco
 - Hecho con cacao real y avellana
+- Conservar en lugar fresco y seco
+- Rico en vitaminas B6 y B12
 - Merienda dulce, sana y rápida
 - Genial para el desayuno o en cualquier momento
+- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FXNHTXFV{{</world>}}

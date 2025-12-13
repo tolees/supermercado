@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hidrata como una crema y refresca como un gel.
 - Alta protección solar corporal en gel crema para la piel de toda la familia.
+- Hidrata como una crema y refresca como un gel.
 - Contiene extracto de jengibre 100% natural rico en antioxidantes que protege la piel frente al daño oxidativo.
 - Su fórmula Wet Skin facilita la aplicación en piel húmeda sin dejar residuo blanco. Indicado para uso diario en todo tipo de piel.
 - Proporciona una agradable sensación de frescor con un acabado sedoso y sin brillos.

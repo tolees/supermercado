@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- GRAN ANTIOXIDANTE: Ayuda a retrasar el envejecimiento prematuro y en el control de la inflamación
-- ETIQUETAS EXCLUSIVAS: Sin colorantes, sin conservantes
-- BENEFICIOS: Colabora como acción cardioprotectora y en la normalización de los valores de colesterol en sangre, la Levadura Roja de arroz de Drasanvi es el complemento ideal, ya que contribuye a mantener los niveles de colesterol en sangre normales
-- FÁCIL DE TOMAR: Tomar 1 comprimido a la hora de la comida
-- ALIMENTO FERMENTADO: Utilizado en la medicina tradicional china también como ayuda en la digestión ares añadidos ni conservantes
 - MARCA DRASANVI: Compañía Española especializada a nivel nacional e internacional en el desarrollo, distribución y comercialización de suplementos alimenticios, nutrición deportiva, alimentación bio y cosmética ecológica
+- ALIMENTO FERMENTADO: Utilizado en la medicina tradicional china también como ayuda en la digestión ares añadidos ni conservantes
+- BENEFICIOS: Colabora como acción cardioprotectora y en la normalización de los valores de colesterol en sangre, la Levadura Roja de arroz de Drasanvi es el complemento ideal, ya que contribuye a mantener los niveles de colesterol en sangre normales
+- GRAN ANTIOXIDANTE: Ayuda a retrasar el envejecimiento prematuro y en el control de la inflamación
+- FÁCIL DE TOMAR: Tomar 1 comprimido a la hora de la comida
 - MONASCUS PURPUREUS: Microorganismo que crece sobre el arroz provocando asi el crecimiento del arroz rojo. La Monokolina K, colabora en la inhibición de la producción del colesterol
+- ETIQUETAS EXCLUSIVAS: Sin colorantes, sin conservantes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09YVNM8CQ{{</world>}}

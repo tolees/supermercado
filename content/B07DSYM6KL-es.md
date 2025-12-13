@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ANNA DE CODORNIU - Cava Brut Nature - 75cl'
-date: 2025-11-30 18:39:49
+date: 2025-12-13 07:55:28
 image: 'https://m.media-amazon.com/images/I/31VfRZ3JEvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Nota de cata (vista): Se aprecia un color amarillo brillante con reflejos verdosos. De burbuja fina y persistente que forma un continuo rosario.
-- Nota de cata (boca): Es un cava equilibrado, largo y con sabores delicados.
-- Nota de cata (nariz): Se aprecian cítricos refrescantes acompañados de notas de miel, nueces, flor de almendro y manzanas.
 - Varietales: 70 Chardonnay, 15% Parellada, 15% Xarel·lo y Macabeo.
 - Consumir frío (entre 5 ºC y 8 ºC). Si es necesario, enfriar durante dos o tres horas en una cubitera con agua, sal y hielo. Evitar enfriamientos bruscos en el congelador. Se recomienda almacenar verticalmente.
+- Nota de cata (nariz): Se aprecian cítricos refrescantes acompañados de notas de miel, nueces, flor de almendro y manzanas.
+- Nota de cata (boca): Es un cava equilibrado, largo y con sabores delicados.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07DSYM6KL{{</world>}}

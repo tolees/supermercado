@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conservar en un lugar fresco y seco
 - Fabricado en Italia
+- Conservar en un lugar fresco y seco
 - Apto para dietas vegetarianas y veganas
 - Pera en mitades en almibar
 

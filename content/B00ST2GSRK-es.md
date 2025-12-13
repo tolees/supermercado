@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Fórmula minimalista que no contiene fragancia o parabenos y no es comedogénica
-- Adecuado para piel agrietada y agrietada, praches secos o ásperos y erupciones
 - Ha sido sometido a rigurosas pruebas dermatológicas para garantizar que sea adecuado incluso para la piel más sensible
+- Adecuado para piel agrietada y agrietada, praches secos o ásperos y erupciones
 - Bálsamo reparador multipropósito que alivia, repara y protege la piel
 
 [🛒 Visítala!!!]({{< param buyurl >}})

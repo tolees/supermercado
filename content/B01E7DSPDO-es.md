@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Graduación alcohólica: 48 percent
-- Un whisky que siempre aprecia ser servido solo o con hielo
-- Tras el éxito del año pasado, Lagavulin 8 vuelve por demanda popular
-- Su destilación se realiza en alambiques de pera de cobre
-- Con un color dorado, en nariz se aprecia su ligereza, frescura y las notas a chocolate con leche, limón y marítimas; con toques de carbón, menta y chocolate negro en boca, y paladar ahumado y duradero
 - Un producto de gran profundidad y personalidad que rinde homenaje a la crítica del afamado periodista y cronista de whiskies, Alfred Barnard
+- Con un color dorado, en nariz se aprecia su ligereza, frescura y las notas a chocolate con leche, limón y marítimas; con toques de carbón, menta y chocolate negro en boca, y paladar ahumado y duradero
+- Tras el éxito del año pasado, Lagavulin 8 vuelve por demanda popular
+- Un whisky que siempre aprecia ser servido solo o con hielo
+- Su destilación se realiza en alambiques de pera de cobre
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01E7DSPDO{{</world>}}

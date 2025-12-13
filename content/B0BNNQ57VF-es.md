@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fórmula mega hidratante y vegana
 - Aplicador de alta presición que garantiza la cantidad exacta para una cobertura óptima
 - Labios a prueba de todo
 - Pigmentos flexibles que se adaptan a tus labios para un acabado mate optimo inalterable durante 16 horas
+- Fórmula mega hidratante y vegana
 - No apelmaza, no se cuartea, a prueba de besos, a prueba de roces y resistente al agua
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ALTA PIGMENTACIÓN: elige y combina las sombras de ojos entre acabados mates, brillantes y metálicos. Desde tonalidades naturales a intensas, hay un tono para todo tipo de ojo.
 - FÓRMULA CREMOSA: esta sombra de ojos se desliza sobre el párpado suavemente para una aplicación fácil y al momento. Su textura ligera te permite ir de un look básico a uno llamativo y colorido.
+- ALTA PIGMENTACIÓN: elige y combina las sombras de ojos entre acabados mates, brillantes y metálicos. Desde tonalidades naturales a intensas, hay un tono para todo tipo de ojo.
+- VEGANO Y CRUELTY FREE: 3INA es una marca de maquillaje española que fabrica en Europa. Todos nuestros productos son veganos, libres de parabenos y sin crueldad animal.
 - WATERPROOF 24H: esta sombra de ojos waterproof se asienta al momento y está certificada para aguantar 24 horas sin cuartearse ni moverse. ¡Además, contiene un sacapuntas en la base!
 - VERSÁTIL: la sombra de ojos multitasking definitiva, se puede aplicar en todo el párpado, como un eyeliner atrevido, en la liínea de agua o como lápiz de cejas. Combinalo con The Color Mascara!
-- VEGANO Y CRUELTY FREE: 3INA es una marca de maquillaje española que fabrica en Europa. Todos nuestros productos son veganos, libres de parabenos y sin crueldad animal.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09ZDM27WV{{</world>}}

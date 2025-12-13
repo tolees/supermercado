@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ✅ SOSTENIBLE: Cultivado con métodos sostenibles que protegen el ecosistema local, nuestro arroz apoya prácticas agrícolas responsables y respetuosas con el medio ambiente.
 - ✅ CALIDAD: Destacado por su textura cremosa y melosa, aportando una consistencia suave que potencia el sabor de cada ingrediente, ideal para recetas con caldos ricos y aromáticos.
+- ✅ AUTÉNTICO: Con Denominación de Origen Protegida, que garantiza su autenticidad y calidad, cultivado exclusivamente en el Parque Natural de la Albufera de Valencia.
+- ✅ SOSTENIBLE: Cultivado con métodos sostenibles que protegen el ecosistema local, nuestro arroz apoya prácticas agrícolas responsables y respetuosas con el medio ambiente.
 - ✅ COMBÍNALO: Mejora tus recetas combinando nuestro Arroz J. Sendra con la gama de caldos El Paeller, para una experiencia gastronómica auténtica y completa.
 - ✅ ESPECIAL: Arroz J. Sendra de grano redondo y perlado, ideal para paellas tradicionales, arroces melosos y caldosos, absorbiendo intensamente los sabores de caldos, sofritos y especias.
-- ✅ AUTÉNTICO: Con Denominación de Origen Protegida, que garantiza su autenticidad y calidad, cultivado exclusivamente en el Parque Natural de la Albufera de Valencia.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DZ74LJPM{{</world>}}

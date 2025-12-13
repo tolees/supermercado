@@ -29,13 +29,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - producto 2: Aroma: Perfil aromático con buena intensidad, fresco y afrutado con notas de crianza
-- producto 1: Tipo de uva: Elaborado con una selección de uvas Verdejo, una de las uvas blancas más reconocidas y que más gusta en nuestro país; fermentado en depósitos de acero inoxidable a una temperatura de 16º C
-- producto 1: Apariencia: Vino blanco color amarillo pálido con aspecto brillante y matices dorados
-- producto 1: Aroma: Presenta un perfil aromático muy refrescante de frutas tropicales y un fondo de matices florales muy discreto
-- producto 2: Apariencia: Color amarillo pálido con tonos verdosos, limpio y cristalino; su burbuja fina se desprende lentamente formando corona
-- producto 1: Gusto: En boca se manifiesta ligero con un final de acidez refrescante y un agradable retrogusto
-- producto 2: Gusto: En boca está bien estructurado, es suave y equilibrado, las sensaciones retronasales son limpias
 - producto 2: Tipo de uva: Elaborado a base de las uvas Parellada, Macabeo y Xarel-lo; siguen el metodo tradicional de fermentación en botella; finalmente permanecen en las cuevas a menos de 16ºC, a oscuras y en silencio un mínimo de 12 meses
+- producto 1: Aroma: Presenta un perfil aromático muy refrescante de frutas tropicales y un fondo de matices florales muy discreto
+- producto 2: Gusto: En boca está bien estructurado, es suave y equilibrado, las sensaciones retronasales son limpias
+- producto 2: Apariencia: Color amarillo pálido con tonos verdosos, limpio y cristalino; su burbuja fina se desprende lentamente formando corona
+- producto 1: Apariencia: Vino blanco color amarillo pálido con aspecto brillante y matices dorados
+- producto 1: Tipo de uva: Elaborado con una selección de uvas Verdejo, una de las uvas blancas más reconocidas y que más gusta en nuestro país; fermentado en depósitos de acero inoxidable a una temperatura de 16º C
+- producto 1: Gusto: En boca se manifiesta ligero con un final de acidez refrescante y un agradable retrogusto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B87QMJ7K{{</world>}}

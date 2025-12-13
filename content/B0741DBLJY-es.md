@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Deliciosas piezas en forma de estrellitas
 - Caramelos de goma
+- Deliciosas piezas en forma de estrellitas
 - Mix de sabores frutales
 - Conservar en lugar fresco y seco
 

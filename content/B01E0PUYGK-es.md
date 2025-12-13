@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fotoprotector fluido para el rostro y el cuerpo de niños y bebés con filtros 100% minerales.
 - Protege frente a la radiación UV indirecta.
-- Se absorbe rápidamente y tiene una alta resistencia al agua.
 - Especialmente formulado para la piel frágil de los más pequeños.
+- Fotoprotector fluido para el rostro y el cuerpo de niños y bebés con filtros 100% minerales.
+- Se absorbe rápidamente y tiene una alta resistencia al agua.
 - Proporciona una alta protección solar frente a la radiación UVB/UVA.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

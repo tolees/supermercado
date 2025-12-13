@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- INFUSIÓN DE HIDRATACIÓN: Con vitamina B5, la mascarilla nutritiva retiene la humedad en la fibra capilar para una hidratación intensa
-- FÁCIL DE USAR: Para nutrir profundamente, aplicar la mascarilla desde medios a puntas, dejar actuar 3-5 minutos y enjuagar bien
 - CONTROL DEL FRIZZ: La mascarilla hidratante suaviza el cabello y proporciona control duradero del encrespamiento
 - HIDRATACIÓN PROFUNDA: Hidrata intensamente la fibra capilar para restaurar la suavidad y la elasticidad
+- FÁCIL DE USAR: Para nutrir profundamente, aplicar la mascarilla desde medios a puntas, dejar actuar 3-5 minutos y enjuagar bien
+- INFUSIÓN DE HIDRATACIÓN: Con vitamina B5, la mascarilla nutritiva retiene la humedad en la fibra capilar para una hidratación intensa
 - SALUD DEL CUERO CABELLUDO: Usada junto con el champú Hydrating Micellar Shampoo, la mascarilla respeta, equilibra y protege el microbioma del cuero cabelludo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- TIPO DE PELO: este tratamiento capilar intensivo de Pantene es adecuado para reparar el pelo débil y dañado
 - POTENTE FÓRMULA con Pro-V, lípidos fortalecedores y antioxidantes protectores que nutren desde dentro y ayudan a reparar el pelo con signos visibles de daño* en tan solo 30 segundos. (*daño a la suavidad de la superficie del pelo)
-- Producto capilar testado por el Swiss Vitamin Institute
-- AMPOLLAS TRATAMIENTO INTENSIVO con el complejo Pro-V más concentrado de Pantene, ahora enriquecido con 3 nutrientes: péptido de colágeno + aceite de albaricoque + vitamina B7
+- TIPO DE PELO: este tratamiento capilar intensivo de Pantene es adecuado para reparar el pelo débil y dañado
 - MODO DE USO: tras lavar con el champú, aplicar sobre el pelo mojado de medios a puntas; dejar pasar al menos 30 segundos y aclarar
+- AMPOLLAS TRATAMIENTO INTENSIVO con el complejo Pro-V más concentrado de Pantene, ahora enriquecido con 3 nutrientes: péptido de colágeno + aceite de albaricoque + vitamina B7
+- Producto capilar testado por el Swiss Vitamin Institute
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F7LXDN7F{{</world>}}

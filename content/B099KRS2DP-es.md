@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Halls llegó a España en los años 70 convirtiéndose a día de hoy en el número uno de caramelos refrescantes en España
-- Disfruta de los beneficios de Halls, brindando un momento de frescor en tu garganta en cualquier momento
 - Cada paquete contiene 4 envases de 32 g, diseñados para su fácil transporte, permitiendo degustarlos en cualquier ocasión, ya sea en el trabajo, en casa o mientras viajáis
 - Con ingredientes de calidad, Halls garantiza un sabor intenso y delicioso; combinando el sabor a fresa sin azúcar con un toque refrescante
+- Disfruta de los beneficios de Halls, brindando un momento de frescor en tu garganta en cualquier momento
+- Halls llegó a España en los años 70 convirtiéndose a día de hoy en el número uno de caramelos refrescantes en España
 - Halls Caramelos Refrescantes es la elección para quienes buscan un delicioso sabor fresa
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Disfruta del auténtico sabor asiático con MAGGI Tikka Masala
 - Salsa con un toque picante para un auténtico plato de curry
+- Disfruta del auténtico sabor asiático con MAGGI Tikka Masala
 - Rápidas, fáciles de preparar y con auténtico sabor asiático
 - Es la receta preferida por los consumidores
 

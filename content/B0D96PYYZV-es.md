@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🛺 GARANTÍA DE DEVOLUCIÓN: En FRISAFRAN nos enorgullece ofrecer una garantía de devolución de 14 días en todos nuestros productos Si tienes alguna pregunta o necesitas ayuda con cualquiera de nuestros productos, nuestro amable servicio de atención al cliente estará encantado de asistirte
 - 😊 APOYO A LA DIGESTIÓN: Te rooibos es conocida por sus propiedades digestivas. Disfruta de una taza después de las comidas para ayudar a calmar tu sistema digestivo y aliviar posibles malestares estomacales. Este es un producción 100% natural, ecológica y artesanal. No irradiado o genéticamente modificado. Consumelo frío o caliente!.
-- 🌺 SABOR EXQUISITO: Nuestro té Infusión ecológica de rooibos y naranja es una Infusión relajante y digestiva, te deleitará con su sabor excepcionalmente refrescante y afrutado, convirtiendo cada sorbo en una experiencia deliciosa.
 - 🌿 EMBALAJE ECOLÓGICO: Contribuye al cuidado del planeta con nuestro embalaje resellable y ecológico, que no solo preserva la frescura de tu té sino que también reduce tu huella ambiental
+- 🌺 SABOR EXQUISITO: Nuestro té Infusión ecológica de rooibos y naranja es una Infusión relajante y digestiva, te deleitará con su sabor excepcionalmente refrescante y afrutado, convirtiendo cada sorbo en una experiencia deliciosa.
+- 🛺 GARANTÍA DE DEVOLUCIÓN: En FRISAFRAN nos enorgullece ofrecer una garantía de devolución de 14 días en todos nuestros productos Si tienes alguna pregunta o necesitas ayuda con cualquiera de nuestros productos, nuestro amable servicio de atención al cliente estará encantado de asistirte
 - 🌼 ANTIOXIDANTE NATURAL : Los antioxidantes te ayudan a evitar todas las consecuencias del estrés oxidativo. Este proceso es algo normal para el ser humano pero trae como consecuencias el envejecimiento, pérdida de la agudeza visual y de la memoria. Esta infusion de Rooibos Antiox ecológico evita todos estos procesos y fortalecer tu cuerpo y mente.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

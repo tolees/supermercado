@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🍒 SABOR CEREZA: nuestros caramelos con forma de corazón tienen un característico e inconfundible sabor a cereza, una auténtica delicia para el paladar de niños y adultos. Perfectos para regalar a parejas y amigos
-- 🚫 LIBRE DE ALÉRGENOS: Nuestros caramelos se fabrican en una fábrica que combina las más modernas tecnologías con la imaginación y el cuidado artesanal; sin gluten, sin lactosa
 - 💯 CARAMELOS CERDÁN: Es una empresa familiar líder en Europa en la fabricación de caramelo duro con una amplia gama de productos para niños y adultos. Fundada en 1914, lleva más 100 años endulzando paladares por todo el mundo
-- ❤️ IDEAL PARA SAN VALENTÍN: endulza el 14 de febrero y acompaña tu regalo del día de los enamorados para tu novio, novia, amigos o familiares con estos corazones
+- 🚫 LIBRE DE ALÉRGENOS: Nuestros caramelos se fabrican en una fábrica que combina las más modernas tecnologías con la imaginación y el cuidado artesanal; sin gluten, sin lactosa
 - 🍬 CARAMELO CON FORMA DE CORAZÓN PACKAGING MODERNO: Caramelo duro, sin gluten y libre de alérgenos. Cada bolsa contiene 333 unidades
+- ❤️ IDEAL PARA SAN VALENTÍN: endulza el 14 de febrero y acompaña tu regalo del día de los enamorados para tu novio, novia, amigos o familiares con estos corazones
+- 🍒 SABOR CEREZA: nuestros caramelos con forma de corazón tienen un característico e inconfundible sabor a cereza, una auténtica delicia para el paladar de niños y adultos. Perfectos para regalar a parejas y amigos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DJP9QNQV{{</world>}}

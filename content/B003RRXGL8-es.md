@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Agua Mineral Natural Con Gas
 - Su alto nivel de carbonatación le otorga intensas burbujas y un sabor único
 - San Pellegrino 1 litro PET es un práctico formato ideal para tomar en el hogar
+- Agua Mineral Natural Con Gas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B003RRXGL8{{</world>}}

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Comida española fácil de preparar
+- Fuente natural de fibra
 - Ingredientes naturales
 - Pais de origen: España
-- Fuente natural de fibra
 - ‎Almacenar en un sitio seco y oscuro
 
 [🛒 Comprar!!!]({{< param buyurl >}})

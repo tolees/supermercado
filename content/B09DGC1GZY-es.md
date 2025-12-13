@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Variedades de uva: Garnacha y Syrah
 - Región: vino tinto del Valle del Ródano
 - Denominación: Côtes du Rhône
 - Color: un maravilloso e intenso color rubí. Nariz: aromas de frutas rojas y flores de primavera. Boca: generoso, redondo y concentrado en fruta.
-- Variedades de uva: Garnacha y Syrah
 - Vino certificado Terra Vitis: certificación reconocida por el Ministerio francés de Agricultura y Alimentación, que garantiza una viticultura responsable que protege la naturaleza
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

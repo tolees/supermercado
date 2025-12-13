@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - PLACER EN FAMILIA: Los Roscos de Anís Bañados de Chocolate son el postre perfecto para compartir en familia durante la navidad. La clave para que queden perfectos es el anís, que les da un sabor muy característico.
 - CERTIFICADO DE CALIDAD: Elaborado en planta productiva de Jaén, con Certificación IFS Foods.
 - SABOR IRRESISTIBLE: Lo más destacado de los Roscos de Anís Bañados de Chocolate es su capa de chocolate con leche que los hace aún más irresistibles. Esta capa se derrite en la boca y se mezcla con el sabor del anís, creando una combinación perfecta de sabores y texturas.
-- RECETA TRADICIONAL: Los Roscos de Anís Bañados de Chocolate son un dulce típico del sur de España que tiene una gran tradición en la época navideña. Se trata de una rosquilla que se asemeja a un donut, pero que se elabora con anís y se baña en chocolate con leche.
 - ELABORACIÓN: La receta de los Roscos de Anís Bañados de Chocolate es muy sencilla y se lleva transmitiendo de generación en generación en muchas familias españolas. Estos dulces se preparan con ingredientes muy básicos como harina, azúcar, huevos, anís y se hornean en el horno.
+- RECETA TRADICIONAL: Los Roscos de Anís Bañados de Chocolate son un dulce típico del sur de España que tiene una gran tradición en la época navideña. Se trata de una rosquilla que se asemeja a un donut, pero que se elabora con anís y se baña en chocolate con leche.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C4BK6XXG{{</world>}}

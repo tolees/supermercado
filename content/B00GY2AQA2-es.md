@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- PASTA DENTÍFRICA: Alivio inmediato de la sequedad oral. Está especialmente desarrollada para el cuidado de la boca seca. Su completa formulación calma la sensación de sequedad oral, refresca la boca, remineraliza el esmalte y refuerza las encías
 - LACER: Lacer, que nació en 1949, tiene el propósito de mejorar la salud de las personas cada día, cuidando de su bienestar. Porque nos importa la salud integral y del planeta, siempre con calidad y rigurosidad en nuestra actuación
+- MODO DE USO: Aplicar sobre el cepillo dental y cepillar durante un mínimo de 2 minutos para obtener una limpieza óptima. Uso después de cada comida
+- PASTA DENTÍFRICA: Alivio inmediato de la sequedad oral. Está especialmente desarrollada para el cuidado de la boca seca. Su completa formulación calma la sensación de sequedad oral, refresca la boca, remineraliza el esmalte y refuerza las encías
 - FORMULADO CON: El aporte de Flúor refuerza el esmalte dental y proporciona una eficaz prevención de la caries dental. La eficaz acción antimicrobiana del Cymenol reduce la formación de placa dental de forma prolongada y disminuye la inflamación de los tejidos gingivales
 - REEQUILIBRA LA FLORA BACTERIANA: Recupera la protección de la saliva frente a las bacterias causantes del mal aliento y mal sabor de boca. Los componentes activos de la fórmula actúan como un regulador salival que compensa el déficit de sales minerales que contiene la saliva y estimula la secreción de la misma, favoreciendo el equilibrio del flujo salival
-- MODO DE USO: Aplicar sobre el cepillo dental y cepillar durante un mínimo de 2 minutos para obtener una limpieza óptima. Uso después de cada comida
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00GY2AQA2{{</world>}}

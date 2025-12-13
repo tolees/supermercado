@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cerveza nitrogenada de color negro rubí con una espuma cremosa blanca marfil y aroma a café torrefacto
 - Con 4.2% de alcohol en volumen
 - Ingredientes: agua, malta pilsen, CEBADA tostada, lúpulo y la exclusiva levadura de Guinness
 - Consumirla entre 2 y 4 grados C para obtener sus máximas cualidades
 - Cerveza negra de tipo ale y estilo stout
-- Cerveza nitrogenada de color negro rubí con una espuma cremosa blanca marfil y aroma a café torrefacto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07B18MXH1{{</world>}}

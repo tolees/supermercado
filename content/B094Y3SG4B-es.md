@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- EDULCORANTE ACALÓRICO > edulcorante natural bajo en calorías (apenas 0,24 calorías por gramo).
 - DIETAS E INTOLERANCIAS > edulcorante Eritritol apto para veganos, celíacos o intolerantes al gluten
 - MULTIUSOS > edulcorante para repostería (panificados y bollería) y para bebidas e infusiones.
 - 100% ERITRITOL > contiene solo Eritritol en polvo fino granulado cristalino de color blanco.
+- EDULCORANTE ACALÓRICO > edulcorante natural bajo en calorías (apenas 0,24 calorías por gramo).
 - ERITRITOL ECOLÓGICO > Eritritol (E-968) con certificado ecológico, sin aditivos ni colorantes.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

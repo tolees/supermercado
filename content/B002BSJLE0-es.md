@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Old Parr 12 años es la culminación de todo el esfuerzo y la experiencia de nuestro master blender, que reúne de manera experta diferentes tipos de barriles de varias destilerías
-- Una combinación de whiskies en el punto exacto de su proceso de maduración
-- Old Parr 12 años es un whisky escocés blended cuyo corazón se compone del whisky de malta Cragganmore
 - La expresión del equilibrio puro entre suaves hojas verdes, notas de miel y frutas
+- Old Parr 12 años es un whisky escocés blended cuyo corazón se compone del whisky de malta Cragganmore
+- Una combinación de whiskies en el punto exacto de su proceso de maduración
 - Adecuado para disfrutar solo o con un gran cubito de hielo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

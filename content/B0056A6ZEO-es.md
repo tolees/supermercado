@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Detergente ligeramente alcalino, no hay sustancias peligrosas
-- Muy suave en el material
-- Para una limpieza a fondo de delicada pintura y las superficies de plástico
 - Los tensioactivos son biodegradables según la ocde
+- Muy suave en el material
 - Ready touse productos de limpieza (rtu)
+- Para una limpieza a fondo de delicada pintura y las superficies de plástico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0056A6ZEO{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Comparte más juguetones y amorosos momentos con tu gato con Felix Party Mix, contiene una irresistible y colorida mezcla de jugosos snacks que están llenos de tentadores aromas, deliciosos sabores y apetecibles texturas
 - Vitaminas y minerales que contribuyen en una vida saludable, la vitalidad y la felicidad de tu gato
+- Comparte más juguetones y amorosos momentos con tu gato con Felix Party Mix, contiene una irresistible y colorida mezcla de jugosos snacks que están llenos de tentadores aromas, deliciosos sabores y apetecibles texturas
 - Eso no es todo! Felix Party Mix contiene proteínas, vitaminas y ácidos grasos Omega 6 para ayudar a tu gato a vivir una vida saludable y feliz
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

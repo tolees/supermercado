@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Dermatológicamente testado​
-- Gel de ducha relajante con botella hecha con plástico 100% reciclado
-- Gel de ducha 3 en 1 que limpia el cuerpo, cara y cabello
-- Gel de ducha envolvente con fragancia cautivadora e irresistible de chocolate que dura todo el día
 - Gel de baño formulado con 87% de ingredientes de origen natural
+- Gel de ducha envolvente con fragancia cautivadora e irresistible de chocolate que dura todo el día
 - Ayuda a combatir las bacterias que causan el mal olor
+- Gel de ducha 3 en 1 que limpia el cuerpo, cara y cabello
+- Gel de ducha relajante con botella hecha con plástico 100% reciclado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07CHF6PHK{{</world>}}

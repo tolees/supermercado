@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- MODO DE USO: Humedecer la pastilla con agua y aplicar sobre la zona deseada
-- Desmaquillante en formato sólido, libre de grasa animal o industrial, formulado con proteínas de leche. Es un excelente limpiador y exfoliante para eliminar a fondo las impurezas generadas por los maquillajes
-- HIGIENE PERSONAL. Están libres de grasa animal o industrial
-- BENEFICIOS: Ayuda a eliminar restos e impurezas causados por el maquillaje y otros tratamientos
 - PROPIEDADES: Indicado para todo tipo de pieles
+- MODO DE USO: Humedecer la pastilla con agua y aplicar sobre la zona deseada
+- BENEFICIOS: Ayuda a eliminar restos e impurezas causados por el maquillaje y otros tratamientos
+- HIGIENE PERSONAL. Están libres de grasa animal o industrial
+- Desmaquillante en formato sólido, libre de grasa animal o industrial, formulado con proteínas de leche. Es un excelente limpiador y exfoliante para eliminar a fondo las impurezas generadas por los maquillajes
 - ETIQUETAS: Este producto es apto para celíacos y, además, está libre de alérgenos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

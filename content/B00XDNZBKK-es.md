@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Coca-Cola Light es la refrescante bebida sin azúcar y sin calorías, óptima para disfrutar en cualquier ocasión
+- Desde 1982 Coca-Cola Light ha refrescado el mundo con su sabor único, disfruta cada momento con esta icónica bebida y siente la chispa de la felicidad
 - Disfruta el refrescante sabor de Coca-Cola Light, sin azúcar y con edulcorantes; Tómala bien fría con hielo y una rodaja de lima o limón para potenciar su delicioso sabor
 - Cada pack incluye 24 latas de 330 ml, para que puedas compartir con amigos o disfrutar de momentos tranquilos en casa
 - Nos preocupa el medio ambiente tanto como a ti, por eso las envases son 100% reciclables, tíralos al contenedor amarillo
-- Desde 1982 Coca-Cola Light ha refrescado el mundo con su sabor único, disfruta cada momento con esta icónica bebida y siente la chispa de la felicidad
-- Coca-Cola Light es la refrescante bebida sin azúcar y sin calorías, óptima para disfrutar en cualquier ocasión
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XDNZBKK{{</world>}}

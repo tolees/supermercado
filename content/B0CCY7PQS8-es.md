@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- MAESTROS ACEITEROS. Coosur tiene una dilatada historia de más de 50 años. Nuestros orígenes se sitúan en la provincia andaluza de Jaén, la mayor región productora de aceite de oliva de todo el mundo. Desde allí, producimos, refinamos, envasamos y exportamos a más de 25 países de todo el mundo.
-- IDÓNEO PARA COCINAR UNA GRAN VARIEDAD DE PLATOS. Recomendado para la elaboración de pan, pastas y pasteles. Ideal para la elaboración de salsas y cremas calientes, guacamoles o realizar macerados de pescados o conservas vegetales.
-- ACEITE DE OLIVA VIRGEN EXTRA 100% HOJIBLANCA. Un aceite monovarietal elaborado únicamente con aceitunas de la variedad Hojiblanca, muy extendidas por el campo andaluz. El resultado es un aceite suave y dulce, muy apreciado por paladares poco acostumbrados al amargor y picor del aove.
-- LA BASE DE UNA DIETA SALUDABLE. El aceite de oliva ha sido desde siempre un ingrediente fundamental en la cocina y la base de una dieta saludable. En Coosur elaboramos aceite de oliva de las variedades arbequina, hojiblanca, picual y cornicabra, para que elijas el que más te guste para cada plato, sabiendo que es sinónimo de calidad y sabor.
 - SABOR CON TOQUE DE AMARGOR Y PICOR. Produce un aceite de oliva virgen extra de color dorado intenso herbáceo, con aromas de frutas maduras, tomate y recuerdos de aguacate. Presenta una amplia gama de sabores, sobresaliendo el dulce con un fino toque de amargor y un picor moderado.
+- ACEITE DE OLIVA VIRGEN EXTRA 100% HOJIBLANCA. Un aceite monovarietal elaborado únicamente con aceitunas de la variedad Hojiblanca, muy extendidas por el campo andaluz. El resultado es un aceite suave y dulce, muy apreciado por paladares poco acostumbrados al amargor y picor del aove.
+- IDÓNEO PARA COCINAR UNA GRAN VARIEDAD DE PLATOS. Recomendado para la elaboración de pan, pastas y pasteles. Ideal para la elaboración de salsas y cremas calientes, guacamoles o realizar macerados de pescados o conservas vegetales.
+- LA BASE DE UNA DIETA SALUDABLE. El aceite de oliva ha sido desde siempre un ingrediente fundamental en la cocina y la base de una dieta saludable. En Coosur elaboramos aceite de oliva de las variedades arbequina, hojiblanca, picual y cornicabra, para que elijas el que más te guste para cada plato, sabiendo que es sinónimo de calidad y sabor.
+- MAESTROS ACEITEROS. Coosur tiene una dilatada historia de más de 50 años. Nuestros orígenes se sitúan en la provincia andaluza de Jaén, la mayor región productora de aceite de oliva de todo el mundo. Desde allí, producimos, refinamos, envasamos y exportamos a más de 25 países de todo el mundo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CCY7PQS8{{</world>}}

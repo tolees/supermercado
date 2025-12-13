@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Envasado en atmósfera protectora.
-- Alto contenido de vitamina E
 - Alto contenido de fibra
+- Alto contenido de vitamina E
 - Apto para dietas vegetarianas y veganas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

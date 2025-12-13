@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Un paquete permite preparar hasta 114 tazas
-- Envasado al vacío paquetes de 500 g conservando todo su aroma y sabor
 - Formato ahorro
+- Envasado al vacío paquetes de 500 g conservando todo su aroma y sabor
 - Café molido en el punto adecuado para lograr un excelente filtro
+- Un paquete permite preparar hasta 114 tazas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07QJCSH82{{</world>}}

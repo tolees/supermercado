@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🎁 PRESENTACIÓN DE 250G CON EMPAQUE SELLADO HERMÉTICO Bolsa con válvula unidireccional que conserva el aroma original del café oscuro. Café en grano ideal para regalo o uso diario. Disfruta de intensidad sin comprometer la calidad.
 - ☕ CAFÉ DE ESPECIALIDAD TUERTO OSCURO CON SABOR INTENSO Café colombiano en grano con notas profundas a chocolate negro y caramelo tostado. Ideal para quienes buscan café fuerte en sabor aroma y cuerpo. 100% arábica certificado.
+- 🎁 PRESENTACIÓN DE 250G CON EMPAQUE SELLADO HERMÉTICO Bolsa con válvula unidireccional que conserva el aroma original del café oscuro. Café en grano ideal para regalo o uso diario. Disfruta de intensidad sin comprometer la calidad.
 - 🎯 CAFÉ TUERTO FRESCO RECIENTE EN ESPAÑA DE ALTA CALIDAD Tueste oscuro realizado localmente para preservar matices aromáticos. Café tostado fresco para sabor pleno y persistente. Café premium sin azúcar ni químicos añadidos.
 - 💎 CAFÉ COLOMBIANO CON 86 PUNTOS SCA DE ORIGEN ÚNICO Granos cultivados en altura seleccionados por su perfil robusto. Café especial gourmet con aroma fuerte y sabor prolongado. Ideal para preparar espressos potentes y balanceados.
 - 🔥 CAFÉ EN GRANO PARA ESPRESSO CON CREMA ESPESA NATURAL Perfecto para cafetera italiana máquina espresso o superautomática. Café molido fino que genera crema densa sin aditivos. Café barista intenso en cada extracción.

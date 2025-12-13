@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cada estuche contiene 6 barritas
-- Contiene vitaminas, minerales y está una fuente de fibra
 - Barritas de cereales integrales con chocolate
+- Contiene vitaminas, minerales y está una fuente de fibra
 - Sin colorantes o aroma artificiales
+- Cada estuche contiene 6 barritas
 - Se puede servir en el desayuno con fruta, leche o agua
 
 [🛒 Comprar!!!]({{< param buyurl >}})

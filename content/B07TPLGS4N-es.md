@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - y ahora, ¡también sin lactosa!
-- puleva: bienestar para disfrutar de la vida.
 - proviene de granjas ecológicas.
+- puleva: bienestar para disfrutar de la vida.
 - cuenta con el control y certificación de la producción ecológica.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

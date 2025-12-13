@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Disfrute de este Whisky solo, con hielo o en un cóctel como un Old Fashioned o un Dewars Whisky Highball, o regale una botella de Whisky
-- Dewars es el Blended Scotch Whisky más premiado del mundo
 - Blended Scotch Whisky de cuerpo medio con notas de dulce de vainilla, humo, toffee, miel de brezo y roble
-- Blended Scotch Whisky de doble envejecimiento, acabado en barricas de roble especialmente seleccionadas para conseguir una mayor suavidad en una bebida espirituosa bien redondeada
+- Disfrute de este Whisky solo, con hielo o en un cóctel como un Old Fashioned o un Dewars Whisky Highball, o regale una botella de Whisky
 - Una botella de 100 cl de Dewars White Label Blended Scotch Whisky
+- Dewars es el Blended Scotch Whisky más premiado del mundo
+- Blended Scotch Whisky de doble envejecimiento, acabado en barricas de roble especialmente seleccionadas para conseguir una mayor suavidad en una bebida espirituosa bien redondeada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B009UWE7VM{{</world>}}

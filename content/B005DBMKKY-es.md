@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto para el rostro
 - Cuida tu piel
+- Producto para el rostro
 - De alta calidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

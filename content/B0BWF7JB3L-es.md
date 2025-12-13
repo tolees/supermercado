@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fórmula Floid: Enriquecida con componentes vegetales, la innovadora fórmula Floid de este jabón para la higiene hombre reequilibra, regenera e hidrata la piel
-- Sensación relajante: La combinación de pachulí y musgo de roble con la suavidad cremosa de la vainilla de este jabon natural aporta una sensación relajante
 - Aceite de palma sostenible: Este jabon pastilla está hecho con aceite de palma RSPO de cultivos gestionados de forma sostenibilidad medioambiental y socialmente
-- The Genuine desde 1932: En una barbería de la calle Condell en Barcelona, nace esta fórmula atemporal, presente hoy en la línea de jabones artesanales de Floid, que te acompañará siempre
+- Sensación relajante: La combinación de pachulí y musgo de roble con la suavidad cremosa de la vainilla de este jabon natural aporta una sensación relajante
+- Fórmula Floid: Enriquecida con componentes vegetales, la innovadora fórmula Floid de este jabón para la higiene hombre reequilibra, regenera e hidrata la piel
 - Nutre la piel: Mantén la piel suave con este jabon neutro Floid 100% vegetal con lecitina, manteca de karité y aceite de sésamo que protege y suaviza la piel.
+- The Genuine desde 1932: En una barbería de la calle Condell en Barcelona, nace esta fórmula atemporal, presente hoy en la línea de jabones artesanales de Floid, que te acompañará siempre
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BWF7JB3L{{</world>}}

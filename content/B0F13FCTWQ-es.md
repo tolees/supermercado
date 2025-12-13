@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La siguiente información se aplica a cada unidad del paquete
-- Sin jabón
+- Formulado sin agua ni conservantes
 - Inca Omega Oil reforzado con Vitamina E
+- La siguiente información se aplica a cada unidad del paquete
 - Higiene y cuidado de pieles muy atópicas, secas y sensibles
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
-- Formulado sin agua ni conservantes
+- Sin jabón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F13FCTWQ{{</world>}}

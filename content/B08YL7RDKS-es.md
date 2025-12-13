@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Contienen 50% menos de grasa
 - Producto aperitivo de patata horneado
-- Con aroma a carne ahumada
 - Conservar en lugar fresco y seco
+- Contienen 50% menos de grasa
+- Con aroma a carne ahumada
 - Patatas de bolsa ideales para picoteo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Almacenar en lugar fresco y seco.
+- Eritritol es perfecto para incluirlo en sus recetas de repostería ya que resiste la cocción y el horneado. ¡No te quedes sin probarlo!
 - Ingredientes: Eritritol (100%). Ingrediente procedente de la agricultura ecológica. Este producto se fabrica en una planta dónde se manipulan frutos secos, soja y sésamo.
 - Edulcorante de mesa a base de eritritol ecológico. Producto orgánico, sin gluten, sin proteína láctea y con bajo contenido en sal. Eritritol (100%). Ingrediente procedente de la agricultura ecológica.
-- Eritritol es perfecto para incluirlo en sus recetas de repostería ya que resiste la cocción y el horneado. ¡No te quedes sin probarlo!
 - "Modo de empleo: Puede utilizarlo para edulcorar zumos, batidos, café, bebidas vegetales, etc. Tambien es ideal para incluirlo en sus recetas de repostería ya que resiste la cocción y el horneado. Precauciones de uso: Un consumo excesivo puede tener efectos laxantes."
-- Almacenar en lugar fresco y seco.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B082VVLV32{{</world>}}

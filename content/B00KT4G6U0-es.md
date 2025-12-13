@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CÚRCUMA, TÉ MATCHA, CANELA, CLAVO Y NARANJA - Combina el sabor picante y cálido de la Cúrcuma, con el aroma dulce de la Canela y el toque ácido de la naranja.
-- BENEFICIOS PARA EL ORGANISMO - La cúrcuma es una raíz que te ayuda a prevenir la acumulación de las grasas y facilita la digestión.
-- SUPERALIMENTO - La Infusión de Cúrcuma con Té Matcha es una de las favoritas de la gama Hornimans de tés e infusiones con los súperalimentos que están más de moda, como Jengibre, Açai, Fruta de Dragón o Lavanda, ¡elige tu favorita!
 - CÓMO PREPARAR - Calienta el agua hasta que hierva. Pon una bolsita en la taza y vierte el agua. Tapa la taza para que la mezcla libere su fragancia y sabor. Deja la bolsita en el agua de 3 a 5 minutos, o si lo prefieres, no la saques.
+- SUPERALIMENTO - La Infusión de Cúrcuma con Té Matcha es una de las favoritas de la gama Hornimans de tés e infusiones con los súperalimentos que están más de moda, como Jengibre, Açai, Fruta de Dragón o Lavanda, ¡elige tu favorita!
+- BENEFICIOS PARA EL ORGANISMO - La cúrcuma es una raíz que te ayuda a prevenir la acumulación de las grasas y facilita la digestión.
 - FACILITA LA DIGESTIÓN - La Cúrcuma es una raíz que ayuda a prevenir la acumulación de grasas y facilita la digestión. Además, el Té Matcha fortalece el sistema inmunitario, reduce el estrés y ayuda a eliminar líquidos.
+- CÚRCUMA, TÉ MATCHA, CANELA, CLAVO Y NARANJA - Combina el sabor picante y cálido de la Cúrcuma, con el aroma dulce de la Canela y el toque ácido de la naranja.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00KT4G6U0{{</world>}}

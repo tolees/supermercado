@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🔥 ELABORACIÓN TRADICIONAL: Siguiendo un proceso artesanal que conserva la esencia del cacao, desde su recolección manual hasta su tueste y prensado.
-- 📦 FORMATO AHORRO DE 3,3 KG – EDICIÓN SOLIDARIA: Apoya la iniciativa "No al Bullying" con esta edición especial, mientras disfrutas de tu ColaCao de siempre en un tamaño ideal.
-- 🌍 COMPROMISO CON LA SOSTENIBILIDAD: Cacao con certificación UTZ, garantizando prácticas de cultivo responsables con el medio ambiente y las comunidades productoras.
 - 🍫 CACAO NATURAL Y SIN ADITIVOS: Elaborado con cacao 100% natural, sin conservantes ni aditivos, manteniendo su sabor original y su textura característica.
+- 📦 FORMATO AHORRO DE 3,3 KG – EDICIÓN SOLIDARIA: Apoya la iniciativa "No al Bullying" con esta edición especial, mientras disfrutas de tu ColaCao de siempre en un tamaño ideal.
 - ☕ TEXTURA ÚNICA CON GRUMITOS: Al ser cacao natural, conserva su característica textura con grumitos, aportando una experiencia auténtica y deliciosa en cada sorbo.
+- 🔥 ELABORACIÓN TRADICIONAL: Siguiendo un proceso artesanal que conserva la esencia del cacao, desde su recolección manual hasta su tueste y prensado.
+- 🌍 COMPROMISO CON LA SOSTENIBILIDAD: Cacao con certificación UTZ, garantizando prácticas de cultivo responsables con el medio ambiente y las comunidades productoras.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FLQC89LM{{</world>}}

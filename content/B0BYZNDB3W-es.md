@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Una añada 2020 puesta a prueba, pero realzada por un verano caluroso y seco, y un otoño suave y soleado
 - Finca de la familia Castel, certificación Terra Vitis desde 2012
+- Una añada 2020 puesta a prueba, pero realzada por un verano caluroso y seco, y un otoño suave y soleado
+- Mezcla: Merlot (71 %), Cabernet Sauvignon (17 %), Malbec (8 %), Cabernet Franc (4 %)
 - Bonito color oscuro; en nariz es intenso, con aromas de fruta roja madura y notas de eucalipto; en boca es sedoso, con deliciosos aromas de frutos negros y rojos y una notable frescura
 - 6 botellas de vino tinto de Burdeos, denominación de origen Burdeos
-- Mezcla: Merlot (71 %), Cabernet Sauvignon (17 %), Malbec (8 %), Cabernet Franc (4 %)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BYZNDB3W{{</world>}}

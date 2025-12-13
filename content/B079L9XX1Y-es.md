@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- pH neutro para la piel
 - Cuida las manos con valioso aceite de almendras
 - Protege contra la desecación
-- pH neutro para la piel
 - Tolerancia cutánea dermatológicamente probada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

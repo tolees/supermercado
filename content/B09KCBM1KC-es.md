@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- COMPATIBLE: Paquete de 80 cápsulas de café Qalidus (1 x 80 cápsulas de café) compatible con todas las cafeteras Delta Q
-- PERFIL SENSORIAL: Café espresso con cuerpo y muy intenso con notas de caramelo; Aroma 5/10, cuerpo 8/10, acidez 4/10, equilibrio 6/10, Intensidad 10/15
-- CALIDAD DELTA Q: La combinación perfecta de granos provenientes de las mejores regiones productoras de café del mundo y del arte del tostado
 - INTENSIDAD: Cápsulas de café molido de tueste natural con intensidad 10 para disfrutar de un espresso con cuerpo y fuerte presencia en la taza
+- CALIDAD DELTA Q: La combinación perfecta de granos provenientes de las mejores regiones productoras de café del mundo y del arte del tostado
+- PERFIL SENSORIAL: Café espresso con cuerpo y muy intenso con notas de caramelo; Aroma 5/10, cuerpo 8/10, acidez 4/10, equilibrio 6/10, Intensidad 10/15
 - ORIGEN: Una completa mezcla de robustas africanas y arábicas procedentes de Honduras
+- COMPATIBLE: Paquete de 80 cápsulas de café Qalidus (1 x 80 cápsulas de café) compatible con todas las cafeteras Delta Q
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09KCBM1KC{{</world>}}

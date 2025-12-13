@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pack de cervezas, incluye 2 packs de 1906 Reserva Especial y 2 packs de Estrella Galicia Especial. Este combinado es ideal para regalar y disfrutar de una mezcla entre lo tradicional y lo moderno
-- Cervezas 1906 Reserva Especial: elaborada con agua de la ciudad de A Coruña, MALTAS pilsen y tostada, LÚPULO Perle Hallertau aromático, LEVADURA seleccionada y una guarda prolongada para crear un sabor y aroma con carácter único. Alc 6.5% vol
-- Estrella Galicia Especial: de color dorado brillante y aroma a cebada y malta con notas tostadas. Sabor ligero con matices muy marcados de lúpulo. Maridaje con quesos frescos, verduras y hortalizas frías, setas, pescados blancos y carnes. Consumir a 4 y 5º
 - Cervezas 1906 Reserva Especial: de color ámbar brillante, aroma a caramelo, equilibrio de sabor entre dulce y toques amargos. Maridaje con carnes asadas, quesos curados. Consumir a 6-8°C
+- Estrella Galicia Especial: de color dorado brillante y aroma a cebada y malta con notas tostadas. Sabor ligero con matices muy marcados de lúpulo. Maridaje con quesos frescos, verduras y hortalizas frías, setas, pescados blancos y carnes. Consumir a 4 y 5º
+- Cervezas 1906 Reserva Especial: elaborada con agua de la ciudad de A Coruña, MALTAS pilsen y tostada, LÚPULO Perle Hallertau aromático, LEVADURA seleccionada y una guarda prolongada para crear un sabor y aroma con carácter único. Alc 6.5% vol
 - Estrella Galicia Especial: elaborada con agua de la ciudad de A Coruña, MALTAS pilsen y tostada, maíz, LÚPULO Nugget y Perle Hallertau y LEVADURA seleccionada. Alc 5.5% vol
+- Pack de cervezas, incluye 2 packs de 1906 Reserva Especial y 2 packs de Estrella Galicia Especial. Este combinado es ideal para regalar y disfrutar de una mezcla entre lo tradicional y lo moderno
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09YLVJBVF{{</world>}}

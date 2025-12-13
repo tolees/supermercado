@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- 🌿 Un Air dAntan es, ante todo, una historia familiar. Una marca de cosméticos tradicionales hechos en Francia, inspirada en la cultura retro y las canciones francesas. Perfectos como pequeños regalos, o para completar una caja de regalo, para Navidad, San Valentín, cumpleaños, día de la madre, Pascua y más.
+- 🌿 Nuestro jabón líquido con verbena es elaborado en Francia, según el método tradicional de Marsella, por nuestro maestro fabricante de jabón
 - 🌿 Jabón para manos hecho en Francia con amor... sin parabenos. Dermatológicamente probado, no probado en animales (certificado por PETA), VEGANO, libre de sulfatos. FÓRMULA NATURAL
 - 🌿 Fórmula hidratante compuesta de aceite vegetale de coco orgánico (Copra), cocido en caldero y con verbena orgánica, para un jabón de manos ultra suave y nutritivo
 - ❤️ San Valentin 2022. Buscando una idea de regalo mujer para el día de San Valentín? Un Air dAntan ofrece una gama de regalos originales para mujer, regalos para mujer y regalos para san valentin.
 - 🌿 Cesta refrescante de verbena
-- 🌿 Nuestro jabón líquido con verbena es elaborado en Francia, según el método tradicional de Marsella, por nuestro maestro fabricante de jabón
-- 🌿 Un Air dAntan es, ante todo, una historia familiar. Una marca de cosméticos tradicionales hechos en Francia, inspirada en la cultura retro y las canciones francesas. Perfectos como pequeños regalos, o para completar una caja de regalo, para Navidad, San Valentín, cumpleaños, día de la madre, Pascua y más.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08SRBPQZW{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Limpia suavemente el cabello y el cuero cabelludo
 - Con aceite de argán y phytokeratina
-- Cabello liso y protegido, sin encrespamiento y sin apelmazar
+- Limpia suavemente el cabello y el cuero cabelludo
 - Para cabello difícil de alisar y sin parabenos
+- Cabello liso y protegido, sin encrespamiento y sin apelmazar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B06XCSH85P{{</world>}}

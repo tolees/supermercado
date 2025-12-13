@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Clinique dramatically different oil-control gel 115ml
 - Los mejores productos para tu cuidado personal, para tu bienestar, y para la higiene personal.
+- Clinique dramatically different oil-control gel 115ml
 - Salud, bienestar, cuidado, perfumes, lociones, gelclinique dramatically different oil-control gel 115ml
 
 [🛒 Comprar!!!]({{< param buyurl >}})

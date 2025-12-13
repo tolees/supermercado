@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Gel de baño Dermatológicamente testado​
-- Protege la piel frente a la sequedad​
-- Botella hecha de plástico 100% reciclado​
 - Dove Gel de Ducha Clean Comfort care para hombres
 - Jabón líquido con 24 horas de hidratación​
+- Protege la piel frente a la sequedad​
+- Botella hecha de plástico 100% reciclado​
+- Gel de baño Dermatológicamente testado​
 - Tecnología humectante Micro-moisture​
 
 [🛒 Visítala!!!]({{< param buyurl >}})

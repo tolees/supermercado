@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Familia olfativa: Floral Frutal.
 - Notas de salida: bergamota, piña y frambuesa.
+- Familia olfativa: Floral Frutal.
 - Notas de corazón: jazmín, lirio de los valles, violeta y peonía.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

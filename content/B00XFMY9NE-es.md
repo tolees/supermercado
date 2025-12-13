@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin gluten.
-- Elaborada con ingredientes de gran calidad.
 - Ingredientes de gran calidad, sabor inconfundible.
+- Elaborada con ingredientes de gran calidad.
+- Sin gluten.
 - Gran Mayonesa Hellmanns 450ml.
 - Nº1 del mundo en ventas (marca líder en volumen de ventas. Fuente: consultora externa, Septiembre 2018).
 - Apta para vegetarianos.

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo Gl: Hogar
 - Phneems Dispensador Automático De Jabón Para Baño Dispensador Automático De Jabón Dispensadores De Gel Y Champú Carga Usb Con Sensor, Ipx5 Impermeable, Adecuado Para Cocina, Baño, Hotel 320Ml Blanco
+- Tipo Gl: Hogar
 - Tipo De Producto: Dispensador De Bomba
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

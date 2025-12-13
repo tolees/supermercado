@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Producto en línea con el compromiso de sostenibilidad de Isabel que cuenta con el sello de calidad responsable.
-- Los mejillones Isabel es un producto de alto valor nutritivo, rico en Omega 3 y proteina.
 - Ingredientes: MEJILLONES, aceite de girasol, agua, vinagre y aroma natural.
+- Los mejillones Isabel es un producto de alto valor nutritivo, rico en Omega 3 y proteina.
 - Mejillones aderezados con una rica y sabrosa salsa escabeche, tamaño mediano: 8/12 piezas por lata.
 - Nuestros mejillones no contienen ni gluten, ni lactosa.
 

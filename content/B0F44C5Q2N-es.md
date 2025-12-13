@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con ingredientes esenciales
-- Gel de ducha para todo tipo de piel
 - Con Tecnología Triple Acción Hidratante
 - Contiene 0% sulfatos*, 0% jabón y 0% colorantes.
+- Gel de ducha para todo tipo de piel
+- Con ingredientes esenciales
 - Gel de ducha para todo tipo de piel
 
 [🛒 Visítala!!!]({{< param buyurl >}})

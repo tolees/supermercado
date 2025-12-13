@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Conservar en un lugar fresco y seco
-- Apto para cualquier hora del día
 - Forma de los personajes del mar
 - Con vitaminas y calcio
+- Apto para cualquier hora del día
+- Conservar en un lugar fresco y seco
 - Se puede combinar con la mayoría de las bebidas calientes
 
 [🛒 Aquí!!!]({{< param buyurl >}})

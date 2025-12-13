@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ideal para llevar de picnic
 - Envasado en atmósfera protectora
-- Snack de patatas
+- Ideal para llevar de picnic
 - La siguiente información se aplica a cada unidad del paquete
+- Snack de patatas
 - Crujiente y salado
 - Apto para compartir
 

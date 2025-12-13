@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- En trozos pequeños
 - Conservar en lugar fresco y seco
-- De textura gomosa
+- En trozos pequeños
 - Surtido con discos fresa, balla-balla red, balla-balla white, mega torcidas fresa y ladrillos fresa-nata
+- De textura gomosa
 - Ideal para compartir
 
 [🛒 Aquí!!!]({{< param buyurl >}})

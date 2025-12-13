@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hydra Genius es una solución de un solo paso para una piel fresca, llena de agua y de aspecto hermoso.
-- Estas fórmulas ligeras proporcionan hidratación instantánea y continua que dura tanto como tu día.
-- Para pieles secas y sensibles.
 - A base de agua de aloe y ácido hialurónico.
+- Para pieles secas y sensibles.
 - Estas fórmulas ligeras proporcionan hidratación instantánea y continua que dura tanto como tu día.
+- Estas fórmulas ligeras proporcionan hidratación instantánea y continua que dura tanto como tu día.
+- Hydra Genius es una solución de un solo paso para una piel fresca, llena de agua y de aspecto hermoso.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08HQYR3QZ{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Un corazón cremoso y trocitos crujientes de avellana, frambuesa, habas de cacao o almendra
 - 100% Cacao de cultivo sostenible seleccionado a través de Nestlé Cocoa Plan; certificado Rainforest Alliance
 - Óptimo para regalar o compartir
-- Elaborado con ingredientes delicadamente seleccionados y aromas naturales
 - Surtido de 15 bombones de chocolate con leche y chocolate negro
+- Elaborado con ingredientes delicadamente seleccionados y aromas naturales
+- Un corazón cremoso y trocitos crujientes de avellana, frambuesa, habas de cacao o almendra
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CB8NN5C8{{</world>}}

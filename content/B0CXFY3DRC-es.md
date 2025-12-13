@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Su chocolate está importado directamente de Inglaterra, dándole un toque especial, que te embriagará.
-- Un placer único para disfrutar
-- Su increíble sabor consiguió animar incluso a los soldados de la primera guerra mundial.
-- Deliciosa barra de chocolate con leche rellena de una esponjosa crema de turrón y suave caramelo.
 - Es el snack ideal para cualquier momento del día, suave, esponjoso...¡No lo querrás compartir!
+- Deliciosa barra de chocolate con leche rellena de una esponjosa crema de turrón y suave caramelo.
+- Un placer único para disfrutar
+- Su chocolate está importado directamente de Inglaterra, dándole un toque especial, que te embriagará.
+- Su increíble sabor consiguió animar incluso a los soldados de la primera guerra mundial.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CXFY3DRC{{</world>}}
