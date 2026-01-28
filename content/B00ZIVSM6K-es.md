@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PERFECTA PARA ALMACENAR. Nuestros packs familiares son perfectos como snack para almacenar en tu despensa o para ofrecer a invitados. Estos packs son también ideales cuando necesitas una gran cantidad de galletas para hacer tus recetas favoritas como tarta de queso, tiramisú o mascarpone
 - EL MEJOR COMPAÑERO PARA TU CAFÉ. Para llevar fuera de casa y tomarlo como premio después de la comida o tomarlos como un snack gourmet a cualquier hora del día
 - UN PUÑADO DE INGREDIENTES NATURALES. Nuestras galletas son aptas para veganos, hechas con aceite de palma de plantaciones sostenibles y certificadas. No tienen colorantes o aromas artificiales, y sin conservantes. Una receta única desde 1932. Hechas en Bélgica
 - CONTIENE 10 PACKS FAMILIARES. Los packs familiares contienen aproximadamente 32 galletas por pack. Las galletas se envasan por peso, por lo que tenga en cuenta que el número de galletas puede variar ligeramente
+- PERFECTA PARA ALMACENAR. Nuestros packs familiares son perfectos como snack para almacenar en tu despensa o para ofrecer a invitados. Estos packs son también ideales cuando necesitas una gran cantidad de galletas para hacer tus recetas favoritas como tarta de queso, tiramisú o mascarpone
 - LOTUS BISCOFF ES UNA GALLETA ÚNICA, sorprendentemente crujiente con un bocado y con un sabor diferente. Su textura única caramelizada encanta a todo el mundo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

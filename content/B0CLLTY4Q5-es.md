@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【 CHOCOLATE BOX PREMIUM 】Sumérgete en una experiencia gourmet con nuestra chocolate box, una combinación de rocas de chocolate y trufas mágicas que derretirán tu paladar. La elección ideal para regalar o disfrutar en cualquier momento con la auténtica calidad del chocolate belga.
-- 【 TRUFAS DE CHOCOLATE GOURMET 】Disfruta de trufas de chocolate elaboradas con la mejor selección de ingredientes. Suaves, intensas y llenas de sabor, estas frutas de Aragón con chocolate ofrecen una experiencia única. El regalo perfecto en una sofisticada caja regalo chocolate.
-- 【 ELEGANTE CESTA CHOCOLATES 】 Nuestra cesta chocolates para regalar es el regalo perfecto para cualquier ocasión. Presentada en una sofisticada caja de chocolates para regalar, incluye una exquisita variedad de bombones belgas y frutas de Aragón con chocolate para los más exigentes.
 - 【 PACK CHOCOLATES PARA REGALAR 】Esta exclusiva cesta chocolates para regalar incluye una elegante lata bombones con una selección premium de sabores únicos. Un detalle perfecto para cualquier celebración, con trufas magicas y trufas de Belorado que deleitarán a cualquier amante del chocolate.
+- 【 CHOCOLATE BOX PREMIUM 】Sumérgete en una experiencia gourmet con nuestra chocolate box, una combinación de rocas de chocolate y trufas mágicas que derretirán tu paladar. La elección ideal para regalar o disfrutar en cualquier momento con la auténtica calidad del chocolate belga.
+- 【 ELEGANTE CESTA CHOCOLATES 】 Nuestra cesta chocolates para regalar es el regalo perfecto para cualquier ocasión. Presentada en una sofisticada caja de chocolates para regalar, incluye una exquisita variedad de bombones belgas y frutas de Aragón con chocolate para los más exigentes.
+- 【 TRUFAS DE CHOCOLATE GOURMET 】Disfruta de trufas de chocolate elaboradas con la mejor selección de ingredientes. Suaves, intensas y llenas de sabor, estas frutas de Aragón con chocolate ofrecen una experiencia única. El regalo perfecto en una sofisticada caja regalo chocolate.
 - 【 CAJAS CHOCOLATE PARA REGALAR 】Disfruta de una caja de chocolates para regalar con auténtico chocolate belga regalo. Perfecta para sorprender en cualquier ocasión, esta exquisita selección de bombones belgas y rocas de chocolate garantiza una experiencia de sabor inigualable.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

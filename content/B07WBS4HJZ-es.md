@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Levanta, extiende y da volumen a tus pestañas
 - Formulada con parafina y ceras de salvado de arroz, su fórmula negro azabache construye y potencia las pestañas
-- Pestañas con una longitud y volumen extremos
 - Aplicar desde la raíz de la pestaña y deslizar hasta la punta haciendo zig-zag
+- Levanta, extiende y da volumen a tus pestañas
+- Pestañas con una longitud y volumen extremos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07WBS4HJZ{{</world>}}

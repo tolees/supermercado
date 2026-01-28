@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Pack de 24 latas
 - Bajo en calorías
-- Beber muy frío
 - Bebida refrescante de té negro con melocotón
+- Beber muy frío
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08YPFGSLJ{{</world>}}

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tiene un sabor suave y delicado gracias a los cítricos mediterráneos y las fresas
-- La siguiente información se aplica a cada unidad del paquete
 - Apto como ingrediente para cócteles
-- Es refrescante y dulce al paladar
+- La siguiente información se aplica a cada unidad del paquete
+- Tiene un sabor suave y delicado gracias a los cítricos mediterráneos y las fresas
 - Conservar en lugar fresco y seco
 - El color es un rosa brillante y claro
+- Es refrescante y dulce al paladar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DP4XRXN3{{</world>}}

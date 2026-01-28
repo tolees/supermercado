@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Store in a cool, dry place
 - Contains 6 servings
 - May contain bones
-- Yellowfin tuna steak in olive oil
-- Store in a cool, dry place
 - Once opened, transfer to a non-metallic container, cover and keep refrigerated and consume within 2 days
+- Yellowfin tuna steak in olive oil
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB1VPBWW{{</world>}}

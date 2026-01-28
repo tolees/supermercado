@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Resistente, optimo brillo y duradero
 - Secado en tan solo 60 segundos
-- Esmalte de secado rápido
 - Tecnológia 3 en 1: base, color enriquecido y top coat glossy todo en uno
+- Esmalte de secado rápido
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BCGPZQJ5{{</world>}}

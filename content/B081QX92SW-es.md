@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - POTENTE ANTIOXIDANTE: La mezcla de todos sus componentes te otorga un potente efecto antioxidante y digestivo. Como resultado, ayuda a tu cuerpo a mejorar el tránsito intestinal y a prevenir el envejecimiento prematuro.
-- SOBRE NOSOTROS: En Cupper combinamos la pasión inglesa por el té, con los beneficios de la producción natural. Somos empresa BCorp certificada y cumplimos con altos estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
-- ELABORACIÓN PERFECTA: Calienta 250 ml de agua fresca sin sobrepasar los 100°C. Después, introduce la bolsita en el agua y déjala que infusione de 3 a 5 minutos para que desprenda todo su aroma y sabor. ¡Ideal después de las comidas!
-- INFUSIÓN ECOLÓGICA: Nuestra infusión Keep Calm bio es una bebida que mezcla la manzanilla, el honeybush y la canela y será tu mejor aliado refrescante. Además, es el complemento perfecto para tomar después de las comidas.
 - INGREDIENTES NATURALES: Elaboramos esta deliciosa infusión a base de manzanilla (45%), honeybush (30%), canela (20%) y melisa. Todos los productos están hechos con componentes puros de calidad y sin aditivos artificiales.
+- SOBRE NOSOTROS: En Cupper combinamos la pasión inglesa por el té, con los beneficios de la producción natural. Somos empresa BCorp certificada y cumplimos con altos estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
+- INFUSIÓN ECOLÓGICA: Nuestra infusión Keep Calm bio es una bebida que mezcla la manzanilla, el honeybush y la canela y será tu mejor aliado refrescante. Además, es el complemento perfecto para tomar después de las comidas.
+- ELABORACIÓN PERFECTA: Calienta 250 ml de agua fresca sin sobrepasar los 100°C. Después, introduce la bolsita en el agua y déjala que infusione de 3 a 5 minutos para que desprenda todo su aroma y sabor. ¡Ideal después de las comidas!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B081QX92SW{{</world>}}

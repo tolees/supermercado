@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Óptimo para regalar o compartir
-- 100% Cacao de cultivo sostenible seleccionado a través de Nestlé Cocoa Plan; certificado Rainforest Alliance
-- Elaborado con ingredientes delicadamente seleccionados y aromas naturales
 - Surtido de 15 bombones de chocolate con leche y chocolate negro
+- Elaborado con ingredientes delicadamente seleccionados y aromas naturales
+- 100% Cacao de cultivo sostenible seleccionado a través de Nestlé Cocoa Plan; certificado Rainforest Alliance
 - Un corazón cremoso y trocitos crujientes de avellana, frambuesa, habas de cacao o almendra
 
 [🛒 Aquí!!!]({{< param buyurl >}})

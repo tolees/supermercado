@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - FORMATO - 1 Paquete de 1 Kg.
+- En Legumbres Guillermo, tenemos el propósito de que disfrutes en casa de los mejores Arroces, procedentes de la Agricultura Natural, con categoria Gourmet. Apto para vegetarianos y veganos.
 - Modo de empleo: Uso esperado, Consumo tras tratamiento térmico. 1 arroz / 4 agua o caldo 18 - 20 minutos de cocción / 3 minutos de reposo
 - INFORMACIÓN NUTRICIONAL (100gr): Energía 1358 kJ 320 kcal ,Grasas (g) 0.9 Saturadas: 0.16 , Carbohidratos (g) 69.9 Azúcares: 0 ,Fibra (g) 2 ,Proteina (g) 7.1 Sal (g) 0.012
-- En Legumbres Guillermo, tenemos el propósito de que disfrutes en casa de los mejores Arroces, procedentes de la Agricultura Natural, con categoria Gourmet. Apto para vegetarianos y veganos.
 - PROPIEDADES - El arroz vaporizado posee una concentración de nutrientes superior que los arroces blancos comunes, además de ofrecer una mayor versatilidad para su empleo como ingrediente de los más diversos platos de arroz, aun aquellos que requieren de las variedades con alta concentración de almidón.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

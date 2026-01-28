@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Estas fórmulas ligeras proporcionan hidratación instantánea y continua que dura tanto como tu día.
+- Estas fórmulas ligeras proporcionan hidratación instantánea y continua que dura tanto como tu día.
 - A base de agua de aloe y ácido hialurónico.
 - Hydra Genius es una solución de un solo paso para una piel fresca, llena de agua y de aspecto hermoso.
-- Estas fórmulas ligeras proporcionan hidratación instantánea y continua que dura tanto como tu día.
-- Estas fórmulas ligeras proporcionan hidratación instantánea y continua que dura tanto como tu día.
 - Para pieles secas y sensibles.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

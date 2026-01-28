@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La galletas Príncipe Estrellas ricas en cereales y fibra, con un delicioso sabor a crema de leche y chocolate blanco en su interior, crean la explosión de sabor, ideal para meriendas , snacks o para disfrutar en el desayuno, las galletas Príncipe Estrellas son las galletas más divertidas para disfrutar en cualquier momento
-- Príncipe se ha convertido en un símbolo de nuestras meriendas, y continúa compartiendo su pasión por el mundo, asegurando que cada bocado sea una combinación perfecta de sabor y responsabilidad
 - Las galletas Príncipe Estrellas Chocolate Blanco son excelentes para servir solas o con leche, para compartir en fiestas con familia y amigos, desayunos, meriendas o mezclarlas con tu receta de postre favorita. Atrévete y experimenta usándolas en múltiples recetas y postres como tartas, batidos o muffins
 - Nuestro compromiso es seguir ofreciendo deliciosas galletas con la mejor calidad del trigo a la misma vez que garantizamos el menor impacto en nuestro planeta
+- Príncipe se ha convertido en un símbolo de nuestras meriendas, y continúa compartiendo su pasión por el mundo, asegurando que cada bocado sea una combinación perfecta de sabor y responsabilidad
+- La galletas Príncipe Estrellas ricas en cereales y fibra, con un delicioso sabor a crema de leche y chocolate blanco en su interior, crean la explosión de sabor, ideal para meriendas , snacks o para disfrutar en el desayuno, las galletas Príncipe Estrellas son las galletas más divertidas para disfrutar en cualquier momento
 - Clásicas galletas Príncipe Estrellas con textura crujiente, rellenas de deliciosa crema de leche y recubiertas de cremoso chocolate blanco. Las galletas Príncipe Estrellas Chocolate Blanco contienen 6 paquetes interiores, y su formato en bolsa individual y de bolsillo es perfecto para llevar a cualquier parte y disfrutar de Príncipe en cualquier momento del día
 
 [🛒 Comprar!!!]({{< param buyurl >}})

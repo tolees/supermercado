@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Marca: Mexx
-- Adecuada para uso diario
 - Para mujer
+- Marca: Mexx
 - Con notas florales y una base de madera
+- Adecuada para uso diario
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07SKWGWVD{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 【Apto para todo tipo de piel】 Este jabón de ácido kójico no solo se puede utilizar en el cuerpo, sino también en el rostro, es adecuado para todo nuestro tipo de piel y resuelve eficazmente diferentes tipos de problemas cutáneos.
 - 【Hidratación profunda】 La fina espuma del jabón de ácido kójico puede eliminar suavemente la suciedad de la piel y cerrar los poros, al tiempo que retiene la humedad y mejora la condición de la piel. No provoca sequedad en la piel y tiene efecto hidratante.
-- 【Fórmula natural】 El jabón de ácido kójico contiene ácido kójico, cúrcuma, glutatión, vitamina E, ácido hialurónico y otros ingredientes. Es suave y seguro, natural y no irritante, y no daña la piel.
+- 【Apto para todo tipo de piel】 Este jabón de ácido kójico no solo se puede utilizar en el cuerpo, sino también en el rostro, es adecuado para todo nuestro tipo de piel y resuelve eficazmente diferentes tipos de problemas cutáneos.
 - 【Fácil de usar】El jabón de cúrcuma es fácil y rápido de usar. Amasar hasta obtener una espuma fina, luego aplicar la espuma uniformemente sobre el cuerpo o la cara y finalmente enjuagar con agua.
+- 【Fórmula natural】 El jabón de ácido kójico contiene ácido kójico, cúrcuma, glutatión, vitamina E, ácido hialurónico y otros ingredientes. Es suave y seguro, natural y no irritante, y no daña la piel.
 - 【Ilumina la piel】 Nuestro jabón de ácido kójico puede limpiar eficazmente la piel en profundidad, reducir la pigmentación de la piel, mejorar las manchas oscuras y las manchas de la edad, eliminar la piel muerta, iluminar el tono de la piel y restaurar el brillo natural de la piel.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

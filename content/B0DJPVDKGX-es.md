@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PIRÁMIDE OLFATIVA: Notas de salida: melocotón, limón, clavo; Notas de corazón: flor de naranjo, lavanda, rosa; Notas de fondo: sándalo, vainilla, ámbar.
+- FEMENINO Y PRIMAVERAL: Un perfume para mujeres que evoca el amor irresistible y que te conquistará con su olor a ricas notas florales, ideal para mujeres originales.
 - PERFUME: Colonia femenina con una pasión secreta, que te traslada directamente a un mundo optimista, colaborativo y original. Colonia con vaporizador.
 - DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más.
-- FEMENINO Y PRIMAVERAL: Un perfume para mujeres que evoca el amor irresistible y que te conquistará con su olor a ricas notas florales, ideal para mujeres originales.
+- PIRÁMIDE OLFATIVA: Notas de salida: melocotón, limón, clavo; Notas de corazón: flor de naranjo, lavanda, rosa; Notas de fondo: sándalo, vainilla, ámbar.
 - TENDENCIA OLFATIVA: Este perfume de mujer tiene una tendencia floral oriental amaderada ideal para personas que buscan un mundo mejor.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

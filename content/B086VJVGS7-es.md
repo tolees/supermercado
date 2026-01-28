@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sabor delicioso
-- Agitar antes de servir
 - Sin conservantes
+- Agitar antes de servir
+- Sabor delicioso
 - Producto sometido a estrictos controles de calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

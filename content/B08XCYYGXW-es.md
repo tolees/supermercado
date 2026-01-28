@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cacao en polvo espeso, ideal para hosteleria
 - Cacao procedente de cultivo responsable gracias al Cocoa Plan de NESTLÉ
+- Preparado alimentico al cacao
+- Cacao en polvo espeso, ideal para hosteleria
 - Experimenta la cremosidad y el sabor de este Chocolate a la taza
 - Certificado por RainForest Alliance
-- Preparado alimentico al cacao
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08XCYYGXW{{</world>}}

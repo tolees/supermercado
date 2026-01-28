@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ESTUCHE DE REGALO: Estuche femenino para las que creen que el amor está en el aire. El pack incluye dos perfumes con vaporizador.
-- TENDENCIA OLFATIVA: Su aroma te envuelve con notas golosas que recuerdan a caramelos, frutas jugosas y un fondo cálido que se queda contigo. Es perfecta para chicas jóvenes, divertidas y que no tienen miedo de brillar con su propio estilo.
 - PIRÁMIDE OLFATIVA: Notas de salida: mandarina, fresa y frambuesa; Notas de corazón: flores blancas, jazmín y caramelo; Notas de fondo: vainilla, almizcle y praliné.
+- ESTUCHE DE REGALO: Estuche femenino para las que creen que el amor está en el aire. El pack incluye dos perfumes con vaporizador.
 - DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más.
+- TENDENCIA OLFATIVA: Su aroma te envuelve con notas golosas que recuerdan a caramelos, frutas jugosas y un fondo cálido que se queda contigo. Es perfecta para chicas jóvenes, divertidas y que no tienen miedo de brillar con su propio estilo.
 - TIERNO Y FEMENINO: Dale un toque dulce y encantador a tu rutina con este perfume que huele a buen rollo, alegría y personalidad propia.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

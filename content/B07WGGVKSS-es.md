@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Perfecto para complementar cualquier look de maquillaje
-- Colorete en polvo de terciopelo
 - Explora nuestra gama de productos
+- Colorete en polvo de terciopelo
+- Perfecto para complementar cualquier look de maquillaje
 - Con un pigmento de coral suave, dale a esas mejillas un toque dulce con Melocotón Bliss
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- LOOKS PARA EL DÍA Y LA NOCHE: ¡Atrae todas las miradas con The All Eyes On You! Este kit es todo lo que necesitas para acaparar la atención. Son productos versátiles que facilitan la transición de los looks de día a los de noche.
+- CAJA DE MAKEUP RECICLABLE: Presentado en una caja reciclable, es perfecto para guardar tus productos esenciales. El regalo ideal para cualquier amante del makeup que aprecie la funcionalidad y un toque top de glamour.
+- FÓRMULAS DE ALTA PIGMENTACIÓN: The Lipstick 270 ofrece un rojo intenso con una gran capacidad de permanencia, mientras que The 24H Color Liquid Eyeshadow 510 aporta un color intenso a prueba de roces que no falla.
 - VEGANO Y CRUELTY FREE: 3INA es una marca de maquillaje española que fabrica en Europa. Todos nuestros productos son veganos, libres de parabenos y sin crueldad animal.
 - 3 BEST-SELLERS PARA OJOS Y LABIOS : Este kit incluye The Lipstick 270, The 24H Color Liquid Eyeshadow 510 y The Every Single Day Mascara: tres productos icónicos para añadir a la colección de imprescindibles.
-- CAJA DE MAKEUP RECICLABLE: Presentado en una caja reciclable, es perfecto para guardar tus productos esenciales. El regalo ideal para cualquier amante del makeup que aprecie la funcionalidad y un toque top de glamour.
-- LOOKS PARA EL DÍA Y LA NOCHE: ¡Atrae todas las miradas con The All Eyes On You! Este kit es todo lo que necesitas para acaparar la atención. Son productos versátiles que facilitan la transición de los looks de día a los de noche.
-- FÓRMULAS DE ALTA PIGMENTACIÓN: The Lipstick 270 ofrece un rojo intenso con una gran capacidad de permanencia, mientras que The 24H Color Liquid Eyeshadow 510 aporta un color intenso a prueba de roces que no falla.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BYH92ZPN{{</world>}}

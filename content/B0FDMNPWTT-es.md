@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- La siguiente información se aplica a cada unidad del paquete
 - Con 0% aluminio
+- Huelas dónde huelas, hay un desodorante Rexona para ayudarte
 - Nuevos Desodorantes Para Todo El Cuerpo Rexona
 - La tecnología Odor Adapt te ofrece una protección de 72h frente al mal olor
-- Huelas dónde huelas, hay un desodorante Rexona para ayudarte
-- La siguiente información se aplica a cada unidad del paquete
 - Fragancia energizante
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

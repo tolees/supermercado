@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El chocolate negro puro 100% también conocido como pasta de Cacao, liquor de Cacao o masa de cacao es el producto que se obtiene por la desintegración mecánica de granos de cacao, sin extraerle sus componentes ni añadirle ningún tipo de elemento.
 - INGREDIENTES: Pasta de cacao 100% (En Trocitos)
+- El chocolate negro puro 100% también conocido como pasta de Cacao, liquor de Cacao o masa de cacao es el producto que se obtiene por la desintegración mecánica de granos de cacao, sin extraerle sus componentes ni añadirle ningún tipo de elemento.
 - IDEAL PARA: Comer directamente, en la elaboración de tabletas de chocolate 100%, chocolate a la taza, tartas, helados, cremas de chocolate, Cervezas, topping en helados, yogures, bebidas, cereales, mueslis y granolas, también en la elaboración de batidos proteicos, postres fitness, salsas de autor, en masas para tartas, bizcochos y galletas y un sinfín de opciones más…
-- Aspecto: Trocitos Solidos a 20°C / Liquido a 45°C
 - Nuestras pastas de cacao puro 100% están libres de gluten, no contiene azúcar añadido y son 100% veganas
+- Aspecto: Trocitos Solidos a 20°C / Liquido a 45°C
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B086H14LWH{{</world>}}

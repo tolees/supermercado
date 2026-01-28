@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Origen: España
-- Color topacio; cálidas notas de especias (canela, vainilla); al paladar es graso y rico en taninos
 - Destilación tradicional de vino blanco y posterior crianza en barricas de roble americano por el sistema tradicional de solera
 - Recomendado con Cola, una combinación infalible en la que la Cola potencia las notas dulces de Torres 10
+- Origen: España
 - Graduación: 40% vol.
+- Color topacio; cálidas notas de especias (canela, vainilla); al paladar es graso y rico en taninos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00VQROEVM{{</world>}}

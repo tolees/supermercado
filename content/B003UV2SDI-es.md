@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Nota de cata (boca): Suave, con delicadas notas cítricas, equilibradas y muy refrescantes.
 - Nota de cata (nariz): Destacan sus aromas delicados entre los que predomina la fruta tropical como la piña y los cítricos, pomelo y lima.
-- Consumir frío (entre 5 ºC y 8 ºC). Si es necesario, enfriar durante dos o tres horas en una cubitera con agua, sal y hielo. Evitar enfriamientos bruscos en el congelador. Se recomienda almacenar verticalmente.
 - Varietales: 70% Chardonnay, 15% Parellada, 15% Xarel·lo y Macabeo.
+- Consumir frío (entre 5 ºC y 8 ºC). Si es necesario, enfriar durante dos o tres horas en una cubitera con agua, sal y hielo. Evitar enfriamientos bruscos en el congelador. Se recomienda almacenar verticalmente.
+- Nota de cata (boca): Suave, con delicadas notas cítricas, equilibradas y muy refrescantes.
 - Nota de cata (vista): Color amarillo pajizo pálido, limpio y brillante. De burbuja fina y con rosario continuo y corona persistente.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

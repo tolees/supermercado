@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- RUTINA CAPILAR COMPLETA: Usar junto al champú hidratante con aceite de argán de Creme of Nature para un cuidado completo desde la raíz hasta las puntas
-- TRATAMIENTO ACONDICIONADOR HIDRATANTE: Fortalece el cabello en profundidad, facilita el desenredado y aporta un brillo radiante sin agredir la fibra capilar
 - MODO DE USO: Aplica una cantidad generosa sobre el cabello húmedo, masajea y aclara bien. Repite si es necesario. Evita el contacto con los ojos. Mantener fuera del alcance de los niños
 - CUIDADO PARA CABELLO RIZADO, ONDULADO Y AFRO: Devuelve la vitalidad al cabello sin apelmazarlo. Este tratamiento es ideal para cabello seco, dañado y quebradizo, ayudando a desenredarlo y suavizarlo
 - ACEITE DE ARGÁN NATURAL: Está enriquecido con aceite de Argán natural certificado de Marruecos. Está formulado sin sulfatos, derivados del petróleo, aceites minerales ni alcoholes secantes
+- TRATAMIENTO ACONDICIONADOR HIDRATANTE: Fortalece el cabello en profundidad, facilita el desenredado y aporta un brillo radiante sin agredir la fibra capilar
+- RUTINA CAPILAR COMPLETA: Usar junto al champú hidratante con aceite de argán de Creme of Nature para un cuidado completo desde la raíz hasta las puntas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004YRVCGQ{{</world>}}

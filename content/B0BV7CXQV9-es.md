@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Caramelos de goma
-- Irresistible mix de sabores
 - Deliciosas piezas con formas de dinosaurios
+- Irresistible mix de sabores
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BV7CXQV9{{</world>}}

@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - INFUSIÓN ECOLÓGICA: Nuestra infusión de limón y jengibre bio es una bebida con un sabor limpio, equilibrado y una dulzura natural sutil y calmante. Además, es apta para veganos y es ideal para tomar después de las comidas.
 - SOBRE NOSOTROS: En Cupper combinamos la pasión inglesa por el té, con los beneficios de la producción natural. Somos empresa BCorp certificada y cumplimos con altos estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
-- UNA ELABORACIÓN PERFECTA: Calienta 250 ml de agua fresca, sin sobrepasar los 100°C. Después, vierte la bolsa de té en el interior del agua y déjalo que infusione de 3 a 5 minutos para que desprenda todo su aroma y sabor. ¡Es ideal para el desayuno!
 - MÚLTIPLES BENEFICIOS: La mezcla de todos sus componentes te otorga un potente efecto digestivo. Como resultado, ayuda a tu cuerpo a mejorar el tránsito intestinal y a equilibrar la acidez del estómago después de las comidas.
 - INGREDIENTES NATURALES: Elaboramos esta deliciosa infusión a base de hierba de limón, raíz de jengibre, raíz de regaliz, cáscara de limón, cáscara de naranja, aroma natural de limón y jengibre con otros aromas naturales. Además, es 100% orgánica.
+- UNA ELABORACIÓN PERFECTA: Calienta 250 ml de agua fresca, sin sobrepasar los 100°C. Después, vierte la bolsa de té en el interior del agua y déjalo que infusione de 3 a 5 minutos para que desprenda todo su aroma y sabor. ¡Es ideal para el desayuno!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B081QWY74K{{</world>}}

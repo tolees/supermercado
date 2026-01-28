@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - INTENSIDAD: Cápsulas de café molido de tueste natural con intensidad 9, un café con cuerpo y acidez equilibrada
-- CALIDAD DELTA Q: La combinación perfecta de granos provenientes de las mejores regiones productoras de café del mundo y del arte del tostado
-- PERFIL SENSORIAL: Café espresso de sabor intenso con notas de caramelo y frutos secos; Aroma 6/10, cuerpo 7/10, acidez 4/10, equilibrio 6/10, intensidad 9/15
 - ORIGEN: Una mezcla de granos procedentes de Brasil, Costa de Marfil y Colombia, una combinación exquisita
 - COMPATIBLE: Paquete de 40 cápsulas de café Qharacter (1 x 40 cápsulas de café) compatible con todas las cafeteras Delta Q
+- CALIDAD DELTA Q: La combinación perfecta de granos provenientes de las mejores regiones productoras de café del mundo y del arte del tostado
+- PERFIL SENSORIAL: Café espresso de sabor intenso con notas de caramelo y frutos secos; Aroma 6/10, cuerpo 7/10, acidez 4/10, equilibrio 6/10, intensidad 9/15
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07YLBPTG7{{</world>}}

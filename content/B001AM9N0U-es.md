@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con un uso regular, hidrata y protege la piel con alantoína y un factor hidratante natural
-- La loción limpia incluso las pieles problemáticas delicadamente y en profundidad con tensioactivos suaves
 - Cuida el medio ambiente y ahorra recursos: hasta un 79 % menos de plástico en comparación con dos botes de 200 ml, incluido el tapón, y hasta un 20 % más económico que dos botes de 200 ml
+- La loción limpia incluso las pieles problemáticas delicadamente y en profundidad con tensioactivos suaves
+- Con un uso regular, hidrata y protege la piel con alantoína y un factor hidratante natural
 - Producto fabricado en Alemania por EUBOS, una empresa familiar fundada hace más de noventa años
 - Cuida la capa ácida protectora de la piel porque no contiene jabón
 

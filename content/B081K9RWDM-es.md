@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- COLOR INTENSO: Experimenta un color rico e intenso con cada trazo; diseñado para ofrecer un look audaz y cautivador que dura todo el día.
-- DISEÑO RETRÁCTIL: No necesita sacapuntas; simplemente gira para revelar una punta nueva para una aplicación precisa. Perfecto para retoques rápidos o una rutina de maquillaje rápida.
-- FÓRMULA WATERPROOF: Resiste al agua y al sudor, manteniendo tu delineador libre de manchas; perfecto para usar todo el día, llueva o haga sol.
 - FÓRMULA SEGURA PARA LOS OJOS: Dermatológicamente probado para minimizar la irritación; ideal para ojos sensibles y usuarios de lentes de contacto.
 - APLICACIÓN VERSÁTIL: Adecuado tanto para la línea de agua como para el párpado; úsalo para una línea limpia o difumina para un efecto de ojo ahumado.
+- COLOR INTENSO: Experimenta un color rico e intenso con cada trazo; diseñado para ofrecer un look audaz y cautivador que dura todo el día.
+- FÓRMULA WATERPROOF: Resiste al agua y al sudor, manteniendo tu delineador libre de manchas; perfecto para usar todo el día, llueva o haga sol.
+- DISEÑO RETRÁCTIL: No necesita sacapuntas; simplemente gira para revelar una punta nueva para una aplicación precisa. Perfecto para retoques rápidos o una rutina de maquillaje rápida.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B081K9RWDM{{</world>}}

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Pulveriza el eau de toilette BOSS Bottled en los puntos de pulso del cuerpo (cuello, torso y bíceps) para aumentar la duración de este cautivador perfume que dura todo el día.
-- Masculino, icónico y elegante / Manzana / Geranio, Canela / Notas sensuales amaderadas
-- Manzana / Canela / Madera
 - Irradia seguridad con el eau de toilette BOSS Bottled. Este perfume fresco y masculino destila distinción, con una nota de salida afrutada, un corazón especiado y un fondo amaderado que irradia seguridad.
+- Manzana / Canela / Madera
+- Masculino, icónico y elegante / Manzana / Geranio, Canela / Notas sensuales amaderadas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01F2LAUGU{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuidado de la piel y el pelo: gracias a los ácidos grasos omega 3 y omega 6, y al zinc
 - Fácil digestión: ingredientes altamente digestibles
-- Ayuda a mantener la masa muscular: alto contenido en proteínas de calidad
+- Cuidado de la piel y el pelo: gracias a los ácidos grasos omega 3 y omega 6, y al zinc
 - Alimento completo y equilibrado para perros adultos pequeños (<10kg) de 10 meses a 8 años
 - Diseñado para perros pequeños: fórmula rica en nutrientes y tamaño de las croquetas adaptado
+- Ayuda a mantener la masa muscular: alto contenido en proteínas de calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CK8BK9S2{{</world>}}

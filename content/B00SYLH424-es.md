@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El secreto de la piel perfecta coreana: la CREMA CC es un tratamiento múltiple, iluminador de tono "Alta Definición" y perfeccionador de piel proveniente de Corea. Su textura ultrafina está concentrada en pigmentos encapsulados para un efecto de "buena cara"
-- Productos no testados en animales, nuestra prioridad: Erborian nunca ha probado sus productos, ingredientes o materias primas en animales. Las materias primas de nuestros proveedores tampoco son nunca testadas en animales
 - Enriquecida con Centella Asiática, planta coreana y glicerina: la CC Crema protege, calma, hidrata, ilumina y ayuda a disminuir las imperfecciones
 - Consejo de belleza: aplica el producto de adentro hacia afuera en tu rostro. Se recomienda aplicar la CC CREMA con los dedos
+- El secreto de la piel perfecta coreana: la CREMA CC es un tratamiento múltiple, iluminador de tono "Alta Definición" y perfeccionador de piel proveniente de Corea. Su textura ultrafina está concentrada en pigmentos encapsulados para un efecto de "buena cara"
+- Productos no testados en animales, nuestra prioridad: Erborian nunca ha probado sus productos, ingredientes o materias primas en animales. Las materias primas de nuestros proveedores tampoco son nunca testadas en animales
 - Acción protectora y correctora: esta crema protege tu piel del sol gracias a su índice SPF 25, alisando la piel para un tono unificado. Los pigmentos se funden en la piel al aplicarla y ayudan a difuminar la textura y las pequeñas imperfecciones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

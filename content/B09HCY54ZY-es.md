@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - BAJO EN GRASAS SATURADAS: Copos ligeros y con bajo contenido en grasas saturadas, compatibles con dietas de control de peso. Un menor consumo de grasas saturadas contribuye a mantener niveles normales de colesterol sanguíneo. Sin azúcares añadidos y muy bajo contenido de sodio.
 - CONSERVACIÓN: Mantener en lugar fresco y seco. Cerrar bien la bolsa una vez abierta.
-- SIN GLUTEN: Estos copos son aptos para personas con intolerancia al gluten o para quienes deseen reducir su consumo. Están certificados por el Sistema de Licencia Europeo con el símbolo ELS de la espiga barrada. Para personas que no toleran el gluten, se aconseja empezar a tomar avena en pequeñas cantidades e ir aumentando la ingesta. Esto es debido a que algunos celiacos pueden presentar respuesta autoinmune a la avena pese a no tener gluten.
 - VEGANO: Producto apto para veganos, elaborado sin ingredientes de origen animal. Sus carbohidratos complejos proporcionan una reserva de energía duradera y constante.
+- SIN GLUTEN: Estos copos son aptos para personas con intolerancia al gluten o para quienes deseen reducir su consumo. Están certificados por el Sistema de Licencia Europeo con el símbolo ELS de la espiga barrada. Para personas que no toleran el gluten, se aconseja empezar a tomar avena en pequeñas cantidades e ir aumentando la ingesta. Esto es debido a que algunos celiacos pueden presentar respuesta autoinmune a la avena pese a no tener gluten.
 - RICO EN FIBRA: Alto contenido de fibra, principalemente soluble y rica en Betaglucanos. Estos copos de avena son de textura fina, están listos para su consumo, no necesitan cocción y son fácilmente digeribles.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

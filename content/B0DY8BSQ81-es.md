@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CAFÉ EN GRANO GOURMET: Mezcla seleccionada y tostada para un cuerpo pleno y redondo. Sabor decidido y aroma intenso, envasado en atmósfera protectora para preservar frescura y aromas
 - CAFÉ EN GRANO ESPRESSO: Mezcla de café arabica y robusta, tostado con maestría para un café de sabor intenso, cuerpo pleno y aroma profundo
-- EL DESPERTAR PERFECTO: Selección de café en grano de sabor intenso y completo. Incluye Espresso, Gourmet y Aroma, para un café cuerpo, aromático e intenso, ideal para quienes aman el carácter y la calidad
+- CAFÉ EN GRANO GOURMET: Mezcla seleccionada y tostada para un cuerpo pleno y redondo. Sabor decidido y aroma intenso, envasado en atmósfera protectora para preservar frescura y aromas
 - CAFÉ EN GRANO AROMA: Mezcla de finos cafés arabica y robusta con notas persistentes y aroma a cacao amargo. Sabor pleno y decidido, tostado para resaltar las fragancias y las características organolépticas
 - CALIDAD Y PASIÓN CORSINI: Durante 50 años, Corsini ha seleccionado y tostado los mejores granos de café, ofreciendo mezclas de alta calidad para un café auténtico y aromático. Tradición e innovación para un sabor único
+- EL DESPERTAR PERFECTO: Selección de café en grano de sabor intenso y completo. Incluye Espresso, Gourmet y Aroma, para un café cuerpo, aromático e intenso, ideal para quienes aman el carácter y la calidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DY8BSQ81{{</world>}}

@@ -28,16 +28,16 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Carne y derivados cárnicos 36% (incluido un mínimo de 4% de la proteína mencionada). Carne y derivados de origen animal aptos para el consumo humano
-- El envase contiene 12 porciones: 3 x bocaditos con vacuno y verduras; 3 x bocaditos con pollo y verduras; 3 x bocaditos con carne de ave y cordero; 3 x bocaditos con vacuno y pollo. Todos en salsa
-- Comida para perros adultos: nutrición 100% completa y equilibrada Diseñada por nutricionistas de animales y revisada por veterinarios
-- Ten en cuenta que 2 fechas están impresas en la parte posterior de cada bolsa individual, la superior representa la fecha de producción y la inferior es la fecha de consumo preferente
-- El sabor principal está impreso en la parte posterior de cada bolsa individual
-- Divida cada bolsa en 2 comidas al día. Las madres embarazadas y en lactancia pueden necesitar hasta 4 veces más. Asegúrese siempre de que haya agua potable disponible
 - Contiene todas las vitaminas y minerales esenciales para mantener a su perro en una condición excelente. Sin colorantes, conservantes ni antioxidantes; sin soja, cebada ni productos lácteos añadidos
+- Carne y derivados cárnicos 36% (incluido un mínimo de 4% de la proteína mencionada). Carne y derivados de origen animal aptos para el consumo humano
+- Comida para perros adultos: nutrición 100% completa y equilibrada Diseñada por nutricionistas de animales y revisada por veterinarios
+- El sabor principal está impreso en la parte posterior de cada bolsa individual
+- Ten en cuenta que 2 fechas están impresas en la parte posterior de cada bolsa individual, la superior representa la fecha de producción y la inferior es la fecha de consumo preferente
+- Divida cada bolsa en 2 comidas al día. Las madres embarazadas y en lactancia pueden necesitar hasta 4 veces más. Asegúrese siempre de que haya agua potable disponible
+- El envase contiene 12 porciones: 3 x bocaditos con vacuno y verduras; 3 x bocaditos con pollo y verduras; 3 x bocaditos con carne de ave y cordero; 3 x bocaditos con vacuno y pollo. Todos en salsa
+- Con fibra (inulina) para favorecer la digestibilidad. Con valiosas proteínas para unos músculos fuertes; Con vitamina D3 para mejorar la salud de los huesos y dientes; con vitamina E para ayudar a mantener una buena función inmunológica
 - IMPORTANTE: Asegúrese de que haya siempre disponible agua limpia y fresca. Todo alimento nuevo debe introducirse gradualmente a lo largo de un período de entre 1 a 2 semanas.Consulte la "Guía de alimentación de transición" a la izquierda
 - El producto contiene "azúcares variados", derivados del sirope de caramelo utilizado como fuente natural de color (0,15%); no se han añadido otros azúcares
-- Con fibra (inulina) para favorecer la digestibilidad. Con valiosas proteínas para unos músculos fuertes; Con vitamina D3 para mejorar la salud de los huesos y dientes; con vitamina E para ayudar a mantener una buena función inmunológica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08VB8YZ1H{{</world>}}

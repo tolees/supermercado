@@ -28,15 +28,15 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- BOTELLA DE PLASTICO RECICLADO, excepto boquilla, tapón y cubierta
 - Con tecnología FRESH AIR KICK, como si se hubiera secado al aire libre junto a un lago en los Alpes
-- EDICIÓN LIMITADA COSTA MEDITERRÁNEA: descubre el detergente líquido Ariel Mediterránea, impregnado con los refrescantes aromas de Brisa Marina y Jazmín
-- PRETRATA LAS MANCHAS: 1. Aplica una pequeña cantidad de detergente líquido Ariel sobre las manchas 2. Frota suavemente 3. Empieza el lavado
 - PARA DISFRUTAR AL MÁXIMO, PRUEBA LA COMBINACIÓN PERFECTA: úsalo junto con las perlas de perfume Lenor para un frescor aún mayor
-- CONCENTRADO (en comparación con el suavizante Lenor Frescor de Abril): una pequeña dosis es suficiente
-- FRESCOR resistente al secado en ambientes húmedos o bajo el sol intenso
-- LENOR Aire Fresco Suavizante para ropa, para una colada como secada al aire libre
 - INSTRUCCIONES PARA MEJORES RESULTADOS: llena el tapón verde con detergente líquido Ariel según el nivel de llenado del tambor y colócalo en el tambor, encima de la ropa
+- EDICIÓN LIMITADA COSTA MEDITERRÁNEA: descubre el detergente líquido Ariel Mediterránea, impregnado con los refrescantes aromas de Brisa Marina y Jazmín
+- FRESCOR resistente al secado en ambientes húmedos o bajo el sol intenso
+- CONCENTRADO (en comparación con el suavizante Lenor Frescor de Abril): una pequeña dosis es suficiente
+- PRETRATA LAS MANCHAS: 1. Aplica una pequeña cantidad de detergente líquido Ariel sobre las manchas 2. Frota suavemente 3. Empieza el lavado
+- BOTELLA DE PLASTICO RECICLADO, excepto boquilla, tapón y cubierta
+- LENOR Aire Fresco Suavizante para ropa, para una colada como secada al aire libre
 - LIMPIEZA IMPECABLE + TOQUE DE FRESCOR DE LENOR: el detergente líquido Ariel proporciona una limpieza impecable, enriquecida con un toque de frescor de Lenor para una colada limpia y fragante
 
 [🛒 Visítala!!!]({{< param buyurl >}})

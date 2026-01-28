@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más.
+- TENDENCIA OLFATIVA: Su aroma te envuelve con notas golosas que recuerdan a caramelos, frutas jugosas y un fondo cálido que se queda contigo. Es perfecta para chicas jóvenes, divertidas y que no tienen miedo de brillar con su propio estilo.
 - TIERNO Y FEMENINO: Dale un toque dulce y encantador a tu rutina con este perfume que huele a buen rollo, alegría y personalidad propia.
 - PERFUME: Colonia femenina para las que creen que el amor está en el aire. Perfume con vaporizador.
-- DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más.
 - PIRÁMIDE OLFATIVA: Notas de salida: mandarina, fresa y frambuesa; Notas de corazón: flores blancas, jazmín y caramelo; Notas de fondo: vainilla, almizcle y praliné.
-- TENDENCIA OLFATIVA: Su aroma te envuelve con notas golosas que recuerdan a caramelos, frutas jugosas y un fondo cálido que se queda contigo. Es perfecta para chicas jóvenes, divertidas y que no tienen miedo de brillar con su propio estilo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FX3B9B6G{{</world>}}

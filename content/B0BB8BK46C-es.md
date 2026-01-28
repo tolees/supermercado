@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Intenso y cremoso color de lápiz labial y cuidado en la barra de labios Bullet mimos los labios
-- El lápiz labial Green Edition Buttercream con manteca de cacao natural para una sensación cremosa
 - Lápiz labial en color altamente pigmentado
-- 86 % de ingredientes de origen natural, incluida la valiosa manteca de cacao
+- El lápiz labial Green Edition Buttercream con manteca de cacao natural para una sensación cremosa
+- Intenso y cremoso color de lápiz labial y cuidado en la barra de labios Bullet mimos los labios
 - De la edición Maybelline New York Greeningredientes naturales, fórmula vegana sin ingredientes animales, embalaje de mezcla reciclada
+- 86 % de ingredientes de origen natural, incluida la valiosa manteca de cacao
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BB8BK46C{{</world>}}

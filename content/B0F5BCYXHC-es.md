@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La exclusiva tecnología antibacteriana de Oral-B con complejo de Flúor Stannous y agentes calmantes activos crea un escudo protector para proteger de forma eficaz los dientes sensibles, incluso entre cepillados
-- Hierbabuena Picante
 - Proporciona una sensación refrescante durante y después del cepillado
-- Protección duradera clínicamente probada para dientes sensibles, con uso continuado
-- Apta para dientes sensibles
+- Hierbabuena Picante
+- La exclusiva tecnología antibacteriana de Oral-B con complejo de Flúor Stannous y agentes calmantes activos crea un escudo protector para proteger de forma eficaz los dientes sensibles, incluso entre cepillados
 - Pasta dentífrica de uso diario
+- Apta para dientes sensibles
+- Protección duradera clínicamente probada para dientes sensibles, con uso continuado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F5BCYXHC{{</world>}}

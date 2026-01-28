@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Un Kit Ritual para Barba para quienes realmente desean cuidar su barba
+- Con aromas refrescantes y exclusivos para deleitar los sentidos, con notas de sándalo, cedro, bergamota, semillas de cardamomo y mandarina
 - Contiene el Jabón 3 en 1 para Barba, Rostro y Cabello King C. Gillette, el Suavizante para Barba King C. Gillette, el Aceite para Barba y la Crema Hidratante para Rostro y Barba Incipiente
 - Perfecto tanto para vello facial largo como corto
-- Con aromas refrescantes y exclusivos para deleitar los sentidos, con notas de sándalo, cedro, bergamota, semillas de cardamomo y mandarina
+- Un Kit Ritual para Barba para quienes realmente desean cuidar su barba
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FQ5Q4NDY{{</world>}}

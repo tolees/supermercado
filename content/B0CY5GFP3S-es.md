@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Llévalos a donde quieras
 - Formato ideal para compartir
-- Con cierre ZIP para una mejor conservación
+- Llévalos a donde quieras
 - Mini Dinosaurus con Chocolate con Leche
+- Con cierre ZIP para una mejor conservación
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CY5GFP3S{{</world>}}

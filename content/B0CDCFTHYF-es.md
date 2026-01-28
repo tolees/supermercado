@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ♻️ COMPROMISO CON EL MEDIO AMBIENTE: Washaby va más allá de ser un detergente ecológico; es un compromiso con la conservación del medio ambiente. Utilizamos fuentes renovables y sostenibles en nuestra producción, respaldando así la preservación de la biodiversidad y la salud del planeta.
+- 🔬 FÓRMULA AVANZADA SIN FOSFATOS NI PLÁSTICOS: Diferenciándonos de la competencia, Washaby se destaca por su fórmula avanzada libre de fosfatos y sin plásticos. Contribuimos activamente a la reducción de residuos, ofreciendo una opción respetuosa con el medio ambiente.
 - 📋 CERTIFICACIÓN ECOLABEL DE LA UE: Washaby es un detergente ecológico para lavadora en cápsulas, certificado con el prestigioso Ecolabel de la Unión Europea. Garantizamos una limpieza eficiente mientras cumplimos con los estándares más altos de sostenibilidad.
 - ✅ IDEAL PARA ROPA BLANCA Y DE COLOR: Detergente Lavadora Ecológico diseñado específicamente para prendas blancas y de color, nuestro detergente ecológico garantiza resultados impecables en cada lavado. Disfruta de una limpieza profunda sin comprometer la integridad de tus prendas.
-- 🔬 FÓRMULA AVANZADA SIN FOSFATOS NI PLÁSTICOS: Diferenciándonos de la competencia, Washaby se destaca por su fórmula avanzada libre de fosfatos y sin plásticos. Contribuimos activamente a la reducción de residuos, ofreciendo una opción respetuosa con el medio ambiente.
 - 🍃 CÁPSULAS BIODEGRADABLES Y SIN RESIDUOS: A diferencia de otros productos en el mercado, nuestras cápsulas son biodegradables y no dejan residuos. Contribuye al cuidado del planeta con un producto que se disuelve completamente, sin dejar rastros contaminantes.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

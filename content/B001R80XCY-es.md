@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- En bolsa con autocierre
-- Snack para perros
 - Con pollo
+- Snack para perros
+- En bolsa con autocierre
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B001R80XCY{{</world>}}

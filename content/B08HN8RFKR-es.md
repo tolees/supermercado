@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Sin colorantes artificiales
 - De diferentes texturas y sabores
 - Incluye ositos de oro, corazón-melocotón, fresa-nata, platanito, besito
-- Conservar en lugar fresco y seco
 - Mix de caramelos de goma con recubrimiento de azúcar
-- Sin colorantes artificiales
+- Conservar en lugar fresco y seco
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08HN8RFKR{{</world>}}

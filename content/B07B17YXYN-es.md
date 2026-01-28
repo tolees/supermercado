@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lata 100% reciclable
-- Para REPOSTERÍA; solución culinaria para hacer postres y cafés con un sabor y cremoso
 - Leche condensada, producto natural
 - La Lechera El Lado Dulce de la Vida desde 1910
 - Descubre una gran variedad de postres en 5 minutos y más de 550 recetas en la página web de Nestlé Cocina
+- Lata 100% reciclable
+- Para REPOSTERÍA; solución culinaria para hacer postres y cafés con un sabor y cremoso
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07B17YXYN{{</world>}}

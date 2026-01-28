@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Principe - Galleta Mini Crema De Chocolate 160'
-date: 2025-12-07 00:31:35
-image: 'https://m.media-amazon.com/images/I/51NxbK9DMjL._SL500_._SL400_.jpg'
+date: 2026-01-28 17:44:30
+image: 'https://m.media-amazon.com/images/I/51CPylaJ2zL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B00XA0XYXM-es Principe - Galleta Mini Crema De Chocolate 160'
 sku: 'B00XA0XYXM-es'
 tags: [ 'Alimentación y bebidas','Arborist Merchandising Root','Galletas de Panadería','Panadería y bollería','chocolate','principe','🇪🇸', ]
-actualPrice: 1.75 EUR
+actualPrice: 1.84 EUR
 currency: EUR
-price: 1.75
+price: 1.84
 comparePrice: 1.99 EUR
 prodname: 'Principe - Galleta Mini Crema De Chocolate 160'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Principe'
 buyurl: 'https://www.amazon.es/dp/B00XA0XYXM/?tag=tolees-21'
-descuento: '12.06'
-average: '1.6867857142857'
+descuento: '7.54'
+average: '1.69399999999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

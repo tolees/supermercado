@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nota de cata (boca): Vino goloso, equilibrado y redondo
 - Nota de cata (nariz): Predominan los aromas de fruta roja fresca y se ven complementados con finos matices de vainilla procedente de su estancia en barrica
+- Nota de cata (boca): Vino goloso, equilibrado y redondo
+- Varietales: Tinto Fino y Cabernet Sauvignon
 - Nota de cata (vista): Color rojo púrpura intenso con tonos azulados
 - La siguiente información se aplica a cada unidad del paquete
 - Contenido de alcohol (alc/vol): 13.5 percent by volume; procedencia: España
-- Varietales: Tinto Fino y Cabernet Sauvignon
 - Roble, D.O.Ca. Duero
 
 [🛒 Comprar!!!]({{< param buyurl >}})

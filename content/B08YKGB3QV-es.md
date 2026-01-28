@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Utilizar como un regalo o recompensa en cualquier momento, siempre dentro de una dieta equilibrada.
-- El perro debe ser supervisado en todo momento mientras se alimenta.Dejar siempre agua dulce y fresca a disposición de su mascota.
 - Snacks naturales para perros, en forma de tiras, con carne de pollo. 100% natural. Con un alto contenido en proteína animal y con pocas grasas (Producto Light).
+- El perro debe ser supervisado en todo momento mientras se alimenta.Dejar siempre agua dulce y fresca a disposición de su mascota.
 - Envasado en bolsas de 1 Kg.
+- Utilizar como un regalo o recompensa en cualquier momento, siempre dentro de una dieta equilibrada.
 - Alimento complementario para perros de todo tipo de razas, muy rico en nutrientes. 100% natural.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

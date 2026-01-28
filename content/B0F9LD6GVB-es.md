@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Intensidad de fragancia personalizable: 4 niveles de intensidad para escoger la cantidad justa para cualquier habitación de tu casa: baño, salón o habitación
+- Aroma Flor de Cerezo y Frambuesa; infusionado con 2 veces más aceites esenciales vs los anteriores recambios de Air wick Essential Mist
 - Portátil y elegante: diseño portátil, elegante y compacto, sin necesidad de cables
 - El aparato difusor Air wick Essential Mist brilla mientras libera un sutil vapor de fragancia infusionada con aceites esenciales que llenará la estancia desde la primera emisión del vapor, creando un maravilloso ambiente
-- Aroma Flor de Cerezo y Frambuesa; infusionado con 2 veces más aceites esenciales vs los anteriores recambios de Air wick Essential Mist
-- Intensidad de fragancia personalizable: 4 niveles de intensidad para escoger la cantidad justa para cualquier habitación de tu casa: baño, salón o habitación
 - Función de autoapagado: el vapor se libera en intervalos regulados durante 8 h, y se apaga hasta la misma hora del día siguiente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

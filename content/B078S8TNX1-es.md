@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cuida y nutre tu piel gracias a su factor de máxima hidratación. Dejará en tu piel un olor muy dulce
 - No testado en animales. Vegano. Fabricación íntegra en España
 - Libre de Parabenos. Dermatológicamente testado. Indicado para todo tipo de piel
 - Género; Unisex. Adulto y adolescente
-- Cuida y nutre tu piel gracias a su factor de máxima hidratación. Dejará en tu piel un olor muy dulce
 - Fragancia a Gominolas de Plátano. Delicioso y dulce perfume
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

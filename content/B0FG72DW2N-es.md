@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- FÓRMULA LIGERA TODO EN 1; nuestra fórmula todo en uno desenreda, nutre, controla el frizz, repara, protege del calor, aporta brillo y un aroma duradero a tu pelo
 - FÓRMULA MULTIUSOS; nuestra fórmula inteligente puede usarse como acondicionador con aclarado o dejarla sin aclarar para un pelo irresistiblemente suave y brillante, día tras día
-- AROMA QUE MEJORA TU ÁNIMO; despierta tus sentidos con nuestra fórmula cuidadosamente elaborada y nutritiva, enriquecida con extracto de manzanilla
-- UN PELO HASTA UN 100% MÁS SUAVE Y BRILLANTE*; descubre nuestra mejor hidratación con nuestra colección Brillo & Revitalizante de Camomila. *frente a un champú no acondicionador cuando se usa como sistema de champú/acondicionador
+- FÓRMULA LIGERA TODO EN 1; nuestra fórmula todo en uno desenreda, nutre, controla el frizz, repara, protege del calor, aporta brillo y un aroma duradero a tu pelo
 - DESCUBRE NUESTRO AROMA ESTIVAL ORIGINAL; experimenta el agradable aroma de una pradera estival que te transportará hasta esos soleados días de verano
+- UN PELO HASTA UN 100% MÁS SUAVE Y BRILLANTE*; descubre nuestra mejor hidratación con nuestra colección Brillo & Revitalizante de Camomila. *frente a un champú no acondicionador cuando se usa como sistema de champú/acondicionador
+- AROMA QUE MEJORA TU ÁNIMO; despierta tus sentidos con nuestra fórmula cuidadosamente elaborada y nutritiva, enriquecida con extracto de manzanilla
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FG72DW2N{{</world>}}

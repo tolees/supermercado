@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Snack en forma de filete, con carne de pollo. 100 percent natural
 - Con un alto contenido en proteína animal y con pocas grasas (Producto Light)
 - Cantidad: 350 gramos
-- Suministrar como un premio en cualquier momento, dentro de una dieta equilibrada
 - Alimento complementario para su perro, muy rico en nutrientes
+- Suministrar como un premio en cualquier momento, dentro de una dieta equilibrada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07SKBVQGV{{</world>}}

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Hidratación todo el día gracias al ácido hialurónico de su fórmula
-- 24 horas de resistencia, a prueba de toda
-- Protege la piel (contiene vitamina E y SPF 20)
 - Proporciona máxima duración y comodidad
+- Protege la piel (contiene vitamina E y SPF 20)
+- 24 horas de resistencia, a prueba de toda
 - Alta cobertura con acabado aterciopelado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

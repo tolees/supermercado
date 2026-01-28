@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 🗨 Nota de cata: Color cereza intenso con borde granate. En nariz, aroma potente , complejo, fruta madura y cacao fino. En boca carnoso, potente, aterciopelado, con taninos maduros y una buena acidez.
-- 🍽 Maridaje: Buen acompañante de caza, carnes rojas y ternenera.
 - 🌡️ Temperatura de servicio: 16 - 18ºC.
-- ⚜️ Capacidad: 3 botella de 750 ml
+- 🍽 Maridaje: Buen acompañante de caza, carnes rojas y ternenera.
+- 🗨 Nota de cata: Color cereza intenso con borde granate. En nariz, aroma potente , complejo, fruta madura y cacao fino. En boca carnoso, potente, aterciopelado, con taninos maduros y una buena acidez.
 - 🍇 Variedad: Tempranillo con graduación de 13.5º
+- ⚜️ Capacidad: 3 botella de 750 ml
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09V84YX8C{{</world>}}

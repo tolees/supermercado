@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- AROMÁTICO Y TOSTADO - La mezcla de granos da como resultado un sabor intenso y aroma envolvente.
 - 10 PAQUETES DE 20 CÁPSULAS - 200 Cápsulas de Aluminio compatibles con las cafeteras L’Or Espresso y con máquinas Nespresso (Marca de una compañía no relacionada con Jacobs Douwe Egberts.)
-- INTENSIDAD 9 - Café molido de tueste natural con sabor intenso y tostado elaborado con una deliciosa mezcla de granos de café.
-- PACK AHORRO - Ahorra con Saimaza y los packs que ha elaborado para que nunca te falte café. Ahora con cápsulas de aluminio para conservar todo el aroma.
 - CÁPSULA ESPPRESO - La cápsula tiene el tamaño indicado para poder preparar un café Espresso para disfrutar solo o con base de leche como el capuchino o el latte.
+- PACK AHORRO - Ahorra con Saimaza y los packs que ha elaborado para que nunca te falte café. Ahora con cápsulas de aluminio para conservar todo el aroma.
+- AROMÁTICO Y TOSTADO - La mezcla de granos da como resultado un sabor intenso y aroma envolvente.
+- INTENSIDAD 9 - Café molido de tueste natural con sabor intenso y tostado elaborado con una deliciosa mezcla de granos de café.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B079QMYB5C{{</world>}}

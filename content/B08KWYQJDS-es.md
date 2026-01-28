@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- De la marca: Ybarra
-- seleccionamos diariamente los aceites de las mejores zonas productoras de andalucía, lo que nos permite obtener aceites de oliva de calidad
 - realizamos más de mil catas al año para preservar la calidad de nuestro virgen extra, ideal para tomar en crudo, añadir a tus guisos y como toque final para tus aperitivos
+- seleccionamos diariamente los aceites de las mejores zonas productoras de andalucía, lo que nos permite obtener aceites de oliva de calidad
+- De la marca: Ybarra
 - ybarra selecciona las mejores aceitunas y controla cada uno de los pasos del proceso de obtención del aceite de oliva virgen extra; origen andalucía
 
 [🛒 Aquí!!!]({{< param buyurl >}})

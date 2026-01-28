@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Larga duración hasta 10 días de resistencia y brillo lustroso
 - Apto para uñas frágiles. Acabado autonivelante y brillo 3D
 - El esmalte de gel Fabuleux Gel de Bourjois tiene un acabado efecto gel brillante
 - Enriquecido con un aroma dulce de hibiscus
-- Larga duración hasta 10 días de resistencia y brillo lustroso
 - Con un pincel panorámico para conseguir precisión y un acabado perfecto en una sola pasada
 
 [🛒 Visítala!!!]({{< param buyurl >}})

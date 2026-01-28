@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Hidrata activamente para unos labios más suaves y con volumen (comparado con labios sin maquillar)
+- Color fabuloso al instante
+- Hidratación y brillo en una pasada
 - Una mezcla con un 60 percent de emolientes, agentes acondicionadores, antioxidantes y vitamina E
 - Enriquecido con antioxidantes y vitamina E
-- Hidratación y brillo en una pasada
-- Color fabuloso al instante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07V6V1JXZ{{</world>}}

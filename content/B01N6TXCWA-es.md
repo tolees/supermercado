@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Gama completa de 22 tonos
 - Barra de Labios hidratante con un acabado mate y un color intenso
 - No reseca los labios gracias a la combinación de aceite de rosa mosqueta y aceites preciosos
-- Colores mate intensos que nacen de los pigmentos puros Confort e hidratación Fragancia inolvidable
 - Una fórmula enriquecida con aceites de rosa mosqueta, jojoba y pigmentos de color intenso
+- Colores mate intensos que nacen de los pigmentos puros Confort e hidratación Fragancia inolvidable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01N6TXCWA{{</world>}}

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Labios hidratados y con color: Más que un simple labial, se trata de un labial sérum que proporciona hasta 8 h de hidratación* y un color intensamente pigmentado.
-- Contenido: 1x Maybelline New York Labial Sérum, Color Intenso, Labios Hidratantes y con Volumen, Enriquecido con Ácido Hialurónico, Hasta 8H *de Hidratación, Maybe Its Serum Lipstick, Tono: 002 Maybe Its
-- Fórmula de cuidado sérum: gracias a su fórmula enriquecida con una mezcla de aceites y ácido hialurónico, este labial cuida tus labios como un sérum, dejándolos más voluminosos, suaves y lisos.
 - Un resultado definido en una sola pasada: la punta se adapta a la curva de tus labios para un trazo limpio y unos labios perfectamente esculpidos, mientras que la textura cómoda ofrece la cantidad justa de color en una sola aplicación.
 - Cómo aplicarlo: aplica una capa del labial sobre tus labios, solo o después de delinearlos con el lápiz Lifter Liner para un combo perfecto
+- Contenido: 1x Maybelline New York Labial Sérum, Color Intenso, Labios Hidratantes y con Volumen, Enriquecido con Ácido Hialurónico, Hasta 8H *de Hidratación, Maybe Its Serum Lipstick, Tono: 002 Maybe Its
+- Fórmula de cuidado sérum: gracias a su fórmula enriquecida con una mezcla de aceites y ácido hialurónico, este labial cuida tus labios como un sérum, dejándolos más voluminosos, suaves y lisos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FPX8QL6X{{</world>}}

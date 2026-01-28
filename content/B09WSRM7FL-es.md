@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- AOVE de alta calidad especialmente apropiado para el gran consumo, así como para el sector hostelero, ya que mantiene una excelente relación calidad/precio al tratarse de un aceite de oliva virgen extra de las variedades arbequina y picual de extracción en frío, mediante procesos mecánicos que garantizan que las propiedades organolépticas del aceite permanezcan intactas.
+- MARIDAJE: las cualidades organolépticas (textura, olor, color) de este aceite lo hacen ideal para consumir en crudo y para la elaboración de cualquier tipo de plato, ensaladas, gazpachos, lácteos, postres, patatas.
 - GOURMET: Importantes premios, como el Prestige Gold obtenido en el Concurso Internacional celebrado en Israel en 2017, o el 1er Premio al Mejor Aceite de Oliva de Mancha Real del mismo año, así como la inclusión en la Flos Olei 2018, Guía de los Mejores Aceites del Mundo, vienen a confirmar, por instituciones independientes, la excelencia de nuestra producción. Oleozumo - Orozumo está presente en las ferias más importantes del sector.
 - Aceite de oliva virgen extra con una acidez aproximada de 0.2º. Afrutado. Aceituna de perfil equilibrado y sabor persistente.
-- CALIDAD: Numerosas certificaciones avalan nuestro proceso y la calidad de nuestros productos, tal como las de Calidad Certificada de Andalucía, Producción Ecológica, Producción recogida bajo la denominación de origen Sierra Magina, y Producción Integrada.
-- MARIDAJE: las cualidades organolépticas (textura, olor, color) de este aceite lo hacen ideal para consumir en crudo y para la elaboración de cualquier tipo de plato, ensaladas, gazpachos, lácteos, postres, patatas.
 - El Medio Ambiente: Las personas que formamos parte de Oleozumo - Orozumo somos también agricultores con una filosofía de cuidado y respeto por el medio ambiente que ha sido también trasladada a lo largo del resto del proceso productivo. Esta filosofía se basa en aunar lo mejor de un cultivo milenario, con la innovación continua que permite la aplicación de las tecnologías más actuales.
+- AOVE de alta calidad especialmente apropiado para el gran consumo, así como para el sector hostelero, ya que mantiene una excelente relación calidad/precio al tratarse de un aceite de oliva virgen extra de las variedades arbequina y picual de extracción en frío, mediante procesos mecánicos que garantizan que las propiedades organolépticas del aceite permanezcan intactas.
+- CALIDAD: Numerosas certificaciones avalan nuestro proceso y la calidad de nuestros productos, tal como las de Calidad Certificada de Andalucía, Producción Ecológica, Producción recogida bajo la denominación de origen Sierra Magina, y Producción Integrada.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09WSRM7FL{{</world>}}

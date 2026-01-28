@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- EL SER HUMANO Y EL MEDIO AMBIENTE SON IMPORTANTES PARA NOSOTROS. El producto es vegano, sin lactosa, sin gluten, sin soja y sin azúcar añadido. Sin aditivos. Embalaje de almacenamiento con cierre de cremallera.
-- 35 AÑOS DE EXPERTICIA CON ORGÁNICOS. MADE IN GERMANY. Después de más de 35 años de experiencia con lo orgánico, conocemos las mejores áreas de cultivo y los productores y procesadores más confiables. Cada producto se llena y se verifica en nuestra manufactura.
-- PROTEÍNA DE GUISANTE ORGÁNICO contiene proteína de guisantes amarillos puros de cultivo orgánico. No utilizamos sustancias disociadoras, agentes de relleno ni de flujo. Solamente naturaleza pura.
 - MÁXIMA CALIDAD DE LA SUSTANCIA ACTIVA: La proteína de guisante es de cultivo ecológico sostenible y es producida cuidadosamente. Proteína vegetal con un contenido de proteína del 83%.
+- EL SER HUMANO Y EL MEDIO AMBIENTE SON IMPORTANTES PARA NOSOTROS. El producto es vegano, sin lactosa, sin gluten, sin soja y sin azúcar añadido. Sin aditivos. Embalaje de almacenamiento con cierre de cremallera.
 - COMPRAR Y HACER EL BIEN: Con tu compra apoyas nuestra iniciativa "1 Producto = 1 Árbol": Por cada producto vendido, se planta un árbol - para una mayor protección del clima y la biodiversidad y menos C02.
+- PROTEÍNA DE GUISANTE ORGÁNICO contiene proteína de guisantes amarillos puros de cultivo orgánico. No utilizamos sustancias disociadoras, agentes de relleno ni de flujo. Solamente naturaleza pura.
+- 35 AÑOS DE EXPERTICIA CON ORGÁNICOS. MADE IN GERMANY. Después de más de 35 años de experiencia con lo orgánico, conocemos las mejores áreas de cultivo y los productores y procesadores más confiables. Cada producto se llena y se verifica en nuestra manufactura.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B06Y8XV45M{{</world>}}

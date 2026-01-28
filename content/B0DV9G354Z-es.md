@@ -30,11 +30,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - 20 capsules
 - El aluminio permite que nuestras cápsulas sean perfectamente herméticas y garantiza una óptima conservación del aroma y del sabor del café
-- Intensidad del café: 9
-- Café de cuerpo medio con una acidez delicada y un ligero retrogusto a chocolate amargo
-- Tostado y envasado en España
 - 100% Arabica coffee
+- Tostado y envasado en España
 - RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, sino que también hace bien. Con cada compra, estás ayudando a cientos de caficultores y a sus familias en todo el mundo, además de aportar tu granito de arena para preservar los bosques y la selva tropical: beber mejor es hacerlo mejor
+- Café de cuerpo medio con una acidez delicada y un ligero retrogusto a chocolate amargo
+- Intensidad del café: 9
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DV9G354Z{{</world>}}

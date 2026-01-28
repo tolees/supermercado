@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El pack contiene 2 unidades
-- Consigue un tono más blanco en una semana
 - Contiene aceleradores de blanqueamiento
+- Consigue un tono más blanco en una semana
 - Clínicamente probado
+- El pack contiene 2 unidades
 - La siguiente información se aplica a cada unidad del paquete
 - Contiene un sistema avanzado que elimina hasta el 100% de las manchas superficiales
 

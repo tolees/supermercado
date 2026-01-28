@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fragancia: fragancia delicada, ligera y sin tintes
 - Suave y delicado: Mimosín Caricias proporciona suavidad en cada lavado
-- Mimosín es el suavizante que lleva cuidando tu ropa desde hace más de 40 años
 - HIPOALERGÉNICO: Fórmula hipoalergénica y dermatológicamente testada; es un producto que respeta las pieles sensibles y es óptimo para bebés
+- Fragancia: fragancia delicada, ligera y sin tintes
+- Mimosín es el suavizante que lleva cuidando tu ropa desde hace más de 40 años
 - Cuidado: ayuda a suavizar las fibras de tu ropa, dejándolas suaves
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ingredientes: ATÚN CLARO, aceite de oliva y sal
 - Transparencia en la procedencia de todos nuestros atunes. Descubre su origen desde el mar hasta tu mesa a través de nuestra página de trazabilidad. Mas información en nuestros packs
+- Ingredientes: ATÚN CLARO, aceite de oliva y sal
 - Pack con papel reciclable, para proteger nuestros bosques, contribuyendo a la sostenibilidad
 - Atún certificado bajo el sello APR (Atún de pesca responsable) por AENOR: Utilizamos practicas pesqueras responsables que cuidan de los océanos y sus recursos y garantizamos las mejores condiciones para los pescadores de nuestra flota
 

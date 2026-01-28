@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- FRAGANCIA ENCANTADORA Listo para cautivar mientras se lanza el hechizo con un sorprendente acabado de almizcle cremoso, raíz de iris encantada y maderas sensuales. Esta fragancia te envuelve en un aura de magia y seducción, dejando una estela inolvidable a tu paso.
 - AROMAS EXÓTICOS Sé parte del encantamiento mientras esta fragancia comienza con una mezcla tentadora de exuberante lichi rojo, codiciosa cidra dorada y kiwi exótico. Siente la emoción de la persecución y una provocativa insinuación impregnada con un delicioso acorde de pastel, pétalos de jazmín y una sensual orquídea de chocolate blanco.
-- CONSEJOS DE USO Rociar una pequeña cantidad en los puntos de pulso como el cuello, muñecas y detrás de las orejas, evitando frotar después de la aplicación para no alterar la fragancia. Controlar la cantidad para no excederse y aplicar sobre la piel hidratada para una mejor retención del aroma.
 - FANTASY BRITNEY SPEARS es una fragancia mágica que encanta a todos. Una tentadora mezcla de dulces tentaciones y exquisitas frutas que deja un rastro seductor de sensualidad abrazadora.
+- CONSEJOS DE USO Rociar una pequeña cantidad en los puntos de pulso como el cuello, muñecas y detrás de las orejas, evitando frotar después de la aplicación para no alterar la fragancia. Controlar la cantidad para no excederse y aplicar sobre la piel hidratada para una mejor retención del aroma.
+- FRAGANCIA ENCANTADORA Listo para cautivar mientras se lanza el hechizo con un sorprendente acabado de almizcle cremoso, raíz de iris encantada y maderas sensuales. Esta fragancia te envuelve en un aura de magia y seducción, dejando una estela inolvidable a tu paso.
 - RECOMENDACIONES Para complementar tu rutina con Midnight Fantasy Britney Spears, se recomienda agregar el perfume Fantasy Britney Spears. Disfruta de una experiencia sensorial completa con el aroma sensual y femenino de la gama de la cantante.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

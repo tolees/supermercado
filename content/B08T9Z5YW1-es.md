@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - SIN AZÚCAR AÑADIDO Los sabores dulces provienen de fibras dulces, azúcar de abedul (xilitol), eritritol (en ciruelas y peras) y un extracto de la planta de stevia. Es por eso que nuestras barritas todavía pueden ser dulces y sabrosos
 - SIN GLUTEN El trigo se convierte rápidamente en azúcar (glucosa) en tu cuerpo, y cuando comes otros “carbohidratos vacíos”, tu azúcar en la sangre aumenta rápidamente. Las fluctuaciones frecuentes y pronunciadas de azúcar en la sangre son negativas para tu peso y tu salud
-- DELICIOSA Barrita con delicioso chocolate con leche libre de azúcar añadido sobre una capa base de turrón, caramelo suave y cacahuetes recién tostados de la mejor calidad
 - PARA COMPARTIR Perfecta para compartir con la familia, con tus colegas en la oficina, tomar un descanso o hacer una merienda
+- DELICIOSA Barrita con delicioso chocolate con leche libre de azúcar añadido sobre una capa base de turrón, caramelo suave y cacahuetes recién tostados de la mejor calidad
 - LOW CARB Un refrigerio bajo en carbohidratos con no más de 175 kcal y 4,1g de carbohidratos netos por barrita, ideal para tu dieta Keto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

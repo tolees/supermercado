@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Agitar hasta crear una fina capa de espuma, verter en un vaso con agua a 80ºC.
-- Modo de prepararación de Matcha Latte Expresso: vertir 1,5-2 g de té y agua a temperatura ambiente en un Matcha Shaker
 - Fina textura en polvo de color verde brillante, su sabor vivo y dulce y su limitada producción lo eleva a una categoría de "Ceremonia japonesa".
 - Té Verde molido japonés, de calidad ceremonial con un plus de antioxidantes.
+- Modo de prepararación de Matcha Latte Expresso: vertir 1,5-2 g de té y agua a temperatura ambiente en un Matcha Shaker
 - Contiene: Té Verde Matcha
 
 [🛒 Aquí!!!]({{< param buyurl >}})

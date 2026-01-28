@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Usa el bálsamo top-coat durante el día para mantener los labios hidratados y s
-- Color e irrestible hasta 24 horas
-- Labial permante de larga duración en dos pasos
 - 6 Pasos: una bálsamo con color inalterable y top-coat para dar brillo a los labios
+- Color e irrestible hasta 24 horas
+- Usa el bálsamo top-coat durante el día para mantener los labios hidratados y s
+- Labial permante de larga duración en dos pasos
 - Aplicador en forma de curva para adaptarse a la forma del labio
 
 [🛒 Comprar!!!]({{< param buyurl >}})

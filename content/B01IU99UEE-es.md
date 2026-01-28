@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Origen: España
-- Apertura fácil
-- Mantener en un lugar fresco y seco
 - Alérgenos: pescado, crustaceos y marisco
+- Mantener en un lugar fresco y seco
+- Apertura fácil
 - Calamares en conserva con Salsa Americana.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

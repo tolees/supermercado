@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño elegante con decoraciones
 - Tazas de café con plato
+- Diseño elegante con decoraciones
 - Aptas para uso diario o como decoración
 
 [🛒 Visítala!!!]({{< param buyurl >}})

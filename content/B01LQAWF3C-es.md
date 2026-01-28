@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pack de 31 gramos de preparado en polvo, excelente para hacer en casa de manera rápida y sencilla
 - Disuelve en agua hirviendo, refrigera y disfruta de un snack con solo 10 kcal por ración y libre de azúcares añadidos
+- Pack de 31 gramos de preparado en polvo, excelente para hacer en casa de manera rápida y sencilla
 - Disfruta de un refrescante postre con el preparado de gelatina de fresa 0% azúcares. Fácil de preparar y con un sabor irresistible
 - Excelente para refrescar tu día. Deliciosa para disfrutar en verano, ya sea en postres o meriendas
 - Creando Momentos Royal en España desde 1947, ayudándote a endulzar tus ocasiones más especiales con postres fáciles y deliciosos

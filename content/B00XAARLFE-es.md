@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fortalece tus dientes
-- Protección anticaries
-- Dentifrico
 - Para toda la familia
+- Fortalece tus dientes
+- Dentifrico
 - Pasta dental
+- Protección anticaries
 - Con Flúor y Calcio
 - Cepillándote los dientes dos veces al día
 

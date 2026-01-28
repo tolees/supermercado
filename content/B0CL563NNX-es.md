@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Garantizado para el contacto con alimentos y compatible con el microondas: la idoneidad está garantizada por rigurosos test realizados en laboratorios cualificados (seguir las instrucciones impresas en el embalaje).
 - Gofrado con vórtices superabsorbentes que retienen el agua en su interior para una mayor absorción.
 - Composición y certificación: 100% celulosa virgen proveniente de bosques gestionados de manera responsable y garantizado por la certificación FSC. El embalaje es 100% reciclable producido con un 50% de plástico reciclado.
+- Garantizado para el contacto con alimentos y compatible con el microondas: la idoneidad está garantizada por rigurosos test realizados en laboratorios cualificados (seguir las instrucciones impresas en el embalaje).
 - Decorado: las diferentes decoraciones se realizan con colores a base de agua, para un papel de cocina idóneo para el contacto con alimentos.
 - Formato: 28 rollos de papel cocina de 2 capas, 66 servicios por rollo y longitud total de 15,2m por rollo (tolerancia +/- 5%)
 

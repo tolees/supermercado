@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 👨‍🌾 Aceite Hidratante Facial y Corporal. Propiedades antienvejecimiento gracias a su alto contenido en antioxidantes y Vitamina E, que ayuda a reducir arrugas y líneas finas, manteniendo la piel tersa y firme. El aceite de sésamo es un excelente limpiador y desmaquillante facial natural.
-- 👨‍🌾 Cuidado del Cabello - Cabello sedoso, hidratante, brillante. Preparados de mascarillas capilares de cosmetica natural para estimular el crecimiento del cabello.
 - 👨‍🌾 Propiedades del Aceite de Sésamo - Inoloro. No deja grasa. Sirve como aceite portador (base) de otros aceites (vegetal y esencial). Botellas color opaco que impide transpaso de luz y evitar oxidación.
 - 👨‍🌾 Uso en Cosmetica para Cuidado de la Piel - Masaje ayurveda, Masaje corporal terapéutico, Terapia de masajes. Calentamiento de músculos y articulaciones. Antiestrias y anti flacidez. Combinar con crema o loción corporal para potenciar hidratación.
+- 👨‍🌾 Aceite Hidratante Facial y Corporal. Propiedades antienvejecimiento gracias a su alto contenido en antioxidantes y Vitamina E, que ayuda a reducir arrugas y líneas finas, manteniendo la piel tersa y firme. El aceite de sésamo es un excelente limpiador y desmaquillante facial natural.
 - 👨‍🌾 Tradicity Organic Farm - Producto artesanal y local, elaborado a través de prácticas traidicionales basadas en agricultura ecologica sostenible. Cosmética Bio Natural Tradicional. Cruelty-free. Sin conservante, sin tóxicos, sin químicos, sin pesticidas. Apto Vegano. No OGM. Sin gluten.
+- 👨‍🌾 Cuidado del Cabello - Cabello sedoso, hidratante, brillante. Preparados de mascarillas capilares de cosmetica natural para estimular el crecimiento del cabello.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09X5JNVN3{{</world>}}

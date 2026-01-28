@@ -29,13 +29,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - producto 2: Color: oro.
-- producto 2: Acabado: Larga duración, aceitoso.
-- producto 2: Sabor: Suave, bien equilibrado, complejo, manzanas maduras, peras, notas de frutos secos.
 - producto 1: Producto de calidad
-- producto 1: Color: dorado
-- producto 1: Nariz: vainilla, chocolate blanco, canela
-- producto 1: Adecuado como regalo
 - producto 2: Nariz: Elegante, ligera, suave, afrutada.
+- producto 1: Nariz: vainilla, chocolate blanco, canela
+- producto 2: Sabor: Suave, bien equilibrado, complejo, manzanas maduras, peras, notas de frutos secos.
+- producto 1: Adecuado como regalo
+- producto 1: Color: dorado
+- producto 2: Acabado: Larga duración, aceitoso.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B7LZ6Q1K{{</world>}}

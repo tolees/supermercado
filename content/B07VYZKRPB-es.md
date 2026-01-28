@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - ➤ ¿CÓMO? | Puede utilizar nuestro azúcar de flor de coco como el azúcar de caña - para endulzar postres, muesli de frutas, productos horneados y bebidas como té o limonada.
-- ➤ SATISFACCIÓN | Agradecemos cualquier comentario sobre nuestros productos BIO. ¿Nos va a ayudar a nosotros y a otros clientes con su evaluación del azúcar de coco BIO? ¡Gracias por su amable colaboración!
 - ➤ ¿POR QUÉ? | Nuestro azúcar de flor de coco organico es un sustituto natural ideal al azúcar moreno y al azúcar de caña.
+- ➤ SATISFACCIÓN | Agradecemos cualquier comentario sobre nuestros productos BIO. ¿Nos va a ayudar a nosotros y a otros clientes con su evaluación del azúcar de coco BIO? ¡Gracias por su amable colaboración!
 - ➤ NUESTRO CONSEJO | Este edulcorante natural se deriva del néctar de las flores de coco. Sin embargo, no tiene sabor a coco, sino más bien a caramelo – muy delicadamente, similar al azúcar moreno.
 - ➤ AZÚCAR DE FLOR DE COCO BIO - 100% natural, finamente molido y de calidad orgánica controlada para una dulzura delicada y suave con un ligero toque de caramelo.
 

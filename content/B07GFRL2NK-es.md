@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - La mejor calidad en productos de cuidado personal.
-- Productos para el higiene y aseo, tanto para hombres como para mujeres.
 - Gel Dicora Uf Vit B/Almendr 750+250 Ml
+- Productos para el higiene y aseo, tanto para hombres como para mujeres.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07GFRL2NK{{</world>}}

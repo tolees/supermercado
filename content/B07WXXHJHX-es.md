@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - SUEÑO Y DESCANSO: La melatonina contribuye a disminuir el tiempo necesario para conciliar el sueño. Melamil Tripto es un complemento alimenticio que permite disfrutar de un buen descanso cada noche, diseñado para niños, pero ideal por toda la familia.
-- RECOMENDADO POR PEDIATRAS: Fórmula con elevado grado de pureza: melatonina 99% pura, triptófano y vitamina B6
 - PIPETA GRADUADA Y DOSIFICACIÓN A MEDIDA: La pipeta cuenta con marcas claras que te permiten medir con precisión la dosis de 0,5 ml, 1 vez al día (salvo indicación distinta del profesional sanitario debidamente habilitado para tal efecto) directo en boca, 30 minutos antes de ir a dormir. 0,5 ml equivale a 1 mg de melatonina, 20 mg de triptófano y 1,4 mg de vitamina B6.
-- EFICACIA CIENTIFICAMENTE PROBADA: La melatonina es una molécula que se produce de forma natural en el cuerpo que no crea dependencia y es segura de utilizar a corto y largo plazo.
 - UTILIDAD: La melatonina ayuda a disminuir el tiempo necesario para conciliar el sueño y a la regulación del ritmo circadiano. En aquellos casos que se requiera controlar los ciclos sueño-vigilia. El triptófano es un aminoácido esencial relacionado con la síntesis de la melatonina en el organismo. nLa vitamina B6, contribuye al funcionamiento normal del sistema nervioso, a la función psicológica normal y ayuda a reducir el cansancio y la fatiga.nEl efecto beneficioso se obtiene con una ingesta de 1ml de melatonina, un poco antes de ir a dormir. Los complementos alimenticios no deben utilizarse como sustituto de una dieta variada y equilibrada y un estilo de vida sano.
+- RECOMENDADO POR PEDIATRAS: Fórmula con elevado grado de pureza: melatonina 99% pura, triptófano y vitamina B6
+- EFICACIA CIENTIFICAMENTE PROBADA: La melatonina es una molécula que se produce de forma natural en el cuerpo que no crea dependencia y es segura de utilizar a corto y largo plazo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07WXXHJHX{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Rico en potasio, magnesio, zinc y hierro
-- Rico en glutamina: apoya el equilibrio ácido/alcalino y ayuda a controlar los impulsos de ingerir dulce
+- Fuente natural de vitaminas B1, B2, B3, B6 y C
 - Bajo índice glucémico (IG:35); adecuado en dietas de control de peso y niveles de azúcar en sangre
 - Delicioso aroma y exquisito sabor (notas de caramelo)
-- Fuente natural de vitaminas B1, B2, B3, B6 y C
+- Rico en glutamina: apoya el equilibrio ácido/alcalino y ayuda a controlar los impulsos de ingerir dulce
+- Rico en potasio, magnesio, zinc y hierro
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01N1UC3SV{{</world>}}

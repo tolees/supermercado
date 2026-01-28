@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- FEMENINO Y PRIMAVERAL: Un perfume para mujeres que evoca vibras positivas y que te conquistará con su rico olor, ideal para mujeres originales.
-- PERFUME: Colonias femeninas con un carácter positivo, amoroso y atrayente, que te trasladan a una combinación de ensueño entre armonía y sensualidad, a un paisaje primaveral o a una caricia dulce y adorable de un amor cálido e inolvidable. Colonias con vaporizador.
-- PIRÁMIDE OLFATIVA: Notas de salida: mandarina, pera y pimienta rosa; azahar, kiwi, sandía y jazmín; naranja siciliana, frambuesa y hojas de higuera. Notas de corazón: jazmín, nerolí y azahar; jazmín y nardo; lirio del valle, regaliz y frutos rojos. Notas de fondo: haba tonka, vainilla y almizcle; sándalo, ámbar y almizcle blanco; vainilla y caramelo.
 - TENDENCIA OLFATIVA: Estos perfumes de mujer tienen una tendencia floral oriental afrutada; una tendencia oriental a vainilla; y una tendencia afrutada floral ambarada ideal para personas optimistas, colaboradoras y originales.
 - DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más.
+- PERFUME: Colonias femeninas con un carácter positivo, amoroso y atrayente, que te trasladan a una combinación de ensueño entre armonía y sensualidad, a un paisaje primaveral o a una caricia dulce y adorable de un amor cálido e inolvidable. Colonias con vaporizador.
+- FEMENINO Y PRIMAVERAL: Un perfume para mujeres que evoca vibras positivas y que te conquistará con su rico olor, ideal para mujeres originales.
+- PIRÁMIDE OLFATIVA: Notas de salida: mandarina, pera y pimienta rosa; azahar, kiwi, sandía y jazmín; naranja siciliana, frambuesa y hojas de higuera. Notas de corazón: jazmín, nerolí y azahar; jazmín y nardo; lirio del valle, regaliz y frutos rojos. Notas de fondo: haba tonka, vainilla y almizcle; sándalo, ámbar y almizcle blanco; vainilla y caramelo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DN1SNSKJ{{</world>}}

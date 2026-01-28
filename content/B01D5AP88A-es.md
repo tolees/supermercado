@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Proporciona una agradable sensación
 - Producto para el cabello
 - Producto de calidad óptima
+- Proporciona una agradable sensación
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01D5AP88A{{</world>}}

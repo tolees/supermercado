@@ -29,13 +29,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - producto 2: Sabor limpio e identificable de caldo de pollo hervido varias horas; con notas de verduras y ligero toque de hierbas, como la cebolla o el ajo
-- producto 1: Sin conservantes, ni colorantes y bajo en grasas
-- producto 1: Aporta un sabor a pescado en cualquier momento de la preparación
-- producto 2: Color menos pardo/oscuro, más adecuado a un caldo de pollo profesional; el aspecto es de un caldo hervido despacio
-- producto 1: SIN Gluten y SIN Lactosa
+- producto 2: Libre de los 14 alérgenos declarables según reglamento 1169/2011
 - producto 1: Knorr Caldo sazonador Vegetal
 - producto 2: Knorr Caldo sazonador de Pollo
-- producto 2: Libre de los 14 alérgenos declarables según reglamento 1169/2011
+- producto 2: Color menos pardo/oscuro, más adecuado a un caldo de pollo profesional; el aspecto es de un caldo hervido despacio
+- producto 1: Sin conservantes, ni colorantes y bajo en grasas
+- producto 1: Aporta un sabor a pescado en cualquier momento de la preparación
+- producto 1: SIN Gluten y SIN Lactosa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BLV79WGV{{</world>}}

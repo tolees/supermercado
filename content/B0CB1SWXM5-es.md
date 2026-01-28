@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Atún claro al natural
+- Este envase contiene 6 porciones
 - Una vez abierto, pasar el contenido a un recipiente no metálico, tapar y mantener refrigerado, y consumir en 2 días
 - Conservar en un lugar fresco y seco
-- Este envase contiene 6 porciones
 - Puede contener espinas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

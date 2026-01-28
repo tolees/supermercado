@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CUIDADO CAPILAR: Una crema que realza los rizos. El regalo perfecto para el cuidado del cabello.
 - CREMA PARA EL CABELLO: Crema definidora de rizos que aporta elasticidad y realza la forma de los rizos.
-- RIZOS SUAVES: Vitaminas, minerales y ácidos grasos esenciales cuidan delicadamente el cabello y mejoran su manejabilidad.
-- NUTRICIÓN: Diseñada con nuestro Complejo Nourish-In para aportar una nutrición intensa al cabello.
 - FÓRMULA HIDRATANTE: Con pantenol para restaurar el nivel adecuado de hidratación del cabello.
+- RIZOS SUAVES: Vitaminas, minerales y ácidos grasos esenciales cuidan delicadamente el cabello y mejoran su manejabilidad.
+- CUIDADO CAPILAR: Una crema que realza los rizos. El regalo perfecto para el cuidado del cabello.
+- NUTRICIÓN: Diseñada con nuestro Complejo Nourish-In para aportar una nutrición intensa al cabello.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CRVWMVC9{{</world>}}

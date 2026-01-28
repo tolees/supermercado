@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Splash aromático a suave coco
-- Limpia e hidrata en un solo paso
 - Propiedades antioxidantes
 - Formato de 1250 ML
+- Limpia e hidrata en un solo paso
+- Splash aromático a suave coco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07VMFSCTN{{</world>}}

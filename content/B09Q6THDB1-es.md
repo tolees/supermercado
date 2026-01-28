@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Productos de Cuidado de la piel para Unisex adulto
 - Los productos de la marca LOREAL están fabricados con ingredientes de la mejor calidad.
+- Productos de Cuidado de la piel para Unisex adulto
 - Cuidado de la piel REVITALIFT FILLER EYE SERUM 20ML de LOREAL
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

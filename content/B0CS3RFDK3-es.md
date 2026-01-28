@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ♻️ [FORMATO]: Cubo de 1,4 Kilos de Frutos Secos Variados. Revuelto Especial. deFrutos Secos.
-- 🌲 [COCTEL FRUTOS SECOS]: Mix Surtido de Frutos Secos. Ideal para picoteo. Riquisimos.
 - ✅ [CONTENIDO]: Almendra repelada, Cacahuete repelado, Anacardos, Nueces Macadamia y Maiz Gigante con aroma Chily.
+- 🌲 [COCTEL FRUTOS SECOS]: Mix Surtido de Frutos Secos. Ideal para picoteo. Riquisimos.
+- ♻️ [FORMATO]: Cubo de 1,4 Kilos de Frutos Secos Variados. Revuelto Especial. deFrutos Secos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CS3RFDK3{{</world>}}

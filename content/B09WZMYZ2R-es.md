@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- AROMA DE MUJER: Nike Sweet Blossom es un perfume femenino, para mujeres urbanitas, que te hará sentir la sensibilidad de la ciudad a tu manera. Viene en dos frascos vaporizadores de 75 y 30 mililitros
 - PIRÁMIDE OLFATIVA: Notas de salida: grosella negra, baya roja, ylang ylang y rosa; Notas de corazón: flores blancas, almendra, melocotón y heliotropo; Notas de fondo: almizcle, vainilla, ámbar y madera de cedro
-- DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más
+- AROMA DE MUJER: Nike Sweet Blossom es un perfume femenino, para mujeres urbanitas, que te hará sentir la sensibilidad de la ciudad a tu manera. Viene en dos frascos vaporizadores de 75 y 30 mililitros
 - DULCE Y FEMENINO: Un agua de colonia para mujeres que inspira paz y calma dentro del caos bullicioso de la urbe. ¡Siente la ciudad a tu manera!
+- DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más
 - TENDENCIA OLFATIVA: Este perfume de mujer tiene una tendencia floral afrutada ambarada almizclada, que rinde homenaje a los remansos de tranquilidad en los ocasos y en las ciudades
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Brand: Tatay
 - Alta calidad
 - Piña ducha sistema antical
 - Diseño funcional
-- Brand: Tatay
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00RLOTKG8{{</world>}}

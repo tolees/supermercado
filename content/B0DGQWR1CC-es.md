@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 🎒 IDEAL PARA PEQUES Y MERIENDAS PRÁCTICAS: Si tu peque sabe gestionar los sólidos sin ayuda, ¡adelante! Su envase individual permite llevarlo en la mochila, disfrutarlo en casa o tomarlo en el parque. Fácil de manipular y cómodo de comer.
 - 🍫 INGREDIENTES DE CULTIVO ECOLÓGICO: hecho con harina integral de trigo escanda, tahini de girasol y cacao en polvo ecológico. Sin huevo. Con 10 g de fibra y 11 g de proteínas.
 - 💚 SMILEAT: nacimos para revolucionar la alimentación infantil y lo seguimos haciendo con cada producto. Como la primera marca B-Corp en alimentación infantil ecológica de España, en Smileat trabajamos para crear un impacto positivo en el mundo, ofreciendo productos ricos y responsables que cuidan de los más pequeños, del planeta y de su futuro.
 - 🤱 CONFIANZA EN CADA ELECCIÓN: sabemos que buscas lo mejor para tu peque. Por eso, usamos ingredientes ecológicos y apoyamos una producción responsable que respeta el planeta y su futuro.
-- 🎒 IDEAL PARA PEQUES Y MERIENDAS PRÁCTICAS: Si tu peque sabe gestionar los sólidos sin ayuda, ¡adelante! Su envase individual permite llevarlo en la mochila, disfrutarlo en casa o tomarlo en el parque. Fácil de manipular y cómodo de comer.
 - 🌱 BARQUILLO CON CREMA DE CACAO: un snack crujiente relleno de cacao con una textura ligera y un formato práctico. Una opción diferente y fácil de disfrutar en cualquier momento. Es el primer barquillo sin azúcar añadido del mercado infantil español*.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

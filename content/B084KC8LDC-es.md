@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Conservar en un lugar fresco y seco
 - Apto para compartir con amigo o familia
 - Producto que no contiene gluten
-- De textura crujiente y agradable
 - Con simple y clásico sabor a sal
-- Conservar en un lugar fresco y seco
+- De textura crujiente y agradable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B084KC8LDC{{</world>}}

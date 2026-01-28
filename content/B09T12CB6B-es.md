@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bebida de soja con calcio y vitaminas añadidas
-- No contiene gluten ni lactosa, por lo que es apto para personas celíacas e intolerantes al lácteo
 - Es 100% natural y vegetal, para contribuir a un planeta sostenible
+- No contiene gluten ni lactosa, por lo que es apto para personas celíacas e intolerantes al lácteo
 - Naturalmente baja en grasas saturadas
+- Bebida de soja con calcio y vitaminas añadidas
 - Contiene nutrientes esenciales y es fuente de calcio y vitaminas B2, B12 y D2
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

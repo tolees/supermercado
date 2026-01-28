@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color. Multicolor
-- Referencia del producto: S0586106
 - Tinte sin Amoniaco Revlon Color Sublime Nº 6 0 Rubio Oscuro (75 ml)
+- Referencia del producto: S0586106
 - Medidas: 3,5 x 5,5 x 17 centímetros
+- Color. Multicolor
 - Tinte de la marca Revlon
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

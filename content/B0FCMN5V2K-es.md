@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ACEITE DE OLIVA VIRGEN EXTRA ECOLÓGICO CERTIFICADO. Aceite de oliva virgen extra de cultivo ecológico, producido de manera sostenible en nuestra almazara de Mora (Toledo)
 - FORMATO SQUIZZ ANTIGOTEO CON TAPÓN REGULABLE. Gracias a su práctico tapón regulable antigoteo, se trata de un formato más limpio, cómodo y preciso para el uso diario, ideal para usar directamente en ensaladas, tostadas o platos cocinados
 - DISEÑO ECO-FRIENDLY. Diseñado con etiqueta kraft y personaje ECO en colores naturales que reflejan nuestro compromiso con el medio ambiente
+- ACEITE DE OLIVA VIRGEN EXTRA ECOLÓGICO CERTIFICADO. Aceite de oliva virgen extra de cultivo ecológico, producido de manera sostenible en nuestra almazara de Mora (Toledo)
 - ENVASE RECICLADO SOSTENIBLE. Diseñado en botella de plástico reciclado al 50%, en formato PET verde de 500 ml con diseño oscurecido para una mejor conservación del aceite de oliva
 - ORIGEN 100% ESPAÑOL. Nuestro AOVE ecológico está elaborado con aceitunas de origen nacional bajo estándares de calidad y sostenibilidad
 

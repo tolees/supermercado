@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- ¡Delicia de nueces y chocolate! Deliciosa combinación de avellanas y cacao, endulzada naturalmente con dátiles.
 - Perfecto para llevar o como refrigerio saludable entre comidas. Orgánico, vegano y sin gluten.
 - Valores nutricionales (por 100 g): Energía 1941 kJ (465 kcal), Grasas 26 g (de las cuales saturadas: 3,1 g), Hidratos de carbono 44 g (de los cuales azúcares: 28 g), Fibra 7 g.
-- ¡Delicia de nueces y chocolate! Deliciosa combinación de avellanas y cacao, endulzada naturalmente con dátiles.
 - ¡Regala amor y cariño con las nueces! Con nuestras Nueces Traviesas en numerosas variedades, puedes endulzar el día de tus seres queridos: ¡la sorpresa perfecta para todos los amantes de las nueces y los desayunos!
 - Ingredientes: PASTA DE DÁTILES*, MOSTO DE AVELLANAS* (30%), TROZOS DE AVELLANAS tostadas* (10%), copos de avena sin gluten*, cacao en polvo*, sal. *Ingredientes procedentes de agricultura ecológica controlada. Puede contener trazas de SÉSAMO, CACAHUETES y otros FRUTOS SECOS.
 

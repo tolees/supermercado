@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- x2 botellas de Coors. Alc.4,0% Vol. La receta de las montañas rocosas en estados unidos y un proceso de fermentación logran un sabor puro y ligero que resulta muy refrescante
-- x1 botella de Miller genuine draft. Alc. 4,7% vol. Miller genuine draft nació como la cerveza de barril envasada y filtrada en frío
-- Pack 6 botellas de 4 variedades de Lagers del mundo
-- x2 botellas de La Sagra Lager. Alc. 5,2% vol. Resultado de la fusión del saber hacer de nuestros maestros cerveceros con el proceso tradicional de elaboración checo
-- x1 botella de Staropramen Premium. Alc. 5,0% vol. Staropramen es una cerveza Premium de tipo pilsner, la cerveza característica de Praga, producida según la tradición checa
 - Caja de 6 botellas de cerveza de 33cl
+- x1 botella de Staropramen Premium. Alc. 5,0% vol. Staropramen es una cerveza Premium de tipo pilsner, la cerveza característica de Praga, producida según la tradición checa
+- x2 botellas de Coors. Alc.4,0% Vol. La receta de las montañas rocosas en estados unidos y un proceso de fermentación logran un sabor puro y ligero que resulta muy refrescante
+- x2 botellas de La Sagra Lager. Alc. 5,2% vol. Resultado de la fusión del saber hacer de nuestros maestros cerveceros con el proceso tradicional de elaboración checo
+- Pack 6 botellas de 4 variedades de Lagers del mundo
+- x1 botella de Miller genuine draft. Alc. 4,7% vol. Miller genuine draft nació como la cerveza de barril envasada y filtrada en frío
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BLK8NHRJ{{</world>}}

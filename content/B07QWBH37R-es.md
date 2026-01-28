@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- REGALO ÚNICO - Este set de regalo incluye 6 diferentes mezclas de chocolate caliente de 1 onza en mini vasos de papel.
-- CHOCOLATE CALIENTE - Caramelo, Vainilla Francesa, Malvavisco Tostado, Caramelo Salado, Doble y Chocolate con Leche.
 - TRATO DULCE - Este set de chocolate caliente le dará un poco de dulzura a la familia, amigos o a ti mismo.
 - BOLSA DE REGALO LISTA - ¡Envuélvala, colóquela en una bolsa o añada un lazo, y este set de regalo está listo para llevar!
+- CHOCOLATE CALIENTE - Caramelo, Vainilla Francesa, Malvavisco Tostado, Caramelo Salado, Doble y Chocolate con Leche.
+- REGALO ÚNICO - Este set de regalo incluye 6 diferentes mezclas de chocolate caliente de 1 onza en mini vasos de papel.
 - VEGETARIANO - Simplemente mezcle nuestra mezcla de cacao vegetariano con 6 onzas de agua caliente, revuelva y relájese.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

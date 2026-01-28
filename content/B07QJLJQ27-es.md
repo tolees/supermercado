@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Variedades: Tempranillo;
 - Graduación: 14 %;
-- Maridaje: Ideal con carnes rojas a la brasa y guisos mediterráneos;
-- Elaborado por: FAMILIA TORRES;
+- Variedades: Tempranillo;
 - Origen: DO Rioja, España;
+- Elaborado por: FAMILIA TORRES;
+- Maridaje: Ideal con carnes rojas a la brasa y guisos mediterráneos;
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07QJLJQ27{{</world>}}

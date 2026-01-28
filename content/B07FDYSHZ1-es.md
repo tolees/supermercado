@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Interruptor giratorio: El tiempo de preparación se controla de forma flexible mediante un interruptor giratorio de fácil manejo y se puede reajustar en cualquier momento.
 - Volumen de suministro: Heladera MD18387, tapa, utensilio para remover, vaso medidor, espátula
-- Individual: Mezcla cualquier ingrediente y añade más ideas deliciosas a tu helado favorito a través de la abertura.
-- Máquina de hielo con compresor integrado, capacidad de 1,5 l, contenedor para hielo de aluminio, rango de temperatura de -18°C y -35°C, e interruptor giratorio.
 - Capacidad de 1,5 litros: Con el recipiente de aluminio extra grande (que incluye revestimiento antiadherente) podrás preparar helados para toda la familia.
+- Máquina de hielo con compresor integrado, capacidad de 1,5 l, contenedor para hielo de aluminio, rango de temperatura de -18°C y -35°C, e interruptor giratorio.
+- Individual: Mezcla cualquier ingrediente y añade más ideas deliciosas a tu helado favorito a través de la abertura.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07FDYSHZ1{{</world>}}

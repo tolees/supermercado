@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Conservar en lugar fresco y seco
+- Se disuelve en agua o leche
+- Fácil y rápido de preparar
 - Café soluble ecológico en un recipiente de vidrio
 - Ideal para el desayuno o una pausa durante el día
-- Fácil y rápido de preparar
-- Se disuelve en agua o leche
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07RHN25Q5{{</world>}}

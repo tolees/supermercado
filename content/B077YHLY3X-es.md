@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Nota de cata (nariz): Aromas complejos de fruta roja madura bien integrados con finos matices tostados y balsámicos de su paso por barrica.
-- Nota de cata (vista): Color rojo picota intenso con matices violáceos que denotan su juventud.
-- Varietales: Cabernet Sauvignon y Tempranillo
-- No recomendamos ni consideramos necesario decantar este v ino. Temperatura de serv icio ideal 16-18ºC. Se encuentra en un momento óptimo de consumo, pero se desarrollará favorablemente en botella los próximos dos años.
 - Nota de cata (boca): Postgusto largo con un agradable final especiado.
+- Nota de cata (nariz): Aromas complejos de fruta roja madura bien integrados con finos matices tostados y balsámicos de su paso por barrica.
+- No recomendamos ni consideramos necesario decantar este v ino. Temperatura de serv icio ideal 16-18ºC. Se encuentra en un momento óptimo de consumo, pero se desarrollará favorablemente en botella los próximos dos años.
+- Varietales: Cabernet Sauvignon y Tempranillo
+- Nota de cata (vista): Color rojo picota intenso con matices violáceos que denotan su juventud.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B077YHLY3X{{</world>}}

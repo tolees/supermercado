@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aspectos destacados del equipo: este polo cuenta con un gráfico de pecho reflejado de temporada en impresión de goma elevada, complementado con líneas planas de panel de impresión de goma, añadiendo un atractivo dinámico y atlético
 - Polo Red Bull Racing: presentamos nuestro polo con estampado de panel, hecho de piqué elástico de algodón ligero para una experiencia cómoda y deportiva
 - Detalles de PEPE JEANS F1: diseñado con un botón de solapa superior de color de contraste, este polo irradia atención al detalle, perfecto para mejorar tu aspecto casual con un toque de sofisticación
+- Aspectos destacados del equipo: este polo cuenta con un gráfico de pecho reflejado de temporada en impresión de goma elevada, complementado con líneas planas de panel de impresión de goma, añadiendo un atractivo dinámico y atlético
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CX1S6Q9Y{{</world>}}

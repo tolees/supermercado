@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - En boca es fresca y seca, con carácter floral. Carbónico de burbuja fina, bien integrado y con un sutil amargor que aumenta su persistencia en boca. Es una cerveza muy equilibrada y fácil de beber en cualquier hora del día.
-- Estás buscando regalos cerveceros? Este es sin duda el regalo perfecto para los amantes de la cerveza! Este Pack es ideal para disfrutar en eventos con amigos, terrazas, fiestas y escapadas de fin de semana. Adelante.
 - Cerveza de trago largo bien equilibrada con aptitud refrescante y saciadora de sed. Está elaborada a partir de agua del valle de Monterrei, Ourense, Galicia, malta de cebada, lúpulos de carácter floral, junto con levadura.
 - Aromáticamente es una cerveza muy fresca con aromas a cereal malteado, notas florales con fondo ligeramente cítrico. Presenta un color amarillo pajizo con aspecto claro y una corona blanca de moderada persistencia.
+- Estás buscando regalos cerveceros? Este es sin duda el regalo perfecto para los amantes de la cerveza! Este Pack es ideal para disfrutar en eventos con amigos, terrazas, fiestas y escapadas de fin de semana. Adelante.
 - Acompaña muy bien con cualquier tipo de aperitivo. Casa muy bien con el pescado azul, y mariscos. También, marida con carnes, sobre todo la de pollo, cordero y cerdo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

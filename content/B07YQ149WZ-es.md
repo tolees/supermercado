@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CALIDAD: Creano ErblühTee s son un producto de marca de la mejor calidad. Concedemos gran importancia a la calidad del té, las flores, así como a la función y el aspecto. Como miembro de la Asociación Alemana del Té, defendemos la mayor seguridad posible del producto y estamos sujetos al "Código de conducta".
-- CARACTERÍSTICAS: Cada flor de ErblühTee puede infusionarse hasta 3 veces, por lo que se obtiene aproximadamente 1,5 l de té para verdaderos entendidos. Además, las bolas de té tienen un maravilloso sabor afrutado. El suave té verde se complementa con caléndulas, rosas, flores de jazmín, hibisco y flores de saúco. Debido a su alta calidad y baja proporción de sustancias amargas, el té tolera largos tiempos de infusión y garantiza una amplia experiencia visual.
 - REGALO: Un regalo ideal para mujeres, por ejemplo para un cumpleaños, el Día de la Madre, San Valentín, Navidad o Pascua. A diferencia de un ramo de flores, una flor de té suele crear un gran asombro unido a una alegría infantil en cuanto la bola de té se abre en la tetera.
-- NUESTRA GARANTÍA DE SATISFACCIÓN: No dude en contactarnos. Nuestro amable y competente servicio de atención al cliente está a su disposición para cualquier problema que pueda tener y encontrará una solución 100% satisfactoria con usted!
+- CALIDAD: Creano ErblühTee s son un producto de marca de la mejor calidad. Concedemos gran importancia a la calidad del té, las flores, así como a la función y el aspecto. Como miembro de la Asociación Alemana del Té, defendemos la mayor seguridad posible del producto y estamos sujetos al "Código de conducta".
 - OFERTA: Set de degustación de flores de té o set de regalo con 6 diferentes rosas de té - Té verde. Nuestra oferta para los verdaderos amantes del té viene en una atractiva caja de regalo.
+- CARACTERÍSTICAS: Cada flor de ErblühTee puede infusionarse hasta 3 veces, por lo que se obtiene aproximadamente 1,5 l de té para verdaderos entendidos. Además, las bolas de té tienen un maravilloso sabor afrutado. El suave té verde se complementa con caléndulas, rosas, flores de jazmín, hibisco y flores de saúco. Debido a su alta calidad y baja proporción de sustancias amargas, el té tolera largos tiempos de infusión y garantiza una amplia experiencia visual.
+- NUESTRA GARANTÍA DE SATISFACCIÓN: No dude en contactarnos. Nuestro amable y competente servicio de atención al cliente está a su disposición para cualquier problema que pueda tener y encontrará una solución 100% satisfactoria con usted!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07YQ149WZ{{</world>}}

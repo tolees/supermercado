@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Envase 100% reciclable
-- Aplicar sobre cabello mojado, masajear suavemente el cuero cabelludo y después aclarar
-- Formulado con Aceite de Oliva rico en ácidos grasos y Vitamina E, se usa desde la antigüedad por sus propiedades altamente nutritivas, suavizantes y reparadoras
 - El Champú que nutre intensamente sin apelmazar, dejando un pelo intensamente nutrido, ligero y suave
+- Formulado con Aceite de Oliva rico en ácidos grasos y Vitamina E, se usa desde la antigüedad por sus propiedades altamente nutritivas, suavizantes y reparadoras
+- Aplicar sobre cabello mojado, masajear suavemente el cuero cabelludo y después aclarar
 - 250 ml
 
 [🛒 Comprar!!!]({{< param buyurl >}})

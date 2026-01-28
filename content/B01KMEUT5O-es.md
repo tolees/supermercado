@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Perfume energizante de notas marinas.
+- pH neutro para la piel.
 - Al extracto de Ginkgo.
 - Disfruta de una experiencia energizante para el cuerpo y el espíritu con Fa Cap Tonique.
-- pH neutro para la piel.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01KMEUT5O{{</world>}}

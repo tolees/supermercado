@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- RESPETUOSA CON LOS OCÉANOS - Los protectores solares de NIVEA no contienen los filtros UV Octocrileno, Octinoxato y Oxybenzona. Además, están libres de microplásticos
-- FÓRMULA HIDRATANTE - La innovadora fórmula con Ácido Hialurónico de este protector solar reduce eficazmente el estrés oxidativo a nivel celular* y protege la salud de la piel
-- PROTECCIÓN UVA/UVB MUY ALTA - Con su elevado factor de protección solar, esta crema solar SPF 50+ protege la piel de la radiación UVA/UVB de forma eficaz y fiable
 - ACABADO INVISIBLE - Gracias a su textura ligera y no pegajosa, esta crema hidratante con protección solar se absorbe en segundos, es resistente al agua y no deja residuos blancos
 - DETALLES DEL ENVÍO - NIVEA SUN Protege & Hidrata Acabado Invisible SPF 50+ Loción Solar, compatibilidad con la piel dermatológicamente comprobada, bloqueador solar en tubo, 1 x 150 ml
+- FÓRMULA HIDRATANTE - La innovadora fórmula con Ácido Hialurónico de este protector solar reduce eficazmente el estrés oxidativo a nivel celular* y protege la salud de la piel
+- RESPETUOSA CON LOS OCÉANOS - Los protectores solares de NIVEA no contienen los filtros UV Octocrileno, Octinoxato y Oxybenzona. Además, están libres de microplásticos
+- PROTECCIÓN UVA/UVB MUY ALTA - Con su elevado factor de protección solar, esta crema solar SPF 50+ protege la piel de la radiación UVA/UVB de forma eficaz y fiable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DVT2LT31{{</world>}}

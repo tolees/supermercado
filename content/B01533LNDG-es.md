@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Apta para vegetarianos
 - Sin gluten
+- Apta para vegetarianos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01533LNDG{{</world>}}

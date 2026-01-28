@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Cabello nutrido, hidratado y con un brillo infinito, Disciplina cabellos rizados y encrespados, Transformación inmediata para un pelo suave y sedoso
 - Aplica de medios a puntas en el pelo seco o húmedo, Puede ser utilizado después de lavar el cabello, antes de peinarlo o como toque final para controlar cabellos rebeldes
 - Aceite extraordinario para pelo seco, Transformación inmediata para un pelo sublime, más brillante y suave
-- Fórmula ligera enriquecida con aceites de flores preciosas para una nutrición intensa, Elaborado a base de aceites naturales
 - Contenido: 1 x LOreal Paris Elvive Aceite Extraordinario de uso universal, Cantidad: 100 ml
+- Fórmula ligera enriquecida con aceites de flores preciosas para una nutrición intensa, Elaborado a base de aceites naturales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00X9WCH9S{{</world>}}

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - La Cerveza Maestra Doble Lúpulo es un homenaje a los maestros cerveceros de hoy, una cerveza especial y brillante, tostada, de doble lúpulo, con gran cuerpo, sabor intenso y con espuma cremosa y consistente. De color ámbar con reflejos anaranjados y con aromas que se decantan hacia los tostados y el caramelo. Para beber tanto maridajes sencillos como para maridajes complejos.
-- Su sabor es de intensa fragancia alcohólica, donde se perciben notas cítricas y florales del lúpulo, que se intensifican al tragar. Es elegante, de cuerpo intenso con recuerdos a granos de café envueltos en miel. Con amargor fino y persistente del doble lúpulo aportándole jovialidad y elegancia.
 - Para un mayor disfrute se recomienda consumir entre 6º y 8º C.
 - Mahou Maestra Doble Lúpulo en pack de 24 latas de 33 centilitros, con 7.5% de alcohol.
+- Su sabor es de intensa fragancia alcohólica, donde se perciben notas cítricas y florales del lúpulo, que se intensifican al tragar. Es elegante, de cuerpo intenso con recuerdos a granos de café envueltos en miel. Con amargor fino y persistente del doble lúpulo aportándole jovialidad y elegancia.
 - Elaborada a partir de una selección de maltas con un grado mayor de tueste, lúpulos amargos de origen americano que aportan un amargor suave y ligero, característico de la gama Mahou; y levadura que aporta los toques afrutados.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

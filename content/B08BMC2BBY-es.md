@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Generoso en boca, con un final especiado que aporta frescura
-- Color rojo granate y nariz con un efusivo aroma a pequeños frutos negros
 - Denominación: Côtes du Rhône Villages Plan De Dieu
 - Región: vino tinto del Valle del Ródano
 - Variedades de uva: Garnacha, Syrah
+- Color rojo granate y nariz con un efusivo aroma a pequeños frutos negros
+- Generoso en boca, con un final especiado que aporta frescura
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08BMC2BBY{{</world>}}

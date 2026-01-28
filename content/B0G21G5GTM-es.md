@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- COMPROMISO CON LA CALIDAD: Hamlet trabaja bajo los estándares internacionales más exigentes, con certificaciones IFS, BRCGS y HACCP, y utiliza cacao Fairtrade de comercio responsable.
 - ELABORADOS EN BÉLGICA: Empresa familiar fundada en 1956 que, tres generaciones después, sigue elaborando chocolate con la misma pasión y dedicación artesanal.
-- LISTO PARA REGALAR: Caja de auténtico chocolate belga decorada con un elegante lazo dorado. Un detalle cuidado, ideal para sorprender sin necesidad de envolver.
 - PARA TODAS LAS OCASIONES: Ideal para cumpleaños, aniversarios, Navidad o como un detalle elegante en cualquier momento del año.
 - SABORES (10 UNIDADES): Bombones con rellenos suaves de vainilla, caramelo, mousse de chocolate, pistacho, avellana, naranja y fresa.
+- LISTO PARA REGALAR: Caja de auténtico chocolate belga decorada con un elegante lazo dorado. Un detalle cuidado, ideal para sorprender sin necesidad de envolver.
+- COMPROMISO CON LA CALIDAD: Hamlet trabaja bajo los estándares internacionales más exigentes, con certificaciones IFS, BRCGS y HACCP, y utiliza cacao Fairtrade de comercio responsable.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G21G5GTM{{</world>}}

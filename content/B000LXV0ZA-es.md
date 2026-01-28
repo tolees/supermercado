@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mezcla alimenticia de tres crisps seleccionados para una alimentación variada, equilibrada y sana de los peces ornamentales de mayor tamaño del acuario
 - Los crisps que flotan mucho tiempo antes de hundirse lentamente son idóneas para poblaciones mixtas de peces / Los crisps fácilmente digeribles favorecen el agua limpia y de mejor calidad
-- La receta con ingredientes naturales, sin colorantes ni conservantes añadidos, promueve una mayor resiliencia y favorece un crecimiento sano gracias a la mezcla de proteínas
 - Vitaminas, minerales, oligoelementos esenciales y prebióticos favorecen las funciones corporales de los peces y la conversión de los alimentos - esto garantiza la vitalidad y la intensidad de los colores
+- Mezcla alimenticia de tres crisps seleccionados para una alimentación variada, equilibrada y sana de los peces ornamentales de mayor tamaño del acuario
+- La receta con ingredientes naturales, sin colorantes ni conservantes añadidos, promueve una mayor resiliencia y favorece un crecimiento sano gracias a la mezcla de proteínas
 - La lata resellable hecha de materiales reciclados protege el alimento contra influencias nocivas como la luz solar, el aire y la humedad - preservando así los ingredientes importantes / Volumen de suministro: 1 x 500 ml de TetraMin XL Crisps
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

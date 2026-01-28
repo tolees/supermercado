@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Alta protección SPF50, UVA y UVB
-- Tipo de piel: sensible
-- Con chlorella maris, con alto poder anti-oxidante que previene la destrucción de colágeno, elastina y laminina
-- Fórmula con la mayoría de ingredientes biodegradables y inorgánicos
 - Protege y revitaliza la piel gracias a la acción antioxidante de Chlorella Maris
+- Tipo de piel: sensible
+- Fórmula con la mayoría de ingredientes biodegradables y inorgánicos
+- Alta protección SPF50, UVA y UVB
 - Piel radiante y luminosa, muy hidratante
+- Con chlorella maris, con alto poder anti-oxidante que previene la destrucción de colágeno, elastina y laminina
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B084GQSBDD{{</world>}}

@@ -28,16 +28,16 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sistema de filtración Mexoryl SX y Mexoryl XL
-- Hipoalergénico, sin perfume, sin colorantes y probado bajo control pediátrico.
-- Protege contra el daño causado por el sol en la piel.
-- Viene con avanzada protección UVA y UVB con fotoestabilidad.
-- La fórmula hidratante no es grasa, resistente al agua y resistente a la arena.
-- La fórmula hidratante es hipoalergénica y sin perfume.
-- Desarrollado para una piel justa, sensible e intolerante al sol.
 - Spray con SPF 50+ proporciona una protección muy alta
-- Protege contra rayos UVB, UVA y rayos UVA largos.
+- Viene con avanzada protección UVA y UVB con fotoestabilidad.
 - Muy alta protección para la piel sensible y delicada de los niños (SPF50+)
+- Desarrollado para una piel justa, sensible e intolerante al sol.
+- La fórmula hidratante no es grasa, resistente al agua y resistente a la arena.
+- Protege contra el daño causado por el sol en la piel.
+- La fórmula hidratante es hipoalergénica y sin perfume.
+- Sistema de filtración Mexoryl SX y Mexoryl XL
+- Protege contra rayos UVB, UVA y rayos UVA largos.
+- Hipoalergénico, sin perfume, sin colorantes y probado bajo control pediátrico.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0036ZBSJI{{</world>}}

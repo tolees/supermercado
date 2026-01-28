@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nutre la piel, dejándola suave y tersa
-- Respeta el pH de la piel
 - Cómoda, práctica y fácil de usar
 - Protege la piel de la sequedad excesiva
+- Nutre la piel, dejándola suave y tersa
+- Respeta el pH de la piel
 - Viene en un pequeño y cómodo recipiente equipado con un dosificador
 
 [🛒 Comprar!!!]({{< param buyurl >}})

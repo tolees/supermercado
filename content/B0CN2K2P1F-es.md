@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ELABORACIÓN. El Licor Café de El Afilador se elabora a partir de una mezcla exclusiva de granos de café procedentes de Brasil, Colombia y Puerto Rico. Son tostados el mismo día en que se da paso a su maceración junto con nuestro licor de orujo, lo que eleva al máximo exponente su sabor.
 - CONSUMO. Disfruta acompañando este licor con tus postres y dulces en las sobremesas.
-- AUTÉNTICO SABOR: auténtico sabor del licor café de siempre. Bebemos de sus raíces gallegas, que sostienen una receta que se ha custodiado por generaciones.
 - NOTA DE CATA. El aroma del licor de Café El Afilador es intenso, natural y dulce que resulta sedoso y elegante en boca. El café le proporciona fuerza y consistencia. Presenta tonalidades marrones oscuro con reflejos tostados.
 - GRANOS DE CAFÉ DE PRIMERA CALIDAD. Se elabora con granos de café de primera calidad, procedentes de los rincones más exquisitos del mundo. Contiene 30 grados de alcohol.
+- ELABORACIÓN. El Licor Café de El Afilador se elabora a partir de una mezcla exclusiva de granos de café procedentes de Brasil, Colombia y Puerto Rico. Son tostados el mismo día en que se da paso a su maceración junto con nuestro licor de orujo, lo que eleva al máximo exponente su sabor.
 - La siguiente información se aplica a cada unidad del paquete
+- AUTÉNTICO SABOR: auténtico sabor del licor café de siempre. Bebemos de sus raíces gallegas, que sostienen una receta que se ha custodiado por generaciones.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CN2K2P1F{{</world>}}

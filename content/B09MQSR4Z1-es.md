@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MODO DE EMPLEO: Humedecer el pelo del perro con agua tibia, aplicar el champú suavemente masajeando hasta que salga espuma, aclarar y dejar que el perro se sacuda para posteriormente secar con toalla o secador.
-- SIN INSECTICIDAS QUÍMICOS NI TÓXICOS: Protección total frente a todo tipo de insectos gracias a sus activos 100% naturales. Sin insecticidas químicos, tóxicos para el animal.
-- Utilice los biocidas de forma segura. Lea siempre la etiqueta y la información sobre el biocida antes de usarlo
-- INGREDIENTES NATURALES: Champú de máxima calidad con ingredientes repelentes Margosa, Geraniol y Lavandino. La Margosa elimina durante el proceso de lavado todos los insectos presentes en la piel y en el pelaje. El Geraniol y el Lavandino son repelentes que proporcionan una protección adicional.
-- REPELE Y ELIMINA INFESTACIONES: Champú repelente de insectos para perros contra las infestaciones todo tipo de insectos parásitos (MOSQUITOS, PULGAS, GARRAPATAS, PIOJOS Y ÁCAROS).
-- USO FRECUENTE: Este producto tiene pH ADAPTADO, lo que permite su uso frecuente en todo tipo de razas. Fragancia herbal agradable.
 - El champú es apto para uso doméstico. Nuestra fórmula garantiza una limpieza profunda pero delicada para la piel y el pelaje de tu mascota. Con un aroma fresco y duradero, deja a tu perro con un pelaje brillante y saludable después de cada baño
+- Utilice los biocidas de forma segura. Lea siempre la etiqueta y la información sobre el biocida antes de usarlo
+- MODO DE EMPLEO: Humedecer el pelo del perro con agua tibia, aplicar el champú suavemente masajeando hasta que salga espuma, aclarar y dejar que el perro se sacuda para posteriormente secar con toalla o secador.
+- INGREDIENTES NATURALES: Champú de máxima calidad con ingredientes repelentes Margosa, Geraniol y Lavandino. La Margosa elimina durante el proceso de lavado todos los insectos presentes en la piel y en el pelaje. El Geraniol y el Lavandino son repelentes que proporcionan una protección adicional.
+- USO FRECUENTE: Este producto tiene pH ADAPTADO, lo que permite su uso frecuente en todo tipo de razas. Fragancia herbal agradable.
+- REPELE Y ELIMINA INFESTACIONES: Champú repelente de insectos para perros contra las infestaciones todo tipo de insectos parásitos (MOSQUITOS, PULGAS, GARRAPATAS, PIOJOS Y ÁCAROS).
+- SIN INSECTICIDAS QUÍMICOS NI TÓXICOS: Protección total frente a todo tipo de insectos gracias a sus activos 100% naturales. Sin insecticidas químicos, tóxicos para el animal.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09MQSR4Z1{{</world>}}

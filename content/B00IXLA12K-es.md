@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Marca del producto: Tomatin
 - Cantidad: 700 ml
 - Para compartir en cualquier ocasión
-- Marca del producto: Tomatin
 - Contenido de alcohol: 43%
 
 [🛒 Visítala!!!]({{< param buyurl >}})

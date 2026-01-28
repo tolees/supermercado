@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Sensación de suavidad en la piel y frescura de larga duración gracias a sus microcápsulas de fragancia de liberación prolongada
+- Protege los tejidos de tu ropa y crea un efecto antiestático sobre las fibras
 - Descubre el resto de fragancias de Flor en tu ropa y tu lavadora
 - Hasta 100 días de fragancia y frescor con solo medio tapón gracias a sus microcápsulas de fragancia
-- Protege los tejidos de tu ropa y crea un efecto antiestático sobre las fibras
-- Sensación de suavidad en la piel y frescura de larga duración gracias a sus microcápsulas de fragancia de liberación prolongada
 - Suavizante concentrado para la ropa con fragancia Original
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Una experiencia de sabor especial: las suaves burbujas de aire por dentro y por fuera de la tableta junto con la leche alpina Milka da como resultado una combinación irresistiblemente deliciosa. Excelentes para picar como snack, postre, o en la merienda con la familia y amigos.
-- La siguiente información se aplica a cada unidad del paquete
 - La tableta Milka de chocolate con leche aireado con burbujas se transforma en una delicada delicia que se derrite en la boca. Las burbujas de aire hacen que el chocolate se derrita aún más rápido, creando una sensación irresistible.
 - Ideal para experimentar el sabor intenso a chocolate, Milka Bubbly crea la perfecta combinación para servir como un irresistible tentempié, haciendo de estos trozos de chocolate el descanso más tierno y delicioso del día.
-- Hacemos nuestro delicioso chocolate con cacao obtenido a través de nuestro programa de sostenibilidad Cocoa Life. Cocoa Life es el programa global de Milka para el cultivo de cacao sostenible, centrado en la sostenibilidad del cacao como negocio próspero, en las comunidades del cacao empoderadas e inclusivas, y en conservar y regenerar los bosques.
 - Milka es un producto tradicional. Por ello, desde hace más de 100 años utilizamos exclusivamente leche de la región de los Alpes para nuestro chocolate. Comprobamos cada litro de leche que recibimos de nuestros proveedores para aseguramos de que proviene al 100% de los valles y altos valles de los Alpes y la región subalpina.
+- Hacemos nuestro delicioso chocolate con cacao obtenido a través de nuestro programa de sostenibilidad Cocoa Life. Cocoa Life es el programa global de Milka para el cultivo de cacao sostenible, centrado en la sostenibilidad del cacao como negocio próspero, en las comunidades del cacao empoderadas e inclusivas, y en conservar y regenerar los bosques.
+- La siguiente información se aplica a cada unidad del paquete
+- Una experiencia de sabor especial: las suaves burbujas de aire por dentro y por fuera de la tableta junto con la leche alpina Milka da como resultado una combinación irresistiblemente deliciosa. Excelentes para picar como snack, postre, o en la merienda con la familia y amigos.
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
 
 [🛒 Visítala!!!]({{< param buyurl >}})

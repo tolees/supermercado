@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Espejo incorporado para retoques durante todo el día
-- Nueva fórmula Best in class: formulación altamente avanzada
-- Nueva fórmula Best in class: formulación altamente avanzada
 - Respeta la luminosidad del color
+- Color intenso
+- Espejo incorporado para retoques durante todo el día
+- Respeta la luminosidad del color
+- Nueva fórmula Best in class: formulación altamente avanzada
 - Aplicación de tacto de seda creando una película fina y cómoda
 - Color intenso
-- Color intenso
 - Espejo incorporado para retoques durante todo el día
-- Respeta la luminosidad del color
+- Nueva fórmula Best in class: formulación altamente avanzada
 - Aplicación de tacto de seda creando una película fina y cómoda
 
 [🛒 Comprar!!!]({{< param buyurl >}})

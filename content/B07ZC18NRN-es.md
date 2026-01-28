@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Sin leche
+- Cacao dergasado 100% natural
 - Mantener en lugar fresco y seco
 - Sin cafeína
-- Cacao dergasado 100% natural
-- Sin leche
 - Sin azúcares añadidos, aditivos ni tratamientos químicos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Hechos de fibra verde con esponja de poliuretano de distintos colores
 - Pack de 5 estropajos
+- No usar en superfícies delicadas
 - La siguiente información se aplica a cada unidad del paquete
 - Multiusos, ideales para la limpieza de la suciedad más incrustada y la grasa de tu vailla, además de las superfícies de la cocina
-- No usar en superfícies delicadas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DS27MKZP{{</world>}}

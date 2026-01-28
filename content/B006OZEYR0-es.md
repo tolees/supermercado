@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- TONOS DE TRANSICIÓN DEL DÍA A LA NOCHE : Tonos de pigmentos intensos que se difuminan para crear looks diurnos y nocturnos, sutiles y dramáticos
-- TONOS FAVORITOS Y DE TENDENCIA : Incluye 4 paletas de sombras superventas y 5 paletas de sombras de tendencia nunca antes vistas
-- MEJOR QUE NUNCA : La paleta de sombras de ojos en polvo número 1 de Revlon tiene un nuevo aspecto y tacto y ahora se puede usar hasta 24 horas
-- VIVE CON AUDACIA CON EL MAQUILLAJE REVLON: Revlon tiene el maquillaje de alta calidad, alta pigmentación y atrevido que necesitas para ser tú misma; Crea cualquier look, de día o de noche, entre semana o el fin de semana, con nuestras sombras de ojos de larga duración, delineadores de ojos, barras de labios mates o brillantes y mucho más
 - FÓRMULA HÍBRIDA POLVO-CREMA: La sombra de ojos se aplica como un polvo, se mantiene como una crema y tiene un tacto suave como la mantequilla
+- VIVE CON AUDACIA CON EL MAQUILLAJE REVLON: Revlon tiene el maquillaje de alta calidad, alta pigmentación y atrevido que necesitas para ser tú misma; Crea cualquier look, de día o de noche, entre semana o el fin de semana, con nuestras sombras de ojos de larga duración, delineadores de ojos, barras de labios mates o brillantes y mucho más
+- MEJOR QUE NUNCA : La paleta de sombras de ojos en polvo número 1 de Revlon tiene un nuevo aspecto y tacto y ahora se puede usar hasta 24 horas
+- TONOS FAVORITOS Y DE TENDENCIA : Incluye 4 paletas de sombras superventas y 5 paletas de sombras de tendencia nunca antes vistas
+- TONOS DE TRANSICIÓN DEL DÍA A LA NOCHE : Tonos de pigmentos intensos que se difuminan para crear looks diurnos y nocturnos, sutiles y dramáticos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B006OZEYR0{{</world>}}

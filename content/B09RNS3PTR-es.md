@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Rainforest Alliance- certificado: Rainforest Alliance es una organización internacional sin fines de lucro comprometida con un futuro mejor para las personas y la naturaleza.
-- Momentos de indulgencia con chocolate: para momentos acogedores en casa. STARBUCKS Signature Chocolate 42% representa una deliciosa bebida de cacao con un sabor a chocolate aterciopelado.
 - Preparación: Añadir 5 cucharaditas de cacao en polvo a 200 ml de leche caliente baja en grasa o leche alternativa, revolver y disfrutar.
+- Momentos de indulgencia con chocolate: para momentos acogedores en casa. STARBUCKS Signature Chocolate 42% representa una deliciosa bebida de cacao con un sabor a chocolate aterciopelado.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09RNS3PTR{{</world>}}

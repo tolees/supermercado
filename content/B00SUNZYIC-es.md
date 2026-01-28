@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - SPF 50: Nuestra crema solar SPF 50 ofrece un alto nivel de protección solar que reduce el riesgo de alergias inducidas por el sol y daños en la piel inducidos por rayos UV
-- Piel sensible: nuestra crema solar sensible ha sido especialmente diseñada para pieles sensibles y delicadas. La crema hidratante protege inmediatamente contra quemaduras solares
-- Resistente al agua: la crema solar sensible es altamente resistente al agua, por lo que durará más tiempo bajo el sol. Siempre vuelve a aplicar crema solar 50 después de entrar en agua
 - Contenido del envío: Nivea Sun Protect y Sensitive Sun Spray, botella de 200 ml. Crema solar para piel sensible, número de artículo: 80494
+- Resistente al agua: la crema solar sensible es altamente resistente al agua, por lo que durará más tiempo bajo el sol. Siempre vuelve a aplicar crema solar 50 después de entrar en agua
+- Piel sensible: nuestra crema solar sensible ha sido especialmente diseñada para pieles sensibles y delicadas. La crema hidratante protege inmediatamente contra quemaduras solares
 - Método de aplicación: aplicar el protector solar generosamente sobre la piel desnuda antes de salir al aire libre, lo que permite que sea absorbido por la piel. Vuelve a aplicar con frecuencia
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

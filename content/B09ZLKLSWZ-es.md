@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 2 barras de 200 g
 - Fazer Dark Whole Hazelnuts Chocolate
+- 2 barras de 200 g
 - Todos los chocolates Karl Fazer están hechos del mejor cacao Ariba con excelente artesanía. Esta deliciosa tableta es una combinación sofisticada de avellanas enteras y chocolate negro. El sueño de un verdadero amante del chocolate. Todos los deliciosos chocolates de Fazer están hechos de cacao producido por 100 % responsable. Comparta con sus amigos o disfrute de un momento delicioso.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

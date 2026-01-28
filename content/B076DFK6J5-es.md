@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alta calidad, sabor y textura
-- Nutritivo, alto en proteínas y bajo en grasas y calorías
 - Conservados en lata con aceite de oliva
-- Conservar en un lugar fresco y seco
+- Nutritivo, alto en proteínas y bajo en grasas y calorías
+- Alta calidad, sabor y textura
 - Los mejores ejemplares de atún
+- Conservar en un lugar fresco y seco
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B076DFK6J5{{</world>}}

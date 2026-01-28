@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Ahora puedes disfrutar de una duración optimizada de 8 a 24 horas
-- Hecha con una fórmula limpia y optimizada
 - Además de la fórmula clean y vegana de siempre
 - Lápiz de ojos waterproof
 - Elaborada con aceites de Macadamia y Jojoba que cuidaran tu piel
+- Hecha con una fórmula limpia y optimizada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CQ7XHHVX{{</world>}}

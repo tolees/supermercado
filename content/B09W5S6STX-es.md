@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 60 DÍAS DE FUERTE APOYO | 120 gominolas veganas para un bienestar integral. 2 gominolas afrutadas al día te refuerzan con 25 μg de vitamina D3 (1.000 U. I.) y 25 μg de vitamina K2.
-- VEGANAS Y SIN AZÚCAR | Nuestras gominolas no contienen gelatina ni azúcar. Solo contienen edulcorantes que no dañan los dientes y aromas naturales para darles un refrescante sabor tropical.
 - CONCEPCIÓN ELEMENTAL | Nuestras gominolas son veganas y no contienen ingeniería genética. Además, solo contienen aromas naturales, sin colorantes ni estabilizadores sintéticos.
 - EL LEMA DE NATURAL ELEMENTS | ¡A grandes palabras, grandes hechos! Por ello, TODOS nuestros lotes de producción se someten a pruebas exhaustivas en laboratorios independientes de Alemania. Encontrarás el certificado de análisis en “Guías de producto y documentos”.
+- 60 DÍAS DE FUERTE APOYO | 120 gominolas veganas para un bienestar integral. 2 gominolas afrutadas al día te refuerzan con 25 μg de vitamina D3 (1.000 U. I.) y 25 μg de vitamina K2.
 - 120 APOYOS AFRUTADOS | Descubre nuestras Gominolas D3/K2. La vitamina D3 (la “vitamina del sol”) y la vitamina K2 (el “profesional de los huesos”) refuerzan tus huesos y tu sistema inmunitario* cada día. Con sabor tropical: ¡Qué rico!
+- VEGANAS Y SIN AZÚCAR | Nuestras gominolas no contienen gelatina ni azúcar. Solo contienen edulcorantes que no dañan los dientes y aromas naturales para darles un refrescante sabor tropical.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09W5S6STX{{</world>}}

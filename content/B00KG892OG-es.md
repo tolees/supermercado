@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aplicación: aplicar el producto en la cara con los dedos, una brocha o una esponja de maquillaje
-- Fórmula: con extractos de flores de algodón y factor de protección solar 10 para una piel suave, hidratada y protegida del sol
-- 1, 2, 3 base perfecta: cubre las imperfecciones, hidrata la piel y proporciona una tez radiante y uniforme
 - Color: beige 54 para tonos de piel medios/oscuros; cobertura media en capas
+- Aplicación: aplicar el producto en la cara con los dedos, una brocha o una esponja de maquillaje
 - Efectos y beneficios: piel protegida del daño solar, hidratada, uniforme y luminosa hasta 16 horas
+- 1, 2, 3 base perfecta: cubre las imperfecciones, hidrata la piel y proporciona una tez radiante y uniforme
+- Fórmula: con extractos de flores de algodón y factor de protección solar 10 para una piel suave, hidratada y protegida del sol
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00KG892OG{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cada barril de Jack Daniels Whiskey se selecciona a mano por su sabor óptimo, buscando un sabor profundo y sofisticado, y notas de roble tostado, vainilla y caramelo En Jack Daniels se ciñen al óptimo nivel el momento de elaborar y seleccionar Jack Daniel Single Barrel
-- Keizersgracht 683, 101 7, Amsterdam
 - Las grandes variaciones de temperatura que experimentan las partes de las bodegas de Jack Daniels, a lo largo del año, dan como resultado unas barricas en las que se desarrolla un whiskey de un sabor inusualmente atrevido e intenso Sabor y final: delicadas notas de vainilla y caramelo al principio que dan paso a matices intensos de pimienta; final agradable y persistente con un color ámbar oscuro con destellos de bronce Aroma de Jack Daniels Single Barrel Whiskey: frutas maduras combinadas con notas de roble ligeramente tostadas; rico en matices aromáticos
+- Keizersgracht 683, 101 7, Amsterdam
+- Cada barril de Jack Daniels Whiskey se selecciona a mano por su sabor óptimo, buscando un sabor profundo y sofisticado, y notas de roble tostado, vainilla y caramelo En Jack Daniels se ciñen al óptimo nivel el momento de elaborar y seleccionar Jack Daniel Single Barrel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CMHFDZBX{{</world>}}

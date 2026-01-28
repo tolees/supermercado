@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CERTIFICADO DE CALIDAD - Elaborado en planta productiva con Certificación IFS Foods, Gluten Free, Certificación de Artesanía de la Comunidad Valenciana que avala la seguridad y calidad de todos nuestros productos alimenticios
 - INGREDIENTES - Clásico turrón duro elaborado de forma artesanal con almendra tostada (60%) y clara de huevo. Sin azúcares añadidos y Sin Gluten. Calidad Suprema. Producto típico de Navidad
 - RECETA TRADICIONAL - Desde El Lobo llevamos casi 300 años elaborando Turrones y Chocolates respetando y usando las mismas recetas tradicionales heredadas a través de 11 generaciones. Producto Típico Español
+- CERTIFICADO DE CALIDAD - Elaborado en planta productiva con Certificación IFS Foods, Gluten Free, Certificación de Artesanía de la Comunidad Valenciana que avala la seguridad y calidad de todos nuestros productos alimenticios
 - PLACER EN FAMILIA - Disfruta de nuestros dulces y turrones tradicionales en cualquier momento y lugar, el Lobo para ti y tu familia. Sabor auténtico desde el almendro a la mesa. Visita nuestra store y conoce toda nuestra amplia gama de productos
 - DIFERENCIADORES - Turrón duro sin azúcar. Producto elaborado siguiendo el concepto All Natural, priorizando la sostenibilidad del medio ambiente reflejado en el sello de material reciclable y reciclado. Estuche de cartón 100% reciclado
 

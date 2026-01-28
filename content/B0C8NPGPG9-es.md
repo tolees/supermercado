@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin colorantes, aromatizantes y conservantes artificiales añadidos
 - Preparados con ingredientes naturales seleccionados de alta calidad
+- Sin colorantes, aromatizantes y conservantes artificiales añadidos
 - Alimento 100% completo y equilibrado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

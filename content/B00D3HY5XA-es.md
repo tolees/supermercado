@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Gel Cream es un protector corporal en gel crema que hidrata como una crema y refresca como un gel
 - CONSEJO EXPERTO: Aplicar generosamente sobre la piel, media hora antes de la exposición solar; Al reducir la cantidad de producto aplicada, se reduce el factor de protección
 - BENEFICIOS: Muy Adecuada protección SPF 50; Hidrata como una crema y se absorbe rápidamente como un gel; Proporciona una agradable sensación de frescor con un acabado sedoso y sin brillos
-- Gel Cream es un protector corporal en gel crema que hidrata como una crema y refresca como un gel
 - TE PUEDE INTERESAR: Apto para todo tipo de piel; Testado dermatológicamente; Resistente al agua; Disponible en muy Adecuada protección SPF 50 y en Adecuada protección SPF 30; adecuado para toda la familia
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

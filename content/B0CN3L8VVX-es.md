@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Con vitaminas y calcio
-- Apto para cualquier hora del día
 - Forma de los personajes del mar
+- Apto para cualquier hora del día
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CN3L8VVX{{</world>}}

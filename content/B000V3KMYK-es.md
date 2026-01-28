@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Parafarmacia: Parafarmacia
 - Formato: Stick
 - Proteccion solar: 15
-- Parafarmacia: Parafarmacia
 - Protección SPF: Baja SPF 0 - SPF 10
 
 [🛒 Aquí!!!]({{< param buyurl >}})

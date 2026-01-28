@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cúrcuma molida 425 gr
-- Aporta sabor dulzón, ligeramente picante y amargo muy utilizado en la cocina oriental; es un ingrediente esencial del curry
-- Se utiliza en platos de judías, arroces, carnes y pescado; también se utiliza como colorante natural en salsas y sofritos
 - Sabor: Especia
+- Cúrcuma molida 425 gr
+- Se utiliza en platos de judías, arroces, carnes y pescado; también se utiliza como colorante natural en salsas y sofritos
+- Aporta sabor dulzón, ligeramente picante y amargo muy utilizado en la cocina oriental; es un ingrediente esencial del curry
 - Con tapón dosificador
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

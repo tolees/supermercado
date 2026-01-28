@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - ✅ 🌰 CON ALMENDRAS DE ORIGEN NACIONAL Y SABOR SUAVE A CHOCOLATE NEGRO Elaboradas con almendra española (Murcia y Levante) y chocolate sin azúcar añadido, ofrecen una experiencia de sabor natural y equilibrado. Su textura dura proporciona mayor sensación de masticación y saciedad.
 - ✅ 🏋️‍♂️ SNACK PARA ENTRENAMIENTO, CICLISMO O MERIENDA FUNCIONAL Por su aporte de energía sostenida y textura firme, son ideales como barritas energéticas para ciclismo, rutas largas, gimnasio o merienda ligera entre comidas. Aportan saciedad.
-- ✅ 📦 PACK DE 4 BARRITAS DE 25G ENVUELTAS INDIVIDUALMENTE – LARGA CONSERVACIÓN Cada barrita viene envuelta individualmente. No requiere refrigeración. Mantener en lugar fresco y seco. Puede contener trazas de gluten, pistacho o leche. Apta para consumo general, salvo alérgicos a sus ingredientes.
 - ✅ 🍫 BARRITAS ENERGÉTICAS CON ALMENDRA Y CHOCOLATE SIN AZÚCAR AÑADIDO Elaboradas con un 46% de almendra y cobertura de chocolate sin azúcares añadidos, estas barritas energéticas ofrecen una opción práctica, sabrosa y funcional para mantener la energía en cualquier momento del día.
+- ✅ 📦 PACK DE 4 BARRITAS DE 25G ENVUELTAS INDIVIDUALMENTE – LARGA CONSERVACIÓN Cada barrita viene envuelta individualmente. No requiere refrigeración. Mantener en lugar fresco y seco. Puede contener trazas de gluten, pistacho o leche. Apta para consumo general, salvo alérgicos a sus ingredientes.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F3DJ32R6{{</world>}}

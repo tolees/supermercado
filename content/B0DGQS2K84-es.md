@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 🍫 CACAO NATURAL Y SIN ADITIVOS: Elaborado con cacao 100% natural, sin conservantes ni aditivos, manteniendo su sabor original y su textura característica.
-- 🌍 COMPROMISO CON LA SOSTENIBILIDAD: Cacao sostenible, garantizando prácticas de cultivo responsables con el medio ambiente y las comunidades productoras.
-- 🔥 ELABORACIÓN TRADICIONAL: Siguiendo un proceso artesanal que conserva la esencia del cacao, desde su recolección manual hasta su tueste y prensado.
 - 📦 FORMATO AHORRO DE 4,5 KG + REGALO: Gran cantidad para los más fanáticos de ColaCao, acompañado de un regalo exclusivo que puede diferir al de la imagen mostrada.
+- 🔥 ELABORACIÓN TRADICIONAL: Siguiendo un proceso artesanal que conserva la esencia del cacao, desde su recolección manual hasta su tueste y prensado.
+- 🌍 COMPROMISO CON LA SOSTENIBILIDAD: Cacao sostenible, garantizando prácticas de cultivo responsables con el medio ambiente y las comunidades productoras.
 - ☕ TEXTURA ÚNICA CON GRUMITOS: Al ser cacao natural, conserva su característica textura con grumitos, aportando una experiencia auténtica y deliciosa en cada sorbo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

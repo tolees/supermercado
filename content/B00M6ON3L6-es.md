@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Aroma: En nariz, una vez oxigenado, aparecen claramente aromas a frutos rojos y negro acompañados de aromas balsámicos, francos y sutilmente especiados, con ligeros matices de roble
-- Tipo de uva: Elaborado a partir de una selección de uvas Tempranillo, Graciano y Mazuelo, tres variedades de uva autóctonas de la Rioja
-- Gusto: En boca se muestra redondo y distinguido, y al mismo tiempo poderoso y estructurado, con un completo equilibrio entre vino y madera, dejando tras de sí, una persistente sensación aterciopelada
-- Apariencia: Vino tinto de poderoso color rojo picota cubierto, con ribete violáceo, limpio y brillante
-- Consumo: Para disfrutar de sus cualidades óptimas, recomendamos su consumo a 16 ºC y conservarlo en un lugar fresco y seco
 - Maridaje: Este vino es perfecto para acompañar ibéricos, chuletón a la brasa, surtido de quesos
+- Gusto: En boca se muestra redondo y distinguido, y al mismo tiempo poderoso y estructurado, con un completo equilibrio entre vino y madera, dejando tras de sí, una persistente sensación aterciopelada
+- Tipo de uva: Elaborado a partir de una selección de uvas Tempranillo, Graciano y Mazuelo, tres variedades de uva autóctonas de la Rioja
+- Consumo: Para disfrutar de sus cualidades óptimas, recomendamos su consumo a 16 ºC y conservarlo en un lugar fresco y seco
+- Apariencia: Vino tinto de poderoso color rojo picota cubierto, con ribete violáceo, limpio y brillante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00M6ON3L6{{</world>}}

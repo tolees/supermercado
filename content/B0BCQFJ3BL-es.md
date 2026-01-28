@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La certificación de "Café procedente de agricultura ecológica" garantiza que el cultivo del café en el país de origen se ha realizado sin utilizar fertilizantes de síntesis química y siguiendo métodos biológicos que contribuyen a la conservación del medio ambiente.
-- Método ideal de preparación: cafetera Moka, Espresso, French Press, café filtro, cafeteras superautomáticas.
-- Café Saula Premium Organic Decaffeinated es una mezcla de cafes arábica ecológicos cultivados sin el uso de abonos ni pesticidas y descafeinados mediante un proceso también libre de productos químicos.
 - 100% Café Arábica Descafeinado Orgánico 500 gr. café en grano
+- Método ideal de preparación: cafetera Moka, Espresso, French Press, café filtro, cafeteras superautomáticas.
 - Café aromático con notas de vainilla, toffee y de cereales como la Malta. Cuerpo Medio. Acidez media citrica. Final largo y especiado con notas de regaliz y un suave ahumado.
+- La certificación de "Café procedente de agricultura ecológica" garantiza que el cultivo del café en el país de origen se ha realizado sin utilizar fertilizantes de síntesis química y siguiendo métodos biológicos que contribuyen a la conservación del medio ambiente.
+- Café Saula Premium Organic Decaffeinated es una mezcla de cafes arábica ecológicos cultivados sin el uso de abonos ni pesticidas y descafeinados mediante un proceso también libre de productos químicos.
 - Conservación: Envasado en recipiente hermético con válvula unidireccional de desgasificación. Las latas son 100% reciclables, se pueden reutilizar o depositar en el contenedor de envases
 
 [🛒 Aquí!!!]({{< param buyurl >}})

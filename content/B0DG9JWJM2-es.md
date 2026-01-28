@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Ayuda a acelerar la renovación de la piel de forma suave revelando una piel radiante y luminosa
-- Delicado con la piel
 - Sérum facial bifásico de retinaldehído
+- Delicado con la piel
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DG9JWJM2{{</world>}}

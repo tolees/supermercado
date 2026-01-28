@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pack de cervezas lager especial con un sabor ligero y matices muy marcados de lúpulo. Se recomienda su consumo entre 4 y 5º
 - Ha sido galardonada con numerosos premios internacionales, como el World Beer Challenge, la medalla de Oro en el Brussels Beer Challenge o el European Beer Star
+- Pack de cervezas lager especial con un sabor ligero y matices muy marcados de lúpulo. Se recomienda su consumo entre 4 y 5º
 - De color dorado brillante y aroma a la cebada y la malta de la que proviene, con notas tostadas y evocaciones a frutos secos
-- Elaborada con agua de la ciudad de A Coruña, MALTAS Pilsen y tostada, MAÍZ, LÚPULO Nugget y Perle Hallertau y LEVADURA seleccionada. Alc 5.5% vol
 - Es una cerveza lager especial de sabor equilibrado y refrescante, que marida bien con una amplia variedad de platos, como quesos frescos, verduras y hortalizas frías, setas, pescados blancos y carnes
+- Elaborada con agua de la ciudad de A Coruña, MALTAS Pilsen y tostada, MAÍZ, LÚPULO Nugget y Perle Hallertau y LEVADURA seleccionada. Alc 5.5% vol
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07JNVH9D8{{</world>}}

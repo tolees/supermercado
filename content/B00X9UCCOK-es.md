@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Envase 100% reciclable
-- Formulado con: Miel, néctar milenario conocido por sus propiedades nutritivas; Propoleo, utilizado en las colmenas por sus virtudes selladoras; Jalea Real, reconocido por reforzar el cabello desde la raíz hasta las puntas
 - La Mascarilla Tesoros de Miel repara, refuerza y protege dejando un pelo fuerte y brillante
 - Aplicar sobre cabello mojado después del champú, masajeando de largos a puntas. Dejar actuar de 2 a 3 minutos y luego aclarar
+- Formulado con: Miel, néctar milenario conocido por sus propiedades nutritivas; Propoleo, utilizado en las colmenas por sus virtudes selladoras; Jalea Real, reconocido por reforzar el cabello desde la raíz hasta las puntas
+- Envase 100% reciclable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00X9UCCOK{{</world>}}

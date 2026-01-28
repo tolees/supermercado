@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Aroma expresivo, potente, complejo, con fruta fresca, especias dulces, notas de bayas rojas y con notas subyacentes de vainilla de la madera
+- Sabor intenso, afrutado, tostado, con taninos redondos y buen final
+- Protos Roble es un elegante vino elaborado 100% con uvas tinto fino de la Ribera del Duero con 6 meses de crianza en roble americano
 - La temperatura de servicio recomendada es de 14 - 17ºC. Es un vino elegante y completo, elaborado para disfrutar que puede evolucionar favorablemente durante los próximos 2-3 años.
 - Color cereza con ribete púrpura, limpio y brillante
-- Protos Roble es un elegante vino elaborado 100% con uvas tinto fino de la Ribera del Duero con 6 meses de crianza en roble americano
-- Sabor intenso, afrutado, tostado, con taninos redondos y buen final
 - Platos recomendados: Carnes de lechazo y caza, platos de pescado en salsa, arroces, pastas, carnes ligeras, sopas, verduras y hortalizas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

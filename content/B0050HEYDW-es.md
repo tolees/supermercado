@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Final: Largo y persistente
 - Sabor: A nuez, ligeramente amargo
+- Final: Largo y persistente
 - Nariz: Vainilla dulce de bourbon, toques de mazapán y almendras
 - Color: Marrón rojizo oscuro intenso
 

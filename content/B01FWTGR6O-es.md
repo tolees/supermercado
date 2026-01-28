@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para el cabello: seco
-- Deja el cabello ligero
-- Deja el cabello fácil de peinar y manejable
 - Lava delicadamente el cabello y el cuero cabelludo
+- Deja el cabello ligero
 - Cuidado diario
+- Para el cabello: seco
+- Deja el cabello fácil de peinar y manejable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01FWTGR6O{{</world>}}

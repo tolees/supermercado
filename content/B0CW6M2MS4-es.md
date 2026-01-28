@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- AUTÉNTICA CERVEZA ARTESANA: Elaborada en Aranda de Duero con ingredientes 100% naturales y materias primas de alta calidad. Cada proceso es controlado manualmente en nuestra fábrica, garantizando un producto único y especial.
-- INIGUALABLE SIN COMPROMISOS: Aunque utilizamos pan en nuestra receta, Mendrugo no sabe a pan. Nos esforzamos por ofrecer una cerveza de gran calidad, rica y fácil de beber, que resalte por su sabor auténtico.
 - AMBIENTAL POSITIVO : Con cada botella, contribuimos a reducir la huella hídrica y revalorizar cientos de kilos de pan cada año, demostrando que una cerveza puede ser deliciosa y responsable al mismo tiempo.
 - COMPROMETIDOS CON LA SOSTENIBILIDAD: En Mendrugo luchamos contra el desperdicio alimentario utilizando excedentes de pan como sustituto del 40% de la cebada. Este innovador enfoque transforma alimentos que de otra manera se desperdiciarían en cervezas artesanas deliciosas.
+- INIGUALABLE SIN COMPROMISOS: Aunque utilizamos pan en nuestra receta, Mendrugo no sabe a pan. Nos esforzamos por ofrecer una cerveza de gran calidad, rica y fácil de beber, que resalte por su sabor auténtico.
 - DOS VARIEDADES EXCEPCIONALES PARA CADA OCASIÓN: Disfruta de nuestra Mendrugo Pilsen, ligera, floral y refrescante, ideal para aperitivos y tortillas de patata; o de nuestra Mendrugo Pale Ale, tostada y con un toque herbáceo, perfecta para carnes y empanadas.
+- AUTÉNTICA CERVEZA ARTESANA: Elaborada en Aranda de Duero con ingredientes 100% naturales y materias primas de alta calidad. Cada proceso es controlado manualmente en nuestra fábrica, garantizando un producto único y especial.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CW6M2MS4{{</world>}}

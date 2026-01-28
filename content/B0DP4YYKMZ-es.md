@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Deliciosas y esponjosas nubes
-- Espumas dulces
 - Irresistible mix de sabores
 - Un aperitivo divertido para personas de todas las edades
 - Sin gluten
+- Espumas dulces
 - La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Elaborado con ingredientes 100% orgánicos
-- Sin sal, gluten, colorantes ni conservantes
-- Tarritos para bebés ecológicos
 - A partir de 6 meses
+- Elaborado con ingredientes 100% orgánicos
 - Puré realizado con hortalizas y ternera
+- Tarritos para bebés ecológicos
+- Sin sal, gluten, colorantes ni conservantes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09FQ53CZV{{</world>}}

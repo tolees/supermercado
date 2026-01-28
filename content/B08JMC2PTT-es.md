@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- De textura gomosa
 - Conservar en lugar fresco y seco
 - Recubiertos de pica
-- Combinación de piezas de diferentes texturas y sabores
 - Ideal para compartir
+- Combinación de piezas de diferentes texturas y sabores
+- De textura gomosa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08JMC2PTT{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para unos dientes y encías sanas, una higiene bucal profunda y un aliento fresco
-- Para adultos
 - Limpieza eficaz y frescor en toda la boca
-- Frescor auténtico
 - Su fórmula con esencia de menta proporciona una acción de limpieza eficaz y un frescor en toda la boca
+- Para adultos
+- Frescor auténtico
+- Para unos dientes y encías sanas, una higiene bucal profunda y un aliento fresco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00X9UN6SG{{</world>}}

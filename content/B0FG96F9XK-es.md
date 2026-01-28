@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- LONGITUD DE LA PRENDA: 67,3cm desde el lado del cuello en la talla Medio de España
 - DETALLES: cuello en V ajustado con ribete, puños y dobladillo inferior acanalados
 - CORTE ESTÁNDAR: corte cómodo y sencillo en los hombros, el pecho y la cintura
-- JERSEY CON CUELLO EN V: una prenda cómoda y fácil de llevar con un moderno cuello
 - ALGODÓN TEXTURIZADO DE GRAMAJE MEDIO: mezcla maravillosamente suave y cálida al tacto
 - LA ELECCIÓN DE DEMI: Demi Lovato ha elegido este producto de nuestra nueva colección Amazon Essentials
+- JERSEY CON CUELLO EN V: una prenda cómoda y fácil de llevar con un moderno cuello
+- LONGITUD DE LA PRENDA: 67,3cm desde el lado del cuello en la talla Medio de España
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FG96F9XK{{</world>}}

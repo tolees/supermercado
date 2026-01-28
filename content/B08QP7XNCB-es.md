@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- VINO 2: CRU LA MAQUELINE DOP Burdeos - Certificado TERRA VITIS (graduación 13 %)
-- VINO 3: CHÂTEAU MALBEC DOP Burdeos - Certificado TERRA VITIS (graduación 13,5 %)
 - CONTENIDO: un cofre regalo elegante y listo para regalar para descubrir este viñedo de forma sencilla y a un precio asequible con esta selección de 3 vinos de Burdeos afrutados y golosos
-- VINO 1: CHÂTEAU HOURTOU DOP Côtes de Bourg - certificado TERRA VITIS (graduación 14 %)
+- VINO 3: CHÂTEAU MALBEC DOP Burdeos - Certificado TERRA VITIS (graduación 13,5 %)
 - CAJA DE REGALO: ¡una caja de regalo a un precio asequible para los amantes del vino que adoran la buena comida y el placer al 100 %!
+- VINO 1: CHÂTEAU HOURTOU DOP Côtes de Bourg - certificado TERRA VITIS (graduación 14 %)
+- VINO 2: CRU LA MAQUELINE DOP Burdeos - Certificado TERRA VITIS (graduación 13 %)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08QP7XNCB{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Presentación en rebanadas: fácil de servir y preparar, ideal para platillos de centro o aperitivos
-- Preparación tradicional: ahumado con maderas nobles, agregando un toque especial al sabor
-- Origen del atún: capturado en el Océano Índico, garantizando frescura y sabor único
-- Sin aditivos: libre de gluten, lácteos, huevo, soya y cacahuates, apto para diversas dietas
 - Envase al vacío y empaque con hielo seco: mantiene la calidad y frescura del producto durante 30 días desde el ahumado
+- Sin aditivos: libre de gluten, lácteos, huevo, soya y cacahuates, apto para diversas dietas
+- Preparación tradicional: ahumado con maderas nobles, agregando un toque especial al sabor
+- Presentación en rebanadas: fácil de servir y preparar, ideal para platillos de centro o aperitivos
+- Origen del atún: capturado en el Océano Índico, garantizando frescura y sabor único
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQXVSRCQ{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para un cabello suave y brillante
-- Origen natural sin siliconas ni sulfatos
 - Formulado con ingredientes calmantes
+- Para un cabello suave y brillante
 - Restaura el cabello
+- Origen natural sin siliconas ni sulfatos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CHJFHY66{{</world>}}

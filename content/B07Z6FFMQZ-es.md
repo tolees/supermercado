@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cuida la espalda – Con esta fregona redonda, con su palo extensible 109-140 cm y la tecnología que permite usarla de pie, se limpia el suelo sin que la espalda sufra.
-- Fácil de usar – Esta fregona portátil se puede usar sin agacharse: el palo se puede alargar de pie, la fregona activa la rotación presionando el mango ¡y lista para usar!
 - Envío – Juego de fregona y cubo Clean Twist Disc Mop Ergo 2.0 de Leifheit, mecanismo Drill patentado y escurridor, cubo de 6L y cabezal de microfibra lavable; número de artículo: 52101
+- Fácil de usar – Esta fregona portátil se puede usar sin agacharse: el palo se puede alargar de pie, la fregona activa la rotación presionando el mango ¡y lista para usar!
 - Click System – Esta fregona profesional cuenta con el Click System patentado de Leifheit, que permite conectar el palo con múltiples utensilios de limpieza.
 - Ingenioso mango – Este set de fregona y cubo incluye un palo telescópico con mecanismo Drill integrado y una articulación que gira 360 grados para fregar con facilidad.
 

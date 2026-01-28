@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sin siliconas: sin siliconas para un tacto natural.
-- Mascarilla alisadora para cabello encrespado: Paso 3 del método Liso Keratina para un alisado visible y duradero.
 - Aplica el Sérum Nº4 para hasta 10 días de cabello liso* (*test instrumental después de la aplicación del sérum).
-- Sigue los 4 pasos del Método Liso Keratina para un cabello perfectamente liso, suave y lleno de brillo.
 - Fórmula vegana: Sin ingredientes ni derivados de origen animal.
+- Sin siliconas: sin siliconas para un tacto natural.
+- Sigue los 4 pasos del Método Liso Keratina para un cabello perfectamente liso, suave y lleno de brillo.
+- Mascarilla alisadora para cabello encrespado: Paso 3 del método Liso Keratina para un alisado visible y duradero.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FG8BVMRL{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Este Gel de Ducha trae la naturaleza hasta tu baño, ya que contiene 92% de ingredientes naturales, entre ellos, flores de azahar orgánicas recolectadas a mano.
+- Este gel de ducha es óptimo, ya que viene en un envase recargable que ayuda a reducir el consumo de plástico, pues cada recarga de 1L de Le Petit Marseillais equivale a 4 botellas de 250ml.
 - Comprometidos con el medio ambiente, la marca ha desarrollado una gama de Geles de Ducha extra suaves con empaques reciclables y botellas hechas con 30% de materiales reciclados.
 - El Gel de Ducha extra suave de Le Petit Marseillais, inspirado en la naturaleza, hidrata, nutre y limpia la piel del cuerpo dejándola con un aroma a flores de azahar.
-- Este gel de ducha es óptimo, ya que viene en un envase recargable que ayuda a reducir el consumo de plástico, pues cada recarga de 1L de Le Petit Marseillais equivale a 4 botellas de 250ml.
-- Este Gel de Ducha trae la naturaleza hasta tu baño, ya que contiene 92% de ingredientes naturales, entre ellos, flores de azahar orgánicas recolectadas a mano.
 - El producto está desarrollado con dermatólogos, tiene un ph neutro y no contiene colorantes, por lo que puede utilizarse en pieles sensibles.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

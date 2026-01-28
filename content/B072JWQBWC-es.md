@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- País de origen: España
 - Ingredientes: aceite de oliva de categoría superior obtenido directamente de aceitunas y sólo mediante procedimientos mecánicos
+- País de origen: España
 - Variedades: Hojiblanca y Picudo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

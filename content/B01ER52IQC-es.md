@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Piezas en forma de stick largos de regaliz rojo.
 - Geles dulces sabor fresa.
+- Piezas en forma de stick largos de regaliz rojo.
 - Intenso sabor a fresa.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

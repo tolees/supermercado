@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con Vitamina C, D y Zinc que ayudan al sistema inmunitario. Además, la vitamina D es necesaria para el crecimiento y el desarrollo normal de los huesos en los niños
 - Multicentrum vitagomis niños contiene yodo, que contribuye al desarrollo cognitivo normal de los niños. Los complementos alimenticios no deben ser usados como sustitutos de una dieta equilibrada
 - Complemento alimenticio de Multicentrum Vitagomis para niños a partir de 4 años en gominola que favorece un crecimiento y desarrollo saludable con nutrientes clave
 - Sabor a Cereza, Naranja y Fresa / Frambuesa; pack de 2 envases de 30 caramelos de goma cada uno; 96 unidades que proporcionan 3 meses de tratamiento
+- Con Vitamina C, D y Zinc que ayudan al sistema inmunitario. Además, la vitamina D es necesaria para el crecimiento y el desarrollo normal de los huesos en los niños
 - Cierre siempre la tapa después de su uso; conservar en un lugar seco a una temperatura inferior a 25°C.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

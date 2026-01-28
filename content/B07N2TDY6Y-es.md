@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 135 mg de cafeína por ración
 - 550 mg de L-citrulina
 - 1 g de beta-alanina CarnoSyn
-- 3,4 g de monohidrato de creatina & 3g de creatina
 - Producido en la UE en instalaciones que cumplen con las Normas de Correcta Fabricación (NCF)
+- 3,4 g de monohidrato de creatina & 3g de creatina
+- 135 mg de cafeína por ración
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07N2TDY6Y{{</world>}}

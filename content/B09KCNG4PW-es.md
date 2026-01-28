@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Maridaje clásico: ensaladas con espárragos. Maridaje moderno: ensalada de frutas. Maridaje atrevido: sushi.
-- Atractivo color amarillo intenso con reflejos brillantes. Nariz: delicados aromas de flores blancas y frutas exóticas. Paladar: ataque vivo, equilibrado y fino, lleno de frescura
-- Variedad de uva: 100 % Sauvignon. Certificación Terra vitis
 - Formato bag-in-box de 3 litros: puede conservarse hasta 8 semanas después de su apertura, lo que permite consumir el Roche Mazet Sauvignon en varias tandas y evitar las mermas. Su huella de carbono es menor que la botella de cristal, su cartón y bolsa de plástico son reciclables
+- Maridaje clásico: ensaladas con espárragos. Maridaje moderno: ensalada de frutas. Maridaje atrevido: sushi.
+- Variedad de uva: 100 % Sauvignon. Certificación Terra vitis
+- Atractivo color amarillo intenso con reflejos brillantes. Nariz: delicados aromas de flores blancas y frutas exóticas. Paladar: ataque vivo, equilibrado y fino, lleno de frescura
 - Región: vino blanco de Languedoc-Rosellón, IGP Pays dOc
 
 [🛒 Comprar!!!]({{< param buyurl >}})

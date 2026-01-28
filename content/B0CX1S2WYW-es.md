@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Polo Red Bull Racing: Presentamos nuestro polo deportivo con solapa con cremallera, hecho de una mezcla de tela de piqué elástico de poli/algodón, asegurando comodidad deportiva y atractivo
 - Aspectos destacados del equipo: el logotipo del equipo y el contorno elevado de Pepe Jeans en la posición vertical de la cremallera crean un aspecto gráfico elegante, añadiendo un toque de modernidad al clásico diseño de polo
 - Detalles de los PEPE JEANS F1: la solapa con cremallera de bobina inversa cuenta con un tirador de bloqueo automático, lo que añade un atractivo deportivo ergonómico y proporciona una fácil portabilidad
+- Polo Red Bull Racing: Presentamos nuestro polo deportivo con solapa con cremallera, hecho de una mezcla de tela de piqué elástico de poli/algodón, asegurando comodidad deportiva y atractivo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CX1S2WYW{{</world>}}

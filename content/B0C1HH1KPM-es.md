@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Caramelos de goma
 - Deliciosas piezas en forma de cola recubiertas de pica
+- Caramelos de goma
 - Irresistible sabor a cola
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alimento completo para gatos, con una esponjosa y ligera mousse de carne pollo
-- Se adapta a las necesidades nutricionales de tu gato, preparada con los mejores ingredientes
-- Producto 100% testado por los gatos más exigentes
-- Receta sin azúcar, sin colorantes ni conservantes artificiales
 - Recomendación de empleo: un gato de 4 kg de peso necesita aproximadamente 2 latitas por día, dependiendo de la actividad, edad y raza del animal. Servir con agua fresca
+- Se adapta a las necesidades nutricionales de tu gato, preparada con los mejores ingredientes
+- Receta sin azúcar, sin colorantes ni conservantes artificiales
+- Alimento completo para gatos, con una esponjosa y ligera mousse de carne pollo
+- Producto 100% testado por los gatos más exigentes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01G7GAF5U{{</world>}}

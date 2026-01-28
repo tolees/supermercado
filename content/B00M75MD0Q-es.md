@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Netisum VPT es un complemento alimenticio con ingredientes exhaustivamente seleccionados que ayudan a alcanzar el descanso nocturno. Su fórmula con valeriana, pasiflora y tila está diseñada para favorecer el reposo nocturno y aliviar el nerviosismo.
-- Valeriana: Favorece un sueño natural y promueve la relajación en caso de irritabilidad.
 - Pasiflora: Promueve el descanso nocturno.
-- MODO DE EMPLEO: Para favorecer el reposo nocturno, los adultos tomarán 3 cápsulas antes de acostarse y los niños mayores de 12 años de 1 a 2 cápsulas, para aliviar el nerviosismo y la irritabilidad y tomar 2 cápsulas tres veces al día. Utilizar siempre como complemento de una dieta variada y equilibrada y un estilo de vida saludable
 - Tila: Ayuda a mantener una relajación óptima y un sueño saludable.
+- MODO DE EMPLEO: Para favorecer el reposo nocturno, los adultos tomarán 3 cápsulas antes de acostarse y los niños mayores de 12 años de 1 a 2 cápsulas, para aliviar el nerviosismo y la irritabilidad y tomar 2 cápsulas tres veces al día. Utilizar siempre como complemento de una dieta variada y equilibrada y un estilo de vida saludable
+- Valeriana: Favorece un sueño natural y promueve la relajación en caso de irritabilidad.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00M75MD0Q{{</world>}}

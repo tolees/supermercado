@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Muselina de apego con cabecita de muñeco y cuerpo de muselina.
-- Dou dou o muselina de apego para bebés.
 - Fabricado en viscosa de bambú y algodón
 - Dimensiones: 28x17 cm
+- Muselina de apego con cabecita de muñeco y cuerpo de muselina.
+- Dou dou o muselina de apego para bebés.
 - Perfecto para que duerma el bebé relajado.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

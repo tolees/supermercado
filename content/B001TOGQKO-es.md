@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vino tinto Reserva D.O. Ca. Rioja; Tipo de uva: Tempranillo, Graciano; Apto para veganos
-- Botella individual de 750 ml de Marqués de Riscal Reserva; Marqués de Riscal Reserva es uno de los vinos más famosos de España por su historia, por su consistencia de calidad y por las destacadas referencias literarias que ha protagonizado a lo largo de los años
-- Vino de color cereza muy cubierto, intenso y con apenas signos de evolución; Elaborado en gran parte a partir de uvas de la variedad tempranillo plantadas antes de los años 70 en la Rioja Alavesa
-- Célebre por su botella envuelta en una malla metálica, está presente en más de 100 países, considerado como referente de los vinos tintos de Rioja
 - Este vino marida bien con jamón, quesos no muy curados, guisos con salsas no muy especiadas, legumbres cocidas o guisadas, aves, carnes rojas, carnes a la parrilla y asados
+- Vino tinto Reserva D.O. Ca. Rioja; Tipo de uva: Tempranillo, Graciano; Apto para veganos
 - En boca es fresco, con taninos pulidos muy agradables, con buena estructura pero fácil de beber; El final de boca es largo y deja unos leves recuerdos balsámicos de gran calidad
+- Botella individual de 750 ml de Marqués de Riscal Reserva; Marqués de Riscal Reserva es uno de los vinos más famosos de España por su historia, por su consistencia de calidad y por las destacadas referencias literarias que ha protagonizado a lo largo de los años
+- Célebre por su botella envuelta en una malla metálica, está presente en más de 100 países, considerado como referente de los vinos tintos de Rioja
+- Vino de color cereza muy cubierto, intenso y con apenas signos de evolución; Elaborado en gran parte a partir de uvas de la variedad tempranillo plantadas antes de los años 70 en la Rioja Alavesa
 - En nariz es muy expresivo con notas de regaliz, canela y pimienta negra, donde la larga crianza en madera apenas se percibe, gracias a su gran complejidad y concentración de fruta madura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

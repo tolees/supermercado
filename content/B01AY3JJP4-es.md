@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin aditivos, ni conservantes, ni sulfitos añadidos.
+- Estrella damm se elabora utilizando la receta original de 1876 resultado de la combinación de malta de cebada, arroz y lúpulo, 100% ingredientes naturales.
 - Es una cerveza versátil, ligera, refrescante y con un aroma limpio y respetuoso con la cebada.
+- Número de items: 1
+- Volumen: 7920.0 milliliters
 - Como servir: consumirla a unos 4-6 grados, para poder disfrutar de su sabor y su caracter refrescante.
 - Volumen paquete: 7.92 liters; tipo de alcohol: lagers
 - Procedencia: spain
 - Unidades: 7920.0
+- Sin aditivos, ni conservantes, ni sulfitos añadidos.
 - Contenido de alcohol (alc/vol): 5.4 percent_by_volume
-- Estrella damm se elabora utilizando la receta original de 1876 resultado de la combinación de malta de cebada, arroz y lúpulo, 100% ingredientes naturales.
-- Volumen: 7920.0 milliliters
-- Número de items: 1
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01AY3JJP4{{</world>}}

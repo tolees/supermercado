@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Productos de belleza y el cuidado personal
 - Marca: Clinique
 - Tipo de producto: Colorete
+- Productos de belleza y el cuidado personal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B079HMDYGN{{</world>}}

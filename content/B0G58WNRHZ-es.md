@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- La siguiente información se aplica a cada unidad del paquete
 - Apta para vegetarianos
 - Sin gluten
-- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0G58WNRHZ{{</world>}}

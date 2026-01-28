@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lomo de atún en aceite de oliva, delicioso con una patata asada con cebolleta.
 - Envase hermético fácil de almacenar y apilable.
-- Versátil y fácil de utilizar.
 - Úsalo en recetas de pasta o en un sándwich.
+- Versátil y fácil de utilizar.
+- Lomo de atún en aceite de oliva, delicioso con una patata asada con cebolleta.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096ZNPYJQ{{</world>}}

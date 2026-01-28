@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Conservar en lugar fresco y seco
 - Contiene lactosa
 - La siguiente información se aplica a cada unidad del paquete
-- Conservar en lugar fresco y seco
 - Producto sin gluten
 
 [🛒 Visítala!!!]({{< param buyurl >}})

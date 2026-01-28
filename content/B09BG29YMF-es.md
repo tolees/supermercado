@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La coloración permanente sin amoniaco con aceites florarles naturales potenciadores del color hasta 100% cobertura de canas
 - Aplique el producto sobre el cabello seco sin lavar; masajee el producto sobre su cabello y deje actuar 30 minutos; añada una pequeña cantidad de agua sobre el cabello y masajee de ; aclare abundantemente el cabello
+- La coloración permanente sin amoniaco con aceites florarles naturales potenciadores del color hasta 100% cobertura de canas
 - Mejora visiblemente la calidad del cabello
 - Buena eficacia del color
 

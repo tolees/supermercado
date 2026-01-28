@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Gel muy perfumado y fresco. Fragancia exclusiva y Original.
 - Libre de parabenos y colorantes. Dermatológicamente testado.
-- No testado en animales. Vegano. Fabricación íntegra en España.
-- Con notas olfativas de bergamota, cardamomo, rosa, lavanda, sándalo, cedro y vetyver
+- Gel muy perfumado y fresco. Fragancia exclusiva y Original.
 - Gel de baño y ducha revitalizante, proporcionará una sensación única y estimulante gracias al efecto Ginseng.
-- Perfume amaderado, frutal, floral, musk
+- Con notas olfativas de bergamota, cardamomo, rosa, lavanda, sándalo, cedro y vetyver
 - Género; Masculino/Unisex. Adulto.
+- No testado en animales. Vegano. Fabricación íntegra en España.
+- Perfume amaderado, frutal, floral, musk
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B017WK9QPU{{</world>}}

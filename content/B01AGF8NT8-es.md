@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- 🍺 VOLL-DAMM - Cerveza dorada con 7,2 % de alcohol, caracterizada por su sabor especial, con espuma consistente y ligeramente amarga, para experimentar un sabor refrescante .
 - 🍃 DOBLE MALTA - Elaborada con ingredientes naturales como el agua, malta de cebada (18%), arroz, maíz y lúpulos de Nugget, Magnum y Taurus, que le aportan un toque cítrico y afrutado. Destaca por su color roble de reflejos anaranjados .
 - 🌾 AROMA AFRUTADO - Destaca por su aroma afrutado como el melocotón maduro y la manzana, también anaranjadas que dotan la nariz de frescor. Es ideal para maridar con variedad de platos como ensaladas, arroces o carnes.
-- 🍺 VOLL-DAMM - Cerveza dorada con 7,2 % de alcohol, caracterizada por su sabor especial, con espuma consistente y ligeramente amarga, para experimentar un sabor refrescante .
 - ❄️FORMATO Y CONSUMO - Pack de 24 latas de 330 ml. Consumirla entre unos 4-6ºC para poder disfrutar de su sabor y carácter refrescante.
 - ⭐DAMM CERVEZAS - Fundada en 1876, la intencionalidad de Damm es unir la pasión por sus productos y por el territorio para mejorar los momentos de disfrute de las personas.
 

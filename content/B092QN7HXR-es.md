@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Apto para vegetarianos y veganos
+- Fuente de calcio. Contiene vitaminas B2, B12 y D
 - 100% de origen vegetal: sin lácteos ni lactosa
 - Naturalmente bajo en grasas
-- Fuente de calcio. Contiene vitaminas B2, B12 y D
 - Fuente de proteína de alta calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

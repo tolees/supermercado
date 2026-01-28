@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Blooming Wonder: la colección Primavera es una invitación a disfrutar de un auténtico placer, lleno de descubrimiento y asombro. Cada producto es una pieza única, elaborada con los mejores ingredientes y materias primas, donde el placer florece en cada sabor.
-- Formato: 1 huevo de chocolate de 70 gr; no contiene ninguna sorpresa
 - Sabor: receta gourmet con crujientes "Avellana Piamonte", pistachos y almendras tostados y ligeramente salados envueltos en un dulce abrazo de chocolate blanco
+- Blooming Wonder: la colección Primavera es una invitación a disfrutar de un auténtico placer, lleno de descubrimiento y asombro. Cada producto es una pieza única, elaborada con los mejores ingredientes y materias primas, donde el placer florece en cada sabor.
 - Colección de huevos de Pascua Venchi Gourmet: huevo de chocolate blanco mignon con almendras, pistachos y "Avellana Piamonte", ideal para regalar un viaje sensorial a la naturaleza y a la tradición del gusto.
+- Formato: 1 huevo de chocolate de 70 gr; no contiene ninguna sorpresa
 - El chocolate Venchi se produce estrictamente en Italia con ingredientes naturales y menos azúcar, no contiene gluten, aceite de palma, colorantes, conservantes ni componentes artificiales para garantizar la máxima calidad.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Poderosa acción limpiadora que elimina la grasa al instante
-- La siguiente información se aplica a cada unidad del paquete
-- Nuestra fórmula respeta la piel por lo que no es necesario usar guantes
-- Fairy lavavajillas líquido ultra concentrado
-- Espuma abundante con una sola gota y aclarado fácil
 - Aroma limpio y fresco
+- Poderosa acción limpiadora que elimina la grasa al instante
+- Espuma abundante con una sola gota y aclarado fácil
+- Fairy lavavajillas líquido ultra concentrado
+- Nuestra fórmula respeta la piel por lo que no es necesario usar guantes
+- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZF8375K{{</world>}}

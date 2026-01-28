@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CALIDAD DELTA CAFÉS: La combinación perfecta de productos provenientes de todas parte del mundo para traerte la mejor calidad de café y bebidas calientes
 - INSTRUCCIONES DE USO: Moler el café con la graduación preferida en función del tipo de cafetera
-- COMPATIBLE: Paquete de 1 unidad de 1 Kg para máquinas de café automáticas y molinillos de café
-- DELTA CAFÉS LOTE CHÁVENA: Un café equilibrado que combina exóticas variedades de café, con el que obtenemos una bebida de calidad excepcional
 - PERFIL SENSORIAL: Se caracteriza por un sabor marcado y aromático, Aroma 6/10, Cuerpo 8/10, Acidez 6/10, Intensidad 8/10
+- DELTA CAFÉS LOTE CHÁVENA: Un café equilibrado que combina exóticas variedades de café, con el que obtenemos una bebida de calidad excepcional
+- COMPATIBLE: Paquete de 1 unidad de 1 Kg para máquinas de café automáticas y molinillos de café
+- CALIDAD DELTA CAFÉS: La combinación perfecta de productos provenientes de todas parte del mundo para traerte la mejor calidad de café y bebidas calientes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07DXF3PRM{{</world>}}

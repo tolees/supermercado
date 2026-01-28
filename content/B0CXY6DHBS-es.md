@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CAFÉ EN GRAINS ENTIERS: Élaboré avec une torréfaction lente et naturelle qui révèle toute la personnalité et l’élégance uniques de ce café
-- PROFIL SENSORIEL ÉQUILIBRÉ: Espresso doux aux notes légères de fruits cítriques, Arôme 14/15 | Corps 8/15 | Acidité 14/15 | Équilibre 11/15 | Intensité 8/15
 - MÉLANGE UNIQUE: Grains Arabica de Colombie soigneusement sélectionnés, offrant un blend doux et velouté avec de légères notes cítriques, issu des régions biodiverse de Tolima et Huila
-- Paquet de 500 g de café en grains, idéal pour broyeurs à grains et machines espresso automatiques
 - QUALITÉ DELTA CAFÉS: La combinaison parfaite de grains issus des meilleures régions productrices de café et de l’art de la torréfaction
+- PROFIL SENSORIEL ÉQUILIBRÉ: Espresso doux aux notes légères de fruits cítriques, Arôme 14/15 | Corps 8/15 | Acidité 14/15 | Équilibre 11/15 | Intensité 8/15
+- CAFÉ EN GRAINS ENTIERS: Élaboré avec une torréfaction lente et naturelle qui révèle toute la personnalité et l’élégance uniques de ce café
+- Paquet de 500 g de café en grains, idéal pour broyeurs à grains et machines espresso automatiques
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CXY6DHBS{{</world>}}

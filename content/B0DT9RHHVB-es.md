@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tus pestañas se verán más densas, gruesas y llenas en solo 4 semanas
 - Logra un volumen impactante con su cepillo de reloj de arena
+- Tus pestañas se verán más densas, gruesas y llenas en solo 4 semanas
 - Aplica hasta 30 capas para mayor volumen, sin apelmazar
 - Con tecnología Lash Densifier para 4x más volumen
 

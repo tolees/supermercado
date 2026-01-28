@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - AUTÉNTICO ORUJO GALLEGO. Elaborado de forma tradicional, por la 4ª generación de una familia gallega dedicada a la elaboración de licores tradicionales de su tierra de origen utilizando solo las mejores materias primas
-- NOTA DE CATA. Nuestro licor es de color oro claro y se distingue por su olor a hierbas digestivas (manzanilla, orégano, menta, hierba buena), dejando un delicioso sabor a hierbas y orujo (cascara) de uva en el paladar
 - HIERBAS Y AROMAS NATURALES. Se elabora en maceración natural con tipos distintos de hierbas naturales cuidadosamente seleccionadas para conseguir el mejor equilibrio y aroma. Sólo utiliza ingredientes 100 percent naturales y está libre de aditivos y conservantes
 - MARIDAJE: El Afilador Licor de Hierbas es ideal para tomar después de una comida. Te invitamos a tomarlo con vaso de chupito o servido en una copa con hielo
 - BENEFICIOS. Utiliza plantas naturales seleccionadas por su aporte aromático y propiedades refrescantes, digestivas y vasodilatadoras
+- NOTA DE CATA. Nuestro licor es de color oro claro y se distingue por su olor a hierbas digestivas (manzanilla, orégano, menta, hierba buena), dejando un delicioso sabor a hierbas y orujo (cascara) de uva en el paladar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00MTX9UFW{{</world>}}

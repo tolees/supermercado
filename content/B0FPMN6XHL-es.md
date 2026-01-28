@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal como regalo o autorregalo irresistible
 - Las láminas para cada uno de los meses están troqueladas con forma de perro salchicha y cada uno de los meses tiene un diseño de perro salchicha distinto, lo que lo convierte en un elemento decorativo, además de resultar muy divertido.
-- Se indican los festivos internacionales.
 - Certificado FSC, lo que garantiza que ha sido fabricado con papel proveniente de bosques gestionados de forma responsable.
+- Ideal como regalo o autorregalo irresistible
+- Se indican los festivos internacionales.
 - Pequeño calendario de sobremesa para el año 2026, con peana de madera.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

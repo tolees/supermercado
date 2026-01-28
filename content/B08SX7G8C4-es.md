@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Comprometidos con el abastecimiento ético de café al 100% en colaboración con Conservation International
-- Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
-- Una taza de café intenso, agradable y equilibrado que podrás disfrutar a lo largo del día
 - Café de grano entero de STARBUCKS suave y con un toque de chocolate
-- Café con cuerpo y suaves toques de cacao y frutos secos tostados que equilibran la suave sensación en boca
+- Una taza de café intenso, agradable y equilibrado que podrás disfrutar a lo largo del día
 - Los cafés de tostado medio de STARBUCKS son suaves y equilibrados
+- Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
+- Café con cuerpo y suaves toques de cacao y frutos secos tostados que equilibran la suave sensación en boca
+- Comprometidos con el abastecimiento ético de café al 100% en colaboración con Conservation International
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08SX7G8C4{{</world>}}

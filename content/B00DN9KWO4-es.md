@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - YOGI TEA: Con nuestros tés queremos servirte de inspiración y contribuir así a un mundo pacífico y sano, lleno de atención plena y felicidad
+- ECOLÓGICO, ÉTICO, SOSTENIBLE: 100% ecológico certificado, sin aromatizantes ni aditivos. El transporte de las materias primas por contenedor es 100% neutro en emisiones de CO2 y el papel tiene certificación FSC
 - SABOR ÚNICO: Tranquilo, relajado, sin agitación. Yogi Tea es sinónimo de variedad de sabores y salud. Tómate tu tiempo y disfruta de este sabor equilibrado que transmite serenidad y calma
 - TISANA: Una mezcla calmante de hierbas con melisa, rooibos y canela.
-- ECOLÓGICO, ÉTICO, SOSTENIBLE: 100% ecológico certificado, sin aromatizantes ni aditivos. El transporte de las materias primas por contenedor es 100% neutro en emisiones de CO2 y el papel tiene certificación FSC
 - INFUSIÓN SIN CAFEÍNA: Esta mezcla 100% ecológica no contiene cafeína por naturaleza y, por tanto, puede tomarse en cualquier momento sin restricciones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

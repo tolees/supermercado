@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Envase 100% reciclable
+- Aplicar sobre cabello mojado o seco de largos a puntas y dejar el cabello secar al aire
+- Un desayuno diario para un pelo naturalmente hidratado, suave y sin apelmazar
 - 200 ml
 - Leche de almendra ecológica procedente de la región de Pinoso (Alicante, España) y Savia de Agave originaria de México
-- Un desayuno diario para un pelo naturalmente hidratado, suave y sin apelmazar
-- Aplicar sobre cabello mojado o seco de largos a puntas y dejar el cabello secar al aire
-- Envase 100% reciclable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07QGZKXDY{{</world>}}

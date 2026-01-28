@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Contiene fenilalanina
-- Para la mejor experiencia, agregue hielo
 - Ideal para compartir
+- Contiene fenilalanina
 - Proteger de la luz solar y de olores agresivos
+- Para la mejor experiencia, agregue hielo
 - Bebida refrescante aromatizada con endulcolantes
 
 [🛒 Visítala!!!]({{< param buyurl >}})
