@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Galletas Gullón Mini Bites Quinoa y Chía 160g 4x40g'
+date: 2026-03-05 09:31:26
+image: 'https://m.media-amazon.com/images/I/41c-uRL1lJL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0DPMMH4C8-es Galletas Gullón Mini Bites Quinoa y Chía 160g 4x40g'
+sku: 'B0DPMMH4C8-es'
+tags: [ 'gullón','quinoa','🇪🇸', ]
+actualPrice: 1.19 EUR
+currency: EUR
+price: 1.19
+comparePrice: 1.49 EUR
+prodname: 'Galletas Gullón Mini Bites Quinoa y Chía 160g 4x40g'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0DPMMH4C8/?tag=tolees-21'
+descuento: '20.13'
+average: '1.114'
+---
+
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Elaboradas en España por Galletas Gullón
+- Sin aceite de palma
+- Con deliciosas semillas de Quinoa y Chía
+- Ideales como snack o picoteo entre horas
+- Elaboradas con aceite de girasol alto oleico
+
+[🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B0DPMMH4C8{{</world>}}

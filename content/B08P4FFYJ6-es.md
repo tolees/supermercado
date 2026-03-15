@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'La Sagra Sin Gluten - Alc. 5 0% Vol - Caja de 12 botellas de 330 ml - Total: 3960 ml'
+date: 2026-03-12 04:14:37
+image: 'https://m.media-amazon.com/images/I/51u1d--JdyL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B08P4FFYJ6-es La Sagra Sin Gluten - Alc. 5 0% Vol - Caja de 12 botellas...'
+sku: 'B08P4FFYJ6-es'
+tags: [ 'gluten','sin','🇪🇸', ]
+actualPrice: 12.15 EUR
+currency: EUR
+price: 12.15
+comparePrice: 16.2 EUR
+prodname: 'La Sagra Sin Gluten - Alc. 5 0% Vol - Caja de 12 botellas de 330 ml - Total: 3960 ml'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B08P4FFYJ6/?tag=tolees-21'
+descuento: '25.00'
+average: '12.2928571428572'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Cerveza estilo lager de color rubio oro, con notas afrutadas y ligero amargor final; el resultado es una cerveza refrescante con sabor 100% malta de cebada
+- Producto que combina tradición e innovación
+- Caja de 12 botellas de 33cl
+- Cerveza Sin Gluten certificada con la enseña de la Espiga Barrada.
+- Ingredientes: agua, malta de cebada, lúpulo y levadura. 100 ml: 351 kj, 84 kcal
+- Cerveza Lager SIN GLUTEN. Alc. 5,0% vol
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B08P4FFYJ6{{</world>}}

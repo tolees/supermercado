@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'LITORAL Alubias a la Vasca - Plato Preparado Sin Gluten - Pack de 15x430g - Total: 6.45kg'
+date: 2026-03-10 18:51:34
+image: 'https://m.media-amazon.com/images/I/51M0BjTAFIL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B098TSMQTC-es LITORAL Alubias a la Vasca - Plato Preparado Sin Gluten -...'
+sku: 'B098TSMQTC-es'
+tags: [ 'gluten','litoral','plato','preparado','sin','🇪🇸', ]
+actualPrice: 32.99 EUR
+currency: EUR
+price: 32.99
+comparePrice: 40.35 EUR
+prodname: 'LITORAL Alubias a la Vasca - Plato Preparado Sin Gluten - Pack de 15x430g - Total: 6.45kg'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B098TSMQTC/?tag=tolees-21'
+descuento: '18.24'
+average: '26.7814285714286'
+---
+
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Disfruta de un plato típico de la cocina casera española, con la calidad de LITORAL
+- Comida española fácil de preparar: al baño maria, en cazo o al microondas
+- Selecto embutido elaborado en Asturias, embutido 100% local
+- Receta elaborada con aceite de oliva
+- Ingredientes 100% naturales, sin gluten, sin colorantes ni conservantes
+
+[🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B098TSMQTC{{</world>}}

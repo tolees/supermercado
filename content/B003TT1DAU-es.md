@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Kas limón Refresco con zumo de limón bajo en calorías botella de 2 litros'
+date: 2026-03-08 22:57:15
+image: 'https://m.media-amazon.com/images/I/31QFPp1FxqL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B003TT1DAU-es Kas limón Refresco con zumo de limón bajo en calorías...'
+sku: 'B003TT1DAU-es'
+tags: [ 'de','zumo','🇪🇸', ]
+actualPrice: 1.59 EUR
+currency: EUR
+price: 1.59
+comparePrice: 1.79 EUR
+prodname: 'Kas limón Refresco con zumo de limón bajo en calorías botella de 2 litros'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B003TT1DAU/?tag=tolees-21'
+descuento: '11.17'
+average: '1.44'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Proteger de la luz solar y olores agresivos
+- No congelar
+- Conservar en lugar limpio, fresco seco
+- Evitar el contacto directo con suelo
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B003TT1DAU{{</world>}}

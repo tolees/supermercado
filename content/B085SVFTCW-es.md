@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'Sanytol - Limpiador Desinfectante Multiusos Elimina Bacterias Hongos y Virus Sin Lejía Perfume Eucaliptus - Pack de 4 x 750 Ml = 3L'
+date: 2026-03-05 15:31:44
+image: 'https://m.media-amazon.com/images/I/41uxO4n8NtL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B085SVFTCW-es Sanytol - Limpiador Desinfectante Multiusos Elimina...'
+sku: 'B085SVFTCW-es'
+tags: [ 'lejía','sanytol','🇪🇸', ]
+actualPrice: 9.48 EUR
+currency: EUR
+price: 9.48
+comparePrice: 9.95 EUR
+prodname: 'Sanytol - Limpiador Desinfectante Multiusos Elimina Bacterias Hongos y Virus Sin Lejía Perfume Eucaliptus - Pack de 4 x 750 Ml = 3L'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B085SVFTCW/?tag=tolees-21'
+descuento: '4.72'
+average: '11.0924137931035'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Utilice los biocidas de forma segura. Lea siempre la etiqueta y la información sobre el biocida antes de usarlo
+- Limpiador Desinfectante Multiusos eficaz contra bacterias, como S. aureus o E. coli, hongos y virus envueltos
+- Elimina los malos olores y deja un agradable aroma a Eucaliptus
+- Limpia y desinfecta sin lejía y de una sola pasada todo tipo de superficies, eliminando el 99,9% de los gérmenes y neutralizando los alérgenos más comunes del hogar; ácaros de polvo, de gatos, esporas de moho y polen
+- Apto para todo tipo de suelos y superficies, incluso delicadas como parquet, madera, mármol y acero inoxidable
+- No desprende vapores, no mancha textiles, no daña superficies y está testado dermatológicamente. Sin fosfatos, ftalatos ni disruptores endocrinos
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B085SVFTCW{{</world>}}
