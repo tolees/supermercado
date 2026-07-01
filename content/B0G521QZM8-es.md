@@ -1,0 +1,39 @@
+---
+layout: post
+title: 'Babaria - Stick Solar Facial 50 |Protección Alta Con Aloe Y Manteca De Karité |Coral Friendly Y Biodegradable | Resistente Al Agua Y Al Sudor | Vegano | Stick Solar Niños 20g El embalaje puede variar'
+date: 2026-04-04 18:04:23
+image: 'https://m.media-amazon.com/images/I/41MUJqKLnEL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0G521QZM8-es Babaria - Stick Solar Facial 50 |Protección Alta Con Aloe...'
+sku: 'B0G521QZM8-es'
+tags: [ 'babaria','🇪🇸', ]
+actualPrice: 12.68 EUR
+currency: EUR
+price: 12.68
+comparePrice: 13.98 EUR
+prodname: 'Babaria - Stick Solar Facial 50 |Protección Alta Con Aloe Y Manteca De Karité |Coral Friendly Y Biodegradable | Resistente Al Agua Y Al Sudor | Vegano | Stick Solar Niños 20g El embalaje puede variar'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0G521QZM8/?tag=tolees-21'
+descuento: '9.30'
+average: '12.29'
+---
+
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- HIDRATACIÓN Y CUIDADO INTENSO: Enriquecido con Aloe Vera y Manteca de Karité, la crema solar facial 50 stick hidrata profundamente y cuida la piel durante la exposición al sol. Contiene ingredientes naturales como Aceite de Coco y Vitamina E, que hacen que esta crema solar stick facial 50 regenere y proteja la piel contra los radicales libres .
+- RESISTENTE AL AGUA Y AL SUDOR: Perfecto para actividades al aire libre, gracias a su formato práctico. Podrás reaplicarte el protector solar 50 stick de manera rápida y uniforme . La proteccion solar stick es una perfecta opción para todo el año. Pudes utilizarlo libremente en el mar porque es coral friendly y biodegradable.
+- IDEAL PARA NIÑOS Y ADULTOS: el sun stick spf 50 esta formulado ser utilizado como solar stick para niños y adultos
+- FÁCIL APLICACIÓN: Su formato cómodo y compacto permite reaplicar el stick solar facial 50 en cualquier momento. Protege áreas específicas como labios, contorno de ojos, nariz y tatuajes, manteniéndolos hidratados y seguros
+- PROTECCIÓN SOLAR COMPLETA Y TRANSPARENTE : el protector solar stick facial contiene una alta protección contra rayos UVA, UVB e Infrarrojos, ideal para zonas sensibles. Además no deja rastro por lo que es ideal como solar stick solar niños y adultos.
+- La siguiente información se aplica a cada unidad del paquete
+
+[🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B0G521QZM8{{</world>}}
