@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Incapto Café en Grano de Especialidad 1kg | Origen Colombia | 100% Arábica | Specialty Coffee 84 puntos SCA | Tueste Natural y Artesanal | Finca Huila Cadefihuila'
+date: 2026-07-15 11:06:47
+image: 'https://m.media-amazon.com/images/I/41BaOyT4xJL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B08J3S5ZRB-es Incapto Café en Grano de Especialidad 1kg | Origen...'
+sku: 'B08J3S5ZRB-es'
+tags: [ 'café','🇪🇸', ]
+actualPrice: 32.48 EUR
+currency: EUR
+price: 32.48
+comparePrice: 39.95 EUR
+prodname: 'Incapto Café en Grano de Especialidad 1kg | Origen Colombia | 100% Arábica | Specialty Coffee 84 puntos SCA | Tueste Natural y Artesanal | Finca Huila Cadefihuila'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B08J3S5ZRB/?tag=tolees-21'
+descuento: '18.70'
+average: '31.5883333333333'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- 🌎 Origen único Colombia - Todos los granos de café provienen de la finca Cadefihuila en la región de Huila, aportando una personalidad única basada en las características de este terreno
+- ⭐ Café de Especialidad - Café colombiano de alta calidad, con 84 puntos SCA (Specialty Coffee Association). Se distingue por su aroma, sabor, personalidad, carácter distintivo y ausencia de defectos
+- 💚 Notas de Cata - Este café de Colombia se caracteriza por su fragancia floral, una buena base de cacao y panela, un cuerpo cremoso y un toque cítrico que recuerda al limón. Acidez y dulzor equilibrados
+- 🌱 Ingredientes - Café en Grano Natural, 100% Arábica
+- 🌿 Tueste Artesanal - El tueste es uno de los elementos que más influyen en la calidad y el sabor del café. Nuestros expertos tostadores tuestan cada día para asegurar la frescura del café
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B08J3S5ZRB{{</world>}}

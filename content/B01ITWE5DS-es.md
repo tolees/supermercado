@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'La Estrella Café Molido Mezcla Intensa 250g - 2 paquetes'
+date: 2026-08-01 14:18:40
+image: 'https://m.media-amazon.com/images/I/41UzXwZE4FL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B01ITWE5DS-es La Estrella Café Molido Mezcla Intensa 250g - 2 paquetes'
+sku: 'B01ITWE5DS-es'
+tags: [ 'café','molido','🇪🇸', ]
+actualPrice: 6.5 EUR
+currency: EUR
+price: 6.5
+comparePrice: 6.7 EUR
+prodname: 'La Estrella Café Molido Mezcla Intensa 250g - 2 paquetes'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B01ITWE5DS/?tag=tolees-21'
+descuento: '2.99'
+average: '4.38777777777778'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Fácil y rápido de preparar
+- Una vez abierto conservar en un recipiente hermético
+- Ideal para el desayuno o una pausa durante el día
+- Café molido con un sabor intenso
+- Se puede servir solo o con leche
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B01ITWE5DS{{</world>}}
