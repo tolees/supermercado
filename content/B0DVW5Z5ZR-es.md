@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- AYUDA AL SISTEMA INMUNITARIO y PROBIÓTICOS: Complemento alimenticio multivitamínico para niños (a partir de 4 años) con Probióticos, Minerales y Vitaminas para ayudar al intestino y a las defensas naturales
 - COMPRIMIDO MASTICABLE con sabor frambuesa
-- MODO DE USO: Niños (4+) y adultos, 1 comprimido al día durante o inmediatamente después de cualquier comida. No exceder la dosis diaria recomendada
-- CONTENIDO: 1x Bion3 Defense Junior comprimidos masticables con Multivitaminas para ayudar al intestino y al Sistema Inmunitario, 30 comprimidos masticables, para 1 mes de uso
+- AYUDA AL SISTEMA INMUNITARIO y PROBIÓTICOS: Complemento alimenticio multivitamínico para niños (a partir de 4 años) con Probióticos, Minerales y Vitaminas para ayudar al intestino y a las defensas naturales
 - FÓRMULA ÚNICA 3 EN 1: Con 3 Probióticos, 12 Vitaminas y 2 Minerales. Las Vitaminas B2, B3 y B7 ayudan al intestino, la Vitamina C, la Vitamina D y el Zinc apoyan la función normal del Sistema Inmunitario
 - CON PROBIÓTICOS: Cada comprimido masticable contiene 10 millones de Probióticos (L. gasseri, B. bifidum, B. longum) seleccionados para llegar vivos al intestino
+- MODO DE USO: Niños (4+) y adultos, 1 comprimido al día durante o inmediatamente después de cualquier comida. No exceder la dosis diaria recomendada
+- CONTENIDO: 1x Bion3 Defense Junior comprimidos masticables con Multivitaminas para ayudar al intestino y al Sistema Inmunitario, 30 comprimidos masticables, para 1 mes de uso
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DVW5Z5ZR{{</world>}}

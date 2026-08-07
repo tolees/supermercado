@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Perfume Halloween con fragancia floral afrutada para mujer
-- Su pirámide olfativa comienza por mandarina verde, pimienta rosa y fresa salvaje. En su corazón, flor de mora, flor de naranjo, jazmín de Egipto que finaliza en aceite de cedro, vainilla y almizcle
-- Halloween Blossom es un estallido de flores; es libertad y naturaleza. Es conectar contigo misma y darte cuenta de la importancia de cada segundo
 - Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con la piel. Para que perdure durante todo el día, aplícalo sobre la nuca, detrás de las orejas y la parte interna de codos y muñecas
+- Perfume Halloween con fragancia floral afrutada para mujer
 - Vaporizador de 100ml
+- Halloween Blossom es un estallido de flores; es libertad y naturaleza. Es conectar contigo misma y darte cuenta de la importancia de cada segundo
+- Su pirámide olfativa comienza por mandarina verde, pimienta rosa y fresa salvaje. En su corazón, flor de mora, flor de naranjo, jazmín de Egipto que finaliza en aceite de cedro, vainilla y almizcle
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B2DR3T4J{{</world>}}

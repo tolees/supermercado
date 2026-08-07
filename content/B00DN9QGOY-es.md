@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Elaborado en un establecimiento que también utiliza frutos de cáscara, soja.
-- Ecológico
 - Sin gluten
+- Ecológico
+- Elaborado en un establecimiento que también utiliza frutos de cáscara, soja.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00DN9QGOY{{</world>}}

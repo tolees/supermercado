@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ➤【Amos Peelerz Gomina de Melocotón】---Disfruta de la divertida experiencia de pelar su capa exterior elástica y descubrir una gelatina más suave que imita la textura de la piel comestible de una fruta real.
-- ➤【Elaborado con Auténtico Sabor a Melocotón Natural】---Sabor a fruta de melocotón, cada bocado está elaborado con auténtico sabor afrutado que ofrece un sabor intenso y distintivo. Disfruta sin preocupaciones con nuestras gominolas pelables, bajas en sodio y más saludables.
-- ➤【Snacks Versátiles Ideales para Fiestas y Eventos & Pascua】---Ya sea en casa, en la escuela o en la oficina, nuestros chews afrutados satisfarán tus antojos dulces en cualquier momento y lugar, ¡convirtiéndolos en la elección favorita de los fans de los caramelos pelables!
 - ➤【Caja para Compartir 240g con Minipacks Individuales】---Cada caja de 240g contiene minipacks individualmente envueltos. Porciones higiénicas y prácticas, ideales para loncheras, relleno de bolsas de fiesta o snacks para llevar.
+- ➤【Elaborado con Auténtico Sabor a Melocotón Natural】---Sabor a fruta de melocotón, cada bocado está elaborado con auténtico sabor afrutado que ofrece un sabor intenso y distintivo. Disfruta sin preocupaciones con nuestras gominolas pelables, bajas en sodio y más saludables.
+- ➤【Amos Peelerz Gomina de Melocotón】---Disfruta de la divertida experiencia de pelar su capa exterior elástica y descubrir una gelatina más suave que imita la textura de la piel comestible de una fruta real.
+- ➤【Snacks Versátiles Ideales para Fiestas y Eventos & Pascua】---Ya sea en casa, en la escuela o en la oficina, nuestros chews afrutados satisfarán tus antojos dulces en cualquier momento y lugar, ¡convirtiéndolos en la elección favorita de los fans de los caramelos pelables!
 - ➤【Diseño Único Pelable】---Originales gominolas con forma de melocotón y un divertido diseño pelable que hacen que cada mordisco sea juguetón y lleno de sabor. Gominolas masticables con afrutado sabor a melocotón que pueden pelarse como una fruta real, un dulce que encantará tanto a niños como a adultos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

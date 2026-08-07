@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Botella individual de 750 ml de XR de Marqués de Riscal - Vino tinto Reserva D.O.Ca. Rioja con 24 meses de crianza en barrica
 - Vino de color cereza muy cubierto, intenso y con apenas signos de evolución
 - En boca es fresco, con taninos pulidos muy agradables, con buena estructura pero fácil de beber. El final de boca es largo y deja unos leves recuerdos balsámicos de gran calidad
+- Botella individual de 750 ml de XR de Marqués de Riscal - Vino tinto Reserva D.O.Ca. Rioja con 24 meses de crianza en barrica
 - En nariz es muy expresivo con notas de regaliz, canela y pimienta negra, donde la larga crianza en madera apenas se percibe, gracias a su gran complejidad y concentración de fruta madura
 - Este vino marida bien con legumbres, aves de corral, chuletillas de cordero, mollejas, guisos, asados, carnes a la parrilla o a la brasa
 

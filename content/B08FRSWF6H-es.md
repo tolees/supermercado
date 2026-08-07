@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Café de Colombia. Tostado y envasado en Bélgica
-- Intensidad: 4/5
 - CERTIFICACIÓN RAINFOREST ALLIANCE: La procedencia del café utilizado para este producto goza de la certificación Rainforest Alliance, lo que significa que no solo sabe bien, sino que también tiene un impacto positivo. Con cada compra, ayuda a cientos de agricultores y sus familias en todo el mundo, además de aportar su granito a la selva tropical; beber mejor es hacerlo mejor
-- 100 % arábica
 - Adecuado para cafeteras de émbolo, de filtro o italianas
+- Intensidad: 4/5
+- Café de Colombia. Tostado y envasado en Bélgica
+- 100 % arábica
 - El café tiene una acidez bien redondeada con una dulzura equilibrada y mucho cuerpo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

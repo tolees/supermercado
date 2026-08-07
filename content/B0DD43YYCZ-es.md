@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con una textura crujiente
 - Conservar en un lugar fresco y seco
-- Galleta bañada con chocolate negro
 - Ideal como postre o snack
+- Galleta bañada con chocolate negro
 - Con un práctico embalaje
+- Con una textura crujiente
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DD43YYCZ{{</world>}}

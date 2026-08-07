@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Listo para servir
-- Ideal como regalo
 - Aroma de flores
+- Ideal como regalo
+- Listo para servir
 - El sabor miel, vainilla, caramelo
 - De color marrón dorado ​
 

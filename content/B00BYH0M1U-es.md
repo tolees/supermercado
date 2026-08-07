@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- COSECHA – Utilizamos las mejores hojas de té, recogidas a mano mediante métodos tradicionales. Estamos orgullosos de apoyar la Asociación de Comercio Ético (ETP) para una industria del té más justa, mejor y más sostenible para los trabajadores, los agricultores y el medio ambiente.
-- AROMA SELLADO - 20 bolsitas de té de doble cámara hechas de fibras naturales con una cinta. Envasado individualmente y sellado aromáticamente, el sabor y el aroma se conservan a largo plazo. Nuestro té es halal, kosher y sin gluten. Las bolsitas de té son compostables.
 - ORIGEN - Nuestro té verde proviene de los famosos jardines de té de las montañas Huang Shan en el "Triángulo Dorado" de China. Nuestros maestros del té utilizan té de hojas Chun Mee, que se recoge a principios de primavera y tiene un sabor delicado y dulce.
-- MEZCLA DE TÉ - la selección de 4 variedades incluye nuestro té verde puro, el té verde floral de jazmín, el refrescante té verde de menta y nuestro vigorizante té verde de limón. Los tés verdes galardonados aportan variedad en su taza. 5 bolsas por variedad
+- COSECHA – Utilizamos las mejores hojas de té, recogidas a mano mediante métodos tradicionales. Estamos orgullosos de apoyar la Asociación de Comercio Ético (ETP) para una industria del té más justa, mejor y más sostenible para los trabajadores, los agricultores y el medio ambiente.
 - TÉ CON PASIÓN: Nuestros maestros del té han estado desarrollando nuestras populares mezclas con pasión durante 4 generaciones. Queremos homenajear los jardines de té más exclusivos del mundo y presentarte diferentes sabores para despertar tu amor por el té también.
+- AROMA SELLADO - 20 bolsitas de té de doble cámara hechas de fibras naturales con una cinta. Envasado individualmente y sellado aromáticamente, el sabor y el aroma se conservan a largo plazo. Nuestro té es halal, kosher y sin gluten. Las bolsitas de té son compostables.
+- MEZCLA DE TÉ - la selección de 4 variedades incluye nuestro té verde puro, el té verde floral de jazmín, el refrescante té verde de menta y nuestro vigorizante té verde de limón. Los tés verdes galardonados aportan variedad en su taza. 5 bolsas por variedad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00BYH0M1U{{</world>}}

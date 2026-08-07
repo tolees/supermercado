@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🍎 FRUTA CUIDADOSAMENTE SELECCIONADA: sin sal ni azúcar añadido ni procesado. Contiene azúcares naturalmente presentes en los ingredientes. Sin glúten, sin leche, sin huevo y alto contenido de fibra.
-- 🍏 SNACK DIVERTIDO: un aperitivo con textura ligera y formas divertidas, pensado para disfrutar de la fruta de manera diferente en cualquier momento del día. Perfecto para incluir en la mochila del cole, comer en casa o llevar de excursión.
-- 🎒 IDEAL PARA NIÑOS PEQUEÑOS: si tu peque sabe gestionar los sólidos sin ayuda te recomendamos dárselos cuando sepa masticar sin problemas, ya que tienen una textura firme pensada para masticar y no para disolverse.
-- 🤱CONFIANZA EN CADA ELECCIÓN: sabemos que como mamá o papá quieres dar lo mejor a tu peque. Nos aseguramos de trabajar con ingredientes ecológicos y de la máxima calidad, fomentando una alimentación más responsable, sostenible y transparente.
 - 💚 SMILEAT: nacimos para revolucionar la alimentación infantil y lo seguimos haciendo con cada producto. Como la primera marca B-Corp en alimentación infantil ecológica de España, en Smileat trabajamos para crear un impacto positivo en el mundo, ofreciendo productos ricos y responsables que cuidan de los más pequeños, del planeta y de su futuro.
+- 🎒 IDEAL PARA NIÑOS PEQUEÑOS: si tu peque sabe gestionar los sólidos sin ayuda te recomendamos dárselos cuando sepa masticar sin problemas, ya que tienen una textura firme pensada para masticar y no para disolverse.
+- 🍏 SNACK DIVERTIDO: un aperitivo con textura ligera y formas divertidas, pensado para disfrutar de la fruta de manera diferente en cualquier momento del día. Perfecto para incluir en la mochila del cole, comer en casa o llevar de excursión.
+- 🤱CONFIANZA EN CADA ELECCIÓN: sabemos que como mamá o papá quieres dar lo mejor a tu peque. Nos aseguramos de trabajar con ingredientes ecológicos y de la máxima calidad, fomentando una alimentación más responsable, sostenible y transparente.
+- 🍎 FRUTA CUIDADOSAMENTE SELECCIONADA: sin sal ni azúcar añadido ni procesado. Contiene azúcares naturalmente presentes en los ingredientes. Sin glúten, sin leche, sin huevo y alto contenido de fibra.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09D8N8V9V{{</world>}}

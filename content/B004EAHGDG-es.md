@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- UN brandy único: Fundador Sherry Cask Solera es un Brandy de Jerez Solera que perteneciente a la colección Sherry Cask de Fundador. Una bebida espirituosa única y versátil envejecida en botas de roble americano (Sherry Casks) previamente envina con vino Jerez cuidadosamente seleccionado
 - Una bebida muy premiada: Este brandy de Jjerez ha sido tres veces premiado con medalla de oro en el San Francisco World Spirits Competition en los años 2019 2020 y 2021 y en el International Spirits Challenge en el año 2021
+- UN brandy único: Fundador Sherry Cask Solera es un Brandy de Jerez Solera que perteneciente a la colección Sherry Cask de Fundador. Una bebida espirituosa única y versátil envejecida en botas de roble americano (Sherry Casks) previamente envina con vino Jerez cuidadosamente seleccionado
 - Brandy de postre: Gracias a su composición esta bebida es ideal para disfrutar en vaso bajo solo sin hielo y deleitarte del mejor sabor después de una comida o cena además es un exquisito brandy para regalar. Una vez abierto debe conservarse en un sitio fresco y seco a temperatura ambiente evitando la luz solar
 - Fundador Sherry Cask Solera - Brandy de Jerez Solera, Bebida Espirituosa, 36% Volumen de Alcohol - 70 cl
 - Notas de cata: De color ámbar muy brillante. En nariz tiene un aroma muy complejo y equilibrado, con notas de madera noble y vinosidad que le aportan las botas donde envejece. En boca su sabor es armonioso, suave y vinoso, con una persistencia muy agradable y notable

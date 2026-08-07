@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para conservar el producto adecuadamente, debe mantenerse en un lugar fresco y seco. La información que aparece en la página web puede diferir de la información que aparece en el etiquetado del producto. Por favor verifica siempre el etiquetado del producto.
-- El desodorante Dove Antitranspirante Roll-On Advanced Care Dragon Fruit con protección para tus axilas durante 72 horas proporciona un cuidado superior a la vez que cuida tu piel. Está enriquecido con nuestra fórmula Advanced Care a la vez que con nuestra Tecnología Pro Ceramidas , la cual hidrata la piel para proporcionar los beneficios ultra hidratantes de un producto experto de cuidado de la piel.
 - Por último, el desodorante roll-on Dove Advanced Care Dragon Fruit tiene el certificado PETA. Dove no testa en animales en ningún lugar del mundo.​
+- El desodorante Dove Antitranspirante Roll-On Advanced Care Dragon Fruit con protección para tus axilas durante 72 horas proporciona un cuidado superior a la vez que cuida tu piel. Está enriquecido con nuestra fórmula Advanced Care a la vez que con nuestra Tecnología Pro Ceramidas , la cual hidrata la piel para proporcionar los beneficios ultra hidratantes de un producto experto de cuidado de la piel.
+- Para conservar el producto adecuadamente, debe mantenerse en un lugar fresco y seco. La información que aparece en la página web puede diferir de la información que aparece en el etiquetado del producto. Por favor verifica siempre el etiquetado del producto.
 - Asimismo, el desodorante Antitranspirante roll-on Dove Advanced Care Dragon Fruit es idóneo para pieles sensibles, ya que ayuda a reparar la piel de la irritación, incluso después del depilado. Su fórmula no contiene alcohol y está dermatológicamente testada. El desodorante Antitranspirante roll-on Dove Advanced Care Original te ayuda a sentirte limpia durante todo el día.​
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

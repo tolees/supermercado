@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aparato y recambio para ambientador eléctrico Air Wick
 - INTENSIDAD REGULABLE: elige entre los diferentes niveles de intensidad para conseguir tu nivel de fragancia adecuada
 - DISPERSIÓN DE FRAGANCIA TOTAL: su nuevo diseño libera fragancia hacia arriba y hacia afuera para permitir que la fragancia llene tu casa y pueda envolverte de su aroma
 - ¿Todos necesitamos una bocanada de AIRE FRESCO de vez en cuando, no?​ ​
+- Aparato y recambio para ambientador eléctrico Air Wick
 - ACEITES ESENCIALES NATURALES: Contiene aceites esenciales naturales extraídos de las plantas y flores, sin ftalatos ni acetona
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

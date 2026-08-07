@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se disuelve en agua o leche
+- Conservar en lugar fresco y seco
 - Viene en un recipiente de vidrio
 - Fácil y rápido de preparar
 - Café soluble con café molido de tueste natural
-- Conservar en lugar fresco y seco
+- Se disuelve en agua o leche
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XABGPU0{{</world>}}

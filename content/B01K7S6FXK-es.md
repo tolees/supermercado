@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Extracto de bambú
 - Rizos vivos y elásticos
 - Espuma con cinco acciones
-- Extracto de bambú
 - Con activo hidratante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

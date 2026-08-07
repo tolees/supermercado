@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- PROTEÍNA VEGANA ECOLÓGICA: los ingredientes de la proteína NATRULY provienen de agricultura orgánica, sin pesticidas ni otros químicos y respetando su crecimiento natural. ¡Salvemos la naturaleza comiéndonosla!
-- NATURALMENTE SANA: proteína en polvo de chocolate sin gluten, sin lactosa y sin azúcar. Endulzada con aroma natural de cacao y vainilla para ofrecerte una alternativa saludable a las proteínas artificiales. Cambia lo que comes y cambiarás el mundo
-- ¿CÓMO TOMARLA? Añade agua, leche o bebida vegetal, agita tu shaker y tu batido de proteínas estará listo. Úsala como ingrediente para tortitas, galletas y bizcochos. Puedes mezclara con la avena BIO NATRULY para hacerla aún más completa
 - ¿POR QUÉ ESTA PROTEÍNA ES DIFERENTE?: todos los ingredientes de nuestra proteína vegana son 100% naturales, sin aditivos artificiales perjudiciales. Un aporte extra de nutrientes para el tejido muscular. La alimentación natural ya no es una excepción
+- ¿CÓMO TOMARLA? Añade agua, leche o bebida vegetal, agita tu shaker y tu batido de proteínas estará listo. Úsala como ingrediente para tortitas, galletas y bizcochos. Puedes mezclara con la avena BIO NATRULY para hacerla aún más completa
+- NATURALMENTE SANA: proteína en polvo de chocolate sin gluten, sin lactosa y sin azúcar. Endulzada con aroma natural de cacao y vainilla para ofrecerte una alternativa saludable a las proteínas artificiales. Cambia lo que comes y cambiarás el mundo
+- PROTEÍNA VEGANA ECOLÓGICA: los ingredientes de la proteína NATRULY provienen de agricultura orgánica, sin pesticidas ni otros químicos y respetando su crecimiento natural. ¡Salvemos la naturaleza comiéndonosla!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07FKNX3CV{{</world>}}

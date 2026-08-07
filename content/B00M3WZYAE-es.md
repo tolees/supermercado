@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto elaborado con las mejores frutas Ideal para untar sobre pan y enriquecer desayunos y meriendas
-- Conservar en un lugar fresco y seco. Refrigerado una vez abierto.
 - Sin conservantes, sin colorantes y libre de alérgenos
+- Conservar en un lugar fresco y seco. Refrigerado una vez abierto.
+- Producto elaborado con las mejores frutas Ideal para untar sobre pan y enriquecer desayunos y meriendas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00M3WZYAE{{</world>}}

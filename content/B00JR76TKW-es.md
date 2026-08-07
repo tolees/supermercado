@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - líneas finas
 - enrojecimiento e imperfecciones con un solo golpe. La fórmula suave y ultramezclable se desliza sobre la piel sin esfuerzo y no se sienta en líneas. BENEFICIOS PARA EL CUIDADO DE LA PIEL: el corrector de ojos Eraser contiene extracto de bayas de Goji que ayuda a reducir la apariencia de ojeras
-- líneas finas e imperfecciones. APLICADOR: este aplicador de punta de cojín antimicrobiano significa que solo necesita su corrector de ojos Eraser cuando está fuera de casa para realizar retoques prácticos sobre la marcha. PRODUCTO MULTIUSO: este corrector no solo cubre las ojeras
 - PERFECTO PARA CÍRCULOS OSCUROS: se enfoca en círculos oscuros
 - las imperfecciones y las líneas finas - también se puede utilizar para ocultar o contornear. Use tonos más oscuros para contornear y tonos más claros para resaltar.
+- líneas finas e imperfecciones. APLICADOR: este aplicador de punta de cojín antimicrobiano significa que solo necesita su corrector de ojos Eraser cuando está fuera de casa para realizar retoques prácticos sobre la marcha. PRODUCTO MULTIUSO: este corrector no solo cubre las ojeras
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00JR76TKW{{</world>}}

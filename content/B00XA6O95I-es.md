@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contribuye a una buena digestión: Gracias a su receta que contiene fibras como la pulpa de remolacha
-- Dientes y huesos fuertes: Contribuye a mantener unos dientes y huesos fuertes gracias a los minerales y la vitamina D
-- Condición física óptima: Nivel de proteínas y calorías adaptado a su nivel de actividad
 - Con ingredientes de calidad adecuada: Con ingredientes seleccionados de calidad adecuada
 - Pelo brillante y piel cuidada: Ácidos grasos omega-3 y omega-6, biotina y zinc
 - Pienso para perros adultos medianos y grandes (+10kg)
+- Dientes y huesos fuertes: Contribuye a mantener unos dientes y huesos fuertes gracias a los minerales y la vitamina D
+- Condición física óptima: Nivel de proteínas y calorías adaptado a su nivel de actividad
+- Contribuye a una buena digestión: Gracias a su receta que contiene fibras como la pulpa de remolacha
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XA6O95I{{</world>}}

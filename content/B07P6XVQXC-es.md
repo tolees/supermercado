@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ORIGEN DEL SENCHA: El Sencha es un té verde en hojas muy difundido en Japón, y se prepara en infusión. Las plantaciones de Sencha crecen en el sur de Japón, y se exponen a la luz solar directa durante todo su ciclo vital, por lo que crecen rápido. El té Sencha NaturaleBio proviene de la primera cosecha, que se realiza a finales de abril y es el más apreciado.
-- DISPONIBILIDAD: La completa satisfacción de nuestros clientes es nuestra prioridad. Estamos a su disposición para cualquier consulta o observación. EMBALAJE: El embalaje y las etiquetas del producto pueden variar con el tiempo, pero el contenido sigue siendo el mismo.
 - TÉ VERDE SENCHA BIO: El té verde Sencha se presenta en hojas de color verde oscuro y brillante, con una forma muy característica, de aguja. Su infusión presenta un color que va del amarillo-dorado a un verde intenso, pero siempre muy transparente, con un sabor muy particular, refrescante y armonioso, entre astringente y dulce.
 - CERTIFICADO ECOLÓGICO Y VEGANO: Puro y biológico al 100 . Sin uso de pesticidas y fertilizantes químicos que no favorecen el cuerpo y la salud. Fabricado en Japón y certificado biológico por organismos autorizados por el Ministerio de Agricultura.
+- DISPONIBILIDAD: La completa satisfacción de nuestros clientes es nuestra prioridad. Estamos a su disposición para cualquier consulta o observación. EMBALAJE: El embalaje y las etiquetas del producto pueden variar con el tiempo, pero el contenido sigue siendo el mismo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07P6XVQXC{{</world>}}

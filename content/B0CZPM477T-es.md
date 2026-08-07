@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Salsa estilo barbacoa coreana para glasear, marinar y dipear. Sabor intenso ideal para alitas, costillas y salteados, en formato bocabajo.
+- Nuestras salsas están inspiradas en sabores de todo el mundo.
 - Apto para vegetarianos.
 - Una vez abierto conservar en frigorífico.
-- Nuestras salsas están inspiradas en sabores de todo el mundo.
+- Salsa estilo barbacoa coreana para glasear, marinar y dipear. Sabor intenso ideal para alitas, costillas y salteados, en formato bocabajo.
 - Sin colorantes, saborizantes, espesantes ni conservantes artificiales. Endulzado a partir de una fuente natural.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

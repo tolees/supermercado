@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- DECAF MY EASY DAY CLASSICO: Una mezcla de sabor auténtico. 100 cápsulas de aluminio compatibles con las máquinas Nespresso* Original. *Lavazza no está afiliada a Nespresso, ni promovida o patrocinada por ella
 - LAVAZZA: El Grupo Lavazza opera en todos los sectores de la industria del café, ofreciendo productos de alta calidad, obtenidos a través de un modelo basado en la innovación, la pasión y la experiencia
-- NOTAS AROMÁTICAS: Estas cápsulas de café son ideales para un espresso descafeinado en perfecto equilibrio entre fuerza y ligereza, con notas aromáticas de frutos secos y chocolate, descafeinado mediante un proceso natural
 - BLEND: Las cápsulas Decaf de Lavazza están elaboradas con una mezcla de café Arábica y Robusta procedente de Sudamérica y el Sudeste Asiático, descafeinada mediante un proceso natural
 - INTENSIDAD: El tueste medio y la intensidad 7/13 aportan un sabor redondo y equilibrado a esta mezcla especial, para un café intenso y ligero, ideal para todos los amantes del descafeinado que buscan todo el sabor y el aroma clásico del café
+- DECAF MY EASY DAY CLASSICO: Una mezcla de sabor auténtico. 100 cápsulas de aluminio compatibles con las máquinas Nespresso* Original. *Lavazza no está afiliada a Nespresso, ni promovida o patrocinada por ella
+- NOTAS AROMÁTICAS: Estas cápsulas de café son ideales para un espresso descafeinado en perfecto equilibrio entre fuerza y ligereza, con notas aromáticas de frutos secos y chocolate, descafeinado mediante un proceso natural
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BLG7FKLN{{</world>}}

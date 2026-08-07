@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 🥬 Con Hierba Gatera Natural para la Digestión: Elaborado orgullosamente con hierba de cebada, una fuente natural de fibra dietética. Este ingrediente suave ayuda a mantener una digestión saludable y puede favorecer el paso natural del pelo ingerido a través del sistema de tu gato como parte de su rutina diaria.
-- 🌿 Nutrición Suave Liofilizada: Utilizamos un proceso lento de liofilización para ayudar a preservar la textura natural, el sabor y el valor nutricional de nuestros ingredientes, sin altas temperaturas ni conservantes artificiales. El resultado es una croqueta ligera y crujiente, llena de sabor auténtico que atrae incluso a los gatos más exigentes.
-- 🍗 Receta Triple de Pollo Alta en Proteínas: Con pechuga de pollo, hígado y corazón, nuestra receta ofrece un perfil completo de proteína de alta calidad, aminoácidos y nutrientes esenciales como vitaminas B y hierro. Estos nutrientes ayudan a mantener la energía diaria, la salud muscular y el bienestar general de tu gato.
 - 🐟 Con Omega-3 para la Piel y el Pelo: Enriquecidos con aceite de pescado puro, estas croquetas proporcionan una fuente natural de ácidos grasos Omega-3 (EPA y DHA). Estos ácidos grasos son conocidos por ayudar a nutrir la piel y mantener un pelaje saludable y brillante, lo que puede ser beneficioso durante los cambios de estación.
+- 🍗 Receta Triple de Pollo Alta en Proteínas: Con pechuga de pollo, hígado y corazón, nuestra receta ofrece un perfil completo de proteína de alta calidad, aminoácidos y nutrientes esenciales como vitaminas B y hierro. Estos nutrientes ayudan a mantener la energía diaria, la salud muscular y el bienestar general de tu gato.
+- 🌿 Nutrición Suave Liofilizada: Utilizamos un proceso lento de liofilización para ayudar a preservar la textura natural, el sabor y el valor nutricional de nuestros ingredientes, sin altas temperaturas ni conservantes artificiales. El resultado es una croqueta ligera y crujiente, llena de sabor auténtico que atrae incluso a los gatos más exigentes.
+- 🥬 Con Hierba Gatera Natural para la Digestión: Elaborado orgullosamente con hierba de cebada, una fuente natural de fibra dietética. Este ingrediente suave ayuda a mantener una digestión saludable y puede favorecer el paso natural del pelo ingerido a través del sistema de tu gato como parte de su rutina diaria.
 - ✅ Limpio, Simple y Adecuado para Estómagos Sensibles: Lo mantenemos simple: solo hierba gatera, pollo, órganos de pollo y aceite de pescado; sin sabores, colores, conservantes o atrayentes artificiales añadidos. Esta fórmula mínima y natural es suave y adecuada para gatos en todas las etapas de vida.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

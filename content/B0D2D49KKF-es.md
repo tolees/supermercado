@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PARA UN RESCATE COMPLETO DEL PELO: sigue nuestra rutina con el champú y acondicionador Aussie SOS Repair & Revive para pelo seco y dañado
-- FÓRMULA VEGANA ENRIQUECIDA CON SUPERALIMENTOS AUSTRALIANOS: Nuestra línea Aussie SOS es vegana, sin ingredientes o subproductos derivados de animales
 - ¿PELO SECO Y DAÑADO que necesita ayuda? ¡Estás en buenas manos! Los productos Aussie dejarán tu pelo increíblemente hidratado
+- PARA UN RESCATE COMPLETO DEL PELO: sigue nuestra rutina con el champú y acondicionador Aussie SOS Repair & Revive para pelo seco y dañado
 - DI HOLA A UN PELO INCREÍBLEMENTE HIDRATADO. Desde el primer uso, tu pelo estará suave, liso e increíblemente hidratado
 - REPARA Y REVITALIZA: El suave champú Aussie ayuda a reparar y revitalizar el pelo estresado al mismo tiempo que lo protege contra daños futuros
+- FÓRMULA VEGANA ENRIQUECIDA CON SUPERALIMENTOS AUSTRALIANOS: Nuestra línea Aussie SOS es vegana, sin ingredientes o subproductos derivados de animales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D2D49KKF{{</world>}}

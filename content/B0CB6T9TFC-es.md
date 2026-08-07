@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PROTECCIÓN DEL TINTE: Su fórmula de bajo pH cierra la cutícula despúes de la coloración para fijar el color y mantener las fibras capilares del cabello vivas y brillantes.
-- BRILLO: Con una fórmula energizante de Caviar de Lima y Vitamina E para proteger el color de las fibras capilares y aportar brillo.
-- CHAMPÚ: Fija el tinte y potencia el brillo de las fibras capilares de tu cabello con este champú protector de Wella que intensifica el color -formulado para cabello teñido, seco y dañado -especialmente para cabello grueso.
-- CUIDADO DEL CABELLO: Cuida el cabello a la vez que lo limpia, preservando su suavidad y brillo - Productos Wella Professionals, ¡un regalo ideal para la mujer y su cabello!
 - COLOR INTENSO: El purificador de metales protege el cabello de los metales nocivos presentes en el agua y ayuda a mantener su vitalidad.
+- CHAMPÚ: Fija el tinte y potencia el brillo de las fibras capilares de tu cabello con este champú protector de Wella que intensifica el color -formulado para cabello teñido, seco y dañado -especialmente para cabello grueso.
+- BRILLO: Con una fórmula energizante de Caviar de Lima y Vitamina E para proteger el color de las fibras capilares y aportar brillo.
+- CUIDADO DEL CABELLO: Cuida el cabello a la vez que lo limpia, preservando su suavidad y brillo - Productos Wella Professionals, ¡un regalo ideal para la mujer y su cabello!
+- PROTECCIÓN DEL TINTE: Su fórmula de bajo pH cierra la cutícula despúes de la coloración para fijar el color y mantener las fibras capilares del cabello vivas y brillantes.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CB6T9TFC{{</world>}}

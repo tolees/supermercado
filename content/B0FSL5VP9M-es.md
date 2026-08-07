@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CREMA ANTIMANCHAS FACIAL MUJER: La crema antiarrugas aporta firmeza a la piel, disminuyendo la flacidez y aumentando su elasticidad. Atenúa las manchas y unifica el tono de la piel. Su fórmula con Ácido Hialurónico mantiene la piel altamente hidratada y favorece la síntesis de Colágeno. Además, el retinol es un derivado de la vitamina A capaz de estimular la renovación de la capa más superficial de la piel.
-- SERUM FACIAL: El sérum disminuye arrugas y líneas de expresión y mejora la firmeza de la piel. Consigue luchar contra el envejecimiento prematuro dérmico, obteniendo una piel más rejuvenecida y elástica e igualando el tono de la piel. Además, es de tacto ligero y absorción rápida
-- CREMAS FACIALES MUJER: El neceser Retinol incluye un tratamiento completo con efecto antiedad, aportando firmeza y elasticidad, y disminuyendo la flacidez y las manchas. Indicada para todo tipo de pieles, incluso sensibles. Incluye serum facial y crema facial.
-- PACK CREMAS FACIAL MUJER: el regalo perfecto es este packs cremas mujer regalo. Aplicar primero el serum facial sobre la piel limpia de rostro, cuello y escote y masajear con la yema de los dedos hasta su completa absorción. Después, sigue el mismo proceso con la crema facial. Es una crema de dia y noche.
 - MODO DE EMPLEO: Aplicar sobre la piel limpia de rostro, cuello y escote. Masajear con la yema de los dedos hasta su completa absorción. Uso diario día y noche. Evitar el contacto con los ojos
+- SERUM FACIAL: El sérum disminuye arrugas y líneas de expresión y mejora la firmeza de la piel. Consigue luchar contra el envejecimiento prematuro dérmico, obteniendo una piel más rejuvenecida y elástica e igualando el tono de la piel. Además, es de tacto ligero y absorción rápida
+- CREMA ANTIMANCHAS FACIAL MUJER: La crema antiarrugas aporta firmeza a la piel, disminuyendo la flacidez y aumentando su elasticidad. Atenúa las manchas y unifica el tono de la piel. Su fórmula con Ácido Hialurónico mantiene la piel altamente hidratada y favorece la síntesis de Colágeno. Además, el retinol es un derivado de la vitamina A capaz de estimular la renovación de la capa más superficial de la piel.
+- PACK CREMAS FACIAL MUJER: el regalo perfecto es este packs cremas mujer regalo. Aplicar primero el serum facial sobre la piel limpia de rostro, cuello y escote y masajear con la yema de los dedos hasta su completa absorción. Después, sigue el mismo proceso con la crema facial. Es una crema de dia y noche.
+- CREMAS FACIALES MUJER: El neceser Retinol incluye un tratamiento completo con efecto antiedad, aportando firmeza y elasticidad, y disminuyendo la flacidez y las manchas. Indicada para todo tipo de pieles, incluso sensibles. Incluye serum facial y crema facial.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FSL5VP9M{{</world>}}

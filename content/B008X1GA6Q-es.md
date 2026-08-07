@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido: 1x máscara de pestañas Maybelline New York Colossal Go Extreme, Tono: Radical Black 4, Cantidad: 9,5 ml
 - Máscara de pestañas volumen negro para unas pestañas abundantes y un volumen extremo
-- Cepillo doble onda para aportar a tus pestañas un volumen extremo, Forma ergonómica adaptada a la forma del ojo para llegar al 100% de las pestañas, Compatible con ojos sensibles y lentes de contacto
 - Aplica la máscara desde la raíz hacia los extremos extendiendo las pestañas al máximo, Repite el proceso para un efecto intensificado
+- Contenido: 1x máscara de pestañas Maybelline New York Colossal Go Extreme, Tono: Radical Black 4, Cantidad: 9,5 ml
+- Cepillo doble onda para aportar a tus pestañas un volumen extremo, Forma ergonómica adaptada a la forma del ojo para llegar al 100% de las pestañas, Compatible con ojos sensibles y lentes de contacto
 - Pestañas voluminosas, extranegras y sin grumos hasta los extremos para una mirada intensa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

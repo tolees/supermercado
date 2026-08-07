@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- ¿QUÉ ES? | Champú y acondicionador purificador para cabellos grasos. Limpia, nutre, y brinda volumen fortaleciendo las fibras capilares evitando roturas sin engrasar. Es el detox capilar IDEAL.
 - ELIMINA TOXINAS | Equilibra, purifica y limpia. Su revolucionaria formulación elimina residuos de productos sintéticos promoviendo la oxigenación de los tejidos.
 - INGREDIENTES | Sus ingredientes naturales como Extracto de Salvia, Bardana y Manzanilla, detoxifican, fortalecen y aportan un mayor volumen y brillo a tu melena con un envolvente aroma a manzana verde.
 - IDEAL PARA | Cabello graso, Cabellos teñidos y/o castigados. Apto para personas y mujeres embarazadas o en proceso de lactancia. Cruelty free y vegano.
 - FÓRMULAS INTELIGENTES | Mejora tu salud capilar con ingredientes 100% seguros y libres de tóxicos, siliconas ni sulfatos. Totalmente apto para el Método Curly.
-- ¿QUÉ ES? | Champú y acondicionador purificador para cabellos grasos. Limpia, nutre, y brinda volumen fortaleciendo las fibras capilares evitando roturas sin engrasar. Es el detox capilar IDEAL.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CJYKM8BD{{</world>}}

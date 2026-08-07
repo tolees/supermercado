@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puede contener ocasionalmente trozos de cáscara.
+- Apto para dietas vegetarianas y veganas.
 - Envasado en atmósfera protectora.
 - Alto contenido de fibra
-- Apto para dietas vegetarianas y veganas.
+- Puede contener ocasionalmente trozos de cáscara.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FCMZG1MT{{</world>}}

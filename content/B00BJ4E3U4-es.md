@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ideal para acompañar carnes asadas, platos con base de salsa de tomate o con la tradicional paella.
-- Origen: DO Catalunya
 - Intensos aromas de frutas negras y del bosque, con sutiles notas vegetales y especiadas.
+- Origen: DO Catalunya
+- Ideal para acompañar carnes asadas, platos con base de salsa de tomate o con la tradicional paella.
 - Graduación: 13,5% vol.
 - Puede disfrutarlo desde ahora, bien conservado aguantará 5-8 años.
 

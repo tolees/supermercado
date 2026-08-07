@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 1 PAQUETE DE 126 GRAMOS - 8 sobres de 15,8 g de café soluble Marcilla Mix Cappuccino Milka
-- CREMOSO Y EQUILIBRADO - Disfruta del balance ideal entre café y el delicioso sabor a chocolate Milka, con una cremosa capa de espuma
-- La siguiente información se aplica a cada unidad del paquete
 - SOSTENIBILIDAD - Elaborado con café sostenible bajo el programa de Sostenibilidad Common Grounds que garantiza un Origen Responsable.
 - FÁCIL DE PREPARAR -1- Vierte el contenido del sobre en un vaso o taza. 2- Añade 150 ml de agua caliente no hirviendo (Máx 85ºC). 3- Remueve bien hasta que quede cremoso y delicioso
+- La siguiente información se aplica a cada unidad del paquete
+- 1 PAQUETE DE 126 GRAMOS - 8 sobres de 15,8 g de café soluble Marcilla Mix Cappuccino Milka
+- CREMOSO Y EQUILIBRADO - Disfruta del balance ideal entre café y el delicioso sabor a chocolate Milka, con una cremosa capa de espuma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0H3WPVMWL{{</world>}}

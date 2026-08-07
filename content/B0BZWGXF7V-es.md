@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- ENRIQUECIDO CON ACEITE DE COCO | Limpia sin irritar ¿El resultado? Una piel suave, radiante y luminosa.
 - PIEL LIMPIA CON UN SOLO GESTO | Con este producto podrás eliminar cualquier rastro de maquillaje, incluso waterproof, en una sola pasada.
 - ¿QUÉ ES? | Leche de limpieza que elimina el maquillaje, el sebo producido por tu piel, el sudor y la polución de forma natural y eficaz.
 - FÓRMULAS INTELIGENTES | Fórmula científica sin ingredientes nocivos para la piel: sin petrolatos, ni siliconas ni parabenos. Bueno para tí y para el planeta.
-- ENRIQUECIDO CON ACEITE DE COCO | Limpia sin irritar ¿El resultado? Una piel suave, radiante y luminosa.
 - IDEAL PARA | Todo Tipo de Pieles. Apto Veganos, Lactancia y Embarazo. Toxic & Cruelty Free.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

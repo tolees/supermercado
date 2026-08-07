@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Modo de uso: se difumina sin esfuerzo con los dedos o una brocha
-- Contenido: 1 x LOréal Paris Le Shadow Stick, 118 cloudy rose
-- Color Intenso y de Larga Duración: disfruta de un color vibrante que dura hasta 16 horas (test de consumidor en 116 mujeres)
 - Sombra de ojos en formato stick versátil; un solo producto, infinitos looks
+- Modo de uso: se difumina sin esfuerzo con los dedos o una brocha
+- Color Intenso y de Larga Duración: disfruta de un color vibrante que dura hasta 16 horas (test de consumidor en 116 mujeres)
+- Contenido: 1 x LOréal Paris Le Shadow Stick, 118 cloudy rose
 - 2 looks posibles: utilízalo como sombra de ojos para un look completo o aplícalo a lo largo de la línea de las pestañas como delineador para una mirada más definida
 
 [🛒 Visítala!!!]({{< param buyurl >}})

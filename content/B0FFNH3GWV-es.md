@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Bebida 100% vegetal, sin lactosa, sin aditivos, hecha con Agua del parque natural del Montseny
-- Matcha ecológico cultivado en la región de Uji (Kioto), región especialmente dedicada a la plantación y cosecha de té verde.
 - Agua, avena (12%), aceite de colza, té verde matcha en polvo, sal marina, fibra cítrica.
 - Sin aditivos, sin ningún azúcar añadido y sin gluten
+- Matcha ecológico cultivado en la región de Uji (Kioto), región especialmente dedicada a la plantación y cosecha de té verde.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FFNH3GWV{{</world>}}

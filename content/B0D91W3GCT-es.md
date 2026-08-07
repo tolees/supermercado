@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bombones especialmente pensados para regalar un detalle
 - Desde 1972, CAJA ROJA acompañándonos en celebraciónes y momentos especiales
+- Bombones especialmente pensados para regalar un detalle
 - Cacao 100% obtenido de forma sostenible seleccionado a través de NESTLE Cocoa Plan; certificado Rainforest Alliance
 - Delicioso surtido de 16 bombones de chocolate con leche, negro y blanco de calidad; bombones 100% aromas naturales
 

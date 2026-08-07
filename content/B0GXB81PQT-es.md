@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El crujido clásico de Lay’s, elaborado con patatas seleccionadas
 - Patatas fritas Lay’s con un sabor profundo e inconfundible a queso curado
 - Perfectas para cada momento de ocio: Ideales para ver una película, eventos deportivos o picoteo informal
 - Calidad Lays de siempre: Sabor auténtico y calidad reconocida en cada bolsa
+- El crujido clásico de Lay’s, elaborado con patatas seleccionadas
 - Formato ideal para compartir, 140 g: Bolsa perfecta para reuniones, aperitivos o disfrutar en familia
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,13 +29,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - producto 2: Toma tu refresco frío con hielo y una rodaja de lima o limón para disfrutar de todo su sabor
-- producto 1: Color cristalino con ligeros visos dorados
-- producto 1: Aroma suave a cítricos, botánicos y hierbas de tocador
 - producto 2: Para disfrutarla en cualquier momento, lugar y ocasión
-- producto 1: Listo para servir
+- producto 1: Aroma suave a cítricos, botánicos y hierbas de tocador
+- producto 1: Sabor clásico combinando las notas de enebro con toques herbáceos
 - producto 2: Con el refrescante sabor, refresco sin azúcar y sin calorías
 - producto 2: Nada como el sabor auténtico de una Coca-Cola
-- producto 1: Sabor clásico combinando las notas de enebro con toques herbáceos
+- producto 1: Color cristalino con ligeros visos dorados
+- producto 1: Listo para servir
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C1Y9XRVC{{</world>}}

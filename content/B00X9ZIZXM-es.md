@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ayuda a neutralizar los ácidos de la placa
-- Chicle sin azúcar que beneficia la salud dental
 - Juego de 4 paquetes de 10 grageas cada uno
+- Chicle sin azúcar que beneficia la salud dental
 - Un consumo excesivo puede tener efectos laxantes
 
 [🛒 Comprar!!!]({{< param buyurl >}})

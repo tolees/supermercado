@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Trigo francés de alta calidad de la carta LU Harmony
-- Galleta con textura crujiente y piezas generosas de gamuza y grandes fragmentos de chocolate derretidos para tus descansos gourmet
 - Ideal para tomar un café o un aperitivo gourmet para compartir con amigos
-- Contenido del envío: bolsa con 8 galletas extra de chocolate y gamuza granola, peso neto: 184 g
+- Galleta con textura crujiente y piezas generosas de gamuza y grandes fragmentos de chocolate derretidos para tus descansos gourmet
+- Trigo francés de alta calidad de la carta LU Harmony
 - Formato práctico y fácil de transportar gracias al estuche de galletas de 8 piezas
+- Contenido del envío: bolsa con 8 galletas extra de chocolate y gamuza granola, peso neto: 184 g
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0148OADGE{{</world>}}

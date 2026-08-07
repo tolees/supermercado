@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Colour Perfector – El champú Gliss se adapta a las necesidades del cabello teñido y teñido. Para una reparación profunda y protección del color hasta 13 semanas
-- Con complejo hialurónico y extracto de arándano: gracias al complejo de hialurón y extracto de arándano, el champú Gliss Colour Perfector repara profundamente la estructura interna del cabello
-- Fácil de usar: extender suavemente sobre el cabello húmedo y enjuagar bien. Aplicar regularmente para el cuidado del cabello y para obtener resultados óptimos después utilizar el acondicionador Colour Perfector
-- Bueno para el planeta: el cuerpo de la botella del champú para mujer está hecho de un 80% de material reciclado¹, el 87% de los ingredientes son de origen natural² y está certificado por PETA³
 - Protección intensa del color: el champú para cabello teñido protege y fortalece el cabello para un resultado visiblemente reparado y sano brillante
+- Con complejo hialurónico y extracto de arándano: gracias al complejo de hialurón y extracto de arándano, el champú Gliss Colour Perfector repara profundamente la estructura interna del cabello
+- Colour Perfector – El champú Gliss se adapta a las necesidades del cabello teñido y teñido. Para una reparación profunda y protección del color hasta 13 semanas
+- Bueno para el planeta: el cuerpo de la botella del champú para mujer está hecho de un 80% de material reciclado¹, el 87% de los ingredientes son de origen natural² y está certificado por PETA³
+- Fácil de usar: extender suavemente sobre el cabello húmedo y enjuagar bien. Aplicar regularmente para el cuidado del cabello y para obtener resultados óptimos después utilizar el acondicionador Colour Perfector
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZ76QNBD{{</world>}}

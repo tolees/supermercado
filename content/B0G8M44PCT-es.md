@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- IMPULSA TU ENTRENAMIENTO: Elaborada con proteína de alta calidad, ayuda al crecimiento muscular y te ayuda a alcanzar tus objetivos de fitness - lista para consumir antes, después o durante tus entrenamientos
 - ALTO CONTENIDO DE PROTEÍNAS, BAJO EN AZÚCAR: Cada barrita contiene más de 13 g de proteína y menos de 2 g de azúcar
 - TENTEMPIÉ PARA LLEVAR: Cada barrita de 45 g es el aporte de energía perfecto para los días ajetreados, los viajes o como un capricho dulce que te mantiene en marcha hasta tu próxima comida
+- IMPULSA TU ENTRENAMIENTO: Elaborada con proteína de alta calidad, ayuda al crecimiento muscular y te ayuda a alcanzar tus objetivos de fitness - lista para consumir antes, después o durante tus entrenamientos
 - EDICIÓN LIMITADA CREME EGG: Disfruta del sabor de Creme Egg en una barrita de proteínas sin remordimientos, que combina un núcleo relleno y cremoso de Creme Egg envuelto en una suave masa de proteína y cubierto de chocolate con leche*
 - CERTIFICADO INFORMED SPORT: Certificado por el programa Informed Sport y, por tanto, apto para deportistas y personal militar sometidos a controles antidopaje
 

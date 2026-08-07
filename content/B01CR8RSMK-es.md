@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Conservar en lugar fresco y seco
-- Sabor de verduras
-- Puede contener trazas de apio, huevo, leche, crustáceos, pescado, mostaza, sésamo y moluscos
 - Listo en 3 minutos
+- Conservar en lugar fresco y seco
+- Puede contener trazas de apio, huevo, leche, crustáceos, pescado, mostaza, sésamo y moluscos
+- Sabor de verduras
 - Preparado alimenticio con fideos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

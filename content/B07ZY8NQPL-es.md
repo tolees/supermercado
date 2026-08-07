@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Maestros Conserveros desde 1975 de Ayamonte (Huelva) con IGP Caballa y Melva de Andalucía
 - Disponemos Caballa de Andalucía, Melva de Andalucía, Atún, Sardinas y Salmón Salvaje de PRODUCCIÓN ECOLÓGICA
 - ¿Deseas sorprender, felicitar, fidelizar, premiar, agradecer, motivar a alguien? ¡REGALO PERFECTO!
+- Maestros Conserveros desde 1975 de Ayamonte (Huelva) con IGP Caballa y Melva de Andalucía
 - Sello CAAE del Comité Andaluz de Agricultura Ecológica
 - 2 Tarros de vidrio de 195 g de Lomos de Salmón Salvaje en Aceite de Oliva Virgen Extra Ecológico
 

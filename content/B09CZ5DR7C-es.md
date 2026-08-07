@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Se disuelve en agua o leche
 - Es descafeinado
+- Se disuelve en agua o leche
 - Conservar en lugar fresco y seco
-- Fácil y rápido de preparar
 - Ideal para el desayuno o una pausa durante el día
+- Fácil y rápido de preparar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09CZ5DR7C{{</world>}}

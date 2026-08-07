@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- SOSTENIBILIDAD - Elaborado con café sostenible bajo el programa de Sostenibilidad Common Grounds que garantiza un Origen Responsable.
 - La siguiente información se aplica a cada unidad del paquete
-- FÁCIL DE PREPARAR - 1- Vierte el contenido del sobre en un vaso o taza. 2 - Añade 150ml de agua caliente o fría (0-85ºC). 3- Remueve bien hasta que quede cremoso y delicioso.
 - CREMOSO Y EQUILIBRADO - Disfruta del balance ideal entre café y el delicioso sabor a pistacho y chcolate, con una cremosa capa de espuma
 - 1PAQUETE DE 120 GRAMOS - 8 sobres de 15 g de café soluble Marcilla Mix Cappuccino Dubai Chocolate Style
+- SOSTENIBILIDAD - Elaborado con café sostenible bajo el programa de Sostenibilidad Common Grounds que garantiza un Origen Responsable.
+- FÁCIL DE PREPARAR - 1- Vierte el contenido del sobre en un vaso o taza. 2 - Añade 150ml de agua caliente o fría (0-85ºC). 3- Remueve bien hasta que quede cremoso y delicioso.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0GZL9XMM3{{</world>}}

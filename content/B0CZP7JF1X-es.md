@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- EAU ITS FRESH representa la primavera. Una mujer que disfruta de un brillante día soleado, rodeada de flores frescas y coloridas como jazmín y fresia y una brisa aromática de bergamota y limón.
 - Los aromas de womensecret han sido desarrollados para mujeres que les gusta sentirse hermosas, cómodas y sexys. Diferentes aromas, diferentes interpretaciones de frescura y feminidad, cada una con su personalidad.
+- Notas altas: verde, naranja dulce, manzana, jengibre. Notas de corazón: violeta, jazmín, rosa, azahar. Notas de fondo: ámbar seco, frutos rojos, lactónico, calón. Aroma: floral, afrutado, amaderado
 - La colección de EAU consta de tres fragancias diferentes para mujeres que aman sentirse sexys, cómodas y hermosas. Tres aromas diferentes, tres formas diferentes de sentir la frescura, cada uno con su propia personalidad. EAU ITS FRESH, EAU MY DÉLICE y EAU MY SECRET son perfumes intensos y femeninos que marcan un antes y un después en el mundo de los perfumes womensecret.
 - Agua de toilette Womensecret Its Fresh para mujer 30 ml
-- Notas altas: verde, naranja dulce, manzana, jengibre. Notas de corazón: violeta, jazmín, rosa, azahar. Notas de fondo: ámbar seco, frutos rojos, lactónico, calón. Aroma: floral, afrutado, amaderado
+- EAU ITS FRESH representa la primavera. Una mujer que disfruta de un brillante día soleado, rodeada de flores frescas y coloridas como jazmín y fresia y una brisa aromática de bergamota y limón.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZP7JF1X{{</world>}}

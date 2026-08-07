@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dureza: media
 - La Dr.Best Vibration Fresh está especialmente diseñada para eliminar las bacterias que causan el mal olor con su limpiador lingual a fondo y suavemente – y reducir el mal aliento** **La protección contra el mal aliento es temporal
+- Dureza: media
 - Las láminas suaves eliminan hasta 5 veces más bacterias de la superficie de la lengua** y ayudan a respirar fresco**
 - Las cerdas suaves y vibrantes apoyan tu movimiento habitual de cepillado y eliminan suavemente la placa para una limpieza profunda
 - Las cerdas finas de seda más largas tienen extremos de cerdas especialmente finas, lo que les permite penetrar profundamente en los espacios interdentales estrechos

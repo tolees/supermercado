@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Desde 1964, Chips Ahoy ha sido sinónimo de diversión, ofreciendo una amplia variedad de galletas que alegran nuestras meriendas y reuniones
-- Chips Ahoy Galletas Cookies Original son la deliciosa opción para satisfacer tus antojos de dulce, con crujiente textura y auténticas pepitas de chocolate
 - Estas galletas contienen ingredientes de calidad, contiene trigo y pepitas de chocolate, brindando un sabor auténtico y satisfactorio en cada bocado
 - Chips Ahoy brinda momentos especiales en tus meriendas, adecuados como snack en cualquier lugar o como parte de tu receta de postre favorita
+- Desde 1964, Chips Ahoy ha sido sinónimo de diversión, ofreciendo una amplia variedad de galletas que alegran nuestras meriendas y reuniones
+- Chips Ahoy Galletas Cookies Original son la deliciosa opción para satisfacer tus antojos de dulce, con crujiente textura y auténticas pepitas de chocolate
 - Presentadas en una caja de 300g, las galletas son imperdibles para meriendas o para disfrutar en familia y amigos, en cualquier ocasión
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

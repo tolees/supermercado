@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DERMATOLÓGICAMENTE TESTADO: Vegano y sin testado en animales, apto para todo tipo de piel, con propiedades antioxidantes de la rosa.
-- AROMA REFRESCANTE: Ruibarbo ácido con notas dulces y florales de rosa que elevan el ánimo y dejan un perfume delicado.
 - FÓRMULA SUAVE: pH neutro con limpiadores de origen vegetal que respetan la piel y la hidratan mientras limpian.
 - INGREDIENTES NATURALES: 97% de ingredientes naturales incluyendo glicerina vegetal que aporta hidratación profunda.
+- DERMATOLÓGICAMENTE TESTADO: Vegano y sin testado en animales, apto para todo tipo de piel, con propiedades antioxidantes de la rosa.
+- AROMA REFRESCANTE: Ruibarbo ácido con notas dulces y florales de rosa que elevan el ánimo y dejan un perfume delicado.
 - HIDRATANTE NUTRITIVO: Contiene sesquicaprilato de sorbitán certificado Ecocert derivado de aceites vegetales para una piel suave y nutrida.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

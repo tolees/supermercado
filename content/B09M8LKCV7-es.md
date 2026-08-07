@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Elaborada con 100% fruta, sin azúcares añadidos, sin gluten, sin conservantes y sin colorantes ni sabores artificiales
 - Sabor natural auténtico de Naranjas, sin edulcorantes ni saborizantes
-- Versátil y deliciosa: ideal para tostadas, yogures, quesos, repostería o para disfrutarla sola como un bocado dulce natural
-- Receta tradicional francesa cocinada lentamente para preservar el sabor natural y la textura de la fruta
 - Tradición francesa desde 1984: elaborada en el suroeste de Francia siguiendo recetas artesanales
+- Receta tradicional francesa cocinada lentamente para preservar el sabor natural y la textura de la fruta
+- Elaborada con 100% fruta, sin azúcares añadidos, sin gluten, sin conservantes y sin colorantes ni sabores artificiales
+- Versátil y deliciosa: ideal para tostadas, yogures, quesos, repostería o para disfrutarla sola como un bocado dulce natural
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09M8LKCV7{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- No. 6 Suavizante de enlaces capilares
-- OLAPLEX No.6 Bond Smoother (No. 6 Suavizante de enlaces capilares) 100ML
-- OLAPLEX No.6 Bond Smoother 100 ml
 - Marca: Olaplex
+- OLAPLEX No.6 Bond Smoother (No. 6 Suavizante de enlaces capilares) 100ML
+- No. 6 Suavizante de enlaces capilares
+- OLAPLEX No.6 Bond Smoother 100 ml
 - Calidad muy alta
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

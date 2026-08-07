@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El Nº.7 Bonding Oil potencia el brillo, la suavidad y proporciona 72 horas de control del encrespamiento.
-- El Nº.7 Bonding Oil reduce la rotura y protege del calor hasta 72 horas.
 - El Nº.4 Bond Maintenance Shampoo y el Nº.5 Bond Maintenance Conditioner reducen la rotura, el encrespamiento y las puntas abiertas.
+- El Nº.7 Bonding Oil reduce la rotura y protege del calor hasta 72 horas.
+- El Nº.7 Bonding Oil potencia el brillo, la suavidad y proporciona 72 horas de control del encrespamiento.
 - El Nº.4 Bond Maintenance Shampoo y el Nº.5 Bond Maintenance Conditioner fortalecen y protegen la salud del cabello.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

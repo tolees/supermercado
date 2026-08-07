@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con fragancia afrutada nutritiva
 - Este tratamiento capilar Gliss con HAPTIQ System crea microenlaces y refuerza la estructura del cabello
 - El 97% de los ingredientes son de origen natural
-- Cabello brillante y suave, con una fragancia afrutada
 - Resultados visibles y palpables
+- Con fragancia afrutada nutritiva
+- Cabello brillante y suave, con una fragancia afrutada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CR6QVXV1{{</world>}}

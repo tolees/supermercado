@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Intensidad 8
-- La siguiente información se aplica a cada unidad del paquete
 - Envase compostable - OkCompost
+- La siguiente información se aplica a cada unidad del paquete
 - Café Natural 100% Ecológico
+- Intensidad 8
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GSY5QLRS{{</world>}}

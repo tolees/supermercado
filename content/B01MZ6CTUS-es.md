@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ETIQUETAS: Este producto es apto para veganos y celíacos. Además, no contiene colorantes, conservantes ni azúcares añadidos
-- PROPIEDADES: Se utiliza extracto seco, lo que hace referencia a un proceso de extracción específico, en el que se mantienen los principios activos de interés y se eliminan impurezas y otras sustancias no interesantes
 - BENEFICIOS: Ayuda a la hiperhidrosis y en los sofocos causados por la menopausia
 - COMPLEMENTOS, NUTRABASICOS. Extracto seco de Salvia. Sin colorantes, azúcares añadidos ni conservantes
-- MODO DE USO: Tomar una cápsula al día, preferiblemente, con el desayuno. Por dosis diaria se obtienen 350mg de Extracto seco de Salvia
+- PROPIEDADES: Se utiliza extracto seco, lo que hace referencia a un proceso de extracción específico, en el que se mantienen los principios activos de interés y se eliminan impurezas y otras sustancias no interesantes
 - La salvia es una planta que nos aporta numerosos beneficios. Ayuda a la reducción de la intensidad de los sofocos durante la menopausia y también en las molestias menstruales. Además, ayuda como tratamiento de infecciones de la cavidad oral, como la faringitis
+- MODO DE USO: Tomar una cápsula al día, preferiblemente, con el desayuno. Por dosis diaria se obtienen 350mg de Extracto seco de Salvia
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MZ6CTUS{{</world>}}

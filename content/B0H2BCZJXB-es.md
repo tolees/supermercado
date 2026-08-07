@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - SOLO 43 kcal POR 100 g: la opción más ligera de la gama, con 0 g de grasa. Perfecta para desayunos saludables y dietas hipocalóricas.
-- Tradición mermeladera de La Vieja Fábrica, elaborada en España con los más altos estándares de calidad y seguridad alimentaria.
-- 55 g DE FRAMBUESA POR 100 g: mermelada extra con generosa proporción de fruta que aporta el aroma y sabor característico de la frambuesa.
 - SIN COLORANTES NI CONSERVANTES ARTIFICIALES INNECESARIOS: color natural propio de la frambuesa, con pectina de cítricos como gelificante y un toque de concentrado de saúco.
 - 0% AZÚCARES AÑADIDOS: endulzada con jarabe de maltitol y sucralosa. Conserva únicamente los azúcares propios de la frambuesa (solo 3,7 g de azúcares por 100 g).
+- 55 g DE FRAMBUESA POR 100 g: mermelada extra con generosa proporción de fruta que aporta el aroma y sabor característico de la frambuesa.
+- Tradición mermeladera de La Vieja Fábrica, elaborada en España con los más altos estándares de calidad y seguridad alimentaria.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0H2BCZJXB{{</world>}}

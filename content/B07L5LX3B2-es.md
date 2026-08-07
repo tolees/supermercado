@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Papel Blanco
-- Pañuelos de Bolsillo premium de 4 capas
 - Sin perfumes
+- Pañuelos de Bolsillo premium de 4 capas
 - Dimensión pañuelo abierto: 21x21cm
+- Papel Blanco
 - 6 Paquete X 9 Pañuelos Por Paquete
 
 [🛒 Visítala!!!]({{< param buyurl >}})

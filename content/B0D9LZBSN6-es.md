@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 1 cápsula - 1 lavado; rinde para 46 lavados
 - Doble acción: detergente concentrado y poder quitamanchas
-- Diseñado especialmente para quitar las manchas mientras cuida de tu ropa
+- 1 cápsula - 1 lavado; rinde para 46 lavados
 - Detergente en Cápsulas Skip Active Clean Doble Líquido 46 lavados
+- Diseñado especialmente para quitar las manchas mientras cuida de tu ropa
 - Detergente para lavadora para ciclos cortos de 30 minutos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

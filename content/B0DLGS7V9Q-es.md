@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Impermeable, resistente al sudor y al calor.
-- La doble punta del cepillo es tan precisa que permite crear trazos naturales, similares al pelo, para unas cejas tan naturales que creerán que son reales. Hasta 48H* de duración. (*Test de consumidor en 114 mujeres).
 - Tiempo de uso: Fórmula de tinta semipermanente ultrafina
+- La doble punta del cepillo es tan precisa que permite crear trazos naturales, similares al pelo, para unas cejas tan naturales que creerán que son reales. Hasta 48H* de duración. (*Test de consumidor en 114 mujeres).
+- Impermeable, resistente al sudor y al calor.
 - Resultado/Cobertura/Acabado: 2 veces más pelos. Cejas naturales y definidas.
 - Fórmula: tinta ultrafina. Impermeable, resistente al sudor y al calor.
 

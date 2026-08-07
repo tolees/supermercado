@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Recomendado para pieles maduras
 - La fórmula contiene péptidos de soja, melanin block y filtros uv
-- Crema untosa y fresca
 - Los párpados parecen realzados
+- Recomendado para pieles maduras
+- Crema untosa y fresca
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00JNX3SEA{{</world>}}

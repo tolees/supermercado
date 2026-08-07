@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Deja un tacto suave y un aspecto ultrabrillante en los labios
 - Tono exclusivo muy solicitado con aroma de arándanos
+- Deja un tacto suave y un aspecto ultrabrillante en los labios
 - Incluye 5 brillos de labios en 1 set
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

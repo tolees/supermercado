@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 1 base hidratante perfecta 24h, 30 ml, n. ° 1 Feria
-- Fórmula con ingredientes naturales, ideal para pieles sensibles e intolerantes, enriquecida con aloe vera orgánico y vitamina C y con prioridades nutritivas y antioxidantes
-- Base líquida hidratante con ácido hialurónico, duradera, enfatiza la tez mediante la eliminación de impurezas, regenera la piel y fortalece las defensas naturales
 - Piel hidratante, regenerada, uniforme e impecable
+- Base líquida hidratante con ácido hialurónico, duradera, enfatiza la tez mediante la eliminación de impurezas, regenera la piel y fortalece las defensas naturales
+- Fórmula con ingredientes naturales, ideal para pieles sensibles e intolerantes, enriquecida con aloe vera orgánico y vitamina C y con prioridades nutritivas y antioxidantes
+- 1 base hidratante perfecta 24h, 30 ml, n. ° 1 Feria
 - Frote suavemente con una esponja o las manos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

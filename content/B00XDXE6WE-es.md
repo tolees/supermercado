@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SENSACIÓN DE FRESCOR – Esta loción hidratante para el cuidado facial proporciona una sensación de frescor inmediata, no es grasa y se absorbe rápidamente.
 - CONTENIDO DEL ENVÍO – NIVEA MEN Sensitive Cool Loción After Shave, para piel sensible con 0% alcohol, 1 x 100 ml, bote.
-- FÓRMULA EFICAZ – La fórmula de esta loción facial contiene extracto de algas, que aportan un efecto refrescante, y camomila, con efecto calmante.
+- SENSACIÓN DE FRESCOR – Esta loción hidratante para el cuidado facial proporciona una sensación de frescor inmediata, no es grasa y se absorbe rápidamente.
 - 0% ALCOHOL – Esta loción para después del afeitado tiene 0% alcohol para evitar la sensación de ardor. Además, no contiene parabenos ni aceites minerales.
+- FÓRMULA EFICAZ – La fórmula de esta loción facial contiene extracto de algas, que aportan un efecto refrescante, y camomila, con efecto calmante.
 - ALIVIO DE LAS IRRITACIONES – Este after shave hidratante especialmente formulado para piel sensible combate y suaviza la irritación de manera inmediata.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

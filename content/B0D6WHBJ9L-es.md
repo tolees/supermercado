@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ACONDICIONADOR: Tratamiento hidratante cabello que fortalece y nutre las fibras capilares y protege su color. Para cabellos teñidos, secos y ligeramente debilitados.
-- MODO DE EMPLEO: Para unos resultados óptimos, frotar el acondicionador desde la raíz hasta las puntas, dejar actuar de 1 a 3 minutos y aclarar - utilizar con champú y tratamiento del cuero cabelludo
-- TRATAMIENTO PARA EL CUERO CABELLUDO: Limpiador suave que elimina impurezas y exceso de sebo para estimular el crecimiento cabello mujer y hombre con un cuero cabelludo más sano.
 - CRECIMIENTO CON BIOTINA PARA EL CABELLO: Enriquecido con niacinamida, biotina e ingredientes protectores de los rayos UV. Clínicamente formulado para densificar y fortalecer las fibras capilares.
 - RUTINA NIOXIN: Para mejores resultados, utiliza Nioxin System Kit 3 cada día y tus productos preferidos de estilizado capilar Nioxin. Añádelos a tu rutina de autocuidado o regálalos como detalle de belleza.
+- TRATAMIENTO PARA EL CUERO CABELLUDO: Limpiador suave que elimina impurezas y exceso de sebo para estimular el crecimiento cabello mujer y hombre con un cuero cabelludo más sano.
+- ACONDICIONADOR: Tratamiento hidratante cabello que fortalece y nutre las fibras capilares y protege su color. Para cabellos teñidos, secos y ligeramente debilitados.
+- MODO DE EMPLEO: Para unos resultados óptimos, frotar el acondicionador desde la raíz hasta las puntas, dejar actuar de 1 a 3 minutos y aclarar - utilizar con champú y tratamiento del cuero cabelludo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D6WHBJ9L{{</world>}}

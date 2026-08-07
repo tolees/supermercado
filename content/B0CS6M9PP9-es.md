@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Modo frío/caliente e indicador de elaboración LED: la máquina de café espresso tiene modos fríos o cálidos para que puedas preparar un café helado en verano y hacer un café caliente en invierno. (El modo HOT requiere unos 35 segundos de calentamiento).
 - HiBREW Nueva actualización: indicador de barra LED - Combina las barras LED con las barras de tu cápsula DG*. Por favor, ajuste el volumen de elaboración como desee, una taza de café italiano sabroso expreso/lungo/americano se puede completar en 1,5 minutos
+- Modo frío/caliente e indicador de elaboración LED: la máquina de café espresso tiene modos fríos o cálidos para que puedas preparar un café helado en verano y hacer un café caliente en invierno. (El modo HOT requiere unos 35 segundos de calentamiento).
 - Compatible 6 en 1 con cápsulas y polvo de espresso Esta cafetera de cápsulas puede ser perfectamente compatible con Kcup* Pod, Nes* OriginalLine Capsule, DG* Capsule, E.S.E. Pod, té y espresso en polvo. No necesita comprar una variedad de máquinas de café debido a las diferentes dosis, esto le ahorrará mucho dinero.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

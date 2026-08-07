@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 🚫 LIBRE DE ALÉRGENOS: Nuestros caramelos se fabrican en una fábrica que combina las más modernas tecnologías con la imaginación y el cuidado artesanal; sin gluten, sin lactosa
-- 💯 CARAMELOS CERDÁN: Es una empresa familiar líder en Europa en la fabricación de caramelo duro con una amplia gama de productos para niños y adultos. Fundada en 1914, lleva más 100 años endulzando paladares por todo el mundo
 - ❤️ IDEAL PARA SAN VALENTÍN: endulza el 14 de febrero y acompaña tu regalo del día de los enamorados para tu novio, novia, amigos o familiares con estos corazones
-- 🍬 CARAMELO CON FORMA DE CORAZÓN: Caramelo duro sin gluten y libre de alérgenos. Cada bolsa contiene 333 unidades
+- 💯 CARAMELOS CERDÁN: Es una empresa familiar líder en Europa en la fabricación de caramelo duro con una amplia gama de productos para niños y adultos. Fundada en 1914, lleva más 100 años endulzando paladares por todo el mundo
 - ❤️SABORES SURTIDOS FRUTA Y COLA : nuestros caramelos con forma de corazón tienen un característico e inconfundible sabores a frutas o cola. Una delicia para el paladar de niños y adultos. Perfectos parejas y amigos
+- 🍬 CARAMELO CON FORMA DE CORAZÓN: Caramelo duro sin gluten y libre de alérgenos. Cada bolsa contiene 333 unidades
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DH53X8NX{{</world>}}

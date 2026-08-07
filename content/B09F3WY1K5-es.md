@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Melatonina Pura 1,9 mg Bucodispersable Inatur es 100% natural es VEGANO, fácil de tragar, sin gluten, sin lactosa y sin conservantes. Un complejo vitamínico y mineral elaborado con los mejores ingredientes naturales sin GMO. Desarrollado bajo un proceso controlado y certificado, bajo los más estrictos protocolos de calidad, desde el origen hasta el final del producto
 - INATUR es una marca desarrollada por los Laboratorio, con más de 20 años de experiencia en el sector. Referencia en la producción de suplementos alimenticios, cosmética y suplementos veterinarios.
 - Melatonina Pura 1,5 mg Bucodispersable Inatur es un complemento indicado para el tratamiento del insomnio o trastorno del sueño. Rápida Asimilación. Contiene 1,95 mg de melatonina pura. El suministro es para 1 año completo.
-- DOSIS: Se aconseja tomar una microtableta al día. Puede ser tomada de dos maneras: 1º Coloque el comprimido sobre la lengua hasta su disgregación, también podrá masticar el comprimido. 2º Trague el comprimido con abundante agua, preferiblemente una hora antes de acostarse.
 - BENEFICIOS: Ayuda a disminuir el tiempo necesario para conciliar el sueño.
+- Melatonina Pura 1,9 mg Bucodispersable Inatur es 100% natural es VEGANO, fácil de tragar, sin gluten, sin lactosa y sin conservantes. Un complejo vitamínico y mineral elaborado con los mejores ingredientes naturales sin GMO. Desarrollado bajo un proceso controlado y certificado, bajo los más estrictos protocolos de calidad, desde el origen hasta el final del producto
+- DOSIS: Se aconseja tomar una microtableta al día. Puede ser tomada de dos maneras: 1º Coloque el comprimido sobre la lengua hasta su disgregación, también podrá masticar el comprimido. 2º Trague el comprimido con abundante agua, preferiblemente una hora antes de acostarse.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09F3WY1K5{{</world>}}

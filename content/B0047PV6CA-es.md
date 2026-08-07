@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Concealer 002 Light Korektor w sztyfcie
 - Coloración permanente de larga duración
 - Revlon Hochwertige Kosmetik von Profis empfohlenRevlon PhotoReady Concealer 002 Light Korektor w sztyfcie
-- Concealer 002 Light Korektor w sztyfcie
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0047PV6CA{{</world>}}

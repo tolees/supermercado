@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para todo tipo de cabello
 - Hidratación externa
+- Para todo tipo de cabello
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DWLQKZZC{{</world>}}

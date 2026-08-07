@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Apto para dietas vegetarianas y veganas.
+- Sin cafeína.
+- Envasado en España.
 - Conservar en un lugar fresco y seco. Una vez abierto, conservar en un recipiente hermético. Consumir preferentemente antes del: ver parte superior del envase.
 - Bolsitas de doble cámara.
 - Una infusión cálida y ligeramente picante que combina la aromática especia del jengibre con notas cítricas.
-- Sin cafeína.
-- Envasado en España.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F2TTNDR7{{</world>}}

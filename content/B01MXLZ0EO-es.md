@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Advertencia de seguridad: Comprobar siempre la fecha de consumo preferente
-- Elaborado con proceso uht
-- Caldo de pollo
-- Información de alérgenos: eggs
 - Instrucciones para su uso adecuado: Ideal para el consumo de niños y adultos
+- Información de alérgenos: eggs
 - Producto listo para el consumo
+- Elaborado con proceso uht
+- Advertencia de seguridad: Comprobar siempre la fecha de consumo preferente
+- Caldo de pollo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MXLZ0EO{{</world>}}

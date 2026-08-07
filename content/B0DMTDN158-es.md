@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- IDEAL PARA USO NOCTURNO: Aplicar una vez al día, preferiblemente por la noche, evitando el contacto con zonas sensibles como los ojos.
-- CON EXTRACTOS DE ORIGEN VEGETAL: Contiene pimienta de Tasmania, un conocido antiirritante, junto con aloe y ginseng.
-- FÓRMULA MULTIFUNCIONAL: También se puede aplicar en el cuero cabelludo para hidratar y reequilibrar la piel seca.
-- POTENCIADO CON UN 7 % DE ÁCIDO GLICÓLICO: Favorece un tono de piel más uniforme, reduce la aparición de líneas de expresión y arrugas y potencia la luminosidad.
 - TÓNICO EXFOLIANTE: Alisa la textura de la piel, unifica visiblemente el tono y mejora la luminosidad con el uso diario.
+- IDEAL PARA USO NOCTURNO: Aplicar una vez al día, preferiblemente por la noche, evitando el contacto con zonas sensibles como los ojos.
+- POTENCIADO CON UN 7 % DE ÁCIDO GLICÓLICO: Favorece un tono de piel más uniforme, reduce la aparición de líneas de expresión y arrugas y potencia la luminosidad.
+- FÓRMULA MULTIFUNCIONAL: También se puede aplicar en el cuero cabelludo para hidratar y reequilibrar la piel seca.
+- CON EXTRACTOS DE ORIGEN VEGETAL: Contiene pimienta de Tasmania, un conocido antiirritante, junto con aloe y ginseng.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DMTDN158{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CALIDAD Y PASIÓN CORSINI: Desde hace 50 años, Corsini selecciona y tuesta los mejores granos de café, ofreciendo mezclas de alta calidad para un café auténtico y aromático. Tradición e innovación para un sabor único
 - CAFÉ EN GRANO ESPRESSO: Mezcla de granos seleccionados y tostados para un café intenso y cremoso. El tueste resalta notas persistentes y fragancias intensas, manteniendo frescura y aroma gracias al envasado en atmósfera protectora
-- EXPERIENCIA GOURMET EN CASA: Lleva el placer del café artesanal directamente a tu hogar con un café que combina tradición y calidad, para una experiencia que te hará sentir como en el bar, cada día
+- CALIDAD Y PASIÓN CORSINI: Desde hace 50 años, Corsini selecciona y tuesta los mejores granos de café, ofreciendo mezclas de alta calidad para un café auténtico y aromático. Tradición e innovación para un sabor único
 - CASA DULCE CASA: Selección de café en grano con mezclas de sabor intenso y equilibrado. Incluye Espresso y Crema, para un café con cuerpo, cremoso y aromático, ideal para cualquier momento del día
+- EXPERIENCIA GOURMET EN CASA: Lleva el placer del café artesanal directamente a tu hogar con un café que combina tradición y calidad, para una experiencia que te hará sentir como en el bar, cada día
 - CAFÉ EN GRANO CREMA: Mezcla de cafés arábica y robusta de alta calidad, con un sabor equilibrado y cremoso. Las notas de cacao amargo se realzan con un tueste que resalta sus características organolépticas únicas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

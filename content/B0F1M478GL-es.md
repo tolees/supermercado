@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ALTA DOSIFICACIÓN – SUMINISTRO PARA 2 MESES: Cada porción diaria (2 cápsulas veganas) contiene 1000 mg de curcumina NovaSOL patentada, de los cuales 60 mg son curcuminoides puros. Un envase con 120 cápsulas ofrece un suministro cómodo para 2 meses.
-- ALTA BIODISPONIBILIDAD: Las cápsulas GEN Curcumin utilizan una fórmula micelar líquida avanzada que proporciona una biodisponibilidad 185 veces mayor en comparación con los extractos estándar. Esto garantiza una absorción óptima de los nutrientes, confirmada en un estudio clínico.
 - USO FÁCIL: Tomar solo 2 cápsulas al día con suficiente líquido – práctico, rápido y fácil de integrar en la rutina diaria.
-- POR DEPORTISTAS, PARA DEPORTISTAS: Desde 2016, German Elite Nutrition produce complementos alimenticios de alta calidad con sello de marca alemana. Nuestros productos se elaboran a partir de materias primas seleccionadas según estrictos estándares de calidad, con un enfoque en la fiabilidad y la pureza.
 - VEGANO Y SIN ADITIVOS INNECESARIOS: Nuestras cápsulas GEN Curcumin son 100 % veganas y se elaboran sin estearato de magnesio, aromas, colorantes, gelatina, lactosa, gluten ni organismos modificados genéticamente.
+- ALTA BIODISPONIBILIDAD: Las cápsulas GEN Curcumin utilizan una fórmula micelar líquida avanzada que proporciona una biodisponibilidad 185 veces mayor en comparación con los extractos estándar. Esto garantiza una absorción óptima de los nutrientes, confirmada en un estudio clínico.
+- POR DEPORTISTAS, PARA DEPORTISTAS: Desde 2016, German Elite Nutrition produce complementos alimenticios de alta calidad con sello de marca alemana. Nuestros productos se elaboran a partir de materias primas seleccionadas según estrictos estándares de calidad, con un enfoque en la fiabilidad y la pureza.
+- ALTA DOSIFICACIÓN – SUMINISTRO PARA 2 MESES: Cada porción diaria (2 cápsulas veganas) contiene 1000 mg de curcumina NovaSOL patentada, de los cuales 60 mg son curcuminoides puros. Un envase con 120 cápsulas ofrece un suministro cómodo para 2 meses.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F1M478GL{{</world>}}

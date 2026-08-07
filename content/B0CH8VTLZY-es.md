@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - MODO DE EMPLEO: Para que el acondicionador funcione correctamente, agítalo bien antes de usar para mezclar completamente las dos fases, pulveriza sobre el cabello seco o húmedo y peina como de costumbre. No necesita aclarado y se puede utilizar a diario.
 - HIDRATACIÓN PROFUNDA: El acondicionador bifásico es ideal si buscas una hidratación rápida y efectiva para tu cabello. La proteína de seda, presente en la fórmula, penetra en la estructura capilar, proporcionando hidratación, suavidad y brillo al cabello.
-- SOBRE NOSOTROS: En ANIAN nos comprometemos a ofrecer productos de higiene personal de alta calidad con un 90% de origen natural. Por ello, apostamos por la naturaleza combinada con la investigación e innovación, para conseguir los mejores beneficios.
 - ACONDICIONADOR SIN ACLARADO: El acondicionador bifásico Hidratación de Anian está formulado con proteína de seda, trigo y queratina para un cuidado intenso del cabello. La combinación de estos ingredientes hidratan el pelo desde la raíz hasta las puntas.
+- SOBRE NOSOTROS: En ANIAN nos comprometemos a ofrecer productos de higiene personal de alta calidad con un 90% de origen natural. Por ello, apostamos por la naturaleza combinada con la investigación e innovación, para conseguir los mejores beneficios.
 - DESENREDA Y CONTROLA EL ENCRESPAMIENTO: Ofrece una doble función al desenredar eficazmente tu cabello y controlar el encrespamiento. Retiene la humedad en el interior de la estructura capilar, contribuyendo a un cabello más resistente y fácil de peinar.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

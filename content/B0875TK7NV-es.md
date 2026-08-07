@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Complemento alimenticio que ayuda a la quema de grasa.
-- No recomendado a menores de 12 años. No recomendado en caso de tratamiento concomitante con diuréticos. Contiene cafeína.
 - Uriach Consumer Healthcare, S.L. Av. Camin Reial, 51-57 08184 Palau-solità i Plegamans (Barcelona)
-- Modo de empleo: Tomar 1 stick diario diluido en un litro de agua para beber durante el día.
-- AQUILEA Quemagrasas 15 Sticks Solubles Sabor Fresa - Para Favorecer a la Quema de Grasa - Complemento Alimenticio
 - Composición: Guaraná 30mg, Té verde 37.5mg, Diente de león 27mg, Cola de Caballo 67.5mg, Ulmaria 54mg, Hibiscus 30mg, Rabos de Cereza 22.5mg y Alcachofa 23.3mg.
+- AQUILEA Quemagrasas 15 Sticks Solubles Sabor Fresa - Para Favorecer a la Quema de Grasa - Complemento Alimenticio
+- Modo de empleo: Tomar 1 stick diario diluido en un litro de agua para beber durante el día.
+- No recomendado a menores de 12 años. No recomendado en caso de tratamiento concomitante con diuréticos. Contiene cafeína.
+- Complemento alimenticio que ayuda a la quema de grasa.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0875TK7NV{{</world>}}

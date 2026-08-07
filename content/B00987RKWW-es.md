@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Triple acción despigmentante: Aclara, Reduce y Previene la aparición de las manchas.
 - Serum despigmentante que puedes usar todo el año, con activos liposomados que mejoran la apariencia de las manchas y homogeneizan el tono de la piel.
+- Triple acción despigmentante: Aclara, Reduce y Previene la aparición de las manchas.
 - Es un serum de base, que puedes usar durante todo el año, incluso en verano, junto a tu crema habitual y antes de aplicar el protector solar.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

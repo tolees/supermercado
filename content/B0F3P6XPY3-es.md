@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- SIN AZÚCAR, MENOS PLÁSTICO ¿Sabías que aproximadamente 1.2 millones de botellas de plástico se usan cada minuto y solo el 9% se recicla? Nuestros cubos no solo requieren una cantidad mínima de plástico en comparación con una botella convencional, sino que además son reciclables y están hechos de polipropileno, la opción más ecológica disponible.
 - ¡Nuestra nueva colección efervescente trae un giro divertido y refrescante a tu hidratación! Con tres sabores burbujeantes favoritos – LIMÓN LIMA, COLA y NARANJA – cada cubo está lleno de efervescencia y un sabor simplemente soda-mente delicioso. ¡Fácil de preparar, irresistiblemente sabroso y completamente libre de azúcar! ¿Qué más se puede pedir? Tip: Sírvelo con agua con gas para potenciar aún más tu bebida.
 - ¿CÓMO PREPARARLO? Simplemente coloca un cubo en 400-600 ml de agua con gas (o agua natural, si prefieres menos burbujas), espera a que se disuelva y sírvelo con hielo para una refrescante explosión de sabor.
-- SIN AZÚCAR, MENOS PLÁSTICO ¿Sabías que aproximadamente 1.2 millones de botellas de plástico se usan cada minuto y solo el 9% se recicla? Nuestros cubos no solo requieren una cantidad mínima de plástico en comparación con una botella convencional, sino que además son reciclables y están hechos de polipropileno, la opción más ecológica disponible.
 - VITAMINAS ESENCIALES Y SIN AZÚCAR Es como una limonada, pero sin azúcar. Enriquecidos con vitaminas esenciales B y C, cada cubo de hidratación está lleno de todo el sabor natural de la fruta, sin conservantes artificiales.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

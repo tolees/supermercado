@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Caramelos de goma
 - Mix de tus piezas favoritas con recubrimiento azúcar
+- Caramelos de goma
 - Ositos, besitos nata-fresa, plátano, corazón-melocotón y fresa-nata
 
 [🛒 Aquí!!!]({{< param buyurl >}})

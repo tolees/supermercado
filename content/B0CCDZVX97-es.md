@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Nuestra nueva tecnología AirFoam proporciona espuma de leche de alta calidad que incluso puedes disfrutar con la cuchara pequeña.
-- Las cápsulas de café Nescafe Dolce Gusto NEO de papel ofrecen mucho más que una taza deliciosa. Son compostables* y se descomponen en su compost en aproximadamente 6 meses. Los retrasos dependen de varios factores, como la temperatura y la humedad. *Reconocido por TÜV Austria
-- Productos compatibles solo con la máquina NEO de NESCAFÉ Dolce Gusto
-- Únase al programa de fidelización PREMIO conectando su máquina a la aplicación a través de Bluetooth y WiFi, y gane puntos PREMIO automáticamente con cada bebida preparada.
 - 6 cápsulas de café y 6 sobres de leche para 6 capuchinos NEO de NESCAFÉ Dolce Gusto, la combinación de café premium, suministro 100 % responsable y espuma de leche cremosa
+- Únase al programa de fidelización PREMIO conectando su máquina a la aplicación a través de Bluetooth y WiFi, y gane puntos PREMIO automáticamente con cada bebida preparada.
+- Nuestra nueva tecnología AirFoam proporciona espuma de leche de alta calidad que incluso puedes disfrutar con la cuchara pequeña.
+- Productos compatibles solo con la máquina NEO de NESCAFÉ Dolce Gusto
+- Las cápsulas de café Nescafe Dolce Gusto NEO de papel ofrecen mucho más que una taza deliciosa. Son compostables* y se descomponen en su compost en aproximadamente 6 meses. Los retrasos dependen de varios factores, como la temperatura y la humedad. *Reconocido por TÜV Austria
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CCDZVX97{{</world>}}

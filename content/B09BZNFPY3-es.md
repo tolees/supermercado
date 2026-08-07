@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Maxima calidad
-- Irresistible turrón de chocolate con leche, relleno cremoso y galleta
 - Turrón nestlé jungly
 - Turrón de chocolate con leche y galleta
+- Irresistible turrón de chocolate con leche, relleno cremoso y galleta
+- Maxima calidad
 - Nestlé jungly ahora en su versión más navideña
 
 [🛒 Aquí!!!]({{< param buyurl >}})

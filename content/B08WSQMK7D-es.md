@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CERTIFICACIÓN RAINFOREST ALLIANCE: La procedencia del café utilizado para este producto goza de la certificación Rainforest Alliance, lo que significa que no solo sabe bien, sino que también tiene un impacto positivo. Con cada compra, ayuda a cientos de agricultores y sus familias en todo el mundo, además de aportar su granito a la selva tropical; beber mejor es hacerlo mejor
-- CALIDAD: Envasado en atmósfera protectora para mantener la frescura
-- FACILIDAD DE USO: Adecuado para todas las preparaciones dependiendo de la molienda. Expreso = fina. Filtro = media. Italiana = media. Émbolo = gruesa
-- 100% ARABICA
-- FUENTE: Tostado y envasado en Bélgica
 - INTENSIDAD: 3/5
+- FACILIDAD DE USO: Adecuado para todas las preparaciones dependiendo de la molienda. Expreso = fina. Filtro = media. Italiana = media. Émbolo = gruesa
+- CALIDAD: Envasado en atmósfera protectora para mantener la frescura
+- CERTIFICACIÓN RAINFOREST ALLIANCE: La procedencia del café utilizado para este producto goza de la certificación Rainforest Alliance, lo que significa que no solo sabe bien, sino que también tiene un impacto positivo. Con cada compra, ayuda a cientos de agricultores y sus familias en todo el mundo, además de aportar su granito a la selva tropical; beber mejor es hacerlo mejor
+- 100% ARABICA
 - IMPORTANTE: Puede variar el color del embalaje del producto
+- FUENTE: Tostado y envasado en Bélgica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08WSQMK7D{{</world>}}

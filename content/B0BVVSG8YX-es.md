@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuidado suave para dientes sensibles: la hidroxiapatita puede sellar túbulos dentinarios y ayudar a reducir la sensibilidad al frío, al calor o a los ácidos
-- Fórmula vegana y moderna: libre de dióxido de titanio, parabenos, microplásticos y conservantes. A partir de 6 años
-- Dientes naturalmente más claros: gracias a las superficies de los dientes alisadas, los dientes se ven visualmente más claros, sin blanqueadores agresivos
-- Con ingredientes probióticos: fórmula especialmente desarrollada con aditivos probióticos que ayudan a mantener una flora oral equilibrada
 - Remineralización y protección dental: con hidroxiapatita ("esmalte líquido") y fluoruro (1450 ppm F) que remineralizan y fortalecen el esmalte
+- Fórmula vegana y moderna: libre de dióxido de titanio, parabenos, microplásticos y conservantes. A partir de 6 años
+- Con ingredientes probióticos: fórmula especialmente desarrollada con aditivos probióticos que ayudan a mantener una flora oral equilibrada
+- Dientes naturalmente más claros: gracias a las superficies de los dientes alisadas, los dientes se ven visualmente más claros, sin blanqueadores agresivos
+- Cuidado suave para dientes sensibles: la hidroxiapatita puede sellar túbulos dentinarios y ayudar a reducir la sensibilidad al frío, al calor o a los ácidos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BVVSG8YX{{</world>}}

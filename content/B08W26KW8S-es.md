@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Maridaje versátil: suculentos guisos de legumbres, aves de corral y sus arroces, cefalópodos como el pulpo, pescados azules, chacinas, hongos salteados o guisados, tortillas, empanadas (también de pescado) y ensaladas correctamente aliñadas. Ideal para comidas especiales, celebraciones y reuniones con amigos.
 - En Viñedos y Bodegas Pittacum elaboramos vinos de carácter atlántico, buscando la expresión real de la uva Mencía procedente de viñas centenarias con más de 80 años de edad en el corazón del Bierzo, rindiendo homenaje a la tradición vitivinícola de la región. Desde 2002 Pittacum forma parte del Grupo Terras Gauda.
-- Val de la Osa es intenso, la fruta seduce la nariz, violetas, la barrica escondida. Elegante y complejo. Equilibrio en boca, denso, suave, fresco y final largo.
 - Vino tinto 100% Mencía bajo la Denominación de Origen Bierzo. Cepas de Mencía centenarias sobre suelos francos en pendiente, profundos, bien drenados y de fertilidad moderada, que aportan vigor contenido y correcta maduración. Viñedos de alta densidad con todas las intervenciones y cuidados manuales. Identidad fiel al terruño berciano y a la tradición de viñedo antiguo.
 - La uva llega a la bodega en pequeñas cajas de 12Kg de capacidad. Racimo a racimo son escogidos en la mesa de selección. A continuación, la vendimia, previo despalillado y sin estrujado se conduce a pequeños depósitos de 20 hl donde fermentan durante 20 días a 28 grados. Solamente bazuqueamos, sin remontar, con la idea de hacer una extracción selectiva y preservar toda su fruta. A continuación, el vino es criado durante 12 meses en barrica de un año de roble francés, consiguiendo de esta manera menor aporte de tanino y menor presencia de madera.
+- Val de la Osa es intenso, la fruta seduce la nariz, violetas, la barrica escondida. Elegante y complejo. Equilibrio en boca, denso, suave, fresco y final largo.
+- Maridaje versátil: suculentos guisos de legumbres, aves de corral y sus arroces, cefalópodos como el pulpo, pescados azules, chacinas, hongos salteados o guisados, tortillas, empanadas (también de pescado) y ensaladas correctamente aliñadas. Ideal para comidas especiales, celebraciones y reuniones con amigos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08W26KW8S{{</world>}}

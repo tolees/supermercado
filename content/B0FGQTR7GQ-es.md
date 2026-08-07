@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Essential Scrub exfolia la piel de forma suave y reduce la apariencia de los poros, promoviendo una piel renovada y luminosa.
 - Reduce los poros obstruidos hasta en un 98%¹, minimizando su apariencia.
+- Essential Scrub exfolia la piel de forma suave y reduce la apariencia de los poros, promoviendo una piel renovada y luminosa.
 - Proporciona una limpieza profunda y eficaz, indicada para el uso diario.
 - Contiene partículas exfoliantes suaves que eliminan las células muertas, favoreciendo el proceso de renovación de la piel.
 

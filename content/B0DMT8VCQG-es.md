@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 🌿【INGREDIENTES NATURALES】Los cosméticos InnovaGoods mejoran la salud y la belleza de la piel con extractos de plantas, aceites vegetales y principios activos novedosos. Su propósito diferenciador es alimentar la piel con formulaciones nutricosméticas que aportan un cuidado integral y contribuyen al bienestar general.
 - 🧴【MODO DE EMPLEO】Aplicar el gel limpiador sobre el rostro, previamente humedecido, realizando movimientos circulares y aclarar con abundante agua. Uso diario. Apto para todo tipo de piel. Contiene 200 ml. Para el tónico aplicar sobre el rostro con un algodón. Uso diario. Todo tipo de piel. Contiene 150 ml.
+- 🌿【INGREDIENTES NATURALES】Los cosméticos InnovaGoods mejoran la salud y la belleza de la piel con extractos de plantas, aceites vegetales y principios activos novedosos. Su propósito diferenciador es alimentar la piel con formulaciones nutricosméticas que aportan un cuidado integral y contribuyen al bienestar general.
+- 💚【COSMÉTICA VEGANA】InnovaGoods promueve una cosmética natural y sostenible, amigable con el entorno y el microbioma, que se integra en un estilo de vida saludable y respetuoso con el medio ambiente.
 - 🤩【TÓNICO FACIAL】El tónico facial hidratante y exfoliante Joyfresh InnovaGoods Rice es liposoluble, purifica, tonifica, ilumina, hidrata y calma la piel, equilibra el PH y proporciona elasticidad.
 - 🤩【GEL LIMPIADOR】El gel limpiador facial Joypure InnovaGoods Rice limpia la piel de restos de maquillaje, impurezas y otros agentes (sudor, polución, etc.) manteniéndola sana y cuidada. Hidrata, calma, ilumina, proporciona elasticidad, antirritación, desensibilizante, prepara la piel para la aplicación de otros cosméticos.
-- 💚【COSMÉTICA VEGANA】InnovaGoods promueve una cosmética natural y sostenible, amigable con el entorno y el microbioma, que se integra en un estilo de vida saludable y respetuoso con el medio ambiente.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DMT8VCQG{{</world>}}

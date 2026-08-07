@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Es la prueba de una de las prácticas distintivas de la destilería Jack Daniels: la elaboración de licores usando agua de manantial que cubre las piedras calizas de una cueva ubicada a dos millas de profundidad
-- Sabor y final: Sabor intenso de miel y final de frutos secos. Gracias al carácter atrevido del Whiskey Old No. 7, las notas intensas de miel y el final de frutos secos
-- Jack Daniels Tennessee Honey es la mezcla perfecta entre el maíz, el centeno y la cebada con un toque de miel
 - Jack Daniel’s Tennessee Honey es la combinación de Jack Daniel’s Tennessee Whiskey con un delicioso y exclusivo licor de miel de elaboración propia que presenta notas de melaza, arce y castaña
+- Sabor y final: Sabor intenso de miel y final de frutos secos. Gracias al carácter atrevido del Whiskey Old No. 7, las notas intensas de miel y el final de frutos secos
 - Whiskey con un suave aroma a miel perfecto para tomar bien frío o como base en combinados y para los amantes de destilados suaves y amables dejando una sensación suave al paladar
+- Es la prueba de una de las prácticas distintivas de la destilería Jack Daniels: la elaboración de licores usando agua de manantial que cubre las piedras calizas de una cueva ubicada a dos millas de profundidad
+- Jack Daniels Tennessee Honey es la mezcla perfecta entre el maíz, el centeno y la cebada con un toque de miel
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0GPXZTLQ2{{</world>}}

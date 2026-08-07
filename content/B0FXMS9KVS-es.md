@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- RESISTENTE AL AGUA Y AL MAQUILLAJE: Esta bruma facial mantiene la piel protegida sin alterar el acabado del maquillaje ni perder efectividad del protector facial solar 50.
 - FÓRMULA REFRESCANTE Y DE ABSORCIÓN INMEDIATA: Esta bruma solar 50 facial deja un tacto sedoso sin sensación grasa, ideal para el uso diario además asegura una proteccion solar 50 facial perfecta.
 - BRUMA FACIAL SPF 50 CON ALOE Y NIACINAMIDA: Protección solar 50 facial alta con efecto calmante para todo tipo de pieles, incluso las más sensibles.
 - APLICACIÓN EN 360º (BOCA ARRIBA Y ABAJO): Bruma facial solar ligera y uniforme que facilita su uso en cualquier momento y lugar es un perfecto protector solar 50 bruma.
-- RESISTENTE AL AGUA Y AL MAQUILLAJE: Esta bruma facial mantiene la piel protegida sin alterar el acabado del maquillaje ni perder efectividad del protector facial solar 50.
 - PROTECTOR SOLAR CARA COMPLETA UVB-UVA-IR-HEV: Defiende la piel contra los daños solares, la luz azul y los radicales libres es un perfecto protector solar 50.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

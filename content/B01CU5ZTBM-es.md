@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CHICLE SIN ALÉRGENOS: PÜR Gum está hecho para ti. Somos veganos, no modificados genéticamente, sin azúcar, sin gluten, sin soja, sin frutos secos ni cacahuetes, aptos para ceto y diabéticos y fabricados en Suiza. CHICLE ADECUADO PARA DIABÉTICOS: el xilitol es uno de los edulcorantes con menor índice glucémico. Todo el mundo puede masticar con seguridad PÜR Gum sin que se eleven los niveles de azúcar en sangre. CHICLE RECOMENDADO POR DENTISTAS: El xilitol reduce las bacterias que causan caries, reduce la acumulación de placa y estimula la saliva para eliminar las bacterias y mejorar la salud bucal.
 - CINNAMON: ¡Este chicle sin azúcar tiene un intenso y ardiente sabor! Disfruta de la sabrosa combinación de canela dulce y picante. Viene en una bolsa recerrable. CHICLE SIN AZÚCAR: Endulzado naturalmente con 100% de xilitol. El xilitol es una azúcar alcohol totalmente natural que se ve y sabe igual que el azúcar, pero tiene un 40% menos de calorías.
+- CHICLE SIN ALÉRGENOS: PÜR Gum está hecho para ti. Somos veganos, no modificados genéticamente, sin azúcar, sin gluten, sin soja, sin frutos secos ni cacahuetes, aptos para ceto y diabéticos y fabricados en Suiza. CHICLE ADECUADO PARA DIABÉTICOS: el xilitol es uno de los edulcorantes con menor índice glucémico. Todo el mundo puede masticar con seguridad PÜR Gum sin que se eleven los niveles de azúcar en sangre. CHICLE RECOMENDADO POR DENTISTAS: El xilitol reduce las bacterias que causan caries, reduce la acumulación de placa y estimula la saliva para eliminar las bacterias y mejorar la salud bucal.
 - Swiss Consumer Goods GmbH, Rudolf-Diesel-Strasse 24, 64625 Bensheim,Deutschland
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

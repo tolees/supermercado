@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin aceite de palma
 - 0% azúcares añadidos
+- Sin aceite de palma
 - Solo 65 kcal por barrita
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - FÓRMULA TOXIC FREE| Este combo perfecto mejora la salud capilar, define los rizos y combate el frizz con ingredientes 100% seguros y libres de tóxicos, siliconas ni sulfatos.
-- ¿QUÉ CONTIENE? | Acondicionador sin aclarado, CURL MOISTURIZER LEAVE-IN, que desenreda, define e hidrata tus rizos + Gel definidor, CURL BOOSTER que define y nutre eliminando el frizz y SPRAY FIJADOR 100% natural
-- NUTRE, DEFINE Y FIJA EL RIZO | Este pack contiene la combinación de productos definitiva para definir, nutrir y fijar tus rizos. Es la rutina más ágil y efectiva para unos rizos perfectos en tiempo record, y desde tu casa.
 - MODO DE USO | Tras el lavado, divide el cabello húmedo en secciones. Aplica CURL MOISTURIZER LEAVE-IN de medios a puntas y luego usa CURL BOOSTER con la técnica del raking/rastrillo. Fija aplicando CURL SPRAY haciendo pulsing hacia arriba.
 - ANTI FRIZZ, HOLA DEFINICIÓN | Su combinación de activos revive tus rizos, definiendo y combatiendo la pérdida de hidratación del cabello para que le digas adiós al encrespamiento incluso en los días de lluvia.
+- NUTRE, DEFINE Y FIJA EL RIZO | Este pack contiene la combinación de productos definitiva para definir, nutrir y fijar tus rizos. Es la rutina más ágil y efectiva para unos rizos perfectos en tiempo record, y desde tu casa.
+- ¿QUÉ CONTIENE? | Acondicionador sin aclarado, CURL MOISTURIZER LEAVE-IN, que desenreda, define e hidrata tus rizos + Gel definidor, CURL BOOSTER que define y nutre eliminando el frizz y SPRAY FIJADOR 100% natural
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DP7WK7F1{{</world>}}

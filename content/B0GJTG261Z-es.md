@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- COMBATE EL ENVEJECIMIENTO CAPILAR: La exclusiva tecnología de Cantabria Labs, MetforHair, potencia la resiliencia capilar para un cabello más joven y protegido.
 - EXPERIENCIA Y COMPROMISO: Cantabria Labs es una marca de referencia en prescripción dermatológica en Europa (líder en España, Italia y Portugal). Conseguido gracias a una sólida historia de innovación y al rigor científico, y también a la toma de decisiones guiadas por el compromiso con la salud, la sociedad y la mejora de la calidad de vida de las personas.
 - MODO DE USO: Se recomienda agitar antes de usar, aplicar pulverizando el producto sobre la palma de la mano y aplicando de medios a puntas de forma homogénea sobre el cabello húmedo o seco. Completar desenredando y peinando como de costumbre.
-- ACONDICIONADOR Y PROTECTOR TÉRMICO SIN ACLARADO: Acondicionador sin aclarado que aporta 10 beneficios: mejora la suavidad y elasticidad, reestructura el cabello seco y dañado, refuerza y aumenta la resistencia a la rotura, acondiciona y desenreda, mejora la manejabilidad, reduce el frizz, protege frente el daño térmico, mejora le brillo, protege el color de la fibra, y refresca el peinado.
 - COMPOSICIÓN: Compuesto por MetforHair y un complejo de Proteínas Hidrolizadas.
+- COMBATE EL ENVEJECIMIENTO CAPILAR: La exclusiva tecnología de Cantabria Labs, MetforHair, potencia la resiliencia capilar para un cabello más joven y protegido.
+- ACONDICIONADOR Y PROTECTOR TÉRMICO SIN ACLARADO: Acondicionador sin aclarado que aporta 10 beneficios: mejora la suavidad y elasticidad, reestructura el cabello seco y dañado, refuerza y aumenta la resistencia a la rotura, acondiciona y desenreda, mejora la manejabilidad, reduce el frizz, protege frente el daño térmico, mejora le brillo, protege el color de la fibra, y refresca el peinado.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GJTG261Z{{</world>}}

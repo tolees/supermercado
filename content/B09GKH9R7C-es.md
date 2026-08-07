@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - TECNOLOGÍA AVANZADA: Equipada con dos alturas de la rejilla, parada automática, cantidad programable, stand-by automático cuando no se utiliza y descalcificación automática
 - DISEÑO MINIMALISTA Y ELEGANTE: El estilo minimalista y esencial, obra del arquitecto Piero Lissoni, ofrece una experiencia sencilla e intuitiva, haciendo que esta máquina de café sea adecuada para cualquier tipo de ambiente y necesidad
-- SISTEMA IPERESPRESSO: La máquina de café Y3.3, compatible con las cápsulas Iperespresso, está diseñada para ofrecer un espresso con una calidad siempre constante incluso en casa; la excelencia de nuestra mezcla en un práctico formato
-- ESPRESSO Y CAFÉ AMERICANO: La máquina es adecuada para preparar un espresso al estilo italiano y deliciosos cafés americanos para preparar un café tan bueno en casa como en el bar
 - NUESTRO COMPROMISO: illy combina la experiencia y la investigación de una mezcla aromática con la tecnología Iperespresso para ofrecerte cada día un espresso con una crema persistente, que puedes preparar fácilmente con resultados inigualables
+- ESPRESSO Y CAFÉ AMERICANO: La máquina es adecuada para preparar un espresso al estilo italiano y deliciosos cafés americanos para preparar un café tan bueno en casa como en el bar
+- SISTEMA IPERESPRESSO: La máquina de café Y3.3, compatible con las cápsulas Iperespresso, está diseñada para ofrecer un espresso con una calidad siempre constante incluso en casa; la excelencia de nuestra mezcla en un práctico formato
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09GKH9R7C{{</world>}}

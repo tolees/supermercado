@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- ESTA BOTELLA está fabricada con un 40% de plástico reciclado (excluyendo tapas, tintas y etiquetas)
+- CUIDADO PARA EL CUERO CABELLUDO CLÍNICAMENTE PROBADO. Nuestro champú anticaspa DermaXPro Soothing Comfort está clínicamente probado y ayuda a restaurar las ceramidas de la piel y reduce el picor* del cuero cabelludo. (*relacionado con la caspa)
+- DERMATOLOGICAMENTE TESTADO. El champú DermaXPro para el cuero cabelludo actúa con suavidad en el cuero cabelludo y el pelo
+- CON EXTRACTO DE ALOE VERA Y COMPLEJO DE CERAMIDAS. Nuestra fórmula experta, diseñada para cuidar de cueros cabelludos secos y con picor*, contiene extracto de aloe vera, piroctona olamina y ceramidas. (*relacionado con la caspa)
 - CHAMPÚ CALMANTE ANTICASPA. Alivia al instante el cuero cabelludo seco y con picor debido a la caspa. Con un uso regular, actúa sobre la superficie del cuero cabelludo y ayuda a restaurar los niveles de ceramidas y repara la sequedad de la piel
 - PROTECCIÓN ESPECÍFICA CONTRA LA CASPA. Ataca el origen de la caspa con un champú que limpia y suaviza el cuero cabelludo. Hidrata la piel y la revitaliza, ayudando a prevenir la pérdida de hidratación y a eliminar la caspa
-- CON EXTRACTO DE ALOE VERA Y COMPLEJO DE CERAMIDAS. Nuestra fórmula experta, diseñada para cuidar de cueros cabelludos secos y con picor*, contiene extracto de aloe vera, piroctona olamina y ceramidas. (*relacionado con la caspa)
-- ESTA BOTELLA está fabricada con un 40% de plástico reciclado (excluyendo tapas, tintas y etiquetas)
-- DERMATOLOGICAMENTE TESTADO. El champú DermaXPro para el cuero cabelludo actúa con suavidad en el cuero cabelludo y el pelo
-- CUIDADO PARA EL CUERO CABELLUDO CLÍNICAMENTE PROBADO. Nuestro champú anticaspa DermaXPro Soothing Comfort está clínicamente probado y ayuda a restaurar las ceramidas de la piel y reduce el picor* del cuero cabelludo. (*relacionado con la caspa)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BDXP1TSQ{{</world>}}

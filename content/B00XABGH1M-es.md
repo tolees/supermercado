@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Viene en un recipiente de vidrio
-- Ideal para el desayuno o una pausa durante el día
 - Se disuelve en agua o leche
+- Viene en un recipiente de vidrio
 - Fácil y rápido de preparar
+- Ideal para el desayuno o una pausa durante el día
 - Conservar en lugar fresco y seco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

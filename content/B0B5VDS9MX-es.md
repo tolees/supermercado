@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Su fórmula con Ácido Oleico y Aceite de Marula, nutre intensamente para un aspecto brillante y saludable reduciendo hasta un 89% la rotura.
 - Desenreda el cabello al instante aportando suavidad.
+- Su fórmula con Ácido Oleico y Aceite de Marula, nutre intensamente para un aspecto brillante y saludable reduciendo hasta un 89% la rotura.
 - Las fórmulas de Gliss con activos capilares avanzados + tesoros de la naturaleza reparan los daños existentes mejoran visiblemente la calidad del cabello.
-- APLICACIÓN: Agitar antes de usar. Aplicar después de cada lavado sobre el cabello seco o húmedo secado con una toalla. NO ACLARAR. No vaporizar hacia los ojos. Proteger de la luz solar directa y de la congelación. Guardar en posición vertical.
 - El Spray Acondicionador Express Gliss Oil Nutritive es adecuado para el cabello muy seco, áspero y quebradizo. 90% de ingredientes de origen natural incluyendo agua.
+- APLICACIÓN: Agitar antes de usar. Aplicar después de cada lavado sobre el cabello seco o húmedo secado con una toalla. NO ACLARAR. No vaporizar hacia los ojos. Proteger de la luz solar directa y de la congelación. Guardar en posición vertical.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B5VDS9MX{{</world>}}

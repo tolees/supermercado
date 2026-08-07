@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mantén la luminosidad y claridad de tu tono rubio con pigmentos fríos específicos que realzan el matiz sin alterar el color natural de tu cabello.
-- Fortalece tu cabello con la tecnología Bond Repair, que repara los daños causados ​​por hasta dos tratamientos de decoloración con un solo lavado.
-- Limpia y cuida suavemente tu cabello con una fórmula enriquecida con aceite de almendras y aciano, para un cabello suave, liso y radiante.
 - Disfruta cada día de un cabello suave y fácil de peinar con este champú suave que mejora la manejabilidad y aporta a tu rubio un brillo duradero.
+- Mantén la luminosidad y claridad de tu tono rubio con pigmentos fríos específicos que realzan el matiz sin alterar el color natural de tu cabello.
+- Limpia y cuida suavemente tu cabello con una fórmula enriquecida con aceite de almendras y aciano, para un cabello suave, liso y radiante.
+- Fortalece tu cabello con la tecnología Bond Repair, que repara los daños causados ​​por hasta dos tratamientos de decoloración con un solo lavado.
 - Neutraliza sin esfuerzo los tonos amarillos y los reflejos cálidos con BLONDME Bond Repair Purple Shampoo Cool de Schwarzkopf Professional, perfecto para cabello rubio.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

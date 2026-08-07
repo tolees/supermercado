@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ofrece una deliciosa combinación de cremosos y fundentes bombones de chocolate blanco, chocolate negro y chocolate con leche con diferentes e irresistibles adiciones
-- Bombones especialmente pensados para regalar, siempre quedas bien en cualquier celebración
 - 100% cacao de cultivo sostenible seleccionado
+- Bombones especialmente pensados para regalar, siempre quedas bien en cualquier celebración
+- Ofrece una deliciosa combinación de cremosos y fundentes bombones de chocolate blanco, chocolate negro y chocolate con leche con diferentes e irresistibles adiciones
 - Se fabrica en La Penilla (Cantabria), con leche fresca recogida diariamente en la cornisa cantábrica
 - Delicioso surtido de 22 bombones de chocolate con leche, negro y blanco de calidad con 100% aromas naturales
 

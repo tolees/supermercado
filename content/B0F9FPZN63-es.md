@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Contenido del paquete: 1 tubo de pasta de dientes, 75 ml. Es adecuado para adultos y niños mayores de 12 años
 - Diseñado para eliminar físicamente la causa del sangrado de encías actuando sobre las bacterias que crecen a lo largo de la línea de las encías
 - La pasta dental diaria Parodontax Encias + Aliento Blanqueante ha sido diseñada para detener y prevenir el sangrado ocasional de las encías, Ayuda a la conservación de las encías sanas, dientes fuertes y aliento fresco
-- Contenido del paquete: 1 tubo de pasta de dientes, 75 ml. Es adecuado para adultos y niños mayores de 12 años
 - Específicamente formulado para proporcionar una sensación de frescura y limpieza en la boca durante horas, eficaz contra la placa dental, cepillado 2 veces al día
 - Cepillado de dientes recomendado dos veces al día para una máxima eficiencia, No exceda de 3 cepillos, no trague la pasta de dientes, escupir después del cepillado, Detener el uso en caso de irritación
 

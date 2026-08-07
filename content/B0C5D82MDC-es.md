@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CALIDAD GARANTIZADA POR DELTA Q: Cada cápsula encapsula la excelencia de los mejores blends, seleccionados de las grandes regiones cafeteras del mundo. La combinación de calidad, sencillez e innovación permite disfrutar de un café inigualable con cada cápsula.
-- MEZCLA DE GRANOS DE ORIGEN SELECCIONADO: Elaborado con una combinación precisa de robustas africanas y arábicas de Honduras, esta mezcla aporta un espresso con cuerpo, una ligera acidez y matices de caramelo, resaltando la riqueza y complejidad de los mejores cafés del mundo.
 - INTENSIDAD Y CUERPO EQUILIBRADO: Cápsulas de café molido con tueste natural e intensidad 10, ideales para quienes disfrutan de un espresso con cuerpo pronunciado y fuerte presencia en la taza. Su perfil combina una leve acidez con notas dulces de caramelo, ofreciendo una experiencia robusta y placentera.
-- PERFIL SENSORIAL COMPLETO: Un espresso con carácter, muy intenso y con una textura envolvente. Sus notas de caramelo resaltan en cada sorbo, mientras que su perfil sensorial ofrece un aroma de 5 sobre 10, cuerpo de 8 sobre 10, acidez de 4 sobre 10, equilibrio de 6 sobre 10 e intensidad de 10, logrando una armonía perfecta.
 - FORMATO PRÁCTICO Y COMPATIBLE: Presentado en un paquete de 100 cápsulas de café Qalidus, diseñado para ser totalmente compatible con todas las cafeteras Delta Q, garantizando una preparación óptima y una extracción perfecta en cada taza.
+- PERFIL SENSORIAL COMPLETO: Un espresso con carácter, muy intenso y con una textura envolvente. Sus notas de caramelo resaltan en cada sorbo, mientras que su perfil sensorial ofrece un aroma de 5 sobre 10, cuerpo de 8 sobre 10, acidez de 4 sobre 10, equilibrio de 6 sobre 10 e intensidad de 10, logrando una armonía perfecta.
+- MEZCLA DE GRANOS DE ORIGEN SELECCIONADO: Elaborado con una combinación precisa de robustas africanas y arábicas de Honduras, esta mezcla aporta un espresso con cuerpo, una ligera acidez y matices de caramelo, resaltando la riqueza y complejidad de los mejores cafés del mundo.
+- CALIDAD GARANTIZADA POR DELTA Q: Cada cápsula encapsula la excelencia de los mejores blends, seleccionados de las grandes regiones cafeteras del mundo. La combinación de calidad, sencillez e innovación permite disfrutar de un café inigualable con cada cápsula.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C5D82MDC{{</world>}}

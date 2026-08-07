@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bebida saborizada
-- La caja contiene 24 latas
 - Sensación de hidratación
+- La caja contiene 24 latas
+- Bebida saborizada
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01G7F3UGC{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- PIGMENTACIÓN INTENSA Y PROFUNDA: estos tonos con una alta pigmentación le proporcionarán looks duraderos y sin imperfecciones. Consiga looks impresionantes, profesionales y de alta calidad a un precio asequible.
 - SE DIFUMINA CON UNA FACILIDAD ASOMBROSA: los tonos de esta paleta tienen un efecto de larga duración y se pueden difuminar, lo que permite crear una infinidad de magníficos looks que duran todo el día.
+- PIGMENTACIÓN INTENSA Y PROFUNDA: estos tonos con una alta pigmentación le proporcionarán looks duraderos y sin imperfecciones. Consiga looks impresionantes, profesionales y de alta calidad a un precio asequible.
 - CÓMO SE USA: aplicar y difuminar sobre el párpado las sombras elegidas. Pulverizar la brocha de maquillaje con el espray fijador Revolution Hyaluronic para intensificar el pigmento.
 - INCLUYE 15 SOMBRAS: con 7 sedosos acabados brillantes en los colores oro rosa, rosa oscuro, berenjena y cobre. Para conseguir una mayor profundidad e intensidad en la zona de la cuenca, utilice los tonos de transición marrón y beige mate.
 - CRUELTY FREE (SIN CRUELDAD ANIMAL): los productos de Revolution Beauty son cruelty free y siempre lo han sido. Contamos con la certificación de PETA y nunca hemos permitido que se realicen pruebas en animales en ninguna etapa del desarrollo, tanto de los ingredientes como de los productos finales.

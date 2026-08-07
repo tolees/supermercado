@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tableta en envase que conserva su frescura
+- Un perfil de sabor intenso y refinado, compuesto por una mezcla de habas de cacao extra fondant seleccionadas al 80 %.
+- Sin gluten; sin colorantes ni conservantes; sin aceite de palma
 - Con habas de cacao caribeño envejecidas en barricas de ron y habas de cacao ahumado de una apreciada región del Pacífico.
 - Fabricado en Italia según la norma "Buono Buonissimo" ingredientes naturales, menos azúcar, sin componentes artificiales
-- Un perfil de sabor intenso y refinado, compuesto por una mezcla de habas de cacao extra fondant seleccionadas al 80 %.
-- Tableta en envase que conserva su frescura
-- Sin gluten; sin colorantes ni conservantes; sin aceite de palma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DG98W7Q3{{</world>}}

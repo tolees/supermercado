@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aspecto cristalino, líneas suaves y delicadas, buena sensación en la mano. La taza de café con aislamiento de vidrio transparente es perfecta para preparar té, café, café con leche, batidos, postres y zumos y viene con una bonita caja de regalo. Adecuado como regalo de San Valentín, regalo de Navidad.
-- Nuestra taza de café expreso de vidrio de doble pared es un gran accesorio para máquinas de café que funciona perfectamente con máquinas semiautomáticas o de cápsulas, y su capacidad de 122 ml te permite llenar 3-4 dosis de café expreso a la vez. De hecho, las generosas tazas de espresso son lo suficientemente pequeñas como para caber en cualquier máquina.
-- Tazas de espresso con asas prácticas. El mango de cristal está diseñado ergonómicamente para un fácil manejo y evita quemaduras en las manos. Ya sea que se trate de líquido de espresso recién extraído de una prensa francesa o de espuma de leche recién calentada, no quemará tus manos, y también es una buena opción para llevarlo contigo al camping al aire libre.
 - El vaso para Espresso está hecho de vidrio de borosilicato resistente al calor y libre de plomo, que es saludable y respetuoso con el medio ambiente y no contiene sustancias nocivas. Actualmente es un utensilio de bebida ideal. Las tazas de espresso son súper fáciles de limpiar, con un simple lavado a mano para mantenerlas limpias, o aptas para lavavajillas.
+- Nuestra taza de café expreso de vidrio de doble pared es un gran accesorio para máquinas de café que funciona perfectamente con máquinas semiautomáticas o de cápsulas, y su capacidad de 122 ml te permite llenar 3-4 dosis de café expreso a la vez. De hecho, las generosas tazas de espresso son lo suficientemente pequeñas como para caber en cualquier máquina.
+- Aspecto cristalino, líneas suaves y delicadas, buena sensación en la mano. La taza de café con aislamiento de vidrio transparente es perfecta para preparar té, café, café con leche, batidos, postres y zumos y viene con una bonita caja de regalo. Adecuado como regalo de San Valentín, regalo de Navidad.
+- Tazas de espresso con asas prácticas. El mango de cristal está diseñado ergonómicamente para un fácil manejo y evita quemaduras en las manos. Ya sea que se trate de líquido de espresso recién extraído de una prensa francesa o de espuma de leche recién calentada, no quemará tus manos, y también es una buena opción para llevarlo contigo al camping al aire libre.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0G3G7H8YT{{</world>}}

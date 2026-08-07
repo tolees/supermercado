@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- DURACIÓN: fórmula con x4 duración de la fragancia
+- CUIDADO: Ayuda a suavizar las fibras de tu ropa, dejándolas suaves
 - Mimosín es el suavizante que lleva cuidando tu ropa desde hace más de 40 años
 - FRAGANCIA: Mimosín Origins Lirio Cautivador aporta a la ropa una fragancia duradera con notas refrescantes y florales, con una aterciopelada base de vainilla
-- CUIDADO: Ayuda a suavizar las fibras de tu ropa, dejándolas suaves
 - PROTECCIÓN: Protege las fibras de las prendas y preserva el brillo del color
-- DURACIÓN: fórmula con x4 duración de la fragancia
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CX22Y1K5{{</world>}}

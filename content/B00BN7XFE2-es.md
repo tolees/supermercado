@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Disminuye la pérdida de agua
-- Fortalece el tejido celular
-- Regenera la piel
-- Para piel seca o áspera
 - 10% urea para mayor hidratación
+- Para piel seca o áspera
+- Fortalece el tejido celular
+- Disminuye la pérdida de agua
+- Regenera la piel
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00BN7XFE2{{</world>}}

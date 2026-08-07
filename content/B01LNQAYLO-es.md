@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Extracto de cúrcuma (CURSOL): la cúrcuma es ampliamente conocida por sus propiedades antioxidantes y antiinflamatorias.
+- Colágeno hidrolizado: es la proteína más abundante del cuerpo humano; garantiza la cohesión, elasticidad y regeneración de tejidos como la piel, huesos y los cartílagos del cuerpo humano.
 - Contribuye a la salud de los huesos y del cartílago
 - Con Ácido Hialurónico, Magnesio, Silicio Orgánico y Glucosamina
-- Colágeno hidrolizado: es la proteína más abundante del cuerpo humano; garantiza la cohesión, elasticidad y regeneración de tejidos como la piel, huesos y los cartílagos del cuerpo humano.
+- Extracto de cúrcuma (CURSOL): la cúrcuma es ampliamente conocida por sus propiedades antioxidantes y antiinflamatorias.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01LNQAYLO{{</world>}}

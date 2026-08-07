@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Caja de 24 botellas de 33cl
-- En boca cuerpo ligero pero sabor complejo y equilibrado entre la malta y el lúpulo con un ligero toque de amargo.
+- En aroma notas florales y resinosas del lúpulo en equilibrio con toques maltosos
 - De color dorado intenso y espuma consistente
 - La Sagra Doble Malta - Cerveza Extra. Alc. 6,4% vol; caja de 24 botellas de 33 cl
-- En aroma notas florales y resinosas del lúpulo en equilibrio con toques maltosos
+- En boca cuerpo ligero pero sabor complejo y equilibrado entre la malta y el lúpulo con un ligero toque de amargo.
+- Caja de 24 botellas de 33cl
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B4B9C4P4{{</world>}}

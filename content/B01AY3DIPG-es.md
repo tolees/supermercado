@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cerveza suave
-- Sabrosa y delicada; muy refrescante y suave; su paso por boca se caracteriza el recuerdo de los cereales ligeramente tostados
-- Pack de 12 latas 33cl
-- Alc. 4,6% vol.
 - Como servir: Consumirla a unos 4-6 grados, para poder disfrutar de su sabor y su carácter refrescante
+- Alc. 4,6% vol.
 - Tipo de alcohol: Lagers
+- Cerveza suave
 - Contenido de alcohol (alc/vol.): 4.6 percent by volume
 - Procedencia: Spain
+- Sabrosa y delicada; muy refrescante y suave; su paso por boca se caracteriza el recuerdo de los cereales ligeramente tostados
+- Pack de 12 latas 33cl
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01AY3DIPG{{</world>}}

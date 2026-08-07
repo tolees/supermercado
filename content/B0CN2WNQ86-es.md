@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El perro debe ser supervisado en todo momento mientras se alimenta.
-- La siguiente información se aplica a cada unidad del paquete
 - Snack en forma de huesitos con carne de pollo enrollada. 100% natural.
 - Cantidad: 100 gramos
-- Alimento complementario para su perro, con aportación extra del calcio, muy rico en nutrientes. Utilizar como un regalo o recompensa en cualquier momento, dentro de una dieta equilibrada.
 - Con un alto contenido en proteína animal y con pocas grasas.
+- El perro debe ser supervisado en todo momento mientras se alimenta.
+- Alimento complementario para su perro, con aportación extra del calcio, muy rico en nutrientes. Utilizar como un regalo o recompensa en cualquier momento, dentro de una dieta equilibrada.
+- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CN2WNQ86{{</world>}}

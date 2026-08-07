@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - BRILLO INCREÍBLE: Transforma esos mechones secos y apagados en un pelo limpiado suavemente y profundamente hidratado. ¡Tu pelo brillará al instante con un brillo espectacular que no se detiene!
 - AROMAS ICÓNICOS DE AUSSIE: Aromas deliciosos, divertidos y exuberantes con notas de fresa, naranja y vainilla, para un pelo que huele de maravilla
-- PARA UNA HIDRATACIÓN Y BRILLO EXTRA: Completa con el acondicionador Aussie Oh My Gloss o la mascarilla Oh My Gloss. Termina con el sérum sin aclarado Oh My Gloss para conseguir aún más brillo. ¡Tachán!
-- ENRIQUECIDO CON FRESA BLANCA AUSTRALIANA, este champú limpia suavemente e hidrata tu pelo, dejándolo con un brillo espectacular. ¡Brillo total!
 - CRUELTY FREE Y VEGANO: Aussie es reconocida por PETA como una marca Cruelty Free animal y, ¿adivina qué? ¡Este champú también es vegano!
+- ENRIQUECIDO CON FRESA BLANCA AUSTRALIANA, este champú limpia suavemente e hidrata tu pelo, dejándolo con un brillo espectacular. ¡Brillo total!
+- PARA UNA HIDRATACIÓN Y BRILLO EXTRA: Completa con el acondicionador Aussie Oh My Gloss o la mascarilla Oh My Gloss. Termina con el sérum sin aclarado Oh My Gloss para conseguir aún más brillo. ¡Tachán!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FRFW2ND7{{</world>}}

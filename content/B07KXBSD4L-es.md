@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ingredientes: Jalea Real 200 mg y 12 vitaminas que contribuyen al funcionamiento normal del sistema inmunitario
-- *Las vitaminas A, B6, B12, C y D contribuyen al funcionamiento normal del sistema inmunitario.
 - Favorece y mantiene la vitalidad en caso de cansancio y fatiga
-- Con ingredientes de origen natural; sin gluten; sin lactosa. 0% azúcares añadidos
+- *Las vitaminas A, B6, B12, C y D contribuyen al funcionamiento normal del sistema inmunitario.
 - Tomar 1 cápsula al día. Indicada en adultos y niños mayores de 12 años
+- Con ingredientes de origen natural; sin gluten; sin lactosa. 0% azúcares añadidos
+- Ingredientes: Jalea Real 200 mg y 12 vitaminas que contribuyen al funcionamiento normal del sistema inmunitario
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07KXBSD4L{{</world>}}

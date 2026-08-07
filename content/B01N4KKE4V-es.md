@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ETIQUETAS: Este producto es apto para veganos y celíacos. Además, no contiene colorantes, conservantes ni azúcares añadidos
-- BENEFICIOS: Ayuda a la relajación y al descanso
-- PROPIEDADES: Se utiliza extracto seco, lo que hace referencia a un proceso de extracción específico, en el que se mantienen los principios activos de interés y se eliminan impurezas y otras sustancias no interesantes
-- COMPLEMENTOS, NUTRABASICOS. Extracto seco de Pasiflora. Sin colorantes, azúcares añadidos ni conservantes
 - La pasiflora es una planta que contribuye a aliviar los síntomas leves de estrés mental y también a conciliar el sueño
+- BENEFICIOS: Ayuda a la relajación y al descanso
+- COMPLEMENTOS, NUTRABASICOS. Extracto seco de Pasiflora. Sin colorantes, azúcares añadidos ni conservantes
+- ETIQUETAS: Este producto es apto para veganos y celíacos. Además, no contiene colorantes, conservantes ni azúcares añadidos
 - MODO DE USO: Consumir una cápsula al día. Es recomendable tomar la cápsula una hora antes de acostarse. Por dosis diaria se obtienen 350mg de Extracto seco de Pasiflora
+- PROPIEDADES: Se utiliza extracto seco, lo que hace referencia a un proceso de extracción específico, en el que se mantienen los principios activos de interés y se eliminan impurezas y otras sustancias no interesantes
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01N4KKE4V{{</world>}}

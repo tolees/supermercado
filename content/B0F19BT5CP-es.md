@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡No necesita frío! Puede guardarse y consumirse a temperatura ambiente.
-- ¡Cremoso y listo para tomar!
 - Sin colorantes ni conservantes, según la legislación vigente.
+- ¡No necesita frío! Puede guardarse y consumirse a temperatura ambiente.
 - Elaborado con 90% leche
+- ¡Cremoso y listo para tomar!
 - Lácteo infantil con cacao
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 🍃Todos los tés e infusiones de Replantea cuentan con certificado ecológico y están compuestos por ingredientes 100% naturales de máxima calidad, sin azúcares ni aditivos. Sólo ingredientes limpios!
-- ⭐Eli y Fran, inspirados por sus experiencias en el extranjero, han creado Replantea, un proyecto cuya filosofía, comprende que nuestro planeta proporciona una enorme variedad de ingredientes naturales increibles a través de las plantas, flores y hierbas nutritivas que además de hacernos disfrutar por su sabor delicioso ayudan a mantenernos sanos y nos aportan bienestar.
-- ⭐Deliciosa infusión a cualquier hora del día, compuesta por ingredientes 100% naturales que gracias a sus componenetes, ayudan a nuestro organismo a quemar calorias y perder peso.
 - Certificado Ecológico
+- 🍃Todos los tés e infusiones de Replantea cuentan con certificado ecológico y están compuestos por ingredientes 100% naturales de máxima calidad, sin azúcares ni aditivos. Sólo ingredientes limpios!
 - 🍃Nuestra infusión quemagrasa 100% ecológica es tu mejor amiga para perder peso. Sus ingredientes seleccionados ayudarán a purificar tu cuerpo, eliminando toxinas, reduciendo tu apetito y eliminando la sensación de vientre hinchado. Además acelerará tu metabolismo, potenciando la quema de grasas al hacer ejercicio.
 - 🍃Incorporar esta infusión en tu rutina diaria también va a ayudar a eliminar líquidos de forma natural y a reducir la hinchazón.
+- ⭐Deliciosa infusión a cualquier hora del día, compuesta por ingredientes 100% naturales que gracias a sus componenetes, ayudan a nuestro organismo a quemar calorias y perder peso.
+- ⭐Eli y Fran, inspirados por sus experiencias en el extranjero, han creado Replantea, un proyecto cuya filosofía, comprende que nuestro planeta proporciona una enorme variedad de ingredientes naturales increibles a través de las plantas, flores y hierbas nutritivas que además de hacernos disfrutar por su sabor delicioso ayudan a mantenernos sanos y nos aportan bienestar.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09X78GRMK{{</world>}}

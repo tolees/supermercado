@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Baileys Espresso Créme es una sinfonía de sabores, una mezcla rica de café tostado y Baileys Original Irish Cream
 - Se elabora a partir de la fusión de los granos de café recién molidos, nata y whisky irlandeses auténticos
-- Puede disfrutarse solo con hielo o como ingrediente para helados, cócteles o postres, como el tiramisú
+- Baileys Espresso Créme es una sinfonía de sabores, una mezcla rica de café tostado y Baileys Original Irish Cream
 - Baileys Irish Cream es el licor de crema de whisky irlandesa aclamado del mundo; date un capricho con recetas tan novedosas como las Torrijas con Baileys o el Flat White Martini; en 2022, Baileys obtuvo la certificación B Corp gracias a nuestro compromiso con nuestras comunidades y el planeta
 - Es el regalo idóneo para conquistar cualquier paladar
+- Puede disfrutarse solo con hielo o como ingrediente para helados, cócteles o postres, como el tiramisú
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B017RBHYOE{{</world>}}

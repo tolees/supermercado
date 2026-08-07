@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Las 9 galletas Milka creadas en una divertida forma de vaca y recubiertas de delicioso chocolate con leche Milka, son ideales para un dulce tentempié o postre, perfectas para servir solas o con leche, o para acompañar al café o té.
+- La siguiente información se aplica a cada unidad del paquete
+- Hacemos nuestro delicioso chocolate con cacao obtenido a través de nuestro programa de sostenibilidad Cocoa Life. Cocoa Life es el programa global de Milka para el cultivo de cacao sostenible, centrado en la sostenibilidad del cacao como negocio próspero, en las comunidades del cacao empoderadas e inclusivas, y en conservar y regenerar los bosques.
 - Las galletas Milka cubiertas de tierno chocolate con leche de los Alpes, son excelentes para disfrutar y compartir con familia y amigos, en desayunos, para picar como snack o en meriendas escolares para los niños.
 - Con un su sabrosa combinación de crujiente galleta y el chocolate más suave, hacen de estas galletas el descanso más tierno y divertido del día.
-- Hacemos nuestro delicioso chocolate con cacao obtenido a través de nuestro programa de sostenibilidad Cocoa Life. Cocoa Life es el programa global de Milka para el cultivo de cacao sostenible, centrado en la sostenibilidad del cacao como negocio próspero, en las comunidades del cacao empoderadas e inclusivas, y en conservar y regenerar los bosques.
 - Milka es un producto tradicional. Por ello, desde hace más de 100 años utilizamos exclusivamente leche de la región de los Alpes para nuestro chocolate. Comprobamos cada litro de leche que recibimos de nuestros proveedores para aseguramos de que proviene al 100% de los valles y altos valles de los Alpes y la región subalpina.
-- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DP4ZT7PM{{</world>}}

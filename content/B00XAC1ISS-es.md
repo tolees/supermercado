@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Salsa barbacoa para realzar el sabor ahumado de la carne
-- Con tomates cultivados de forma sostenible​
-- Con un embalaje reciclable
 - Sin colorantes artificiales​
 - Óptimo con costillas a la brasa, alitas de pollo y hamburguesas
+- Con tomates cultivados de forma sostenible​
+- Salsa barbacoa para realzar el sabor ahumado de la carne
+- Con un embalaje reciclable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XAC1ISS{{</world>}}

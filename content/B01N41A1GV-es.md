@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - PARA PICAR, REGALAR Y COMPARTIR: Estos caramelos sin azúcar son ideales para llevar a cualquier lugar y guardarlos en el bolso, el snack para picar y para compartir con la familia y los amigos
-- FORMATO BOLSA 90 g: La bolsa incluye aprox. 12 caramelos envueltos individualmente; presentación higiénica y práctica para regalar, llevar en el bolso, compartir en oficina o eventos
+- SABOR CLÁSICO DESDE 1909: Caramelos duros de mantequilla y nata con la receta original alemana de Werther’s Original; un dulce tradicional y familiar para compartir que evoca recuerdos de infancia
 - SIN AZÚCAR NI GLUTEN Y APTOS PARA VEGETARIANOS: Estos caramelos Werther Original son perfectos para diabéticos y para cualquier persona que prefiera llevar una dieta sin azúcar. Contienen lactosa
 - CON MANTEQUILLA Y NATA FRESCA: Elaborados con ingredientes cuidadosamente seleccionados para lograr un caramelo de sabor intenso y textura cremosa, ideal para disfrutar a diario u ofrecer a invitados
-- SABOR CLÁSICO DESDE 1909: Caramelos duros de mantequilla y nata con la receta original alemana de Werther’s Original; un dulce tradicional y familiar para compartir que evoca recuerdos de infancia
+- FORMATO BOLSA 90 g: La bolsa incluye aprox. 12 caramelos envueltos individualmente; presentación higiénica y práctica para regalar, llevar en el bolso, compartir en oficina o eventos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01N41A1GV{{</world>}}

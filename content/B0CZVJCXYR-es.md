@@ -29,12 +29,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Pack Completo: Este kit de hierbas aromáticas incluye todo lo que necesitas para cultivar tus plantas de especias. Incluye la caja de madera, el sustrato de fibra de coco, las semillas, herramientas de cultivo, etiquetas e instrucciones. El mini huerto en casa para la cocina más completo
-- Herramientas incluidas: Viene equipado con todas las herramientas de cultivo necesarias para facilitar el proceso de siembra y mantenimiento de tus plantas aromáticas en el hogar
+- Incluye 3 variedades de semillas: En el kit mini huerto en casa tendrás 3 variedades de hierbas culinarias para poder plantar a lo largo del año. Las semillas son Orégano, Albahaca y Perejil
 - Huerto de cocina: Aprovecha los rincones del interior del hogar y disfruta de tu propia cosecha de alimentos. Del huerto interior directamente al plato
+- Herramientas incluidas: Viene equipado con todas las herramientas de cultivo necesarias para facilitar el proceso de siembra y mantenimiento de tus plantas aromáticas en el hogar
+- Instrucciones para el cultivo: Se incluyen las instrucciones necesarias para que se puedan cultivar las plantas aromaticas de la manera más óptima posible. Se indicará también recomendaciones y buenas prácticas para sacarle el mayor rendimiento a este kit de huerto urbano para cocina
 - Decorativo: El minihuerto de hierbas aromaticas no solo es funcional, sino que también es decorativo. Las plantas aromáticas culinarias proporcionan una hermosa pieza decorativa para la cocina a la vez que es beneficiosa para la salud al agregar un elemento de la naturaleza a los espacios interiores de la casa
 - Sustrato de fibra de coco: El kit incluye sustrato de fibra de coco de alta calidad que proporciona una base nutritiva y sostenible para el crecimiento óptimo de tus hierbas aromáticas
-- Instrucciones para el cultivo: Se incluyen las instrucciones necesarias para que se puedan cultivar las plantas aromaticas de la manera más óptima posible. Se indicará también recomendaciones y buenas prácticas para sacarle el mayor rendimiento a este kit de huerto urbano para cocina
-- Incluye 3 variedades de semillas: En el kit mini huerto en casa tendrás 3 variedades de hierbas culinarias para poder plantar a lo largo del año. Las semillas son Orégano, Albahaca y Perejil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZVJCXYR{{</world>}}

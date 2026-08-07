@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Un placer en pequeñas dosis
+- También para compartir en familia
+- ¡No renuncies al sabor!
 - Delicosas en leche
 - Las Campurrianas de siempre, ahora en tamaño Mini con chocolate y 0% azúcares
-- ¡No renuncies al sabor!
-- También para compartir en familia
+- Un placer en pequeñas dosis
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C4YNLQGT{{</world>}}

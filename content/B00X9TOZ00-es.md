@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Controla los rizos más rebeldes y presume de rizos suaves, resistentes y con movimiento sin preocuparte por el volumen
-- Formulado con extracto de bambú
-- Aplicar 2 o 3 avellanas de producto sobre cabello húmedo desde la raíz a las puntas
 - 200 ml
+- Aplicar 2 o 3 avellanas de producto sobre cabello húmedo desde la raíz a las puntas
+- Formulado con extracto de bambú
+- Controla los rizos más rebeldes y presume de rizos suaves, resistentes y con movimiento sin preocuparte por el volumen
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00X9TOZ00{{</world>}}

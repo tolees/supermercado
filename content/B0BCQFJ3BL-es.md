@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Método ideal de preparación: cafetera Moka, Espresso, French Press, café filtro, cafeteras superautomáticas.
+- 100% Café Arábica Descafeinado Orgánico 500 gr. café en grano
 - Café aromático con notas de vainilla, toffee y de cereales como la Malta. Cuerpo Medio. Acidez media citrica. Final largo y especiado con notas de regaliz y un suave ahumado.
 - Conservación: Envasado en recipiente hermético con válvula unidireccional de desgasificación. Las latas son 100% reciclables, se pueden reutilizar o depositar en el contenedor de envases
 - La certificación de "Café procedente de agricultura ecológica" garantiza que el cultivo del café en el país de origen se ha realizado sin utilizar fertilizantes de síntesis química y siguiendo métodos biológicos que contribuyen a la conservación del medio ambiente.
-- 100% Café Arábica Descafeinado Orgánico 500 gr. café en grano
 - Café Saula Premium Organic Decaffeinated es una mezcla de cafes arábica ecológicos cultivados sin el uso de abonos ni pesticidas y descafeinados mediante un proceso también libre de productos químicos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

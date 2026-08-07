@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Irresistible sabor a nata-fresa
-- Caramelos de goma
 - Deliciosas piezas redondeadas recubiertas de azúcar
+- Caramelos de goma
+- Irresistible sabor a nata-fresa
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0713WXGZM{{</world>}}

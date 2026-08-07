@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Proteger de la luz solar
-- Botella 100% plástico reciclado
-- Con un residuo seco muy bajo (27mg/l); proviene del Manantial Bezoya Trescasas (Segovia) o Bezoya de Ortigosa del Monte (Segovia)
-- Garrafa de 5 litros de agua mineral natura
-- Agua mineral natural Bezoya con mineralización muy débil (residuo seco muy bajo: 27mg/litro)
-- Indicada para la preparación de alimentos infantiles
-- En Bezoya queremos dar lo mejor, por eso desarrollamos iniciativas para cuidar el medio ambiente
 - Conservar en lugar fresco, seco y preservado de olores intensos
+- En Bezoya queremos dar lo mejor, por eso desarrollamos iniciativas para cuidar el medio ambiente
+- Garrafa de 5 litros de agua mineral natura
+- Indicada para la preparación de alimentos infantiles
+- Con un residuo seco muy bajo (27mg/l); proviene del Manantial Bezoya Trescasas (Segovia) o Bezoya de Ortigosa del Monte (Segovia)
+- Botella 100% plástico reciclado
+- Agua mineral natural Bezoya con mineralización muy débil (residuo seco muy bajo: 27mg/litro)
+- Proteger de la luz solar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00DN9KMB2{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto fabricado en Alemania por EUBOS, una empresa familiar fundada en 1930
 - Limpia delicadamente sin jabón
+- Producto fabricado en Alemania por EUBOS, una empresa familiar fundada en 1930
 - Protege la flora cutánea natural con un pH neutro para la piel
 - Cuida la piel durante el lavado
 - Para ducharse y lavarse

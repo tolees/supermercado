@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una piel perfecta: este producto mágico ofrece una textura de piel visiblemente refinada y las líneas finas de deshidratación parecen reducidas. Resultado, un acabado radiante, sin ninguna película grasa. Probado bajo control dermatológico, no comedogénico, sin silicona
-- Consejo de belleza: aplícalo solo como un tratamiento diario o sobre una base de maquillaje en una capa fina sobre el rostro. Con su textura en gel, tendemos a aplicar un poco más de producto que con la CC Cream clásica
-- Enriquecido con Centella Asiática, superingrediente coreano: también conocida como Hierba del Tigre, la centella es una planta icónica. Este tratamiento perfeccionador realza la piel gracias a sus pigmentos encapsulados, al mismo tiempo que contribuye a calmarla e hidratarla
-- Productos no testados en animales, nuestra prioridad: Erborian nunca ha probado sus productos, ingredientes o materias primas en animales. Las materias primas de nuestros proveedores tampoco son nunca testadas en animales
 - Tu CC Crema ultra ligera: CC Water presenta una textura gel hidratante, enriquecida con Ácido Hialurónico. Ligera y etérea, se adapta al tono de piel para ofrecer un velo teñido que unifica e ilumina el rostro, sin ningún efecto de materia
+- Enriquecido con Centella Asiática, superingrediente coreano: también conocida como Hierba del Tigre, la centella es una planta icónica. Este tratamiento perfeccionador realza la piel gracias a sus pigmentos encapsulados, al mismo tiempo que contribuye a calmarla e hidratarla
+- Consejo de belleza: aplícalo solo como un tratamiento diario o sobre una base de maquillaje en una capa fina sobre el rostro. Con su textura en gel, tendemos a aplicar un poco más de producto que con la CC Cream clásica
+- Productos no testados en animales, nuestra prioridad: Erborian nunca ha probado sus productos, ingredientes o materias primas en animales. Las materias primas de nuestros proveedores tampoco son nunca testadas en animales
+- Una piel perfecta: este producto mágico ofrece una textura de piel visiblemente refinada y las líneas finas de deshidratación parecen reducidas. Resultado, un acabado radiante, sin ninguna película grasa. Probado bajo control dermatológico, no comedogénico, sin silicona
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B66P7B6N{{</world>}}

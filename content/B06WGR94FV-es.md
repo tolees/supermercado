@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cacao obtenido 100% de forma responsable.
-- Deliciosas barritas Snickers, en versión minis, de chocolate con leche rellena de crema de cacahuete, suave caramelo y crujientes trozos de cacahuete, perfectas para caja regalo o calendarios adviento chocolate.
 - Bolsa (1 x 227gr) sin colorantes ni conservantes artificiales. Vegetariano
+- Deliciosas barritas Snickers, en versión minis, de chocolate con leche rellena de crema de cacahuete, suave caramelo y crujientes trozos de cacahuete, perfectas para caja regalo o calendarios adviento chocolate.
 - También puede disfrutar de estas barras SNICKERS minis como un snack de media mañana o por la tarde.
 - Barras de chocolate pequeñas, perfectas para fiestas de cumpleaños, ideales para calendarios adviento.
 

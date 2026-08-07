@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Las patatas fritas clásicas al punto de sal
+- Se puede compartir con amigos o familiares
 - Bolsa en formato familiar de 248 gramos
 - Snack de patatas fritas
-- Se puede compartir con amigos o familiares
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F3J2V2ZK{{</world>}}

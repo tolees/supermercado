@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - ✨ EFECTO ANTIARRUGAS Y ANTIMANCHAS — PIEL UNIFORMIZADA Y RADIANTE — Formulada con activos que corrigen manchas existentes y previenen la aparición de nuevas imperfecciones. Acción antiarrugas visible con uso continuado. Textura sedosa de rápida absorción que no deja residuo graso ni efecto blanco — perfecta como base de maquillaje.
-- 🏆 BABARIA — PROTECTOR SOLAR FACIAL MUJER Y HOMBRE 75 ml — Bloqueador solar facial de uso diario los 365 días del año, apto para cara, cuello y escote. Crema solar 50 en formato 75 ml. Aplicar 20–30 minutos antes de la exposición.
-- 💧 ÁCIDO HIALURÓNICO — HIDRATACIÓN PROFUNDA CON PROTECCIÓN SOLAR — Su principio activo de ácido hialurónico hidrata la barrera cutánea de todo tipo de piel, restaurando elasticidad y confort durante y después de la exposición solar. Crema hidratante facial con protección solar ideal para uso diario los 365 días del año.
-- ☀️ PROTECCIÓN SOLAR SPF50+ MUY ALTA — UVA, UVB E INFRARROJOS — Crema solar facial con factor de protección muy alta que protege la piel frente a los rayos UVA causantes del envejecimiento prematuro, UVB causantes de quemaduras solares, e infrarrojos que generan daño profundo en el ADN cutáneo. Protección completa de espectro en un solo paso.
 - 🌿 VEGANA, CORAL FRIENDLY, TESTADA DERMATOLÓGICAMENTE — USO DIARIO 365 DÍAS — Sin oxibenzona. Sin microplásticos. Formulada para usar igual en enero que en agosto. Protección frente a luz azul HEV y contaminación ambiental. El protector solar facial 50 de uso diario que tu piel nota desde el primer día.
+- 💧 ÁCIDO HIALURÓNICO — HIDRATACIÓN PROFUNDA CON PROTECCIÓN SOLAR — Su principio activo de ácido hialurónico hidrata la barrera cutánea de todo tipo de piel, restaurando elasticidad y confort durante y después de la exposición solar. Crema hidratante facial con protección solar ideal para uso diario los 365 días del año.
+- 🏆 BABARIA — PROTECTOR SOLAR FACIAL MUJER Y HOMBRE 75 ml — Bloqueador solar facial de uso diario los 365 días del año, apto para cara, cuello y escote. Crema solar 50 en formato 75 ml. Aplicar 20–30 minutos antes de la exposición.
+- ☀️ PROTECCIÓN SOLAR SPF50+ MUY ALTA — UVA, UVB E INFRARROJOS — Crema solar facial con factor de protección muy alta que protege la piel frente a los rayos UVA causantes del envejecimiento prematuro, UVB causantes de quemaduras solares, e infrarrojos que generan daño profundo en el ADN cutáneo. Protección completa de espectro en un solo paso.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CV4FD8TL{{</world>}}

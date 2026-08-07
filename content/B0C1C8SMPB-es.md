@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Producido por: Zamora Company S.L.U. Poligno Industrial Los Camachos C/Silicio No.10 30369 CARTAGENA ESPAGNE
+- GRADUACIÓN 7º. Su adecuada graduación, alcohólica, su punto frizzante y su sabor a fruta, la convierten en un cocktail perfecto a la hora del aperitivo, con las comidas, a media tarde y por supuesto por las noches. Posee una graduación alcohólica de 7%
+- REGALO: Estuche de regalo con 2 botellas de sangría, para los paladares más exquisitos. Caja de sangría ideal para regalar, cesta de navidad, regalos de empresa, regalo del día del padre, día de la madre, aniversarios.
 - ELABORACIÓN ARTESANAL. De sangría, en cada casa tienen su receta, y tenemos la nuestra, de elaboración artesana con una combinación de vino y fruta con un toque frizzante, en una proporción que solo nosotros sabemos NOTA DE CATA. De color rojo cereza claro, limpio, luminoso y atractivo, con aromas intensos y agradables, y recuerdos nítidos de uva y fruta dulce. En boca resulta golosa y amplia, donde se adivina la parte más noble del vino. Con un carbónico muy sedoso y un ligero amargor final
 - FRESCOR. Lolea Nº1 es una deliciosa sangría a base de cítricos mediterráneos. Esta sangría no está pasteurizada para preservar todas las características del vino, además tiene un toque carbónico que le aporta frescor y alegría
-- Producido por: Zamora Company S.L.U. Poligno Industrial Los Camachos C/Silicio No.10 30369 CARTAGENA ESPAGNE
-- REGALO: Estuche de regalo con 2 botellas de sangría, para los paladares más exquisitos. Caja de sangría ideal para regalar, cesta de navidad, regalos de empresa, regalo del día del padre, día de la madre, aniversarios.
-- GRADUACIÓN 7º. Su adecuada graduación, alcohólica, su punto frizzante y su sabor a fruta, la convierten en un cocktail perfecto a la hora del aperitivo, con las comidas, a media tarde y por supuesto por las noches. Posee una graduación alcohólica de 7%
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C1C8SMPB{{</world>}}

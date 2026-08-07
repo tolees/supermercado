@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - SMILEAT CACHITOS CON TROCITOS: Los CA-CHI-TOS Smileat están elaborados con trocitos más grandes y una consistencia ideal para estimular la masticación. Facilita la transición hacia alimentos sólidos y promoviendo una alimentación más autónoma.
 - SIN GLUTEN: Los tarritos se caracterizan por ser comidas con trocitos para bebés, sin azúcares añadidos, sin gluten, sin huevo, sin trazas de leche de vaca y libre de alérgenos. Una vez abierto, conservar en frío y consumir en 24 horas
 - INGREDIENTES DE CALIDAD: contiene verduras seleccionadas y aceite de oliva virgen extra. Sin azúcar añadido, contiene azúcares naturalmente presentes en los alimentos, sin sal añadida, sin gluten, sin leche y sin huevos, adaptándose a diversas necesidades alimentarias.
-- CONFIANZA EN CADA ELECCIÓN: en Smileat nos comprometemos con la sostenibilidad y la transparencia, utilizando ingredientes ecológicos y promoviendo prácticas responsables que cuidan del planeta y del futuro de nuestros peques.
 - SMILEAT: nacimos para revolucionar la alimentación infantil y lo seguimos haciendo con cada producto. Como la primera marca B-Corp en alimentación infantil ecológica de España, en Smileat trabajamos para crear un impacto positivo en el mundo, ofreciendo productos ricos y responsables que cuidan de los más pequeños, del planeta y de su futuro.
+- CONFIANZA EN CADA ELECCIÓN: en Smileat nos comprometemos con la sostenibilidad y la transparencia, utilizando ingredientes ecológicos y promoviendo prácticas responsables que cuidan del planeta y del futuro de nuestros peques.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09QXBKY8S{{</world>}}

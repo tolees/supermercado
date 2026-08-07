@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sin gluten y aptas para vegetarianos
 - Horneadas y fritas al mejor estilo mexicano
+- Perfectas para dippear en las salsas Old El Paso
+- Sin gluten y aptas para vegetarianos
 - Crujientes tortillas hechas de harina de maíz y con sabor a chili
 - Sin conservantes
-- Perfectas para dippear en las salsas Old El Paso
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01L6OE0C2{{</world>}}

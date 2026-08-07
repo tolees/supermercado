@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- SIN CRUELDAD: Los productos de Revolution Beauty son libres de crueldad y siempre lo han sido. Contamos con la certificación PETA y nunca permitimos la experimentación con animales en ninguna fase del desarrollo, ni de los ingredientes ni de los productos finales.
 - MODO DE EMPLEO: Completar el maquillaje de ojos moviendo la varita en la base de la línea de las pestañas antes de pasar la fórmula de la ruta a la punta. Aplicar más capas según sea necesario para crear tus pestañas preferidas.
-- VEGANO: Este suero no contiene ningún ingrediente de origen animal.
-- MASCARA VOLUMIZADORA Y ALARGADORA: Esta máscara de pestañas que cambia las reglas del juego ayuda a conseguir longitud, elevación, definición, estiramiento y volumen instantáneos con una sola pasada.
 - REHABILITA Y RECONSTRUYE LAS PESTAÑAS DEBILITADAS: Con ácido hialurónico, este ingrediente cuidará de tus pestañas y es suave con los ojos. Puedes crear un espectacular efecto de pestañas postizas sin dañarlas.
+- MASCARA VOLUMIZADORA Y ALARGADORA: Esta máscara de pestañas que cambia las reglas del juego ayuda a conseguir longitud, elevación, definición, estiramiento y volumen instantáneos con una sola pasada.
+- SIN CRUELDAD: Los productos de Revolution Beauty son libres de crueldad y siempre lo han sido. Contamos con la certificación PETA y nunca permitimos la experimentación con animales en ninguna fase del desarrollo, ni de los ingredientes ni de los productos finales.
+- VEGANO: Este suero no contiene ningún ingrediente de origen animal.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0952TCJNP{{</world>}}

@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Esmuposo rosado bajo en alcohol
 - Varietales: Airén, Cabernet Sauvignon, Chardonnay, Macabeo, Merlot, Parellada, Xarel·lo
-- Nota de cata (boca): Buen balance entre sabor, acidez y burbuja
-- Nota de cata (nariz): En boca encontramos también notas a manzana verde y final cítrico
 - Nota de cata (vista): Color rosa clarito, aromas a nectarina, melocotón blanco y notas a bayas rojas
+- Nota de cata (nariz): En boca encontramos también notas a manzana verde y final cítrico
+- Nota de cata (boca): Buen balance entre sabor, acidez y burbuja
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C1H9JXQ1{{</world>}}

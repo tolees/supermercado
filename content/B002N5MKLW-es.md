@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ayuda a aumentar la elasticidad, la humedad y el brillo
 - Ayuda a fortalecer el cabello dañado mientras se limpia suavemente
+- Ayuda a aumentar la elasticidad, la humedad y el brillo
 - Tiene un nutritivo aceite de argán, proteínas de queratina y ácidos grasos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cabello suave y sin encrespamiento, con un 87% más de suavidad y hasta 4 días de hidratación y brillo.
 - Champú suave ideal para el cabello largo con tendencia al encrespamiento. Enriquecido con ácido glicólico para dar brillo, ácido hialurónico para hidratar y aceite de rosa silvestre para un acabado sedoso y con volumen.
+- Cabello suave y sin encrespamiento, con un 87% más de suavidad y hasta 4 días de hidratación y brillo.
 - Aplicar una pequeña cantidad sobre el cabello mojado y masajear hasta hacer espuma. Aclarar abundantemente.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Acabado de larga duración
 - Color: ámbar brillante
 - Nariz: compleja, frutos secos, taninos de vino, roble
+- Acabado de larga duración
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07YLSN9Y5{{</world>}}

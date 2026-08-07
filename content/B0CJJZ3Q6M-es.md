@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- NOCTURNO Y MASCULINO: un perfume para hombres que te transporta a los momentos y sensaciones de la noche. ¡Disfruta de una fragancia poderosa e indiferente!
-- TENDENCIA OLFATIVA: Este perfume de hombre tiene una tendencia amaderada. Es ideal para aquellos hombres que buscan un olor diferente y especial.
 - PERFUME: Nike Night Mode es un estuche masculino con un carácter nocturno que no dejará indiferente a nadie. Incluye una colonia de 150 ml. Frasco con vaporizador.
 - DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más
+- NOCTURNO Y MASCULINO: un perfume para hombres que te transporta a los momentos y sensaciones de la noche. ¡Disfruta de una fragancia poderosa e indiferente!
 - PIRÁMIDE OLFATIVA: Notas de salida: coco, piña, manzana; Notas de corazón: chocolate, lavanda, jara; Notas de fondo: vainilla, madera ambarada, haba tonka
+- TENDENCIA OLFATIVA: Este perfume de hombre tiene una tendencia amaderada. Es ideal para aquellos hombres que buscan un olor diferente y especial.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJJZ3Q6M{{</world>}}

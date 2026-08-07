@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 45 y 45 lavados gratis para un total de 90 lavados
-- Detergente líquido SKIP Ultimate Limpieza Profunda 45 y 45 lavados
 - Eficacia y ahorro, fragancia fresca y acción quitamanchas que quita las manchas difíciles respetando las fibras y colores de tu ropa
 - Detergente con ingredientes naturales y envase 100% reciclable
+- 45 y 45 lavados gratis para un total de 90 lavados
+- Detergente líquido SKIP Ultimate Limpieza Profunda 45 y 45 lavados
 - Fórmula testada dermatológicamente pensada para las pieles más delicadas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

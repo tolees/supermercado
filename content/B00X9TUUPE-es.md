@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 100% cobertura de cañas
-- Con aceite florales
 - Fácil de aplicar
+- Con aceite florales
+- 100% cobertura de cañas
 - No contiene amoniaco
 - Fórmula potencia el color hasta el interior
 

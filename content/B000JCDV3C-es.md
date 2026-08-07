@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CHIC, FLORAL Y NATURAL: este perfume para mujer limpio tiene notas de cabeza de fresia y mimosa, un corazón de jazmín y flor de azahar y notas de fondo de madera de sándalo
 - UN REGALO IDEAL PARA LA MUJER DE TU VIDA: desde 1867, la casa de Cerruti ha capturado el espíritu de los tiempos y la atrevida indiferencia de ese codiciado misterio parisino en el que se ha inspirado la fragancia
+- CHIC, FLORAL Y NATURAL: este perfume para mujer limpio tiene notas de cabeza de fresia y mimosa, un corazón de jazmín y flor de azahar y notas de fondo de madera de sándalo
+- BOTELLA DE CRISTAL CLÁSICA Y SOFISTICADA: una botella clásica de estilo esmerilado llena de elegancia con 1881 grabado en ella que rezuma confianza por todos lados
 - FRAGANCIA DE LUJO AUTÉNTICA DE CERRUTI 1881: una fragancia aromática fresca, amaderada y floral para las mujeres que encarnan la feminidad y la belleza
 - UN CLÁSICO DESDE 1995: inspirada en la flor insignia de Nino Cerruti, Fleur de Lin, 1881 ha sido un fijo en el mundo de los perfumes durante casi 30 años
-- BOTELLA DE CRISTAL CLÁSICA Y SOFISTICADA: una botella clásica de estilo esmerilado llena de elegancia con 1881 grabado en ella que rezuma confianza por todos lados
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B000JCDV3C{{</world>}}

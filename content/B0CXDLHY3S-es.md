@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mantiene el pH neutro de la piel; fórmula dermatológicamente probada
 - Aplicar sobre la piel previamente mojada y masajear con las manos o con la ayuda de una esponja; aclarar con abundante agua
 - Su fórmula con Sales Minerales de La Toja y Aloe Vera mantiene el nivel de hidratación de la piel durante 24h para una piel siempre suave, elástica y tersa
+- Mantiene el pH neutro de la piel; fórmula dermatológicamente probada
 - El resultado: Una piel hidratada; fórmula vegana con 92% de ingredientes de origen natural
 - El Gel Crema de ducha Aloe Vera con Sales Minerales de Agua Termal aporta el óptimo cuidado para todos
 

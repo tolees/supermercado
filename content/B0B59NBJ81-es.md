@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - PROCESO TRADICIONAL DEL CACAO: Cacao natural recolectado a mano, secado al sol, tostado, prensado y mezclado de manera tradicional.
-- CANTIDAD Y PORCIONES: El envase de 2,5 Kilogramo ofrece 178 raciones, lo que lo convierte en una opción ideal para disfrutar durante un largo periodo de tiempo. Cada porción está diseñada para ofrecer un equilibrio perfecto entre sabor y nutrición, sin comprometer la calidad.
-- EFICIENTE: El ColaCao se disuelve rápidamente, tanto en leche caliente como fría. Disfruta de tu bebida sin grumos, para que puedas saborear tu momento de manera única y personalizada.
 - ALÉRGENOS: contiene soja y puede contener trigo. Mantener en lugar fresco y seco.
+- CANTIDAD Y PORCIONES: El envase de 2,5 Kilogramo ofrece 178 raciones, lo que lo convierte en una opción ideal para disfrutar durante un largo periodo de tiempo. Cada porción está diseñada para ofrecer un equilibrio perfecto entre sabor y nutrición, sin comprometer la calidad.
 - CERTIFICACIÓN DE SOSTENIBILIDAD: Cacao con certificación UTZ, que apoya el cultivo sostenible y el respeto por el medio ambiente.
+- EFICIENTE: El ColaCao se disuelve rápidamente, tanto en leche caliente como fría. Disfruta de tu bebida sin grumos, para que puedas saborear tu momento de manera única y personalizada.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B59NBJ81{{</world>}}

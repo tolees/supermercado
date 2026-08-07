@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Calidad: agua mineral de gran pureza sabor y equilibrio
-- Uso alternativo: indicada para la preparación de alimentos infantiles y dietas pobres en sodio
-- Presentación: botella de 33 cl
-- Botellas por lote: 35
 - Envase: botella PET más resistente. No retornable
+- Uso alternativo: indicada para la preparación de alimentos infantiles y dietas pobres en sodio
+- Botellas por lote: 35
+- Presentación: botella de 33 cl
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00PDTBMFK{{</world>}}

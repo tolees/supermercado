@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Alimento premium para cachorros de estómago delicado y digestión complicada, apto para cachorros en crecimiento de 1 a 12 meses de edad
 - Este alimento es rico en arroz de fácil digestión, contribuye a mantener el equilibrio natural de la flora intestinal y favorece una absorción óptima de nutrientes
-- Rico en pollo para favorecer el desarrollo de una musculatura fuerte y esbelta, sin colorantes ni aromatizantes artificiales ni ingredientes modificados genéticamente (OGM) / Embalaje reciclable. Contenido del paquete: 1 x 12 kg de alimento seco para cachorros
 - Esta fórmula adaptada para cachorros contiene DHA, un ácido graso poliinsaturado que contribuye al desarrollo saludable de los cachorros y favorece el adiestramiento y la capacidad de aprendizaje
+- Alimento premium para cachorros de estómago delicado y digestión complicada, apto para cachorros en crecimiento de 1 a 12 meses de edad
+- Rico en pollo para favorecer el desarrollo de una musculatura fuerte y esbelta, sin colorantes ni aromatizantes artificiales ni ingredientes modificados genéticamente (OGM) / Embalaje reciclable. Contenido del paquete: 1 x 12 kg de alimento seco para cachorros
 - La mezcla especial de prebióticos FOS y MOS, butirato y pulpa de remolacha favorece una digestión saludable. El calcio favorece la formación y el desarrollo de unos huesos fuertes
 
 [🛒 Comprar!!!]({{< param buyurl >}})

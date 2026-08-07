@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Bolsita de 110g para peques que se hacen mayores
 - Sin azúcares añadidos y sin espesantes, como lo haces en casa
-- Alimento infantil elaborado 100% con fruta natural madurada en el árbol lista para tomar
 - Sin gluten Sin colorantes ni conservantes, según la legislación vigente
 - 100% natural con vitamina C
+- Alimento infantil elaborado 100% con fruta natural madurada en el árbol lista para tomar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096BHVGJZ{{</world>}}

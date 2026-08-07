@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Favorece una buena hidratación; como todos los productos de comida húmeda para gatos
 - Número limitado de fuentes de proteína animal
 - Con ingredientes cuidadosamente seleccionados
+- Favorece una buena hidratación; como todos los productos de comida húmeda para gatos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C7RRL5CH{{</world>}}

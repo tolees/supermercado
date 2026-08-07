@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cerveza de estilo Barley Wine. Alc. 10,4% vol.
 - Notas a caramelo, café y manzana
-- Caja de 12 botellas de 33cl
 - Color y aroma a chocolate
+- Cerveza de estilo Barley Wine. Alc. 10,4% vol.
 - Cuádruple malta, balanceada
+- Caja de 12 botellas de 33cl
 - Primera cerveza española diseñada para acompañar cualquier plato, especialmente los postres
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

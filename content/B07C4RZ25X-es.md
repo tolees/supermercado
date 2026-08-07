@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Protección UVA (causantes del envejecimiento prematuro de la piel) , UVB (causantes del eritema solar- quemaduras), INFRARROJOS (provoca daños en el ADN y formación de radicales libres, causando envejecimiento cutáneo).
-- Contienen un activo Calmante para las pieles más sensibles, con pruebas anti-inflamatorio, anti-irritante, anti-picores y anti-oxidante. Y Aloe Vera que aporta hidratación.
-- Resistente al agua.
 - Producto libre de alergenos.
+- Resistente al agua.
+- Contienen un activo Calmante para las pieles más sensibles, con pruebas anti-inflamatorio, anti-irritante, anti-picores y anti-oxidante. Y Aloe Vera que aporta hidratación.
 - Leche Solar Factor de Protección Muy Alta.
+- Protección UVA (causantes del envejecimiento prematuro de la piel) , UVB (causantes del eritema solar- quemaduras), INFRARROJOS (provoca daños en el ADN y formación de radicales libres, causando envejecimiento cutáneo).
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07C4RZ25X{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- SOBRE NOSOTROS: Desde 1982, el Granero Integral apuesta por una alimentación saludable al alcance de todos. Somos empresa BCorp certificada y cumplimos con los estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
-- INGREDIENTES NATURALES: Copos de avena integral sin gluten (69%), azúcar de caña integral, aceite de girasol, inulina, chocolate negro (5%), chips de coco tostados (3%) y semillas de girasol. Puede contener trazas de huevo, soja, leche, sésamo, etc.
-- APTA PARA VEGANOS: Nuestra granola con chocolate y coco es apta para el consumo vegano, puesto que no contiene ingredientes de origen animal, leche, lactosa, ni azúcares añadido. Tampoco contiene gluten.
 - MÚLTIPLES BENEFICIOS: Nuestro producto es una gran fuente de fibra y nutrientes esenciales. Ayuda a mejorar la salud intestinal y los antioxidantes presentes en la granola contribuyen a proteger contra el daño celular.
+- INGREDIENTES NATURALES: Copos de avena integral sin gluten (69%), azúcar de caña integral, aceite de girasol, inulina, chocolate negro (5%), chips de coco tostados (3%) y semillas de girasol. Puede contener trazas de huevo, soja, leche, sésamo, etc.
 - MODO DE EMPLEO: Se puede agregar a la bebida del desayuno así como a zumos, yogures, etc. Se recomienda conservarla en un ambiente fresco y seco.
+- APTA PARA VEGANOS: Nuestra granola con chocolate y coco es apta para el consumo vegano, puesto que no contiene ingredientes de origen animal, leche, lactosa, ni azúcares añadido. Tampoco contiene gluten.
+- SOBRE NOSOTROS: Desde 1982, el Granero Integral apuesta por una alimentación saludable al alcance de todos. Somos empresa BCorp certificada y cumplimos con los estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B092ZY37MF{{</world>}}

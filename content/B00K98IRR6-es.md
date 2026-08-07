@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin sulfatos
 - Proporciona suavidad al cabello
+- Sin sulfatos
 - Deja el cabello fácil de peinar y manejable
 - Marca: REVLON
 

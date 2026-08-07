@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Receta exclusiva de la Edición Limitada Luis Calvo
 - Sabor casero con un toque gourmet
-- Pescado azul rico en Omega 3
 - Sardinillas tiernas con salsa y cebolla caramelizada
+- Pescado azul rico en Omega 3
+- Receta exclusiva de la Edición Limitada Luis Calvo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FQPKC22T{{</world>}}

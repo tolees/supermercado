@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Vegana y Cruelty-Free: Orgullosamente vegana y nunca probada en animales, todos los ingredientes y formulaciones cumplen con estrictos estándares éticos y veganos
-- Árbol del Té Orgánico: Conocido por sus propiedades purificantes naturales, el aceite de árbol del té ayuda a limpiar la boca y refrescar el aliento, por lo que es un ingrediente beneficioso para el cuidado bucal diario
-- Cuidado Dental Natural: Impulsada por el extracto de árbol de té y xilitol, esta pasta de dientes purificante y blanqueadora deja la boca con una sensación de limpieza natural y frescura mentolada
 - Ingredientes Conscientes: Esta pasta de dientes natural está certificada como ecológica, libre de SLS, parabenos, aceites minerales y siliconas, y forma parte de una gama apta para vegetarianos y veganos
+- Árbol del Té Orgánico: Conocido por sus propiedades purificantes naturales, el aceite de árbol del té ayuda a limpiar la boca y refrescar el aliento, por lo que es un ingrediente beneficioso para el cuidado bucal diario
+- Vegana y Cruelty-Free: Orgullosamente vegana y nunca probada en animales, todos los ingredientes y formulaciones cumplen con estrictos estándares éticos y veganos
+- Cuidado Dental Natural: Impulsada por el extracto de árbol de té y xilitol, esta pasta de dientes purificante y blanqueadora deja la boca con una sensación de limpieza natural y frescura mentolada
 - Sin Alcohol: Este enjuague bucal sin alcohol ni flúor está enriquecido con aceite de árbol de té; ayuda a cuidar las encías, aporta frescor al aliento y deja la boca con una sensación mentolada y naturalmente limpia
 
 [🛒 Aquí!!!]({{< param buyurl >}})

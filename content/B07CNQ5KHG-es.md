@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Almacenar preferiblemente entre 5 y 15C, evitando temperaturas superiores a 25C
-- Contiene gluten
 - Cerveza tipo lager y estilo rubia
-- Conservar el producto en un lugar limpio, seco y bien ventilado
-- 100% Malta
+- Almacenar preferiblemente entre 5 y 15C, evitando temperaturas superiores a 25C
 - DISTRIBUIDA POR: Heineken España, S.A. Avda. de Andalucía 1, Sevilla.
+- Contiene gluten
+- 100% Malta
+- Conservar el producto en un lugar limpio, seco y bien ventilado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07CNQ5KHG{{</world>}}

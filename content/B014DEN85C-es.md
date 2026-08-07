@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PRÁCTICAS PARA LLEVAR – Ideales para el trabajo, oficina o como snack sobre la marcha
 - SIN ADITIVOS ARTIFICIALES – Sin colorantes ni conservantes artificiales
 - FUENTE DE FIBRA – Barritas que son fuente de fibra, calcio y vitamina D
+- PRÁCTICAS PARA LLEVAR – Ideales para el trabajo, oficina o como snack sobre la marcha
 - BARRITAS FROSTIES – El sabor grrrrande de Frosties con una textura crujiente irresistible
 - PACK DE 6 x 25g – Formato individual perfecto para llevar y controlar las porciones
 

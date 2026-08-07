@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Dimensiones del producto: 10 x 10 x 21.5 cm
+- Cuidado y protección para suelos de piedra natural y artificial, linóleo y PVC
 - Formando una capa protectora contra el agua y la suciedad diaria
 - Se eliminan las huellas, se renueva la película protectora y el piso adquiere un acabado semi brillante
 - Producto de limpieza listo para usar
-- Dimensiones del producto: 10 x 10 x 21.5 cm
-- Cuidado y protección para suelos de piedra natural y artificial, linóleo y PVC
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00B17I6ZC{{</world>}}

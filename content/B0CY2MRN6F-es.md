@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- IDEAL COMO DESAYUNO: Estos copos de avena sin lactosa son idóneos para la primera comida del día. Añádelos a la leche, bebidas vegetales o yogures para disfrutar de un delicioso sabor por las mañanas. ¡Como nunca antes lo habías hecho!
 - DESARROLLA TUS MÚSCULOS: Al ser una rica fuente de proteínas, la avena está indicada para aquellas personas que tienen como objetivo aumentar la masa muscular. Además, te proporcionará una dosis extra de energía para todo el día.
 - COPOS DE AVENA BIO: Nuestros cereales de avena integral son un alimento orgánico que te proporcionará energía y un potente efecto saciante. Destaca por su alto valor nutritivo y por ser el acompañante perfecto para una dieta saludable.
-- IDEAL COMO DESAYUNO: Estos copos de avena sin lactosa son idóneos para la primera comida del día. Añádelos a la leche, bebidas vegetales o yogures para disfrutar de un delicioso sabor por las mañanas. ¡Como nunca antes lo habías hecho!
-- SOBRE NOSOTROS: Ecocesta nació con una misión clara: dar visibilidad a la alimentación de origen vegetal. Somos empresa BCorp certificada y cumplimos con los más altos estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
 - MÚLTIPLES BENEFICIOS: Gracias a su alto contenido en carbohidratos, fibra, vitaminas y minerales, la avena integral te ayudará a regular el tránsito intestinal y el nivel de glucosa en sangre. Además, ejerce un marcado efecto antioxidante.
+- SOBRE NOSOTROS: Ecocesta nació con una misión clara: dar visibilidad a la alimentación de origen vegetal. Somos empresa BCorp certificada y cumplimos con los más altos estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CY2MRN6F{{</world>}}

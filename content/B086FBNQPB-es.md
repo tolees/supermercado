@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Contiene manteca de karité.
 - Producto apto a partir de 6 años.
+- El refrescante limón y la vainilla dejan la piel suave y deliciosamente perfumada.
 - Suaviza la piel gracias a los cristales de azúcar natural.
 - Exfoliante corporal de azúcar con increíble aroma a pastel de limón.
-- El refrescante limón y la vainilla dejan la piel suave y deliciosamente perfumada.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B086FBNQPB{{</world>}}

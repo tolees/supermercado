@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Despega y enseña el corazón: Una sorpresa te espera bajo la pegatina para despegar y enseñar el corazón de tu Fairy Eggzania.
 - Más de 50 sorpresas por descubrir: ¡Muchas sorpresas, desde tu mejor amigo de peluche hasta accesorios ponibles, burbujas, slime, Yolkies que deben romper el cascarón y mucho más!
-- Más de 50 sorpresas por descubrir: ¡Muchas sorpresas, desde tu mejor amigo de peluche hasta accesorios ponibles, burbujas, slime, Yolkies que deben romper el cascarón y mucho más!
 - Abre los Yolkies: Hay 9 nuevos Yolkies coleccionables para romper el cascarón y añadir a tu colección Yolkie. ¿Qué Yolkies encontrarás?
+- Más de 50 sorpresas por descubrir: ¡Muchas sorpresas, desde tu mejor amigo de peluche hasta accesorios ponibles, burbujas, slime, Yolkies que deben romper el cascarón y mucho más!
 - Accesorios para llevar: Descubre la magia con accesorios de hadas. ¡Transfórmate en una verdadera hada con encantadoras alas, fantásticas bandas para el pelo, pulseras de cuentas y mucho más!
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Se disuelve en agua o leche
 - Conservar en lugar fresco y seco
-- Café soluble que contiene café 100% arábica
+- Se disuelve en agua o leche
 - Ideal para el desayuno o una pausa durante el día
 - Fácil y rápido de preparar
+- Café soluble que contiene café 100% arábica
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08MC2M79B{{</world>}}

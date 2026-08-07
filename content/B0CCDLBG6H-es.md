@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Limpieza profunda de poros y acabado matificante: el gel limpiador limpia intensamente la piel, reduce el exceso de sebo y deja un acabado mate, ideal para pieles grasas y propensas a impurezas
-- Competencia natural real: más de 40 extractos de plantas de fabricación propia son la base de nuestro cuidado. El gel limpiador es vegano, certificado NaTrue, libre de fragancias sintéticas y colorantes y sin aceites minerales ni siliconas
+- Hidratante y suavizante: la fórmula suave con té verde orgánico hidrata la piel y proporciona una textura suave y flexible de la piel
 - Mantenimiento responsable: SANTE es sinónimo de transparencia e ingredientes naturales en forma certificada, con experiencia y pasión por la eficacia real de la naturaleza
 - Poros refinados y reducción de impurezas: BHA limpia los poros obstruidos, previene los puntos negros y mejora la apariencia de la piel a largo plazo, para una tez visiblemente más fina y menos impurezas
-- Hidratante y suavizante: la fórmula suave con té verde orgánico hidrata la piel y proporciona una textura suave y flexible de la piel
+- Competencia natural real: más de 40 extractos de plantas de fabricación propia son la base de nuestro cuidado. El gel limpiador es vegano, certificado NaTrue, libre de fragancias sintéticas y colorantes y sin aceites minerales ni siliconas
+- Limpieza profunda de poros y acabado matificante: el gel limpiador limpia intensamente la piel, reduce el exceso de sebo y deja un acabado mate, ideal para pieles grasas y propensas a impurezas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CCDLBG6H{{</world>}}

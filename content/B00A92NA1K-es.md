@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Elaborado con tomates cuidadosamente seleccionados y cosechados
 - Producto sin conservantes ni gluten
-- No contiene sal ni azúcar añadido
 - Tiene un sabor casero
+- No contiene sal ni azúcar añadido
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00A92NA1K{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- FÓRMULA REFRESCANTE – Gracias a su fórmula con aloe vera y aceite de aguacate, esta loción calmante mantiene la elasticidad de la piel y la deja suave y fresca.
+- CREMA HIDRATANTE – Tras la exposición al sol, esta crema refrescante calma e hidrata intensivamente la piel durante 24 horas, ayudando a que se regenere.
 - LOCIÓN AFTER SUN – Esta crema con aloe vera cuida la piel y la ayuda a sobreponerse de los efectos causados por una prolongada exposición solar.
 - CONTENIDO DEL ENVÍO – NIVEA SUN After Sun Loción Hidratante, con aloe vera y aceite de aguacate, 1 x 400 ml, botella.
 - La siguiente información se aplica a cada unidad del paquete
-- CREMA HIDRATANTE – Tras la exposición al sol, esta crema refrescante calma e hidrata intensivamente la piel durante 24 horas, ayudando a que se regenere.
-- FÓRMULA REFRESCANTE – Gracias a su fórmula con aloe vera y aceite de aguacate, esta loción calmante mantiene la elasticidad de la piel y la deja suave y fresca.
 - BRONCEADO DURADERO – Esta crema calmante de textura ligera se absorbe rápidamente y ayuda a conseguir un bonito bronceado durante más tiempo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

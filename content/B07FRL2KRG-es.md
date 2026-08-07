@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Maridaje: Perfecto para acompañar legumbres, guisos de caza y pescados a la parrilla.
 - Gusto: En boca es suave al encuentro, sabroso y fácil de beber. Sensación retronasal compleja y persistente.
-- Aroma: Aroma intenso a vainilla, frutas maduras y cuero.
-- Apariencia: Color rojo rubí guinda, con irisaciones en tonos teja.
-- Consumo: Recomendamos servir el vino Antaño Reserva a una temperatura de 18º C. Asimismo, se recomienda decantar o bien descorchar una hora antes de su degustación.
 - Tipo de uva: Este reserva, es elaborado a partir de la selección de las uvas más prometedoras de la vendimia, a partir de ellas realizamos la fermentación con sus hollejos durante 20 días en depósitos de acero inoxidable a temperatura de 28ºC con una maceración pelicular prolongada.
+- Consumo: Recomendamos servir el vino Antaño Reserva a una temperatura de 18º C. Asimismo, se recomienda decantar o bien descorchar una hora antes de su degustación.
+- Maridaje: Perfecto para acompañar legumbres, guisos de caza y pescados a la parrilla.
+- Apariencia: Color rojo rubí guinda, con irisaciones en tonos teja.
+- Aroma: Aroma intenso a vainilla, frutas maduras y cuero.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07FRL2KRG{{</world>}}

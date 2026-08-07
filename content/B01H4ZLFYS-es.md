@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mezcla concentrada de proteínas e hidratos de carbono en polvo, destinados a sufragar los gastos del esfuerzo muscular intenso
 - Las proteínas contribuyen al crecimiento o el mantenimiento de la masa muscular, que es componente de la masa corporal
+- Mezcla concentrada de proteínas e hidratos de carbono en polvo, destinados a sufragar los gastos del esfuerzo muscular intenso
 - El producto está diseñado para personas físicamente activas y deportistas
 - Compleja composición de proteínas de gran valor (WPC, WPI, caseína micelar, WPH) y carbohidratos, enriquecido con aceite MCT, y L-glutamina
 

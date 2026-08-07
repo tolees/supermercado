@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- SOBRE NOSOTROS: En Destination hemos recorrido el mundo para llevar la riqueza de cada entorno, hasta tu taza. Elaborados con las mejores materias primas, nuestros cafés y tés llenarán tu paladar de sabores auténticos y originales.
-- INGREDIENTES NATURALES: Elaborado a base de café arábica 100% orgánico y de comercio justo, sin azúcares añadidos y sin lactosa, este café tiene unas excelentes notas de cata y presenta una acidez media. Una sabrosa combinación que enamorará a los amantes del café
-- TOSTADO ARTESANALMENTE: Realizamos el tueste en Burdeos, asando lentamente cada grano. Gracias a la artesanía de nuestras técnicas conseguimos potenciar el aroma de nuestros cafés en cada taza, logrando sabores redondos, generosos e intensos. El tueste más oscuro expande los granos, rompiendo más las paredes celulares, lo que facilita la solubilidad y extracción de sabores y compuestos aromáticos. Mayor amargor y menor acidez.
 - CAFÉ DE ESPECIALIDAD ARÁBICA 100%: Cosechado en cultivos ecológicos, nuestro café arábica aporta grandes beneficios a tu organismo. Gracias a sus propiedades diuréticas, favorece el tránsito intestinal y te ayuda a estimular y activar tu cuerpo.
 - CAFÉ EN GRANO: Sabores descritos como redondos y balanceados, con notas de "grill" (a la parrilla) y un sabor fuerte.
+- SOBRE NOSOTROS: En Destination hemos recorrido el mundo para llevar la riqueza de cada entorno, hasta tu taza. Elaborados con las mejores materias primas, nuestros cafés y tés llenarán tu paladar de sabores auténticos y originales.
+- TOSTADO ARTESANALMENTE: Realizamos el tueste en Burdeos, asando lentamente cada grano. Gracias a la artesanía de nuestras técnicas conseguimos potenciar el aroma de nuestros cafés en cada taza, logrando sabores redondos, generosos e intensos. El tueste más oscuro expande los granos, rompiendo más las paredes celulares, lo que facilita la solubilidad y extracción de sabores y compuestos aromáticos. Mayor amargor y menor acidez.
+- INGREDIENTES NATURALES: Elaborado a base de café arábica 100% orgánico y de comercio justo, sin azúcares añadidos y sin lactosa, este café tiene unas excelentes notas de cata y presenta una acidez media. Una sabrosa combinación que enamorará a los amantes del café
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJ14G3BG{{</world>}}

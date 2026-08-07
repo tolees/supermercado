@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compromiso con la calidad: Mantenemos estándares excepcionales a lo largo de toda la cadena de valor, desde el cultivo hasta el envasado, para asegurar la consistencia en la calidad de nuestros productos.
 - La canela de Ceilán, originaria de Sri Lanka, tiene un sabor distintivo que la distingue de otras variedades, lo que la convierte en una opción preferida para realzar platos tanto dulces como salados.
+- Compromiso con la calidad: Mantenemos estándares excepcionales a lo largo de toda la cadena de valor, desde el cultivo hasta el envasado, para asegurar la consistencia en la calidad de nuestros productos.
+- Origen natural: Nuestra canela de Ceilán proviene de un cultivo que prioriza la pureza, garantizando que cada ingrediente cumpla con los más altos estándares de calidad.
 - Sabor auténtico: Nuestra canela en polvo, elaborada con ramas de canela secas y molidas, es un producto de un solo ingrediente de origen natural. Es naturalmente vegana y no contiene gluten, aditivos, conservantes ni saborizantes.
 - Usos versátiles: La canela en polvo es esencial en repostería, presente en rollos de canela, tartas de manzana y postres. También se utiliza en platos salados como el curry y en bebidas calientes como el vino caliente.
-- Origen natural: Nuestra canela de Ceilán proviene de un cultivo que prioriza la pureza, garantizando que cada ingrediente cumpla con los más altos estándares de calidad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CMQT9D6S{{</world>}}

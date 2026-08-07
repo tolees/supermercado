@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Alérgenos: Puede contener trazas de cacahuetes, otros frutos de cáscara, soja, leche y derivados.
+- País de Origen: España
 - Ingredientes: ALMENDRA comuna repelada
 - Conservar en lugar limpio, fresco y seco. Mantener alejado de la acción de la luz solar.
-- Alérgenos: Puede contener trazas de cacahuetes, otros frutos de cáscara, soja, leche y derivados.
 - Información de alérgenos: almonds; especialidad: Apto para celiacos; advertencia de seguridad: No se recomienda para menores de 3 años; instrucciones para su uso adecuado: Uso: consumo directo
-- País de Origen: España
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B091FZWG67{{</world>}}

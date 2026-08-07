@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ♻️ Compromiso con la sostenibilidad: En Matcha & CO, la calidad y el respeto por el medio ambiente van de la mano. Todos nuestros productos están certificados como ecológicos, libres de pesticidas, colorantes y conservantes, y no contienen plantas modificadas genéticamente (GMO). Además, nuestros envases son 100% reciclables.
-- 🍵 Sabor dulce y chocolatoso, perfecto tanto para quienes se inician en el matcha como para los aficionados de siempre. Disfrútalo con agua o leche para preparar un delicioso matcha latte con un toque de cacao.
-- 🧘🏽 Té Matcha con Cacao 100% Ecológico de Uji, Japón. Una deliciosa mezcla que combina el poder antioxidante del matcha con el sabor indulgente del cacao, proporcionando energía, acelerando el metabolismo y ayudando a controlar los niveles de azúcar en sangre. Sin colorantes, conservantes ni azúcar añadidos
 - 🗾 Cultivado ecológicamente en los campos de té de Uji, Kyoto, y mezclado con cacao de alta calidad. Las hojas se cosechan manualmente en otoño y se muelen en molinos de piedra, garantizando una textura fina, un aroma intenso y un sabor puro.
+- ♻️ Compromiso con la sostenibilidad: En Matcha & CO, la calidad y el respeto por el medio ambiente van de la mano. Todos nuestros productos están certificados como ecológicos, libres de pesticidas, colorantes y conservantes, y no contienen plantas modificadas genéticamente (GMO). Además, nuestros envases son 100% reciclables.
+- 🧘🏽 Té Matcha con Cacao 100% Ecológico de Uji, Japón. Una deliciosa mezcla que combina el poder antioxidante del matcha con el sabor indulgente del cacao, proporcionando energía, acelerando el metabolismo y ayudando a controlar los niveles de azúcar en sangre. Sin colorantes, conservantes ni azúcar añadidos
+- 🍵 Sabor dulce y chocolatoso, perfecto tanto para quienes se inician en el matcha como para los aficionados de siempre. Disfrútalo con agua o leche para preparar un delicioso matcha latte con un toque de cacao.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DF7L7W32{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Calma y previene la irritación
 - Piel más uniforme y radiante
 - Reducción de las manchas oscuras
+- Calma y previene la irritación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D41LBVKW{{</world>}}

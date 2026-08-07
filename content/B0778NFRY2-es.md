@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Decorado
 - Gigarrollo
+- Decorado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0778NFRY2{{</world>}}

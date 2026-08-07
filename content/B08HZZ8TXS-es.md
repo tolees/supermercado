@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- RIZOS CONTROLADOS: Hidrata y mantiene el cabello flexible y bajo control. Ideal para realzar rizos naturales con una fórmula avanzada y fácil de aplicar
 - RIZOS DEFINIDOS: Mejora la forma de los rizos, dejándolos suaves, hidratados y con brillo natural. Aporta definición duradera sin apelmazar ni resecar el cabello
 - RECOMENDACIONES: Sigue el método curly para cuidar tus rizos. Evita hábitos dañinos y adapta el tratamiento a tu tipo de cabello para mejores resultados
-- RIZOS CONTROLADOS: Hidrata y mantiene el cabello flexible y bajo control. Ideal para realzar rizos naturales con una fórmula avanzada y fácil de aplicar
 - CONSEJOS DE USO: Aplicar sobre cabello húmedo, distribuir con las manos y dejar secar al aire o con difusor. Rizos definidos, con movimiento y aspecto natural
 - PROYOU THE TWISTER GEL: Gel activador de rizos con tecnología Insta Bounce que define y controla el cabello rizado o con permanente, logrando un acabado natural y duradero
 

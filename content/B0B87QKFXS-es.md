@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- producto 2: Color: Oro brillante. Nariz: Albahaca, manzanas verdes, miel. Sabor: Pomelo, manzanas verdes, menta, tomillo. Acabado: Larga duración, dulce, picante, toques de vainilla, roble, pimienta blanca, jengibre.
-- producto 1: Color: Ámbar. Nariz: pura, noble, armoniosa, rosas, lichis, toques de romero y sándalo. Sabor: Dulce, miel, naranja confitada, chocolate blanco. Acabado: Duradero, delicado, con toques de roble japonés.
-- producto 1: Perfecto como un regalo
 - producto 2: Perfecto como un regalo
+- producto 1: Perfecto como un regalo
+- producto 1: Color: Ámbar. Nariz: pura, noble, armoniosa, rosas, lichis, toques de romero y sándalo. Sabor: Dulce, miel, naranja confitada, chocolate blanco. Acabado: Duradero, delicado, con toques de roble japonés.
+- producto 2: Color: Oro brillante. Nariz: Albahaca, manzanas verdes, miel. Sabor: Pomelo, manzanas verdes, menta, tomillo. Acabado: Larga duración, dulce, picante, toques de vainilla, roble, pimienta blanca, jengibre.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B87QKFXS{{</world>}}

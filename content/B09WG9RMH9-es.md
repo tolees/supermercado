@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para uso diario, aplicar en axilas limpias y secas.
 - Controla la transpiración excesiva manteniendo la zona seca durante 96 horas. Además, es antiolor y antihumedad.
+- Para uso diario, aplicar en axilas limpias y secas.
 - Desodorante roll-on Clinical Control 96H para controlar la sudoración. Con activos antibacterianos que mantienen las axilas suaves, frescas y secas y purifica el mal olor. Fórmula hipoalergénica sin alcohol para pieles sensibles.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

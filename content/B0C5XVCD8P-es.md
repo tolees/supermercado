@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- POR EL BIEN DEL PLANETA: La fórmula clínicamente probada y repleta de ingredientes naturales a base de hierbas se ha embalado en envases sostenibles de fuentes responsables. El tubo laminado PBL, el tapón y la caja de embalaje de papel con etiqueta FSC son reciclables.
-- CIENCIA DEL AYURVEDA CONTENIDA EN UN TUBO: El Ayurveda es una ciencia ancestral a la que Himalaya recurre para desarrollar productos que proporcionen la mejor protección bucal. La línea de dentífricos Gum Expert contiene el extracto de la planta Miswak, así como astringentes naturales que protegen las encías y las mantienen sanas.
 - DIENTES 3 TONOS MÁS BLANCOS EN 2 SEMANAS: Himalaya Ultra Whitening tiene un efecto de limpieza profunda, desintoxicante y blanqueador, con un cambio visible en tan sólo 2 semanas de uso. El dentífrico deja los dientes más blancos y mejora su aspecto sin recurrir al uso de fluoruro o blanqueadores químicos, además de proporcionar una agradable sensación de frescor.
+- POR EL BIEN DEL PLANETA: La fórmula clínicamente probada y repleta de ingredientes naturales a base de hierbas se ha embalado en envases sostenibles de fuentes responsables. El tubo laminado PBL, el tapón y la caja de embalaje de papel con etiqueta FSC son reciclables.
 - COMBATE 5 PROBLEMAS DE ENCÍAS: La línea Gum Expert ha sido desarrollada para fortalecer tus dientes y encías y apoyar el proceso de su curación. Los ingredientes activos naturales a base de hierbas y plantas calman y alivian las encías irritadas y enrojecidas, ayudando a reducir las molestias y el dolor.
 - FÓRMULA A BASE DE HIERBAS: Ultra Whitening contiene un 96% de ingredientes de origen natural. El Carbón Activo de la Cáscara de Coco ayuda a limpiar y blanquear los dientes hasta 3 tonos en sólo 2 semanas. El Aceite de Semilla de Nigella y el Miswak alivian el dolor y reducen el sagrado de las encías. El dentífrico es 100% vegano y no contiene fluoruro, blanqueadores químicos ni colorantes artificiales.
+- CIENCIA DEL AYURVEDA CONTENIDA EN UN TUBO: El Ayurveda es una ciencia ancestral a la que Himalaya recurre para desarrollar productos que proporcionen la mejor protección bucal. La línea de dentífricos Gum Expert contiene el extracto de la planta Miswak, así como astringentes naturales que protegen las encías y las mantienen sanas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C5XVCD8P{{</world>}}

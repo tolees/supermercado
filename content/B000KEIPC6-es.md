@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Repele la humedad para mantener el peinado intacto.
+- Viene en una cantidad de 85 g
 - La marca del producto es American Crew
 - El producto es una crema para fijación media
-- Viene en una cantidad de 85 g
-- Repele la humedad para mantener el peinado intacto.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B000KEIPC6{{</world>}}

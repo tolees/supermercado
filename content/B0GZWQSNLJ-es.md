@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Galletas Gullón Hookies Tuestis 600g'
-date: 2026-08-02 13:46:28
+date: 2026-08-07 18:16:33
 image: 'https://m.media-amazon.com/images/I/5197Fna7VvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- con divertidos dibujos de animales y piratas
-- ideales para desayunos y meriendas
 - elaboradas en España por Galletas Gullón
 - elaboradas con aceite de girasol alto oleico
+- con divertidos dibujos de animales y piratas
+- ideales para desayunos y meriendas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GZWQSNLJ{{</world>}}

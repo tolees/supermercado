@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- MEZCLA SENSUAL Acaricia tus sentidos con una suave y exquisita limpieza
 - ENVASE RECICLABLE Nuestros envases de champú son reciclables, hechos con de plástico reciclado (excluyendo tapas, etiquetas y tintes)
 - MEJORA TU ESTADO DE ÁNIMO DE FORMA NATURAL. Mímate con este regalo de la naturaleza con aroma a rosas que mejorará tu estado de ánimo
 - FÓRMULA DE ORIGEN NATURAL EN UN 97% Con esencia de rosas cosechadas a mano en Grasse, al sur de Francia. No testado en animales, vegano y sin siliconas
-- MEZCLA SENSUAL Acaricia tus sentidos con una suave y exquisita limpieza
 - PELO SUAVE COMO PÉTALOS DE ROSA Sumérgete en el maravilloso aroma y suavidad día tras día
 - HASTA 2 VECES MÁS HIDRATACIÓN* Descubre nuestra mejor hidratación con nuestra experiencia completa Suavidad Aroma a Rosas
 

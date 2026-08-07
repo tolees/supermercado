@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sabor y Acabado Woodford Reserve: mijo, malta y centeno se mezclan con nostas de menta, clavo, miel y manzanas para dar un sabor perfectamente equilibrado, intenso, consistente, redondo y suave. Acabado duradero y dulcemente picante
 - Aroma: Whiskey aromático y picante combinado con notas de madera de cedro, canela y centeno, junto con un toque equilibrado de almendras, manzanas y peras
-- El Whiskey de centeno distillers select de la Reserva de Woodford está hecho de 53% de centeno, 14% de cebada y 33% de maíz. Cada botella está numerada y firmada, garantizando su contenido único
-- Woodford Reserve Kentucky Straight Rye, Whiskey super premium de centeno de gran calidad elaborado en Kentucky. Triple destilado en alambique de cobre. La Reserva de Woodford ha sido premiada varias veces
-- Color: Woodford Reserve Whiskey Bourbon es de color marrón, miel dorada
-- Sugerencia de preparación: Woodford Reserve Rye con hielo: el Whiskey Rye ofrece sabores atrevidos de pimienta y tabaco con un final largo de frutas y especias dulces
 - Woodford Reserve es un Whiskey bourbon con un acabado picante y notas distintivas de centeno, pimienta negra, cedro y corteza de casia endulzadas con una capa de mazapán
+- Sabor y Acabado Woodford Reserve: mijo, malta y centeno se mezclan con nostas de menta, clavo, miel y manzanas para dar un sabor perfectamente equilibrado, intenso, consistente, redondo y suave. Acabado duradero y dulcemente picante
+- Color: Woodford Reserve Whiskey Bourbon es de color marrón, miel dorada
+- El Whiskey de centeno distillers select de la Reserva de Woodford está hecho de 53% de centeno, 14% de cebada y 33% de maíz. Cada botella está numerada y firmada, garantizando su contenido único
+- Sugerencia de preparación: Woodford Reserve Rye con hielo: el Whiskey Rye ofrece sabores atrevidos de pimienta y tabaco con un final largo de frutas y especias dulces
+- Woodford Reserve Kentucky Straight Rye, Whiskey super premium de centeno de gran calidad elaborado en Kentucky. Triple destilado en alambique de cobre. La Reserva de Woodford ha sido premiada varias veces
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01412UZIE{{</world>}}

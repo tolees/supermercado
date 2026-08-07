@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🍬 Aroma dulce y alegre: Combinación irresistible de notas frutales, caramelo y sándalo que llenan el ambiente de calidez y diversión.
 - 🏠 Ideal para cualquier estancia: Perfuma salones, dormitorios, oficinas y zonas de relax con una estela duradera y agradable.
-- ✨ Diseño exclusivo by Vicky Martín Berrocal: Un ambientador que refleja estilo y personalidad, con el toque femenino y sofisticado de la firma.
 - 🧴 Formato grande de 500 ml: Spray de alta capacidad para disfrutar de tu fragancia favorita durante más tiempo, perfecto para uso diario.
+- ✨ Diseño exclusivo by Vicky Martín Berrocal: Un ambientador que refleja estilo y personalidad, con el toque femenino y sofisticado de la firma.
+- 🍬 Aroma dulce y alegre: Combinación irresistible de notas frutales, caramelo y sándalo que llenan el ambiente de calidez y diversión.
 - 🌺 Fragancia floral y frutal: Un bouquet que combina la frescura de las frutas con la suavidad de las flores, creando un ambiente acogedor y positivo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

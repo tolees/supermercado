@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nota de cata (nariz): Frutos rojos y regaliz, propios del Tempranillo; notas de pastelería con cierto recuerdo torrefacto (vainilla, coco)
 - Maridaje: Combina con quesos cremosos y semicurados; los embutidos, setas, platos de legumbre o la tradicional tortilla de patata
+- Nota de cata (nariz): Frutos rojos y regaliz, propios del Tempranillo; notas de pastelería con cierto recuerdo torrefacto (vainilla, coco)
+- Variedades: 100% tempranillo
 - Nota de cata (boca): Entrada amable, estructura aportada por la presencia de taninos pulidos; equilibrado con recuerdos afrutados y una buena persistencia
 - Nota de cata (vista): Color granate-cereza de intensidad media y destellos violáceos
-- Variedades: 100% tempranillo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DGLWHP5T{{</world>}}

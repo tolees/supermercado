@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mujer
 - Perfumes
+- Mujer
 - Adolfo Dominguez
 
 [🛒 Visítala!!!]({{< param buyurl >}})

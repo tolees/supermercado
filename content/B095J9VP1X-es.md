@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La opción perfecta para el ristretto, el espresso, el lungo o el cappucino
-- Tostado con toda la pasión y la experiencia de la tradición vienesa desde 1929, y con un sabor matizado y sutil gracias al largo tueste de tambor
-- Los granos de café cuidadosamente seleccionados (80 % arábica, 20 % robusta) crean una mezcla perfectamente equilibrada de aroma y sabor, con una ligera acidez y el sabor dulce del caramelo natural
 - Ristretto: 20 ml; espresso: 30 ml; lungo: 160 ml; cappucino: 180 ml
+- Tostado con toda la pasión y la experiencia de la tradición vienesa desde 1929, y con un sabor matizado y sutil gracias al largo tueste de tambor
+- La opción perfecta para el ristretto, el espresso, el lungo o el cappucino
+- Los granos de café cuidadosamente seleccionados (80 % arábica, 20 % robusta) crean una mezcla perfectamente equilibrada de aroma y sabor, con una ligera acidez y el sabor dulce del caramelo natural
 - Café molido con sabor a caramelo natural; 3/5 de intensidad, 4/5 de tueste y 1/5 de acidez
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

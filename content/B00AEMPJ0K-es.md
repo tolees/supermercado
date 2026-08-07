@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con aromas de avellanas y delicadas notas de especias
-- Combina bien con queso de cabra o solo con hielo
 - Envejecido en barricas de roble americano previamente aderezado con jerez
 - Tiene un sabor rico y delicado
+- Combina bien con queso de cabra o solo con hielo
 - Mantener en lugar fresco y seco
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

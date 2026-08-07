@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Volumen 1000 ml
+- Champú neutralizante
 - Brand: Revlon Professional ProYou
 - Limpia profundamente y apaga al instante los tonos cálidos en rubios, decolorados y grises
-- Champú neutralizante
-- Volumen 1000 ml
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08HZZNK4K{{</world>}}

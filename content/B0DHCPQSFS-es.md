@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sabor Decidido e Intenso: Cuerpo 5/6 e intensidad 12/13 para un café de sabor equilibrado, perfecto para quienes aman un espresso fuerte y con cuerpo.
 - Mezcla Equilibrada y con Cuerpo: Combinación selecta de café Arábica y Robusta provenientes de Sudamérica y África, para un espresso de sabor completo y decidido.
 - Tostado Medio-Oscuro: Proceso de tostado preciso para extraer las mejores características organolépticas de los granos, ofreciendo un café con una crema densa y persistente.
 - NUEVA LÍNEA TOSCANA ARTESANAL 2024: Descubre la última creación de Caffè Corsini, una mezcla exclusiva de Café en Grano Arábica y Robusta, diseñada para una experiencia de sabor innovadora e inolvidable.
 - Perfecto para Espresso: Mezcla diseñada para obtener una crema densa y persistente, con un regusto agradablemente equilibrado y decidido.
+- Sabor Decidido e Intenso: Cuerpo 5/6 e intensidad 12/13 para un café de sabor equilibrado, perfecto para quienes aman un espresso fuerte y con cuerpo.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHCPQSFS{{</world>}}

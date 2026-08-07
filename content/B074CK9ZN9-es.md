@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - ALTA BIODISPONIBILIDAD Y DIGESTIBILIDAD | La piperina incluida aumenta la biodisponibilidad de forma natural. De este modo, el organismo puede absorber y procesar muy bien la valiosa curcumina.
+- EL LEMA DE NATURAL ELEMENTS | ¡A grandes palabras, grandes hechos! Por ello, TODOS nuestros lotes de producción se someten a pruebas exhaustivas en laboratorios independientes de Alemania.
 - EL SUPERALIMENTO PARA SENTIRTE BIEN | Fuerza natural para todo el cuerpo: La curcumina, sustancia vegetal ayurvédica de eficacia probada, procedente del bulbo amarillo de la cúrcuma, te ayuda en tu camino para sentirte bien.
 - CONCEPCIÓN ELEMENTAL | Solo lleva lo que debe llevar: En nuestro producto ecológico y vegano, no encontrarás aromas ni aditivos innecesarios como sustancias de relleno, estabilizadores o antiaglomerantes. Naturalmente, tampoco empleamos ingeniería genética.
 - DÚO ECOLÓGICO DE ALTA DOSIFICACIÓN | Una dosis diaria de 2.900 mg de cúrcuma ecológica contiene 145 mg de curcumina, y 160 mg de pimienta negra ecológica contienen 8 mg de piperina. 2 sustancias naturales en una cápsula con envoltura puramente vegetal: ¡completamente vegana!
-- EL LEMA DE NATURAL ELEMENTS | ¡A grandes palabras, grandes hechos! Por ello, TODOS nuestros lotes de producción se someten a pruebas exhaustivas en laboratorios independientes de Alemania.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B074CK9ZN9{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Muy alta intensidad: café con cuerpo muy consistente y sabor pleno. Tostado oscuro. Empaque de 100 cápsulas divididas en 10 cajas de 10 unidades cada una
-- *Nespresso es una marca registrada de Société des Produits Nestlé S.A.. Segafredo Zanetti S.p.a. es un productor independiente no vinculado a Société des Produits Nestlé S.A.. La compatibilidad de las cápsulas Segafredo Zanetti está diseñada para su uso con máquinas de café Nespresso para uso doméstico
-- Segafredo Zanetti Caffè Intenso: mezcla de Arabica de Sudamérica y África, con un sabor intrigante con notas de chocolate y cítricos
 - Línea de aluminio: este material garantiza una barrera que sella herméticamente las cápsulas y asegura una perfecta conservación del aroma y sabor
 - Cápsulas compatibles con los siguientes modelos de máquinas de café Nespresso: Citiz, Pixie, Inissia, Essenza, Lattissima, U, Umilk, Prodigio, Maestria. Siempre seguir las instrucciones del fabricante de la máquina de café
+- *Nespresso es una marca registrada de Société des Produits Nestlé S.A.. Segafredo Zanetti S.p.a. es un productor independiente no vinculado a Société des Produits Nestlé S.A.. La compatibilidad de las cápsulas Segafredo Zanetti está diseñada para su uso con máquinas de café Nespresso para uso doméstico
+- Muy alta intensidad: café con cuerpo muy consistente y sabor pleno. Tostado oscuro. Empaque de 100 cápsulas divididas en 10 cajas de 10 unidades cada una
+- Segafredo Zanetti Caffè Intenso: mezcla de Arabica de Sudamérica y África, con un sabor intrigante con notas de chocolate y cítricos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09C1ZY9RB{{</world>}}

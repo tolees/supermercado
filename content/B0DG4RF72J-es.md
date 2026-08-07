@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - SABOR: El café es 100% Arábica, adecuado para los amantes del café con un sabor muy aromático
+- DECISIÓN CONSCIENTE: Las cápsulas de aluminio compatibles de illy adoptan los principios de sostenibilidad medioambiental y social para garantizar a los consumidores una experiencia de compra más informada a partir de la selección de productos
 - CÁPSULAS COMPATIBLES: Descubra las cápsulas compatibles con las máquinas *Nespresso Original: dosificación óptima para una taza de café, preparación rápida y fácil, ideal para disfrutar del placer de un espresso todos los días. *illy no está afiliada a la marca Nespresso
 - INTENSO: El perfil de tueste INTENSO se caracteriza por notas envolventes de cacao, frutos secos y un sabor final rico y de cuerpo consistente
-- DECISIÓN CONSCIENTE: Las cápsulas de aluminio compatibles de illy adoptan los principios de sostenibilidad medioambiental y social para garantizar a los consumidores una experiencia de compra más informada a partir de la selección de productos
 - TAMAÑO: Cada paquete contiene 10 cápsulas monodosis envueltas individualmente. Las cápsulas de aluminio illy están diseñadas específicamente para su uso con máquinas de café Nespresso Original
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bain de Force Quotidien de Genesis Homme es un champú para hombres con cabello debilitado y con tendencia a la caída. Enriquecido con Raíz de Jengibre y Creatina, este champú fortalece el pelo reconstruyendo y fortaleciendo su fibra. Contiene Mentol, el cual aporta una sensación de frescor
-- Aplicar sobre cabello húmedo. Distribuir en forma de estrella en el cuero cabelludo, masajeando para generar espuma y liberar las notas aromáticas, mientras se distribuye al resto del pelo. Emulsionar y aclarar. Para un mejor resultado combinar con el resto de la gama Genesis Homme
 - Previene la pérdida de densidad, limpia delicadamente el cabello y purifica el cuero cabelludo desde la raíz a la vez que aporta brillo y fuerza
+- Aplicar sobre cabello húmedo. Distribuir en forma de estrella en el cuero cabelludo, masajeando para generar espuma y liberar las notas aromáticas, mientras se distribuye al resto del pelo. Emulsionar y aclarar. Para un mejor resultado combinar con el resto de la gama Genesis Homme
+- Bain de Force Quotidien de Genesis Homme es un champú para hombres con cabello debilitado y con tendencia a la caída. Enriquecido con Raíz de Jengibre y Creatina, este champú fortalece el pelo reconstruyendo y fortaleciendo su fibra. Contiene Mentol, el cual aporta una sensación de frescor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B1JDNHNQ{{</world>}}

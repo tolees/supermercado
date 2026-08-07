@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dimensiones del producto: 7,6 x 5,1 x 2,5 cm
 - El paquete puede variar
-- Deja el cabello con gran sensación de limpieza y frescor, sin grasa, con volumen y muy brillante
 - facil de usar
+- Deja el cabello con gran sensación de limpieza y frescor, sin grasa, con volumen y muy brillante
+- Dimensiones del producto: 7,6 x 5,1 x 2,5 cm
 - Número de modelo del producto: HA34316
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

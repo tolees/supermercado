@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- "🎁 REGALO ORIGINAL PARA PAPÁ Una combinación perfecta de taza + caramelo divertido, pensada para sorprender y sacar una sonrisa. Ideal para el Día del Padre, cumpleaños o como detalle especial para demostrar cariño de una forma diferente."
 - "❤️ DISEÑO CON MENSAJE EMOCIONAL La taza incorpora un mensaje pensado para papá, convirtiéndose en un recuerdo que podrá usar cada día en el desayuno, el café o cualquier momento especial. Un regalo útil con un toque emocional."
-- "📦 CAJA SÚPER PROTEGIDA (DISEÑO MUNDOHUEVO) Incluye caja de cartón resistente, con diseño original MundoHuevo, para que no tengas que comprar papel de regalo 🎁. La caja es reutilizable y puede convertirse en hucha 💸. "
+- "🎁 REGALO ORIGINAL PARA PAPÁ Una combinación perfecta de taza + caramelo divertido, pensada para sorprender y sacar una sonrisa. Ideal para el Día del Padre, cumpleaños o como detalle especial para demostrar cariño de una forma diferente."
 - "🍒 CARAMELOS ESTILO MEDICAMENTO (FORMATO BLÍSTER) Incluye caramelos sabor cereza, sin azúcar, con un diseño divertido estilo medicamento. La caja contiene 2 blísteres, y cada blíster incluye 6 caramelos. Un detalle original que aporta humor y sorpresa al regalo."
 - "✔️ AAA. ♨️ TAZA RESISTENTE Y DURADERA Las tazas MundoHuevo son aptas para microondas y lavavajillas. Diseño cómodo, resistente y pensadas para el uso diario. Tanto si la lavas a mano como si la metes al lavavajillas o calientas tu bebida en el micro, la taza aguanta sin problema."
+- "📦 CAJA SÚPER PROTEGIDA (DISEÑO MUNDOHUEVO) Incluye caja de cartón resistente, con diseño original MundoHuevo, para que no tengas que comprar papel de regalo 🎁. La caja es reutilizable y puede convertirse en hucha 💸. "
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GNJF6VNN{{</world>}}

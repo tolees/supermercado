@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PERFECTO PARA REGALOS Y PIÑATAS - Ideal para rellenar conos, bolsas de chuches cumpleaños, o preparar un detalle divertido en celebraciones. Licencia oficial de Patrulla Canina que encantar a niños y niñas.
-- SABOR CEREZA Y FORMATO MINI IDEAL - Caramelos con sabor a cereza suave, tamaño ideal para niños pequeños. Disfruta del dulce sin excesos, pensado para premiar, regalar o compartir.
-- PIRULETAS DIVERTIDAS PARA FIESTAS INFANTILES - Pack de 7 piruletas con forma de corazón y diseños originales de Patrulla Canina. El complemento perfecto para bolsas de cumpleaos, piñatas y detalles infantiles.
 - APTO PARA TODAS LAS DIETAS - Producto sin gluten, sin lactosa, apto para vegetarianos y con colorantes naturales. Ideal para compartir con seguridad en colegios y fiestas infantiles.
+- PERFECTO PARA REGALOS Y PIÑATAS - Ideal para rellenar conos, bolsas de chuches cumpleaños, o preparar un detalle divertido en celebraciones. Licencia oficial de Patrulla Canina que encantar a niños y niñas.
+- PIRULETAS DIVERTIDAS PARA FIESTAS INFANTILES - Pack de 7 piruletas con forma de corazón y diseños originales de Patrulla Canina. El complemento perfecto para bolsas de cumpleaos, piñatas y detalles infantiles.
+- SABOR CEREZA Y FORMATO MINI IDEAL - Caramelos con sabor a cereza suave, tamaño ideal para niños pequeños. Disfruta del dulce sin excesos, pensado para premiar, regalar o compartir.
 - PALITO DE PAPEL 100% ECOLÓGICO - Cuidamos del planeta: cada piruleta viene con un palito de papel biodegradable. Alternativa sostenible a los clásicos palos de plástico.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

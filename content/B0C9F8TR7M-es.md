@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Empaque de 10 minuaturas de 50 ml Licor enérgico, excitante e irreverente que viene en una botella de 700ml con un diseño muy atractivo Su afrodisiaco y cautivador sabor a canela, dulce, dota al licor de una versatilidad para combinar con bebidas afines y de sabores cítricos Fireball Cinnamon Whisky es un licor de whisky canadiense infusionado con canela y un ligero toque picante
 - Poligono Industrial de Alcobendas C/La Granja Nr 15 | 28108 ALCOBENDAS MADRID (Espana)
+- Empaque de 10 minuaturas de 50 ml Licor enérgico, excitante e irreverente que viene en una botella de 700ml con un diseño muy atractivo Su afrodisiaco y cautivador sabor a canela, dulce, dota al licor de una versatilidad para combinar con bebidas afines y de sabores cítricos Fireball Cinnamon Whisky es un licor de whisky canadiense infusionado con canela y un ligero toque picante
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C9F8TR7M{{</world>}}

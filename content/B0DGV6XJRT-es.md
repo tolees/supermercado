@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Formato: 1 caja de regalo que contiene aprox. 2 bombones Minilingote de chocolate blanco salado, aprox. 2 bombones Minilingote de chocolate con leche, aprox. 4 bombones Minilingote de chocolate extra Negro, 115 gr
-- Caja de regalo Otoño: Bombones surtidos de chocolate con leche y extra Negro con avellanas, chocolate blanco salado, con frutos secos, en una elegante caja decorada con tonos cálidos otoñales
 - Cajas de Regalo Venchi: Las cajas de bombones Venchi son el regalo ideal para cualquier ocasión, gracias a su elegancia y a la amplia variedad de formatos, como libros, sombrereras, bolsitas
-- Los bombones Venchi se elaboran estrictamente en Italia con ingredientes naturales, sin gluten, sin aceite de palma, sin colorantes, conservantes ni componentes artificiales, para garantizar la máxima calidad
 - Sabor: Bombones Minilingote surtidos de chocolate con leche y extra Negro con avellanas enteras "Avellana Piamonte" con doble crujiente y chocolate blanco salado, con almendras, pistachos y avellanas
+- Formato: 1 caja de regalo que contiene aprox. 2 bombones Minilingote de chocolate blanco salado, aprox. 2 bombones Minilingote de chocolate con leche, aprox. 4 bombones Minilingote de chocolate extra Negro, 115 gr
+- Los bombones Venchi se elaboran estrictamente en Italia con ingredientes naturales, sin gluten, sin aceite de palma, sin colorantes, conservantes ni componentes artificiales, para garantizar la máxima calidad
+- Caja de regalo Otoño: Bombones surtidos de chocolate con leche y extra Negro con avellanas, chocolate blanco salado, con frutos secos, en una elegante caja decorada con tonos cálidos otoñales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DGV6XJRT{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ACEITE DE OLIVA CON TRUFA – Incluye aceite de oliva con sabor a trufa, ajo y trufa, chile y romero con trufa.
 - Sazona ensaladas, verduras, pasta y mucho más con aceite de oliva virgen extra con trufa y sal de trufa. Incluye ideas de recetas.
 - Transforma tus platos cotidianos con condimento de trufa y aceite de oliva virgen extra español de primera calidad, prensado en frío, en botellas de vidrio.
-- INGREDIENTES AUTÉNTICOS - Las sales de trufa y romero contienen auténticos fragmentos de sabrosas trufas secas.
 - LISTO PARA REGALAR: Envuélvelo, mételo en una bolsa o añádele un lazo, ¡y este regalo único estará listo!
+- ACEITE DE OLIVA CON TRUFA – Incluye aceite de oliva con sabor a trufa, ajo y trufa, chile y romero con trufa.
+- INGREDIENTES AUTÉNTICOS - Las sales de trufa y romero contienen auténticos fragmentos de sabrosas trufas secas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B1JMJZT3{{</world>}}

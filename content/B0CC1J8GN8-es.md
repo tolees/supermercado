@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Este set de maquillaje es beneficioso para ir de compras, practicar deportes, nadar, bodas, etc. en diversas ocasiones. Con un hermoso empaque que es el regalo de maquillaje especial para el amor, la familia, los amigos en Navidad, San Valentín, Día de la Madre, cumpleaños o aniversarios.
-- El rubor líquido rosa y mate que agrega un brillo rosado natural y saludable a tu rostro y realza tu sonrisa. Puedes ajustar el tono del rubor según tus necesidades para crear el efecto de maquillaje deseado.
 - Este iluminador aporta un brillo natural intenso a los contornos del rostro. Simplemente aplícalo con toques suaves en las zonas prominentes del rostro, como los pómulos, el puente de la nariz y las esquinas internas de los ojos, para lograr una tez radiante al instante.
+- El rubor líquido rosa y mate que agrega un brillo rosado natural y saludable a tu rostro y realza tu sonrisa. Puedes ajustar el tono del rubor según tus necesidades para crear el efecto de maquillaje deseado.
 - Este contorno líquido fácil de aplicar facilita la creación de contornos faciales definidos y naturales. Simplemente aplica la crema de contorno en la línea de la mandíbula, las sienes y los lados de la nariz, difumina uniformemente con una esponja o brocha y tus contornos faciales se volverán instantáneamente más definidos y estructurados.
 - Este kit de maquillaje incluye un iluminador líquido, un rubor líquido y un contorno líquido. Ya sea maquillaje diario o maquillaje de noche, este juego puede satisfacer sus necesidades y hacer que su maquillaje luzca más brillante.
 

@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Champú para cabello apagado o sin vida
-- Champú Lamellar Shine, para un acabado de salón con Brillo Ultra Gloss
-- La siguiente información se aplica a cada unidad del paquete
-- Tecnología Lamellar Shine, envuelve las fibras capilares para corregir, suavizar y alinear tu cabello para un acabado ultra brillante
-- Champú de calidad profesional, diseñado con Prostyle Tech que contiene aminoácidos y ceramidas
 - Despierta la vitalidad de tu cabello con la rutina de brillo Lamellar Shine
+- Champú para cabello apagado o sin vida
+- Tecnología Lamellar Shine, envuelve las fibras capilares para corregir, suavizar y alinear tu cabello para un acabado ultra brillante
+- La siguiente información se aplica a cada unidad del paquete
+- Champú de calidad profesional, diseñado con Prostyle Tech que contiene aminoácidos y ceramidas
+- Champú Lamellar Shine, para un acabado de salón con Brillo Ultra Gloss
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DJ1PFQP7{{</world>}}

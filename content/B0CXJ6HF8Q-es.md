@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El kit contiene: - N.1 Sculpting Touch Creamy Stick Contouring 200 Este práctico stick para el contorno facial, perfecto para esculpir ópticamente los volúmenes del rostro creando juegos de luces y sombras, presenta un acabado mate y está enriquecido con extracto de pistacho. Es fácil de difuminar y se funde agradablemente en la piel
 - El kit contiene: - N.1 Velvet Touch Creamy Stick Blush 02 Un colorete en stick de acabado luminoso y con una pigmentación excelente y fácil de difuminar. Es agradable al tacto y reaviva instantáneamente la piel con un formato que permite una cómoda aplicación
 - El kit contiene: - N.1 Radiant Touch Creamy Stick Highlighter 102 Suave y cremoso, este iluminador en stick de textura perlada y enriquecido con aceite de jojoba es imprescindible para realzar los puntos de luz del rostro en un abrir y cerrar de ojos, en cualquier parte
+- El kit contiene: - N.1 Sculpting Touch Creamy Stick Contouring 200 Este práctico stick para el contorno facial, perfecto para esculpir ópticamente los volúmenes del rostro creando juegos de luces y sombras, presenta un acabado mate y está enriquecido con extracto de pistacho. Es fácil de difuminar y se funde agradablemente en la piel
 - COLORETE Dermatológicamente testado No comedogénico ILUMINADOR Dermatológicamente testado No comedogénico CONTORNO FACIAL Dermatológicamente testado No comedogénico
 - Perfecto para: realzar, definir y esculpir ópticamente los rasgos faciales de forma rápida y sencilla
 

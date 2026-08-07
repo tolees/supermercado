@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Beber con moderación
 - Bebida de vino
+- Beber con moderación
 - Imponente rojo granate; su aroma nos obsequia con ahumados, pan de higos, toffee y cuero; en boca es intenso y se expande a medida que lo degustamos; taninos todavía vivos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

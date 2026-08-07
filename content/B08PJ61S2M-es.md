@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 🍺 Tradición cervecera centenaria: Cada cerveza en este pack es el resultado de siglos de artesanía cervecera alemana, reflejando la rica historia y herencia del país en cada sorbo.
-- 🏆 Variedades excepcionales: Desde las clásicas Pilsener hasta las oscuras Schwarzbier, este pack ofrece una amplia gama de estilos para satisfacer todos los gustos cerveceros.
 - 🌾 Ingredientes de calidad: Elaboradas con los mejores ingredientes según las recetas tradicionales y elaboradas según la ley de pureza alemana de 1516, estas cervezas garantizan un sabor puro y auténtico en cada botella.
-- 📚 Folleto informativo incluido: Además de las cervezas, recibirás un folleto detallado que te guiará a través de las características y maridajes de cada variedad, enriqueciendo tu experiencia cervecera.
+- 🍺 Tradición cervecera centenaria: Cada cerveza en este pack es el resultado de siglos de artesanía cervecera alemana, reflejando la rica historia y herencia del país en cada sorbo.
 - 🍻 COMPOSICIÓN DEL PACK: Einbecker Ur-Bock Hell (6,5%) - König Pilsener (4,9%) - Krombacher Weizen (5,3%) - Aecht Schlenkerla Märzen (5,1%) - EKU 28 (11º) - Ayinger Celebrator (6,7%) - Früh Kölsch (4,8 %) - Schneider Aventinus (8,2 %) - Schneider Original (5,4%) - Köstritzer Schwarzbier (4,8%) - Einbecker Pilsener (4,8%) - Schneider Bayrisch Hell (4,9º)
+- 🏆 Variedades excepcionales: Desde las clásicas Pilsener hasta las oscuras Schwarzbier, este pack ofrece una amplia gama de estilos para satisfacer todos los gustos cerveceros.
+- 📚 Folleto informativo incluido: Además de las cervezas, recibirás un folleto detallado que te guiará a través de las características y maridajes de cada variedad, enriqueciendo tu experiencia cervecera.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08PJ61S2M{{</world>}}

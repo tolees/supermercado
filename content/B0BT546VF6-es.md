@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- The Ritual of Ayurveda: Inspirada en ciencia tradicional ayurvédica, esta crema corporal exfoliante busca el bienestar mediante la nutrición y la limpieza de energías
-- Ingredientes nutritivos: La combinación de sal rosa de Punjabi y almendra dulce de esta crema exfoliante elimina las células muertas y nutre la piel en profundidad
 - Dulce fragancia: El delicado aroma a rosas de la India se une a la aromática fragancia del aceite de coco y almendras dulces, ricos en vitamina E, para perfumar la piel
+- Ingredientes nutritivos: La combinación de sal rosa de Punjabi y almendra dulce de esta crema exfoliante elimina las células muertas y nutre la piel en profundidad
 - Modo de empleo: Aplica el exfoliante 1-2 veces por semana con un suave masaje sobre la piel húmeda y acláralo con agua, adaptando su uso según el tipo de piel
 - Exfolia la piel: Elimina las impurezas con este exfoliante purificador y rejuvenecedor, y completa el ritual con la espuma de baño y las cremas corporales de Rituals
+- The Ritual of Ayurveda: Inspirada en ciencia tradicional ayurvédica, esta crema corporal exfoliante busca el bienestar mediante la nutrición y la limpieza de energías
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BT546VF6{{</world>}}

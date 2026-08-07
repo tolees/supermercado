@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Turrón de chocolate con almendras
 - 100% Cacao de cultivo sostenible seleccionado a través de Nestlé Cocoa Plan
-- Fabricado en La Penilla, España
 - Llegan las navidades y con ellas los turrones Nestlé, prueba todas sus deliciosas variedades
+- Fabricado en La Penilla, España
 - Turrón con cobertura de chocolate Nestlé Extrafino
 
 [🛒 Aquí!!!]({{< param buyurl >}})

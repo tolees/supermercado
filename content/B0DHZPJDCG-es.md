@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- BONVOYAGE: Explora los productos bonvoyage, desde paletas con sombras de ojos cremosas y difuminables, hasta sets de regalo de belleza y kits de maquillaje con fórmulas duraderas y fáciles de aplicar para una rutina de belleza sencilla y accesible
 - PARA EL ROSTRO: Aplica el bronzer debajo de los pómulos, en el mentón y en la nariz para un contour definido, luego aplica el colorete sobre los pómulos, y termina con un poco de iluminador para dar brillo y luz a tu look
-- PRÁCTICO Y LIVIANO: Este kit de maquillaje mujer es portátil y liviano, fácil de transportar con todo lo necesario para retocar tu maquillaje rápidamente, y con espejo incluido por si vas de viaje o para crear looks fuera de casa
-- OJOS Y LABIOS: Diviértete alternando los colores de la paleta de sombras; aplícalas sobre los párpados con las brochas incluídas en el kit, y luego aplica el labial que más te guste
+- BONVOYAGE: Explora los productos bonvoyage, desde paletas con sombras de ojos cremosas y difuminables, hasta sets de regalo de belleza y kits de maquillaje con fórmulas duraderas y fáciles de aplicar para una rutina de belleza sencilla y accesible
 - TODO LO QUE NECESITAS: El set de maquillaje Travel in Colour incluye 15 sombras de ojos, 1 colorete, 1 bronceador, 2 pintalabios, 1 iluminador, 1 espejo y aplicadores para una sencilla rutina de maquillaje, todo ello en un bonito y resistente maletín
+- OJOS Y LABIOS: Diviértete alternando los colores de la paleta de sombras; aplícalas sobre los párpados con las brochas incluídas en el kit, y luego aplica el labial que más te guste
+- PRÁCTICO Y LIVIANO: Este kit de maquillaje mujer es portátil y liviano, fácil de transportar con todo lo necesario para retocar tu maquillaje rápidamente, y con espejo incluido por si vas de viaje o para crear looks fuera de casa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHZPJDCG{{</world>}}

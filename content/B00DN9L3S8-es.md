@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Reforzado con Jalea Real y Semillas de Fenogreco para mayor eficacia.
-- Endulzado con Sirope de Ágave. Sin gluten, sin colorantes, sin conservantes, sin edulcorantes
-- Complemento de la dieta infantil formulado pensando en los más pequeños de la casa, utilizando sólo ingredientes tradicionales y naturales, adaptándolos a las necesidades de los benjamines del hogar.
 - Con Polen que ayuda a aumentar el apetito. Utilizamos Polen Abierto, sin interacciones alérgicas y 10 veces más asimilable que el convencional
+- Complemento de la dieta infantil formulado pensando en los más pequeños de la casa, utilizando sólo ingredientes tradicionales y naturales, adaptándolos a las necesidades de los benjamines del hogar.
 - Osito Sanito es una línea de jarabes infantiles formulados con ingredientes naturales y de eficacia avalada por miles de familias satisfechas y sus más de 15 años de presencia en el mercado
+- Endulzado con Sirope de Ágave. Sin gluten, sin colorantes, sin conservantes, sin edulcorantes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00DN9L3S8{{</world>}}

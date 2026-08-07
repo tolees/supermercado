@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cerveza Lager Checa de fermentación lenta con carácter intenso y mucho cuerpo
-- Sabor equilibrado y aterciopelado, amargor moderado, ligero dulzor y gran cuerpo
-- Aroma intenso y complejo con notas maltosas y florales del lúpulo Saaz
-- Matices de caramelo, manzana al horno y fondo resinoso
 - Color ámbar, aspecto brillante y espuma consistente
+- Aroma intenso y complejo con notas maltosas y florales del lúpulo Saaz
+- Cerveza Lager Checa de fermentación lenta con carácter intenso y mucho cuerpo
+- Matices de caramelo, manzana al horno y fondo resinoso
+- Sabor equilibrado y aterciopelado, amargor moderado, ligero dulzor y gran cuerpo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F9PZYS75{{</world>}}

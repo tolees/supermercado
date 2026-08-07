@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- HIDRATA Y CIERRA CUTÍCULAS | Ayuda a retener la humedad y mantener la suavidad prolongada.
 - ALISA Y NUTRE | Suaviza el cabello de la raíz a las puntas proporcionando brillo y aspecto sano.
+- HIDRATA Y CIERRA CUTÍCULAS | Ayuda a retener la humedad y mantener la suavidad prolongada.
 - FÓRMULA VEGANA | Con manteca de cacao y provitamina B5, libre de ingredientes animales.
 - FACILITA EL PEINADO | Previene los enredos y mejora la manejabilidad del cabello.
 - PROTECCIÓN EFECTIVA | Crea una capa protectora contra calor, radiación y daños mecánicos.

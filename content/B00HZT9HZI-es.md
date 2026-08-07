@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- SIMPLICIDAD DE INGREDIENTES: Elaboradas únicamente con dos ingredientes: harina de maíz y harina de arroz. Sin nada más. Una receta simple que facilita la digestión y resulta más fácil de asimilar por el organismo.
-- PROCESO QUE MANTIENE LOS NUTRIENTES: Las tostadas Noglut de Santiveri siguen un proceso de elaboración que mantiene la estructura original del grano, ayudando a preservar sus nutrientes.
 - CON HARINA DE MAÍZ Y ARROZ: A base de harina de maíz y arroz.
 - DESDE 1885, REFERENTE EN SALUD NATURAL Y COMPLEMENTOS ALIMENTICIOS: En Santiveri llevamos más de 140 años dedicados a la salud natural. Desde nuestros orígenes en Barcelona, hemos sido pioneros en innovación alimentaria funcional y en el desarrollo de complementos alimenticios. Combinamos tradición mediterránea y conocimiento científico para crear soluciones naturales que contribuyen al bienestar integral de las personas. Nuestro compromiso con la calidad, la honestidad y la eficacia guía cada uno de nuestros productos, acompañando a quienes buscan cuidar su salud de forma más consciente y natural.
+- PROCESO QUE MANTIENE LOS NUTRIENTES: Las tostadas Noglut de Santiveri siguen un proceso de elaboración que mantiene la estructura original del grano, ayudando a preservar sus nutrientes.
+- SIMPLICIDAD DE INGREDIENTES: Elaboradas únicamente con dos ingredientes: harina de maíz y harina de arroz. Sin nada más. Una receta simple que facilita la digestión y resulta más fácil de asimilar por el organismo.
 - SIN GLUTEN: A base de maíz y arroz, naturalmente sin gluten, ideales para quienes buscan alternativas ligeras al pan tradicional o reducir el consumo de gluten sin renunciar al sabor ni a la textura.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

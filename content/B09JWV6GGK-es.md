@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Disfruta de un plato típico de la cocina casera española, con la calidad de Litoral
 - Ingredientes naturales, sin gluten, sin colorantes ni conservantes
+- Selecto embutido elaborado local
 - Fabada con 30% menos de grasa y sal
 - Comida española fácil de preparar: al baño maria, en cazo o al microondas
-- Selecto embutido elaborado local
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09JWV6GGK{{</world>}}

@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dimensiones: 8 x 3.4 x 4.5 cm
+- Contenido del paquete: 1
 - Acero inoxidable 18/10 brillante
 - Nuovo Milano
+- Diseñador: Ettore Sottsass
+- Dimensiones: 8 x 3.4 x 4.5 cm
 - Cucharadita
 - Lavavajillas lavadora
-- Contenido del paquete: 1
-- Diseñador: Ettore Sottsass
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B000PKIV24{{</world>}}

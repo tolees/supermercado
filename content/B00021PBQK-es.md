@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Perfumeria agua de tocador para mujeres
 - Perfumes y fragancias mujer
+- Perfumeria agua de tocador para mujeres
 - Perfume 100 mililitros
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

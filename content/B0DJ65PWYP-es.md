@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ✅ FABRICADO EN ESPAÑA: todos los productos Amaltea Nutrition se fabrican en los laboratorios Bio-Dis Pharma que cumplen toda la normativa y aplican los mayores estándares de calidad y disponen de Certificado de Buenas Prácticas de Fabricación GMP y Sistema de Gestión de la CalidadISO 9001:2008
-- ✅ ENVASE RECICLABLE: Nuestro envase está fabricado en polímero reciclable PET: cuando se terminen los comprimidos puedes depositar el envase en el contenedor amarillo.
 - ✅ AYUDA A CONCILIAR EL SUEÑO: Promueve un sueño reparador y un descanso óptimo. Según la Autoridad Europea de Seguridad Alimentaria, la Melatonina: ayuda a regular el cambio del desfase horario (jet-lag) y disminuye el tiempo necesario para conciliar el sueño.
 - ✅ COMPLEMENTO SALUDABLE: Apto para una dieta Vegana, no contiene Gluten ni lactosa, ni organismos genéticamente modificados (OGM), ni transgénicos. La Melatonina Amaltea Nutrition no contiene ninguno de los 14 grupos de alérgenos alimentarios conforme al Reglamento (UE) Nº 1169/2011.
-- ✅ SUMINISTRO PARA 2 MESES: Envase con 60 comprimidos de Melatonina para una toma diaria. Modo de Empleo: tomar un comprimido al día una hora antes de acostarse.
+- ✅ FABRICADO EN ESPAÑA: todos los productos Amaltea Nutrition se fabrican en los laboratorios Bio-Dis Pharma que cumplen toda la normativa y aplican los mayores estándares de calidad y disponen de Certificado de Buenas Prácticas de Fabricación GMP y Sistema de Gestión de la CalidadISO 9001:2008
 - ✅ INGREDIENTES NATURALES: Melatonina 1 mg en comprimidos formulada con extractos secos de plantas como Valeriana, Amapola Californiana, Melisa, Pasiflora y Tila y Melatonina. La Melatonina Amaltea Nutrition se fabrica con ingredientes Naturales Premium.
+- ✅ ENVASE RECICLABLE: Nuestro envase está fabricado en polímero reciclable PET: cuando se terminen los comprimidos puedes depositar el envase en el contenedor amarillo.
+- ✅ SUMINISTRO PARA 2 MESES: Envase con 60 comprimidos de Melatonina para una toma diaria. Modo de Empleo: tomar un comprimido al día una hora antes de acostarse.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJ65PWYP{{</world>}}

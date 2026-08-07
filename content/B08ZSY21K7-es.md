@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 🎃 IDEAL PARA: Fiestas de cumpleaños, Navidad, Halloween, fiestas temáticas u otras ocasiones especiales. Nuestros caramelos con palo Narizotas Monster también son perfectos para incluirlos en piñatas y candy bar
-- 🍒 SABOR CEREZA: Los caramelos con palo Narizotas de Cerdán tienen un característico e inconfundible sabor a cereza, una auténtica delicia para el paladar de niños y adultos. Perfectas para compartir con amigos y familiares
 - 🟣 NARIZOTAS MONSTER: Caramelo redondo con palo sabor cereza. Elaborados con colorantes naturales y libre de alérgenos. Cada estuche contiene 50 caramelos con palo
 - 💯 CARAMELOS CERDÁN: Es una empresa familiar líder en Europa en la fabricación de caramelo duro con una amplia gama de productos para niños y adultos. Fundada en 1914, lleva más 100 años endulzando paladares por todo el mundo
 - 🏅 CERTIFICADO HALAL: Contamos con una fábrica que combina las más modernas tecnologías y el cuidado artesanal; sin gluten, lactosa, huevo, trazas de pescado o frutos secos. Cumple con ingredientes permitidos y procesos controlados, apto para consumidores musulmanes.
+- 🍒 SABOR CEREZA: Los caramelos con palo Narizotas de Cerdán tienen un característico e inconfundible sabor a cereza, una auténtica delicia para el paladar de niños y adultos. Perfectas para compartir con amigos y familiares
+- 🎃 IDEAL PARA: Fiestas de cumpleaños, Navidad, Halloween, fiestas temáticas u otras ocasiones especiales. Nuestros caramelos con palo Narizotas Monster también son perfectos para incluirlos en piñatas y candy bar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08ZSY21K7{{</world>}}

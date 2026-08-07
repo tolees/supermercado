@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Pueden añadirse a todas las coladas, con todo tipo de tejidos
 - Personaliza la intensidad de la fragancia con la cantidad de perlas de perfume que desees utilizar
 - Tu colada siempre fresca hasta 12 semanas después de haberla guardado
-- Pueden añadirse a todas las coladas, con todo tipo de tejidos
 - Vierte las perlas de perfume para el lavado directamente en el tambor vacío de la lavadora antes de lavar la ropa
 - Perlas de perfume para el lavado inspirado en frutos rojos superiores, flores lujosas y una mezcla compleja de acordes deliciosos como la vainilla, el chocolate y las nueces
 

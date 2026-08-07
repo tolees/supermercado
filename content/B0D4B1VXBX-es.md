@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Aplicar DOCTOR BABOR Collagen-Peptide Booster Cream Rich suavemente sobre la piel limpia del rostro, cuello y escote por la mañana y/o por la noche. Masajea la crema suavemente para maximizar el efecto antienvejecimiento.
-- Con la rica crema antienvejecimiento experimentarás una mayor elasticidad de la piel y una reducción visible de la pérdida del contorno. El cuidado facial favorece la densidad de la piel con un complejo de colágeno-péptido, la regenera intensamente y aporta hidratación incluso a las zonas de piel muy secas.
 - Cosméticos médicos de DOCTOR BABOR: Collagen-Peptide Booster Cream Rich es un cuidado intensivo para pieles maduras y secas. La rica fórmula con un 5 % de escualano y aceite de jojoba, así como una nutritiva manteca de karité, proporciona a la piel una hidratación intensa y un efecto suavizante.
+- Con la rica crema antienvejecimiento experimentarás una mayor elasticidad de la piel y una reducción visible de la pérdida del contorno. El cuidado facial favorece la densidad de la piel con un complejo de colágeno-péptido, la regenera intensamente y aporta hidratación incluso a las zonas de piel muy secas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D4B1VXBX{{</world>}}

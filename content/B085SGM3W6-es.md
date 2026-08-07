@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aplicador fino y súper preciso para delinear y rellenar
 - Sensación de comodidad y acabado velvet
-- Fórmula con pigmentos de tinta mate
 - Colores súper intensos
+- Aplicador fino y súper preciso para delinear y rellenar
+- Fórmula con pigmentos de tinta mate
 - Efecto tattoo y transferproof hasta 24H
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

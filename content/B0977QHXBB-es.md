@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Propiedades hidratantes
 - Mantiene el pelo fuerte y sano gracias a la Biotina
 - Aporta brillo y suavidad sin dejar el pelo graso
-- Propiedades hidratantes
 - Indicado para todo tipo de cabello
 - Champú de Coco/Biotina
 

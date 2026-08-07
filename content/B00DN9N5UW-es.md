@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Contiene 10 cepas probióticas: Bidobacterium lactis (Nizo 3680), Bidobacterium lactis (Nizo 3882), Bidobacterium animalis (Nizo 3884), Enterococcus faecium (Nizo 3886), Lactococcus lactis (Nizo 3891), Lactobacillus acidophilus (Nizo 3887), Lactobacillus casei (Nizo 3889), Lactobacillus plantarum (Nizo 3673), Lactobacillus rhamnosus (Nizo 3689), Lactobacillus salivarius (Nizo 3675) (1) Los prebióticos son fibras que las bacterias de la microbiota intestinal pueden utilizar como alimento (1) Contiene vitamina B1 (tiamina), vitamina B2 (riboflavina), vitamina B3 (niacina), vitamina B5 (ácido pantoténico), vitamina B6, vitamina B8 (biotina), vitamina B9 (ácido fólico) y vitamina B12 (1)
+- Modo de empleo: Tomar 1 sobre diario durante 14 días, disuelto en agua mineral a temperatura ambiente, preferiblemente por la mañana en ayunas o bien a última hora antes de acostarse, mínimo 2 horas después de la cena. Una vez tomado, no ingerir ningún alimento hasta pasados 10 minutos
 - Faes Farma, S.A. Av. Autonomía, 10 48940 Leioa Bizkaia España
 - Vitanatur Symbiotics G (1) es un complemento alimenticio con probióticos, fibra prebiótica y vitaminas del grupo B, que ayuda a mantener el equilibrio de la microbiota intestinal (1)
-- Modo de empleo: Tomar 1 sobre diario durante 14 días, disuelto en agua mineral a temperatura ambiente, preferiblemente por la mañana en ayunas o bien a última hora antes de acostarse, mínimo 2 horas después de la cena. Una vez tomado, no ingerir ningún alimento hasta pasados 10 minutos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00DN9N5UW{{</world>}}

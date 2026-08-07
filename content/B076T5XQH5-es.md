@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Caramelos masticables de 7 sabores diferentes hechos con ingredientes naturales, zumo de frutas y colorantes naturales.
 - El envase práctico cabe en cualquier bolso o bolsillo del pantalón. Fácil de usar y listo para que lo saborees. ¡Que no te falten Mentos en casa ni en el bolsillo!
-- Caramelo masticable Mentos Fruit Rainbow. Delicioso mix de sabores frutales: sandía, fresa, manzana, naranja, pomelo, frambuesa y arándano. El producto contiene 20x38 gr. de caramelos masticables en un envase único y práctico.
+- Los caramelos redondos masticables están formados por una crujiente capa exterior y un núcleo interior blando que hace ese típico crujido al morderlo y está buenísimo.
 - Descubre más sobre este y otros productos de Mentos más abajo.
 - Ideal para llevar siempre contigo y para cualquier ocasión: en casa, momento peli, en la calle, en la oficina, en fiestas y entre horas como snack. Perfectos para compartir.
-- Los caramelos redondos masticables están formados por una crujiente capa exterior y un núcleo interior blando que hace ese típico crujido al morderlo y está buenísimo.
+- Caramelos masticables de 7 sabores diferentes hechos con ingredientes naturales, zumo de frutas y colorantes naturales.
+- Caramelo masticable Mentos Fruit Rainbow. Delicioso mix de sabores frutales: sandía, fresa, manzana, naranja, pomelo, frambuesa y arándano. El producto contiene 20x38 gr. de caramelos masticables en un envase único y práctico.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B076T5XQH5{{</world>}}

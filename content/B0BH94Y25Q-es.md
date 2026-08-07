@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Acondiciona el cabello facilitando el peinado
-- Fortalece y recupera el cabello
 - Libre de sal, sulfatos y parabenos
+- Fortalece y recupera el cabello
 - Devuelve elasticidad, hidratación y brillo al cabello
+- Acondiciona el cabello facilitando el peinado
 - Revitaliza y reestructura el cabello desde la raíz
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Alta cobertura y sensación ligera
-- Duración, piel optima hasta 35 horas
-- Formulada con ácido hialurónico, niacinamida y vitamina E, impulsa la hidratación de la piel
 - Fórmula clean y vegana
+- Alta cobertura y sensación ligera
+- Formulada con ácido hialurónico, niacinamida y vitamina E, impulsa la hidratación de la piel
+- Duración, piel optima hasta 35 horas
 - Resistente al sudor, calor y la humedad; con SPF20
 
 [🛒 Comprar!!!]({{< param buyurl >}})

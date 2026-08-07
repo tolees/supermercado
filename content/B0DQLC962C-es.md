@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ✅ USO CÓMODO Y SENCILLO: la base antideslizante de 50,5 x 11 cm garantiza la posición estable y segura de los pies. La estructura ligera (3,1 kg) facilita el transporte, mientras que el freno de pie eficaz permite detenerse rápidamente, lo que convierte a SOLIS en un patinete excelente para niños y adultos.
-- ✅ PATINETE DEPORTIVO: diseñado para usuarios a partir de 5 años hasta 100 kg. Garantiza diversión, comodidad y seguridad, por lo que es ideal tanto para el uso recreativo como para realizar maniobras dinámicas.
-- ✅ RODAJE FLUIDO Y RÁPIDO: gracias a los rodamientos avanzados ABEC-9 y las ruedas de poliuretano de 10 cm de diámetro y dureza 88A, el patinete rueda de manera rápida y fluida con la mínima fricción, lo que facilita recorrer terrenos variados.
 - ✅ CONTROL Y ESTABILIDAD: el manillar ergonómico tipo barra en Y de 51 cm de ancho y 80 cm de alto facilita las maniobras y proporciona estabilidad, lo que resulta fundamental para la seguridad y la comodidad de usuarios de distinta habilidad.
+- ✅ PATINETE DEPORTIVO: diseñado para usuarios a partir de 5 años hasta 100 kg. Garantiza diversión, comodidad y seguridad, por lo que es ideal tanto para el uso recreativo como para realizar maniobras dinámicas.
+- ✅ USO CÓMODO Y SENCILLO: la base antideslizante de 50,5 x 11 cm garantiza la posición estable y segura de los pies. La estructura ligera (3,1 kg) facilita el transporte, mientras que el freno de pie eficaz permite detenerse rápidamente, lo que convierte a SOLIS en un patinete excelente para niños y adultos.
+- ✅ RODAJE FLUIDO Y RÁPIDO: gracias a los rodamientos avanzados ABEC-9 y las ruedas de poliuretano de 10 cm de diámetro y dureza 88A, el patinete rueda de manera rápida y fluida con la mínima fricción, lo que facilita recorrer terrenos variados.
 - ✅ ESTRUCTURA RESISTENTE Y CUADRO DE ALUMINIO Y ACERO: gracias a la base de aluminio y la barra en Y de acero, SOLIS es resistente y aguanta el uso intensivo. Excelente para aventuras sobre distintas superficies e infalible en cualquier circunstancia.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

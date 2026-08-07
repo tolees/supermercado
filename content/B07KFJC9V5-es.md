@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 👉 ACEITE SIN REFINAR que tiene un suave sabor y aroma a coco
 - 👩‍🍳 PARA COCINAR : sustituye la mantequilla tradicional y es muy rico en vitamines y minerales.
 - 🌴 PRENSADO EN FRÍO para un aceite de alta calidad muy puro con una elaboración que permite conservar los nutrientes valiosos de los cocos
-- 👉 ACEITE SIN REFINAR que tiene un suave sabor y aroma a coco
 - 🥥 ACEITE DE COCO ORGÁNICO VIRGEN EXTRA : nuestro aceite es elaborado con pulpa de coco fresca procedente de la Agricultura Ecológica
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

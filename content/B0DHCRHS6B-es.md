@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sabor y Características Sensoriales: Con un cuerpo robusto (4/6), una dulzura moderada (2/6) y una alta intensidad (11/13), este café ofrece un perfil de sabor complejo y envolvente. La fuerte intensidad se combina a la perfección con las notas persistentes de la mezcla, creando un equilibrio sublime entre fuerza y carácter.
 - Sabor Intenso con Notas de Cacao: Descubre un café en grano con un cuerpo robusto y una fuerte intensidad, enriquecido con aromas de cacao amargo y fragancias persistentes. La dulzura moderada completa un perfil de sabor rico y sofisticado, ideal para quienes buscan un café con carácter.
-- Tostado Medio para un Sabor Equilibrado: Nuestra mezcla de café en granos Arábica y Robusta se somete a un tostado medio que extrae al máximo las notas persistentes y las fragancias intensas. Este proceso realza las características organolépticas, ofreciendo un aroma envolvente de cacao amargo y un sabor pleno y decidido, perfecto para una experiencia de café rica y satisfactoria.
 - NUEVA LÍNEA TOSCANA ARTESANAL 2024: Descubre la última creación de Caffè Corsini, una mezcla exclusiva de Café en Grano Arábica y Robusta, diseñada para una experiencia de sabor innovadora e inolvidable.
 - Origen Seleccionado: Los granos de café provienen de regiones renombradas por su calidad: América Central, Sudamérica, Asia y África. Esta combinación única garantiza una mezcla compleja y equilibrada, enriquecida con las mejores características de los diferentes continentes de origen.
+- Tostado Medio para un Sabor Equilibrado: Nuestra mezcla de café en granos Arábica y Robusta se somete a un tostado medio que extrae al máximo las notas persistentes y las fragancias intensas. Este proceso realza las características organolépticas, ofreciendo un aroma envolvente de cacao amargo y un sabor pleno y decidido, perfecto para una experiencia de café rica y satisfactoria.
+- Sabor y Características Sensoriales: Con un cuerpo robusto (4/6), una dulzura moderada (2/6) y una alta intensidad (11/13), este café ofrece un perfil de sabor complejo y envolvente. La fuerte intensidad se combina a la perfección con las notas persistentes de la mezcla, creando un equilibrio sublime entre fuerza y carácter.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHCRHS6B{{</world>}}

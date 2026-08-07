@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Disfruta de la versatilidad y practicidad de este cóctel, tomandolo directamente o mezclandolo con hielo y una rodaja de lima o limón
+- Recuerda siempre un consumo responsable y solo si eres mayor de edad
+- Jack Daniels & Coca-Cola presenta su combinado preparado con el clásico whiskey Jack Daniels y la refrescante Coca-Cola
 - En formato lata de 250 ml, proporcionando un cóctel ya mezclado con un 5% de alcohol para que puedas disfrutar cuando desees
 - Esta bebida está elaborado exclusivamente con un 12,5 % de Whiskey y un 87 % cola, garantizando un sabor suave y equilibrado
-- Jack Daniels & Coca-Cola presenta su combinado preparado con el clásico whiskey Jack Daniels y la refrescante Coca-Cola
-- Recuerda siempre un consumo responsable y solo si eres mayor de edad
+- Disfruta de la versatilidad y practicidad de este cóctel, tomandolo directamente o mezclandolo con hielo y una rodaja de lima o limón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CMR34RZT{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- EL DIFUSOR ES NECESARIO PARA HACER LA CORRECTA DISOLUCION CON AGUA PARA SU USO.
+- 1 LITRO DE CONCENTRADO ECO-JIN = 15 LITROS DE DISOLUCION
 - Eco-Jin 1 LITRO AROMA A ELEGIR CON DIFUSOR
 - ECO-JIN no emite vapores tóxicos, no contiene sulfatos, ni compuestos de amonio, ni amoniacos, ni ftalatos, ni lejías…
-- 1 LITRO DE CONCENTRADO ECO-JIN = 15 LITROS DE DISOLUCION
+- EL DIFUSOR ES NECESARIO PARA HACER LA CORRECTA DISOLUCION CON AGUA PARA SU USO.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DL79CLPH{{</world>}}

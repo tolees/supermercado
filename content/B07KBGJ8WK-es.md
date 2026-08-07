@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - De color blanco y rojo
-- Tienen un sabor dulce
 - Conservar en un lugar fresco y seco
 - Ideales como postre
+- Tienen un sabor dulce
 - Surtido de caramelos con fresas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

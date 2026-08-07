@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Testado dermatológica y oftalmológicamente.
-- Hasta 100h de hidratación y refuerza la barrera cutánea en 1H.
 - Apto para pieles sensibles.
 - Nuestro líquido reparador de barrera cutánea combina un 12% de [Glicerina + Pantenol + Aloe vera + Ácido hialurónico].
 - Hidrta intensamente y reduce la sequedad al instante.
+- Hasta 100h de hidratación y refuerza la barrera cutánea en 1H.
+- Testado dermatológica y oftalmológicamente.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FH79Q4SZ{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La siguiente información se aplica a cada unidad del paquete
 - Vileda 3Action - Escoba para interiores con 3 cerdas diferentes, color rojo - gris, 28 x 14 x 4 cm
+- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0GDW667C9{{</world>}}

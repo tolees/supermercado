@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 20 TONOS DE ALTA PIGMENTACIÓN: con acabados mates, brillantes y metálicos. Desde tonalidades naturales a intensas, hay un tono para todos los gustos.
 - FÓRMULA CREMOSA EN BARRA: The 24H Eye Stick se desliza sobre el párpado suavemente para una aplicación fácil y al momento. Aplica y difumina directamente con los dedos.
-- PRODUCTO VERSÁTIL: se puede aplicar en todo el párpado como sombra de ojos, como un eyeliner atrevido o como lápiz de cejas.
-- VEGANO Y CRUELTY FREE: 3INA es una marca de maquillaje española que fabrica en Europa. Todos nuestros productos son veganos, libres de parabenos y sin crueldad animal.
+- 20 TONOS DE ALTA PIGMENTACIÓN: con acabados mates, brillantes y metálicos. Desde tonalidades naturales a intensas, hay un tono para todos los gustos.
 - FÓRMULA WATERPROOF 24H: esta fórmula se asienta al momento y está certificada para aguantar 24.horas sin moverse ni cuartearse.
+- VEGANO Y CRUELTY FREE: 3INA es una marca de maquillaje española que fabrica en Europa. Todos nuestros productos son veganos, libres de parabenos y sin crueldad animal.
+- PRODUCTO VERSÁTIL: se puede aplicar en todo el párpado como sombra de ojos, como un eyeliner atrevido o como lápiz de cejas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09ZF5R6TT{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Tiene una graduación alcohólica de 43 grados que es la más adecuada para el optimo ensamblaje de todos y cada uno de los caracteres aromáticos de la ginebra y de la madera
 - La ginebra pasa por un proceso de envejecimiento de 3 meses en estos Sherry Casks que previamente han contenido Tío Pepe durante más de 10 años
 - The London Nº1 Sherry Cask, es el producto obtenido por la destilación en alambiques de cobre de una maceración de 12 botánicos en alcohol de grano y posterior envejecimiento en botas de roble americano que previamente han contenido vino de Jerez (Tío Pepe); este envejecimiento le otorga un color amarillo pálido debido a la extracción de los componentes de la madera de roble
 - Perfect Serve: Sola con hielo
-- Tiene una graduación alcohólica de 43 grados que es la más adecuada para el optimo ensamblaje de todos y cada uno de los caracteres aromáticos de la ginebra y de la madera
 - The London Nº1 Sherry Cask tiene un aroma fragante y muy agradable con notas de bayas de enebro y mezcla de matices botánicos, matizados por un sutil toque de madera con sensaciones vinosas; en boca es suave, elegante y compleja, con notas muy bien integradas de alcohol y madera; retrogusto largo y aterciopelado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

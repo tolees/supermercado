@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Conservar en lugar limpio, fresco y seco.
 - Alérgenos: Puede contener trazas de cacahuetes, otros frutos de cáscara, soja leche y derivados. Excepcionalmente puede contener restos de cascara.
-- Varios orígenes: USA, Turquía, España
+- Conservar en lugar limpio, fresco y seco.
 - Ingredientes: ALMENDRA palitada, NUEZ en grano, pasa sultana y AVELLANA.
+- Varios orígenes: USA, Turquía, España
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B091G4NZQV{{</world>}}

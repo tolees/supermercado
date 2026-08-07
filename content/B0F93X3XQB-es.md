@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - CONOCE SAM MILLS: Contamos con más de 25 años de experiencia en la elaboración de alimentos gluten free, totalmente ecológicos y saludables para cuidar de ti y de tu bienestar. Además, cumplimos los estándares de calidad alimentaria más exigentes.
 - POLENTA PRECOCIDA: ¡Ahorra tiempo en la cocina con este preparado! Nuestro producto está diseñado para preparar esta receta de forma rápida y sencilla. Además, la harina proviene del maíz.
-- MÚLTIPLES BENEFICIOS: La polenta de maíz posee un alto valor nutricional, es rica en antioxidantes, da sensación de saciedad y es una buena fuente de energía. También contiene importantes vitaminas y minerales que cuidan de tu salud y bienestar.
 - INGREDIENTES DE CALIDAD: Este alimento contiene harina de maíz sin aditivos. Es perfecto para preparar deliciosas polentas en una fracción del tiempo que suele tardar, pues se trata de una mezcla precocida.
+- MÚLTIPLES BENEFICIOS: La polenta de maíz posee un alto valor nutricional, es rica en antioxidantes, da sensación de saciedad y es una buena fuente de energía. También contiene importantes vitaminas y minerales que cuidan de tu salud y bienestar.
 - DIETA SALUDABLE: Transforma tu dieta con nuestra harina de maíz, la alternativa saludable a las patatas o a la pasta. Su bajo contenido en grasa y calorías la convierte en el alimento ideal para mantener una dieta equilibrada y variada.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

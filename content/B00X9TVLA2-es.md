@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aplique el producto sobre el cabello seco sin lavar; masajee el producto sobre su cabello y deje actuar 30 minutos; añada una pequeña cantidad de agua sobre el cabello y masajee de nuevo; aclare abundantemente el cabello
 - Coloración permanente potenciada por 60 percent de aceite; cuidado intenso, no reseca
 - Garnier Olia coloración permanente con aceites florales de origen natural, sin amoniaco para un olor agradable y respeto del cuero cabelludo
 - Hasta el 100 percent cobertura de canas
+- Aplique el producto sobre el cabello seco sin lavar; masajee el producto sobre su cabello y deje actuar 30 minutos; añada una pequeña cantidad de agua sobre el cabello y masajee de nuevo; aclare abundantemente el cabello
 - Mejora visiblemente la calidad del cabello, 100 percent cobertura de canas y máxima eficacia del color
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Contiene lactosa
 - Producto sin gluten
 - La siguiente información se aplica a cada unidad del paquete
 - Conservar en lugar fresco y seco
-- Contiene lactosa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FGK22QLD{{</world>}}

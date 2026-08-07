@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El kit contiene: -N.1 SNOW-KISSED HOLIDAY SPARKLE CRUSH LIQUID LIPSTICK Un labial único con un acabado iridiscente, de mate a brillante, que vuelve tras el éxito de la edición anterior. El aroma a caramelo, el efecto sorpresa de las perlas brillantes que se revelan cuando te frotas los labios: ¿qué más puede ofrecerte un labial? Una experiencia sensorial única y una fórmula innovadora que garantizan el confort a la vez que transforman los labios en un accesorio glamuroso
-- Kit de regalo de maquillaje para ojos y labios con: máscara de pestañas efecto volumen, labial mate a brillante y sombra de ojos en stick, todo ello en una elegante caja regalo
+- MÁSCARA DE PESTAÑAS Oftalmológicamente testado SOMBRA DE OJOS Oftalmológicamente testado LABIAL Dermatológicamente testado
 - El kit contiene: -N.1 MAXI MOD MASCARA​ Una máscara icónica con una minipunta para llegar incluso a las pestañas más cortas y envolverlas en una textura que aporta volumen y definición extraordinarias
 - El kit contiene: -N.1 LONG LASTING EYESHADOW STICK 01 Sombra de ojos en stick con una duración extrema de hasta 24 horas, para lucir un color intenso y fácil de difuminar. Textura cremosa y superpigmentada, de aplicación fácil y cómoda
-- MÁSCARA DE PESTAÑAS Oftalmológicamente testado SOMBRA DE OJOS Oftalmológicamente testado LABIAL Dermatológicamente testado
+- Kit de regalo de maquillaje para ojos y labios con: máscara de pestañas efecto volumen, labial mate a brillante y sombra de ojos en stick, todo ello en una elegante caja regalo
+- El kit contiene: -N.1 SNOW-KISSED HOLIDAY SPARKLE CRUSH LIQUID LIPSTICK Un labial único con un acabado iridiscente, de mate a brillante, que vuelve tras el éxito de la edición anterior. El aroma a caramelo, el efecto sorpresa de las perlas brillantes que se revelan cuando te frotas los labios: ¿qué más puede ofrecerte un labial? Una experiencia sensorial única y una fórmula innovadora que garantizan el confort a la vez que transforman los labios en un accesorio glamuroso
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FN89N26N{{</world>}}

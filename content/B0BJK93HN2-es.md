@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - INFORMACIÓN SOBRE ALÉRGENOS: Este producto se elabora en una instalación que procesa frutos secos, mostaza, sésamo y leche.
-- NOS PREOCUPAMOS POR LAS PERSONAS Y EL PLANETA: Ahora somos una marca orgullosamente neutra en carbono y plástico. Medimos nuestra huella de carbono y plástico y la compensamos mediante inversiones en iniciativas de sostenibilidad ambiental en India.
 - DELICIOSO TÉ DE JENGIBRE: abrace la bondad de la naturaleza con cada sorbo y saboree una experiencia de té verdaderamente encantadora. Con su aroma vigorizante y notas especiadas, este té sin cafeína y sin gluten es perfecto para beber. Elaborada con cuidado, nuestra mezcla de té de hierbas ecológica presenta 100 bolsitas de té redondas, que le ofrecen una experiencia reconfortante en todo momento.
+- NOS PREOCUPAMOS POR LAS PERSONAS Y EL PLANETA: Ahora somos una marca orgullosamente neutra en carbono y plástico. Medimos nuestra huella de carbono y plástico y la compensamos mediante inversiones en iniciativas de sostenibilidad ambiental en India.
 - PURO Y SIN CAFEÍNA: Disfruta de la pureza y la pureza de nuestro té de jengibre, elaborado meticulosamente para ofrecerte una experiencia de té premium. Deléitate con la calidez y la esencia revitalizantes que proporcionan nuestras bolsitas de jengibre, permitiéndote sumergirte en un momento de tranquilidad con cada taza. Nuestro té de jengibre se prepara cuidadosamente sin conservantes ni aditivos artificiales, lo que garantiza una bebida verdaderamente pura y saludable.
 - ADOPTE UN ESTILO DE VIDA EQUILIBRADO.- Agregue esta tisana que huele bien, sabe bien y le hace bien a su régimen diario para darle energía a su paso siempre que lo necesite con este té nutritivo elaborado con ingredientes puros y sin conservantes agregados.
 

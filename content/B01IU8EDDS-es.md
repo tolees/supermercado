@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Se debe conservar en un lugar fresco y seco
-- Adecuado para toda la familia
 - Una opción para convertir cualquier momento en una ocasión especial
 - Sardinillas en aceite de oliva
+- Adecuado para toda la familia
 - Ricas en calcio y proteínas, así como ácidos grasos y Omega 3
+- Se debe conservar en un lugar fresco y seco
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01IU8EDDS{{</world>}}

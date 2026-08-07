@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diseño vintage - Con ilustraciones de inspiración retro de anuncios clásicos de Proraso, este kit barba para un afeitado de lujo es la idea perfecta de regalo para hombre
-- Crema de preafeitado - Enriquecida con aceite de sándalo y manteca de karité, la crema de afeitar hombre nutre profundamente la piel, dejando la barba más suave
 - Bálsamo barba para después del afeitado - Con extractos naturales, aceite de sándalo y manteca de karité, este bálsamo sin alcohol hidrata y calma la piel después del afeitado
 - Jabón afeitar - Con manteca de karité y aceite de sándalo, protege la piel seca de la irritación de la maquinilla de afeitar y facilita el afeitado de las barbas duras
+- Crema de preafeitado - Enriquecida con aceite de sándalo y manteca de karité, la crema de afeitar hombre nutre profundamente la piel, dejando la barba más suave
+- Diseño vintage - Con ilustraciones de inspiración retro de anuncios clásicos de Proraso, este kit barba para un afeitado de lujo es la idea perfecta de regalo para hombre
 - Kit de lujo - Este kit barba para hombre vintage viene en un paquete de metal y combina un trío de productos icónicos de Proraso formulados para barbas gruesas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

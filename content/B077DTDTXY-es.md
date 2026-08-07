@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Delineador de ojos en gel con purpurina con una aplicación deslizante para una línea radiante
-- Look duradero e impecable
 - Este delineador se puede utilizar solo o como capa final sobre tu delineador de ojos, sombra de ojos o lápiz de ojos
+- Look duradero e impecable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B077DTDTXY{{</world>}}

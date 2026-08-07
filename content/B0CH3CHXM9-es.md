@@ -31,9 +31,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Punta retráctil. Aplicar en el párpado superior o inferior y difuminar con la esponja difuminadora.
 - Dura hasta 16 hrs
 - La siguiente información se aplica a cada unidad del paquete
-- Tiene Tecnología SoftFlex para mayor confort en su uso con pigmentos de carbón negro para un color más intenso
 - Punta retráctil
 - Con difuminador para mezclar el color y crear diferentes tipos de acabados
+- Tiene Tecnología SoftFlex para mayor confort en su uso con pigmentos de carbón negro para un color más intenso
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CH3CHXM9{{</world>}}

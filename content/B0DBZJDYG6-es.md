@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Versatilidad para cada ocasión: perfecto como aperitivo en crostini y canapés, excepcional para condimentar pastas y risottos, ideal para huevos, carnes blancas o como toque final para platos vegetarianos y veganos.
-- Viaja al mundo de las trufas: descubre toda la línea BE TRUFFLE: salsas, patés, aceites y condimentos diseñados para llevar la elegancia y el auténtico sabor de las trufas italianas a tu hogar.
-- Apto para cualquier estilo de alimentación: la receta es completamente vegana, sin gluten y sin colesterol, diseñada para quienes desean combinar sabor y bienestar sin concesiones.
-- El noble sabor de la trufa blanca – La presencia de trufa blanca confiere a la salsa un aroma penetrante y a la vez delicado, capaz de transformar incluso el plato más simple en una creación gourmet.
 - Una excelencia firmada por el Made in Italy – Elaborada artesanalmente en Italia con ingredientes seleccionados de alta calidad, esta salsa encarna toda la sofisticación de la tradición gastronómica italiana.
+- Apto para cualquier estilo de alimentación: la receta es completamente vegana, sin gluten y sin colesterol, diseñada para quienes desean combinar sabor y bienestar sin concesiones.
+- Viaja al mundo de las trufas: descubre toda la línea BE TRUFFLE: salsas, patés, aceites y condimentos diseñados para llevar la elegancia y el auténtico sabor de las trufas italianas a tu hogar.
+- El noble sabor de la trufa blanca – La presencia de trufa blanca confiere a la salsa un aroma penetrante y a la vez delicado, capaz de transformar incluso el plato más simple en una creación gourmet.
+- Versatilidad para cada ocasión: perfecto como aperitivo en crostini y canapés, excepcional para condimentar pastas y risottos, ideal para huevos, carnes blancas o como toque final para platos vegetarianos y veganos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DBZJDYG6{{</world>}}

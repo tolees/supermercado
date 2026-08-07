@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 🍃​ ORIGEN: El té verde tiene su origen en China, donde ha sido cultivado y consumido durante miles de años. Con el tiempo, se difundió a otras regiones de Asia y se convirtió en una de las variedades de té más populares en el mundo.
 - 🍃​ SABOR: El sabor de la infusión de té verde es suave y fresco, con un ligero amargor y astringencia. Puede tener notas herbales y vegetales, y un toque ligeramente dulce.
 - 🍃 NOSOTROS: En EPEL queremos facilitar un estilo de vida más saludable a través de las infusiones naturales y preservar el conocimiento que durante generaciones se ha obtenido de culturas de diferentes partes del mundo acerca de los beneficios de las plantas naturales.
 - 🍃​ PRODUCTO: Todos nuestros productos proceden de cultivos donde han recibido el mejor cuidado desde la siembra. Cuidadosamente envasados para que conserven todo el sabor.
+- 🍃​ ORIGEN: El té verde tiene su origen en China, donde ha sido cultivado y consumido durante miles de años. Con el tiempo, se difundió a otras regiones de Asia y se convirtió en una de las variedades de té más populares en el mundo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D5JK9H63{{</world>}}

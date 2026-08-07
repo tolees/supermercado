@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Aplicar sobre la piel previamente mojada y masajear con las manos o con la ayuda de una esponja. Aclarar con abundante agua.
-- El Gel de Ducha Yoghurt Griego contiene Sales Minerales de Agua Termal.
-- Con un suave aroma a Almendras. Un placer para tus sentidos.
-- El resultado: una piel cuidada. Mantiene el pH neutro de la piel. Fórmula dermatológicamente probada. Fórmula con 92% de ingredientes de origen natural.
 - La Toja Yoghurt Griego gracias a su cremosa fórmula enriquecida con Proteínas de Yoghurt concentradas, aporta a tu piel el cuidado y suavidad que necesita
+- El Gel de Ducha Yoghurt Griego contiene Sales Minerales de Agua Termal.
+- El resultado: una piel cuidada. Mantiene el pH neutro de la piel. Fórmula dermatológicamente probada. Fórmula con 92% de ingredientes de origen natural.
+- Con un suave aroma a Almendras. Un placer para tus sentidos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B9GX59YJ{{</world>}}

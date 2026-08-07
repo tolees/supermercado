@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Fragancia de Coco y Sándalo.
-- Fórmula hipoalergénica de desodorante, sin alcohol ni aluminio.
 - Nuevos desodorantes corporales de Axe.
-- Diseñados específicamente para zonas íntimas.
 - Formato aerosol 100 ml.
+- Fórmula hipoalergénica de desodorante, sin alcohol ni aluminio.
+- Diseñados específicamente para zonas íntimas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0GN3XCYF4{{</world>}}

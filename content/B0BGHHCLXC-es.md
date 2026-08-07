@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adecuado para rostro y cuerpo. Para cada color y tipo de piel.
 - Secado rápido. Se aplica fácil y uniformemente. No queda pegajoso.
+- Adecuado para rostro y cuerpo. Para cada color y tipo de piel.
 - Vegano y no testado en animales.
-- Ingredientes naturales y nutritivos que le encantarán a su piel.
 - DHA natural de origen vegetal.
+- Ingredientes naturales y nutritivos que le encantarán a su piel.
 - Con un aroma fantástico.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

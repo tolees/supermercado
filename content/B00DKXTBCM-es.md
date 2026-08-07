@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aporta energía
 - Producto de café
 - Con notas de chocolate
+- Aporta energía
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00DKXTBCM{{</world>}}

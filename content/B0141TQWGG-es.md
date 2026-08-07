@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- BENEFICIOS PARA EL ORGANISMO - La manzanilla y la miel tienen una acción antioxidante y antiinflamatoria y mejora el sistema digestivo.
-- VEGANA, SIN GLUTEN Y SIN AZÚCARES AÑADIDOS - Ingredientes 100% Naturales para conseguir una infusión ligera y aromática.
-- MANZANILLA Y MIEL - Floral con intensidad y una dulzor tenue. La Manzanilla añade una ligera nota de sabor, con notas florales y un regusto dulce. Además, las cualidades naturales de la miel añaden una nota compleja y una textura distintiva a la infusión.
-- INFUSIONES CLÁSICAS - Son las infusiones que nos han acompañado siempre, a lo largo de nuestras vidas. Infusiones sencillas y sin adornos, salvo ese toque especial ocasional, del anís o la miel.
 - CÓMO PREPARAR - Calienta el agua hasta que hierva. Pon una bolsita en la taza y vierte el agua. Tapa la taza para que la mezcla libere su fragancia y sabor. Deja la bolsita en el agua de 3 a 5 minutos, o si lo prefieres, no la saques.
+- INFUSIONES CLÁSICAS - Son las infusiones que nos han acompañado siempre, a lo largo de nuestras vidas. Infusiones sencillas y sin adornos, salvo ese toque especial ocasional, del anís o la miel.
+- VEGANA, SIN GLUTEN Y SIN AZÚCARES AÑADIDOS - Ingredientes 100% Naturales para conseguir una infusión ligera y aromática.
+- BENEFICIOS PARA EL ORGANISMO - La manzanilla y la miel tienen una acción antioxidante y antiinflamatoria y mejora el sistema digestivo.
+- MANZANILLA Y MIEL - Floral con intensidad y una dulzor tenue. La Manzanilla añade una ligera nota de sabor, con notas florales y un regusto dulce. Además, las cualidades naturales de la miel añaden una nota compleja y una textura distintiva a la infusión.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0141TQWGG{{</world>}}

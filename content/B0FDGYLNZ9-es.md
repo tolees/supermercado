@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Momento Juntos: Un delicioso y cremoso snack para gatos. Perfecto para dar con la mano y fortalecer el vínculo entre tú y tu gato o gatito
-- Refuerzo de Omega-3 y 6: Una fuente natural de ácidos grasos Omega-3 y 6, fundamentales para la salud general de tu gato. Estos ácidos apoyan un pelaje brillante, piel sana, función óptima del cerebro y los ojos, salud articular y el sistema inmunitario
 - Pack de 4: Cada pack contiene 4x (8x15g) sobres, total de 32 sobres de puré de Atún
 - Perfect as a Treat: A complementary snack to support a well-balanced diet. Serve alongside your cats complete dry food for added variety and enjoyment
+- Momento Juntos: Un delicioso y cremoso snack para gatos. Perfecto para dar con la mano y fortalecer el vínculo entre tú y tu gato o gatito
+- Refuerzo de Omega-3 y 6: Una fuente natural de ácidos grasos Omega-3 y 6, fundamentales para la salud general de tu gato. Estos ácidos apoyan un pelaje brillante, piel sana, función óptima del cerebro y los ojos, salud articular y el sistema inmunitario
 - Bondad 100% natural - Una golosina para gatos sana y fácil de lamer, elaborada con ingredientes naturales. ¡Adecuado para todos los gatos y gatitos!
 
 [🛒 Comprar!!!]({{< param buyurl >}})

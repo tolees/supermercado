@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Personaliza la intensidad de la fragancia con la cantidad de perlas de perfume que desees utilizar
-- Tu colada siempre fresca hasta 12 semanas después de haberla guardado
-- Vierte las perlas de perfume para el lavado directamente en el tambor vacío de la lavadora antes de lavar la ropa
 - Pueden añadirse a todas las coladas, con todo tipo de tejidos
+- Vierte las perlas de perfume para el lavado directamente en el tambor vacío de la lavadora antes de lavar la ropa
+- Personaliza la intensidad de la fragancia con la cantidad de perlas de perfume que desees utilizar
 - Perlas de perfume inspirado en preciosas notas de violeta
+- Tu colada siempre fresca hasta 12 semanas después de haberla guardado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F1DMZBB8{{</world>}}

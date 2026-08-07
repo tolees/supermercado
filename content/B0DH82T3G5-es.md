@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - ALTA PROTEÍNA: El IronMaxx Imperius ofrece hasta un 33% de proteína, ideal para deportistas ambiciosos y entusiastas del fitness
 - CRUJIENTE: Los crujientes de proteína de soja le dan al Imperius un crunch inolvidable. Let me know if you need any further changes!
-- CONTENIDO: Un estuche de IronMaxx Imperius te ofrece 24 barras de proteína de alta calidad.
 - BOCADILLO PERFECTO: El IronMaxx Imperius es el snack ideal para entre comidas, después del entrenamiento o mientras estás fuera de casa: saciante, rico en proteínas y fácil de digerir
 - BAJO EN AZÚCAR: Con solo 0,6 g de azúcar por barra, el IronMaxx Imperius es la elección perfecta para quienes desean reducir su consumo de azúcar sin sacrificar sabor ni rendimiento
+- CONTENIDO: Un estuche de IronMaxx Imperius te ofrece 24 barras de proteína de alta calidad.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DH82T3G5{{</world>}}

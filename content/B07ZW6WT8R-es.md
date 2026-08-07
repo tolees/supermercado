@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Ligero como un acondicionador, intensivo como una mascarilla y eficaz como un tratamiento; Pelo hidratado en profundidad y suave durante más tiempo
 - 3en1: Como acondicionador sobre pelo húmedo para desenredar, como mascarilla dejándolo actuar 1-3 min; para nutrir o como tratamiento sin aclarado para prolongar la nutrición
 - El Compromiso Fructis: fórmulas hasta un 97% biodegradables y testadas bajo control dermatológico, envases con un 50% de plástico reciclado, 100% reciclables y producidos en fábricas comprometidas con el desarrollo sostenible
-- Ligero como un acondicionador, intensivo como una mascarilla y eficaz como un tratamiento; Pelo hidratado en profundidad y suave durante más tiempo
 - 98% de ingredientes de origen natural y vegano; Formulado con Aloe Vera hidratante
 - 390 ml
 

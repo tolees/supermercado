@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mascarilla Hidratante para cabellos secos y dañados TRESemme Repara y Fortalece con biotina y pro bond complex 440ml
-- Mascarilla que regenera, fortaleza y nutre el cabello​; repara hasta 7 daños en 1 uso*
 - Revive cada día la sensación de un cabello óptimo y saludable gracias a su fórmula con biotina y pro bond complex​
 - Mascarilla diseñada para cabellos secos y dañados​
+- Mascarilla que regenera, fortaleza y nutre el cabello​; repara hasta 7 daños en 1 uso*
+- Mascarilla Hidratante para cabellos secos y dañados TRESemme Repara y Fortalece con biotina y pro bond complex 440ml
 - Mascarilla de calidad profesional que ayuda a reparar la superficie y la capa natural del pelo aportándole la fuerza y brillo de un diamante
 
 [🛒 Visítala!!!]({{< param buyurl >}})

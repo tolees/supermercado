@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Viene en bote de 1 L
-- Puede utilizarse como champú ya que limpia perfectamente el cabello
 - Produce un efecto suavizante que facilita el peinado
 - Contiene colágeno y lipoproteínas naturales con propiedades que mejoran la hidratación de la piel
+- Viene en bote de 1 L
+- Puede utilizarse como champú ya que limpia perfectamente el cabello
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00J5FZPH4{{</world>}}

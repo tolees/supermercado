@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- BENEFICIOS: Suplemento de ácidos grasos omega 3 líder en Italia. Certificado por 3 organismos internacionales (IFOS, ORIVO y Friend of the Sea). Sin gluten
 - OMEGA 3: El omega 3 es un ácido graso que el organismo no produce. Es vital para el corazón, la vista y el cerebro. Con este suplemento, consigues tu aporte necesario de forma rápida y cómoda
 - ENERVIT: Desarrollamos productos y suplementos nutricionales e innovadores para mejorar la calidad de vida de nuestros usuarios
-- CONSUMO: Toma de 1 (EPA 400 mg, DHA 200mg) a 5 cápsulas (EPA 2 g, DHA 1 g) al día en función de tus necesidades. Para los que sigan la dieta de la Zona, la dosis diaria es de 4 cápsulas
 - PROPIEDADES: Alta pureza y calidad de los ingredientes. Cápsulas patentadas de 1 g sin retrogusto (EntericareTM Technology)
-- BENEFICIOS: Suplemento de ácidos grasos omega 3 líder en Italia. Certificado por 3 organismos internacionales (IFOS, ORIVO y Friend of the Sea). Sin gluten
+- CONSUMO: Toma de 1 (EPA 400 mg, DHA 200mg) a 5 cápsulas (EPA 2 g, DHA 1 g) al día en función de tus necesidades. Para los que sigan la dieta de la Zona, la dosis diaria es de 4 cápsulas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C5DHW3RW{{</world>}}

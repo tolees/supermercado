@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Beneficios tradicionales: Conocido por aportar una sensación de energía equilibrada, favorecer la claridad mental y acompañar rutinas que buscan bienestar y ligereza.
-- Tamaño: 80 gramos: Una generosa porción de té Matcha en polvo, ideal para disfrutar de varias tazas y experimentar los beneficios del té Matcha.
-- Marca: Matcha & CO: Té Matcha de ceremonial de grado orgánico de la marca Matcha & CO, proveniente de Uji, Kyoto, Japón.
 - Instrucciones de preparación: Fácil de preparar, basta con agregar una cucharadita de té en polvo en una taza, agregar agua caliente y batir hasta obtener una consistencia cremosa.
 - Sabor a vainilla: El rico sabor a vainilla se obtiene de aromatizantes naturales, lo que le da a esta mezcla de té Matcha un sabor suave y delicioso.
+- Tamaño: 80 gramos: Una generosa porción de té Matcha en polvo, ideal para disfrutar de varias tazas y experimentar los beneficios del té Matcha.
+- Marca: Matcha & CO: Té Matcha de ceremonial de grado orgánico de la marca Matcha & CO, proveniente de Uji, Kyoto, Japón.
+- Beneficios tradicionales: Conocido por aportar una sensación de energía equilibrada, favorecer la claridad mental y acompañar rutinas que buscan bienestar y ligereza.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTTRVQCM{{</world>}}

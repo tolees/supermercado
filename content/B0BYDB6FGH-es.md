@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - CERTIFICACIÓN RAINFOREST ALLIANCE: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, sino que también hace bien. Con cada compra, estás ayudando a cientos de caficultores y a sus familias en todo el mundo, además de aportar tu granito de arena para preservar los bosques y la selva tropical: beber mejor es hacerlo mejor
-- Frasco de plástico fabricado con un 30% de PET reciclado. Envase 100% reciclable.
-- Mezcla de 40% Arábica y 60% Robusta
-- Porción recomendada: Añadir 1-2 cucharaditas por taza según el gusto, usar agua o leche caliente (pero no hirviendo), como prefieras
 - Envasado en España
+- Porción recomendada: Añadir 1-2 cucharaditas por taza según el gusto, usar agua o leche caliente (pero no hirviendo), como prefieras
+- Mezcla de 40% Arábica y 60% Robusta
+- Frasco de plástico fabricado con un 30% de PET reciclado. Envase 100% reciclable.
 - Café soluble suave y de cuerpo ligero con una acidez intensa suavizada por notas dulces a caramelo
 - Intensidad 3/5
 

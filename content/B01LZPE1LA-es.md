@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Con aceite de oliva
+- Viene en un embalaje reciclable
 - De una textura fina
 - Tarrito con terena y verduras
-- Viene en un embalaje reciclable
-- Con aceite de oliva
 - Adecuado para bebés mayores de 6 meses
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

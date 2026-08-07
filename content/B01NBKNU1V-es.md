@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PARA SU SATISFACCIÓN: Como empresa familiar, queremos mantenerle satisfecho a largo plazo. Sin embargo, si alguna vez no está satisfecho, tiene alguna pregunta o necesita ayuda, póngase en contacto con nosotros. Juntos encontraremos una solución.
-- POLVO DE CACAO ORGÁNICO contiene polvo de cacao altamente desengrasado 100% puro de cultivo orgánico, lat. Theobroma cacao. Sin aditivos. Solamente naturaleza pura.
 - 35 AÑOS DE EXPERTICIA CON ORGÁNICOS. MADE IN GERMANY. Después de más de 35 años de experiencia con lo orgánico, conocemos las mejores áreas de cultivo y los productores y procesadores más confiables. Cada producto se llena y se verifica en nuestra manufactura.
+- POLVO DE CACAO ORGÁNICO contiene polvo de cacao altamente desengrasado 100% puro de cultivo orgánico, lat. Theobroma cacao. Sin aditivos. Solamente naturaleza pura.
 - MÁXIMA CALIDAD DE LA SUSTANCIA ACTIVA: El polvo de cacao es de cultivo ecológico sostenible y es molido cuidadosamente. El cacao altamente desengrasado tiene solamente 11% de grasa.
+- PARA SU SATISFACCIÓN: Como empresa familiar, queremos mantenerle satisfecho a largo plazo. Sin embargo, si alguna vez no está satisfecho, tiene alguna pregunta o necesita ayuda, póngase en contacto con nosotros. Juntos encontraremos una solución.
 - EL SER HUMANO Y EL MEDIO AMBIENTE SON IMPORTANTES PARA NOSOTROS. El producto es vegano, sin lactosa, sin gluten, sin soja y sin azúcar añadido. Sin aditivos. Embalaje de almacenamiento con cierre de cremallera.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

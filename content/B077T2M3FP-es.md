@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 🍫 CACAO NATURAL Y AUTÉNTICO: Elaborado con cacao 100% natural, sin aditivos ni conservantes, manteniendo su sabor original y la clásica textura con grumitos.
-- 🌱 COMPROMISO CON LA CALIDAD: Un producto pensado para quienes valoran lo auténtico, elaborado con ingredientes de alta calidad y respeto por la tradición.
 - 🕰️ LATA CON DISEÑO STAR WARS: Descubre la magia de ColaCao Original en esta espectacular edición limitada de Star Wars. Este icónico cacao soluble viene en una lata coleccionable de 1400g decorada con los emblemáticos personajes de la saga galáctica
+- 🌱 COMPROMISO CON LA CALIDAD: Un producto pensado para quienes valoran lo auténtico, elaborado con ingredientes de alta calidad y respeto por la tradición.
 - 🔥 ELABORACIÓN TRADICIONAL CON TEXTURA ÚNICA: Recolectado a mano, secado al sol, tostado y prensado siguiendo métodos artesanales. Gracias a su proceso natural, conserva los emblemáticos grumitos que lo hacen inconfundible.
+- 🍫 CACAO NATURAL Y AUTÉNTICO: Elaborado con cacao 100% natural, sin aditivos ni conservantes, manteniendo su sabor original y la clásica textura con grumitos.
 - 📦 FORMATO AHORRO DE 1,4 KG: Contiene hasta 100 raciones, ideal para un consumo prolongado sin renunciar al sabor y la calidad de siempre.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

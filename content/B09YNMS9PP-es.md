@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La fragancia te envuelve con notas de pistacho tostado y piña; en su corazón, se combinan el ylang-ylang y el jazmín con la exclusiva Flor de Ormond; la vainilla y el pachulí consiguen un aroma duradero
 - Capturando el espíritu vivaz y la alegría de vivir de la mujer moderna, Girl of Now Shine es una distintiva fragancia gourmand empolvada que irradia una irresistible energía positiva y una efervescencia luminosa
-- Creada exclusivamente para Elie Saab, la Flor de Ormond es una nota única que revela facetas preciosas y gourmand, ofreciendo una sensación suave, adictiva y aterciopelada
+- La fragancia te envuelve con notas de pistacho tostado y piña; en su corazón, se combinan el ylang-ylang y el jazmín con la exclusiva Flor de Ormond; la vainilla y el pachulí consiguen un aroma duradero
 - El eau de parfum se presenta en una botella redonda esculpida como una joya preciosa, adornada con un collar de flores doradas; el broche lo pone su tapón dorado, como una flor en plena floración
+- Creada exclusivamente para Elie Saab, la Flor de Ormond es una nota única que revela facetas preciosas y gourmand, ofreciendo una sensación suave, adictiva y aterciopelada
 - Un perfume de Elie Saab con el espíritu de la generación de Girl of Now; siempre con sus amigas, atrayendo todas las miradas; espontánea, divertida y desenfadada
 
 [🛒 Comprar!!!]({{< param buyurl >}})

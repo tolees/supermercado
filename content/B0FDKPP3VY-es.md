@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- KIT COMPLETO: Este kit para preparar tus galletas de jengibre de Dr. Oetker incluye un molde para cortar las galletas, preparado en polvo y 3 lápices pasteleros en color blanco, rojo y cacao. ¡Decórala a tu gusto!
 - PREPARACIÓN: Vierte el preparado en polvo en un bol, agrega mantequilla, el huevo y la miel. Trabaja todo con las manos hasta obtener la masa. Colocarla en el frigorífico 15-20 minutos. Mientras, precalienta el horno. Luego, extiende la masa hasta que quede fina y recortar las galletas. Colócalas sobre el papel de hornear.
+- COCINAR Y DECORAR: Coloca la bandeja con las galletas en el medio del horno y cocina durante 12-13minutos. Deja enfríar las galletas. Por último, decora las galletas a tu gusto con los lápices pasteleros. Conserva las galletas tapadas en un lugar fresco y seco, y consumirlas en 2 días.
 - IDEALES PARA NAVIDAD: Ya sea con tu familia o amigos, con este kit de repostería de Dr. Oetker podrás divertirte mientras creas las galletas de jengibre más original y divertida.
 - PERFECTO PARA NIÑOS: Este de kit de galletas de jengibre es perfecto para cocinar con niños e iniciarles en la cocina de forma rápida, sencilla y entretenida.
-- COCINAR Y DECORAR: Coloca la bandeja con las galletas en el medio del horno y cocina durante 12-13minutos. Deja enfríar las galletas. Por último, decora las galletas a tu gusto con los lápices pasteleros. Conserva las galletas tapadas en un lugar fresco y seco, y consumirlas en 2 días.
-- KIT COMPLETO: Este kit para preparar tus galletas de jengibre de Dr. Oetker incluye un molde para cortar las galletas, preparado en polvo y 3 lápices pasteleros en color blanco, rojo y cacao. ¡Decórala a tu gusto!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FDKPP3VY{{</world>}}

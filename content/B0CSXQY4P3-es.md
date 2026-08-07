@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- [AZUCAR DE SAVIA DE LA FLOR DE COCO]: También conocida como azucar de coco, es un endulzante natural que se obtiene a partir del néctar de las flores de coco, Por lo que es apta para dietas Veganas.-
-- [SALUDABLE]: Su bajo índice glucémico y su rico contenido en nutrientes hacen del azucar de coco una opción más saludable que el azúcar refinado, ya sea blanca o azúcar moreno. Aporta Hierro, Potasio, Calcio y Fibra.-
-- [BIO]: El azúcar de coco es un producto 100% natural, libre de químicos y totalmente ecológico. Es fuente de fibra necesaria para cuidar la microbiota intestinal.-
-- [RECICLABLE]: Desde Eco Wassy, contribuimos al cuidado del medio ambiente, por lo que el envase DEBE ser depositado en el contenedor Amarillo para su correcto reciclado.-
 - [DELICIOSA]: Debido a su exquisito sabor caramelizado, es perfecto para postres, bebidas y cualquier tipo de receta que se desee endulzar de manera Natural.-
+- [AZUCAR DE SAVIA DE LA FLOR DE COCO]: También conocida como azucar de coco, es un endulzante natural que se obtiene a partir del néctar de las flores de coco, Por lo que es apta para dietas Veganas.-
+- [BIO]: El azúcar de coco es un producto 100% natural, libre de químicos y totalmente ecológico. Es fuente de fibra necesaria para cuidar la microbiota intestinal.-
+- [SALUDABLE]: Su bajo índice glucémico y su rico contenido en nutrientes hacen del azucar de coco una opción más saludable que el azúcar refinado, ya sea blanca o azúcar moreno. Aporta Hierro, Potasio, Calcio y Fibra.-
+- [RECICLABLE]: Desde Eco Wassy, contribuimos al cuidado del medio ambiente, por lo que el envase DEBE ser depositado en el contenedor Amarillo para su correcto reciclado.-
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CSXQY4P3{{</world>}}

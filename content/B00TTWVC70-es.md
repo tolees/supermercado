@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Gel limpiador facial para la higiene y cuidado diario de las pieles grasas y con tendencia acnéica
 - Recomendado para pieles grasas y con tendencia acnéica que presenten rojeces e imperfecciones cutáneas
-- Los productos Acniben con Zincamida, regularizan el exceso de sebo y brillo, ayudan a minimizar las imperfecciones y rojeces cutáneas con suavidad
-- Probado dermatológicamente; hipoalergénico
 - Elimina el exceso de sebo y purifica la piel
+- Probado dermatológicamente; hipoalergénico
+- Los productos Acniben con Zincamida, regularizan el exceso de sebo y brillo, ayudan a minimizar las imperfecciones y rojeces cutáneas con suavidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00TTWVC70{{</world>}}

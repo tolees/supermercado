@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- 🌿 PRODUCCIÓN DE ORIGEN VEGETAL Y CULTIVO SOSTENIBLE DE MICROALGAS El aceite procede de microalgas cultivadas en entorno controlado mediante procesos sostenibles, una alternativa moderna a las fuentes marinas tradicionales. Un enfoque coherente con un estilo de vida responsable y vegetal.
+- 🌿 FÓRMULA LIMPIA: SIN GLUTEN, NON GMO Producto sin gluten, sin colorantes artificiales y elaborado únicamente con ingredientes vegetales. No contiene organismos modificados genéticamente, manteniendo una formula minimalista y transparente.
+- 🌿 2000 mg POR DOSIS DIARIA – 600 mg DHA + 300 mg EPA Cada dosis diaria aporta una combinación estandarizada de 600 mg de DHA y 300 mg de EPA, especificada de forma transparente para una comprensión clara del contenido en Omega 3.
 - 🌿 OMEGA 3 100% VEGETAL DE ACEITE DE ALGAS (DHA + EPA) Fórmula desarrollada exclusivamente con aceite de microalgas cultivadas de forma controlada. Una alternativa vegetal al aceite de pescado, ideal para quienes siguen una alimentación vegana, vegetariana o buscan opciones más sostenibles.
 - 🌿 120 CÁPSULAS VEGETALES DE ALMIDÓN DE TAPIOCA (SIN GELATINA ANIMAL) Las cápsulas se elaboran con almidón de tapioca, una alternativa vegetal a la gelatina convencional. Son fáciles de tragar, aptas para veganos y adecuadas para quienes buscan un formato limpio y sin ingredientes de origen animal.
-- 🌿 2000 mg POR DOSIS DIARIA – 600 mg DHA + 300 mg EPA Cada dosis diaria aporta una combinación estandarizada de 600 mg de DHA y 300 mg de EPA, especificada de forma transparente para una comprensión clara del contenido en Omega 3.
-- 🌿 FÓRMULA LIMPIA: SIN GLUTEN, NON GMO Producto sin gluten, sin colorantes artificiales y elaborado únicamente con ingredientes vegetales. No contiene organismos modificados genéticamente, manteniendo una formula minimalista y transparente.
-- 🌿 PRODUCCIÓN DE ORIGEN VEGETAL Y CULTIVO SOSTENIBLE DE MICROALGAS El aceite procede de microalgas cultivadas en entorno controlado mediante procesos sostenibles, una alternativa moderna a las fuentes marinas tradicionales. Un enfoque coherente con un estilo de vida responsable y vegetal.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B8F2TFZ8{{</world>}}

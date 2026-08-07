@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Fórmula natural de rápida absorción para día y noche. Cuidado facial ligero que se absorbe rápidamente sin dejar sensación grasa, ideal para el uso diario por la mañana y por la noche
 - Con aceites biológicos nutritivos y protectores. Enriquecida con aceite de jojoba BIO, aceite de sésamo BIO, cera de abeja y cera de carnauba, que ayudan a estimular la renovación celular y mejorar la elasticidad de la piel
-- Con aceites biológicos nutritivos y protectores. Enriquecida con aceite de jojoba BIO, aceite de sésamo BIO, cera de abeja y cera de carnauba, que ayudan a estimular la renovación celular y mejorar la elasticidad de la piel
 - Hidratación diaria que alisa la piel y mejora su elasticidad. Crema hidratante facial ligera para hombre que hidrata intensamente, alisa la piel y ayuda a preservar su juventud, protegiéndola frente a las agresiones externas
 - Consejos de uso. Aplicar sobre rostro y cuello por la mañana y por la noche. Después del afeitado, aplicar primero el Bálsamo After Shave Weleda FOR MEN y, a continuación, la Crema Hidratante
+- Con aceites biológicos nutritivos y protectores. Enriquecida con aceite de jojoba BIO, aceite de sésamo BIO, cera de abeja y cera de carnauba, que ayudan a estimular la renovación celular y mejorar la elasticidad de la piel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B002HRTVO0{{</world>}}

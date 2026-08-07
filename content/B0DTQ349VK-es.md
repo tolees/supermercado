@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contenido de alcohol 37.5 %
-- Nariz: fresas frescas
 - Botella de 70 cl
+- Contenido de alcohol 37.5 %
+- La siguiente información se aplica a cada unidad del paquete
 - Boca: fresa dulce fresca con enebro subyacente
 - Mezclador optimó: Indian Tonic Water, Mediterranean Tonic Water
-- La siguiente información se aplica a cada unidad del paquete
+- Nariz: fresas frescas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DTQ349VK{{</world>}}

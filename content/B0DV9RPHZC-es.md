@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Set de la marca Nivea
+- Color: Multicolor
 - ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
 - Medidas: 5 x 5 x 18 centímetros
+- Set de la marca Nivea
 - Referencia: S05128033
-- Color: Multicolor
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DV9RPHZC{{</world>}}

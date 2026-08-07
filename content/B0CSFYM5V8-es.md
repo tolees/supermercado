@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Jack Daniels Bonded Series son hechos de manera única con granos de la más alta calidad, levadura, agua de manantial, madurados en barricas de elaboración propia y embotellados a 50% Vol alcohol para alcanzar un cocktail optimo
 - Optimo para cocktails clásicos y signaturas como un Manhattan
 - El Jack Daniels Bonded Rye Tennessee Rye Whiskey es un equilibrado whiskey, hecho de un 70% Centeno, 18% Maíz y 12% Cebada Malteada
 - Es una variedad Bottled-in-Bond, que se abre con notas de frutos secos y sutiles toques persistentes de caramelo, impartiendo un sabor audaz, complejo y equilibrado con un final especiado de centeno
-- Jack Daniels Bonded Series son hechos de manera única con granos de la más alta calidad, levadura, agua de manantial, madurados en barricas de elaboración propia y embotellados a 50% Vol alcohol para alcanzar un cocktail optimo
 - El whiskey Bottled-in-Bond es de una única destilería, de una única temporada de destilación, envejecido en un almacén federalmente garantizado durante al menos 4 años, y embotellado a 50% Vol alcohol
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- De colores y sabores diferentes
-- De diferentes formas
 - De textura gomosa
-- Ideal para compartir
 - Conservar en un lugar fresco y seco
+- De diferentes formas
+- Ideal para compartir
+- De colores y sabores diferentes
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08JMDNYX9{{</world>}}

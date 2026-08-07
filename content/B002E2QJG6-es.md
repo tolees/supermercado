@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- St-Germain es el regalo ideal: disfruta de un ramo de flores en una botella para ti o para alguien especial y dale un toque de primavera a cualquier ocasión con el licor de flor de saúco St-Germain
+- St-Germain es un licor francés elaborado con flores de saúco frescas recogidas a mano; su nombre proviene del barrio parisino tan frecuentado por los escritores y artistas durante la Belle Époque
 - El toque dulce y silvestre de hasta 1000 flores de saúco contenidas en cada botella otorga a St-Germain un sabor delicado y sofisticado, con notas de frutas tropicales, cítricos, pera y madreselva
 - Las flores de saúco, el ingrediente más importante, se recogen en primavera, a primera hora de la mañana, cuando las flores acaban de abrirse y el sabor y el aroma están en todo su apogeo
 - Con St-Germain, ¡cualquier cóctel cobra vida! Pruébalo en el icónico St-Germain Spritz, con vino espumoso seco y soda, en un refrescante St-Germain Margarita o en un aromático St-Germain Hugo
-- St-Germain es un licor francés elaborado con flores de saúco frescas recogidas a mano; su nombre proviene del barrio parisino tan frecuentado por los escritores y artistas durante la Belle Époque
+- St-Germain es el regalo ideal: disfruta de un ramo de flores en una botella para ti o para alguien especial y dale un toque de primavera a cualquier ocasión con el licor de flor de saúco St-Germain
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B002E2QJG6{{</world>}}

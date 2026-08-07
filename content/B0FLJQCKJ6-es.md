@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Uso húmedo y seco: esta esponja cosmética es fácil de usar y limpiar, y el mezclador de belleza se puede utilizar húmedo y seco. Después de humedecer completamente, la esponja agitadora se volverá más grande, elástica y no se deforma fácilmente. La esponja cosmética se puede utilizar para corrector, base, crema BB, protector solar o directamente para sombra de ojos, rubor, polvo y otros cosméticos.
-- Alta calidad: nuestro juego de esponjas cosméticas está hecho de materiales multicolor sin látex, que es suave al tacto. Por favor, toca suavemente para crear un hermoso maquillaje.
 - Reutilizables y duraderas: las esponjas son fáciles de limpiar y secar. Te sugerimos limpiarlos después de cada uso y secarlos en un lugar ventilado, para que nunca pierdan su elasticidad.
+- Alta calidad: nuestro juego de esponjas cosméticas está hecho de materiales multicolor sin látex, que es suave al tacto. Por favor, toca suavemente para crear un hermoso maquillaje.
 - Maquillaje fácil de 360 grados: todo tipo de cara redonda inclinada, puntiaguda, plana y redonda. Esta esponja cosmética multifuncional es muy adecuada para los contornos de la cara, el cuello, la nariz y los ojos. El diseño biselado perfecto puede absorber el aceite en la piel. La esponja de base es suave y puede hacer que tu maquillaje se vea natural.
 - El paquete incluye: recibirás 12 esponjas cosméticas, incluyendo 3 esponjas cosméticas grandes, 3 esponjas cosméticas pequeñas, 3 esponjas de polvo grandes y 3 esponjas de polvo pequeñas, que pueden satisfacer tu demanda ilimitada de maquillaje base.
 

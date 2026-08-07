@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Fórmula sin perfume, tolerancia óptima: está enriquecido con extracto de flor de almendro con propiedades suavizantes, extracto de aloe vera ecológico con propiedades hidratantes y ácido láctico para ayudar a mantener el equilibrio de la zona íntima
+- COSMOS ORGANIC certificado por ECOCERT: el 98% del total del producto es de origen natural. El 10% del total de los ingredientes procede de la Agricultura Ecológica. El envase es totalmente reciclable. El gel ha sido probado bajo control ginecológico
+- Consejos de uso: para un uso óptimo del gel íntimo femenino, utilízalo en la ducha para la intimidad (sólo uso externo) y aclara abundantemente. No lo apliques sobre la piel dañada o irritada
 - Limpia suavemente la zona íntima: el gel limpiador íntimo Sensitive Corine de Farme está especialmente diseñado para limpiar suavemente la zona íntima de las mujeres. Proporciona confort y bienestar a diario
 - Carta de formulación de alta tolerancia: nuestros productos respetan todos los tipos de piel, incluso las pieles sensibles. Son hipoalergénicos, sin parabenos, formulados bajo control farmacéutico y probados bajo control dermatológico
-- Consejos de uso: para un uso óptimo del gel íntimo femenino, utilízalo en la ducha para la intimidad (sólo uso externo) y aclara abundantemente. No lo apliques sobre la piel dañada o irritada
-- COSMOS ORGANIC certificado por ECOCERT: el 98% del total del producto es de origen natural. El 10% del total de los ingredientes procede de la Agricultura Ecológica. El envase es totalmente reciclable. El gel ha sido probado bajo control ginecológico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B082VVXMP3{{</world>}}

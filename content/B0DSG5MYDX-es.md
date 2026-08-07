@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Previene la rotura del cabello, con 10 veces más hidratación. Cabello más fuerte y con +96% de suavidad.
 - Aplicar sobre el cabello mojado. Repartir uniformemente y dejar actuar 1 minuto. Aclarar.
+- Previene la rotura del cabello, con 10 veces más hidratación. Cabello más fuerte y con +96% de suavidad.
 - Enriquecida con Glicoamina, esta mascarilla previene la rotura y la alteración del color. Su textura fundente refuerza, hidrata y protege instantáneamente la fibra capilar del depósito de partículas, haciéndola menos permeable.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

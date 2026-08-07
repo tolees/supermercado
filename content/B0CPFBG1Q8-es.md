@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Tipo de Piel: Todo Tipo de Pieles
 - Género: Unisex Adulto
-- Para el cabello: normal
 - Tipo de piel: seca
+- Para el cabello: normal
 - La siguiente información se aplica a cada unidad del paquete
 - Texturas: Loción
 

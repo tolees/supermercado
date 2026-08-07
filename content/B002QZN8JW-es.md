@@ -29,12 +29,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Para un delicioso batido de proteínas, agrega 1 cucharada de aislado de suero a 260 ml de agua y agita, revuelve o mezcla
-- Polvo aislado de proteína de suero de leche hidrolizada pura diseñado para apoyar tu entrenamiento de fuerza, rutina de CrossFit, entrenamiento de gimnasio y sesiones de fitness
-- Cuidadosamente formulado con 9,5 g de BCAA naturales y aminoácidos añadidos
-- Cada porción contiene 30 g de la PROTEÍNA DE DIGESTIÓN MÁS RÁPIDA para el crecimiento y mantenimiento de la masa muscular*
 - *Fuente: Diario Oficial de la Unión Europea - REGLAMENTO DE LA COMISIÓN (UE) Nº 432/2012
 - FÁCIL DE MEZCLAR, la fórmula proteica para cualquier momento del día proporciona una fuente extra de proteína durante todo el día, en tres variedades: Chocolate con Leche, Súper Fresa y Vainilla
 - Los aislados de proteína de suero hidrolizado brindan la FORMA MÁS PURA DE PROTEÍNA DE SUERO con cantidades mínimas de grasa y azúcares; SÓLO 1 g DE AZÚCARES O MENOS y no más de 0,5 g de grasa por ración
+- Cada porción contiene 30 g de la PROTEÍNA DE DIGESTIÓN MÁS RÁPIDA para el crecimiento y mantenimiento de la masa muscular*
+- Polvo aislado de proteína de suero de leche hidrolizada pura diseñado para apoyar tu entrenamiento de fuerza, rutina de CrossFit, entrenamiento de gimnasio y sesiones de fitness
+- Cuidadosamente formulado con 9,5 g de BCAA naturales y aminoácidos añadidos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B002QZN8JW{{</world>}}

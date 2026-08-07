@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se sirve en cajas de 85 g para que cada comida se mantenga fresca y cómoda de servir
 - Una textura sabrosa diferente cada día
+- La siguiente información se aplica a cada unidad del paquete
 - Sin colorantes añadidos, sin aromas artificiales añadidos y conservantes artificiales añadidos
 - Alimentación 100% completa y equilibrada para gatos adultos con carne de res, pollo, salmón y atún
-- La siguiente información se aplica a cada unidad del paquete
+- Se sirve en cajas de 85 g para que cada comida se mantenga fresca y cómoda de servir
 - Elaboradas con ingredientes de alta calidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

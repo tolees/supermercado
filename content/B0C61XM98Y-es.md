@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sin azúcar, sin lactosa, sin gluten, sin grasa ni aceite de palma (Sin azúcar: <0,5 g/100 ml de bebida lista para consumir. Sin lactosa: <0,1 g/100 ml de bebida lista para consumir. Sin gluten, según la normativa de la Unión Europea. Sin grasas: <0,5 g/100 ml de bebida lista para consumir.)
+- Bebida en polvo saborizada y refrescante con colágeno hidrolizado, ácido hialurónico, aminoácidos, vitaminas y minerales, con azúcar y edulcorante.
 - Con vitaminas, minerales, aminoácidos y antioxidantes*** (***El zinc, la vitamina C, la vitamina E, el selenio, el cobre y la riboflavina contribuyen a la protección de las células frente al estrés oxidativo.)
 - Con 105 mg de ácido hialurónico, más de 20 g de colágeno por porción diaria
-- Bebida en polvo saborizada y refrescante con colágeno hidrolizado, ácido hialurónico, aminoácidos, vitaminas y minerales, con azúcar y edulcorante.
+- Sin azúcar, sin lactosa, sin gluten, sin grasa ni aceite de palma (Sin azúcar: <0,5 g/100 ml de bebida lista para consumir. Sin lactosa: <0,1 g/100 ml de bebida lista para consumir. Sin gluten, según la normativa de la Unión Europea. Sin grasas: <0,5 g/100 ml de bebida lista para consumir.)
 - Cartílago hidrolizado en polvo Chondractiv con colágeno de tipo II
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fórmula suave con 85% de ingredientes de origen natural: Gel de baño vegano, libre de parabenos y dermatológicamente testado, formulado para limpiar con delicadeza y cuidar la piel en cada uso.
-- Fragancia Fresa y Nata: Gel de baño que fusiona fragancia de fresa con la cremosidad de la nata, enriquecido con extracto de fresa para brindar una ducha suave y delicadamente reconfortante.
 - Respeta el pH de la piel: Su fórmula equilibrada ayuda a mantener la hidratación natural de la piel, siendo apta para el uso diario incluso en pieles sensibles.
+- Fragancia Fresa y Nata: Gel de baño que fusiona fragancia de fresa con la cremosidad de la nata, enriquecido con extracto de fresa para brindar una ducha suave y delicadamente reconfortante.
 - Nutritivo, hidratante y fácil de aclarar: Gel de baño con textura cremosa que genera una espuma abundante, se aclara fácilmente y deja la piel suave, flexible y delicadamente perfumada.
+- Fórmula suave con 85% de ingredientes de origen natural: Gel de baño vegano, libre de parabenos y dermatológicamente testado, formulado para limpiar con delicadeza y cuidar la piel en cada uso.
 - Fabricado con agua de manantial: Gel de baño elaborado con agua de manantial y la experiencia de Tulipán Negro, marca española especializada en productos de higiene personal con fragancias únicas para toda la familia.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

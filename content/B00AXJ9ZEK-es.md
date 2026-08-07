@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Crea un rostro impecable con nuestro líquido de larga duración.
 - High quality cosmetics recommended by professionals
+- Crea un rostro impecable con nuestro líquido de larga duración.
 - Este maquillaje corrector de cobertura total minimiza la apariencia de las ojeras.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

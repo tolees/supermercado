@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Inca Omega Oil reforzado con Vitamina E
 - Formulado sin agua ni conservantes
 - Sin jabón
+- Inca Omega Oil reforzado con Vitamina E
 - Higiene y cuidado de pieles muy atópicas, secas y sensibles
 
 [🛒 Comprar!!!]({{< param buyurl >}})

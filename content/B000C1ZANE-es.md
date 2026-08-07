@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Es una fragancia de la familia olfativa aromática
+- Eau de Toilette para hombre 1 l
+- Su aroma es amaderado y especiado
 - El perfume inconfundible, masculino y tradicional
 - La fragancia contiene notas orientales, notas amaderadas, notas especiadas
-- Su aroma es amaderado y especiado
-- Eau de Toilette para hombre 1 l
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B000C1ZANE{{</world>}}

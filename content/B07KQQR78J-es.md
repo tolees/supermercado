@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Champú violeta, rico en pigmentos neutralizantes que eliminan instantáneamente los reflejos amarillos. Ideal para rubios fríos y cabello gris, el uso regular de este champú proporciona una protección contra los reflejos indeseados, manteniendo el rubio frío durante más tiempo. Protege el cabello de la oxidación diaria y de la contaminación, restaurando el brillo y la suavidad. Enriquecido con ácido hialurónico y flor de edelweiss, potencia la luminosidad del rubio mientras nutre intensamente la fibra.
 - Repara los daños capilares causados por la luz solar, el agua o las herramientas térmicas y neutraliza instantáneamente los reflejos rubios
 - Utilizar una vez a la semana, alternando con el Champú Bain Lumière. Aplicar sobre cabello húmedo. Distribuir en forma de estrella en el cuero cabelludo, masajeando para generar espuma y liberar las notas aromáticas, mientras se distribuye al resto del cabello. Emulsionar y aclarar.
+- Champú violeta, rico en pigmentos neutralizantes que eliminan instantáneamente los reflejos amarillos. Ideal para rubios fríos y cabello gris, el uso regular de este champú proporciona una protección contra los reflejos indeseados, manteniendo el rubio frío durante más tiempo. Protege el cabello de la oxidación diaria y de la contaminación, restaurando el brillo y la suavidad. Enriquecido con ácido hialurónico y flor de edelweiss, potencia la luminosidad del rubio mientras nutre intensamente la fibra.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07KQQR78J{{</world>}}

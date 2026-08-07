@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Nos preocupa el medio ambiente tanto como a ti, por eso nuestros envases son 100% reciclables, tíralos al contenedor amarillo
+- Desde 1886 Coca-Cola Sabor Original ha refrescado el mundo con su sabor único, disfruta cada momento con su bebida icónica y siente la chispa de la felicidad
 - Disfruta el refrescante sabor de Coca-Cola Sabor Original, cada sorbo de este burbujeante refresco te brinda una experiencia deliciosa y revitalizante
 - Cada pack incluye 12 latas de 500 ml, para que puedas compartir con amigos o disfrutar de momentos tranquilos en casa
 - Coca-Cola Sabor Original, la bebida icónica que refresca con su inconfundible y delicioso sabor en cada sorbo
-- Nos preocupa el medio ambiente tanto como a ti, por eso nuestros envases son 100% reciclables, tíralos al contenedor amarillo
-- Desde 1886 Coca-Cola Sabor Original ha refrescado el mundo con su sabor único, disfruta cada momento con su bebida icónica y siente la chispa de la felicidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0G3579YDX{{</world>}}

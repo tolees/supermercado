@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La siguiente información se aplica a cada unidad del paquete
 - 🍪 GALLETAS CRUJIENTES Y DELICIOSAS: las galletas Smileat de Espelta y Fruta son ideales para peques. Perfectas para una merienda divertida, con una textura crujiente y un sabor que encantará.
+- 🌍 CONFIANZA EN CADA ELECCIÓN: en Smileat, trabajamos con ingredientes ecológicos, apostamos por la sostenibilidad y apoyamos prácticas responsables que respetan el medio ambiente y el bienestar de los más pequeños.
+- La siguiente información se aplica a cada unidad del paquete
+- 💚 SMILEAT: nacimos para revolucionar la alimentación infantil y lo seguimos haciendo con cada producto. Como la primera marca B-Corp en alimentación infantil ecológica de España, en Smileat trabajamos para crear un impacto positivo en el mundo, ofreciendo productos ricos y responsables que cuidan de los más pequeños, del planeta y de su futuro.
 - 👶 IDEAL PARA PEQUES A PARTIR DE 10 MESES: galletas formuladas para ofrecer una opción sabrosa y fácil de disfrutar. Dáselas enteras si ya tiene dientes, mojadas en leche o machacadas acompañando un puré de fruta o yogur.
 - 🌱 INGREDIENTES ECOLÓGICOS: elaboradas con ingredientes seleccionados como harina de espelta, zumo concentrado de manzana, aceite de oliva virgen extra, galletas sin azúcar añadido, contiene azúcares naturalmente presentes, puede contener trazas de leche, soja, huevo, frutos de cáscara y mostaza.
-- 💚 SMILEAT: nacimos para revolucionar la alimentación infantil y lo seguimos haciendo con cada producto. Como la primera marca B-Corp en alimentación infantil ecológica de España, en Smileat trabajamos para crear un impacto positivo en el mundo, ofreciendo productos ricos y responsables que cuidan de los más pequeños, del planeta y de su futuro.
-- 🌍 CONFIANZA EN CADA ELECCIÓN: en Smileat, trabajamos con ingredientes ecológicos, apostamos por la sostenibilidad y apoyamos prácticas responsables que respetan el medio ambiente y el bienestar de los más pequeños.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FZXG8XGF{{</world>}}

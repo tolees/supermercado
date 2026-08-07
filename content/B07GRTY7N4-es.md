@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Perfume de Fresa con Nata. Exquisita y dulce fragancia
 - No testado en animales. Vegano. Fabricación íntegra en España
-- Libre de Parabenos. Dermatológicamente testado. Indicado para todo tipo de piel
-- Cuida e hidrata tu piel gracias a los principios higroscópicos de la fresa. Dejará en tu piel un olor muy dulce
 - Género; Unisex. Adulto y adolescente
+- Cuida e hidrata tu piel gracias a los principios higroscópicos de la fresa. Dejará en tu piel un olor muy dulce
+- Perfume de Fresa con Nata. Exquisita y dulce fragancia
+- Libre de Parabenos. Dermatológicamente testado. Indicado para todo tipo de piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07GRTY7N4{{</world>}}

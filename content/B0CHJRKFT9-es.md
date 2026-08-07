@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Es una ginebra equilibrada para elevar tu experiencia al siguiente nivel en cualquier ocasión
 - Beefeater Black está elaborada a mano por el maestro destilador Desmond Payne, y en honor a los Black Ravens de la Torre de Londres
 - Beefeater Black es la nueva expresión de la icónica Beefeater London Dry, añadiendo dos nuevos botánicos: tomillo y verbena de limón
-- Es una ginebra equilibrada para elevar tu experiencia al siguiente nivel en cualquier ocasión
-- Es accesible al paladar, fresco, ligero y floral pero de estilo clásico con enebro
 - Se recomienda consumir en Gin&Tonic: 200 ml de tónica, rodaja de limón y mucho hielo
+- Es accesible al paladar, fresco, ligero y floral pero de estilo clásico con enebro
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CHJRKFT9{{</world>}}

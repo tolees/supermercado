@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Deléitate con los hipnóticos y lujosos aromas de Oriente Medio con Golden Nectar, una sensual fragancia de la Colección Jawhara: una selección de cinco Eaux de Parfum que te transportan a Oriente Medio, un lugar donde la rica tradición se fusiona con la magnífica modernidad.
-- Presentadas en elegantes frascos de cristal inspirados en la ornamentada arquitectura árabe, cada adictiva composición aromática es una celebración única de las diferentes facetas de la belleza sensorial árabe y su herencia olfativa.
 - Este perfume unisex combina el fragante ylang-ylang con un delicado acorde floral de vainilla para crear una fragancia sensual con un encanto armonioso que perdura durante horas
-- Descubre Golden Nectar, un Eaux de Parfum blanco ambarado, con un aroma suave y reconfortante
+- Presentadas en elegantes frascos de cristal inspirados en la ornamentada arquitectura árabe, cada adictiva composición aromática es una celebración única de las diferentes facetas de la belleza sensorial árabe y su herencia olfativa.
 - La cítrica bergamota y la jugosa Pearadise aportan un toque de luminosidad, mientras que las notas de fondo amaderadas de almizcle y aceite de vetiver forman una base suave y relajante
+- Deléitate con los hipnóticos y lujosos aromas de Oriente Medio con Golden Nectar, una sensual fragancia de la Colección Jawhara: una selección de cinco Eaux de Parfum que te transportan a Oriente Medio, un lugar donde la rica tradición se fusiona con la magnífica modernidad.
+- Descubre Golden Nectar, un Eaux de Parfum blanco ambarado, con un aroma suave y reconfortante
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F9B68SKL{{</world>}}

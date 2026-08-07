@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- No es necesario decantar este vino. Se encuentra en un momento óptimo de consumo aunque se desarrollará favorablemente en botella los próximos dos años.
+- Nota de cata (nariz): Es limpia y franca. Gran potencia aromática, predominando los aromas primarios como los frutos del bosque y ciruelas que se entrelazan con balsámicos, regaliz, vainilla y café, favorecidos por una madera bien integrada. Fondo de tostados y cacaos.
 - Nota de cata (boca): Elegante, con mucho cuerpo y taninos aterciopelados que le otorgan buena estructura y un largo recorrido. Agradable, bien integrado y largo, muy largo.
+- No es necesario decantar este vino. Se encuentra en un momento óptimo de consumo aunque se desarrollará favorablemente en botella los próximos dos años.
 - Nota de cata (vista): Color rubí intenso con ribete azulado, que denota juventud. Capa alta. Lágrima abundante de caída moderada. Limpio y brillante.
 - Varietales: Cabernet Sauvignon 100%
-- Nota de cata (nariz): Es limpia y franca. Gran potencia aromática, predominando los aromas primarios como los frutos del bosque y ciruelas que se entrelazan con balsámicos, regaliz, vainilla y café, favorecidos por una madera bien integrada. Fondo de tostados y cacaos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B003RJYTYE{{</world>}}

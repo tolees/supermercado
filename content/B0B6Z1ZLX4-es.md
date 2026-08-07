@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Capturando el espíritu vivaz y la alegría de vivir de la mujer moderna, Girl of Now Forever es una distintiva fragancia floral frutal; una oda a la juventud y una celebración por la vida
-- El eau de parfum se presenta en una botella redonda esculpida como una joya preciosa, adornada con un delicado collar de flores coral; el broche lo pone su tapón dorado, como una flor en plena floración
 - La fragancia te envuelve con notas de frambuesa y cítricos; en su corazón, se combinan la rosa y la grosella negra con la exclusiva Flor de Ormond; la madera de cashmere y la vainilla dejan un aroma duradero
-- Un perfume de Elie Saab con el espíritu de la generación de Girl of Now; siempre con sus amigas, atrayendo todas las miradas; espontánea, divertida y desenfadada
+- El eau de parfum se presenta en una botella redonda esculpida como una joya preciosa, adornada con un delicado collar de flores coral; el broche lo pone su tapón dorado, como una flor en plena floración
 - Creada exclusivamente para Elie Saab, la Flor de Ormond es una nota única que revela facetas preciosas y gourmand, ofreciendo una sensación suave, adictiva y aterciopelada
+- Capturando el espíritu vivaz y la alegría de vivir de la mujer moderna, Girl of Now Forever es una distintiva fragancia floral frutal; una oda a la juventud y una celebración por la vida
+- Un perfume de Elie Saab con el espíritu de la generación de Girl of Now; siempre con sus amigas, atrayendo todas las miradas; espontánea, divertida y desenfadada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B6Z1ZLX4{{</world>}}

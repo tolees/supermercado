@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- SIN CONSERVANTES: Pues los esterilizamos a una temperatura de 150ºC. Tan naturales como los harías en casa.
 - Con ingredientes 100% naturales cuidadosamente seleccionados.
 - SABOR CASERO: Elaboramos nuestros caldos con ingredientes naturales y un proceso casero para que disfrutes de tus sopas y recetas favoritas con un sabor cómo el de casa.
 - COCIDOS DURANTE 3 HORAS: Cocidos con mimo y paciencia a fuego lento durante 3 horas. Ponemos todo nuestro cariño y esmero, porque entendemos que son la clave de un buen caldo casero.
+- SIN CONSERVANTES: Pues los esterilizamos a una temperatura de 150ºC. Tan naturales como los harías en casa.
 - SIN GLUTEN y BAJO EN GRASA: Todos nuestros caldos caseros son bajos en grasa y sin gluten y sin conservantes.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

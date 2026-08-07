@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- A menudo, el sistema digestivo de los perros mayores es más sensible y menos eficiente, por lo que el alimento incluye una mezcla de fibras alimentarias adaptada con prebióticos (FOS, MOS) y pulpa de remolacha
 - Con L-carnitina, que favorece el metabolismo de las grasas para mantener el peso ideal y reducir la carga sobre las articulaciones / El complejo de antioxidantes con vitamina E refuerza el sistema inmunitario
-- Alimento premium para perros mayores de razas grandes y gigantes: para razas grandes (25-40 kg) a partir de los 9 años y razas gigantes (más de 40 kg) a partir de los 8 años
 - La receta, adaptada a razas grandes, contiene glucosamina y condroitina para el mantenimiento de unas articulaciones sanas, calcio para unos huesos fuertes y pollo rico en proteínas para una musculatura fuerte y esbelta
+- Alimento premium para perros mayores de razas grandes y gigantes: para razas grandes (25-40 kg) a partir de los 9 años y razas gigantes (más de 40 kg) a partir de los 8 años
+- A menudo, el sistema digestivo de los perros mayores es más sensible y menos eficiente, por lo que el alimento incluye una mezcla de fibras alimentarias adaptada con prebióticos (FOS, MOS) y pulpa de remolacha
 - Las fuentes naturales de Omega-6 y Omega-3 favorecen una piel sana y un pelaje brillante / Sistema de cuidado dental DentaDefense para dientes limpios y sanos / Sin colorantes ni aromatizantes artificiales ni OMG / Envase reciclable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

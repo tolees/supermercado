@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🌿 100% ecológica y natural: Nuestra goma de acacia en polvo procede de acacias africanas y está meticulosamente envasada y fabricada en Francia para garantizar su pureza y calidad.
-- 💪 Rica en fibra soluble: Con más del 90% de fibra soluble, favorece la salud intestinal, facilita la digestión y contribuye al bienestar general.
 - 🌍 De origen sostenible: Cosechado y procesado con métodos respetuosos con el medio ambiente que preservan la salud y la longevidad de los árboles, lo que refleja nuestro compromiso con el desarrollo sostenible.
 - 🔬 Fabricado en Francia : Cada lote se fabrica y envasa en 🇫🇷, y después se somete a rigurosas pruebas en laboratorios para verificar su seguridad y pureza, garantizando los más altos estándares de calidad para nuestros clientes.
+- 🌿 100% ecológica y natural: Nuestra goma de acacia en polvo procede de acacias africanas y está meticulosamente envasada y fabricada en Francia para garantizar su pureza y calidad.
 - 🍽️ Enriquecedor culinario versátil: Espesante y estabilizante de sabor neutro, perfecto para productos horneados sin gluten, batidos, salsas y mucho más, sin alterar el sabor.
+- 💪 Rica en fibra soluble: Con más del 90% de fibra soluble, favorece la salud intestinal, facilita la digestión y contribuye al bienestar general.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CR6Z61VS{{</world>}}

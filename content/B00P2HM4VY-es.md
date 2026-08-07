@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- HMB (‘): es un metabolito activo de la leucina, uno de los componentes de las proteínas
-- PROTEÍNAS DE ALTA CALIDAD; las proteínas ayudan a aumentar la masa muscular
-- Sin gluten y APTO PARA INTOLERANTES A LA LACTOSA
 - CALCIO Y VITAMINA D: ayudan al funcionamiento normal de los músculos y a mantener los huesos en condiciones normales
+- Sin gluten y APTO PARA INTOLERANTES A LA LACTOSA
+- HMB (‘): es un metabolito activo de la leucina, uno de los componentes de las proteínas
 - 27 VITAMINAS Y MINERALES: las vitaminas B2, B6 y B12 ayudan a mantener tu energía (^)
+- PROTEÍNAS DE ALTA CALIDAD; las proteínas ayudan a aumentar la masa muscular
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00P2HM4VY{{</world>}}

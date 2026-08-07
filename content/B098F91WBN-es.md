@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SABOR AUTÉNTICO. Es una cerveza lager especial de color dorado brillante y de sabor equilibrado y refrescante, que marida bien con una amplia variedad de platos, como quesos, verduras y hortalizas, setas, mariscos, pescados blancos y carnes
 - CERVEZA SIN GLUTEN. Pack de cervezas lager sin gluten con un sabor neutro y ligero, con un matiz muy marcado de sabor a lúpulo. Se recomienda su consumo entre 4 y 5º
-- PREMIADA INTERNACIONALMENTE. Ha sido galardonada con numerosos premios internacionales, como el World Beer Challenge, la medalla de Oro en el Brussels Beer Challenge o el European Beer Star
+- SABOR AUTÉNTICO. Es una cerveza lager especial de color dorado brillante y de sabor equilibrado y refrescante, que marida bien con una amplia variedad de platos, como quesos, verduras y hortalizas, setas, mariscos, pescados blancos y carnes
 - INGREDIENTES SELECCIONADOS. Elaborada con agua de la ciudad de A Coruña, MALTAS Pilsen y tostada, MAÍZ, LÚPULOS Nugget y Perle Hallertau y LEVADURA seleccionada. Alc 5.5% vol
+- PREMIADA INTERNACIONALMENTE. Ha sido galardonada con numerosos premios internacionales, como el World Beer Challenge, la medalla de Oro en el Brussels Beer Challenge o el European Beer Star
 - AUTORIZADA POR LA FACE. Conserva el carácter y el sabor auténtico gracias a un proceso enzimático que elimina el gluten. Certificada por la FACE y reconocible por el distintivo internacional de la Espiga Barrada, es una opción segura y deliciosa para celíacos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

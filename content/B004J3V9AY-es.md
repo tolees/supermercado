@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Su ambición siempre ha sido atraer a los amantes de la cerveza con su sabor único, apetitoso y redondo.
-- Procedencia: czech republic
-- Alc. 5.0% vol.
 - Volumen: 0.33 liters
-- Tipo de alcohol: malt beers
-- Unidades: 24
+- Su ambición siempre ha sido atraer a los amantes de la cerveza con su sabor único, apetitoso y redondo.
 - Contenido de alcohol (alc/vol): 5.0 percent_by_volume
-- Volumen paquete: 7925.0 milliliters
-- Como servir: servir entre 3 y 6
+- Procedencia: czech republic
 - Staropramen es una cerveza ligera de praga, producida con amor y pasión durante casi 150 años.
+- Unidades: 24
+- Alc. 5.0% vol.
+- Volumen paquete: 7925.0 milliliters
+- Tipo de alcohol: malt beers
+- Como servir: servir entre 3 y 6
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004J3V9AY{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Color intenso
-- Larga duración, hasta 8h
 - Comodidad
 - Tecnología Color Protect para un color inalterable
+- Color intenso
+- Larga duración, hasta 8h
 - Textura cremosa y suave
 
 [🛒 Aquí!!!]({{< param buyurl >}})

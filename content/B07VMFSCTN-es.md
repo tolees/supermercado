@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Formato de 1250 ML
-- Propiedades antioxidantes
 - Limpia e hidrata en un solo paso
+- Formato de 1250 ML
 - Splash aromático a suave coco
+- Propiedades antioxidantes
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07VMFSCTN{{</world>}}

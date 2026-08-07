@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin azúcar añadido, evitan la aparición de caries, asegurando tu higiene y bienestar dental
-- Los chicles orbit Refreshers sabor hierbabuena proporcionan inmediatamente un extra de frescura, gracias a su exclusiva fórmula. Notarás tu aliento más fresco durante más tiempo
-- Textura consistente y un familiar formato gragea fácil de masticar y llevar contigo
 - Sus cajitas de 30 chicles en gragea aseguran que nunca te falten en tu día a día.
+- Los chicles orbit Refreshers sabor hierbabuena proporcionan inmediatamente un extra de frescura, gracias a su exclusiva fórmula. Notarás tu aliento más fresco durante más tiempo
+- Sin azúcar añadido, evitan la aparición de caries, asegurando tu higiene y bienestar dental
+- Textura consistente y un familiar formato gragea fácil de masticar y llevar contigo
 - Los chicles Orbit aseguran tu salud bucodental al estimular la producción de saliva, que beneficia y asegura la protección de tu esmalte bucal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

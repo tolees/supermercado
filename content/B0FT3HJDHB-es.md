@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 📅 SUMINISTRO PARA 4 MESES: Cada envase contiene 120 cápsulas, pensadas para una toma diaria continua durante cuatro meses. Ideal para mantener una rutina estable sin preocuparse por reposiciones frecuentes.
-- ⚡ APOYO PARA LA ENERGÍA CELULAR Y EL METABOLISMO: El NAD+ es una molécula presente de forma natural en las células y participa en los procesos de producción de energía. Su precursor, la nicotinamida ribósido (vitamina B3), contribuye al metabolismo energético normal y ayuda a reducir el cansancio y la fatiga (EFSA, Reglamento (UE) n.º 432/2012).
-- 💊 300 MG POR CÁPSULA - FÁCIL DE TOMAR CADA DÍA: Cada cápsula contiene 300 mg de nicotinamida ribósido, una forma avanzada de vitamina B3 (niacina) utilizada como factor NAD+. Una sola cápsula al día es suficiente, con una dosis clara y autorizada en la UE, pensada para una suplementación diaria sencilla y sin complicaciones.
 - 🧬 FÓRMULA CLARA FRENTE A MEZCLAS COMPLEJAS: A diferencia de productos con combinaciones múltiples y poco definidas, apostamos por una composición sencilla y bien estudiada. El uso exclusivo de nicotinamida ribósido permite una suplementación directa, comprensible y orientada a un uso diario continuado.
+- 💊 300 MG POR CÁPSULA - FÁCIL DE TOMAR CADA DÍA: Cada cápsula contiene 300 mg de nicotinamida ribósido, una forma avanzada de vitamina B3 (niacina) utilizada como factor NAD+. Una sola cápsula al día es suficiente, con una dosis clara y autorizada en la UE, pensada para una suplementación diaria sencilla y sin complicaciones.
+- ⚡ APOYO PARA LA ENERGÍA CELULAR Y EL METABOLISMO: El NAD+ es una molécula presente de forma natural en las células y participa en los procesos de producción de energía. Su precursor, la nicotinamida ribósido (vitamina B3), contribuye al metabolismo energético normal y ayuda a reducir el cansancio y la fatiga (EFSA, Reglamento (UE) n.º 432/2012).
+- 📅 SUMINISTRO PARA 4 MESES: Cada envase contiene 120 cápsulas, pensadas para una toma diaria continua durante cuatro meses. Ideal para mantener una rutina estable sin preocuparse por reposiciones frecuentes.
 - 🧪 CALIDAD VERIFICADA Y FÓRMULA LIMPIA: Elaborado conforme a los estándares de calidad españoles y europeos, y sometido a controles de laboratorio. Fórmula vegana, sin rellenos ni agentes antiaglomerantes sintéticos, y libre de gluten, lactosa, soja y colorantes artificiales.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

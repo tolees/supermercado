@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Snacks naturales para perros, en forma de huesitos con carne de pollo enrollada. 100% natural. Con un alto contenido en proteína animal y con pocas grasas (Producto Light).
 - El perro debe ser supervisado en todo momento mientras se alimenta
+- Envasado en bolsas de 1 Kg.
+- Snacks naturales para perros, en forma de huesitos con carne de pollo enrollada. 100% natural. Con un alto contenido en proteína animal y con pocas grasas (Producto Light).
 - Utilizar como un regalo o recompensa en cualquier momento, siempre dentro de una dieta equilibrada
 - Alimento complementario para perros de todo tipo de razas, muy rico en nutrientes. 100% natural.
-- Envasado en bolsas de 1 Kg.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08YKH3Y88{{</world>}}

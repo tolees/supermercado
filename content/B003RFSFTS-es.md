@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- SIN GLUTEN Y APTOS PARA VEGETARIANOS: Esta elegante caja con bombones para regalar sin gluten incluye chocolates y rellenos variados, todos ellos deliciosos y aptos para celíacos y dietas vegetarianas
 - 8 ESPECIALIDADES: Gran variedad es el disfrute del chocolate de alta calidad en 8 exquisitas especialidades seleccionadas con mimo pieza a pieza, con texturas y sabores para todos los gustos
-- ELEGANTE FORMATO: Esta caja de bombones es un detalle perfecto, cada uno de los 54 bombones merci está envuelto individualmente en papel de oro y aluminio para una mejor conservación e higiene
+- SIN GLUTEN Y APTOS PARA VEGETARIANOS: Esta elegante caja con bombones para regalar sin gluten incluye chocolates y rellenos variados, todos ellos deliciosos y aptos para celíacos y dietas vegetarianas
 - MERCI SIGNIFICA GRACIAS: Desde 1964, los bombones merci son la mejor manera de decir gracias con un gesto especial, porque agradecer simplemente te hace feliz: con merci puedes expresar aún más aprecio
+- ELEGANTE FORMATO: Esta caja de bombones es un detalle perfecto, cada uno de los 54 bombones merci está envuelto individualmente en papel de oro y aluminio para una mejor conservación e higiene
 - PARA REGALAR Y COMPARTIR: Esta caja de chocolates para regalar es ideal para consumo propio o como regalo y son la forma ideal de simplemente decir "gracias" a seres queridos, amigos o colegas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

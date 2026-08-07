@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - INGREDIENTES NATURALES: Elaboradas exclusivamente con lentejas rojas procedentes de agricultura ecológica. Pueden contener trazas de gluten, soja, sésamo y frutos de cáscara. Perfectas para recetas saludables y fáciles de preparar.
-- MÚLTIPLES BENEFICIOS: Las lentejas rojas son ricas en proteína vegetal, fibra, vitaminas y minerales que ayudan a mantener la energía, favorecen la digestión y contribuyen a una alimentación equilibrada.
 - APTO PARA VEGANOS: Nuestras lentejas rojas ecológicas bio son aptas para dietas veganas, ya que no contienen ingredientes de origen animal. Pueden contener trazas de soja, sésamo y frutos de cáscara.
+- MÚLTIPLES BENEFICIOS: Las lentejas rojas son ricas en proteína vegetal, fibra, vitaminas y minerales que ayudan a mantener la energía, favorecen la digestión y contribuyen a una alimentación equilibrada.
 - MODO DE EMPLEO: No requieren remojo previo. Cocer en agua durante 15-25 minutos hasta obtener una textura suave. Ideales para cremas, purés, sopas y recetas rápidas y nutritivas.
 - SOBRE NOSOTROS: Desde 1982, El Granero Integral apuesta por una alimentación saludable al alcance de todos. Somos empresa BCorp certificada y cumplimos con altos estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
 

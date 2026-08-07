@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- EFICACIA SUPERIOR CLÍNICAMENTE PROBADA: Combate la caspa mientras cuida tu cuero cabelludo con una fórmula de protección 3x para resultados clínicamente probados
 - Purifica el cuero cabelludo graso y el pelo: Este champú anticaspa está testado dermatológicamente y es ideal para uso diario
 - Botella con dispensador: Disfruta del champú que amas por más tiempo y ayuda a minimizar los residuos con nuestras botellas de 1000 ml. Simplemente tira del presinto para activar el dispensador
+- EFICACIA SUPERIOR CLÍNICAMENTE PROBADA: Combate la caspa mientras cuida tu cuero cabelludo con una fórmula de protección 3x para resultados clínicamente probados
 - FÓRMULA DE 3X PROTECCIÓN: Actúa en profundidad en la raíz contra tres problemas del cuero cabelludo: caspa, grasa y picor relacionado con la caspa, para un cuero cabelludo más limpio y saludable
 - Hasta un 100 % de protección anticaspa*: Elimina la caspa desde el primer lavado y ayuda a prevenir su reaparición, manteniendo tu cuero cabelludo limpio y libre de partículas visibles de caspa. *Con uso regular
 - MARCA NÚMERO 1 DE CHAMPÚ ANTI-CASPA: Soluciones personalizadas para cada cuero cabelludo y pelo respaldadas por 7 décadas de investigación

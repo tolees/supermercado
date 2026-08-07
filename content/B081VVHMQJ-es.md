@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto de calidad óptima
 - Dulce de chocolate
+- Producto de calidad óptima
 - Con trocitos de galleta, una parte recubiertos con chocolate con leche KIT KAT
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

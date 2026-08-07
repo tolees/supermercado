@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CONSUMO: Se recomiendan 1-2 barritas al día en función de la actividad y considerando otras fuentes de proteínas en la dieta. Se debe acompañar de una ingesta adecuada de agua
 - BENEFICIOS: Idóneo para después de los entrenamientos. La vitamina D y la vitamina B6 mantienen el buen funcionamiento de los músculos y el metabolismo proteico y glucogénico
 - PROPIEDADES: Contribuye al correcto metabolismo proteico y a la reducción del cansancio y la fatiga
 - BARRA PROTEICA 32% LEMON CAKE: Con 15 g de proteínas y mezcla de vitaminas. Cobertura de chocolate blanco y sabor a tarta de limón. Sin gluten
+- CONSUMO: Se recomiendan 1-2 barritas al día en función de la actividad y considerando otras fuentes de proteínas en la dieta. Se debe acompañar de una ingesta adecuada de agua
 - ENERVIT: Desarrollamos productos y suplementos nutricionales e innovadores para mejorar la calidad de vida de nuestros usuarios
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

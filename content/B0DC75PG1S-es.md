@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - [Energía y vitalidad] Es adecuado para complementar dietas poco variadas y cuando el cuerpo se resiente ante el cansancio y la fatiga. Apto para hombres y mujeres
-- [Modo de empleo] Tomar 3 comprimidos al día entre desayuno y cena. Con 3 comprimidos de cloruro magnésico se cubren el 80% (300 mg) de los Valores de Referencia de Nutrientes de magnesio
-- [Magnesio] Ayuda a disminuir el cansancio y la fatiga y participa en el normal estado y funcionamiento de músculos, huesos, dientes y sistema nervioso
 - [Recomendaciones] No superar la dosis diaria recomendada. Los complementos alimenticios no deben utilizarse como sustitutos de una dieta variada y equilibrada. Mantener fuera del alcance de los niños más pequeños
 - [Cloruro Magnésico] Complemento alimenticio a base de cloruro magnésico. Es vegano, y no contiene gluten, lactosa, frutos de cáscara, huevo, ni soja
+- [Modo de empleo] Tomar 3 comprimidos al día entre desayuno y cena. Con 3 comprimidos de cloruro magnésico se cubren el 80% (300 mg) de los Valores de Referencia de Nutrientes de magnesio
+- [Magnesio] Ayuda a disminuir el cansancio y la fatiga y participa en el normal estado y funcionamiento de músculos, huesos, dientes y sistema nervioso
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DC75PG1S{{</world>}}

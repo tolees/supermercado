@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Complementa la alimentación habitual
 - Batido sabor chocolate
+- Complementa la alimentación habitual
 - Bebida de reemplazo de comida
 
 [🛒 Visítala!!!]({{< param buyurl >}})

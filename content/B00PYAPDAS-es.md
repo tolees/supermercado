@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- BENEFICIOS: Ayuda a evitar la retención de líquidos en el cuerpo
 - COMPLEMENTOS, PESO SALUDABLE. Potasio, magnesio, cola de caballo, vara de oro, diente de león, enebro. Sin azúcares añadidos ni conservantes
+- BENEFICIOS: Ayuda a evitar la retención de líquidos en el cuerpo
+- ETIQUETAS: Este producto es apto para veganos y celíacos. Además, no contiene azúcares ni conservantes
+- PROPIEDADES: Incorpora sales de potasio y de magnesio, para así asegurar un aporte mineral correcto
 - MODO DE USO: Agitar bien antes de usar. Diluir 20-30 ml en una botella de agua de 1,5 l y beber durante el día. Por dosis diaria se obtienen 76.4 mg de magnesio, lo que representa el 20,4% del Valor Nutricional de Referencia
 - Diur Slim es un complemento a base de extractos vegetales, que ayuda a evitar la retención de líquidos de nuestro cuerpo, aumentando la diuresis, generando una eliminación natural de los líquidos y las toxinas de nuestro organismo
-- PROPIEDADES: Incorpora sales de potasio y de magnesio, para así asegurar un aporte mineral correcto
-- ETIQUETAS: Este producto es apto para veganos y celíacos. Además, no contiene azúcares ni conservantes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00PYAPDAS{{</world>}}

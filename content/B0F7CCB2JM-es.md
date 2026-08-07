@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CÓMO USAR | Lava con el champú, aplica el acondicionador, 1–2 veces por semana la mascarilla. Define con el leave-in, booster y spray. Finaliza con el sérum. Usa el turbante para secar.
-- RESULTADOS CLÍNICOS PROBADOS | Rizos 3 veces más definidos, un 82% menos de frizz tras 4 semanas y un 90% de usuarios nota el cabello más hidratado y suave desde la primera aplicación.
 - ¿QUÉ ES? | Rutina capilar completa para cabello rizado que limpia, hidrata, repara, define y controla el frizz. Incluye 7 productos + 1 turbante para potenciar tus rizos sin apelmazar.
+- RESULTADOS CLÍNICOS PROBADOS | Rizos 3 veces más definidos, un 82% menos de frizz tras 4 semanas y un 90% de usuarios nota el cabello más hidratado y suave desde la primera aplicación.
+- CÓMO USAR | Lava con el champú, aplica el acondicionador, 1–2 veces por semana la mascarilla. Define con el leave-in, booster y spray. Finaliza con el sérum. Usa el turbante para secar.
 - IDEAL PARA | Definir rizos, hidratar, controlar el frizz, suavizar, nutrir, proteger, desenredar, dar brillo, reparar y aportar elasticidad. Apto para todo tipo de rizos. Método Curly Girl aprobado.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

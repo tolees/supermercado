@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Eau de toilette
-- Para hombres
 - Envase con vaporizador: 75 ml
+- Para hombres
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0009OAHI2{{</world>}}

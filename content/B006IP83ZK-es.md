@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Piz Buin Mountain Sun Cream 50 SPF + Lipstick 30 SPF 20 ml producto 2 en 1 con protección solar para deportes de alta montaña protector solar facial 50 y protector labial 30'
-date: 2026-08-02 16:05:52
+title: 'Piz Buin Mountain Crema Solar Facial SPF50 y Protector Labial SPF30 20 ml'
+date: 2026-08-07 14:14:54
 image: 'https://m.media-amazon.com/images/I/311N2sifPSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B006IP83ZK-es Piz Buin Mountain Sun Cream 50 SPF + Lipstick 30 SPF 20 ml...'
+slug: 'B006IP83ZK-es Piz Buin Mountain Crema Solar Facial SPF50 y Protector...'
 sku: 'B006IP83ZK-es'
-tags: [ 'protector','solar','🇪🇸', ]
-actualPrice: 7.99 EUR
+tags: [ 'crema','solar','🇪🇸', ]
+actualPrice: 5.99 EUR
 currency: EUR
-price: 7.99
+price: 5.99
 comparePrice: 12.04 EUR
-prodname: 'Piz Buin Mountain Sun Cream 50 SPF + Lipstick 30 SPF 20 ml producto 2 en 1 con protección solar para deportes de alta montaña protector solar facial 50 y protector labial 30'
+prodname: 'Piz Buin Mountain Crema Solar Facial SPF50 y Protector Labial SPF30 20 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B006IP83ZK/?tag=tolees-21'
-descuento: '33.64'
-average: '7.53596153846155'
+descuento: '50.25'
+average: '7.47870370370372'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Formato útil y práctico: Gracias a la combinación en el mismo paquete la crema solar facial 50 y el labial 30, podrás llevar cómodamente el producto en tu bolsillo
-- Hidratación de larga duración: La crema hidratante facial y el bálsamo hidratante labios garantizan una piel y labios suaves e hidratados y protegidos de los rayos UVA/UVB
 - Fácil de usar: Aplicar generosa y uniformemente antes de tomar el sol, pequeñas cantidades reducen significativamente la protección. Repita la aplicación varias veces, especialmente después de sudar, nadar o secarse. Retire la tapa protectora para usar la barra de labios.
-- Detalles del producto: Piz Buin Mountain Sun Cream 50 SPF + Lipstick 30 SPF, protección solar para rostro y labios, producto desarrollado para los deportes de invierno, 1 x 20 ml
 - Resistente al agua y al sudor: Diseñada para proteger la piel expuesta del sol, el frío y el viento, esta crema de sol facial + bálsamo de labios es ideal para el invierno
+- Formato útil y práctico: Gracias a la combinación en el mismo paquete la crema solar facial 50 y el labial 30, podrás llevar cómodamente el producto en tu bolsillo
 - Para deportes de altura: Este formato dual de bálsamo labial, con FPS30, y crema solar, con FPS50, está especialmente desarrollado para las condiciones de gran altitud
+- Hidratación de larga duración: La crema hidratante facial y el bálsamo hidratante labios garantizan una piel y labios suaves e hidratados y protegidos de los rayos UVA/UVB
+- Detalles del producto: Piz Buin Mountain Sun Cream 50 SPF + Lipstick 30 SPF, protección solar para rostro y labios, producto desarrollado para los deportes de invierno, 1 x 20 ml
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B006IP83ZK{{</world>}}

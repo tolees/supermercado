@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- FORMATO AHORRO: El expositor contiene 15 bolsas de 120 g de caramelos envueltos individualmente con una presentación higiénica y práctica para regalar, llevar en el bolso, compartir en oficina o eventos
-- SABOR CLÁSICO DESDE 1909: Elaborados con mantequilla y nata con la receta original alemana de Werther’s Original; un dulce tradicional y familiar para compartir que evoca recuerdos de infancia
 - CON MANTEQUILLA Y NATA FRESCA: Caramelos toffee blandos son una exquisita combinación de toffee blando envuelto en una capa de chocolate con leche, para disfrutar a diario u ofrecer a invitados
-- PARA PICAR, REGALAR Y COMPARTIR: Estos caramelos rellenos son ideales para llevar a cualquier lugar y guardarlos en el bolso, el snack para picar y para compartir con la familia y los amigos
+- SABOR CLÁSICO DESDE 1909: Elaborados con mantequilla y nata con la receta original alemana de Werther’s Original; un dulce tradicional y familiar para compartir que evoca recuerdos de infancia
 - SIN GLUTEN Y APTOS PARA VEGETARIANOS: Más personas pueden disfrutarlos, incluidos celíacos y vegetarianos; no contienen gluten y son ideales como dulce o snack en cualquier ocasión. Contienen lactosa
+- PARA PICAR, REGALAR Y COMPARTIR: Estos caramelos rellenos son ideales para llevar a cualquier lugar y guardarlos en el bolso, el snack para picar y para compartir con la familia y los amigos
+- FORMATO AHORRO: El expositor contiene 15 bolsas de 120 g de caramelos envueltos individualmente con una presentación higiénica y práctica para regalar, llevar en el bolso, compartir en oficina o eventos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01IUS6HKK{{</world>}}

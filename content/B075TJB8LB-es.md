@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Whisky nacional de color dorado pajizo y aspecto ligero, doblemente destilado y envejecido durante un mínimo de tres años
+- Es ideal para disfrutar en buena compañía, solo o con gaseosa y limón; si lo bebes solo, siempre en vaso bajo y mucho hielo
 - Elaborado con una doble destilación y un envejecimiento mínimo de 3 años en barricas de roble americano, consiguen un sabor afrutado y robusto
 - En paladar apreciamos un óptimo equilibrio de sabores que resaltan su robustez; destacan las notas a turba y especias, para terminar con toques ahumados y picantes
 - En nariz percibimos un aroma redondo, completo y de estilo dominante; limpio, con toques de fruta y madera tostada
-- Es ideal para disfrutar en buena compañía, solo o con gaseosa y limón; si lo bebes solo, siempre en vaso bajo y mucho hielo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B075TJB8LB{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- OMEGA-3 CON PROBIÓTICOS: complemento alimenticio con Omega-3 para adultos, con probióticos, para apoyar tu corazón¹, cerebro² y visión³. Con probióticos, que llegan vivos al intestino
+- PROBIÓTICOS: Cada cápsula contiene 1.000 millones de probióticos (Bacillus subtilis DE111), que llegan vivos al intestino
 - CÓMO TOMAR: Para adultos (18+), tomar 1 cápsula al día con una bebida fría, durante o después de una comida. No exceder la dosis diaria recomendada. Los complementos alimenticios no están destinados a sustituir una dieta variada y equilibrada
 - CONTENIDO: 3x Cápsulas Bion Omega-3 con probióticos para ayudar al corazón¹, cerebro² y visión³. 90 cápsulas (3x30), contenido para 3 meses
-- PROBIÓTICOS: Cada cápsula contiene 1.000 millones de probióticos (Bacillus subtilis DE111), que llegan vivos al intestino
 - COMPLEMENTO ALIMENTICIO CON EPA Y DHA: Ácidos grasos Omega-3, que apoyan el corazón¹, cerebro² y visión³. EPA y DHA contribuyen al funcionamiento normal del corazón. DHA contribuye a mantener el funcionamiento normal del cerebro y de la visión
+- OMEGA-3 CON PROBIÓTICOS: complemento alimenticio con Omega-3 para adultos, con probióticos, para apoyar tu corazón¹, cerebro² y visión³. Con probióticos, que llegan vivos al intestino
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0GJ3PGBT7{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- FRAGANCIA MANZANA: Su fragancia a manzana verde elimina los malos olores, dándole un agradable aroma al manto de su mascota.
-- MODO DE EMPLEO: Humedecer el pelaje con abundante agua tibia. Aplicar el champú en cuello, lomo, manos y patas. Masajear hasta conseguir una abundante y cremosa espuma y dejar actuar unos instantes. Aclarar y dejar que el perro se sacuda. Secar con toalla.
-- MENFORSAN: En Menforsan nos preocupamos por la salud de los animales y el cuidado del planeta, por lo que creamos productos naturales vegan friendly de la mejor calidad.
-- HIDRATACIÓN PROFUNDA: Champú de máxima calidad que hidrata, revitaliza y repara los pelajes resecos o deteriorados en perros con mantos largos y densos (Lhasa Apso, Yorkshire, Maltés, Shih-Tzu, Afgano).
 - INCORPORA COLÁGENO NATURAL: El colágeno de su fórmula revitaliza, hidrata y recupera el aspecto sano y natural del pelaje. Además, proporciona firmeza y elasticidad.
+- HIDRATACIÓN PROFUNDA: Champú de máxima calidad que hidrata, revitaliza y repara los pelajes resecos o deteriorados en perros con mantos largos y densos (Lhasa Apso, Yorkshire, Maltés, Shih-Tzu, Afgano).
+- MENFORSAN: En Menforsan nos preocupamos por la salud de los animales y el cuidado del planeta, por lo que creamos productos naturales vegan friendly de la mejor calidad.
+- MODO DE EMPLEO: Humedecer el pelaje con abundante agua tibia. Aplicar el champú en cuello, lomo, manos y patas. Masajear hasta conseguir una abundante y cremosa espuma y dejar actuar unos instantes. Aclarar y dejar que el perro se sacuda. Secar con toalla.
+- FRAGANCIA MANZANA: Su fragancia a manzana verde elimina los malos olores, dándole un agradable aroma al manto de su mascota.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B094K25RFK{{</world>}}

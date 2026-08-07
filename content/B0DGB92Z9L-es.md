@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Las notas de salida de Limón y Pimienta Negra abren paso a un corazón Fougère con una sofisticada estela de Lavanda, que desemboca en un acorde amaderado cálido de Pachuli y Maderas Salinas
 - El frasco curvado de 100 ml en cristal transparente incluye un tapón azul y luce la bandera minimalista de la marca como sello icónico de Tommy Hilfiger
+- Tommy Forever captura la esencia de la amistad verdadera, ese vínculo que se convierte en familia, y anima a vivir con autenticidad el estilo de vida americano clásico y cool
 - Tommy Hilfiger es una marca icónica del diseñador de moda que representa el estilo americano más clásico y actual, con valores como la libertad, la inclusión y la importancia de compartir momentos reales
 - Tommy Forever para hombre se inspira en la emblemática fragancia Tommy de los 90 y le da un giro actual con un frescor elegante y espontáneo
-- Tommy Forever captura la esencia de la amistad verdadera, ese vínculo que se convierte en familia, y anima a vivir con autenticidad el estilo de vida americano clásico y cool
+- Las notas de salida de Limón y Pimienta Negra abren paso a un corazón Fougère con una sofisticada estela de Lavanda, que desemboca en un acorde amaderado cálido de Pachuli y Maderas Salinas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DGB92Z9L{{</world>}}

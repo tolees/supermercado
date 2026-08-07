@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 💚 Notas de Cata - Este Dark Roast de Uganda es de la especie 100% robusta con un sabor extra amargo y con un grado de tueste muy alto. Además, tiene matices pronunciados a cedro y a hojas de tabaco. Café con mucha cafeína
-- 🌎 Origen único Uganda - Todos los granos de café provienen de la finca Victoria Lake, en la región de Bujanga
 - 🌿 Tueste Artesanal más largo - Café robusta grano con sabor extrafuerte, un grado de tostado superior, con más cuerpo y fuerza. Nuestros expertos tostadores tuestan cada día para asegurar la frescura del café
-- ♻️ Café Responsable - Tanto con las personas como con el planeta. Esto requiere que sepamos de dónde proviene nuestro café, cómo se cultiva y quién está detrás de cada grano
 - 🌱 Ingredientes - Café en Grano Natural, 100% Robusta
+- 🌎 Origen único Uganda - Todos los granos de café provienen de la finca Victoria Lake, en la región de Bujanga
+- ♻️ Café Responsable - Tanto con las personas como con el planeta. Esto requiere que sepamos de dónde proviene nuestro café, cómo se cultiva y quién está detrás de cada grano
+- 💚 Notas de Cata - Este Dark Roast de Uganda es de la especie 100% robusta con un sabor extra amargo y con un grado de tueste muy alto. Además, tiene matices pronunciados a cedro y a hojas de tabaco. Café con mucha cafeína
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08YP2SLSX{{</world>}}

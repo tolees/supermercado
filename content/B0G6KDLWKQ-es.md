@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Descubre la hidratación del futuro con nuestra crema reinventada
 - *Intensidad del color de la mancha, estudio clínico, 51 voluntarios.
-- Clinicamente probado para iluminar la piel, y en una semana reducir en un -47% las manchas oscuras* y controlar la grasa durante el día.
-- No resulta pegajosa ni grasa.
 - Esta textura ultraligera y fresca, tipo sorbete, se funde en tu piel, aportando 24 horas de hidratación.
+- No resulta pegajosa ni grasa.
+- Descubre la hidratación del futuro con nuestra crema reinventada
+- Clinicamente probado para iluminar la piel, y en una semana reducir en un -47% las manchas oscuras* y controlar la grasa durante el día.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G6KDLWKQ{{</world>}}

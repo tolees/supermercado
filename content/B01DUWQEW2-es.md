@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sabor delicioso
 - Producto sometido a estrictos controles de calidad
+- Sabor delicioso
 - 66% cereales
 - Contiene Gluten o presencia de cereales que contienen gluten
 

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Fórmula microbiome balance que actúa sobre la causa principal de la caspa, respetando el pH y equilibrando el microbioma del cuero cabelludo
+- Eficaz protección y prevención anticaspa; hasta 100% de protección anticaspa, clínicamente probado, caspa visible, con uso regular
 - Champú y acondicionador anticaspa todo en uno combate la caspa a la vez que hidratas y suavizas tu pelo
 - Pelo nutrido hidrata y nutre el cabello en profundidad, para un pelo limpio, suave y radiante (úsalo a diario para mejores resultados)
-- Fórmula microbiome balance que actúa sobre la causa principal de la caspa, respetando el pH y equilibrando el microbioma del cuero cabelludo
 - Pelo suave y bonito esta fórmula contiene un 25% más de agentes acondicionadores con respecto al champú h&s normal, para un pelo limpio y suave
-- Eficaz protección y prevención anticaspa; hasta 100% de protección anticaspa, clínicamente probado, caspa visible, con uso regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DSPYGPD4{{</world>}}

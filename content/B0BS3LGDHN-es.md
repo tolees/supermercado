@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - ✅ DERMATOLÓGICAMENTE PROBADO: jabón corporal hipoalergénico, sin colorantes ni parabenos - creado y probado por expertos en el laboratorio Farmoderm de Italia - efectos naturales adaptados a la piel sensible envejecida, lo que lo convierte en un producto único en su clase para el cuidado de las personas mayores.
-- MODO DE EMPLEO: Con una toalla, aplicar el gel de baño sin aclarado, esperar unos segundos y retirar suavemente el producto que no se haya absorbido con la parte limpia de la toalla. Para utilizarlo como crema corporal hidratante para pieles secas, simplemente aplíquelo y masajee suavemente hasta que se absorba.
 - ✅ NO PEGAJOSO Y NO GRASO: nuestro gel de baño para pieles sensibles se aplica y absorbe fácilmente y puede utilizarse como gel de baño sin aclarado o como hidratante suave, a diferencia de los geles de baño y ducha normales.
-- ✅ ANTIBACTERIANO Y ANTIHONGOS: jabón corporal con pH equilibrado, sin parabenos y enriquecido con extractos naturales de tomillo y aceite de árbol de té con propiedades antibacterianas y antifúngicas, que eliminan los olores no deseados y calman la piel seca, irritada y con picores.
 - ✅ SIN ACLARADO & SIN AGUA: Jabón corporal hidratante para una higiene corporal completa sin agua ni aclarado, que actúa como hidratante y emoliente para la piel seca, frágil e irritada de los ancianos encamados e incontinentes, preservando la barrera cutánea de humedad natural.
+- MODO DE EMPLEO: Con una toalla, aplicar el gel de baño sin aclarado, esperar unos segundos y retirar suavemente el producto que no se haya absorbido con la parte limpia de la toalla. Para utilizarlo como crema corporal hidratante para pieles secas, simplemente aplíquelo y masajee suavemente hasta que se absorba.
+- ✅ ANTIBACTERIANO Y ANTIHONGOS: jabón corporal con pH equilibrado, sin parabenos y enriquecido con extractos naturales de tomillo y aceite de árbol de té con propiedades antibacterianas y antifúngicas, que eliminan los olores no deseados y calman la piel seca, irritada y con picores.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BS3LGDHN{{</world>}}

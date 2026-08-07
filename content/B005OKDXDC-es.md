@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Certificación ambiental EU Ecolabel, etiqueta ecológica de los países nórdicos / Las botellas selladas aseguran una buena higiene y reducen el riesgo de contaminacion cruzada
-- El jabón líquido y champú Tork es de uso general, para la higiene del cuerpo y del cabello dermatologicamente probado
-- Contenido del envío: Jabón líquido 1 x 475 ml / color azul claro / compatible con el sistema de dispensador de jabón Tork S2 / calidad Premium
-- Jabón líquido espumoso para la ducha en hoteles, instalaciones deportivas, restaurantes y centros educativos
 - Este jabón cremoso tiene una suave fórmula que garantiza el cuidado de la piel y el cabello / Producto de fácil y rápido uso, probado y certificado por la Swedish Rheumatism Association
+- Jabón líquido espumoso para la ducha en hoteles, instalaciones deportivas, restaurantes y centros educativos
+- El jabón líquido y champú Tork es de uso general, para la higiene del cuerpo y del cabello dermatologicamente probado
+- Certificación ambiental EU Ecolabel, etiqueta ecológica de los países nórdicos / Las botellas selladas aseguran una buena higiene y reducen el riesgo de contaminacion cruzada
+- Contenido del envío: Jabón líquido 1 x 475 ml / color azul claro / compatible con el sistema de dispensador de jabón Tork S2 / calidad Premium
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B005OKDXDC{{</world>}}

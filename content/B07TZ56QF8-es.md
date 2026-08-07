@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Hidratación intensa y duradera. Para usar bajo el maquillaje
+- Mantiene la humedad de la piel. Rápida absorción
 - Para pieles sensibles y secas
 - Formulado con ácido hialurónico
-- Mantiene la humedad de la piel. Rápida absorción
-- Hidratación intensa y duradera. Para usar bajo el maquillaje
 - Hidrata al instante y protege la piel de la sequedad durante todo el día
 
 [🛒 Aquí!!!]({{< param buyurl >}})

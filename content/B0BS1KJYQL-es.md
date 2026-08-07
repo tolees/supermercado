@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- EL LEMA DE NATURAL ELEMENTS | ¡A grandes palabras, grandes hechos! Por ello, TODOS nuestros lotes de producción se someten a pruebas exhaustivas en laboratorios independientes de Alemania.
 - CONCEPCIÓN ELEMENTAL | Solo lleva lo que debe llevar: nuestro producto vegano está libre de aditivos innecesarios como excipientes, antiaglomerantes, estabilizantes y similares.
+- EL LEMA DE NATURAL ELEMENTS | ¡A grandes palabras, grandes hechos! Por ello, TODOS nuestros lotes de producción se someten a pruebas exhaustivas en laboratorios independientes de Alemania.
 - NATURAL, VEGANA, DE ALTA DOSIFICACIÓN | Con cada cápsula, alegrarás tu cara con 200 mg de coenzima Q10 (ubiquinona). La materia prima natural se obtiene del maíz por fermentación, de forma natural y sin ingeniería genética.
 - SUMINISTRO HERMOSO PARA 4 MESES | 120 cápsulas para cuidar tu piel durante 4 meses. Solo 1 cápsula al día: no hay rutina de belleza más sencilla.
 - FUENTE DE JUVENTUD PARA TU PIEL | La coenzima Q10 es una sustancia natural antiedad. Con nuestras cápsulas veganas mantendrás un aspecto joven desde el interior. ¿Suena bien? ¡También se ve bien!

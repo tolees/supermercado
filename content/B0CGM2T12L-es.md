@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- FRAGANCIA INVESTIGADA Y ORIENTAL: Fragancia caracterizada por el contraste entre lo dulce y lo amargo de la Vainilla y el Anís, el Regaliz y la Almendra Amarga para un "Oriental" de nueva generación. En su interior, los granos de Café con un aroma ligero y equilibrado dan la bienvenida a los vivos tonos florales del Absoluto de Azahar y el Jazmín que se combinan bien con el dinamismo de la Pimienta Rosa para una fragancia sorprendente y equilibrada
-- CON NOTA DE FONDO ÁMBAR: La nota de fondo del perfume contiene cálidas notas ambarinas, madera de cachemira, pachulí y sándalo
-- CON NOTA DE CABEZA ORIENTAL: La nota de salida del perfume contiene Anís, Vainilla, Regaliz, Almendra Amarga y Café
-- HELAN AMA A LAS PERSONAS Y A LA NATURALEZA: Desde el principio, la misión de la empresa ha sido formular y producir cosméticos diseñados y fabricados en armonía con la fisiología de la piel, la naturaleza, el medio ambiente y el mundo animal
 - NOTA CORPORAL PICANTE: La nota corporal de la fragancia incluye pimienta rosa, jazmín y azahar
+- CON NOTA DE CABEZA ORIENTAL: La nota de salida del perfume contiene Anís, Vainilla, Regaliz, Almendra Amarga y Café
+- CON NOTA DE FONDO ÁMBAR: La nota de fondo del perfume contiene cálidas notas ambarinas, madera de cachemira, pachulí y sándalo
+- HELAN AMA A LAS PERSONAS Y A LA NATURALEZA: Desde el principio, la misión de la empresa ha sido formular y producir cosméticos diseñados y fabricados en armonía con la fisiología de la piel, la naturaleza, el medio ambiente y el mundo animal
+- FRAGANCIA INVESTIGADA Y ORIENTAL: Fragancia caracterizada por el contraste entre lo dulce y lo amargo de la Vainilla y el Anís, el Regaliz y la Almendra Amarga para un "Oriental" de nueva generación. En su interior, los granos de Café con un aroma ligero y equilibrado dan la bienvenida a los vivos tonos florales del Absoluto de Azahar y el Jazmín que se combinan bien con el dinamismo de la Pimienta Rosa para una fragancia sorprendente y equilibrada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CGM2T12L{{</world>}}

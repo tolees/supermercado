@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- COLOR MODULABLE: Cobertura translúcida que puedes intensificar con capas para adaptarla a tu estilo
 - TEXTURA LIGERA Y ACOGEDORA: Fórmula tipo bálsamo con sensación de confort y suavidad durante todo el día
-- ACABADO MATE DIFUMINADO: Color suave con efecto desenfocado para un look natural y aterciopelado
 - COLOR MODULABLE: Cobertura translúcida que puedes intensificar con capas para adaptarla a tu estilo
 - FÓRMULA VEGANA: Con ceramidas de azúcar y polvo de arroz mochi para hidratar, proteger y suavizar los labios
+- ACABADO MATE DIFUMINADO: Color suave con efecto desenfocado para un look natural y aterciopelado
+- COLOR MODULABLE: Cobertura translúcida que puedes intensificar con capas para adaptarla a tu estilo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F2TPN3TL{{</world>}}

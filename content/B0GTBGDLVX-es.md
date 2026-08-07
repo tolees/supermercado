@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - En prácticas latas de 200g
 - Packs de Pollo
-- Alimento completo y equilibrado para perros mini adultos (1-10 kg)
-- Digestión fácil: con inulina prebiótica que puede favorecer la digestión
 - Especial para perros adultos de razas pequeñas (Mini).
+- Digestión fácil: con inulina prebiótica que puede favorecer la digestión
+- Alimento completo y equilibrado para perros mini adultos (1-10 kg)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GTBGDLVX{{</world>}}

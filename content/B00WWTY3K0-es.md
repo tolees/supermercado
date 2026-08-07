@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- HECHO EN SURREY HILLS, INGLATERRA; Creado en la hermosa y pintoresca Surrey Hills, en una zona de excepcional belleza natural, utilizando el agua del propio Silent Pool.
-- PRESENTACIÓN PERFECTA; Servir con un generoso puñado de hielo, una pizca de tónica y un twist de piel de naranja como decoro.
-- NOTAS DE SABOR; Las notas florales frescas y los cítricos clarificadores se complementan con las cortezas de cassia y cubeb, terrosas y especiadas. El suave final se consigue con la ayuda de la aterciopelada miel local.
 - SOSTENIBILIDAD; minimizamos constantemente nuestro impacto en el medio ambiente, tanto local como global, reduciendo la huella de carbono y eliminando el plástico.
+- PRESENTACIÓN PERFECTA; Servir con un generoso puñado de hielo, una pizca de tónica y un twist de piel de naranja como decoro.
 - Silent Pool Gin es una London Dry Gin, procedente de la región de Surrey, al sur de Londres y destilada con 24 ingredientes botánicos
+- HECHO EN SURREY HILLS, INGLATERRA; Creado en la hermosa y pintoresca Surrey Hills, en una zona de excepcional belleza natural, utilizando el agua del propio Silent Pool.
+- NOTAS DE SABOR; Las notas florales frescas y los cítricos clarificadores se complementan con las cortezas de cassia y cubeb, terrosas y especiadas. El suave final se consigue con la ayuda de la aterciopelada miel local.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00WWTY3K0{{</world>}}

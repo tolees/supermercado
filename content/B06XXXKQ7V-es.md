@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Capacidad aprox. 250 ml
-- Medidas (ancho/profundidad x altura): Ø 6 x 14 cm
 - Basta con apretar dispensador para la dosificar la descarga de jabón líquido o loción, detergente lavavajillas, gel de ducha, etc.
-- Dispensador de jabón y detergente recargable ideal para cocina, baño y aseo para huéspedes
+- Capacidad aprox. 250 ml
 - De silicona a prueba de fugas en moderno color gris
+- Dispensador de jabón y detergente recargable ideal para cocina, baño y aseo para huéspedes
+- Medidas (ancho/profundidad x altura): Ø 6 x 14 cm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B06XXXKQ7V{{</world>}}

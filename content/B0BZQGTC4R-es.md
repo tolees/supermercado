@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Recarga de jabón de manos de cocina, cuenta con un formato cómodo y de alta resistencia. Este jabón elimina el mal olor a comida de tus manos y protege tu piel frente a agentes externos
-- Cuida del medio ambiente con un 83% menos de plástico en comparación con la botella habitual
 - Su innovadora fórmula con protección higienizante proporciona una protección total de la piel contra agentes externos. Fórmula probada dermatológica y clínicamente
 - Este jabón con aroma a pomelo y limón, contiene un complejo anti malos olores que elimina completamente el mal olor de comida de tus manos, dejándolas limpias, suaves, hidratadas y ligeramente perfumadas
 - Disfruta de su formato práctico de alta resistencia, para que puedas almacenarlo con facilidad durante un largo periodo de tiempo. Abrir por la linea de puntos y vaciar el contenido en la botella
+- Cuida del medio ambiente con un 83% menos de plástico en comparación con la botella habitual
+- Recarga de jabón de manos de cocina, cuenta con un formato cómodo y de alta resistencia. Este jabón elimina el mal olor a comida de tus manos y protege tu piel frente a agentes externos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BZQGTC4R{{</world>}}

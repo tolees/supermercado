@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Essence cares: ¿Belleza sin escrúpulos? ¡Ni hablar! Nuestros productos no han sido testados en animales (conforme a la legislación de la UE). Creemos que ningún ser vivo debería sufrir por nuestra belleza
-- Un volumen espectacular para unas pestañas densas: ¡la hermana «crazy» de la máscara I love extreme aporta aún más volumen! Esta máscara combina una textura cremosa y de color negro intenso con un cepillo de plástico extragrande
-- Testado oftalmológicamente: La I LOVE EXTREME crazy volume mascara ha sido testada oftalmológicamente: ideal para el uso diario
 - Ingredientes de calidad: nuestro objetivo es desarrollar cosméticos seguros y de la mejor calidad. Siempre que sea posible, utilizamos ingredientes naturales y veganos
+- Testado oftalmológicamente: La I LOVE EXTREME crazy volume mascara ha sido testada oftalmológicamente: ideal para el uso diario
 - Textura cremosa y cepillo extragrande: perfecto para looks llamativos. Su textura cremosa y de color negro intenso envuelve cada pestaña, mientras que el cepillo de plástico extragrande aporta un volumen espectacular
+- Un volumen espectacular para unas pestañas densas: ¡la hermana «crazy» de la máscara I love extreme aporta aún más volumen! Esta máscara combina una textura cremosa y de color negro intenso con un cepillo de plástico extragrande
+- Essence cares: ¿Belleza sin escrúpulos? ¡Ni hablar! Nuestros productos no han sido testados en animales (conforme a la legislación de la UE). Creemos que ningún ser vivo debería sufrir por nuestra belleza
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00GSUCEJ6{{</world>}}

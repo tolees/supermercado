@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ANTI ROTURAS: Fórmula avanzada con Tecnología Silksteel Fusion que protege el cabello contra la rotura ocasionada por el cepillado - actúa como protector térmico en el proceso de secado
 - MASCARILLA CAPILAR: Mascarilla de reparación intensa - Desenreda, repara y protege el pelo seco y dañado - Tratamiento hidratante que fortalece y suaviza las fibras capilares del cabello -Aporta brillo y suavidad.
 - REPARACIÓN INTENSA: Enriquecida con Aminoácidos de Seda y Lípidos Micronizados que reparan la estructura de las fibras capilares del cabello, lo hidrata fortalece y le da brillo
+- ANTI ROTURAS: Fórmula avanzada con Tecnología Silksteel Fusion que protege el cabello contra la rotura ocasionada por el cepillado - actúa como protector térmico en el proceso de secado
 - PURIFICADOR DE METALES: Protege el cabello de los metales pesados -impurezas y sustancias nocivas presentes en el agua - Mantiene las fibras capilares del cabello suaves y sanas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

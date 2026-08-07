@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- No deja el cuero cabelludo irritado o seco
 - Champú que ayuda a atenuar los reflejos amarillos
+- No deja el cuero cabelludo irritado o seco
 - El producto contiene pigmentos violetas
 - Es adecuado para cabellos grises, aclarados y decolorados
 

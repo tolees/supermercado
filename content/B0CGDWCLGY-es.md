@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Certificado por el programa Informed Sport y, por lo tanto, apto para su uso por parte de atletas y personal militar sometidos a controles antidopaje
 - Una barrita triple capa de auténtico turrón de vainilla y proteína OREO lleno de auténtico cacao OREO, recubierto de chocolate blanco bajo en azúcar y con trozos de OREO sin azúcar.
 - Repleto de proteínas, con más de 21 g por barrita
-- Bajo en azúcar, con solo 1,3 g por barrita
 - Este delicioso bocado bajo en azúcar es perfecto para disfrutar en cualquier momento del día como un rico tentempié o un capricho para después de entrenar.
+- Certificado por el programa Informed Sport y, por lo tanto, apto para su uso por parte de atletas y personal militar sometidos a controles antidopaje
+- Bajo en azúcar, con solo 1,3 g por barrita
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CGDWCLGY{{</world>}}

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 👨‍👩‍👦PARA COMPARTIR: Nuestra receta sin calorías y sin cafeína es perfecta para disfrutar en cualquier momento. Ya sea con amigos o en familia, este saborizante para agua de cola enamora. Ideal como bebida para llevar y compartir momentos especiales.
-- 🌿COLA ENRIQUECIDA CON VITAMINAS: Tu cola sin azúcar sube de nivel con 6 vitaminas esenciales (B1, B3, B5, B6, B12 y C). Convierte tu agua con gas en una bebida efervescente con beneficios, usando estas pastillas solubles sabor cola.
-- 🎆 MÁS CUBOS, MENOS PLÁSTICO: Un mundo sin bebidas preenvasadas, donde hidratarse a diario sea más sostenible, saludable y sencillo para todos. Ese es el mundo en el que queremos vivir.
 - 🤗 NUEVA RECETA: ¡Más vitaminas, más cola y aún más refrescante! Descubre nuestro nuevo sabor mejorado con una fórmula más suave, tan deliciosa como el clásico original, pero en un formato de hidratación saludable.
+- 🎆 MÁS CUBOS, MENOS PLÁSTICO: Un mundo sin bebidas preenvasadas, donde hidratarse a diario sea más sostenible, saludable y sencillo para todos. Ese es el mundo en el que queremos vivir.
+- 🌿COLA ENRIQUECIDA CON VITAMINAS: Tu cola sin azúcar sube de nivel con 6 vitaminas esenciales (B1, B3, B5, B6, B12 y C). Convierte tu agua con gas en una bebida efervescente con beneficios, usando estas pastillas solubles sabor cola.
 - 😎UN CLÁSICO RENOVADO: Disfruta de tu sabor favorito al estilo waterdrop. Elaborado con extractos de frutas y plantas, este refresco sin azúcar y sin calorías es irresistible. La alternativa saludable a los refrescos tradicionales que tanto esperabas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Si los síntomas de la tos no mejoran o empeoran en una semana, consulte al médico
+- Sin gluten y sin azúcar
 - Bisolherbal 2 en 1 Sin azúcar alivia los síntomas tanto de tos seca como de tos productiva, en particular cuando estén asociadas a una infección de las vías respiratorias altas
 - Elaborado con ingredientes de origen natural: malvavisco, tomillo y llantén
-- Sin gluten y sin azúcar
-- Si los síntomas de la tos no mejoran o empeoran en una semana, consulte al médico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0849VXZM3{{</world>}}

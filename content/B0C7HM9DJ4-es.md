@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ACOMPAÑA TU CAFÉ MOCAY: Nuestras galletas artesanas son el acompañamiento ideal para disfrutar con una taza de café. Su sabor y textura complementan a la perfección el aroma y la intensidad del café, creando una experiencia sensorial completa. Ya sea que prefieras un café negro intenso o un capuchino suave y cremoso, estas galletas realzarán tu momento de café y te brindarán una experiencia deliciosa y reconfortante.
 - CALIDAD: Nos enorgullece utilizar únicamente ingredientes de la más alta calidad en la elaboración de nuestras galletas. Cada una está hecha con cuidado y atención al detalle, utilizando ingredientes frescos y naturales para garantizar un sabor excepcional en cada bocado.
 - IDEAL PARA COMPARTIR: para disfrutar. Ya sea que estés organizando un evento especial, buscando un regalo único o simplemente quieras consentirte con una variedad de sabores, esta caja te proporcionará una gran cantidad de galletas deliciosas.
-- VARIEDAD DE SABORES: amplia selección de sabores para satisfacer todos los gustos. Desde la clásica combinación de naranja con chocolate hasta la irresistible combinación de manzana y avellana, estas galletas son perfectas para aquellos que buscan variedad y una experiencia culinaria única.
 - ARTESANALES: nuestras galletas son creadas con pasión y dedicación por expertos artesanos en repostería. Cada una es elaborada a mano, lo que se traduce en una atención meticulosa a los detalles y una presentación visualmente atractiva.
+- VARIEDAD DE SABORES: amplia selección de sabores para satisfacer todos los gustos. Desde la clásica combinación de naranja con chocolate hasta la irresistible combinación de manzana y avellana, estas galletas son perfectas para aquellos que buscan variedad y una experiencia culinaria única.
+- ACOMPAÑA TU CAFÉ MOCAY: Nuestras galletas artesanas son el acompañamiento ideal para disfrutar con una taza de café. Su sabor y textura complementan a la perfección el aroma y la intensidad del café, creando una experiencia sensorial completa. Ya sea que prefieras un café negro intenso o un capuchino suave y cremoso, estas galletas realzarán tu momento de café y te brindarán una experiencia deliciosa y reconfortante.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C7HM9DJ4{{</world>}}

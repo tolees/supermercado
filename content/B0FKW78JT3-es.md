@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- SUAVIDAD Y BRILLO NATURAL: La fórmula con queratina hidrolizada nutre en profundidad e hidrata cada mechón. La tecnología PRO Style actúa desde el interior para fortalecer las fibras capilares.
+- PARA CABELLO LISO: Este set con champú y acondicionador ha sido creado para el pelo liso. La fórmula anti frizz ayuda a domar el cabello indisciplinado, para una melena hidratada y fácil de peinar
+- CONTENIDO: 1x TRESemmé Keratin Smooth Champú Antiencrespamiento, Todo Tipo de Cabello, 400 ml + 1x TRESemmé Keratin Smooth Acondicionador Antiencrespamiento, Todo Tipo de Cabello, 400 ml
 - CABELLO BRILLANTE SIN EFECTO FRIZZ 72H: Disfruta un cabello liso, suave y luminoso como de peluquería. Este set Keratin Smooth combate el encrespamiento 72 horas, para un pelo sedoso
 - RUTINA PROFESIONAL EN CASA: Aplica el champú en el pelo mojado, crea espuma y aclara. Seguido el acondicionador, deja actuar 2-3 min y aclara. Completa con la mascarilla, spray térmico y aceite
-- CONTENIDO: 1x TRESemmé Keratin Smooth Champú Antiencrespamiento, Todo Tipo de Cabello, 400 ml + 1x TRESemmé Keratin Smooth Acondicionador Antiencrespamiento, Todo Tipo de Cabello, 400 ml
-- PARA CABELLO LISO: Este set con champú y acondicionador ha sido creado para el pelo liso. La fórmula anti frizz ayuda a domar el cabello indisciplinado, para una melena hidratada y fácil de peinar
-- SUAVIDAD Y BRILLO NATURAL: La fórmula con queratina hidrolizada nutre en profundidad e hidrata cada mechón. La tecnología PRO Style actúa desde el interior para fortalecer las fibras capilares.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FKW78JT3{{</world>}}

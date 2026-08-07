@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- PROTECCIÓN INMEDIATA CONTRA LA RADIACIÓN UVA Y UVB: Filtro UV a base de minerales con óxido de zinc, minimiza el riesgo de reacciones cutáneas no deseadas.
 - A BASE DE MINERALES: Con óxido de zinc, sin oxibenzona, octinoxato, octocrileno ni avobenzona.
-- SUAVE CON LA PIEL DELICADA CON 0% DE PERFUME: Dermatológicamente probado, protege la piel suave del bebé en el cuerpo y la cara, también apto para (futuras) mamás.
+- PROTECCIÓN INMEDIATA CONTRA LA RADIACIÓN UVA Y UVB: Filtro UV a base de minerales con óxido de zinc, minimiza el riesgo de reacciones cutáneas no deseadas.
 - SIMPLEMENTE EXTENDER Y SALPICAR: Fórmula resistente al agua con aceites naturales para una fácil aplicación sin tiempo de remojo, no grasosa.
+- SUAVE CON LA PIEL DELICADA CON 0% DE PERFUME: Dermatológicamente probado, protege la piel suave del bebé en el cuerpo y la cara, también apto para (futuras) mamás.
 - PROTECCIÓN PARA BEBÉS Y NIÑOS: protector solar mineral FPS 50 a base de óxido de zinc para bebés, niños y personas alérgicas, con 0 % de perfume, por lo que es especialmente adecuado para pieles sensibles.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

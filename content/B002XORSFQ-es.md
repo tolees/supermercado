@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Ricola Eucalipto es un caramelo sabor a eucalipto y menta, que alivia la garganta y las vías respiratorias, además de proporcionar un aliento fresco
+- Contiene 13 hierbas suizas: marrubio, pimpinela, verónica, malvavisco, pie de león, flor de saúco, malva, menta, salvia, milenrama, prímula, llantén menor y tomillo
 - Es ideal para consumir en cualquier momento y experimentar la sensación de frescor duradera y deliciosa. No contiene azúcar y es apto para vegetarianos. Contiene edulcorantes. Un consumo excesivo puede tener un efecto laxante
 - Además de sus 13 hierbas, incluye extracto de eucalipto, aceites esenciales de menta y eucalipto, mentol y concentrados de espirulina y zanahoria
 - Plantas cultivadas utilizando métodos naturales. Los caramelos solo contienen colorantes y saborizantes naturales
-- Contiene 13 hierbas suizas: marrubio, pimpinela, verónica, malvavisco, pie de león, flor de saúco, malva, menta, salvia, milenrama, prímula, llantén menor y tomillo
-- Ricola Eucalipto es un caramelo sabor a eucalipto y menta, que alivia la garganta y las vías respiratorias, además de proporcionar un aliento fresco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B002XORSFQ{{</world>}}

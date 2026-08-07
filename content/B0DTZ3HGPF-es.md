@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- REVITALIZA LAS ENCÍAS Y MUCHO MÁS: Este enjuague para encías proporciona una protección 5 veces mayor para unas encías sanas**, además de revitalizar las encías, proteger de las caries, combatir continuamente la placa, prevenir la acumulación de sarro y remineralizar el esmalte.
-- TECNOLÓGICAMENTE AVANZADO: Este colutorio contiene la avanzada tecnología pro-defensa con zinc para una protección óptima de tus dientes y encías.
 - ANTIBACTERIANO: Disfruta de 24 horas de protección antibacteriana ininterrumpida* cuando te enjuagues con el colutorio Colgate Total Advanced Encías Sanas.
+- TECNOLÓGICAMENTE AVANZADO: Este colutorio contiene la avanzada tecnología pro-defensa con zinc para una protección óptima de tus dientes y encías.
+- REVITALIZA LAS ENCÍAS Y MUCHO MÁS: Este enjuague para encías proporciona una protección 5 veces mayor para unas encías sanas**, además de revitalizar las encías, proteger de las caries, combatir continuamente la placa, prevenir la acumulación de sarro y remineralizar el esmalte.
 - REVITALIZA LAS ENCÍAS Y MUCHO MÁS: Este enjuague para encías proporciona una protección 5 veces mayor para unas encías sanas**, además de revitalizar las encías, proteger de las caries, combatir continuamente la placa, prevenir la acumulación de sarro y remineralizar el esmalte.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

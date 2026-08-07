@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - TODO EN UNO: Va más allá de las cejas para rellenar las zonas escasas del nacimiento del pelo o la barba
-- GEL CLARO PARA DAR FORMA: El gel con Pro-Vitamina B5 ayuda a nutrir y acondicionar el vello de las cejas a la vez que da forma y fija para una fijación flexible.
 - DISPONIBLE EN NUEVOS TONOS: Los nuevos tonos de aspecto natural se adaptan a más colores de cabello.
 - VIVE CON AUDACIA CON EL MAQUILLAJE REVLON: Revlon tiene el maquillaje de alta calidad, alta pigmentación y atrevido que necesitas para ser tú misma. Crea cualquier look, de día o de noche, entre semana o el fin de semana, con nuestras sombras de ojos de larga duración, delineadores de ojos, barras de labios mates o brillantes y mucho más.
+- GEL CLARO PARA DAR FORMA: El gel con Pro-Vitamina B5 ayuda a nutrir y acondicionar el vello de las cejas a la vez que da forma y fija para una fijación flexible.
 - TUS MEJORES CEJAS HECHAS FÁCILMENTE: Nuestro dúo de cejas cuenta con un lápiz suave como el polvo que rellena los huecos de forma natural, mientras que el gel transparente para cejas levanta y fija.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

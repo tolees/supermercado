@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Polvos dermatológicamente testados y aptos para pieles sensibles
-- Polvos Healthy Mix con una fórmula limpia y vegana
-- El 93% de los ingredientes son de origen natural y contiene vitaminas C, E y B5
 - Incluye espejo y esponja para conseguir un cutis matificado y radiante
 - Su cobertura ligera fija el maquillaje hasta 10h para mejorar la luminosidad, borrar signos antifatiga y difuminar imperfecciones
 - Polvos Healthy Mix con una fórmula limpia y vegana
 - Incluye espejo y esponja para conseguir un cutis matificado y radiante
+- Polvos Healthy Mix con una fórmula limpia y vegana
+- El 93% de los ingredientes son de origen natural y contiene vitaminas C, E y B5
+- Polvos dermatológicamente testados y aptos para pieles sensibles
 - Polvos dermatológicamente testados y aptos para pieles sensibles
 - Su cobertura ligera fija el maquillaje hasta 10h para mejorar la luminosidad, borrar signos antifatiga y difuminar imperfecciones
 - El 93% de los ingredientes son de origen natural y contiene vitaminas C, E y B5

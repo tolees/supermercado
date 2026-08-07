@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elaboradas en España por Galletas Gullón
 - Bañadas en delicioso chocolate con leche
+- Elaboradas en España por Galletas Gullón
 - Con crujiente arroz inflado para un toque irresistible
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

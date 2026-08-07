@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Esta fragancia es ideal para los disfrutones, aquellos que convierten cualquier día de la semana en una aventura maravillosa ya que no se conforman con un único viernes a la semana
-- Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con la piel. Para que perdure durante todo el día, aplícalo sobre la nuca, detrás de las orejas y la parte interna de codos y muñecas
-- Vaporizador de 75ml
 - Colonia El Ganso con fragancia fougère oriental para hombres marca
+- Vaporizador de 75ml
 - Las notas de salida son bergamota, cardamomo y anís; las de corazón lavanda, salvia y menta; las de fondo madera de cashmere, sándalo y haba tonca
+- Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con la piel. Para que perdure durante todo el día, aplícalo sobre la nuca, detrás de las orejas y la parte interna de codos y muñecas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07YBGWC7G{{</world>}}

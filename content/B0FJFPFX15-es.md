@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Consigue mejores resultados utilizando este champú en combinación con la Mascarilla Gliss Liquid Silk.
-- Nivel de cuidado Gliss: 2 - Cuidado medio, con una composición equilibrada de ingredientes nutritivos.
-- Limpia sin apelmazar y protege el cabello. Cabello increíblemente suave, sedoso y lleno de brillo. Sin siliconas y con una fragancia afrutada.
-- El cabello puede sufrir irregularidades en su superficie, volviéndolo quebradizo y sin brillo. Requiere un cuidado nutritivo intensivo para restaurarlo y dejarlo suave y sedoso. El champú Gliss Liquid Silk combina ceramidas y seda para alisar la superficie del cabello e intensificar su brillo natural.
 - Protección y brillo saludable: Este champú para cabello brillante protege y fortalece el cabello dejándolo brillante y lleno de flexibilidad. Consigue un cabello sano con Gliss.
+- El cabello puede sufrir irregularidades en su superficie, volviéndolo quebradizo y sin brillo. Requiere un cuidado nutritivo intensivo para restaurarlo y dejarlo suave y sedoso. El champú Gliss Liquid Silk combina ceramidas y seda para alisar la superficie del cabello e intensificar su brillo natural.
+- Limpia sin apelmazar y protege el cabello. Cabello increíblemente suave, sedoso y lleno de brillo. Sin siliconas y con una fragancia afrutada.
+- Nivel de cuidado Gliss: 2 - Cuidado medio, con una composición equilibrada de ingredientes nutritivos.
+- Consigue mejores resultados utilizando este champú en combinación con la Mascarilla Gliss Liquid Silk.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FJFPFX15{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Llévalos a donde quieras
 - Con cierre ZIP para una mejor conservación
-- Formato ideal para compartir
 - Mini Dinosaurus con Chocolate con Leche
+- Llévalos a donde quieras
+- Formato ideal para compartir
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F3XGYWZ6{{</world>}}

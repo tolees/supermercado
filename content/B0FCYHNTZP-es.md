@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- TEXTURA Y COLOR: Este protector solar es de textura ultra ligera, sedosa y de rápida absoricón. Tiene un color transparente con acabado invisible no graso; además, no se pega la arena
-- MODO DE EMPLEO: Aplica el fotoprotector 30 minutos antes de ir a la piscina o playa, ya que los filtros suelen tardar entre 20 y 30 minutos en actuar. Reaplicar en caso de exposición prolongada, sudor o después de mojarse
-- FORMULACIÓN: Formulado con ácido hialurónico, que hidrata profundamente; vitamina E, con potente acción antioxidante; y aloe vera, que calma y suaviza la piel
-- BODY SPRAY DRY TOUCH: Es un protector solar en formato spray de alta protección contra los rayos UVB y UVA con acabado invisible. Es apto para todo tipo de pieles, mojadas o secas, y especialmente fototipos II y III
 - OCEAN RESPECT: Tiene fórmula Ocean Respect, lo que hace que este producto sea respetuoso con tu piel y con el planeta
+- BODY SPRAY DRY TOUCH: Es un protector solar en formato spray de alta protección contra los rayos UVB y UVA con acabado invisible. Es apto para todo tipo de pieles, mojadas o secas, y especialmente fototipos II y III
+- TEXTURA Y COLOR: Este protector solar es de textura ultra ligera, sedosa y de rápida absoricón. Tiene un color transparente con acabado invisible no graso; además, no se pega la arena
+- FORMULACIÓN: Formulado con ácido hialurónico, que hidrata profundamente; vitamina E, con potente acción antioxidante; y aloe vera, que calma y suaviza la piel
+- MODO DE EMPLEO: Aplica el fotoprotector 30 minutos antes de ir a la piscina o playa, ya que los filtros suelen tardar entre 20 y 30 minutos en actuar. Reaplicar en caso de exposición prolongada, sudor o después de mojarse
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FCYHNTZP{{</world>}}

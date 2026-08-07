@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Salsa cremosa con intenso sabor a pistacho
 - Ideal para decorar, acompañar y dar un toque extra de sabor a tus postres
+- Salsa cremosa con intenso sabor a pistacho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6YPVNVN{{</world>}}

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - La fragancia se presenta en un frasco de vidrio rosa de 100 ml, inspirado en los atardeceres neoyorquinos y realzado con un elegante tapón plateado: un homenaje atemporal al característico denim de Tommy Hilfiger
-- Vive el espíritu audaz y luminoso de Nueva York con un perfume para mujer que encarna la energía vibrante y el ritmo imparable de la ciudad que nunca duerme
+- Abraza el espíritu de la ciudad de Nueva York, donde hay posibilidades infinitas a la vuelta de cada esquina ; Tommy Girl New York captura la energía, el optimismo y el ritmo de la ciudad en una fragancia vibrante
 - Las notas de salida afrutadas de bergamota y manzana evolucionan hacia un corazón romántico y floral de rosa y lirio de los valles, para cerrarse con un fondo envolvente de pachulí y madera de sándalo, dejando una estela intensa y radiante
 - Tommy Hilfiger es una marca de moda icónica, conocida por su estilo americano clásico y actual, comprometida con difundir sus valores de libertad, inclusividad y unión
-- Abraza el espíritu de la ciudad de Nueva York, donde hay posibilidades infinitas a la vuelta de cada esquina ; Tommy Girl New York captura la energía, el optimismo y el ritmo de la ciudad en una fragancia vibrante
+- Vive el espíritu audaz y luminoso de Nueva York con un perfume para mujer que encarna la energía vibrante y el ritmo imparable de la ciudad que nunca duerme
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FNS1W3GG{{</world>}}

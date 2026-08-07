@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Frasco de plástico fabricado con un 30% de PET reciclado. Envase 100% reciclable. Este envase garantiza su seguridad, ya que es más ligero, fácil de manejar y no tan frágil como otros materiales que se rompen con más facilidad, por lo que no solo es respetuoso con el medio ambiente, sino también con el consumidor.
-- Intensidad 3/5
 - Envasado en España
 - 50% Arabica, 50% Robusta
-- CERTIFICACIÓN RAINFOREST ALLIANCE: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, sino que también hace bien. Con cada compra, estás ayudando a cientos de caficultores y a sus familias en todo el mundo, además de aportar tu granito de arena para preservar los bosques y la selva tropical: beber mejor es hacerlo mejor
-- Porción recomendada: Añadir 1-2 cucharaditas por taza según el gusto, usar agua o leche caliente (pero no hirviendo), como prefieras
 - Café soluble suave y de cuerpo ligero con una acidez intensa suavizada por notas dulces a caramelo
+- Frasco de plástico fabricado con un 30% de PET reciclado. Envase 100% reciclable. Este envase garantiza su seguridad, ya que es más ligero, fácil de manejar y no tan frágil como otros materiales que se rompen con más facilidad, por lo que no solo es respetuoso con el medio ambiente, sino también con el consumidor.
+- CERTIFICACIÓN RAINFOREST ALLIANCE: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, sino que también hace bien. Con cada compra, estás ayudando a cientos de caficultores y a sus familias en todo el mundo, además de aportar tu granito de arena para preservar los bosques y la selva tropical: beber mejor es hacerlo mejor
+- Intensidad 3/5
+- Porción recomendada: Añadir 1-2 cucharaditas por taza según el gusto, usar agua o leche caliente (pero no hirviendo), como prefieras
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BHM49GZF{{</world>}}

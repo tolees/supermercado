@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- INTENSIDAD 10 - Café en grano 100 % de tueste natural con sabor dulce, tostado y equilibrado.
-- CAFÉ ESPRESSO, RISTRETTO O LUNGO - Con este café podrás preparar un espresso, café negro corto que se disfruta solo o con base de leche como el capuchino o el latte. Un ristretto, una versión más concentrada de un espresso, con menos agua y la misma cantidad de café. O un café lungo, la misma cantidad de café pero el doble de agua que un espresso.
-- DULCE, TOSTADO Y EQUILIBRADO - La mezcla de estos granos y su proceso de tueste confieren al café un aroma intenso, equilibrado y notas de nuez.
 - 4 PAQUETES DE 500 GRAMOS - 500 gramos de café en grano listo para ser molido en tu máquina de café superautomática. Una vez molido, podrá ser utilizado en cualquier cafetera.
+- DULCE, TOSTADO Y EQUILIBRADO - La mezcla de estos granos y su proceso de tueste confieren al café un aroma intenso, equilibrado y notas de nuez.
 - CAFÉ SOSTENIBLE - Abraza el arte del café con nuestra mezcla de café de origen responsable.
+- CAFÉ ESPRESSO, RISTRETTO O LUNGO - Con este café podrás preparar un espresso, café negro corto que se disfruta solo o con base de leche como el capuchino o el latte. Un ristretto, una versión más concentrada de un espresso, con menos agua y la misma cantidad de café. O un café lungo, la misma cantidad de café pero el doble de agua que un espresso.
+- INTENSIDAD 10 - Café en grano 100 % de tueste natural con sabor dulce, tostado y equilibrado.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D1CKPCQN{{</world>}}

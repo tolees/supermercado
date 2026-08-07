@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producido en la UE en instalaciones que cumplen con las Normas de Correcta Fabricación (NCF) Producido en la UE en instalaciones que cumplen con las Normas de Correcta Fabricación (NCF) 150mg de cafeína por ración 1,6g de beta-alanina CarnoSyn 37,5 mg de vitamina C Sabores increíbles sin azúcar y con cero calorías
 - Por 6.6 g Vitamina C 38mg 47% IR Niacina 2,4mg 15% IR Vitamina B6 0,50mg 36% IR Ácido fólico 100 μg 50% IR Vitamina B12 1,3 μg 50% IR CarnoSyn Beta-Alanina 1600mg Monohidrato de Creatina 1500mg Creatina 1319mg Cloridrato de L-Arginina 1000mg N-Acetil-L-Tirosina 200mg Cafeina 150mg
+- Producido en la UE en instalaciones que cumplen con las Normas de Correcta Fabricación (NCF) Producido en la UE en instalaciones que cumplen con las Normas de Correcta Fabricación (NCF) 150mg de cafeína por ración 1,6g de beta-alanina CarnoSyn 37,5 mg de vitamina C Sabores increíbles sin azúcar y con cero calorías
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07L34DMXM{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- [Bienestar Respiratorio] Con perilla y tomillo que contribuyen a mantener el bienestar de las vías respiratorias. Además el tomillo contribuye a una normal expectoración
 - [Modo de empleo] Adultos: tomar 1 cucharada (10 ml), 3 veces al día. Niños de 6 a 12 años: tomar 1 cucharada (10 ml), 2 veces al día. Preferentemente separado de las comidas, puede tomarse directamente o diluido en líquido. Agitar antes de cada toma
-- [Defensas y suaviza la garganta] Con astrágalo, saúco, tomillo, selenio, zinc y las vitaminas C, A, D, B6 y B12 apoyan las defensas al contribuir al funcionamiento normal del sistema inmunitario. Con tomillo que ayuda a mantener el bienestar de la garganta
 - [Complex Total] Complemento alimenticio a base de extractos secos de plantas como el saúco y el tomillo, y vitaminas. Formulado para proporcionar una triple acción para mantener el bienestar de las vías respiratorias, las defensas y la garganta suave. Es vegano, y no contiene gluten, lactosa, alcohol, conservantes ni colorantes. Apto para toda la familia
 - [Recomendaciones] No superar la dosis diaria recomendada. Los complementos alimenticios no deben utilizarse como sustitutos de una dieta variada y equilibrada. Mantener fuera del alcance de los niños más pequeños. No administrar a mujeres embarazadas, lactantes ni a niños menores de 6 años sin consejo médico
+- [Bienestar Respiratorio] Con perilla y tomillo que contribuyen a mantener el bienestar de las vías respiratorias. Además el tomillo contribuye a una normal expectoración
+- [Defensas y suaviza la garganta] Con astrágalo, saúco, tomillo, selenio, zinc y las vitaminas C, A, D, B6 y B12 apoyan las defensas al contribuir al funcionamiento normal del sistema inmunitario. Con tomillo que ayuda a mantener el bienestar de la garganta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09HSBFXPJ{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Formulado para ayudar a mantener un metabolismo saludable después de la esterilización /castración
 - Tracto urinario saludable gracias a minerales equilibrados
+- Formulado para ayudar a mantener un metabolismo saludable después de la esterilización /castración
 - Control de peso soportado por un ratio más alto* de proteínas/grasa (*+15% comparado con la fórmula para adultos)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

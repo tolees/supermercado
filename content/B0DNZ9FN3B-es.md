@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Espresso Cremoso: Mezcla dulce, equilibrada y de cuerpo medio. La delicada acidez se funde con el aroma en una amalgama de sensaciones que recuerdan a notas de frutos secos.
-- Gimoka forma parte del Grupo Gimoka, uno de los mayores tostadores de Italia desde los años 80. Un café que nació y se desarrolló en Italia para llegar a hogares y empresas de más de 50 países de todo el mundo. Somos amantes del café en todas sus formas. , por este motivo puedes encontrar Gimoka en granos, molido, en vainas y en cápsulas compatibles con tu sistema favorito. Todos nuestros centros de producción están ubicados en Italia porque para nosotros es importante tener el control de toda la cadena de valor: desde la adquisición de materias primas, hasta el tostado, la molienda, el envasado y la distribución.
-- Formato: 8 envases de 10 cápsulas (80 cápsulas). Las cápsulas están equipadas con top 2.0 que es perfectamente compatible con las máquinas de lectura de códigos de barras.
 - Intensidad: 9/10
+- Formato: 8 envases de 10 cápsulas (80 cápsulas). Las cápsulas están equipadas con top 2.0 que es perfectamente compatible con las máquinas de lectura de códigos de barras.
+- Gimoka forma parte del Grupo Gimoka, uno de los mayores tostadores de Italia desde los años 80. Un café que nació y se desarrolló en Italia para llegar a hogares y empresas de más de 50 países de todo el mundo. Somos amantes del café en todas sus formas. , por este motivo puedes encontrar Gimoka en granos, molido, en vainas y en cápsulas compatibles con tu sistema favorito. Todos nuestros centros de producción están ubicados en Italia porque para nosotros es importante tener el control de toda la cadena de valor: desde la adquisición de materias primas, hasta el tostado, la molienda, el envasado y la distribución.
+- Espresso Cremoso: Mezcla dulce, equilibrada y de cuerpo medio. La delicada acidez se funde con el aroma en una amalgama de sensaciones que recuerdan a notas de frutos secos.
 - *La marca mencionada pertenece a su respectivo propietario.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

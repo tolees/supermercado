@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🥛 Se disuelve en agua o leche
 - ☕ Tiene una textura cremosa
-- 📦 Conservar en lugar fresco y seco
 - ✨ Ideal para el desayuno o una pausa durante el día
+- 🥛 Se disuelve en agua o leche
 - ⏱️ Fácil y rápido de preparar
+- 📦 Conservar en lugar fresco y seco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DWNBC6VT{{</world>}}

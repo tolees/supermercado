@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fácil preparación
-- Caldo Pastilla Other Brands Pollo 10 pastillas
-- Sabor tradicional
 - Caldo de pollo en pastillas
 - Formato económico
 - Añade donde quieras: guisos, hervidos, potajes, asados, sopas y otros platos
+- Sabor tradicional
+- Fácil preparación
+- Caldo Pastilla Other Brands Pollo 10 pastillas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01LYQR0BA{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🚫 LIBRE DE ALÉRGENOS: Nuestros caramelos se fabrican en una fábrica que combina las más modernas tecnologías con la imaginación y el cuidado artesanal; sin gluten, lactosa, huevo, trazas de pescado o frutos secos
 - 💯 CARAMELOS CERDÁN: Es una empresa familiar líder en Europa en la fabricación de caramelo duro con una amplia gama de productos para niños y adultos. Fundada en 1914, lleva más 100 años endulzando paladares por todo el mundo
-- 🧛 CARAMELO CON PALO CONDE DRÁCULA: Caramelo redondo con palo relleno de chicle con azúcar y sabor cereza. Elaborado con colorantes naturales y libre de alérgenos. Cada bolsa contiene 200 caramelos
-- 🎃 IDEAL PARA: Fiestas de cumpleaños, Navidad, Halloween, fiestas temáticas u otras ocasiones especiales. Nuestros caramelos con palo rellenos de chicle Conde Drácula también son perfectos para incluirlos en piñatas y candy bar
 - 🍒 SABOR CEREZA: Los caramelos con palo Conde Drácula de Cerdán tienen un característico e inconfundible sabor a cereza, una auténtica delicia para el paladar de niños y adultos. Perfectos para compartir con amigos y familiares
+- 🎃 IDEAL PARA: Fiestas de cumpleaños, Navidad, Halloween, fiestas temáticas u otras ocasiones especiales. Nuestros caramelos con palo rellenos de chicle Conde Drácula también son perfectos para incluirlos en piñatas y candy bar
+- 🧛 CARAMELO CON PALO CONDE DRÁCULA: Caramelo redondo con palo relleno de chicle con azúcar y sabor cereza. Elaborado con colorantes naturales y libre de alérgenos. Cada bolsa contiene 200 caramelos
+- 🚫 LIBRE DE ALÉRGENOS: Nuestros caramelos se fabrican en una fábrica que combina las más modernas tecnologías con la imaginación y el cuidado artesanal; sin gluten, lactosa, huevo, trazas de pescado o frutos secos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B075RFD1HR{{</world>}}

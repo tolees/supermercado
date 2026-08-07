@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CONSIDERADO UNO DE LOS MEJORES: Este Whiskey está constantemente clasificado entre los mejores bourbons del mundo por los críticos más expertos del sector. Además cuenta con numerosos premios como la Medalla de Oro en 2020 en American Whiskey Masters entre otros
 - DESTILACIÓN: El whiskey Buffalo Trace Kentucky Straight Bourbon se destila, envejece y embotella en la destilería más premiada del mundo, lo que le confiere ese aroma, sabor y color tan característicos
-- BOURBON DE ALTA CALIDAD: Buffalo Trace está elaborado con las mejores maltas de maíz, centeno y cebada, y envejecido en barricas de roble nuevas durante años en bodegas centenarias hasta alcanzar su máxima madurez
-- NOTAS DE CATA: De color ámbar intenso, este whiskey en nariz, tiene un complejo aroma a vainilla, menta y melaza. En boca es dulce, con notas de azúcar moreno y especias que dan paso al roble, el toffee, la fruta oscura y el anís
 - ACOMPAÑA TUS MEJORES VELADAS: Gracias a su composición esta exquisita bebida es ideal para degustarla sola, con hielo, o en la elaboración de cócteles
+- NOTAS DE CATA: De color ámbar intenso, este whiskey en nariz, tiene un complejo aroma a vainilla, menta y melaza. En boca es dulce, con notas de azúcar moreno y especias que dan paso al roble, el toffee, la fruta oscura y el anís
+- BOURBON DE ALTA CALIDAD: Buffalo Trace está elaborado con las mejores maltas de maíz, centeno y cebada, y envejecido en barricas de roble nuevas durante años en bodegas centenarias hasta alcanzar su máxima madurez
+- CONSIDERADO UNO DE LOS MEJORES: Este Whiskey está constantemente clasificado entre los mejores bourbons del mundo por los críticos más expertos del sector. Además cuenta con numerosos premios como la Medalla de Oro en 2020 en American Whiskey Masters entre otros
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00CAIZZMI{{</world>}}

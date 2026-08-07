@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 🍺 SELECCIÓN PREMIUM: Pack de cata con 16 cervezas artesanas cuidadosamente seleccionadas. Producto elaborado por cerveceros artesanos españoles que garantiza calidad, frescura y autenticidad en cada botella de la selección.
 - 🎁 REGALO ORIGINAL: Presentación ideal para regalar a amantes de la cerveza artesana, perfecto para cumpleaños, celebraciones o como detalle especial para compartir momentos únicos.
 - 🌟 EXPERIENCIA DE CATA EN CASA: Diseñado especialmente para disfrutar de una sesión de cata profesional en la comodidad del hogar, explorando sabores y aromas de productores artesanales españoles.
-- ♠ CONTENIDO: x4 H3lio baja graduación; x4 Bosque Nórdico Creative IPA Lager; x2 Imperial Stout; x2 Trinomio, cerveza de autor diseñada para el maridaje, utilizando técnicas que le aportan matices complejos, Oak Blend Ale; x2 18,41, Eisbock; x2 Barrels, envejecida en barriles de roble americano y francés.
-- 🍺 SELECCIÓN PREMIUM: Pack de cata con 16 cervezas artesanas cuidadosamente seleccionadas. Producto elaborado por cerveceros artesanos españoles que garantiza calidad, frescura y autenticidad en cada botella de la selección.
 - 🌟 VARIEDAD DE ESTILOS: Incluye una amplia gama de estilos cerveceros desde IPAs, stouts imperiales con café, cervezas de barril, lagers y especialidades artesanales para una experiencia completa de degustación.
+- ♠ CONTENIDO: x4 H3lio baja graduación; x4 Bosque Nórdico Creative IPA Lager; x2 Imperial Stout; x2 Trinomio, cerveza de autor diseñada para el maridaje, utilizando técnicas que le aportan matices complejos, Oak Blend Ale; x2 18,41, Eisbock; x2 Barrels, envejecida en barriles de roble americano y francés.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CR6TVZ5K{{</world>}}

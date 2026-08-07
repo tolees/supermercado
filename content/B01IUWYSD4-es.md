@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Ositos de Oro, los clásicos del mercado.
 - Caramelos de goma sabor frutas
 - Sabores: Fresa, Frambuesa, Manzana, Naranja, Limón y Piña
-- Ositos de Oro, los clásicos del mercado.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01IUWYSD4{{</world>}}

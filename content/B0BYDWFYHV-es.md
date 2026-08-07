@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - NUTRICIÓN DIARIA PROLACTIC10. formulado con proteínas lácteas naturales que refuerzan la barrera cutánea y ayudan a mantener la piel más firme suave y visiblemente cuidada
+- COMPROMISO LACTOVIT: En Lactovit creemos en un cuidado responsable que empieza en tu piel. Por eso formulamos con activos 100 % naturales de la leche para nutrir y proteger, con fórmulas altamente biodegradables. Además, mejoramos la reciclabilidad de nuestros envases para cuidar de ti y del planeta.
 - GEL DE DUCHA HIDRATANTE. limpia suavemente la piel normal y seca aportando hidratación profunda y confort diario desde la primera ducha sin sensación de tirantez ni resequedad
 - TEXTURA CREMOSA LIGERA. se transforma en una espuma rica y aterciopelada que limpia eficazmente sin resecar dejando una agradable sensación de frescor suavidad y bienestar
 - PIEL NORMAL Y SECA. ideal para quienes buscan un gel corporal de uso diario que cuide la elasticidad y el equilibrio cutáneo sin agredir la piel durante la limpieza
-- COMPROMISO LACTOVIT: En Lactovit creemos en un cuidado responsable que empieza en tu piel. Por eso formulamos con activos 100 % naturales de la leche para nutrir y proteger, con fórmulas altamente biodegradables. Además, mejoramos la reciclabilidad de nuestros envases para cuidar de ti y del planeta.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BYDWFYHV{{</world>}}

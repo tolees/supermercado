@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Complejo de brillo con ácido glicólico que regenera el interior del cabello y sella el brillo, champú sin sulfatos, *Prueba instrumental después de la aplicación de champú, desenredante y cuidado laminado
 - Protocolo completo de cuidado capilar que consiste en un champú sin sulfato, un desenredante con brillo y un tratamiento de laminación de 5 minutos. Nuestro primer tratamiento Gloss para el hogar, enriquecido con ácido glicólico, regenera la fibra capilar desde el interior para mejorar la calidad del cabello y envolverlo con brillo
 - Aplicación: Comience con la aplicación del champú sin sulfato *****, seguido del brillo desenredante. Continúa con el cuidado de laminación durante 5 minutos, el paso indispensable del protocolo. Déjalo actuar durante 5 minutos y luego enjuaga.
-- Complejo de brillo con ácido glicólico que regenera el interior del cabello y sella el brillo, champú sin sulfatos, *Prueba instrumental después de la aplicación de champú, desenredante y cuidado laminado
 - Resultados: El pelo es 2 veces más brillante*, +88% más suave** para una transformación que dura hasta 10 champús***
 - Contenido del paquete: 1 rutina capilar completa con 3 productos Elseve Glycolic Gloss de LOreal Paris, Contenido del paquete: 1 champú sin sulfato (200 ml), 1 gloss desenredante (150 ml), 1 cuidado laminado (200 ml)
 

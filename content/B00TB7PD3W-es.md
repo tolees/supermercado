@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Su receta combina galleta crujiente y crema de chocolate con leche para un sabor clásico que encanta a niños y adultos y que acompaña los momentos dulces de la familia
-- El práctico formato mantiene la frescura de las galletas por más tiempo y permite llevarlas fácilmente en la mochila o el bolso para disfrutarlas fuera de casa
 - Galletas Príncipe Original tipo sándwich con crujiente galleta de trigo y cremoso relleno de chocolate con leche, perfectas para disfrutar en desayunos, meriendas o como snack en cualquier momento del día
+- El práctico formato mantiene la frescura de las galletas por más tiempo y permite llevarlas fácilmente en la mochila o el bolso para disfrutarlas fuera de casa
 - Príncipe es una marca icónica que combina sabor y calidad generación tras generación; contiene gluten, leche, soja y puede contener trazas de frutos de cáscara y huevo
 - Perfectas para disfrutar solas o con leche, cacao o café; también pueden utilizarse para preparar postres sencillos como tartas frías, batidos o bases de repostería
 

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Lavazza, *A Modo Mio, *Lavazza A Modo Mio son marcas comerciales propiedad de Luigi Lavazza SPA; Caffè Borbone SRL es un fabricante independiente no relacionado con Luigi Lavazza SPA; La compatibilidad de las cápsulas de Caffè Borbone es funcional con máquinas de café *Lavazza *A Modo Mio para uso doméstico
+- FRAGANCIA Y AROMA: Una Mezcla de Café inigualable con un extraordinario equilibrio, que se presenta con: Cuerpo: 9.5 - Intensidad: 9.5 - Persistencia: 9.5 - Dulzor: 7 - Acidez: 4
 - Cápsulas Compatibles con Lavazza* A Modo Mio* para uso con los siguientes modelos de máquinas de café: Espressgo, Espria, Extra, Fantasia, Favola Electrolux, Idola, Jolie, Magia, Minù, Minù Caffè Latte, Simpla, Tiny
 - FORMATO: 100 Cápsulas de Café
-- FRAGANCIA Y AROMA: Una Mezcla de Café inigualable con un extraordinario equilibrio, que se presenta con: Cuerpo: 9.5 - Intensidad: 9.5 - Persistencia: 9.5 - Dulzor: 7 - Acidez: 4
 - MEZCLA DE CAFÉ ROJA: Pura energía en sabor, fuerte y cremoso y al mismo tiempo delicioso; Tiene un carácter marcado y persistente que infunde una profunda sensación de placer en el paladar, para una sensación mágica
-- Lavazza, *A Modo Mio, *Lavazza A Modo Mio son marcas comerciales propiedad de Luigi Lavazza SPA; Caffè Borbone SRL es un fabricante independiente no relacionado con Luigi Lavazza SPA; La compatibilidad de las cápsulas de Caffè Borbone es funcional con máquinas de café *Lavazza *A Modo Mio para uso doméstico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01BBW9Q46{{</world>}}

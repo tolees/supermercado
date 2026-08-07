@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - PROTECCIÓN DE ENLACES CAPILARES: Con la fórmula Pro-V y la tecnología Active Nutri-Plex, este champú está diseñado para proteger los enlaces capilares y controlar la caspa*. *Reducción en caspa visible con un uso regular
-- CHAMPÚ DE USO DIARIO SIN ACEITES MINERALES NI COLORANTES: Nuestro champú sin aceites minerales ni colorantes limpia suavemente tu pelo y lo alimenta con nutrientes
 - RUTINA DE CUIDADO DEL CUERO CABELLUDO: Úsalo regularmente para ayudar a combatir y prevenir la caspa*; combínalo con el acondicionador Pantene, para nutrir tu pelo desde la raíz hasta las puntas. *Reducción en caspa visible con un uso regular
+- CHAMPÚ DE USO DIARIO SIN ACEITES MINERALES NI COLORANTES: Nuestro champú sin aceites minerales ni colorantes limpia suavemente tu pelo y lo alimenta con nutrientes
 - EL SECRETO PARA UN PELO MÁS FUERTE* Y UN CUERO CABELLUDO SANO: Nuestro champú limpia y combate la caspa**, para un pelo más fuerte* y saludable. *Frente al desgaste del peinado, comparado con champú Aqualight/Volumen/Purificante **Con uso regular
 
 [🛒 Comprar!!!]({{< param buyurl >}})

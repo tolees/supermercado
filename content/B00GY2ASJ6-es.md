@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ANTISÉPTICO: Coadyuvante en el tratamiento de gingivitis y periodontitis. Eficaz como terapia de mantenimiento en el tratamiento periodontal y periimplantario, en cirugía periodontal (pre y post operatorio), en implantología, en profilaxis dental de pacientes irradiados (caries rampante) y en gerodontología.
-- MODO DE USO: Aplicar con el dedo o con la cánula directamente sobre la zona afectada y masajear suavemente con la yema de los dedos para favorecer su adhesión. Es aconsejable no enjuagarse con agua después de su aplicación, ni comer o beber durante los siguientes 30 minutos. Uso recomendado entre 2 y 3 veces al día.
 - LACER: Lacer, que nació en 1949, tiene el propósito de mejorar la salud de las personas cada día, cuidando de su bienestar. Porque nos importa la salud integral y del planeta, siempre con calidad y rigurosidad en nuestra actuación
 - FORMULADO CON: Contiene Digluconato de Clorhexidina el cual es un desinfectante oral de acción antiséptica, es un bactericida y fungicida que previene infecciones y mantiene un buen estado bucodental.
+- MODO DE USO: Aplicar con el dedo o con la cánula directamente sobre la zona afectada y masajear suavemente con la yema de los dedos para favorecer su adhesión. Es aconsejable no enjuagarse con agua después de su aplicación, ni comer o beber durante los siguientes 30 minutos. Uso recomendado entre 2 y 3 veces al día.
+- ANTISÉPTICO: Coadyuvante en el tratamiento de gingivitis y periodontitis. Eficaz como terapia de mantenimiento en el tratamiento periodontal y periimplantario, en cirugía periodontal (pre y post operatorio), en implantología, en profilaxis dental de pacientes irradiados (caries rampante) y en gerodontología.
 - GEL BIOADHESIVO: Clorhexidina Lacer Gel bioadhesivo es un gel antiséptico de amplio espectro frente a los microorganismos de la placa bacteriana eficaz durante un largo periodo de tiempo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

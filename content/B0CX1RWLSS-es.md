@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Aspectos destacados del equipo: con el icónico borde de bordado dividido de color de Red Bull Racing en la solapa, este polo añade un toque de estilo a tu look
-- Polo de manga larga Red Bull Racing: eleva tu armario casual con nuestro polo de manga larga con solapa de moda, hecho de piqué elástico de algodón ligero para una comodidad limpia y deportiva
 - Detalles de Pepe JEANS F1: el estampado Pepe Jeans aplicado al borde del cuello añade un detalle sutil pero de moda. Muestra el gráfico RBR 20 de temporada en el pecho izquierdo del usuario en goma de alta construcción, este polo te permite mostrar tu orgullo por Red Bull Racing con confianza
+- Polo de manga larga Red Bull Racing: eleva tu armario casual con nuestro polo de manga larga con solapa de moda, hecho de piqué elástico de algodón ligero para una comodidad limpia y deportiva
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CX1RWLSS{{</world>}}

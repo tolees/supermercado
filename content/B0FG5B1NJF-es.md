@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una armonía perfecta de acabados, aterciopelados y brillantes
+- Oftalmológicamente testado
 - Una paleta con cuatro sombras de ojos en acabados mate, metalizado y brillante, inspirada en el juego de caramelos más famoso del mundo. Para añadir un irresistible toque de color a cualquier mirada. ¡Delicioso!
 - Una sensualidad única y unas texturas en polvo que se funden en los párpados y los cubren de tonos intensos
+- Una armonía perfecta de acabados, aterciopelados y brillantes
 - Colores desde de nude rosado a intensos que ofrecen un sinfín de posibilidades
-- Oftalmológicamente testado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FG5B1NJF{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de producto: molinillo de café
 - Opciones especiales:contenedor de granos de café extraíble, grado de molido ajustable, pies de goma antideslizantes, alamacenaje de cable, sistema burr milling
+- Tipo de producto: molinillo de café
 - Capacidad de comida: 0.12 kg
 
 [🛒 Visítala!!!]({{< param buyurl >}})

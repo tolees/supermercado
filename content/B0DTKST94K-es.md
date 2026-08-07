@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- LE TRIBUTE: La ginebra Le Tribute pertenece a una marca única, contemporánea, llena de alma y carácter, con un espíritu, diseño y calidad únicos
-- SABOR: Es un perfil robusto y profundo que se equilibra delicadamente con la frescura y suavidad de la lavanda, flor de malva y la salvia. Estas añaden un bouquet aromático fresco y floral, creando una experiencia sensorial refinada y compleja. En vista es brillante y cristalino
-- INGREDIENTES NATURALES: La ginebra Le Tribute está elaborada a partir de ingredientes completamente naturales como enebro, cardamomo, lavanda, flor de malva, lemongrass y salvia. La primera edición limitada de Le Tribute.
-- DESTILACIÓN INDIVIDUAL: Cada grupo de botánicos está destilado de forma individual y posteriormente el maestro destilador elabora la mezcla siguiendo la receta tradicional de la familia Giró
 - CÓMO TOMAR: Se recomienda tomar en Gin Tonic con tónica Le Tribute, o perfecta en un London Mule, acompañado de Ginger Beer de Le Tribute. La botella es "decanter" de 70 cl con tapón de zamac y corcho
+- SABOR: Es un perfil robusto y profundo que se equilibra delicadamente con la frescura y suavidad de la lavanda, flor de malva y la salvia. Estas añaden un bouquet aromático fresco y floral, creando una experiencia sensorial refinada y compleja. En vista es brillante y cristalino
+- DESTILACIÓN INDIVIDUAL: Cada grupo de botánicos está destilado de forma individual y posteriormente el maestro destilador elabora la mezcla siguiendo la receta tradicional de la familia Giró
+- LE TRIBUTE: La ginebra Le Tribute pertenece a una marca única, contemporánea, llena de alma y carácter, con un espíritu, diseño y calidad únicos
+- INGREDIENTES NATURALES: La ginebra Le Tribute está elaborada a partir de ingredientes completamente naturales como enebro, cardamomo, lavanda, flor de malva, lemongrass y salvia. La primera edición limitada de Le Tribute.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DTKST94K{{</world>}}

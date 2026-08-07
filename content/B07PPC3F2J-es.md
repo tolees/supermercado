@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de alcohol: Malt Beers
-- Aroma frutal y notas cítricas
-- Color rubio brillante y espuma consistente
-- Consumirla entre 0° y 3°C para obtener sus máximas cualidades
 - Sabor característico y de amargor suave por la mezcla de lúpulos lemondrop y Perlé
+- Consumirla entre 0° y 3°C para obtener sus máximas cualidades
+- Tipo de alcohol: Malt Beers
+- Color rubio brillante y espuma consistente
 - Cerveza lager especial de baja fermentación con 5.5% de alcohol en volumen
+- Aroma frutal y notas cítricas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07PPC3F2J{{</world>}}

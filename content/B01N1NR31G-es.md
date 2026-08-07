@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - FRAGANCIA Y AROMA: Una Mezcla refinada y persistente, que se presenta con: Cuerpo: 8.5 - Intensidad: 8.5 - Persistencia: 9 - Dulzor: 9 - Acidez: 5
-- *ESE mm 44 y *ESE son marcas registradas por el consorcio EASY SERVING ESPRESSO; La producción de estas cápsulas es autónoma y no está conectada ni directa ni indirectamente a EASY SERVING ESPRESSO
-- Las Cápsulas Compostables ESE Caffè Borbone de 44 mm de papel de filtro son 100% Compatibles con todas las máquinas de café que utilizan el sistema Easy Serving Espresso. ¡Haz la elección correcta para un mundo mejor: elige un producto 100% ecológico!
 - FORMATO: 150 Cápsulas de Café Compostables
+- Las Cápsulas Compostables ESE Caffè Borbone de 44 mm de papel de filtro son 100% Compatibles con todas las máquinas de café que utilizan el sistema Easy Serving Espresso. ¡Haz la elección correcta para un mundo mejor: elige un producto 100% ecológico!
 - MEZCLA DE CAFÉ AZUL: De una cuidadosa selección de blends, surge un café especial con un perfecto equilibrio entre cuerpo, persistencia y dulzura; La Mezca de Café Azul se caracteriza por su sabor noble, carácter vigoroso y aroma intenso: una mezcla equilibrada de Arábica y Robusta, envasada en atmósfera protectora
+- *ESE mm 44 y *ESE son marcas registradas por el consorcio EASY SERVING ESPRESSO; La producción de estas cápsulas es autónoma y no está conectada ni directa ni indirectamente a EASY SERVING ESPRESSO
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01N1NR31G{{</world>}}

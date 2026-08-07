@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- SOSTENIBLE: Los granos de cacao utilizados provienen de un cultivo sostenible que ahorra recursos y están certificados con la etiqueta UTZ reconocida mundialmente
 - PARA CADA TEMPORADA: Para momentos cálidos de mimos en invierno o como un refrescante enfriamiento en verano, Caotina se adapta a todas las estaciones y pone una sonrisa en la cara de todos. ¡Brindaremos con una deliciosa taza de Caotina!
 - CHOCOLATE CALIENTE: El original de Caotina para momentos de placer inconfundibles. Durante más de 50 años, la bebida de cacao más popular para los fanáticos del verdadero chocolate suizo y el mejor cacao en polvo.
-- SOSTENIBLE: Los granos de cacao utilizados provienen de un cultivo sostenible que ahorra recursos y están certificados con la etiqueta UTZ reconocida mundialmente
 - ELABORACIÓN: En la producción de Caotina, el mejor chocolate suizo y el cacao de alta calidad forman una seductora combinación. También hay otros ingredientes exquisitos, que incluyen más de 50 años de amor y pasión por hacer delicias del chocolate. No es de extrañar que casi nadie se resista a esta receta.
 - PREPARACIÓN: El chocolate para beber Caotina se puede mezclar fácilmente con leche fría o caliente. Disuelva 1 sobre (15 g) de Caotina Original en 200 ml de leche semidesnatada fría o tibia.
 

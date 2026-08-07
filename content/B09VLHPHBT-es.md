@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PROPIEDADES: Contribuye al correcto metabolismo proteico y a la reducción del cansancio y la fatiga. Cada barrita contiene tan sólo 0,1 g de azúcar CONSUMO: Se recomiendan 1-2 barritas al día en función de la actividad y considerando otras fuentes de proteínas en la dieta. Se debe acompañar de una ingesta adecuada de agua
 - BARRITA PROTEICA 50% DARK CHOCO: La barra proteica más elaborada de la gama Enervit con cobertura de chocolate negro. Con 20g de proteínas y mezcla de vitaminas. Baja en azúcar y sin gluten BENEFICIOS: Indicado para después de los entrenamientos. La vitamina D, la vitamina B6 y la tiamina refuerzan el mantenimiento de la función muscular y el metabolismo proteico y glucogénico
-- ENERVIT: Desarrollamos productos y suplementos nutricionales e innovadores para mejorar la calidad de vida de nuestros usuarios
+- PROPIEDADES: Contribuye al correcto metabolismo proteico y a la reducción del cansancio y la fatiga. Cada barrita contiene tan sólo 0,1 g de azúcar CONSUMO: Se recomiendan 1-2 barritas al día en función de la actividad y considerando otras fuentes de proteínas en la dieta. Se debe acompañar de una ingesta adecuada de agua
 - ENERVIT NUTRITION S.L. | Alfonso Gomez 45A | 28037 Madrid - Espana
+- ENERVIT: Desarrollamos productos y suplementos nutricionales e innovadores para mejorar la calidad de vida de nuestros usuarios
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09VLHPHBT{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fácil de usar: aplica una cantidad del tamaño de una avellana de la crema capilar sobre el cabello húmedo y da forma a los rizos con los dedos o con un cepillo. Por último, defínelos con un gel como el Defining Gel de Bali Curls, para una fijación perfecta.
 - Cuidado natural: En Bali Curls apostamos por el poder de los ingredientes naturales y nutritivos para la salud y la belleza natural de tus rizos.
 - Cuidado natural: nuestro producto vegano para cabello rizado hidrata y define tus rizos gracias a la manteca de karité, el aceite de coco y el extracto de ylang-ylang. Su eficaz fórmula antiencrespamiento deja el cabello suave y cuidado.
-- Cuidado eficaz para el cabello rizado: nuestros productos para el cabello rizado son la elección perfecta para tu cabello. Gracias a la combinación de la manteca de karité y el aceite de coco, nuestra crema hidratante para rizos hidrata, fortalece tus rizos y ayuda a que tu cabello se regenere.
 - Hidratación profunda: gracias a la manteca de karité, enriquecida con vitamina E, nuestra crema para rizos deja el cabello seco suave y fácil de peinar. El aceite de coco y el extracto de ylang-ylang fortalecen los rizos y estimulan el crecimiento del cabello.
+- Cuidado eficaz para el cabello rizado: nuestros productos para el cabello rizado son la elección perfecta para tu cabello. Gracias a la combinación de la manteca de karité y el aceite de coco, nuestra crema hidratante para rizos hidrata, fortalece tus rizos y ayuda a que tu cabello se regenere.
+- Fácil de usar: aplica una cantidad del tamaño de una avellana de la crema capilar sobre el cabello húmedo y da forma a los rizos con los dedos o con un cepillo. Por último, defínelos con un gel como el Defining Gel de Bali Curls, para una fijación perfecta.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DRDD2JCR{{</world>}}

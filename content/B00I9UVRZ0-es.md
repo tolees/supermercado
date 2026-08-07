@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal solo, con leche o azúcar
-- Cápsulas de café listo para usar
-- Conservar en lugar fresco y seco
-- Con un sabor intenso
 - Fácil de preparar
+- Conservar en lugar fresco y seco
+- Cápsulas de café listo para usar
+- Ideal solo, con leche o azúcar
+- Con un sabor intenso
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00I9UVRZ0{{</world>}}

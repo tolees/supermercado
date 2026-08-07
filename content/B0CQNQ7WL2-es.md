@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- FROM MATTE TO GLITTER: The Color Icon Multi-Stick collection is available in buttery matte, radiant shimmer, and dazzling glitter finishes, in vibrant and nude colours to unleash your creativity
 - BUILDABLE AND BLENDABLE: Glides on effortlessly as an eyeliner pencil, eyeshadow stick or blush thanks to its buttery texture, allowing you to build and blend for dramatic effect wherever applied, from eyelids to cheeks
-- STAY WILD: We are the trusted beauty destination for beauty lovers of all ages, ethnicities, skin colors, and economic statuses; no matter who or where you are in life, we have a product for you
 - ENRICHED WITH ARGAN OIL AND VITAMIN E: Experience the nourishing benefits of its creamy formula, infused with Argan Oils, Passion Fruit Seed, and Vitamin E, moisturizing for a flawless, powdery finish that keeps your skin soft and radiant
 - MULTI-TASKING MAKEUP STICK: Transform your makeup routine with this 3-in-1 highly pigmented stick that you can use on eyes, lips and cheeks; apply as eyeliner, eyeshadow, blush, contour or bronzer, and lipstick
+- STAY WILD: We are the trusted beauty destination for beauty lovers of all ages, ethnicities, skin colors, and economic statuses; no matter who or where you are in life, we have a product for you
+- FROM MATTE TO GLITTER: The Color Icon Multi-Stick collection is available in buttery matte, radiant shimmer, and dazzling glitter finishes, in vibrant and nude colours to unleash your creativity
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CQNQ7WL2{{</world>}}

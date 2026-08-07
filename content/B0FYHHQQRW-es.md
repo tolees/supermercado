@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- TECNOLOGÍA CORRECTORA DEL COLOR: Los productos de este pack, clínicamente probados, están elaborados con tecnología correctora del color para conseguir una sonrisa más blanca al instante
 - SABOR REFRESCANTE: Nuestro sérum morado y el dentífrico Max White Purple Reveal están aromatizados con refrescante menta y cítricos, dejándote un aliento increíblemente fresco.
-- PASTA DE DIENTES BLANQUEADORA: La pasta de dientes blanqueadora, que actúa al instante, tiene una eficacia clínicamente probada para eliminar hasta el 100% de las manchas superficiales causadas por comida y bebida, tras dos semanas de uso continuado
 - SÉRUM BLANQUEADOR: Nuestro sérum blanqueador morado tiene una fórmula de doble acción para una corrección inmediata temporal del color y unos resultados blanqueadores duraderos (eliminando las manchas superficiales cepillando dos veces al día)
+- TECNOLOGÍA CORRECTORA DEL COLOR: Los productos de este pack, clínicamente probados, están elaborados con tecnología correctora del color para conseguir una sonrisa más blanca al instante
+- PASTA DE DIENTES BLANQUEADORA: La pasta de dientes blanqueadora, que actúa al instante, tiene una eficacia clínicamente probada para eliminar hasta el 100% de las manchas superficiales causadas por comida y bebida, tras dos semanas de uso continuado
 - SONRISA BRILLANTE: Con la combinación de la pasta de dientes y el sérum morado potenciador del blanqueamiento dental para después del cepillado, podrás conseguir unos resultados duraderos y una sonrisa brillante desde el primer uso.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

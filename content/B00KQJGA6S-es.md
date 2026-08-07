@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Kikkoman, líder mundial de salsa de soja japonesa con más de 300 años de tradición
-- Utilizamos nuestra Salsa de Soja naturalmente fermentada como base para su producción, lo que le da a esta salsa teriyaki su inconfundible sabor con mucho cuerpo
-- La salsa teriyaki Kikkoman es ideal para marinar marisco, carne o verduras para luego luego freír, asar o hacer a la parrilla
-- Formato: 975 ml
 - Ingredientes: Salsa de SOJA (Agua, Habas de SOJA, TRIGO, Sal), Vino (contiene SULFITOS), Azúcar, Agua, Vinagre de alcohol, Sal, Extractos de especias, Cebolla en polvo, Ajo en polvo
+- Utilizamos nuestra Salsa de Soja naturalmente fermentada como base para su producción, lo que le da a esta salsa teriyaki su inconfundible sabor con mucho cuerpo
+- Formato: 975 ml
+- La salsa teriyaki Kikkoman es ideal para marinar marisco, carne o verduras para luego luego freír, asar o hacer a la parrilla
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00KQJGA6S{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuidado suave para tu piel: gel de ducha espumoso suave con extracto de salvia griega y aloe, limpia suavemente y deja tu piel suave como la seda.
-- Sensación de suavidad en la piel: favorece el equilibrio natural de la piel y proporciona una sensación de suavidad y cuidado después de cada ducha.
-- Apto para todo tipo de pieles, incluso las más sensibles. Testado dermatológicamente y con pH neutro.
-- Vanilla Cinnamon: vainilla cremosa y delicadamente batida se funde con la cálida y especiada canela.
 - Pureza sin concesiones: vegano, sin siliconas ni parabenos, inspirado en el poder puro de la flora griega.
+- Apto para todo tipo de pieles, incluso las más sensibles. Testado dermatológicamente y con pH neutro.
+- Cuidado suave para tu piel: gel de ducha espumoso suave con extracto de salvia griega y aloe, limpia suavemente y deja tu piel suave como la seda.
+- Vanilla Cinnamon: vainilla cremosa y delicadamente batida se funde con la cálida y especiada canela.
+- Sensación de suavidad en la piel: favorece el equilibrio natural de la piel y proporciona una sensación de suavidad y cuidado después de cada ducha.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FSLHDR11{{</world>}}

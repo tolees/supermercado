@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Comodidad
 - Textura cremosa y suave
 - La siguiente información se aplica a cada unidad del paquete
-- Larga duración, hasta 8h
 - Color intenso
+- Larga duración, hasta 8h
 - Tecnología Color Protect para un color inalterable
 
 [🛒 Aquí!!!]({{< param buyurl >}})

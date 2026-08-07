@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hidrata y unifica la piel para que tenga un aspecto radiante y saludable
-- Fórmula clean y 100% vegana
 - Base ligera e hidratante que calma la piel sensible, para una piel glow todo el día
+- Fórmula clean y 100% vegana
 - Difumina las imperfecciones y reduce las rojeces
+- Hidrata y unifica la piel para que tenga un aspecto radiante y saludable
 - Con vitaminas E + B5 y aloe vera, ideal para pieles sensibles y secas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

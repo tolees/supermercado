@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Combate todos los tipos de caspa persistente, alivia picores y previene su reaparición hasta 6 semanas después.
 - Durante 4 semanas, utiliza este champú como parte de tu rutina de lavado habitual.
 - Champú anticaspa con doble acción contra la caspa persistente y su reaparición. Idóneo para personas con cabello seco que desean eliminar la caspa y los picores, mientras controlan la descamación.
+- Combate todos los tipos de caspa persistente, alivia picores y previene su reaparición hasta 6 semanas después.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01BPHAD1W{{</world>}}

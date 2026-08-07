@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MENFORSAN: En Menforsan nos preocupamos por la salud de los animales y el cuidado del planeta, por lo que creamos productos naturales vegan friendly de la mejor calidad.
-- APTO PARA USO FRECUENTE: Un cosmético que mejora y mantiene la hidratación natural, permitiendo un uso frecuente sin alterar las propiedades protectoras de la piel. pH adaptado al pelaje
 - PROTEGE Y NUTRE: Champú de máxima calidad con aceite de visón que protege y nutre el pelaje del animal. El aceite de visón aporta alta hidratación en pelajes secos.
-- FORTALECE: Tiene un alto poder penetrante y por su riqueza en ácidos grasos esenciales. Fortalece las fibras quera tinitas del pelaje restaurando su vitalidad flexibilidad y brillo.
 - MODO DE EMPLEO: Humedecer el pelaje con abundante agua tibia. Aplicar el champú en cuello, lomo, manos y patas. Masajear hasta conseguir una abundante y cremosa espuma y dejar actuar unos instantes. Aclarar y dejar que el perro se sacuda. Secar con toalla.
+- FORTALECE: Tiene un alto poder penetrante y por su riqueza en ácidos grasos esenciales. Fortalece las fibras quera tinitas del pelaje restaurando su vitalidad flexibilidad y brillo.
+- APTO PARA USO FRECUENTE: Un cosmético que mejora y mantiene la hidratación natural, permitiendo un uso frecuente sin alterar las propiedades protectoras de la piel. pH adaptado al pelaje
+- MENFORSAN: En Menforsan nos preocupamos por la salud de los animales y el cuidado del planeta, por lo que creamos productos naturales vegan friendly de la mejor calidad.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01980UDGI{{</world>}}

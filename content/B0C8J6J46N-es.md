@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal para consumirla sola o mezclada con ginebra con mucho hielo y una rodaja de naranja. Perfecta para cualquier momento del día. En tu aperitivo en el bar, con los amigos después del trabajo y con tu gin tonic los fines de semana
 - Sabor dulce, refrescante, con un toque afrutado y la genuina burbuja Schweppes
+- Ideal para consumirla sola o mezclada con ginebra con mucho hielo y una rodaja de naranja. Perfecta para cualquier momento del día. En tu aperitivo en el bar, con los amigos después del trabajo y con tu gin tonic los fines de semana
+- La tónica Schweppes Pink está elaborada con aromas naturales
 - Bebida refrescante con cero azúcares y cero calorías
 - Tónica Schweppes con un delicioso sabor dulce y afrutado a grosella
-- La tónica Schweppes Pink está elaborada con aromas naturales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C8J6J46N{{</world>}}

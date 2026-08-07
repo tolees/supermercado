@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- SIN ACEITES MINERALES NI COLORANTES: Nuestro champú sin aceites minerales ni colorantes limpia suavemente tu pelo y lo alimenta con nutrientes
-- RUTINA PARA RIZOS DEFINIDOS: Para un cuidado adicional, combínalo con el resto de productos de nuestra línea completa Rizos Definidos, para obtener sin esfuerzo unos rizos nutridos y de aspecto sano
 - EL SECRETO PARA UNOS RIZOS SANOS: El acondicionador Rizos Definidos controla el encrespamiento para un pelo hasta 100% más fuerte y rizos definidos
 - PROTECCIÓN ENLACES CAPILARES PARA PELO ENCRESPADO Y REBELDE: La fórmula con 50% más de agentes protectores
+- SIN ACEITES MINERALES NI COLORANTES: Nuestro champú sin aceites minerales ni colorantes limpia suavemente tu pelo y lo alimenta con nutrientes
+- RUTINA PARA RIZOS DEFINIDOS: Para un cuidado adicional, combínalo con el resto de productos de nuestra línea completa Rizos Definidos, para obtener sin esfuerzo unos rizos nutridos y de aspecto sano
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FXYTQJ3V{{</world>}}

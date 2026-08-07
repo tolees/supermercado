@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Aquarius presenta su Bebida Refrescante Zero Azúcar Sabor Limón, una opción para mantenerse hidratado y refrescado en cualquier momento del día
 - Aquarius Zero Azúcar Limón son su capacidad de proporcionar hidratación efectiva gracias a su contenido de agua y electrolitos, y ser una fuente de fenilalanina
 - Esta bebida sin azúcar está enriquecida con vitaminas y minerales esenciales como vitamina C, magnesio, zinc y selenio, que contribuyen al funcionamiento normal del organismo
-- Aquarius presenta su Bebida Refrescante Zero Azúcar Sabor Limón, una opción para mantenerse hidratado y refrescado en cualquier momento del día
 - Cada pack contiene 24 latas de 330ml cada una, lo que lo hace para llevar a la oficina, gimnasio o disfrutar en casa
 - Aquarius Zero Azúcar Limón es una bebida refrescante y sin azúcar, rica en vitaminas y minerales, que ayuda a mantener una hidratación eficaz
 

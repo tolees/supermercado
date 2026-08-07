@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Delicioso sabor a chocolate: Agradable al paladar, lo que facilita su consumo como parte de la dieta diaria
 - Apoyo nutricional especializado: Diseñado para pacientes con requerimientos energéticos y proteicos aumentados y con riesgo de desnutrición
-- Instrucciones claras y precauciones: Uso exclusivo por vía oral, bajo supervisión médica y recomendado sólo para mayores de 3 años
 - Recomendado: Ideal para situaciones que requieran un aporte extra de proteinas y calorias, situaciones de prefragilidad, fragilidad, ingestas inadecuadas o convalecencia
+- Instrucciones claras y precauciones: Uso exclusivo por vía oral, bajo supervisión médica y recomendado sólo para mayores de 3 años
 - Presentación práctica: Envase de 450g que proporciona múltiples porciones para adaptarse a las necesidades nutricionales individuales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

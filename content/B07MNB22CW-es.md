@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 🌍 Origen Caribeño – Pimienta de Jamaica seleccionada, conocida también como Allspice o pimienta gorda.
-- 🍖 Versátil en la Cocina – Potencia el sabor de carnes, guisos, encurtidos y marinados caribeños.
 - 🥄 Aromas Únicos – Recuerda a una mezcla de canela, clavo, nuez moscada y pimienta negra.
+- 🍖 Versátil en la Cocina – Potencia el sabor de carnes, guisos, encurtidos y marinados caribeños.
 - 🌿 100% Natural y Pura – Bayas enteras de Pimenta dioica, sin aditivos ni conservantes.
-- 📌Práctico bote de 100gr - Calidad El paraíso de las Especias
 - 🍪 Toque Dulce y Aromático – Ideal también en repostería, galletas, bizcochos y ponches.
+- 📌Práctico bote de 100gr - Calidad El paraíso de las Especias
+- 🌍 Origen Caribeño – Pimienta de Jamaica seleccionada, conocida también como Allspice o pimienta gorda.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07MNB22CW{{</world>}}

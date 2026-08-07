@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - FUERTE EFECTO ANTIENVEJECIMIENTO - Mejora la síntesis de colágeno en la piel y restaura su elasticidad, lo que ayuda a formar una barrera de hidratación. Proporciona una hidratación duradera a la piel para mejorar la duración del maquillaje.
 - POROS NATURALMENTE INVISIBLES - Afina la textura de la piel, reduce la aparición de arrugas y proporciona la base perfecta para el maquillaje.
 - PARA TODAS LAS EDADES Y PIELES - Independientemente de la edad y el tipo de piel, la piel grasa se puede utilizar para hidratar y reducir la oleosidad , la piel seca se puede utilizar para fortalecer la piel hidratada.(Contenido del envase: 1x Moisturizing Balm)
-- CONTIENE INGREDIENTES BOTÁNICOS - Con extracto botánico natural que nutre profundamente la piel a la vez que mejora su estado natural. El ACEITE DE SEMILLAS DE SIMMONDSIA CHINENSIS (JOJOBA) regula la grasa y la humedad, nutre, hidrata y aumenta la hidratación de la piel. El ACEITE DE SEMILLAS DE LIMNANTHES ALBA (MEADOWFOAM) reconforta la piel y ayuda a restaurar la hidratación.
 - FÁCIL DE USAR - Se puede utilizar antes del maquillaje y después del cuidado de la piel.Aplicar suavemente sobre el rostro o zonas secas de la piel para una hidratación inmediata y una piel radiante.
+- CONTIENE INGREDIENTES BOTÁNICOS - Con extracto botánico natural que nutre profundamente la piel a la vez que mejora su estado natural. El ACEITE DE SEMILLAS DE SIMMONDSIA CHINENSIS (JOJOBA) regula la grasa y la humedad, nutre, hidrata y aumenta la hidratación de la piel. El ACEITE DE SEMILLAS DE LIMNANTHES ALBA (MEADOWFOAM) reconforta la piel y ayuda a restaurar la hidratación.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B9BR89TD{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- INGREDIENTES NATURALES: Elaborados con ingredientes naturales y colorantes certificados, los Cócteles Coppa ofrecen los mejores y más naturales cócteles listos para beber del mundo. ¡Cócteles deliciosos, frescos y de alta calidad en un instante!
-- COPPA COCKTAILS: Ayudamos a unir a la gente para celebrar la vida, el amor y los amigos con los cócteles más deliciosos del planeta. Contamos con más de 15 cócteles listos para beber se crea en colaboración con barmans galardonados de talla mundial
-- CÓCTEL: El Margarita es un cóctel popular, cuya mezcla de sabores y olores, lo han convertido en la primera elección de cualquier amante de los cócteles cuando quiere dar rienda suelta a la celebración.
 - MARGARITA: Cóctel clásico elaborado con tequila, licor, lima y sabores naturales. De sabor y olor agrio a tequila, lima y naranja. De aspecto incoloro turbio. Con 15% volumen de alcohol
+- COPPA COCKTAILS: Ayudamos a unir a la gente para celebrar la vida, el amor y los amigos con los cócteles más deliciosos del planeta. Contamos con más de 15 cócteles listos para beber se crea en colaboración con barmans galardonados de talla mundial
 - PRIMERA CALIDAD: Coppa Cocktails se convierte en la elección obvia para cócteles de primera calidad, de forma fácil. Sólo tienes que verter sus cócteles Coppa favoritos en el vaso de su elección con hielo y ¡a disfrutar!
+- INGREDIENTES NATURALES: Elaborados con ingredientes naturales y colorantes certificados, los Cócteles Coppa ofrecen los mejores y más naturales cócteles listos para beber del mundo. ¡Cócteles deliciosos, frescos y de alta calidad en un instante!
+- CÓCTEL: El Margarita es un cóctel popular, cuya mezcla de sabores y olores, lo han convertido en la primera elección de cualquier amante de los cócteles cuando quiere dar rienda suelta a la celebración.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09ZBGP79M{{</world>}}

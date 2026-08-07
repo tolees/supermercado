@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - LA PROTEÍNA MÁS COMPLETA. Combina concentrado de suero, proteína de leche y aislado de soja para ofrecer un aminograma completo con aminoácidos esenciales, favoreciendo una liberación progresiva de proteínas y un aporte nutricional sostenido a lo largo del día.
 - MODO DE EMPLEO. Mezclar 50 g con agua o leche y consumir entre comidas o tras el entrenamiento. Puede integrarse en una dieta equilibrada rica en frutas, verduras y grasas saludables, y combinarse con ejercicio regular para apoyar la salud muscular y el bienestar general.
-- IRON ADDICT LABS. marca de MasMusculo, sinónimo de rendimiento, trabajo y superación. Somos referentes en la elaboración y distribución de suplementos nutricionales y deportivos que te aportan un valor extra para cumplir tus objetivos en el gimnasio y en tu día a día.
 - ALTO VALOR NUTRICIONAL. Aporta hasta 35 g de proteína por servicio procedente de suero de leche, proteína de leche y proteína de soja, contribuyendo al crecimiento y mantenimiento de la masa muscular y al mantenimiento de los huesos en condiciones normales dentro de una dieta equilibrada.
 - FÁCIL DISGESTIÓN. Incluye complejo multienzimático que ayuda a mejorar la digestión y absorción de las proteínas, favoreciendo una mejor tolerancia digestiva y optimizando el aprovechamiento nutricional del suplemento.
+- IRON ADDICT LABS. marca de MasMusculo, sinónimo de rendimiento, trabajo y superación. Somos referentes en la elaboración y distribución de suplementos nutricionales y deportivos que te aportan un valor extra para cumplir tus objetivos en el gimnasio y en tu día a día.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0GRW55X38{{</world>}}

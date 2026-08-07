@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Resistente y con diseño funcional
+- resistente y con diseño funcional
 - Producto de alta calidad
 - Marca: Instituto Español
-- resistente y con diseño funcional
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B06XYW4TNJ{{</world>}}

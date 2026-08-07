@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Elaborada con ingredientes naturales
 - Perfecta para acompañar algo que picar a mediodía y con cualquier tipo de ensaladas
-- Con aroma ligero frutal, con cuerpo ligero y final amargo
 - Tiene un color dorado claro y una espuma blanca intensa, cremosa y persistente
 - Cerveza tipo lager y estilo rubia
+- Con aroma ligero frutal, con cuerpo ligero y final amargo
+- Elaborada con ingredientes naturales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B06W2FXPV4{{</world>}}

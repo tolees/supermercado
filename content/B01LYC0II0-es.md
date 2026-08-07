@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Protección anticaries
 - Pasta dental
-- Dentifrico
 - Con Flúor y Minerales que son suaves con el esmalte
-- Dientes más fuertes
+- Dentifrico
 - Dientes más blancos
+- Dientes más fuertes
+- Protección anticaries
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01LYC0II0{{</world>}}

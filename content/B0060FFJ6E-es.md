@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De la marca: Dolce & Gabbana
-- Producto de alta calidad
 - Oler bien
+- Producto de alta calidad
+- De la marca: Dolce & Gabbana
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0060FFJ6E{{</world>}}

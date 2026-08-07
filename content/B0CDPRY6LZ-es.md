@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- CUIDADO DEL CABELLO Y DEL CUERPO: El desenredante Revlon Professional Equave revitaliza la piel con un efecto resplandeciente y ayuda a mantener el brillo del cabello y el resplandor natural de la piel
 - FÁCIL DE USAR: El acondicionador desenredante de 3 fases puede aplicarse directamente sobre el cabello y peinarse, así como masajearse sobre el cuerpo, sin necesidad de aclararlo
 - NUTRICIÓN LIGERA: El acondicionador sin aclarado tiene un efecto nutritivo e hidratante que no apelmaza el cabello ni deja sensación grasa en la piel
-- CUIDADO DEL CABELLO Y DEL CUERPO: El desenredante Revlon Professional Equave revitaliza la piel con un efecto resplandeciente y ayuda a mantener el brillo del cabello y el resplandor natural de la piel
 - CONSEJO PRO: Agitar y pulverizar sobre el cabello y el cuerpo justo después de la ducha, donde la piel absorberá rápidamente todos sus beneficios. Nutrirás fácilmente y sin peso tu cabello y tu cuerpo con esta innovación multitarea.
 - EFECTO DESENREDANTE: Utilizar el desenredante nutritivo sin aclarado como primer paso en tu rutina de cuidado del cabello hace que sea hasta 7 veces más fácil de desenredar.
 

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- IDEALES PARA REPOSTERÍA CASERA: Úsalos en postres, tartas, pasteles, galletas, bombones y brownies o derrítelos para crear deliciosas coberturas y salsas de caramelo fundido. ¡No te podrás resistir!
-- FORMATO AHORRO MAXIPACK: La bolsa contiene caramelos envueltos individualmente; presentación higiénica y práctica para regalar, llevar, compartir en oficina o eventos. Cada unidad aporta aprox. 22 kcal.
-- SABOR CLÁSICO DESDE 1909: Caramelos duros de mantequilla y nata con la receta original alemana de Werther’s Original; un dulce tradicional y familiar para compartir que evoca recuerdos de infancia.
-- CON MANTEQUILLA Y NATA FRESCA: Elaborados con ingredientes cuidadosamente seleccionados para lograr un caramelo de sabor intenso y textura cremosa, ideal para disfrutar a diario u ofrecer a invitados
 - SIN GLUTEN Y APTOS PARA VEGETARIANOS: Más personas pueden disfrutarlos, incluidos celíacos y vegetarianos; no contienen gluten y son ideales como dulce o snack en cualquier ocasión. Contienen lactosa
+- SABOR CLÁSICO DESDE 1909: Caramelos duros de mantequilla y nata con la receta original alemana de Werther’s Original; un dulce tradicional y familiar para compartir que evoca recuerdos de infancia.
+- IDEALES PARA REPOSTERÍA CASERA: Úsalos en postres, tartas, pasteles, galletas, bombones y brownies o derrítelos para crear deliciosas coberturas y salsas de caramelo fundido. ¡No te podrás resistir!
+- CON MANTEQUILLA Y NATA FRESCA: Elaborados con ingredientes cuidadosamente seleccionados para lograr un caramelo de sabor intenso y textura cremosa, ideal para disfrutar a diario u ofrecer a invitados
+- FORMATO AHORRO MAXIPACK: La bolsa contiene caramelos envueltos individualmente; presentación higiénica y práctica para regalar, llevar, compartir en oficina o eventos. Cada unidad aporta aprox. 22 kcal.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00MQA9JO0{{</world>}}

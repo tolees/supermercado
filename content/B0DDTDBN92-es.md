@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- PRODUCCIÓN FAMILIAR Y SOSTENIBILIDAD: Todos los aceites DCOOP provienen de cosechas familiares, cultivadas por miles de familias de olivareros dedicados.
 - ESENCIA TRADICIONAL: Los aceites DCOOP capturan la tradición y el legado olivarero español, fusionando prácticas ancestrales con técnicas modernas para ofrecer un producto de alta calidad.
 - COUPAGE DE DISTINTAS VARIEDADES PROCEDENTES DE LAS PROVINCIAS DE CÓRDOBA, MÁLAGA Y JAÉN
 - COMPROMISO CON LA PUREZA: DCOOP se dedica a producir aceites de oliva 100% naturales, respetando el sabor auténtico de la aceituna y garantizando la máxima pureza en cada botella.
-- PRODUCCIÓN FAMILIAR Y SOSTENIBILIDAD: Todos los aceites DCOOP provienen de cosechas familiares, cultivadas por miles de familias de olivareros dedicados.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DDTDBN92{{</world>}}

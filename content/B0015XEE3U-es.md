@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Libre de alcalinos y parabenos, con pH5 para proteger cabello.
-- Sebamed 200ml: champú anticaspa para control efectivo de caspa grasa.
-- Contiene Piroctona Olamina, ideal para cabello graso con caspa.
-- Refuerza el manto ácido del cuero cabelludo, protegiendo la estructura capilar.
 - Fórmula suave: reduce picor e irritación del cuero cabelludo.
+- Contiene Piroctona Olamina, ideal para cabello graso con caspa.
+- Sebamed 200ml: champú anticaspa para control efectivo de caspa grasa.
+- Refuerza el manto ácido del cuero cabelludo, protegiendo la estructura capilar.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0015XEE3U{{</world>}}

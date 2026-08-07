@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CAFÉ EN GRANO: Dedicado a quienes disfrutan del café desde su preparación, cuidando también el grado de molienda. El café en grano es un auténtico viaje para descubrir el aroma de nuestra mezcla 100% Arábica
-- NUESTRO OBJETIVO: Seleccionamos solo el 1% de los granos de Arábica para garantizar un espresso sin imperfecciones, gracias a las relaciones que hemos forjado generación tras generación con los productores
 - CLASSICO: El perfil de tueste CLASSICO se caracteriza por delicadas notas de caramelo, azahar, jazmín y un sabor final dulce
-- SABOR: El café es 100% Arábica, adecuado para los amantes del café con un sabor suave
+- CAFÉ EN GRANO: Dedicado a quienes disfrutan del café desde su preparación, cuidando también el grado de molienda. El café en grano es un auténtico viaje para descubrir el aroma de nuestra mezcla 100% Arábica
 - TAMAÑO: La lata contiene 500 g de café tostado en grano CLASSICO. El proceso de presurización permite que los aromas de la mezcla permanezcan dentro de la lata illy
+- SABOR: El café es 100% Arábica, adecuado para los amantes del café con un sabor suave
+- NUESTRO OBJETIVO: Seleccionamos solo el 1% de los granos de Arábica para garantizar un espresso sin imperfecciones, gracias a las relaciones que hemos forjado generación tras generación con los productores
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D6RTTM4K{{</world>}}

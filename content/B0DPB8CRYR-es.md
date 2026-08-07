@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tiene detalles distintivos de la marca
-- Sudadera con capucha
 - Estilo informal
+- Sudadera con capucha
+- Tiene detalles distintivos de la marca
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DPB8CRYR{{</world>}}

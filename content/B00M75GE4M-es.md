@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- RECOMENDACIONES: No superar la dosis diaria recomendada. Consulte a su médico antes de usar este producto. No recomendado en caso de hipersensibilidad o alergia a cualquiera de los ingredientes contenidos en la formulación. El efecto beneficioso se obtiene con una ingesta de 1ml de melatonina, un poco antes de ir a dormir. Los complementos alimenticios no deben utilizarse como sustituto de una dieta variada y equilibrada y un estilo de vida sano.
-- UTILIDAD: La melatonina ayuda a disminuir el tiempo necesario para conciliar el sueño y a la regulación del ritmo circadiano. En aquellos casos que se requiera controlar los ciclos sueño-vigilia, cambios de rutinas, estados de estrés, evitar trastornos horarios producidos por el jet-lag.
-- FÓRMULA: Melatonina 99% pura; sin gluten, sin trazas de soja, ni lactosa. 4 gotas (0,17 ml) de Melamil contienen 1 mg de melatonina. La melatonina es una molécula que se produce de forma natural en el cuerpo y regula el ciclo del sueño.
 - CONCILIACIÓN DEL SUEÑO: La melatonina contribuye a disminuir el tiempo necesario para conciliar el sueño. Melamil es un complemento alimenticio diseñado para niños pero ideal para toda la familia.
 - DOSIFICACIÓN FÁCIL Y A MEDIDA: 4 gotas una vez al día. Tomar 30 minutos antes de dormir. No crea dependencia y es segura de utilizar a corto y largo plazo.
+- FÓRMULA: Melatonina 99% pura; sin gluten, sin trazas de soja, ni lactosa. 4 gotas (0,17 ml) de Melamil contienen 1 mg de melatonina. La melatonina es una molécula que se produce de forma natural en el cuerpo y regula el ciclo del sueño.
+- RECOMENDACIONES: No superar la dosis diaria recomendada. Consulte a su médico antes de usar este producto. No recomendado en caso de hipersensibilidad o alergia a cualquiera de los ingredientes contenidos en la formulación. El efecto beneficioso se obtiene con una ingesta de 1ml de melatonina, un poco antes de ir a dormir. Los complementos alimenticios no deben utilizarse como sustituto de una dieta variada y equilibrada y un estilo de vida sano.
+- UTILIDAD: La melatonina ayuda a disminuir el tiempo necesario para conciliar el sueño y a la regulación del ritmo circadiano. En aquellos casos que se requiera controlar los ciclos sueño-vigilia, cambios de rutinas, estados de estrés, evitar trastornos horarios producidos por el jet-lag.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00M75GE4M{{</world>}}

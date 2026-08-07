@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con una graduación de 45º, este bourbon Premium resulta suave, dulce y aromático
 - Se sumergen a mano en cera roja para sellarla y crear la marca roja característica de Maker´s Mark
-- Acabado más suave en la parte delantera de la lengua y envejecido para asegurar la consistencia y suavidad
-- Sabor dulce y equilibrado con caramelo, vainilla y esencia de frutas
 - Hechado de al menos 51 percent de maiz y envejecido en barricas nuevas de roble blanco chamuscado
+- Sabor dulce y equilibrado con caramelo, vainilla y esencia de frutas
+- Con una graduación de 45º, este bourbon Premium resulta suave, dulce y aromático
+- Acabado más suave en la parte delantera de la lengua y envejecido para asegurar la consistencia y suavidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B003ZINBLE{{</world>}}

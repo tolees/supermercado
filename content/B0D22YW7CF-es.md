@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Para compartir o disfrutar en solitario: ya sea en una reunión con amigos o simplemente para consentirte a ti mismo, nuestras galletas son el complemento optimo para cualquier ocasión
-- 100% cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan, Certificado Rainforest Alliance
-- Barrita individual de 30 g
-- Optima para un snack o un postre en cualquier momento del día
 - Deliciosa galleta con relleno cremoso: disfruta de una galleta cubierta con un suave y cremoso relleno, optima para satisfacer tus antojos dulces
+- Barrita individual de 30 g
+- 100% cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan, Certificado Rainforest Alliance
+- Para compartir o disfrutar en solitario: ya sea en una reunión con amigos o simplemente para consentirte a ti mismo, nuestras galletas son el complemento optimo para cualquier ocasión
+- Optima para un snack o un postre en cualquier momento del día
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D22YW7CF{{</world>}}

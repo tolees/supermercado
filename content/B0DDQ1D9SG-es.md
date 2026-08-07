@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CALIDAD GARANTIZADA: Compromiso con la excelencia, asegurando un aceite virgen extra de alta calidad, fruto de la pasión y esfuerzo de los agricultores.
-- COMPROMISO CON LA PUREZA: DCOOP se dedica a producir aceites de oliva 100% naturales, respetando el sabor auténtico de la aceituna y garantizando la máxima pureza en cada botella.
 - PRODUCCIÓN FAMILIAR Y SOSTENIBILIDAD: Todos los aceites DCOOP provienen de cosechas familiares, cultivadas por miles de familias de olivareros dedicados.
+- CALIDAD GARANTIZADA: Compromiso con la excelencia, asegurando un aceite virgen extra de alta calidad, fruto de la pasión y esfuerzo de los agricultores.
 - CERTIFICADO PRODUCTO SOSTENIBLE: producto certificado por SCS como sostenible. Esta certificación reconoce los productos agrícolas que cumplen con rigurosas normas de protección del medio ambiente, producción ética, cumplimiento social, calidad e inocuidad alimentaria.
 - ESENCIA TRADICIONAL: Los aceites DCOOP capturan la tradición y el legado olivarero español, fusionando prácticas ancestrales con técnicas modernas para ofrecer un producto de alta calidad.
+- COMPROMISO CON LA PUREZA: DCOOP se dedica a producir aceites de oliva 100% naturales, respetando el sabor auténtico de la aceituna y garantizando la máxima pureza en cada botella.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DDQ1D9SG{{</world>}}

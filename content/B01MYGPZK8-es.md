@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Vollmundig, milder Genuss.
-- 100% Arabica
-- Erlebe Café Creme, wie er sein sollte. Mild und vollmundig im Geschmack. Ideal für puren Kaffeegenuss oder verfeinert als Café au Lait..
 - Bestens geeignet für Kaffeevollautomaten & Kaffeefilter
 - Für diese Röstung verwenden wir die besten Bohnen aus Südarmerika & Asien; schonendes Langzeitröstverfahren
+- 100% Arabica
+- Erlebe Café Creme, wie er sein sollte. Mild und vollmundig im Geschmack. Ideal für puren Kaffeegenuss oder verfeinert als Café au Lait..
+- Vollmundig, milder Genuss.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01MYGPZK8{{</world>}}

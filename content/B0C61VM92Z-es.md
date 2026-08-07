@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - CHOCOLATES ORIGINALES PARA REGALAR: Este cacao en polvo es perfecto para regalar entre amigos, pareja y familia. Es un regalo de calidad dado que en Marcos Tonda se caracteriza por cuidar la calidad de su producto.
 - SIN GLUTEN: Chocolates Marcos Tonda es heredera del prestigio de una familia tradicionalmente chocolatera, vinculada con el sector desde el año 1793. Por eso este cacao en polvo es perfecto para celiacos dado que no contiene gluten.
 - CACAO PURO EN POLVO: Este es un chocolate en polvo con un alto porcentaje de cacao puro en polvo y es de los mayores porcentajes de cacao en polvo del mercado.
-- CHOCOLATE ALICANTINO: El producto de chocolate a la taza esta hecho en Alicante mas concretamente en la Villajoyosa.
 - PREPARACIÓN: La preparación de este cacao puro en polvo es sencillo, calienta la leche y cuando esté tibia añade nuestro cacao a la taza, unos 40g por 200ml. Remueve el chocolate en polvo a fuego lento y retíralo antes de que empiece a hervir.
+- CHOCOLATE ALICANTINO: El producto de chocolate a la taza esta hecho en Alicante mas concretamente en la Villajoyosa.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C61VM92Z{{</world>}}

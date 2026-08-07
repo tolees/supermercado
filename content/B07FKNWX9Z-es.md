@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PROTEÍNA VEGANA 3k: 🥇 alta concentración de proteína vegetal de más del 76%, procedente de una combinación de proteína de guisante, arroz y semillas de cáñamo. Baja en carbohidratos y rica en enzimas, vitaminas y minerales
 - NATURALMENTE SANA: proteína en polvo de fresa sin gluten, sin lactosa y sin azúcar. Endulzada con fresa, frambuesa y remolacha para ofrecerte una alternativa saludable a las proteínas artificiales. Cambia lo que comes y cambiarás el mundo
+- PROTEÍNA VEGANA 3k: 🥇 alta concentración de proteína vegetal de más del 76%, procedente de una combinación de proteína de guisante, arroz y semillas de cáñamo. Baja en carbohidratos y rica en enzimas, vitaminas y minerales
+- ¿CÓMO TOMARLA? Añade agua, leche o bebida vegetal, agita tu shaker y tu batido de proteínas estará listo. Úsala como ingrediente para tortitas, galletas y bizcochos. Puedes mezclara con la avena BIO NATRULY para hacerla aún más completa
 - ¿POR QUÉ ESTA PROTEÍNA ES DIFERENTE?: todos los ingredientes de nuestra proteína vegana son 100% naturales, sin aditivos artificiales perjudiciales. Un aporte extra de nutrientes para el tejido muscular. La alimentación natural ya no es una excepción
 - PROTEÍNA VEGANA ECOLÓGICA: los ingredientes de la proteína NATRULY provienen de agricultura orgánica, sin pesticidas ni otros químicos y respetando su crecimiento natural. ¡Salvemos la naturaleza comiéndonosla!
-- ¿CÓMO TOMARLA? Añade agua, leche o bebida vegetal, agita tu shaker y tu batido de proteínas estará listo. Úsala como ingrediente para tortitas, galletas y bizcochos. Puedes mezclara con la avena BIO NATRULY para hacerla aún más completa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07FKNWX9Z{{</world>}}

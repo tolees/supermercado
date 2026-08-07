@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Apta para veganos
 - Deliciosa bebida de soja barista con calcio y vitaminas añadidas
 - Naturalmente sin lactosa; fuente de calcio y vitaminas B2, B12 y vitamina D
+- Apta para veganos
 - Fuente de proteína vegetal, fibra y naturalmente baja en grasas saturadas
 - Soja de cultivos responsables y libre de GMO; certificada por ProTerra
 

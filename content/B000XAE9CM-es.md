@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con camarones de arroyo (Gammarus) enteros - asegura una dieta saludable y acorde con la especie
 - Rico en minerales naturales y en materia inerte
-- Dejado en su estado natural, envasado higiénicamente limpio y sin gérmenes; se complementa a la perfección con el alimento para tortugasTetra ReptoMin
 - Valioso alimento natural para turtugas acuáticas
+- Dejado en su estado natural, envasado higiénicamente limpio y sin gérmenes; se complementa a la perfección con el alimento para tortugasTetra ReptoMin
+- Con camarones de arroyo (Gammarus) enteros - asegura una dieta saludable y acorde con la especie
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B000XAE9CM{{</world>}}

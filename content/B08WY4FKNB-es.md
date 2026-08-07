@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Huele irresistible durante 48 horas gracias al componente antiolor Zinc Complex
-- Vibrante fragancia inspirada en la brisa marina: de bergamota y limón, con un corazón tonificante de albahaca, geranio, lavanda y clavo.
-- Aplicación: Vaporizar manteniendo el spray a 15cm de tu piel
-- ¡Prueba toda la nueva gama Axe!
-- Fórmula sin aluminio
 - Con Tecnología Dual Action: Elimina el mal olor, fragancias irresistibles.
+- ¡Prueba toda la nueva gama Axe!
+- Aplicación: Vaporizar manteniendo el spray a 15cm de tu piel
+- Huele irresistible durante 48 horas gracias al componente antiolor Zinc Complex
+- Fórmula sin aluminio
+- Vibrante fragancia inspirada en la brisa marina: de bergamota y limón, con un corazón tonificante de albahaca, geranio, lavanda y clavo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08WY4FKNB{{</world>}}

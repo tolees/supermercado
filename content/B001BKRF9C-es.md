@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Marca: Clinique
-- Tipo de producto: Polvos compactos
 - Productos de belleza y el cuidado personal
+- Tipo de producto: Polvos compactos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B001BKRF9C{{</world>}}

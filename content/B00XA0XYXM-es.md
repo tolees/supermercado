@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Su formato mini es perfecto para niños y adultos, ofreciendo el sabor clásico de Príncipe en un tamaño práctico y cómodo para llevar
+- Príncipe es una marca icónica que combina sabor y calidad desde hace generaciones, creando galletas que acompañan los momentos dulces del día a día
 - Pack 4 × 40 g ideal para mochilas, bolsos o meriendas escolares; perfecto para compartir en familia, llevar al trabajo o disfrutar en cualquier ocasión
 - Galletas Príncipe Mini con crujiente oblea sándwich y cremoso relleno de chocolate con leche; tamaño ideal para picar entre horas, desayunar o disfrutar en la merienda
 - Deliciosas solas o acompañadas de leche, cacao, café o té; también pueden usarse como topping en postres, helados o recetas creativas
-- Príncipe es una marca icónica que combina sabor y calidad desde hace generaciones, creando galletas que acompañan los momentos dulces del día a día
-- Su formato mini es perfecto para niños y adultos, ofreciendo el sabor clásico de Príncipe en un tamaño práctico y cómodo para llevar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XA0XYXM{{</world>}}

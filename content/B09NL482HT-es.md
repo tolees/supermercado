@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- SURTIDO PREMIUM | Disfruta de de una selección única de bombones de chocolate blanco rellenos de crema de fresa y de gelatina de frutos del bosque, una combinación única y deliciosa.
-- APTO PARA CELIACOS | Producto sin gluten y libre de aceite de palma, ideal para quienes buscan calidad y cuidado en cada bocado.
-- FORMATO | Caja de 105 g, perfecto para regalar, compartir en celebraciones o incluir en cestas gourmet.
 - INGREDIENTES SELECCIONADOS | Elaborados con azúcar, pasta de frutos del bosque (18%) (azúcar, jarabe de glucosa-fructosa, agua, mora, frambuesa, grosella, fresa, almidón de maíz modificado, gelificante, productos alimenticios colorantes, correctores de acidez, aroma, colorante (caramelo amónico), conservador (sorbato potásico)), manteca de cacao, LECHE en polvo, grasas y aceites vegetales (coco y girasol), suero de LECHE en polvo, LECHE desnatada en polvo, frutas del bosque en polvo (0,6%), MANTEQUILLA, emulgente (lecitina de SOJA), aromas. Puede contener FRUTOS DE CÁSCARA. Sin gluten. Consultar listado completo de ingredientes y alérgenos en la imagen trasera del producto.
+- APTO PARA CELIACOS | Producto sin gluten y libre de aceite de palma, ideal para quienes buscan calidad y cuidado en cada bocado.
+- SURTIDO PREMIUM | Disfruta de de una selección única de bombones de chocolate blanco rellenos de crema de fresa y de gelatina de frutos del bosque, una combinación única y deliciosa.
 - CHOCOLATES TRAPA | fundada en 1891, es una de las marcas más icónicas de España. Empresa pionera y 100% española que, desde 2013, apuesta por innovación, diseño y compromiso social y medioambiental. Hoy, Trapa ofrece una amplia gama de chocolates, bombones y turrones premium, ideales para regalar, disfrutar en cualquier ocasión y crear momentos únicos.
+- FORMATO | Caja de 105 g, perfecto para regalar, compartir en celebraciones o incluir en cestas gourmet.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09NL482HT{{</world>}}

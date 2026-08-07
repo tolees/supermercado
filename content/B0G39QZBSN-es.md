@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PRESENTACIÓN PRÁCTICA Y EXCLUSIVA | Formato en 2 tabletas de 100 g con diseño hexagonal que facilita el corte y el consumo, además de una presentación elegante perfecta para regalar o disfrutar en momentos especiales
-- CALIDAD SUPREMA CERTIFICADA | Elaborado en Jijona, con materias primas seleccionadas y controles estrictos. Vida útil máxima de 18 meses y parámetros microbiológicos dentro de los estándares de Calidad Suprema que garantiza 1880
+- RECETA DE AUTOR | Nueva creación de la gama Chocolates de Autor 1880, donde la tradición jijonenca se fusiona con sabores inspirados en Oriente Medio. Un turrón innovador que combina chocolate con leche, pistacho y masa kataifi en una experiencia gourmet única
 - SABOR EXÓTICO Y EQUILIBRADO | Las notas del pistacho tostado, el dulzor del chocolate con leche y el crujido de la kataifi logran un contraste elegante y sorprendente. Una propuesta moderna dentro de la tradición 1880, pensada para amantes del chocolate que buscan algo diferente.
 - ELABORACIÓN ARTESANAL | Su interior está elaborado con crema de pistacho, mientras que la textura crujiente proviene de la masa kataifi tostada. Todo ello envuelto en una coquilla de chocolate con leche. La combinación aporta una textura suave por dentro y un mordisco crujiente por fuera
-- RECETA DE AUTOR | Nueva creación de la gama Chocolates de Autor 1880, donde la tradición jijonenca se fusiona con sabores inspirados en Oriente Medio. Un turrón innovador que combina chocolate con leche, pistacho y masa kataifi en una experiencia gourmet única
+- PRESENTACIÓN PRÁCTICA Y EXCLUSIVA | Formato en 2 tabletas de 100 g con diseño hexagonal que facilita el corte y el consumo, además de una presentación elegante perfecta para regalar o disfrutar en momentos especiales
+- CALIDAD SUPREMA CERTIFICADA | Elaborado en Jijona, con materias primas seleccionadas y controles estrictos. Vida útil máxima de 18 meses y parámetros microbiológicos dentro de los estándares de Calidad Suprema que garantiza 1880
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0G39QZBSN{{</world>}}

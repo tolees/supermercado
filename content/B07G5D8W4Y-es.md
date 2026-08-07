@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Graduación alcoholica: 37,5º
 - Masters Pink es una ginebra rosa elaborada con aromas naturales de fresa y frambuesa
-- A esta base se añaden aromas naturales de fresa y frambuesa extraidos a partir de la maceración de frutos rojos en alcohol de cereales
 - En su producción se utiliza como base Masters GIN, una ginebra tridestilada de alta calidad, que cuenta con 5 botánicos principales: Enebro, coriandro, cardamomo, limón y naranja
+- A esta base se añaden aromas naturales de fresa y frambuesa extraidos a partir de la maceración de frutos rojos en alcohol de cereales
+- Graduación alcoholica: 37,5º
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07G5D8W4Y{{</world>}}

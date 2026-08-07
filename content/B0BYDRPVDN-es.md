@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Notas de salida: limón, grosella y frambuesa
-- Tipo: intensa y femenina
 - Notas de corazón: cardamomo, jengibre, pimienta rosa, tuberrosa, ylang
 - Para: ella
+- Tipo: intensa y femenina
 - Familia olfativa: floral
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

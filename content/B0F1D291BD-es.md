@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- FÓRMULA VEGANA: nuestras fórmulas son 100% VEGANAS, es decir, no contienen ingredientes de origen animal. Delicadas y seguras, están diseñadas con atención tanto para los niños como para el planeta. Disfruten de los deliciosos aromas y las texturas divertidas haciendo una elección más amable. Limpias, frescas y fragantes para el uso diario.
-- Botella de 250 ml
-- Perfume irresistible de chicle de sandía
-- Transforma el momento del baño/ducha en puro placer y diversión: Canta, peina y dúchate como una estrella. Este champú y acondicionador 2 en 1 es ideal para los niños que quieren tener un cabello espléndido sin perder tiempo. Con un solo gesto, limpia, suaviza y desenreda el cabello, dejándolo fresco, liso y listo para peinar: perfecto para las pequeñas popstars siempre en movimiento.
 - Champú y acondicionador 2 en 1, para un cabello fragante y fácil de peinar. Para niños y adolescentes.
+- Perfume irresistible de chicle de sandía
+- Botella de 250 ml
+- Transforma el momento del baño/ducha en puro placer y diversión: Canta, peina y dúchate como una estrella. Este champú y acondicionador 2 en 1 es ideal para los niños que quieren tener un cabello espléndido sin perder tiempo. Con un solo gesto, limpia, suaviza y desenreda el cabello, dejándolo fresco, liso y listo para peinar: perfecto para las pequeñas popstars siempre en movimiento.
+- FÓRMULA VEGANA: nuestras fórmulas son 100% VEGANAS, es decir, no contienen ingredientes de origen animal. Delicadas y seguras, están diseñadas con atención tanto para los niños como para el planeta. Disfruten de los deliciosos aromas y las texturas divertidas haciendo una elección más amable. Limpias, frescas y fragantes para el uso diario.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F1D291BD{{</world>}}

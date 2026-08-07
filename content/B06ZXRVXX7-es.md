@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Formato pack ahorro: Pack de 6 unidades de 500 ml, perfecto para uso frecuente y mayor comodidad en el día a día.
 - Combate el mal aliento: Ayuda a reducir la halitosis, proporcionando un aliento fresco y agradable durante más tiempo.
+- Formato pack ahorro: Pack de 6 unidades de 500 ml, perfecto para uso frecuente y mayor comodidad en el día a día.
 - Frescura ártica intensa: Enjuague bucal con sabor refrescante que proporciona una sensación de limpieza y frescor duradero tras cada uso.
 - Uso diario para una higiene completa: Ideal para complementar el cepillado, ayudando a mantener la boca limpia y protegida.
 - Acción antiséptica y bactericida: Fórmula diseñada para ayudar a eliminar bacterias responsables del mal aliento, contribuyendo a una higiene bucal completa.

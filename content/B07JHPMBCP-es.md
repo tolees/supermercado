@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - RON ABUELO XV FC OLOROSO: Una experiencia de sabor intrigante y memorable. Al olerlo, se perciben aromas de cáscaras de cítricos frescos y madera ahumada. En boca, se aprecian sabores de cítricos y almendras tostadas, y su final es largo y agradable que destaca por notas a frutos secos.
-- RON ABUELO XV FC TAWNY: cautivador color caoba roja que preludia su riqueza sensorial. En el paladar, despliega un gusto denso y opulento que seduce con notas de fruta madura y un final de madera distintivo.
 - RON ABUELO XV FC NAPOLEÓN: Los barriles de roble francés ex-cognacs dan un sabor y aroma que es muy delicado y complejo, con su característica dulzura y sabor de fruta. En nariz tiene notas de madera, fruta y un toque de cacao. En paladar tiene matices a fruta seca y madera. Presenta un acabado elegante y persistente.
 - DESDE 1908: resultado de un meticuloso proceso de elaboración que combina los elementos naturales de Panamá, como el clima tropical y la caña de azúcar de alta calidad, para crear destilados excepcionales.
 - ESTUCHE 3 RONES: Reunimos en esta colección las tres expresiones de nuestra “Finish Collection”. Se trata de rones que han envejecido durante 14 años en barricas de roble blanco americano y posteriormente envejecen un año más en barricas que han contenido vino de jeréz (Oloroso), Coñac (Napoleón) y Oporto (Tawny) respectivamente
+- RON ABUELO XV FC TAWNY: cautivador color caoba roja que preludia su riqueza sensorial. En el paladar, despliega un gusto denso y opulento que seduce con notas de fruta madura y un final de madera distintivo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07JHPMBCP{{</world>}}

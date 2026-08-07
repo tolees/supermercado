@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- RECOMENDACIONES Para complementar tu rutina de cuidado con Green Tea Pistachio Crunch Honey Drops, se recomienda usar el perfume Green Tea Pistachio. Disfruta de una experiencia sensorial completa con la frescura revitalizante del té verde.
-- NOTAS DE CORAZÓN: Acorde de té verde, Heliotropo, Magnolia, Agua de rosas reciclada
-- NOTAS DE FONDO: Absoluto de vainilla de Madagascar, Ámbar blanco, Azúcar moreno, Acorde de mazapán, Almizcle
-- CONSEJOS DE USO Aplica la crema generosamente sobre la piel limpia y seca, masajeando suavemente hasta que se absorba completamente, úsala diariamente, preferiblemente después del baño o la ducha.
 - NOTAS DE SALIDA: Aceite de bergamota de Italia*, Pistacho, Acorde de cáscara de pistacho
+- NOTAS DE CORAZÓN: Acorde de té verde, Heliotropo, Magnolia, Agua de rosas reciclada
+- CONSEJOS DE USO Aplica la crema generosamente sobre la piel limpia y seca, masajeando suavemente hasta que se absorba completamente, úsala diariamente, preferiblemente después del baño o la ducha.
+- RECOMENDACIONES Para complementar tu rutina de cuidado con Green Tea Pistachio Crunch Honey Drops, se recomienda usar el perfume Green Tea Pistachio. Disfruta de una experiencia sensorial completa con la frescura revitalizante del té verde.
+- NOTAS DE FONDO: Absoluto de vainilla de Madagascar, Ámbar blanco, Azúcar moreno, Acorde de mazapán, Almizcle
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DV5PHCQZ{{</world>}}

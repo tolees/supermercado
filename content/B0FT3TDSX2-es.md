@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ADIÓS A LA SAL HÚMEDA: A diferencia de los saleros convencionales, la tapa de madera de acacia incorpora una junta de silicona extraíble. Crea un sellado perfecto que mantiene la sal o especias libres de humedad y apelmazamientos.
-- VERSATILIDAD TOTAL: Más que un salero. Su diseño minimalista lo convierte en el tarro perfecto para usar como azucarero, especiero, bote para café o snacks. Disponible en Blanco Brillo y Negro Mate.
-- ACCESO CÓMODO BOCA ANCHA: Diseñado para el ritmo real de la cocina. Su amplia apertura de 11.5 cm permite meter la mano para coger una pizca de sal o usar cucharas medidoras grandes sin derramar nada.
-- COLECCIÓN CURVE: Parte de la línea Kook Time CURVE. Crea una cocina de revista combinándolo con el bote para ajos, portautensilios, dispensadores de jabón y la bandeja organizadora a juego.
 - MATERIALES Y LIMPIEZA: Cuerpo de cerámica de alta resistencia, apto para lavavajillas. La tapa de madera de acacia natural debe limpiarse con un paño húmedo para conservar su belleza (no apta para lavavajillas).
+- VERSATILIDAD TOTAL: Más que un salero. Su diseño minimalista lo convierte en el tarro perfecto para usar como azucarero, especiero, bote para café o snacks. Disponible en Blanco Brillo y Negro Mate.
+- COLECCIÓN CURVE: Parte de la línea Kook Time CURVE. Crea una cocina de revista combinándolo con el bote para ajos, portautensilios, dispensadores de jabón y la bandeja organizadora a juego.
+- ADIÓS A LA SAL HÚMEDA: A diferencia de los saleros convencionales, la tapa de madera de acacia incorpora una junta de silicona extraíble. Crea un sellado perfecto que mantiene la sal o especias libres de humedad y apelmazamientos.
+- ACCESO CÓMODO BOCA ANCHA: Diseñado para el ritmo real de la cocina. Su amplia apertura de 11.5 cm permite meter la mano para coger una pizca de sal o usar cucharas medidoras grandes sin derramar nada.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FT3TDSX2{{</world>}}

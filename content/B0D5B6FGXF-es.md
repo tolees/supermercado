@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DESCUBRE LAS CÁPSULAS DE SÉRUM DE CERAMIDAS CON RETINOL + HPR un retinol de nueva generación con alta eficacia pero suficientemente suave para uso diurno y nocturno y para quienes usan retinol por primera vez
 - INGREDIENTES SELECCIONADOS Retinol+HPR Complex: complejo de retinoides de alta eficacia; Combinación de péptidos que ayudan a alisar visiblemente las líneas de expresión, arrugas y contribuyen a refozar el colágeno de la piel; Fitoceramidas, que fortalecen la barrera cutánea y aumentan los niveles de hidratación; y, Bisabolol + Avena que calman, suavizan y acondicionan la piel
+- SÉRUM ALISADOR DE ARRUGAS CON RETINOL DE ALTA EFICACIA que reduce visiblemente las arrugas en una semana,minimiza el aspecto de los poros, mejora la firmeza, unifica el tono y potencia la luminosidad de la piel
+- DESCUBRE LAS CÁPSULAS DE SÉRUM DE CERAMIDAS CON RETINOL + HPR un retinol de nueva generación con alta eficacia pero suficientemente suave para uso diurno y nocturno y para quienes usan retinol por primera vez
 - CÁPSULAS MONODOSIS QUE PROPORCIONAN UNA FÓRMULA DE MÁXIMA PUREZA Aporta a la piel una combinación de retinoides de alta eficacia en dosis precisas para una mayor potencia y resultados visibles más rápidos
 - CONSEJOS DE USO Se recomienda utilizar una cápsula por la noche y/o por la mañana sobre la piel limpia y seca. Para abrir la cápsula, girar la lengüeta. Presionar la cápsula para liberar el sérum. Extender con delicadeza sobre la piel de rostro, cuello y escote, evitando el contorno de los ojos, y realizar un suave masaje hasta su completa absorción
-- SÉRUM ALISADOR DE ARRUGAS CON RETINOL DE ALTA EFICACIA que reduce visiblemente las arrugas en una semana,minimiza el aspecto de los poros, mejora la firmeza, unifica el tono y potencia la luminosidad de la piel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D5B6FGXF{{</world>}}

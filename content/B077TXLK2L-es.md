@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ⭐DAMM CERVEZAS - Fundada en 1876, la intencionalidad de Damm es unir la pasión por sus productos y por el territorio para mejorar los momentos de disfrute de las personas.
 - 🍺 XIBECA - Cerveza única desde 1931, conocida por su refrescancia y autenticidad.
-- 🌾 AROMA ÚNICA- Su proceso de elaboración cuidadosamente seleccionado contribuye a un perfil aromático que complementa su sabor suave y equilibrado.
-- ❄️FORMATO Y CONSUMO - Pack de 24 latas de 33 cl. Consumirla entre unos 4-6ºC para poder disfrutar de su sabor y carácter refrescante.
+- ⭐DAMM CERVEZAS - Fundada en 1876, la intencionalidad de Damm es unir la pasión por sus productos y por el territorio para mejorar los momentos de disfrute de las personas.
 - 🍃 SABOR - Agradable y buen equilibrio en boca, elaborada según una receta tradicional que garantiza una experiencia gustativa única.
+- ❄️FORMATO Y CONSUMO - Pack de 24 latas de 33 cl. Consumirla entre unos 4-6ºC para poder disfrutar de su sabor y carácter refrescante.
+- 🌾 AROMA ÚNICA- Su proceso de elaboración cuidadosamente seleccionado contribuye a un perfil aromático que complementa su sabor suave y equilibrado.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B077TXLK2L{{</world>}}

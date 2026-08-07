@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Elegante y equilibrado, con matices a frutas rojas y negras y especias; en el paladar, notas de fruta madura y chocolate negro; taninos suaves y redondeados, con un acabado prolongado y persistente
-- Ubicada en la región española de tierra de castilla, nuestra propiedad en malpica de tajo es el viñedo familiar más grande en una única finca de toda europa
 - Intenso color rojo granate, nítido y brillante
-- Graduación alcohólica: 13%vol.
 - Un vino versátil y fácil de beber que marida extraordinariamente con una amplia variedad de platos
+- Ubicada en la región española de tierra de castilla, nuestra propiedad en malpica de tajo es el viñedo familiar más grande en una única finca de toda europa
+- Elegante y equilibrado, con matices a frutas rojas y negras y especias; en el paladar, notas de fruta madura y chocolate negro; taninos suaves y redondeados, con un acabado prolongado y persistente
+- Graduación alcohólica: 13%vol.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08QPHTLBT{{</world>}}

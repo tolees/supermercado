@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hidratación profunda
 - Para toda la familia
+- Hidratación profunda
 - Regenerador natural
 - Aloe vera 100% natural
 

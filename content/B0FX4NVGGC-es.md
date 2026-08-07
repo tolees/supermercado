@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Fragancia Nenuco. Infusionado con 2 veces más aceites esenciales naturales* (*vs Airwick Active Fresh Fragancias base)
-- Recambio para 24/7 Spray Automático Active Fresh: nuestra nueva y mejor teconologia que combate sin esfuerzo los malos olores, con fragancias sin aerosol.
 - Libre de ftalatos, propulsores y colorantes.
+- Recambio para 24/7 Spray Automático Active Fresh: nuestra nueva y mejor teconologia que combate sin esfuerzo los malos olores, con fragancias sin aerosol.
 - Larga duración: cada recambio dura hasta 70 días (basado en la configuración más baja)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La base de las recetas mexicanas más conocidas: fajitas y burritos
-- Textura tierna y flexible para que puedas enrollarlas a tu gusto
 - Aptas para vegetarianos
+- Textura tierna y flexible para que puedas enrollarlas a tu gusto
+- La base de las recetas mexicanas más conocidas: fajitas y burritos
 - Sin conservantes
 - Las tortillas de Old El Paso se caracterizan por su magnífico sabor y calidad
 

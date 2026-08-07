@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cerveza negra y ligera; con gusto y aroma a café y cacao, y ligero amargor torrefacto
-- La Sagra Mulata. Cerveza estilo Porter Ale. - Alc. 5% Vol. - Caja con 12 botellas de 330 ml
-- Como servir: Servir entre 3 y 6
-- Procedencia: Spain
 - Ingredientes: agua, malta de cebada, lúpulo y levadura. 100 ml: 351 kj / 84 kcal
+- Cerveza negra y ligera; con gusto y aroma a café y cacao, y ligero amargor torrefacto
+- Como servir: Servir entre 3 y 6
 - Caja de 12 botellas de 33cl
+- La Sagra Mulata. Cerveza estilo Porter Ale. - Alc. 5% Vol. - Caja con 12 botellas de 330 ml
+- Procedencia: Spain
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08P4FJ85S{{</world>}}

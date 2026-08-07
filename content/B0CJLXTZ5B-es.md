@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tamaño: 14,5 pulgadas de altura (36,8 cm)
 - La lámpara LAVA emite una luz suave y cálida y produce imágenes hipnóticas de cera en movimiento que sube y baja suavemente por el icónico globo de cristal
-- La 2047 es una lámpara Aurora Boreal LAVA con cera morada en un líquido azul verdoso y una marca decorativa sobre una base y una tapa de aluminio
 - Ilumina tu estado de ánimo con estilos para cualquier habitación y personalidad
+- Tamaño: 14,5 pulgadas de altura (36,8 cm)
+- La 2047 es una lámpara Aurora Boreal LAVA con cera morada en un líquido azul verdoso y una marca decorativa sobre una base y una tapa de aluminio
 - Base de calcomanía elegante.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

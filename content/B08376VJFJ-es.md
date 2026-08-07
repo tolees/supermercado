@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Primer paso para una piel hermosa: tu piel se limpiará y refrescará a fondo con la reducción de la producción de sebo. Perfectamente preparado para el maquillaje
 - Delicado cosmético agradable al tacto que elimina el maquillaje sin irritar ni ruborizarse. Limpia y normaliza
-- Ingredientes de Puryfing: extracto de té verde (mejora el equilibrio de humedad de la piel), aceite de aguacate (evita que tu piel se seque), extracto de salvia (hace que los poros sean menos visibles)
-- Limpieza profunda: el agua micelar está diseñada para lavar incluso cosméticos impermeables, ya que penetra profundamente en las capas de la piel, eliminando cualquier suciedad y maquillaje
 - Extracto de té verde: agua micelar profundamente purificante con extracto de té verde para cara, labios y ojos
+- Ingredientes de Puryfing: extracto de té verde (mejora el equilibrio de humedad de la piel), aceite de aguacate (evita que tu piel se seque), extracto de salvia (hace que los poros sean menos visibles)
+- Primer paso para una piel hermosa: tu piel se limpiará y refrescará a fondo con la reducción de la producción de sebo. Perfectamente preparado para el maquillaje
+- Limpieza profunda: el agua micelar está diseñada para lavar incluso cosméticos impermeables, ya que penetra profundamente en las capas de la piel, eliminando cualquier suciedad y maquillaje
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08376VJFJ{{</world>}}

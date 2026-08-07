@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- INGREDIENTES NUTRITIVOS: Elaborada con una potente mezcla de manteca de murumuru, manteca de cupuaçu y manteca de tucuma del Amazonas, con ácidos grasos esenciales y provitaminas para suavizar, acondicionar e hidratar la piel
 - DONDE LA NATURALEZA SE UNE A LA CIENCIA: En Physicians Formula, seleccionamos ingredientes puros y eficaces de todo el mundo para proporcionar a tu piel el bienestar que se merece.
 - FÁCIL DE APLICAR: Su aplicador acolchado distribuye el producto uniformemente para definir los rasgos, y lo difumina sin esfuerzo para un acabado natural del contorno
+- INGREDIENTES NUTRITIVOS: Elaborada con una potente mezcla de manteca de murumuru, manteca de cupuaçu y manteca de tucuma del Amazonas, con ácidos grasos esenciales y provitaminas para suavizar, acondicionar e hidratar la piel
 - APLICACIÓN SUAVE: fórmula ligera y no grasa que se desliza con facilidad y se funde perfectamente con la piel, con minerales iluminadores para un resplandor sutil
 
 [🛒 Visítala!!!]({{< param buyurl >}})

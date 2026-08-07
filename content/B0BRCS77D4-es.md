@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aplicación: Aplicar sobre cabello húmedo, de cuero cabelludo a puntas impregnándolo completamente. Dejar actuar 5 minutos y luego aclarar. Continúa la rutina con el Champú y el Acondicionador Bond Repair Plus. Mantener fuera del alcance de los niños. Evitar contacto con los ojos. En caso de contacto con los ojos lavar inmediata y abundantemente con agua.
 - Fórmula con 22% Complejo Reparador de Enlaces con Aminoácidos, Compuesto sin sulfatos**, **Sin tensioactivos sulfatados
 - Resultado: Pelo Reconstruido, Mas Fuerte y Fácil de Manejar: +99% enlaces capilares reconstruidos¹, 100% fuerza restaurada¹, 3x veces menos rotura², ¹Test instrumental tras 6 aplicaciones de Pre-Champú + Champú + Acondicionador ²Test instrumental después del uso de Pre-Champú + Champú + Acondicionador + Sérum
+- Aplicación: Aplicar sobre cabello húmedo, de cuero cabelludo a puntas impregnándolo completamente. Dejar actuar 5 minutos y luego aclarar. Continúa la rutina con el Champú y el Acondicionador Bond Repair Plus. Mantener fuera del alcance de los niños. Evitar contacto con los ojos. En caso de contacto con los ojos lavar inmediata y abundantemente con agua.
 - Contenido: 1x LOréal Paris Elvive Bond Repair Plus, Pre-champú reparador, 200 ml
 - Pre-champú reparador para restaurar y reforzar desde el interior el cabello dañado por el calor y la coloración, Para todo tipo de cabello dañado
 

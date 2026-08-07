@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🍽️Considerado por los expertos, como una variedad de calidad extraordinaria gracias a su composición química que guarda la proporción perfecta entre amilosa y amilopectina, consiguiendo así que el arroz absorba mucho sabor y a la vez quede suelto y entero.
 - ✔️Ideal para arroces secos, donde se busca que cada grano quede suelto, definido y cargado de sabor.
 - 🌾Arroz de Valencia.
+- 🍽️Considerado por los expertos, como una variedad de calidad extraordinaria gracias a su composición química que guarda la proporción perfecta entre amilosa y amilopectina, consiguiendo así que el arroz absorba mucho sabor y a la vez quede suelto y entero.
 - ☝Tiempo de cocción: 16-17 minutos.
 - Cantidad: Bolsa de 5 kg
 

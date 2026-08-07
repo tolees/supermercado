@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Complemento alimenticio a base de una fusión única de 32 extractos de frutas, verduras y plantas con propiedades complementarias para conseguir la doble acción de adelgazar y quemar grasas
-- Incorpora además Zinc, que contribuye al funcionamiento normal del sistema inmunitario y Niacina, que ayuda a disminuir el cansancio y la fatiga
 - Tomar 40 ml de producto al día, en una sola toma o repartidos en dos tomas: 20 ml a media mañana y 20 ml a media tarde. Se aconseja tomar disuelto en un vaso de agua o infusión. También se puede tomar solo o en un zumo o batido rojo. La dosis diaria contiene 40 mg de cafeína, por lo que no está recomendado para niños ni para mujeres embarazadas. Emplear con precaución en personas nerviosas y en hipertensos.
 - La dosis diaria recomendada de 40 ml contiene los polifenoles, o concentrado de 22 frutas y verduras, procedentes aproximadamente de 3 raciones de frutas
+- Incorpora además Zinc, que contribuye al funcionamiento normal del sistema inmunitario y Niacina, que ayuda a disminuir el cansancio y la fatiga
+- Complemento alimenticio a base de una fusión única de 32 extractos de frutas, verduras y plantas con propiedades complementarias para conseguir la doble acción de adelgazar y quemar grasas
 - No se debe superar la dosis diaria recomendada. Los complementos alimenticios no deben utilizarse como sustitutos de una dieta equilibrada. Es importante seguir una dieta variada y equilibrada y un estilo de vida saludable. Mantener fuera del alcance de los niños más pequeños Se recomienda beber 2 L de agua al día
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

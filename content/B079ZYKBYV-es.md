@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin colorantes y sin conservantes, de acuerdo con la legislación vigente
-- Bolsita de puré de frutas para bebés a partir de 6 meses 100% natural con vitamina C
-- Sin aceite de palma y sin gluten
-- Sin azúcares añadidos** y sin espesantes, como lo haces en casa
 - Alimento infantil elaborado 100% con hortalizas naturales listo para tomar
 - Alimento para bebés a partir de 6 meses
+- Sin azúcares añadidos** y sin espesantes, como lo haces en casa
+- Sin aceite de palma y sin gluten
+- Sin colorantes y sin conservantes, de acuerdo con la legislación vigente
+- Bolsita de puré de frutas para bebés a partir de 6 meses 100% natural con vitamina C
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B079ZYKBYV{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Coca-Cola Europacific Pártners Iberia. S.L U-C/Ribera del Loira 20-22, 28042 - Madrid
 - Fanta Naranja es conocida por su delicioso sabor a naranja, ofreciendo una refrescante bebida para disfrutar en cualquier momento. Pack de Puedes disfrutar de Fanta Naranja fría directamente de la botella o utilizarla como base para cócteles y combinados. Fanta Naranja se puede combinar con una variedad de alimentos y snacks, como pizzas, hamburguesas, nachos, y más, añadiendo un toque de frescura y sabor a tus comidas. Cada botella viene con un tapón de rosca que permite cerrarla y conservar el gas y el sabor para disfrutarla en diferentes ocasiones. Pack de 6 minilatas para disfrutar de mini-momentos a cualquier hora
+- Coca-Cola Europacific Pártners Iberia. S.L U-C/Ribera del Loira 20-22, 28042 - Madrid
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B082N1CHWM{{</world>}}

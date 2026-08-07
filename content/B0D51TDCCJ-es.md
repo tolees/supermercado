@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- NUESTRO COMPROMISO: Seleccionamos sólo el 1% de los mejores granos Arábica y trabajamos desde hace años con cultivadores que ponen gran énfasis en la calidad y la sostenibilidad, estableciendo con ellos compromisos a largo plazo
-- ARABICA SELECTION NICARAGUA: El café Arábica se cultiva en la zona centro-norte del país, en las regiones de Jinotega, Matagalpa y Nueva Segovia, zonas montañosas con altitudes entre 900 y 1800 metros sobre el nivel del mar
-- TAMAÑO: La lata contiene 250 g de café tostado en grano Arabica Selection Nicaragua. El proceso de presurización permite que los aromas de la mezcla permanezcan dentro de la lata illy
-- AROMA: El café Arabica Selection Nicaragua se caracteriza por un sabor envolvente y notas de frutos secos, pan tostado y chocolate negro
 - CAFÉ EN GRANO: Dedicado a quienes disfrutan del café desde su preparación, cuidando también el grado de molienda. El café en grano es un auténtico viaje para descubrir el aroma de nuestra mezcla 100% Arábica
+- AROMA: El café Arabica Selection Nicaragua se caracteriza por un sabor envolvente y notas de frutos secos, pan tostado y chocolate negro
+- TAMAÑO: La lata contiene 250 g de café tostado en grano Arabica Selection Nicaragua. El proceso de presurización permite que los aromas de la mezcla permanezcan dentro de la lata illy
+- ARABICA SELECTION NICARAGUA: El café Arábica se cultiva en la zona centro-norte del país, en las regiones de Jinotega, Matagalpa y Nueva Segovia, zonas montañosas con altitudes entre 900 y 1800 metros sobre el nivel del mar
+- NUESTRO COMPROMISO: Seleccionamos sólo el 1% de los mejores granos Arábica y trabajamos desde hace años con cultivadores que ponen gran énfasis en la calidad y la sostenibilidad, estableciendo con ellos compromisos a largo plazo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D51TDCCJ{{</world>}}

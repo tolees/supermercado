@@ -29,12 +29,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - ETIQUETAS: Este producto es apto para veganos y celíacos. Además, no contiene colorantes, aditivos ni conservantes
-- BENEFICIOS: Edulcorante natural. Tiene bajo Índice Glucémico
-- ALIMENTACIÓN, SUPERALIMENTOS. Azúcar de coco de origen BIO. Sin colorantes, aditivos, ni conservantes
-- La siguiente información se aplica a cada unidad del paquete
-- PROPIEDADES: En los productos con un Índice Glucémico bajo la liberación de hidratos de carbono es más prolongada, no alterando en exceso los niveles de azúcar en sangre, es el azúcar más ecológico y sostenible del planeta
 - Alternativa mucho más saludable que el azúcar blanco refinado pero sin renunciar a su poder endulzante. Tiene un índice glucémico menor, por lo que puede reducir los niveles de glucosa en sangre
+- La siguiente información se aplica a cada unidad del paquete
+- ALIMENTACIÓN, SUPERALIMENTOS. Azúcar de coco de origen BIO. Sin colorantes, aditivos, ni conservantes
 - MODO DE USO: Añadir para endulzar zumos, batidos, café, bebidas vegetales, etc. Se puede utilizar como sustituto al azúcar blanco en recetas de repostería, ya que resiste la cocción y el horneado.1 cucharada de postre : 4,5 g aproximadamente
+- PROPIEDADES: En los productos con un Índice Glucémico bajo la liberación de hidratos de carbono es más prolongada, no alterando en exceso los niveles de azúcar en sangre, es el azúcar más ecológico y sostenible del planeta
+- BENEFICIOS: Edulcorante natural. Tiene bajo Índice Glucémico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0GDW4C4XG{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- FACILITA EL PEINADO: Contiene agentes antiestáticos que facilitan el peinado después del baño dejando el pelaje sedoso y brillante por lo que se ahorra tiempo y se evitan los tirones y enredos en el cepillado.
 - MENFORSAN: En Menforsan nos preocupamos por la salud de los animales y el cuidado del planeta, por lo que creamos productos naturales vegan friendly de la mejor calidad.
-- PH NEUTRO ADAPTADO: Esta crema suavizante tiene el pH neutro adaptado al pelaje de la mascota, asimismo, es apto para uso frecuente.
+- FACILITA EL PEINADO: Contiene agentes antiestáticos que facilitan el peinado después del baño dejando el pelaje sedoso y brillante por lo que se ahorra tiempo y se evitan los tirones y enredos en el cepillado.
 - MODO DE EMPLEO: Aplicar el producto puro en las zonas deseadas masajeado y dejando actuar unos instantes antes de aplicar el champú. También se puede aplicar después del champú dejando actuar unos instantes y aclarando con agua tibia antes del cepillado.
+- PH NEUTRO ADAPTADO: Esta crema suavizante tiene el pH neutro adaptado al pelaje de la mascota, asimismo, es apto para uso frecuente.
 - PARA GATOS: Crema suavizante para gatos con pelajes largos, finos, gruesos o rizados.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

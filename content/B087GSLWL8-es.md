@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Mezcla: Arábica-Robusta, rica y con mucho cuerpo, frijoles de Brasil, Vietnam y Uganda
 - Producido en Italia: Gruppo Gimoka - Café por pasión desde los años 80, se compromete activamente a desarrollar soluciones de embalaje fácilmente reciclables, compostables y ecosostenibles.
+- Perfil sensorial: café cremoso con un aroma agradablemente intenso y con mucho cuerpo. Las notas de chocolate amargo confieren a la mezcla un retrogusto marcado y persistente.
 - Intensidad: 12
 - Formato: 4 envases de 36 cápsulas
-- Mezcla: Arábica-Robusta, rica y con mucho cuerpo, frijoles de Brasil, Vietnam y Uganda
-- Perfil sensorial: café cremoso con un aroma agradablemente intenso y con mucho cuerpo. Las notas de chocolate amargo confieren a la mezcla un retrogusto marcado y persistente.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B087GSLWL8{{</world>}}

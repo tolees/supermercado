@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Champú densificante para pelo fino o con pérdida de densidad que desea un efecto corporizado. Limpia, corporiza y densifica el cabello. Aporta volumen al pelo fino dejándolo revitalizado y ligero.
-- Aplicar sobre cabello húmedo. Distribuir en forma de estrella en el cuero cabelludo, masajeando para generar espuma y liberar las notas aromáticas, mientras se distribuye al resto del cabello. Emulsionar y aclarar. Para un mejor resultado combinar con el resto de la gama Densifique
 - Aumenta la densidad del cabello, el volumen y la resistencia capilar desde la raíz hasta las puntas. Aporta hidratación al pelo.
+- Aplicar sobre cabello húmedo. Distribuir en forma de estrella en el cuero cabelludo, masajeando para generar espuma y liberar las notas aromáticas, mientras se distribuye al resto del cabello. Emulsionar y aclarar. Para un mejor resultado combinar con el resto de la gama Densifique
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B072LY5CD9{{</world>}}

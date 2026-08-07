@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El Champú Volumen Jean y Len con extracto de bambú y lirio hace que el cabello plano y fino parezca más voluminoso - Hecho con amor en Alemania
-- Sin Gedøns: Para nosotros, Gedøns son ingredientes de los que la fundadora Len personalmente prefiere prescindir - El producto es naturalmente vegano y viene sin siliconas, parabenos, aceite mineral, así como microplásticos.
-- Volumen de suministro: 1 x 300 ml Jean&Len Champú Volumen Bambú & Lirio, para cabellos finos y débiles, fortalece el cabello con más volumen, aroma floral, sin parabenos ni siliconas, vegano.
 - La fórmula de cuidado vegano hace que el cabello parezca más voluminoso - El cabello lacio adquiere nueva vitalidad
 - El cuidado sin peso no apelmaza el cabello y le aporta brillo - La fragancia floral mima tus sentidos con cada lavado del cabello
+- El Champú Volumen Jean y Len con extracto de bambú y lirio hace que el cabello plano y fino parezca más voluminoso - Hecho con amor en Alemania
+- Volumen de suministro: 1 x 300 ml Jean&Len Champú Volumen Bambú & Lirio, para cabellos finos y débiles, fortalece el cabello con más volumen, aroma floral, sin parabenos ni siliconas, vegano.
+- Sin Gedøns: Para nosotros, Gedøns son ingredientes de los que la fundadora Len personalmente prefiere prescindir - El producto es naturalmente vegano y viene sin siliconas, parabenos, aceite mineral, así como microplásticos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07ZTDLTJV{{</world>}}

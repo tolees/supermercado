@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Certificados FSC y EcoLabel
 - Envuelto en papel en vez de plástico
-- Paquete de 9 rollos, de 180 servicios cada uno
+- Certificados FSC y EcoLabel
 - Papel Higiénico 100% Reciclado, Blanco y de 3 capas
+- Paquete de 9 rollos, de 180 servicios cada uno
 - Testado dermatológicamente y ginecológicamente, sin perfumes ni tintas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

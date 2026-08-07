@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Disfruta de un snack irresistible, excelente para compartir con amigos y familiares o como dulce merienda
-- Milka se compromete con la sostenibilidad a través de su programa Cocoa Life, asegurando un cacao responsable y leche de los Alpes, con un futuro brillante para las comunidades productoras
 - Milka Chocolate con Leche Bubbly ofrece una experiencia única de sabor con suaves burbujas de aire que se derriten en la boca
 - Este delicioso chocolate está elaborado con auténtica leche de los Alpes y cacao de fuentes sostenibles, garantizando calidad en cada bocado
+- Milka se compromete con la sostenibilidad a través de su programa Cocoa Life, asegurando un cacao responsable y leche de los Alpes, con un futuro brillante para las comunidades productoras
 - La tableta de 90 g es excelente para compartir en familia o disfrutar en cualquier momento del día como un tentempié
 
 [🛒 Aquí!!!]({{< param buyurl >}})

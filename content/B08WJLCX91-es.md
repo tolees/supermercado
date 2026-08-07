@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aceite de Espino Amarillo: Rico en ácidos grasos omega 3, 6 y 9, y en antioxidantes naturales; alto aporte en vitaminas E, A y carotenos
 - Raíces de Ruibarbo, originaras del oeste de China, mejoran la cohesión del producto a las células de la epidermis, potenciando la función barrera
 - La manteca de karité es fuente de vitamina A, D, E y F, por lo que trabaja la reparación de la piel y la suaviza
 - Aceite Vegetal: emoliente puramente vegetal de fuentes renovables, que es una alternativa a la vaselina tradicional ofreciendo el mismo rendimiento con una emulsión más ligera y 100% vegetal
+- Aceite de Espino Amarillo: Rico en ácidos grasos omega 3, 6 y 9, y en antioxidantes naturales; alto aporte en vitaminas E, A y carotenos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08WJLCX91{{</world>}}

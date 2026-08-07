@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido de alcohol (alc/vol): 40.0 percent by volume
 - Perfecto como un regalo
+- Tipo de alcohol: Whiskey
+- Contenido de alcohol (alc/vol): 40.0 percent by volume
+- Sabor: aterciopelado, floral, chocolate negro, toques de humo dulce y suave
 - Color: oro
-- Acabado: larga duración, afrutado
 - Nariz: rica, notas de fruta seca, caramelo, chocolate negro
+- Acabado: larga duración, afrutado
 - Procedencia: Scotland
 - Como servir: Serve at room temperature
-- Sabor: aterciopelado, floral, chocolate negro, toques de humo dulce y suave
-- Tipo de alcohol: Whiskey
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B001P4SF0C{{</world>}}

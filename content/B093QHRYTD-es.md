@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- NOTA de CATA: frutado y ligero; la entrada en boca es dulce, con un toque amargo y un picante de baja intensidad que marca su fuerte personalidad.
-- VARIEDAD: aceite de oliva virgen extra coupage ecológico, elaborado a partir distintas variedades de aceituna; conserva intactas todas sus propiedades naturales.
 - MARIDAJE: las cualidades organolépticas de este aceite ecológico son perfectas para su consumo en crudo, para desayunos, tostadas con tomate y aliño de ensaladas.
 - ECOLÓGICO: aceite español natural ecológico, elaborado mediante prácticas agrícolas respetuosas con el medio ambiente
 - FORMATO: envasado en lata de 3l, perfecto para regalar y uso gourmet.
+- NOTA de CATA: frutado y ligero; la entrada en boca es dulce, con un toque amargo y un picante de baja intensidad que marca su fuerte personalidad.
+- VARIEDAD: aceite de oliva virgen extra coupage ecológico, elaborado a partir distintas variedades de aceituna; conserva intactas todas sus propiedades naturales.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B093QHRYTD{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Brillo y control del encrespado
+- Efecto desenredante
 - Facilita el peinado y el uso de la plancha
 - Repara el cabello seco y dañado
-- Efecto desenredante
+- Brillo y control del encrespado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08CP247NJ{{</world>}}

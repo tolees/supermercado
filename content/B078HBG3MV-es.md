@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Suaviza y cuida tu ropa
 - piel sensible
 - Base de Plantas y minerales ingredientes
+- Suaviza y cuida tu ropa
 - fácil de usar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

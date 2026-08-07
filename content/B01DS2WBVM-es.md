@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIVEA SUN Protege & Hidrata - Leche Solar FP50+ - Protector Solar Corporal - Protección UVA/UVB - Loción Resistente al Agua - Hidratación 48h - Con Pantenol y Glicerina - Todo Tipo de Piel - 400 ml'
-date: 2026-07-12 08:49:55
+date: 2026-08-06 18:18:29
 image: 'https://m.media-amazon.com/images/I/41n5mn0KmQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DS2WBVM/?tag=tolees-21'
 descuento: '23.54'
-average: '12.5169072164948'
+average: '12.5264646464646'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

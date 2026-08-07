@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Manteca de cacao pura: Libre de gluten, trazas y aditivos, nuestra manteca de cacao reposteria es perfecta para quienes siguen dietas keto, paleo o veganas. Garantiza una experiencia culinaria saludable y deliciosa.
+- Uso cosmético y alimentario: La manteca de cacao para cosmética ofrece propiedades hidratantes y antioxidantes. Ideal para el cuidado de la piel y la elaboración de productos cosméticos naturales.
 - Mantequilla de cacao desodorizada versátil: Nuestra manteca de cacao es ideal para la fabricación de chocolates, postres y productos dietéticos. Rica en antioxidantes y ácidos esenciales, aporta beneficios nutricionales.
 - Beneficios nutricionales: Nuestra manteca de cacao pura es rica en ácidos grasos esenciales. Aporta antioxidantes que benefician la salud y es ideal para quienes buscan ingredientes saludables en su alimentación diaria.
-- Uso cosmético y alimentario: La manteca de cacao para cosmética ofrece propiedades hidratantes y antioxidantes. Ideal para el cuidado de la piel y la elaboración de productos cosméticos naturales.
 - Calidad excepcional: Utilizamos manteca de cacao pura, asegurando un producto libre de contaminantes. Perfecta para aquellos que buscan ingredientes de alta pureza tanto en repostería como en cosmética.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

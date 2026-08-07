@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Maridaje: Carnes blancas a la plancha y guisadas, quesos y jamón.
-- Formato BAG IN BOX de capacidad: 15 litros (equivale a 20 botellas de 750ml)
-- Variedad de uva: TEMPRANILLO de Castilla y León
 - Vino tinto de color rojo vivo. En nariz es afrutado, en el que destaca la fruta roja. En boca presenta una acidez adecuada, estructura media, taninos suaves y un agradable recuerdo a frutas rojas.
+- Formato BAG IN BOX de capacidad: 15 litros (equivale a 20 botellas de 750ml)
+- Maridaje: Carnes blancas a la plancha y guisadas, quesos y jamón.
+- Variedad de uva: TEMPRANILLO de Castilla y León
 - VINO TINTO DE MESA
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

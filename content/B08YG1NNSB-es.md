@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cepillo de plástico ultra-flex, separa las pestañas de la raíz a la punta
 - Máscara de pestañas
+- Cepillo de plástico ultra-flex, separa las pestañas de la raíz a la punta
 - Fácil y cómoda aplicación
-- Aporta definición, volumen intenso y separación
 - Fórmula enriquecida con aceite de Argán
+- Aporta definición, volumen intenso y separación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08YG1NNSB{{</world>}}

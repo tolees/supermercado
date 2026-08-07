@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cacao en polvo sin gluten
-- Proporciona la energía y los nutrientes que el cuerpo necesita
-- Le da a la leche un delicioso sabor a chocolate
 - Se disuelve instantáneamente incluso en leche fría
+- Cacao en polvo sin gluten
+- Le da a la leche un delicioso sabor a chocolate
+- Proporciona la energía y los nutrientes que el cuerpo necesita
 - Contiene una combinación de vitaminas y minerales
 
 [🛒 Aquí!!!]({{< param buyurl >}})

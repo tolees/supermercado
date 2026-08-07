@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- PERNOD RICARD ESPAÑA, S.A Avenida José Ortega y Gasset, 201 5° planta - Málaga - 29006 - ESPANA
 - Pack de dos botellas de Ballantines Finest y 6 vasos Ballantines de REGALO Madurado en barricas de roble americano durante más de 10 años De color oro cálido Con notas dulces de vainilla, toffee y un toque a nueces Es dulce y cremoso en boca
+- PERNOD RICARD ESPAÑA, S.A Avenida José Ortega y Gasset, 201 5° planta - Málaga - 29006 - ESPANA
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D2D89CK8{{</world>}}

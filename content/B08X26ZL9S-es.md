@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sumérgete en la deliciosa experiencia de Milka, elaborada con cacao sostenible a través del programa Cocoa Life y utilizando solo leche de los Alpes asegurando calidad y responsabilidad
-- Disfruta de su galleta con textura crujiente y de su delicioso chocolate, excelentes para compartir con amigos y familiares en desayunos o meriendas
 - Milka barritas Wafer & Go de chocolate con leche, convierte estas barritas en el dulce tentempié para cualquier momento del día
 - Estas barritas tienen barquillo crujiente, relleno de cacao y están recubiertas con chocolate con leche de los Alpes, además de cacao sostenible de Cocoa Life
+- Sumérgete en la deliciosa experiencia de Milka, elaborada con cacao sostenible a través del programa Cocoa Life y utilizando solo leche de los Alpes asegurando calidad y responsabilidad
+- Disfruta de su galleta con textura crujiente y de su delicioso chocolate, excelentes para compartir con amigos y familiares en desayunos o meriendas
 - En un formato individual de 31g que contiene 35 wafers en la caja, excelentes para los amantes del dulce que buscan un snack delicioso a lo largo del día
 
 [🛒 Comprar!!!]({{< param buyurl >}})

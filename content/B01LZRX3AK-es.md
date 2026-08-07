@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gran Mayonesa Hellmanns 825ml
-- Una mayonesa hecha con huevos de calidad y vinagre de vino blanco
-- Con aceite sostenible
-- Apta para vegetarianos y sin gluten
-- Ingredientes de gran calidad, sabor inconfundible
 - Nº1 del mundo en ventas (marca líder en volumen de ventas. Fuente: consultora externa, Septiembre 2018)
+- Con aceite sostenible
+- Una mayonesa hecha con huevos de calidad y vinagre de vino blanco
+- Ingredientes de gran calidad, sabor inconfundible
+- Gran Mayonesa Hellmanns 825ml
+- Apta para vegetarianos y sin gluten
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01LZRX3AK{{</world>}}

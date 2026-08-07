@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Libre de lácteos, sin lactosa, sin gluten y sin trigo
-- ALTA PROTEÍNA: Más de 25g de proteína pura por dosis
-- ACCIONADO POR PLANTAS: Proteína en polvo de origen 100% vegetal, sostenible y ético
-- SÚPER BAJO EN CALORÍAS: ¡solo 109 calorías por dosis!
 - BAJO EN GRASAS: solo 0.2g por dosis
+- ACCIONADO POR PLANTAS: Proteína en polvo de origen 100% vegetal, sostenible y ético
+- ALTA PROTEÍNA: Más de 25g de proteína pura por dosis
+- SÚPER BAJO EN CALORÍAS: ¡solo 109 calorías por dosis!
+- Libre de lácteos, sin lactosa, sin gluten y sin trigo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0179UMJHU{{</world>}}

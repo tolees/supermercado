@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Loción corporal autobronceadora para piel de tono claro a medio Dove Summer Revived que mantiene la hidratación de la piel 200ml
-- Consigue gradualmente un tono de piel bronceado de aspecto natural y luminoso
-- Loción nutritiva a la vez que autobronceadora para el cuerpo, que combina la experiencia del Spa de Belleza con el cuidado dermatológico
 - Para piel de tono claro a medio
+- Loción corporal autobronceadora para piel de tono claro a medio Dove Summer Revived que mantiene la hidratación de la piel 200ml
+- Loción nutritiva a la vez que autobronceadora para el cuerpo, que combina la experiencia del Spa de Belleza con el cuidado dermatológico
+- Consigue gradualmente un tono de piel bronceado de aspecto natural y luminoso
 - Fórmula con Cell-Moisturisers: tecnología avanzada de cuidado facial de Dove, ahora disponible para el cuidado corporal, que ayuda a mantener una hidratación natural en todo el cuerpo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

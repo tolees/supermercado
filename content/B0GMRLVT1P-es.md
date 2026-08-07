@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Enriquecido con 1/2 vial de suero
-- Enriquecido con ácido azílico
 - AYUDA A reducir los poros visibles y el sebo
+- Enriquecido con 1/2 vial de suero
 - RESULTADO en solo 15 minutos
+- Enriquecido con ácido azílico
 - Cuidado INTENSIVO
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

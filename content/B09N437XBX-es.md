@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Medalla de oro en el Concurso Mundial de Bruselas 2021 para la añada 2020
-- Maridaje clásico: tabla de quesos curados. Maridaje moderno: escalopes a la milanesa. Maridaje atrevido: minihamburguesas. Maridaje para saborear y mirar: tarta de chocolate y pistacho
-- Color rojo intenso con reflejos púrpura. En nariz, presenta notas de bayas rojas frescas y aromas tostados de vainilla. En boca es suave y aterciopelado, con aromas afrutados y especiados
-- Región: vino tinto Languedoc Roussillon, IGP Pays dOc
 - Variedad de uva: 100 % Merlot. Certificado Terra Vitis
+- Maridaje clásico: tabla de quesos curados. Maridaje moderno: escalopes a la milanesa. Maridaje atrevido: minihamburguesas. Maridaje para saborear y mirar: tarta de chocolate y pistacho
+- Medalla de oro en el Concurso Mundial de Bruselas 2021 para la añada 2020
+- Región: vino tinto Languedoc Roussillon, IGP Pays dOc
+- Color rojo intenso con reflejos púrpura. En nariz, presenta notas de bayas rojas frescas y aromas tostados de vainilla. En boca es suave y aterciopelado, con aromas afrutados y especiados
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09N437XBX{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SERVICIO SUPERIOR SATISFECHO O REEMBOLSADO: en CiboCrudo ponemos a nuestro cliente primero, no dude en contactarnos para cualquier problema, estaremos encantados de solucionarlo a corto plazo.
 - BENEFICIOS - La harina de algarroba en polvo tiene muchas fibras vegetales, calcio, potasio y vitaminas B2 y B6. Elementos muy importantes para el bienestar y la salud del cuerpo de toda la familia.
-- Harina de algarroba en polvo Orgánica - es un producto totalmente orgánico y libre de aditivos químicos. Las vainas se secan al sol, según antiguos métodos artesanales que respetan la integridad de la fruta. Luego se muelen delicadamente, sin exceder nunca los 42°, y luego se envasan con cuidado y amor.
 - USO VERSÁTIL - Se puede utilizar la harina de algarroba en polvo en lugar del Cacao más calórico. En determinadas preparaciones, la ligereza del Polvo de Algarroba casa mejor con otros ingredientes, aportando el grado justo de consistencia.
 - CiboCrudo es el líder italiano en la producción de alimentos naturales procesados ​​orgánicos, integrales, veganos, naturalmente sin gluten a bajas temperaturas y utiliza solo envases reciclables y compatibles con el medio ambiente.
+- Harina de algarroba en polvo Orgánica - es un producto totalmente orgánico y libre de aditivos químicos. Las vainas se secan al sol, según antiguos métodos artesanales que respetan la integridad de la fruta. Luego se muelen delicadamente, sin exceder nunca los 42°, y luego se envasan con cuidado y amor.
+- SERVICIO SUPERIOR SATISFECHO O REEMBOLSADO: en CiboCrudo ponemos a nuestro cliente primero, no dude en contactarnos para cualquier problema, estaremos encantados de solucionarlo a corto plazo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01ETSCLBY{{</world>}}

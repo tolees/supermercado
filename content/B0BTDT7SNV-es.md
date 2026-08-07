@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - CONTENIDO: brocha maquillaje en polvo, brocha maquillaje fluido, pincel sombreador grueso, pincel sombreador fino y pincel biselado.
-- KIT COMPLETO: Estuche con 5 brochas y pinceles de pelo sintético para llevarlos siempre ordenados y protegidos.
 - BETER: empresa familiar española con más de 85 años de historia, líder en accesorios de belleza y cuidado personal gracias a la innovación constante y compromiso medioambiental.
 - IDEAL PARA REGALO: para las amantes del arte de maquillarse que quieren llevar siempre consigo el kit de maquillaje imprescindible para el bolso, viaje o neceser del gimnasio. Ideal para: cumpleaños, Navidad, ocasiones especiales o una sorpresa original.
+- KIT COMPLETO: Estuche con 5 brochas y pinceles de pelo sintético para llevarlos siempre ordenados y protegidos.
 - MULTITUD DE USOS EN EL MAQUILLAJE: permiten lograr cualquier look con un resultado profesional. Cubre todos los pasos del maquillaje: aplicación del corrector, la base de maquillaje, sombras de ojos y acabado final con colorete y polvos matificantes o bronceadores.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

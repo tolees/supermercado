@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Nubes recubiertas de chocolate negro
 - Ideales como postre
 - Sin gluten
-- Conservar en un lugar fresco y seco
+- Nubes recubiertas de chocolate negro
 - Tienen un sabor dulce
+- Conservar en un lugar fresco y seco
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01GVOA8FK{{</world>}}

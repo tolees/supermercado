@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - CARACTERÍSTICAS: Gracias a las cápsulas de aluminio, el café mantiene intacta su frescura y aroma. Compatibles con las máquinas Nespresso
+- SOSTENIBILIDAD: Gimoka apuesta por la producción responsable del café, reduciendo el impacto ambiental y garantizando un producto de calidad que respeta los recursos naturales
 - CONTENIDO: El paquete contiene 50 cápsulas monodosis de café tostado y molido, envasado en atmósfera protegida para preservar la calidad organoléptica y el sabor delicado de la mezcla
 - MEZCLA: La Mezcla Espresso Sublime de Gimoka ofrece un café de perfil suave y equilibrado. Su tueste medio-claro resalta un delicado aroma a almendras, brindando una experiencia de degustación refinada y armoniosa
-- SOSTENIBILIDAD: Gimoka apuesta por la producción responsable del café, reduciendo el impacto ambiental y garantizando un producto de calidad que respeta los recursos naturales
 - GIMOKA: Tostadora italiana con 40 años de historia, selecciona café de 17 países para más de 90 mezclas. Con 3 plantas, ofrece café en grano, molido, monodosis y cápsulas compatibles, llevando el auténtico espresso italiano a 50 países
 
 [🛒 Visítala!!!]({{< param buyurl >}})

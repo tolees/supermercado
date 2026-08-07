@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hecha con un 80% de ingredientes naturales
-- Sérum corrector de la gama Healthy Mix de Bourjois, cuida la piel con una mezcla saludable de vitaminas C, E y B5
 - Contiene mezcla de cafeína con propiedades antioxidantes
-- Ayuda a afinar las lineas de expresión
+- Sérum corrector de la gama Healthy Mix de Bourjois, cuida la piel con una mezcla saludable de vitaminas C, E y B5
 - Fórmula es limpia y vegana
+- Hecha con un 80% de ingredientes naturales
+- Ayuda a afinar las lineas de expresión
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CV7PW33T{{</world>}}

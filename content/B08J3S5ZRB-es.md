@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🌎 Origen único Colombia - Todos los granos de café provienen de la finca Cadefihuila en la región de Huila, aportando una personalidad única basada en las características de este terreno
 - ⭐ Café de Especialidad - Café colombiano de alta calidad, con 84 puntos SCA (Specialty Coffee Association). Se distingue por su aroma, sabor, personalidad, carácter distintivo y ausencia de defectos
+- 🌿 Tueste Artesanal - El tueste es uno de los elementos que más influyen en la calidad y el sabor del café. Nuestros expertos tostadores tuestan cada día para asegurar la frescura del café
 - 💚 Notas de Cata - Este café de Colombia se caracteriza por su fragancia floral, una buena base de cacao y panela, un cuerpo cremoso y un toque cítrico que recuerda al limón. Acidez y dulzor equilibrados
 - 🌱 Ingredientes - Café en Grano Natural, 100% Arábica
-- 🌿 Tueste Artesanal - El tueste es uno de los elementos que más influyen en la calidad y el sabor del café. Nuestros expertos tostadores tuestan cada día para asegurar la frescura del café
+- 🌎 Origen único Colombia - Todos los granos de café provienen de la finca Cadefihuila en la región de Huila, aportando una personalidad única basada en las características de este terreno
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08J3S5ZRB{{</world>}}

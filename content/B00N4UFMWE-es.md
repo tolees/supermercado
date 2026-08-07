@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Elaborado con ingredientes 100% naturales y de primera calidad, fórmula hipoalergénica y equilibrada con vitaminas y minerales adicionales; sin azúcares añadidos, especialmente formulado para apoyar la salud y el bienestar de los gatos mayores
 - Alimento seco completo y equilibrado, libre de granos, trigo y soja, adecuado para gatos con sensibilidades o alergias; especialmente formulado para apoyar la salud digestiva y el bienestar de los gatos mayores
-- Sostenible, envases reciclables; nuestras latas de metal y envases de cartón pueden reciclarse completamente
-- 80% de proteína de pollo y extractos naturales para una fuente de proteína y nutrientes de alta calidad; nuestro contenido de carne y proteínas promueve el crecimiento de tejido muscular magro y es rico en taurina natural
-- Incluye 1 bolsa de 400g de fórmula Senior de pollo en el paquete
 - Fuente natural de Omega-3 y 6 Los ácidos grasos omega-3 y omega-6 son importantes para la salud general de los gatos, con beneficios potenciales que incluyen la promoción de un pelaje y una piel sanos, el apoyo a la salud del cerebro y de los ojos, la promoción de la salud cardiovascular, el apoyo a la salud de las articulaciones y el apoyo al sistema inmunológico
+- Sostenible, envases reciclables; nuestras latas de metal y envases de cartón pueden reciclarse completamente
+- Elaborado con ingredientes 100% naturales y de primera calidad, fórmula hipoalergénica y equilibrada con vitaminas y minerales adicionales; sin azúcares añadidos, especialmente formulado para apoyar la salud y el bienestar de los gatos mayores
+- Incluye 1 bolsa de 400g de fórmula Senior de pollo en el paquete
+- 80% de proteína de pollo y extractos naturales para una fuente de proteína y nutrientes de alta calidad; nuestro contenido de carne y proteínas promueve el crecimiento de tejido muscular magro y es rico en taurina natural
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00N4UFMWE{{</world>}}

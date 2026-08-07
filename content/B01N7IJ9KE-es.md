@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Descubre el resto de fragancias Air Wick Eléctrico con Essential Oils
-- Pack de recambios para ambientadores eléctricos Air Wick
 - Disfruta de un aroma duradero y consistente para tu hogar
 - Fragancia White Bouquet, rodéate con la delicada fragancia floral de White Bouquet, inspirado en el fresco aroma de las flores blancas recién cortadas
+- Pack de recambios para ambientadores eléctricos Air Wick
 - Elige entre los diferentes niveles de intensidad para conseguir tu nivel de fragancia adecuada
 
 [🛒 Comprar!!!]({{< param buyurl >}})

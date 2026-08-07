@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una botella de 1.5 litros sirve para 30 lavados. Concentrado 50 mililitros de dosificación para 4,5 kg de ropa seca
-- Este detergente líquido concentrado deja la ropa limpia e impecable en un lavado eficaz y suave, a 20ºC – 95ºC. Apto para lavados a mano
 - Este detergente es apto para todo tipo de tejidos menos lana y seda
+- Este detergente líquido concentrado deja la ropa limpia e impecable en un lavado eficaz y suave, a 20ºC – 95ºC. Apto para lavados a mano
 - La fórmula libre de microplásticos contiene Jabón Natural, componente conocido por su eficacia natural y suavidad para la ropa y la piel
+- Una botella de 1.5 litros sirve para 30 lavados. Concentrado 50 mililitros de dosificación para 4,5 kg de ropa seca
 - Dermatológicamente testado e hipoalergénico. Sin fosfatos, ftalatos ni adición de conservantes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

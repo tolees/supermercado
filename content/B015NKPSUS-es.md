@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fácil de aplicar
 - Producto de calidad óptima
+- Fácil de aplicar
 - Efecto tiza
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

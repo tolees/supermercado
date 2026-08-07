@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ACABADO LUMINOSO Y SUAVE: Textura sedosa sin efecto apelmazado, sin pliegues ni reflejo en flash. Controla los brillos y fija la base hasta por 24 horas.
-- CRUELTY FREE Y VEGANO: Este producto de Revolution está formulado sin ingredientes de origen animal y es apto para veganos. Todos los productos de Revolution están avalados por PETA como libres de pruebas en animales.
-- MODO DE USO: Elimina brillos y fija el maquillaje aplicando una pequeña cantidad de polvo en la zona T. Usa una borla para distribuirlo bajo los ojos o sobre los puntos que quieras resaltar. Déjalo actuar unos minutos y retira suavemente.
-- FIJA Y ILUMINA: Fija tu maquillaje con este polvo suelto iluminador que difumina y aporta luminosidad al rostro. Lace, ideal para tonos de piel muy claros a claros.
 - ENRIQUECIDA CON VITAMINA E Y ÁCIDO HIALURÓNICO: Fórmula sin talco que fija el maquillaje, ofrece una duración prolongada y elimina los brillos.
+- ACABADO LUMINOSO Y SUAVE: Textura sedosa sin efecto apelmazado, sin pliegues ni reflejo en flash. Controla los brillos y fija la base hasta por 24 horas.
+- FIJA Y ILUMINA: Fija tu maquillaje con este polvo suelto iluminador que difumina y aporta luminosidad al rostro. Lace, ideal para tonos de piel muy claros a claros.
+- MODO DE USO: Elimina brillos y fija el maquillaje aplicando una pequeña cantidad de polvo en la zona T. Usa una borla para distribuirlo bajo los ojos o sobre los puntos que quieras resaltar. Déjalo actuar unos minutos y retira suavemente.
+- CRUELTY FREE Y VEGANO: Este producto de Revolution está formulado sin ingredientes de origen animal y es apto para veganos. Todos los productos de Revolution están avalados por PETA como libres de pruebas en animales.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FC35Q6FZ{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 0% de alcohol en volumen
 - Cerveza tipo lager mezcla de Amstel Original con zumo natural de limón
 - Consumirla entre 0° y 3°C para obtener sus máximas cualidades
 - Cerveza turbia con espuma fina, aroma de flores cítricas, sabor dulce y suave que la hace muy fácil de beber y muy refrescante
 - Ingredientes Naturales: Agua, 40% malta Pilsen, 60% zumo natural de limón, lúpulo y la exclusiva levadura Amstel
-- 0% de alcohol en volumen
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07PSPBCC6{{</world>}}

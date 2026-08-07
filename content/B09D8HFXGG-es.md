@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Nestlé Extrafino - Barritas de galleta y chocolate con leche
-- Ingredientes: azúcar, harina de TRIGO, grasas vegetales (palma, shea), manteca de cacao¹, LECHE en polvo, pasta de cacao¹, suero de LECHE en polvo, maltodextrina, cacao desgrasado en polvo¹, emulgente (lecitinas), gasificante (carbonatos de sodio), sal, aromas. Puede contener CACAHUETES, otros FRUTOS DE CÁSCARA y SOJA. ¹Certificado Rainforest Alliance.
-- Conservar en un lugar fresco y seco; a temperatura ambiente
-- Alta calidad. Cacao con certificado Rainforest Alliance
 - Incluye 14 barritas de 6x18g
+- Conservar en un lugar fresco y seco; a temperatura ambiente
+- Ingredientes: azúcar, harina de TRIGO, grasas vegetales (palma, shea), manteca de cacao¹, LECHE en polvo, pasta de cacao¹, suero de LECHE en polvo, maltodextrina, cacao desgrasado en polvo¹, emulgente (lecitinas), gasificante (carbonatos de sodio), sal, aromas. Puede contener CACAHUETES, otros FRUTOS DE CÁSCARA y SOJA. ¹Certificado Rainforest Alliance.
+- Alta calidad. Cacao con certificado Rainforest Alliance
+- Nestlé Extrafino - Barritas de galleta y chocolate con leche
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09D8HFXGG{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Color que es realmente adictivo para usar; usamos pigmentos microfinos para crear tonos vibrantes con sensación ligera
 - Sin fragancia
-- La fórmula está infundida con vitamina E y aceite de aguacate para, ademas del color, propiciar hidratacion perfecta
+- Color que es realmente adictivo para usar; usamos pigmentos microfinos para crear tonos vibrantes con sensación ligera
 - Acabado satinado
+- La fórmula está infundida con vitamina E y aceite de aguacate para, ademas del color, propiciar hidratacion perfecta
 - Extra sedoso e hidratante
 
 [🛒 Aquí!!!]({{< param buyurl >}})

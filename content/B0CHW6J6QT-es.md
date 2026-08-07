@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Contienen 6 vitaminas, calcio y hierro
-- Galletas sándwich rellena de cema de leche y cacao
 - Advertencia alergénica: contiene leche, pescado, huevo
+- Galletas sándwich rellena de cema de leche y cacao
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CHW6J6QT{{</world>}}

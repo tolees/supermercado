@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - TÉ VERDE, MENTA PIPERITA, CORTEZA DE LIMÓN Y LEMONGRASS - Balsámico a la vez que refrescante. Con carácter mentolado y un amplio abanico aromático. Fresco, limpio, sedoso y equilibrado. Combina el sabor herbal del Té Verde con el toque aromático de la Menta.
-- CÓMO PREPARAR - Calienta el agua hasta que hierva. Pon una bolsita en la taza y vierte el agua. Tapa la taza para que la mezcla libere su fragancia y sabor. Deja la bolsita en el agua de 3 a 5 minutos, o si lo prefieres, no la saques.
 - VEGANO, SIN GLUTEN Y SIN AZÚCARES AÑADIDOS - Ingredientes 100% Naturales para conseguir un té refrescante y aromático.
 - CULTIVADO CON DELICADEZA - Algunos de nuestros Tés se mezclan con frutas, hierbas o especias para añadir color a sus delicados sabores y texturas. Únete a Hornimans para descubrir la procedencia de esta gama, con una profunda conexión a sus orígenes.
 - BENEFICIOS PARA EL ORGANISMO - El té verde a la menta es tradicionalmente conocido por sus propiedades antioxidantes y digestivas.
+- CÓMO PREPARAR - Calienta el agua hasta que hierva. Pon una bolsita en la taza y vierte el agua. Tapa la taza para que la mezcla libere su fragancia y sabor. Deja la bolsita en el agua de 3 a 5 minutos, o si lo prefieres, no la saques.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01LXCZ4AA{{</world>}}

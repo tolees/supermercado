@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fazer Chocolate con avellanas enteras oscuras
-- 1 barra de 200 g
 - Esta deliciosa tableta es una sofisticada combinación de avellanas enteras y chocolate negro. Hecho del mejor cacao Arriba con excelente artesanía. Todos los deliciosos chocolates de Fazer están hechos de cacao 100% producido de forma responsable. Comparte con tus amigos o disfruta de un momento delicioso. La tableta de chocolate es baja en lactosa.
+- 1 barra de 200 g
+- Fazer Chocolate con avellanas enteras oscuras
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B082DGQSFZ{{</world>}}

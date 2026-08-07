@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Secado rápido
 - Fácil de desmaquillar con agua y jabón
 - Oftalmológicamente testado, apto para usuarios de lentillas.
-- Secado rápido
 - Fórmula con pigmentos hiper-negros para unas pestañas de alto impacto.
 - Máscara que aporta pestañas más espesas y voluminosas
 

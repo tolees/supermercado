@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca: estee lauder
 - Hombre
+- Marca: estee lauder
 - Perfumes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

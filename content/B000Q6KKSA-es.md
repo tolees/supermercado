@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tonificante y cálida, una fragancia distinta, fiel al ADN de CK
 - Olor intenso y duradero
 - Fragancia amaderada con matices florales
-- Tonificante y cálida, una fragancia distinta, fiel al ADN de CK
 - Adecuada para día o noche
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

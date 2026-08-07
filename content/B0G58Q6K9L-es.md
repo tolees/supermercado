@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La siguiente información se aplica a cada unidad del paquete
-- Elaborado con ingredientes de calidad seleccionados
-- Nutrición 100% completa y equilibrada
 - Contribuye en la salud, la vitalidad y la felicidad de tu gato
 - Incluye proteínas de alta calidad, ácidos grasos, vitaminas y minerales
+- Elaborado con ingredientes de calidad seleccionados
+- Nutrición 100% completa y equilibrada
+- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0G58Q6K9L{{</world>}}

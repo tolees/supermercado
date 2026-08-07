@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tostados y crujientes
 - Envasado en Alemania
 - Este envase contiene aproximadamente 16 porciones
+- Tostados y crujientes
 - Apto para dietas vegetarianas
 - Copos de maíz tostados
 

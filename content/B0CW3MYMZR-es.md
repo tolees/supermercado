@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para niños y adolescentes a partir de 11 años. Sabor a vainilla: les gusta su sabor.(6)
-- ENERGÍA – PediaSure Teen Balance aporta proteínas, vitaminas y minerales incluyendo magnesio, que ayuda a afrontar el día a día con energía.(2)
+- ATENCIÓN y MEMORIA – Contiene hierro que ayuda a la atención y memoria.(1)
 - CRECIMIENTO y DESARROLLO – Nutrición equilibrada para favorecer su crecimiento y desarrollo.(3) Los adolescentes atraviesan un último e importante período de crecimiento y necesitan más nutrientes clave(4) en comparación con antes de la pubertad.
 - SISTEMA INMUNITARIO – Contiene vitamina D que apoya a las defensas.(5)
-- ATENCIÓN y MEMORIA – Contiene hierro que ayuda a la atención y memoria.(1)
+- ENERGÍA – PediaSure Teen Balance aporta proteínas, vitaminas y minerales incluyendo magnesio, que ayuda a afrontar el día a día con energía.(2)
+- Para niños y adolescentes a partir de 11 años. Sabor a vainilla: les gusta su sabor.(6)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CW3MYMZR{{</world>}}

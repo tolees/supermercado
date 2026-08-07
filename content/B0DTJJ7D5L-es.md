@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PROTECCIÓN UV - El labial hidratante cuenta con un FPS30, por lo que además de proteger tu piel contra los rayos UV, ayuda a prevenir la pérdida de colágeno*.
 - COMPROMISO CONTIGO Y CON EL PLANETA - Este tinte de labios, formulado con ingredientes de origen natural y con un envase reciclable, no contiene aceites minerales.
-- CONTENIDO DEL ENVÍO - LIPOSAN Pack Bálsamo Labial Caring Beauty 3en1, set de bálsamos para labios y mejillas en diferentes tonos de rosa (3 x 4,8 g)
 - PARA LABIOS Y MEJILLAS - Gracias a este bálsamo labial de cobertura modulable, que también funciona como colorete, solo necesitarás un producto para maquillarte.
+- CONTENIDO DEL ENVÍO - LIPOSAN Pack Bálsamo Labial Caring Beauty 3en1, set de bálsamos para labios y mejillas en diferentes tonos de rosa (3 x 4,8 g)
 - 24 H DE HIDRATACIÓN - Enriquecido con Vitamina E y Aceite de Almendras Orgánico, el bálsamo para labios y mejillas mantiene los labios hidratados durante 24 h.
+- PROTECCIÓN UV - El labial hidratante cuenta con un FPS30, por lo que además de proteger tu piel contra los rayos UV, ayuda a prevenir la pérdida de colágeno*.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTJJ7D5L{{</world>}}

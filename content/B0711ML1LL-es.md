@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apta para Dietas Sin Gluten: Formulada sin gluten, es una alternativa perfecta a la pasta tradicional para quienes buscan opciones diferentes en su cocina diaria sin renunciar a la forma clásica del penne.
 - Textura Firme y Buena Cocción: Mantiene su forma tras la cocción y ofrece una mordida agradable. No se deshace fácilmente, por lo que funciona muy bien en platos calientes, ensaladas de pasta o recetas al horno.
-- Elaborada 100% con Lenteja Amarilla: Esta pasta se produce exclusivamente a partir de lentejas amarillas ecológicas molidas, sin harinas añadidas. Su color natural y su sabor delicado la convierten en una base ideal para todo tipo de recetas.
 - Versátil en Recetas Frías y Calientes: Ideal para combinar con verduras, salsas suaves, cremas o aceites aromatizados. Su perfil neutro permite que absorba muy bien los sabores de los ingredientes.
+- Apta para Dietas Sin Gluten: Formulada sin gluten, es una alternativa perfecta a la pasta tradicional para quienes buscan opciones diferentes en su cocina diaria sin renunciar a la forma clásica del penne.
+- Elaborada 100% con Lenteja Amarilla: Esta pasta se produce exclusivamente a partir de lentejas amarillas ecológicas molidas, sin harinas añadidas. Su color natural y su sabor delicado la convierten en una base ideal para todo tipo de recetas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0711ML1LL{{</world>}}

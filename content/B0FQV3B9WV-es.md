@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CON LECHE O CON AGUA | Preparación instantánea de este batido sabor chocolate con un vaso de leche o de agua para tenerlo listo con solo mezclar hasta su total disolución.
-- MANTENIMIENTO DE HUESOS Y MÚSCULOS | Con un 100% de proteínas del suero de alto valor biológico y fácil asimilación que contribuye a conservar la masa muscular. Aporta el 100% de la Vitamina D y el 47% del calcio para el mantenimiento de unos huesos normales.
-- SUPLEMENTO NUTRICIONAL COMPLETO | En polvo con fibra y edulcorantes para adultos con 13 vitaminas y 13 minerales para satisfacer las necesidades energéticas y nutricionales.
 - PARA ADULTOS | Como complemento a la alimentación en situaciones de debilidad, poco apetito, convalecencia, pérdida de peso involuntaria y en aquellas situaciones que requieran un aporte nutricional extra.
 - ADVERTENCIAS | Una vez preparado, consumir inmediatamente. No administrar en niños menores de 3 años. No debe usarse en personas con galactosemia. No exceder la dosis diaria recomendada. Guardar en lugar fresco y seco. Una vez abierto el envase, consumir antes de 4 semanas. Envasado en atmósfera protectora. Mantener una dieta variada y equilibrada y un estilo de vida saludable. Los Suplementos Alimenticios no deber ser usados como substitutos de una dieta balanceada.
+- MANTENIMIENTO DE HUESOS Y MÚSCULOS | Con un 100% de proteínas del suero de alto valor biológico y fácil asimilación que contribuye a conservar la masa muscular. Aporta el 100% de la Vitamina D y el 47% del calcio para el mantenimiento de unos huesos normales.
+- CON LECHE O CON AGUA | Preparación instantánea de este batido sabor chocolate con un vaso de leche o de agua para tenerlo listo con solo mezclar hasta su total disolución.
+- SUPLEMENTO NUTRICIONAL COMPLETO | En polvo con fibra y edulcorantes para adultos con 13 vitaminas y 13 minerales para satisfacer las necesidades energéticas y nutricionales.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FQV3B9WV{{</world>}}

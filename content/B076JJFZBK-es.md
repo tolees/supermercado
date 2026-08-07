@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Proporciona protección frente al calor
-- Fijación nivel 2
 - Proporciona un brillo óptimo y añadiendo cuerpo al peinado
 - Aplicar sobre el cabello húmedo, enrollar los mechones en el cepillo y secar con secador
+- Proporciona protección frente al calor
+- Fijación nivel 2
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B076JJFZBK{{</world>}}

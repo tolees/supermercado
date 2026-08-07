@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para cabello difícil de alisar y sin parabenos
-- Cabello liso y protegido, sin encrespamiento y sin apelmazar
-- Con aceite de argán y phytokeratina
 - Limpia suavemente el cabello y el cuero cabelludo
+- Con aceite de argán y phytokeratina
+- Cabello liso y protegido, sin encrespamiento y sin apelmazar
+- Para cabello difícil de alisar y sin parabenos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B06XCSH85P{{</world>}}

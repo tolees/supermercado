@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Apto para compartir
-- Realizadas con solo patatas, aceite y sal
 - Patatas fritas de bolsa
 - Patatas estilo churrería
 - Sabor a sal
+- Realizadas con solo patatas, aceite y sal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DT9QXQHD{{</world>}}

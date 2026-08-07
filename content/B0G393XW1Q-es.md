@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PROBADO DERMATOLÓGICAMENTE. Este champú de cuidado experto para el cuero cabelludo DermaXPro es suave para su cuero cabelludo y cabello
-- PROTECCIÓN DIRIGIDA CONTRA LA CASPA. Aborda la causa raíz de la caspa con un champú anticaída que hace más que solo limpiar. Hidrata la piel y la repara, ayudando a combatir las escamas y fortalecer el cabello contra la rotura
 - MEJORA LA DENSIDAD DEL CABELLO EN 8 SEMANAS*. Hidrata el cuero cabelludo y previene la caída del cabello por rotura
 - CUIDADO DEL CUERO CABELLUDO CLÍNICAMENTE PROBADO. Nuestro champú anticaspa DermaXPro Revitaliser está clínicamente probado para restaurar las ceramidas de la piel y conservar el cabello por más tiempo
+- PROBADO DERMATOLÓGICAMENTE. Este champú de cuidado experto para el cuero cabelludo DermaXPro es suave para su cuero cabelludo y cabello
+- PROTECCIÓN DIRIGIDA CONTRA LA CASPA. Aborda la causa raíz de la caspa con un champú anticaída que hace más que solo limpiar. Hidrata la piel y la repara, ayudando a combatir las escamas y fortalecer el cabello contra la rotura
 - ENRIQUECIDO CON CAFEÍNA* Y COMPLEJO DE CERAMIDAS. Diseñada para el cuidado del cabello propenso a caerse, nuestra fórmula experta (*cafeína sintética)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

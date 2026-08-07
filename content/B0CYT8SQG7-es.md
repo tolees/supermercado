@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ingredientes: agua tratada, 100% con mexcla de maltas de cebadas claras y oscuras, lúpulo y levadura Amstel
 - 0.0 % de alcohol en volumen; maltas tostadas en 3 tiempos: secado, tostación y golpe de fuego
+- Ingredientes: agua tratada, 100% con mexcla de maltas de cebadas claras y oscuras, lúpulo y levadura Amstel
 - De color dorado oscuro y espuma cremosa; de cuerpo medio y amargor suave
 - Cerveza estilo lager especial tostada sin alcohol
 - Consumirla entre 2° y 4°C para obtener sus óptimas cualidades

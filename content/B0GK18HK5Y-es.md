@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 97 % ORIGEN NATURAL * FÓRMULA con aloe de México, certificada por expertos en plantas de los Jardines Botánicos Reales de Kew. Sin silicona, sin surfactantes sulfatados, libre de crueldad y vegana * se refiere a los ingredientes de la fórmula
-- HASTA 2X MÁS NUTRICIÓN* Destapa para experimentar un pelo hermosamente hidratado y suave como la seda. *al usar champú y acondicionador como tratamiento sin aclarado, o champú y mascarilla capilar vs champú sin acondicionador
 - LATHERS LUJOSOS Comienza tu limpieza con un toque de hidratación y un aroma floral melódico
 - IMPULSO DE ÁNIMO, NATURAL. Siéntete renovado con fórmulas profundamente hidratantes y notas florales de jazmín, científicamente comprobadas* para dejarte restaurado. * mediante investigación multimodal
 - Sumérgete en una hidratación nutritiva con cada lavado
+- 97 % ORIGEN NATURAL * FÓRMULA con aloe de México, certificada por expertos en plantas de los Jardines Botánicos Reales de Kew. Sin silicona, sin surfactantes sulfatados, libre de crueldad y vegana * se refiere a los ingredientes de la fórmula
+- HASTA 2X MÁS NUTRICIÓN* Destapa para experimentar un pelo hermosamente hidratado y suave como la seda. *al usar champú y acondicionador como tratamiento sin aclarado, o champú y mascarilla capilar vs champú sin acondicionador
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GK18HK5Y{{</world>}}

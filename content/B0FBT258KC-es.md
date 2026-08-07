@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contiene minerales naturales
-- Embotellada en origen en Brakel, Bélgica
-- Agua mineral natural con gas
 - Burbujas finas y refrescantes
+- Embotellada en origen en Brakel, Bélgica
+- Contiene minerales naturales
 - Conservar en lugar fresco y seco
+- Agua mineral natural con gas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FBT258KC{{</world>}}

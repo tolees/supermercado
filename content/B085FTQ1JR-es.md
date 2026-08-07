@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Es libre de gluten y está certificado kosher
+- Es producido cumpliendo con más de 300 rigurosos estándares laborales, sociales y ambientales
 - Naturalmente añejado sin ingredientes artificiales
 - Un ron premium de 5 años producido de manera sostenible y con cero contenido de azúcar
-- Es producido cumpliendo con más de 300 rigurosos estándares laborales, sociales y ambientales
+- Es libre de gluten y está certificado kosher
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B085FTQ1JR{{</world>}}

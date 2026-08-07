@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- [Esencia solar que combina bien con el maquillaje] Una esencia solar que no afecta el maquillaje, ofreciendo una piel suave y uniforme, ideal como base de maquillaje.
 - [Esencia solar con fuerte función de bloqueo UV] Una esencia solar equipada con una fuerte protección contra los rayos UV, que protege eficazmente la piel de los rayos perjudiciales mientras la mantiene cómoda.
 - Con SPF 50 y PA++++, bloquea a un alto nivel los rayos UVB y UVA.
+- [Esencia solar que combina bien con el maquillaje] Una esencia solar que no afecta el maquillaje, ofreciendo una piel suave y uniforme, ideal como base de maquillaje.
 - [Esencia solar ligera e hidratante] Una esencia solar que proporciona una hidratación intensiva a la piel con una sensación ligera y húmeda, dejando la piel hidratada sin sensación de pesadez.
 - Para la hidratación de la piel y el cuidado de la barrera, contiene ácido hialurónico triple, 6 extractos de flores de hierbas, extracto de flores de durazno y extracto de Cynanchum Atratum. Este producto está certificado vegano por la reconocida organización de certificación vegana británica The Vegan Society.
 

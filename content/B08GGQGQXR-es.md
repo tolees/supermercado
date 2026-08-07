@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Conservar en un lugar limpio fresco y seco
-- Bonka fomenta las buenas prácticas en el cultivo del café promoviendo una agricultura responsable y sostenible. Hemos cambiado el material de envasado de nuestros paquetes de café en grano por uno listo para ser reciclado
-- Intensidad 9/12. Un café tostado e intenso en aroma. Su amargor y acidez se equilibran para conseguir un café jugoso y con cuerpo
 - Para uso en máquinas de café automáticas y otras máquinas de café
+- Intensidad 9/12. Un café tostado e intenso en aroma. Su amargor y acidez se equilibran para conseguir un café jugoso y con cuerpo
+- Bonka fomenta las buenas prácticas en el cultivo del café promoviendo una agricultura responsable y sostenible. Hemos cambiado el material de envasado de nuestros paquetes de café en grano por uno listo para ser reciclado
 - Contiene 1 paquete de 500g
 
 [🛒 Aquí!!!]({{< param buyurl >}})

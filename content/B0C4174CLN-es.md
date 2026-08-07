@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mezcla flores refinadas y notas orientales con néctar floral
-- Botella con un diseño lineal y moderno
 - Con notas vibrantes que combinan mandarina, melocotón y lichi
+- Botella con un diseño lineal y moderno
+- Mezcla flores refinadas y notas orientales con néctar floral
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C4174CLN{{</world>}}

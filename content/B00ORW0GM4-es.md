@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Aroma limpio y de buena intensidad
-- Adecuado como regalo
-- Ideal en una variedad de cócteles
 - Elaborado a partir de holandas, aguardientes de vinos
+- Ideal en una variedad de cócteles
 - Color caoba
+- Adecuado como regalo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00ORW0GM4{{</world>}}

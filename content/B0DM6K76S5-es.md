@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- BRILLO PARA TODOS: Disponible en 2 tonos radiantes y versátiles con perlas ultra refinadas para un brillo dimensional.
 - INGREDIENTES PARA EL CUIDADO DE LA PIEL: Formulado con glicerina y extracto de superfrutas para hidratar la piel.
 - SENSACIÓN REFRESCANTE: La fórmula en gel contiene un 80 % de agua para una sensación no pegajosa ni grasosa. Aroma fresco a coco.
-- FÓRMULA FÁCIL DE USAR que se aplica sobre el rostro, los hombros y cualquier otra parte del cuerpo donde quieras lucir radiante. Úsala sola o en capas para un acabado suave y brillante. No mancha.
 - HIDRATACIÓN LAS 24 HORAS: Prepara, hidrata e ilumina la piel al instante y aporta un brillo saludable
+- FÓRMULA FÁCIL DE USAR que se aplica sobre el rostro, los hombros y cualquier otra parte del cuerpo donde quieras lucir radiante. Úsala sola o en capas para un acabado suave y brillante. No mancha.
+- BRILLO PARA TODOS: Disponible en 2 tonos radiantes y versátiles con perlas ultra refinadas para un brillo dimensional.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DM6K76S5{{</world>}}

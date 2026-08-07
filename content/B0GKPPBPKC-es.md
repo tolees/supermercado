@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - LIMPIEZA MÁS EFICIENTE CON DOBLE DEPÓSITO: La mopa fregona con cubo escurridor separa agua limpia y sucia en depósitos independientes, evitando que la suciedad vuelva a la mopa; cada pasada es más higiénica y deja el suelo reluciente.
 - MICROFIBRA ULTRA ABSORBENTE + 2 MOPAS LAVABLES: Miles de microfibras atrapan polvo, líquidos y pelo de mascotas sin rayas; incluye 2 mopas reutilizables lavables a máquina (hasta 30ºC) para mantener tu mopa fregona con cubo escurridor siempre como nueva.
-- TRIPLE TECNOLOGÍA: LAVA, HUMEDECE Y ESCURRE A TU GUSTO. Cepillo de cerdas de nylon para desincrustar, 8 chorros automáticos para humedecer y escurrido basculante a presión para elegir la humedad ideal; tu fregona mopa se adapta a cada tipo de suelo.
 - COMPACTA, MANEJABLE Y ERGONÓMICA PARA TODA LA CASA: Ocupa un 65% menos (23,5 x 19 cm), cabezal 360º extrafino para rincones y bajo muebles, palo desmontable de hasta 131,5 cm y vaciado cómodo con válvula; tu mopa fregona con cubo escurridor es fácil de usar y guardar.
+- TRIPLE TECNOLOGÍA: LAVA, HUMEDECE Y ESCURRE A TU GUSTO. Cepillo de cerdas de nylon para desincrustar, 8 chorros automáticos para humedecer y escurrido basculante a presión para elegir la humedad ideal; tu fregona mopa se adapta a cada tipo de suelo.
 - AHORRA AGUA Y LIMPIA HASTA 300 m² CON 1,4 L: Máxima eficiencia: limpia grandes superficies con poco consumo y sin interrupciones; ideal para una limpieza completa con tu fregona mopa en menos tiempo.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

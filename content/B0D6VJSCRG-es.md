@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- En Legumbres Guillermo, tenemos el propósito de que disfrutes en casa de los mejores Arroces, procedentes de la Agricultura Natural, con categoria Gourmet. Apto para vegetarianos y veganos.
 - Modo de empleo: Lavar bien el arroz con abundante agua antes de cocinarlo. En una cazuela conemos 2,5 partes de agua por cada parte de arroz. Llevamos el agua a Ebullición añadimos sal. Añadimos el arroz y removemos. Cocinar durante 18-20 minutos y dejar reposar 5-10 minutos.
-- PROPIEDADES - Se trata de un alimento sumamente rico en nutrientes esenciales, destacando su altísimo contenido en vitaminas, minerales, hidratos de carbono complejos y fibra.Por otro lado, es interesante tener en cuenta que se trata de un alimento cuyo consumo está aconsejado de manera regular y habitual.
-- FORMATO - 1 Paquete de 500 g.
+- En Legumbres Guillermo, tenemos el propósito de que disfrutes en casa de los mejores Arroces, procedentes de la Agricultura Natural, con categoria Gourmet. Apto para vegetarianos y veganos.
 - INFORMACIÓN NUTRICIONAL (100gr) - 1497kj/358kcal, Grasas 0,52g, de las cuales saturadas 0,14g, Hidrato de carbono 79,2g de los cuales azucares <0,01g, fibra alimentaria 2,8g, Proteínas 6,5g, Sal <0,02g.
+- FORMATO - 1 Paquete de 500 g.
+- PROPIEDADES - Se trata de un alimento sumamente rico en nutrientes esenciales, destacando su altísimo contenido en vitaminas, minerales, hidratos de carbono complejos y fibra.Por otro lado, es interesante tener en cuenta que se trata de un alimento cuyo consumo está aconsejado de manera regular y habitual.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6VJSCRG{{</world>}}

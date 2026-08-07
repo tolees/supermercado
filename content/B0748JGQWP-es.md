@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Café con leche listo para beber
 - Tiene un sabor agradable y aromático
 - Se puede servir frío o caliente
-- Contiene mezcla de café arábica y robusta
-- Café con leche listo para beber
 - Viene en botellas de 1 litro
+- Contiene mezcla de café arábica y robusta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0748JGQWP{{</world>}}

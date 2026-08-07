@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este producto está indicado tanto para mujeres como para hSombras.
 - Contiene 75 ml.
+- Este producto está indicado tanto para mujeres como para hSombras.
 - De la marca Licor Del Polo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

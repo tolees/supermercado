@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Elimina sencilla y eficazmente manchas y suciedad difícil sin química
+- No utilizar en paredes pintadas de colores y elementos barnizados; Pruebe antes
+- Se puede usar en mojado o en seco
 - Elimina marcas de ceras, dedos, cal incrustada y óxido de diversas superficies
 - Rendimiento duradero
-- Se puede usar en mojado o en seco
-- No utilizar en paredes pintadas de colores y elementos barnizados; Pruebe antes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BTPK851F{{</world>}}

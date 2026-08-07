@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Puede ser utilizado en alfombras, sofás, colchones, abrigos, moquetas, cortinas, asientos y tapicerías del coche, mantas, sillitas de bebé o chaquetas entre otros
-- Sanytol spray Eliminador de Olores Desinfectante elimina el 99,9% de gérmenes presentes en tejidos y textiles del hogar
 - El producto está listo para su uso, no necesita aclarado. No es recomendable utilizarlo en tejidos de seda o ante. En tejidos delicados, comprobar su compatibilidad
+- Sanytol spray Eliminador de Olores Desinfectante elimina el 99,9% de gérmenes presentes en tejidos y textiles del hogar
 - Eficaz contra malos olores persistentes de orina, humedad, mascotas, sudor, entre otros. Su fórmula sin lejía no mancha y respeta los tejidos. Acaba con los malos olores de raíz en tejidos no lavables, difíciles de lavar e incluso lavables, gracias a su acción contra las bacterias que lo provocan, dejando un agradable perfume
 - Triple acción contra gérmenes, bacterias y virus. También tiene eficacia neutralizando ácaros comunes del polvo, el polen o los gatos
 

@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Con un color caramelo
 - Adecuado como regalo
-- Está añejada en botas de roble americano
-- Es suave, aterciopelado y persistente
 - Con toques de frutos secos
+- Es suave, aterciopelado y persistente
+- Está añejada en botas de roble americano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00XA5OS4Q{{</world>}}

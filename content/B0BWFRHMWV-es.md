@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🌺 MONOÏ DE TAHITÍ + ACEITE DE COCO — HIDRATACIÓN DE LUJO MIENTRAS TE BRONCEAS — hidrata en profundidad con una fragancia exótica que transporta a un paraíso tropical. El mismo activo del Glow Stick Babaria, ahora en formato aceite bronceador para el cuerpo. Piel sedosa, suave y brillante desde la primera aplicación.
-- 🥕 ZANAHORIA + BETA-CAROTENO — BRONCEADO DORADO E INTENSO DESDE DENTRO — El aceite y extracto de zanahoria aportan beta-caroteno, el pigmento natural que intensifica el tono dorado del bronceado de forma uniforme. Vitamina E y Vitamina C antioxidantes que protegen la piel del estrés oxidativo solar. Aceite solar bronceador que cuida mientras broncea.
 - ✨ ACEITE BRONCEADOR CON EFECTO LUMINOSO REAL — BRILLO DORADO QUE SE VE — No es un bronceador más. Tu piel tendrá un destello luminoso que el gel o la crema convencional no pueden replicar. Potencia el bronceado natural mientras cubre la piel de un resplandor dorado y exótico. El aceite bronceador que convierte el moreno en una experiencia visual.
+- 🌺 MONOÏ DE TAHITÍ + ACEITE DE COCO — HIDRATACIÓN DE LUJO MIENTRAS TE BRONCEAS — hidrata en profundidad con una fragancia exótica que transporta a un paraíso tropical. El mismo activo del Glow Stick Babaria, ahora en formato aceite bronceador para el cuerpo. Piel sedosa, suave y brillante desde la primera aplicación.
 - 💨 TEXTURA ACEITE SECO — SIN RESIDUO GRASO — Se extiende de forma homogénea por todo el cuerpo en segundos. El aceite bronceador que parece agua en la piel pero deja el brillo de un aceite de lujo.
+- 🥕 ZANAHORIA + BETA-CAROTENO — BRONCEADO DORADO E INTENSO DESDE DENTRO — El aceite y extracto de zanahoria aportan beta-caroteno, el pigmento natural que intensifica el tono dorado del bronceado de forma uniforme. Vitamina E y Vitamina C antioxidantes que protegen la piel del estrés oxidativo solar. Aceite solar bronceador que cuida mientras broncea.
 - BABARIA — VEGANO, CORAL FRIENDLY — Producto vegano respetuoso con los arrecifes de coral. La variación que eleva la percepción de toda la gama Exotic Bronze
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- FRAGANCIA Y AROMA: Una Mezcla refinada y persistente, que se presenta con: Cuerpo: 8.5 - Intensidad: 8.5 - Persistencia: 9 - Dulzor: 9 - Acidez: 5
-- MEZCLA DE CAFÉ AZUL: De una cuidadosa selección de blends, surge un café especial con un perfecto equilibrio entre cuerpo, persistencia y dulzura; La Mezca de Café Azul se caracteriza por su sabor noble, carácter vigoroso y aroma intenso: una mezcla equilibrada de Arábica y Robusta, envasada en atmósfera protectora
-- FORMATO: 100 Cápsulas de Café
-- Cápsulas Compatibles con Lavazza* Espresso Point* para uso con los siguientes modelos de máquinas de café: Como Cup, ECL 101, EL 3100, EL 3200, EP 2100, EP Inox, EP Mini, Espresso y Cappuccino; Didiesse - Isolda, Pagoda. NOTA: ¡No es compatible con las máquinas de café Lavazza* A Modo Mio*!
 - *Lavazza, *Espresso Point y *Lavazza Espresso Point son marcas comerciales propiedad de Luigi Lavazza SPA; Caffè Borbone SRL es un fabricante independiente y no vinculado a Luigi Lavazza SPA; La compatibilidad de las cápsulas Caffè Borbone es funcional para su uso con máquinas de café *Lavazza *Espresso Point
+- FRAGANCIA Y AROMA: Una Mezcla refinada y persistente, que se presenta con: Cuerpo: 8.5 - Intensidad: 8.5 - Persistencia: 9 - Dulzor: 9 - Acidez: 5
+- Cápsulas Compatibles con Lavazza* Espresso Point* para uso con los siguientes modelos de máquinas de café: Como Cup, ECL 101, EL 3100, EL 3200, EP 2100, EP Inox, EP Mini, Espresso y Cappuccino; Didiesse - Isolda, Pagoda. NOTA: ¡No es compatible con las máquinas de café Lavazza* A Modo Mio*!
+- FORMATO: 100 Cápsulas de Café
+- MEZCLA DE CAFÉ AZUL: De una cuidadosa selección de blends, surge un café especial con un perfecto equilibrio entre cuerpo, persistencia y dulzura; La Mezca de Café Azul se caracteriza por su sabor noble, carácter vigoroso y aroma intenso: una mezcla equilibrada de Arábica y Robusta, envasada en atmósfera protectora
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00VEFWOQ8{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Con menos sal
 - Sello FEC (Federación Española del Corazón). Sin colorantes
 - Contiene Leche o derivados de la leche (lactosa)
-- Con menos sal
 - Con colorantes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ANTIEDAD: Con ingredientes que combaten el envejecimiento, el protector solar Facial 50 de Babaria ayuda a reducir visiblemente las arrugas y líneas de expresión. Esta proteccion solar 50 facial esta indicada para cara, cuello y escote.
 - AFTER SUN EFECTO HIELO CON ALOE VERA Y MANZANILLA: Proporciona un alivio inmediato y refrescante tras la exposición solar, ayudando a calmar la piel irritada y enrojecida.
-- PROTECTOR SOLAR FACIAL 50: La crema solar facial 50+ de Babaria es un potente bloqueador solar facial contra los rayos UVA - UVB - infrarrojos.
+- ANTIEDAD: Con ingredientes que combaten el envejecimiento, el protector solar Facial 50 de Babaria ayuda a reducir visiblemente las arrugas y líneas de expresión. Esta proteccion solar 50 facial esta indicada para cara, cuello y escote.
 - FORMATO PRÁCTICO DE 100 ML: Crema facial con textura de rápida absorción en un envase cómodo y fácil de aplicar, ideal para llevar en la bolsa de playa o en el neceser por esto es un perfecto after sun.
+- PROTECTOR SOLAR FACIAL 50: La crema solar facial 50+ de Babaria es un potente bloqueador solar facial contra los rayos UVA - UVB - infrarrojos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FH2V5Y4V{{</world>}}

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - El vino desalcoholizado se utiliza como base, conservando sus auténticas características
-- Mejor servido en cócteles sin alcohol como un delicioso spritz
+- Aperitivo sin gluten con ingredientes botánicos superiores, como artemesia y la bergamota italiana
 - Acompáñalo con pequeños platos y aperitivos salados ligeros para realzar el momento
 - Una botella de 75 cl de MARTINI Vibrante Aperitivo Sin Alcohol
-- Aperitivo sin gluten con ingredientes botánicos superiores, como artemesia y la bergamota italiana
+- Mejor servido en cócteles sin alcohol como un delicioso spritz
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DXFT16Q1{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- USO SALUDABLE: Esta infusión no sustituye a una alimentación variada y equilibrada ni a una forma de vida sana.
+- INGREDIENTES NATURALES: Manzana, hibisco, aroma de tarta de queso con fresa (12 %), escaramujo, hojas de stevia, fresas.
 - MODO DE EMPLEO: Verter agua hirviendo sobre la bolsita y dejarla infusionar entre 5 y 8 minutos.
 - FORMATO: 18 bolsitas de 2,25 gramos, envueltas en sobre protector. Consérvese en un lugar fresco y seco.
-- INGREDIENTES NATURALES: Manzana, hibisco, aroma de tarta de queso con fresa (12 %), escaramujo, hojas de stevia, fresas.
 - BENEFICIOS: Pompadour Infusión Tarta de Queso con Fresas, permite disfrutar del delicioso sabor de tu dulce favorito junto a la untuosa suavidad de una infusión, sin incorporar calorías al organismo, siendo una magnífica opción para disfrutar y a la vez, cuidar la línea.
+- USO SALUDABLE: Esta infusión no sustituye a una alimentación variada y equilibrada ni a una forma de vida sana.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DNFXKDDX{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Packs de Pollo
-- Alimento completo y equilibrado para perros adultos de tamaño mediano/maxi (11-70 kg).
-- Digestión fácil: con inulina prebiótica que puede favorecer la digestión
 - Nutrición completa para perros adultos Medianos y Grandes.
 - En prácticas latas de 400g
+- Packs de Pollo
+- Digestión fácil: con inulina prebiótica que puede favorecer la digestión
+- Alimento completo y equilibrado para perros adultos de tamaño mediano/maxi (11-70 kg).
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GTB65WNF{{</world>}}

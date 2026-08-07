@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Modo de empleo: Aplicar sobre el cabello húmedo o seco y apretar. No necesita aclarado.
 - 1 uso, 2 acciones: cuidado y peinado. 3 días de nutrición*, 3 días de definición*. Aroma rico y cremoso: bergamota, jazmín y vainilla. *Test instrumental.
-- Protección térmica hasta 230 °C* - No graso - No pegajoso *Test instrumental.
 - El pelo ondulado y rizado necesita un cuidado extra para recuperar su suavidad y definición. Expermienta el poder nutritivo de nuestr crema de peinar con Aceite de Aguacate y Manteca de Karité, que suaviza el encrespamiento y define los rizos. Textura ligera, sin apelmazar.
+- Modo de empleo: Aplicar sobre el cabello húmedo o seco y apretar. No necesita aclarado.
+- Protección térmica hasta 230 °C* - No graso - No pegajoso *Test instrumental.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00X9UE05Y{{</world>}}

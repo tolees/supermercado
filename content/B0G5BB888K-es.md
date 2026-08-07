@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - La siguiente información se aplica a cada unidad del paquete
-- Dragon Fruit Scented
 - Jabón en pastilla
+- Dragon Fruit Scented
 - Para cara, cuerpo y manos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

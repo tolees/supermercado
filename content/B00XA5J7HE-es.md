@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- FÁCIL DE USAR Y DE CONSERVAR. Sólo tienes que agitar bien antes de añadir el caldo a la receta que elijas. Antes de abrir, consérvalo a temperatura ambiente en un lugar fresco y seco. Una vez abierto, guárdalo en la nevera o en el congelador.
 - COCINADO A FUEGO LENTO. El Caldo Casero de Pollo 100% Natural de Gallina Blanca está cocinado con mimo y paciencia a fuego lento durante 3 horas. Ponemos todo nuestro cariño y esmero, porque entendemos que son la clave de un buen caldo casero.
 - SIN CONSERVANTES · SIN GLUTEN · BAJO EN GRASA. Todos nuestros caldos caseros son bajos en grasa, sin gluten y sin conservantes, pues los esterilizamos a una temperatura de 150ºC. Tan naturales como los harías en casa.
 - CALDO CASERO CON INGREDIENTES 100% NATURALES. El Caldo Casero de Pollo Gallina Blanca está hecho a base de ingredientes 100% naturales cuidadosamente seleccionados: pollo fresco y verduras de la huerta directamente a tu plato.
+- FÁCIL DE USAR Y DE CONSERVAR. Sólo tienes que agitar bien antes de añadir el caldo a la receta que elijas. Antes de abrir, consérvalo a temperatura ambiente en un lugar fresco y seco. Una vez abierto, guárdalo en la nevera o en el congelador.
 - SOPAS Y PLATOS DELICIOSOS. Con el Caldo Casero de Pollo 100% Natural, prepararás sopas deliciosas con todo el sabor y otros platos como pollo al romero y limón, canelones o muslos de pavo guisados. Encuentra las recetas en la web de Gallina Blanca.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

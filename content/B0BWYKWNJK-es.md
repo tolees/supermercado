@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Alimento para bebés a partir de 6 meses
-- 100% natural con vitamina C
 - Alimento infantil elaborado 100% con fruta natural madurada en el árbol lista para tomar
+- 100% natural con vitamina C
 - Sin azúcares añadidos y sin espesantes, como lo haces en casa
 - Sin aceite de palma y sin gluten; sin colorantes ni conservantes, según la legislación vigente
 

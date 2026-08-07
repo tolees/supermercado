@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - INGREDIENTES SELECCIONADOS | Elaborado con Pasta de cacao, manteca de cacao, cacao desgrasado en polvo y azúcar. Cacao 95% mínimo. Puede contener FRUTOS DE CÁSCARA. Sin gluten.
-- APTO PARA CELÍACOS | Producto sin gluten, ideal para quienes buscan calidad y cuidado en cada bocado.
-- FORMATO | Tableta de 80 g, perfecta para disfrutar sola, compartir en celebraciones o incluir en surtidos. Ideal para regalar, sorprender con un detalle original o añadir a tu cesta de Navidad.
 - SABOR ÚNICO | Disfruta del auténtico chocolate negro 95% cacao, para quienes buscan intensidad y pureza en cada bocado.
+- FORMATO | Tableta de 80 g, perfecta para disfrutar sola, compartir en celebraciones o incluir en surtidos. Ideal para regalar, sorprender con un detalle original o añadir a tu cesta de Navidad.
+- APTO PARA CELÍACOS | Producto sin gluten, ideal para quienes buscan calidad y cuidado en cada bocado.
 - CHOCOLATES TRAPA | fundada en 1891, es una de las marcas más icónicas de España. Empresa pionera y 100% española que, desde 2013, apuesta por innovación, diseño y compromiso social y medioambiental. Hoy, Trapa ofrece una amplia gama de chocolates, bombones y turrones premium, ideales para regalar, disfrutar en cualquier ocasión y crear momentos únicos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

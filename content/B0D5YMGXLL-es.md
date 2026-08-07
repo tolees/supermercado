@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- En la nota de corazón, los nenúfares frescos se funden con madera de cedro y bocas en una base de pachulí terroso, sándalo cremoso y ámbar resinoso
 - El mexx black man eau de parfum es una experiencia de fragancia acuática amaderada para hombres con pimienta negra y madera de cedro, que irradia una sensualidad irresistible y elegancia masculina
+- En la nota de corazón, los nenúfares frescos se funden con madera de cedro y bocas en una base de pachulí terroso, sándalo cremoso y ámbar resinoso
 - Contenido del envío: 1 x 50 ml mexx black man eau de parfum, aroma intenso y seductor para hombres en elegante vaporizador de perfume de cristal
 - El mexx black man eau de parfum convence por su fórmula vegana y su embalaje reducido con materias primas certificadas FSC
 

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Caramelos de goma
 - Con recubrimiento pica
-- Conservar en lugar fresco y seco
 - Mix de tus piezas favoritas: Crocos, chupetes, cerezas y chispa cola
+- Caramelos de goma
+- Conservar en lugar fresco y seco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0973BKX2V{{</world>}}

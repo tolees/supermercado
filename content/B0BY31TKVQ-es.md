@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PERFECTO PARA REFINAR PLATOS- Estas trufas le dan a su comida un sabor lujoso e incomparable y son versátiles.
 - TEMPORADA GOURMET SUPERIOR- Nuestra trufa negra Carpaccio de alta calidad es un excelente aderezo para platos especiales. Úselo como aderezo para ensaladas, aderezo para pizza, pasta, papas, huevos y varios otros platos para crear un sabor gourmet inolvidable.
-- MÉTODO DE ALMACENAMIENTO- asegúrese de que el aceite de oliva esté por encima de las trufas para evitar la exposición al aire, lo que puede hacer que se echen a perder. Use las trufas dentro de las 4 semanas posteriores a la apertura del envase para obtener el máximo sabor y calidad. Nuestras trufas son sin gluten, sin nueces, sin lácteos y veganas y vegetarianas, lo que las convierte en una excelente opción para personas con necesidades dietéticas especiales.
 - GRAN REGALO- Estas elegantes trufas negras de Carpaccio son el regalo perfecto para los hombres que lo tienen todo, así como para los chefs profesionales y las personas que aman cocinar y preparar comida gourmet.
+- MÉTODO DE ALMACENAMIENTO- asegúrese de que el aceite de oliva esté por encima de las trufas para evitar la exposición al aire, lo que puede hacer que se echen a perder. Use las trufas dentro de las 4 semanas posteriores a la apertura del envase para obtener el máximo sabor y calidad. Nuestras trufas son sin gluten, sin nueces, sin lácteos y veganas y vegetarianas, lo que las convierte en una excelente opción para personas con necesidades dietéticas especiales.
+- PERFECTO PARA REFINAR PLATOS- Estas trufas le dan a su comida un sabor lujoso e incomparable y son versátiles.
 - MÁXIMA CALIDAD Y ORIGEN 100% NATURAL- Nuestras trufas negras Carpaccio se cosechan a mano en bosques europeos y se procesan cuidadosamente. Utilizamos solo los mejores ingredientes para hacer una pasta de trufa finamente equilibrada.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

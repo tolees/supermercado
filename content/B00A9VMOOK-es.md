@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Advertencia alergénica: contiene leche
 - Una vez abierto el envase, debe conservarse en frio, en un máximo de 2-3 días
 - Se debe conservar en un lugar fresco y seco
-- Advertencia alergénica: contiene leche
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00A9VMOOK{{</world>}}

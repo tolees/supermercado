@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sérum Anti-Chute Fortifiant de la gama Genesis es sérum fortificante anti-caída diario para pelo debilitado con tendencia a la caída por rotura del cepillado. Enriquecido con raíz de jengibre, cafeína y arginina para fortalecer el cabello desde la raíz
 - Aplicar como tratamiento de 30 días, una vez al día, por la mañana o por la noche, o como tratamiento ocasional durante todo el año. Aplicar 4 dosis sobre el cuero cabelludo seco o secado con toalla, sección por sección. Proceder al peinado sin aclarar
 - Fortalece la fibra capilar desde la raíz hasta las puntas y activa la circulación de nutrientes para estimular el crecimiento sano del cabello
+- Sérum Anti-Chute Fortifiant de la gama Genesis es sérum fortificante anti-caída diario para pelo debilitado con tendencia a la caída por rotura del cepillado. Enriquecido con raíz de jengibre, cafeína y arginina para fortalecer el cabello desde la raíz
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B083JKPCFB{{</world>}}

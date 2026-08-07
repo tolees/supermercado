@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cerveza sin filtrar según el método tradicional que conserva toda la levadura; gran cuerpo, sabor a malta caramelo y de amargor suave
-- Para consumirla (2° y 4°C) Girar la botella (no agitar) para despertar la levadura en suspensión
 - Conservar en un lugar limpio, seco y bien ventilado entre 5° y 15°C
 - Cerveza Lager Especial sin filtrar y sin alcohol
+- Para consumirla (2° y 4°C) Girar la botella (no agitar) para despertar la levadura en suspensión
 - Ingredientes naturales: Agua, malta de cebada, maíz, levadura y lúpulo
+- Cerveza sin filtrar según el método tradicional que conserva toda la levadura; gran cuerpo, sabor a malta caramelo y de amargor suave
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D31B7PP3{{</world>}}

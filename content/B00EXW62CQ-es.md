@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Alivia el agrietamiento de los labios
+- Ayuda a proteger contra los efectos dañinos de la exposición a los rayos UV con SPF 15
 - Ayuda a hidratar y suavizar los labios
 - Aporta protección antioxidante gracias a su contenido de vitamina E
-- Ayuda a proteger contra los efectos dañinos de la exposición a los rayos UV con SPF 15
-- Alivia el agrietamiento de los labios
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00EXW62CQ{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con una textura cremosa
 - Galletas tradicionales con pepitas de chocolate
+- Con una textura cremosa
 - Elaboración tradicional
 
 [🛒 Aquí!!!]({{< param buyurl >}})

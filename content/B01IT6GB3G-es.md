@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- LA BASE DE UNA DIETA SALUDABLE. El aceite de oliva ha sido desde siempre un ingrediente fundamental en la cocina y la base de una dieta saludable. En Coosur elaboramos aceite de oliva de las variedades arbequina, hojiblanca, picual y cornicabra, para que elijas el que más te guste para cada plato, sabiendo que es sinónimo de calidad y sabor.
 - ACEITE NATURAL CON ACIDEZ MENOR DE 1º. El indicativo Virgen hace referencia a que es un producto natural, clave en una dieta sana y equilibrada. Su grado de acidez menor de 1º te permitirá múltiples usos a la hora de cocinar con él.
 - MAESTROS ACEITEROS. Coosur tiene una dilatada historia de más de 50 años. Nuestros orígenes se sitúan en la provincia andaluza de Jaén, la mayor región productora de aceite de oliva de todo el mundo. Desde allí, producimos, refinamos, envasamos y exportamos a más de 25 países de todo el mundo.
 - IDÓNEO PARA USAR EN CRUDO. Usa el Aceite de Oliva Virgen Serie Oro de Coosur en crudo para aliñar y dar sabor a sopas frías, cremas de verduras e incluso también puedes usarlo para freír. Un aceite polivalente que será tu aliado a la hora de cocinar.
 - ACEITE DE OLIVA VIRGEN, SERIE ORO. Nuestro Aceite de Oliva Virgen Serie Oro es un producto natural, sin aditivos ni refinado, obtenido únicamente mediante procesos mecánicos que garantizan sus cualidades organolépticas.
-- LA BASE DE UNA DIETA SALUDABLE. El aceite de oliva ha sido desde siempre un ingrediente fundamental en la cocina y la base de una dieta saludable. En Coosur elaboramos aceite de oliva de las variedades arbequina, hojiblanca, picual y cornicabra, para que elijas el que más te guste para cada plato, sabiendo que es sinónimo de calidad y sabor.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01IT6GB3G{{</world>}}

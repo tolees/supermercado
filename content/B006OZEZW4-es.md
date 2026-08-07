@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - RECOMENDACIONES Para complementar tu rutina de cuidado con la Sombra de ojos ColorStay Day to Night Eyeshadow Quad, se recomienda usar el Delineador de Ojos ColorStay Eye Line, el delineador número 1 de Revlon; Disfruta de los beneficios de la línea ColorStay
-- INTENSO Y DURADERO La fórmula se desliza suavemente sobre los párpados, proporcionando un color intenso que dura hasta 24 horas; Esta paleta versátil permite crear looks discretos o audaces, y su aplicador de doble punta facilita la aplicación precisa y definida
 - COLORSTAY DAY TO NIGHT EYESHADOW QUAD La paleta de ojos ofrece tonos con diferentes acabados mate y brillante, en un formato de polvo de larga duración; Combina intensos colores que se mantienen vibrantes desde la mañana hasta la noche, con una fórmula híbrida en polvo y crema, además es waterproof
 - FÓRMULA ULTRA SUAVE Su fórmula híbrida en polvo y crema se caracteriza por una textura ultra suave, que se aplica como un polvo, pero permanece en la piel como una crema
+- INTENSO Y DURADERO La fórmula se desliza suavemente sobre los párpados, proporcionando un color intenso que dura hasta 24 horas; Esta paleta versátil permite crear looks discretos o audaces, y su aplicador de doble punta facilita la aplicación precisa y definida
 - CONSEJOS DE USO Para un look difuminado, aplica la sombra más clara sobre los párpados hasta el hueso de la ceja, para intensificar el look, aplica el segundo tono más claro desde la línea de las pestañas hasta el pliegue; Añade profundidad al pliegue utilizando el tono más intenso, y utiliza el último tomo como color de contraste en las comisuras exteriores de los ojos para un toque ahumado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ayuda a hidratar y fortalecer
-- Deja el cabello nutrido e hidratado
-- Champú profundamente nutritivo
 - Con leche de coco y aceite de coco
 - Sistema de cuidado del cabello sin sulfatos
+- Deja el cabello nutrido e hidratado
+- Ayuda a hidratar y fortalecer
+- Champú profundamente nutritivo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01JH11C7W{{</world>}}

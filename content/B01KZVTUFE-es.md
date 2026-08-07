@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Papel higiénico 4 capas un 21% más grande
 - Papel de color blanco. tamaño grande
+- Papel higiénico 4 capas un 21% más grande
+- Paquete de 6 rollos
 - Sin perfume ni loción
 - Testado dermatológicamente
-- Paquete de 6 rollos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01KZVTUFE{{</world>}}

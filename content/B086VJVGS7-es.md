@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto sometido a estrictos controles de calidad
-- Sabor delicioso
 - Agitar antes de servir
 - Sin conservantes
+- Producto sometido a estrictos controles de calidad
+- Sabor delicioso
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B086VJVGS7{{</world>}}

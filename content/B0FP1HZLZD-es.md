@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Utiliza el aplicador de plano inclinado para una aplicación precisa, Aplica sobre las imperfecciones o la ojera y difumina con brocha, esponja o con el dedo
-- La siguiente información se aplica a cada unidad del paquete
-- Fórmula enriquecida con 1,5% ácido hialurónico y cafeína, No contiene perfume, No comedogénica y con fórmula vegana* *Sin ingredientes o derivados de origen animal
 - Contenido: 1x LOréal Paris Sérum Corrector Iluminador, Accord Parfait, Tono 1N, 10ml
-- La cafeína ayuda a neutralizar las ojeras, Hasta 24 horas de hidratación** gracias al ácido hialurónico, Ayuda a alisar y rellenar la piel **Test instrumental
 - Sérum corrector infusionado con ácido hialurónico que ofrece una cobertura media con acabado radiante, Apto para pieles sensibles, Disponible en 15 tonos
+- Fórmula enriquecida con 1,5% ácido hialurónico y cafeína, No contiene perfume, No comedogénica y con fórmula vegana* *Sin ingredientes o derivados de origen animal
+- La siguiente información se aplica a cada unidad del paquete
+- La cafeína ayuda a neutralizar las ojeras, Hasta 24 horas de hidratación** gracias al ácido hialurónico, Ayuda a alisar y rellenar la piel **Test instrumental
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FP1HZLZD{{</world>}}

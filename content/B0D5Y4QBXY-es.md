@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- En Legumbres Guillermo, tenemos el propósito de que disfrutes en casa de las mejores Legumbres , procedentes de la Agricultura Natural.Apto para vegetarianos y veganos.
 - FORMATO - 1 Bolsa de 2 Kg.
 - PROPIEDADES -Los frijoles mungo son una fuente de proteína alternativa de origen vegetal.
 - INFORMACIÓN NUTRICIONAL (100gr): Energía 1453 kJ / 347 kcal,Grasas (g) 1.15 g Saturadas: 0.35 g,Carbohidratos (g) 46.3 g Azúcares: 6.60 g,Fibra (g) 16.3 g,Proteina (g) 23.8 g,Sal (g) 0.04 g
-- En Legumbres Guillermo, tenemos el propósito de que disfrutes en casa de las mejores Legumbres , procedentes de la Agricultura Natural.Apto para vegetarianos y veganos.
 - Modo de empleo: Tiempo de cocción aproximado.Agua dura Cazuela: 2 – 2.30 h Olla express: 55 min. Agua blanda Cazuela : 2 h Olla express: 40 min. Recuerde que antes de la cocción las legumbres deben estar a remojo durante 10-12 h aproximadamente. La dureza del agua e ingredientes pueden alterar el resultado. Comprobar antes de dar por finalizada la cocción
 
 [🛒 Comprar!!!]({{< param buyurl >}})

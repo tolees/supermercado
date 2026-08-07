@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mantener el spray a unos 20-25 cm del rostro y pulverizar uniformemente sobre el maquillaje, Dejar secar de forma natural, Combinar con The Face Glue Primer para mayor eficacia
 - Textura ligera y sensación de frescor, Fórmula enriquecida con sirope de arce y agentes que crean una película protectora para mayor fijación, No comedogénico
+- Mantener el spray a unos 20-25 cm del rostro y pulverizar uniformemente sobre el maquillaje, Dejar secar de forma natural, Combinar con The Face Glue Primer para mayor eficacia
+- Maquillaje intacto hasta 24 horas, Fijación resistente al agua, no se borra ni transfiere, Ayuda a fijar el maquillaje y aporta un acabado mate natural que mantiene los brillos bajo control
 - Spray fijador e hidratante para un maquillaje de larga duración, Para todo tipo de pieles, Óptimo para crear looks de maquillaje que duran todo el día como recién aplicados
 - Contenido: 1x NYX Professional Makeup Spray fijador The Face Glue Setting Spray, Larga duración e hidratación hasta 24h, Waterproof, No Transfiere, Para todo tipo de pieles, Transparente, 60ml
-- Maquillaje intacto hasta 24 horas, Fijación resistente al agua, no se borra ni transfiere, Ayuda a fijar el maquillaje y aporta un acabado mate natural que mantiene los brillos bajo control
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DHY9JSNV{{</world>}}

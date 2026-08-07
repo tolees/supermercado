@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PROTECCIÓN EN PELO DÉBIL: La fórmula con 50% más de agentes protectores* ayuda a reparar** tu pelo. Ayuda a restablecer los enlaces capilares y conseguir un aspecto ligero y sano. *Comparado con la fórmula anterior. **Daños en la superficie capilar
 - RUTINA DE CUIDADO PARA UN PELO SANO: Si necesitas un cuidado adicional, combínalo con el resto de productos de nuestra línea Repara y Protege para revertir al instante los signos de daños y aportar suavidad y brillo
 - EL SECRETO PARA UN PELO SANO: Nuestro acondicionador Repara y Protege fortalece* el pelo débil, seco y dañado y lo deja hasta un 100% más fuerte*. *Fuerza frente al desgaste por el peinado
 - ASPECTO NO GRASO: Nuestro acondicionador ligero reaviva el pelo con nuestra mezcla exclusiva Pro-V y consigue un aspecto no graso
+- PROTECCIÓN EN PELO DÉBIL: La fórmula con 50% más de agentes protectores* ayuda a reparar** tu pelo. Ayuda a restablecer los enlaces capilares y conseguir un aspecto ligero y sano. *Comparado con la fórmula anterior. **Daños en la superficie capilar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DK252LG9{{</world>}}

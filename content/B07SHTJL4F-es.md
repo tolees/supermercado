@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Porcentaje de alcohol: 37.5%
-- Notas delicadas de fresa y un suave final
 - Conservar en lugar seco, sin iluminación directa
+- Notas delicadas de fresa y un suave final
 - Tamaño: 700 ml
 
 [🛒 Comprar!!!]({{< param buyurl >}})

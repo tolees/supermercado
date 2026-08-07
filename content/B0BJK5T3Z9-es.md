@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- NOS IMPORTA LA GENTE Y EL PLANETA – Nos enorgullece ser una marca con el certificado de Neutralidad en Carbono y Neutralidad Plástica. Medimos nuestra huella de carbono y plástico y la compensamos mediante inversiones en iniciativas de sostenibilidad medioambiental en la India.
-- PROCEDENTE DIRECTAMENTE DEL HIMALAYA, INDIA – Nuestro té está formado por hojas sueltas recolectadas a mano, cultivadas y envasadas en fresco en un plazo de 24 a 72 horas. Esto garantiza un Té Fresco con un delicioso aroma y sabor, apoyando prácticas éticas y precios de comercio justo para los agricultores.
 - DA LA BIENVENIDA A UN ESTILO DE VIDA NUTRITIVO – Añade a tu rutina diaria esta tisana repleta de beneficios, con buen olor y buen sabor. Disfruta de un té nutritivo, hecho con ingredientesPurees, sin conservantes añadidos.
+- PROCEDENTE DIRECTAMENTE DEL HIMALAYA, INDIA – Nuestro té está formado por hojas sueltas recolectadas a mano, cultivadas y envasadas en fresco en un plazo de 24 a 72 horas. Esto garantiza un Té Fresco con un delicioso aroma y sabor, apoyando prácticas éticas y precios de comercio justo para los agricultores.
+- NOS IMPORTA LA GENTE Y EL PLANETA – Nos enorgullece ser una marca con el certificado de Neutralidad en Carbono y Neutralidad Plástica. Medimos nuestra huella de carbono y plástico y la compensamos mediante inversiones en iniciativas de sostenibilidad medioambiental en la India.
 - SIENTE LA FRESCURA DEL PURO TÉ VERDE – Disfruta del sutil y delicioso sabor de nuestro Té Verde, hecho de hojas no oxidadas. Ofrece una refrescante bebida que satisface el paladar y contribuye a tu bienestar. Cada sorbo te maravilla con una sutil dulzura vegetal, y un aroma fresco que revitaliza los sentidos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

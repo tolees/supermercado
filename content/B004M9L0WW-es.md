@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los minerales y polvos naturales proporcionan un cutis natural impecable
 - Se funde con tu piel para obtener un acabado mate indetectable
 - Es un polvo de cara prensado matificante que brinda hasta seis horas de control de brillo
-- La fórmula absorbente de aceite ayuda a reducir la apariencia de los poros
 - Testado dermatológicamente
+- Los minerales y polvos naturales proporcionan un cutis natural impecable
+- La fórmula absorbente de aceite ayuda a reducir la apariencia de los poros
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B004M9L0WW{{</world>}}

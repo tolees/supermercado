@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- No irrita, calma el picor
 - Indicado para pieles atópicas
+- No irrita, calma el picor
 - Cuero cabelludo sensible o con tendencia atópica
 - Evita la descamación
 

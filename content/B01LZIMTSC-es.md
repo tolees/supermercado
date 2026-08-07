@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Una vez abierto conservar en el frigorifico
 - Origen España
-- Con todo su valor energético y proteínico
 - Contiene leche o derivados de la leche, lactosa
 - 100% natural
-- Una vez abierto conservar en el frigorifico
+- Con todo su valor energético y proteínico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01LZIMTSC{{</world>}}

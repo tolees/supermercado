@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Un referente en el mundo del afeitado: Proraso es la elección de los barberos desde 1948. Productos para la barba y el afeitado probados dermatológicamente.
-- Protección para la barba: el aceite para barba suaviza las barbas largas y encrespadas para evitar la sequedad y el picor, y favorecer un crecimiento saludable.
-- Barba suave: para sentir la barba como nueva, este aceite de barba perfumado retiene la humedad con el fin de aportar suavidad a la barba y la piel.
 - Crecimiento saludable: este aceite barba hombre perfumado domina el pelo para alisar la barba. Desarrollado por expertos, promueve un crecimiento barba sano.
+- Barba suave: para sentir la barba como nueva, este aceite de barba perfumado retiene la humedad con el fin de aportar suavidad a la barba y la piel.
 - Aroma amaderado: con la madera exótica y un toque especiado, el aceite barba Proraso deja un agradable y cálido aroma con notas de vainilla, cedro y alcaravea.
+- Protección para la barba: el aceite para barba suaviza las barbas largas y encrespadas para evitar la sequedad y el picor, y favorecer un crecimiento saludable.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00PKA9NWQ{{</world>}}

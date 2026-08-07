@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Jabones naturales hechos a mano en España, con ingredientes naturales, 100% vegetales y artesanos. Especialmente indicados para la limpieza del rostro (equilibrar la piel, reducir impurezas y mejorar la elasticidad). Ideal como jabon manos, cara y jabon cuerpo.
 - Elaborado como jabon natural, inspirado en el clásico jabon de castilla, dentro de una selección de jabones naturales pensados para quienes valoran ingredientes simples y procesos tradicionales.
-- Formulados con aceite de oliva, este jabon de cara y corporales mantienen la piel hidratada, previniendo la sequedad y proporcionando una textura suave y tersa. Ideal para pieles sensibles. La opción más recomendable para jabon ducha y baño.
 - Gracias a su aroma agradable, forma parte de los jabones perfumados más valorados y es una excelente opción dentro de jabones naturales artesanos para regalar.
+- Jabones naturales hechos a mano en España, con ingredientes naturales, 100% vegetales y artesanos. Especialmente indicados para la limpieza del rostro (equilibrar la piel, reducir impurezas y mejorar la elasticidad). Ideal como jabon manos, cara y jabon cuerpo.
 - Formulado como jabon facial limpiador, es ideal como jabon cara, ayuda a eliminar impurezas respetando el equilibrio natural de la piel, incluso en rutinas diarias.
+- Formulados con aceite de oliva, este jabon de cara y corporales mantienen la piel hidratada, previniendo la sequedad y proporcionando una textura suave y tersa. Ideal para pieles sensibles. La opción más recomendable para jabon ducha y baño.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DZDKRSZN{{</world>}}

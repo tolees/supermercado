@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Sabor: cerveza que en boca destaca un gusto dulce ligero que deja paso a un amargor muy sutil con un toque ácido. El cuerpo es tenue y la sensación final refrescante
-- Apariencia: Cerveza Mahou mixta de color dorado pálido, brillante y de espuma ligera
 - Aroma: cerveza Mixta tiene esencia frutal con predominio cítrico de limón
-- Pack de cerveza Mahou Mixta de 12 latas de 33 cl, con 0,9% de alcohol. Mixta es la cerveza combinación de 16% de cerveza Mahou 5 Estrellas, en la que destaca el cuidado en la selección de las cebadas y su malteo, así como la combinación de variedades de lúpulo amargas y semiaromáticas de origen europeo; y 84% de refresco de limón, que le aporta los aromas cítricos y el dulzor. Para un mayor disfrute se recomienda consumir entre 4º y 6º C
 - La MIXTA cada momento del día, es una cerveza refrescante que combina cerveza con limón, la radler sin Alcohol de Mahou: la Mixta de siempre
+- Apariencia: Cerveza Mahou mixta de color dorado pálido, brillante y de espuma ligera
+- Pack de cerveza Mahou Mixta de 12 latas de 33 cl, con 0,9% de alcohol. Mixta es la cerveza combinación de 16% de cerveza Mahou 5 Estrellas, en la que destaca el cuidado en la selección de las cebadas y su malteo, así como la combinación de variedades de lúpulo amargas y semiaromáticas de origen europeo; y 84% de refresco de limón, que le aporta los aromas cítricos y el dulzor. Para un mayor disfrute se recomienda consumir entre 4º y 6º C
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01MXF9ITF{{</world>}}

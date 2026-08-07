@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ideal para personas que les cuesta conciliar el sueño y necesitan mantener un sueño reparador y calidad durante la noche.
-- Sueño reparador: La tercera capa, con Valeriana y Melisa, se libera de forma sostenida y contribuye a la relajación para un sueño reparado.
-- 1 comprimido al día media hora antes de acostarse.
-- Conciliar el sueño: La primera capa, que se libera rápidamente, contiene Melatonina 1,95 mg para ayudar a disminuir el tiempo necesario para conciliar el sueño* junto con piperine (proveniente de pimienta negra), Vitamina D y Vitamina B6 para una acción sinérgica.
-- Evite utilizar el producto en caso de hipersensibilidad a uno de los componentes. A partir de los 12 años.
 - Mantener el sueño: La segunda capa, se libera durante la noche y contiene Grifonia (5-HTP), precursor de la serotonina que sintetiza melatonina en el organismo. También contiene Pasiflora y Amapola de California, para mantener un sueño de calidad.
+- Evite utilizar el producto en caso de hipersensibilidad a uno de los componentes. A partir de los 12 años.
+- Sueño reparador: La tercera capa, con Valeriana y Melisa, se libera de forma sostenida y contribuye a la relajación para un sueño reparado.
+- Conciliar el sueño: La primera capa, que se libera rápidamente, contiene Melatonina 1,95 mg para ayudar a disminuir el tiempo necesario para conciliar el sueño* junto con piperine (proveniente de pimienta negra), Vitamina D y Vitamina B6 para una acción sinérgica.
+- 1 comprimido al día media hora antes de acostarse.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DSQ2C818{{</world>}}

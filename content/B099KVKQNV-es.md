@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Latas 100 % reciclables dentro del compromiso de PepsiCo Positive (pep+). Producido en España en plantas que avanzan hacia las emisiones netas cero, como Etxabarri-Ibiña (Álava), primera planta de bebidas de PepsiCo a nivel mundial en alcanzar este hito, impulsando un modelo más sostenible y responsable.
 - Pepsi Zero mantiene el perfil cola de Pepsi en un formato sin azúcar ni calorías, ideal para disfrutar a diario con una opción más equilibrada.
-- En una comida informal, acompáñala con patatas Lay’s: equilibrando frescor y sabor para disfrutar en cada picoteo
-- Pepsi Zero (pack de 24 latas de 330 ml) es una propuesta relevante dentro del segmento cola. sin azúcar, con el sabor cola intenso y una propuesta pensada para el consumo en casa o para compartir. orientada a un consumo más equilibrado sin perder disfrute.
 - Para tus planes: cero azúcar, con todo el sabor; disfrútala muy fría para potenciar el frescor con ese toque inigualable que hace única a Pepsi
+- Pepsi Zero (pack de 24 latas de 330 ml) es una propuesta relevante dentro del segmento cola. sin azúcar, con el sabor cola intenso y una propuesta pensada para el consumo en casa o para compartir. orientada a un consumo más equilibrado sin perder disfrute.
+- En una comida informal, acompáñala con patatas Lay’s: equilibrando frescor y sabor para disfrutar en cada picoteo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B099KVKQNV{{</world>}}

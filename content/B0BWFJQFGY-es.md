@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Resultado: piel más suave e hidratada con un aspecto refrescado y más brillante, reducción de poros e irregularidades, limpieza profunda de poros
 - Limpieza facial suave e hidratante para eliminar impurezas, aceite y maquillaje, protección a largo plazo de la barrera cutánea
 - Contenido del envío: 1 gel de lavado Garnier Skin Clear Hydrating Deep Cleanser, contenido: 250 ml
-- Resultado: piel más suave e hidratada con un aspecto refrescado y más brillante, reducción de poros e irregularidades, limpieza profunda de poros
 - Fórmula dermatológicamente probada con ácido hialurónico, ceramida y arcilla, sin fragancias y sin sulfatos, pH neutro, adecuado para todo tipo de pieles, incluso pieles sensibles
 - Aplicación: Aplicar por la mañana y por la noche sobre la cara húmeda y masajear suavemente, luego enjuagar bien con agua tibia y secar con palmaditas, evitar el contacto con los ojos
 

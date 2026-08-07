@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fórmula nutritiva e hidratante que protege los labios de la sequedad y ofrece una cobertura modulable
-- Labial de máximo confort, Acabado mate difuminado para unos labios suaves y aterciopelados, Sin sensación de sequedad
 - Aplicación: Directamente sobre los labios con el aplicador en forma de lágrima, Desde el centro hacia el exterior, Aumenta la intensidad aplicando varias capas.
+- Labial de máximo confort, Acabado mate difuminado para unos labios suaves y aterciopelados, Sin sensación de sequedad
+- Fórmula nutritiva e hidratante que protege los labios de la sequedad y ofrece una cobertura modulable
 - Contenido: 1x LOréal Paris, Labial Hidratante, Acabado Mate Difuminado, Color Riche Blurred Matte, Worth It (601)
 - Resultado: Acabado mate suave con efecto difumindado
 

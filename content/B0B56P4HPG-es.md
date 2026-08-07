@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Básicos, Ropa de Calle
 - Descubre todas las marcas de EMP!
+- Básicos, Ropa de Calle
 - Ajuste : Normal
 - Abrigo || Ajuste normal || Color intenso || Material duradero
 - Parka con las siguientes características:

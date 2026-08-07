@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Labial líquido que aporta un brilo latex 3D al instante con un color intenso
 - Fórmula ligera que aporta brillo, color e hidratación instantáneo
-- Con un aplicador en forma de diamante que garantiza un trazado definido y una perfecta aplicación
 - Con aloe vera, ácido hialurónico y vitamina E
+- Labial líquido que aporta un brilo latex 3D al instante con un color intenso
+- Con un aplicador en forma de diamante que garantiza un trazado definido y una perfecta aplicación
 - Ideal para un look atrevido e imparable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

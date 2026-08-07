@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Deliciosa bebida de avena barista con calcio y vitaminas añadidas
-- Apta para veganos
-- Fuente de proteína vegetal, fibra y naturalmente baja en grasas saturadas
-- Soja de cultivos responsables y libre de GMO; certificada por ProTerra
 - Naturalmente sin lactosa; fuente de calcio y vitaminas B2, B12 y vitamina D
+- Fuente de proteína vegetal, fibra y naturalmente baja en grasas saturadas
+- Deliciosa bebida de avena barista con calcio y vitaminas añadidas
+- Soja de cultivos responsables y libre de GMO; certificada por ProTerra
+- Apta para veganos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CNKVP1MG{{</world>}}

@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Fórmula con ácido hialurónico para unos labios rellenos e hidratados, Enriquecida con extracto de cereza acerola, un agente antioxidante que protege los labios
 - Contenido: Maybelline New York Bálsamo Labial con Color, Labios Suaves y Brillantes, Hasta 24h de Hidratación, con Ácido Hialurónico, Lifter Glaze, Tono 008 Acai Glaze
-- Aplicar el bálsamo siguiendo la curva de los labios en el labio superior e inferior, Aplicar más capas para un color más intenso
 - Bálsamo en aceite nutritivo para unos labios visiblemente más suaves y lisos, Protección e hidratación labial de larga duración, Color modulable con acabado brillante
 - Resultado: reduce las arrugas labiales en un 20 % para unos labios más suaves y lisos tras 4 semanas de uso diario, Efecto hidratante profundo y duradero
+- Aplicar el bálsamo siguiendo la curva de los labios en el labio superior e inferior, Aplicar más capas para un color más intenso
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DZXZF18Z{{</world>}}

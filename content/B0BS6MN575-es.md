@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- ACONDICIONADOR HIDRATANTE. Nuestra fórmula experta, con uso regular, mejora la calidad del pelo en 4 semanas y refuerza las fibras capilares, evitando su rotura. Sensación ligera
 - MEJOR JUNTOS. ¿Sabías que nuestro champú y acondicionador Head & Shoulders DermaXPro actúan juntos para garantizar la hidratación óptima del pelo y del cuero cabelludo, y aumentar su protección contra la sequedad y la caspa
 - FÓRMULA ESPECIAL PARA CUERO CABELLUDO Y PELO SECO Y DAÑADO. Nuestra fórmula experta, diseñada para cuidar de cueros cabelludos secos, contiene aceite de coco, piroctona olamina y ceramidas
-- ACONDICIONADOR HIDRATANTE. Nuestra fórmula experta, con uso regular, mejora la calidad del pelo en 4 semanas y refuerza las fibras capilares, evitando su rotura. Sensación ligera
 - DERMATOLOGICAMENTE TESTADO. El acondicionador experto para el cuero cabelludo DermaXPro actúa con suavidad en el cuero cabelludo y el pelo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

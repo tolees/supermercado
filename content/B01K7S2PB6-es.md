@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin aceite de palma.
 - Cereales con frutas rojas.
-- El embalaje puede variar
+- Sin aceite de palma.
 - Contienen 9 nutrientes esenciales.
+- El embalaje puede variar
 - Es una fuente de fibra.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

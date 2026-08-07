@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- A BASE DE CEREALES Y LEGUMBRES: Elaboradas con cereales (72 %) de arroz y maíz, y lenteja roja (14 %), combinadas con aceites vegetales.
-- EXTRA CRUJIENTES Y NO FRITAS: Snack horneado, no frito, con textura extra crujiente, ideal como aperitivo o para picar entre horas
 - FORMATO PRÁCTICO: Formato práctico y cómodo, ideal para compartir o disfrutar individualmente.
 - TORTITAS CON LEGUMBRES DE LENTEJA ROJA: Tortitas de cereales con lenteja roja, aromatizadas con champiñones y cebolla, pensadas como snack salado para cualquier momento del día.
+- A BASE DE CEREALES Y LEGUMBRES: Elaboradas con cereales (72 %) de arroz y maíz, y lenteja roja (14 %), combinadas con aceites vegetales.
+- EXTRA CRUJIENTES Y NO FRITAS: Snack horneado, no frito, con textura extra crujiente, ideal como aperitivo o para picar entre horas
 - 7 UNIDADES: Presentado en formato de carga de caja, ideal para mayor comodidad, reposición frecuente o consumo habitual.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

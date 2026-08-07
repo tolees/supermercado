@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 🔥 Tueste Artesanal Diario: Tueste fresco y natural, resaltando la complejidad y dulzura natural de cada grano.
 - 🌿 Café Ecológico Certificado: Cultivado de forma sostenible y certificado por el CAECV bajo normativa europea, garantizando un café de especialidad con calidad ecológica 100%.
-- 🌳 Origen Controlado - Altura 1880 msnm: Granos seleccionados de variedades Castillo, Colombia, Caturra y Geisha, de la Finca El Ensueño en Isnos, Huila.
 - 🌸 Perfil Sensorial Excepcional: Aromas de caramelo y malta tostada, con notas cítricas de mandarina y un fondo dulce de chocolate.
+- 🔥 Tueste Artesanal Diario: Tueste fresco y natural, resaltando la complejidad y dulzura natural de cada grano.
 - 🏅 Calificación 85,5 SCA: Puntuación de excelencia de la Specialty Coffee Association, asegurando un café de especialidad de altísima calidad.
+- 🌳 Origen Controlado - Altura 1880 msnm: Granos seleccionados de variedades Castillo, Colombia, Caturra y Geisha, de la Finca El Ensueño en Isnos, Huila.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FDHD1V2S{{</world>}}

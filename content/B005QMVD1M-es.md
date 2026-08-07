@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% natural; sin añadidos ni ingredientes ocultos.
-- 75 % de peto de pollo con queso; se utilizan productos de la más alta calidad, en nuestros envases solo proteínas de carne adecuadas para el consumo humano.
 - Fabricado con un número limitado de ingredientes, solo 4 esenciales.
+- 75 % de peto de pollo con queso; se utilizan productos de la más alta calidad, en nuestros envases solo proteínas de carne adecuadas para el consumo humano.
+- 100% natural; sin añadidos ni ingredientes ocultos.
 - EL EMBALAJE PUEDE VARIAR mientras hacemos la transición del antiguo al nuevo embalaje de marca
 - Fuente natural de Taurina aminoácido esencial para el apoyo de la vista, la función cardíaca, digestiva e inmune
 

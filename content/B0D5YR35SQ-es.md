@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - CONTENIDO - Pack de 48 cápsulas (3 cajas de 16), perfecto para momentos de dulzura en casa. Producido en Italia, combina calidad, comodidad y sabor, garantizando un momento dulce y delicioso en cualquier instante
 - CARACTERÍSTICAS - Cápsulas compatibles con máquinas Nescafé Dolce Gusto*, prácticas y fáciles de preparar. Disfruta de una bebida suave con el sabor único del chocolate blanco en solo unos segundos, ideal para toda la familia
-- MEZCLA - Deliciosa bebida caliente de chocolate blanco, cremosa y dulce. Su suavidad envolvente encanta a pequeños y mayores, ofreciendo un momento de placer perfecto para cualquier hora del día
 - GIMOKA: Tostadora italiana con 40 años de historia, selecciona café de 17 países para más de 90 mezclas. Con 3 plantas, ofrece café en grano, molido, monodosis y cápsulas compatibles, llevando el auténtico espresso italiano a 50 países
+- MEZCLA - Deliciosa bebida caliente de chocolate blanco, cremosa y dulce. Su suavidad envolvente encanta a pequeños y mayores, ofreciendo un momento de placer perfecto para cualquier hora del día
 - SOSTENIBILIDAD: Gimoka apuesta por la producción responsable del café, reduciendo el impacto ambiental y garantizando un producto de calidad que respeta los recursos naturales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

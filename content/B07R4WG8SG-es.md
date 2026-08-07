@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- BENEFICIOS: Se caracterizan por su alto contenido en ácidos grasos saludables Omega 3 y Omega 6 y su elevado contenido en fibra
-- Las semillas de chía son uno de los alimentos que, sin lugar a dudas, se ha convertido en pieza clave dentro de las dietas saludables y, no es para menos, ya que aportan muchísimos beneficios a nuestro organismo. Algunos de ellos son: alto contenido en ácidos grasos saludables como el Omega 3 y el Omega 6, por lo que ayudan a cuidar nuestro sistema cardiovascular, aportan muchas proteínas, resultando ser una opción perfecta para deportistas y dietas de adelgazamiento, son una excelente fuente de fibra y de minerales
-- PROPIEDADES: Las Semillas de chia de ECOSANA se obtienen de cultivos de origen 100% ecológicos, de forma que se conservan todas las propiedades y son respetuosos con el medioambiente
 - ALIMENTACIÓN, SEMILLAS ENTERAS. Semillas de chía procedentes de Agricultura Ecológica. Sin conservantes ni colorantes
 - ETIQUETAS: Este producto es apto para veganos y celíacos. Además, no contiene conservantes ni colorantes
+- Las semillas de chía son uno de los alimentos que, sin lugar a dudas, se ha convertido en pieza clave dentro de las dietas saludables y, no es para menos, ya que aportan muchísimos beneficios a nuestro organismo. Algunos de ellos son: alto contenido en ácidos grasos saludables como el Omega 3 y el Omega 6, por lo que ayudan a cuidar nuestro sistema cardiovascular, aportan muchas proteínas, resultando ser una opción perfecta para deportistas y dietas de adelgazamiento, son una excelente fuente de fibra y de minerales
 - MODO DE USO: Antes de consumir estas semillas, es necesario ponerlas a remojo durante 15 -30 minutos en agua o combinadas con leche, yogur, bebidas vegetales, sopas.... También puedes probar a añadirlas en tus recetas de repostería ya sea molidas o en forma entera. La cantidad recomendada diaria son 15 g/día
+- PROPIEDADES: Las Semillas de chia de ECOSANA se obtienen de cultivos de origen 100% ecológicos, de forma que se conservan todas las propiedades y son respetuosos con el medioambiente
+- BENEFICIOS: Se caracterizan por su alto contenido en ácidos grasos saludables Omega 3 y Omega 6 y su elevado contenido en fibra
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07R4WG8SG{{</world>}}

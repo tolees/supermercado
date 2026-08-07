@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Alimentos saludables.
 - Ayudan a mantener nuestro organismo en un estado óptimo.
+- Alimentos saludables.
 - Están pensados para todo tipo de personas que desean cuidar y mantener una dieta saludable.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

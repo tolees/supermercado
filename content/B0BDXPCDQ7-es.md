@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ESPECIALMENTE FORMULADO PARA PELO SECO Y CUERO CABELLUDO CON PICOR*. Nuestra fórmula experta, diseñada para cuidar de cueros cabelludos secos, contiene extracto de aloe vera, piroctona olamina y ceramidas. (*relacionado con la caspa)
 - MEJOR JUNTOS. ¿Sabías que nuestro champú y acondicionador H&S DermaXPro actúan juntos para garantizar la hidratación óptima del pelo y del cuero cabelludo y aumentar su protección contra la sequedad y la caspa?
+- ESPECIALMENTE FORMULADO PARA PELO SECO Y CUERO CABELLUDO CON PICOR*. Nuestra fórmula experta, diseñada para cuidar de cueros cabelludos secos, contiene extracto de aloe vera, piroctona olamina y ceramidas. (*relacionado con la caspa)
 - DERMATOLOGICAMENTE TESTADO. El acondicionador DermaXPro para el cuero cabelludo actúa con suavidad en el cuero cabelludo y el pelo
 - ACONDICIONADOR HIDRATANTE. Nuestra fórmula experta, con un uso regular, mejora la calidad del pelo en 4 semanas y refuerza las fibras capilares, evitando su rotura. Sensación ligera
 

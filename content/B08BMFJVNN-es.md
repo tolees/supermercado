@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Valoración de la cata por Fabrice Sommier: delicioso ataque en boca con un desarrollo más potente y estructurado; el Syrah y el Marselan desempeñan un papel carnoso y afrutado al que no le falta generosidad.
+- Región: vino tinto de Languedoc Roussillon; certificado Terra Vitis
 - Cuando la generosidad del Syrah se mezcla con los aromas de fruta madura del Marselan para revelar un vino carnoso y afrutado
 - Maridaje de Fabrice Sommier, como acompañamiento gastronómico: foie gras a la plancha con arándanos; para un maridaje potente: rape con azafrán; para acompañar algo dulce: Selva Negra.
-- Valoración de la cata por Fabrice Sommier: delicioso ataque en boca con un desarrollo más potente y estructurado; el Syrah y el Marselan desempeñan un papel carnoso y afrutado al que no le falta generosidad.
 - Experto en las cepas del Pays dOc, Roche Mazet elabora vinos accesibles y de gran calidad, cada uno con su propia riqueza y verdadera personalidad aromática. Una apuesta segura por las cepas del Pays dOc.
-- Región: vino tinto de Languedoc Roussillon; certificado Terra Vitis
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08BMFJVNN{{</world>}}

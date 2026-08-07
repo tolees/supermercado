@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Embalaje respetuoso con el medio ambiente: Nuestro compromiso con el medio ambiente se refleja en nuestro embalaje, fabricado con al menos 31% de plástico reciclado y totalmente reciclable.
-- Hidratación 24 horas: nuestra fórmula concentrada proporciona una hidratación de larga duración durante 24 horas, asegurando manos suaves y alimentadas durante todo el día.
 - Fórmula enriquecida y restaurativa: Enriquecida al 40% con glicerina y vitamina E, esta crema calmante protege y repara instantáneamente la barrera de la piel, con efectos clínicamente probados.
 - Adecuado para pieles sensibles: especialmente formulada para ser suave, esta crema hidratante es ideal para pieles sensibles, proporcionando protección diaria sin irritación.
+- Embalaje respetuoso con el medio ambiente: Nuestro compromiso con el medio ambiente se refleja en nuestro embalaje, fabricado con al menos 31% de plástico reciclado y totalmente reciclable.
+- Hidratación 24 horas: nuestra fórmula concentrada proporciona una hidratación de larga duración durante 24 horas, asegurando manos suaves y alimentadas durante todo el día.
 - Alivio inmediato y duradero: una sola avellana es suficiente para un alivio inmediato y una hidratación de las manos muy secas y agrietadas. Aplique al menos dos veces al día para obtener resultados óptimos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

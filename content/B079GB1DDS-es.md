@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- INGREDIENTES NATURALES: Estos panecillos se componen de almidón de tapioca, agua, harina de trigo sarraceno, harina de arroz, aceite de girasol, sirope de agave, sal, levadura, fermentos naturales, psyllium, goma xantana y bicarbonato sódico
-- SOBRE NOSOTROS: Desde 1982, el Granero Integral apuesta por una alimentación saludable al alcance de todos. Somos empresa BCorp certificada y cumplimos con los estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
-- VEGANO Y SIN GLUTEN: Nuestros panecillos con trigo sarraceno sin gluten son un alimento que pueden consumir personas veganas o con intolerancia al gluten. Son una opción perfecta para disfrutar del pan.
 - MODO DE EMPLEO: Antes de su consumo, conviene abrir y dejar unos minutos. Lo panecillos se pueden consumir directamente. Se recomienda rociarlos con unas gotas de agua y hornearlos durante unos 5 minutos a 200º o calentarlos en la tostadora.
+- SOBRE NOSOTROS: Desde 1982, el Granero Integral apuesta por una alimentación saludable al alcance de todos. Somos empresa BCorp certificada y cumplimos con los estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
+- INGREDIENTES NATURALES: Estos panecillos se componen de almidón de tapioca, agua, harina de trigo sarraceno, harina de arroz, aceite de girasol, sirope de agave, sal, levadura, fermentos naturales, psyllium, goma xantana y bicarbonato sódico
 - MÚLTIPLES BENEFICIOS: Este pan es ideal para que todo el mundo pueda disfrutar de él sin temor a las intolerancias. Además, es una rica fuente en proteínas y energía.
+- VEGANO Y SIN GLUTEN: Nuestros panecillos con trigo sarraceno sin gluten son un alimento que pueden consumir personas veganas o con intolerancia al gluten. Son una opción perfecta para disfrutar del pan.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B079GB1DDS{{</world>}}

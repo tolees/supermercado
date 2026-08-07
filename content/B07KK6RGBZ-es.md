@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CÓMO SE USA: aplicar y difuminar sobre el párpado las sombras elegidas. Pulverizar la brocha de maquillaje con el espray fijador Revolution Hyaluronic para intensificar el pigmento.
-- INCLUYE 15 SOMBRAS: Affection incluye una mezcla de tonos cálidos en dorado y borgoña, además de un negro intenso para crear dramatismo.
-- CRUELTY FREE (SIN CRUELDAD ANIMAL): los productos de Revolution Beauty son cruelty free y siempre lo han sido. Contamos con la certificación de PETA y nunca hemos permitido que se realicen pruebas en animales en ninguna etapa del desarrollo, tanto de los ingredientes como de los productos finales.
 - PIGMENTACIÓN INTENSA Y PROFUNDA: estos tonos con una alta pigmentación le proporcionarán looks duraderos y sin imperfecciones. Consiga looks impresionantes, profesionales y de alta calidad a un precio asequible.
+- CRUELTY FREE (SIN CRUELDAD ANIMAL): los productos de Revolution Beauty son cruelty free y siempre lo han sido. Contamos con la certificación de PETA y nunca hemos permitido que se realicen pruebas en animales en ninguna etapa del desarrollo, tanto de los ingredientes como de los productos finales.
 - SE DIFUMINA CON UNA FACILIDAD ASOMBROSA: los tonos de esta paleta tienen un efecto de larga duración y se pueden difuminar, lo que permite crear una infinidad de magníficos looks que duran todo el día.
+- INCLUYE 15 SOMBRAS: Affection incluye una mezcla de tonos cálidos en dorado y borgoña, además de un negro intenso para crear dramatismo.
+- CÓMO SE USA: aplicar y difuminar sobre el párpado las sombras elegidas. Pulverizar la brocha de maquillaje con el espray fijador Revolution Hyaluronic para intensificar el pigmento.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07KK6RGBZ{{</world>}}

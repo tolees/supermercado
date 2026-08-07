@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene trigo y huevo
 - 4 raciones
+- Sin conservantes
 - Producto de España
 - Puede contener trazas de leche, soja, pescado, crustáceos y moluscos
-- Sin conservantes
+- Contiene trigo y huevo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B086V1BSSH{{</world>}}

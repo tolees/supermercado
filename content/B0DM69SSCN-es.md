@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- No podrás resistirte a la fusión de una galleta de chocolate con chips de chocolate, ¡una auténtica tentación sin gluten, sin frutos secos y sin huevo!
-- Con alto contenido en fibra
-- Con aceite de girasol alto oleico, sin aceite de palma
 - Sin Frutos Secos, Sin Huevo
+- Con alto contenido en fibra
+- No podrás resistirte a la fusión de una galleta de chocolate con chips de chocolate, ¡una auténtica tentación sin gluten, sin frutos secos y sin huevo!
+- Con aceite de girasol alto oleico, sin aceite de palma
 - Sin Gluten
 
 [🛒 Comprar!!!]({{< param buyurl >}})

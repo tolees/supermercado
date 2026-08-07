@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con ingredientes 100% naturales cuidadosamente seleccionados.
-- SIN GLUTEN y BAJO EN GRASA: Todos nuestros caldos caseros son bajos en grasa y sin gluten y sin conservantes.
-- SABOR CASERO: Elaboramos nuestros caldos con ingredientes naturales y un proceso casero para que disfrutes de tus sopas y recetas favoritas con un sabor cómo el de casa.
 - COCIDOS DURANTE 3 HORAS: Cocidos con mimo y paciencia a fuego lento durante 3 horas. Ponemos todo nuestro cariño y esmero, porque entendemos que son la clave de un buen caldo casero.
+- Con ingredientes 100% naturales cuidadosamente seleccionados.
+- SABOR CASERO: Elaboramos nuestros caldos con ingredientes naturales y un proceso casero para que disfrutes de tus sopas y recetas favoritas con un sabor cómo el de casa.
+- SIN GLUTEN y BAJO EN GRASA: Todos nuestros caldos caseros son bajos en grasa y sin gluten y sin conservantes.
 - SIN CONSERVANTES: Pues los esterilizamos a una temperatura de 150ºC. Tan naturales como los harías en casa.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

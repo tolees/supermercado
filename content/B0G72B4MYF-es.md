@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Un polvo de trufa único para postres: un 5% de auténtica trufa negra (*Tuber aestivum*) se combina con la harina de algarroba, naturalmente dulce; ofrece un profundo aroma a trufa y la dulzura de la algarroba, sin aditivos.
 - Solo 2 ingredientes: harina de algarroba como base natural y un 5% de trufa (*Tuber aestivum*) procedente de Europa; sin gluten, sin conservantes ni aromas artificiales. Conservar en un lugar oscuro una vez abierto.
 - Este fino polvo puede integrarse uniformemente en la mezcla o espolvorearse por encima; incluso una pequeña cantidad transforma un postre sencillo en una creación gourmet, dotándola de un aroma a trufa profundo y terroso.
-- Ideal para realzar pasteles, brownies, muffins, tortitas, yogures y batidos, pero también pastas, risottos y filetes: una pizca basta para aportar un intenso aroma gourmet tanto a platos dulces como salados.
 - Trufas y dulces: una armonía sorprendente. La harina de algarroba, naturalmente dulce, equilibra el aroma a la perfección. Un regalo gourmet original e ideal para los amantes de la gastronomía más aventureros.
+- Un polvo de trufa único para postres: un 5% de auténtica trufa negra (*Tuber aestivum*) se combina con la harina de algarroba, naturalmente dulce; ofrece un profundo aroma a trufa y la dulzura de la algarroba, sin aditivos.
+- Ideal para realzar pasteles, brownies, muffins, tortitas, yogures y batidos, pero también pastas, risottos y filetes: una pizca basta para aportar un intenso aroma gourmet tanto a platos dulces como salados.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0G72B4MYF{{</world>}}

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - TEXTURA SEDOSA: La crema corporal con té verde, fresa y miel ofrece una textura ligera y sedosa de rápida absorción dejando la piel suave, hidratada y luminosa gracias a manteca de cacao
-- MEZCLA NATURAL DE CUIDADO: Con miel para nutrir, manteca de cacao para suavizar, té verde para calmar y notas de fresa y albahaca, esta crema corporal revitaliza la piel de forma sensorial
 - RITUAL SENSORIAL DIARIO: Tras la ducha o el baño, masajear la crema corporal con té verde, albahaca y fresa para suavizar, acondicionar y despertar los sentidos con su frescura afrutada
-- CREMA CORPORAL AFRUTADA: Esta crema corporal combina té verde, fresa, albahaca, miel y manteca de cacao para nutrir, hidratar y refrescar la piel, aportando suavidad y un aroma revitalizante
+- MEZCLA NATURAL DE CUIDADO: Con miel para nutrir, manteca de cacao para suavizar, té verde para calmar y notas de fresa y albahaca, esta crema corporal revitaliza la piel de forma sensorial
 - COLECCIÓN ICÓNICA: Parte de la línea Green Tea, esta crema corporal con albahaca y fresa aporta hidratación duradera a todos los tipos de piel, combinando frescura, confort y un aroma revitalizante
+- CREMA CORPORAL AFRUTADA: Esta crema corporal combina té verde, fresa, albahaca, miel y manteca de cacao para nutrir, hidratar y refrescar la piel, aportando suavidad y un aroma revitalizante
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FYJ8NTPC{{</world>}}

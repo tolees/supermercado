@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Proveniente de granjas 100% ecológicas
 - Brik UHT 1L con tapón atado (para evitar que acabe en la naturaleza)
 - Fuente natural de calcio y vitaminas
 - Puleva ECO, cuida de ti y de tu entorno
 - Con certificado de agricultura ecológica de la UE
+- Proveniente de granjas 100% ecológicas
 - Leche ecológica entera de Bienestar Animal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

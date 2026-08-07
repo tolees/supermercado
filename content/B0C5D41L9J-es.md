@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ORIGEN DE LOS GRANOS: Mezcla única de granos de café Robusta y Arábica de Laos, Vietnam y El Salvador. Este blend crea un espresso con un toque afrutado ligero y una acidez sutil, proporcionando una taza equilibrada y refrescante.
 - INTENSIDAD DEL CAFÉ: Cápsulas de café molido de intensidad 8, creadas a partir de una combinación perfecta de granos provenientes de las principales regiones productoras de café del mundo, para proporcionar una experiencia intensa y rica en sabor.
-- PERFIL SENSORIAL EXCEPCIONAL: Café espresso de sabor intenso y estimulante, con un delicioso aroma a caramelo y frutos secos tostados. Con aroma 9/11, cuerpo 9/11, acidez 8/11, equilibrio 11/11 e intensidad 8/11, ideal para quienes buscan un café con personalidad.
-- COMPATIBILIDAD CON SISTEMA DELTA Q: Caja de 100 cápsulas diseñadas específicamente para ser utilizadas con el sistema Delta Q, garantizando una preparación perfecta y fácil de disfrutar en cada taza de café.
 - COMPROMISO CON LA CALIDAD DELTA Q: Cada cápsula refleja la calidad, innovación y simplicidad que caracteriza a Delta Q, elaborada con blends provenientes de las mejores regiones cafeteras del mundo para ofrecer una experiencia única en cada preparación.
+- COMPATIBILIDAD CON SISTEMA DELTA Q: Caja de 100 cápsulas diseñadas específicamente para ser utilizadas con el sistema Delta Q, garantizando una preparación perfecta y fácil de disfrutar en cada taza de café.
+- PERFIL SENSORIAL EXCEPCIONAL: Café espresso de sabor intenso y estimulante, con un delicioso aroma a caramelo y frutos secos tostados. Con aroma 9/11, cuerpo 9/11, acidez 8/11, equilibrio 11/11 e intensidad 8/11, ideal para quienes buscan un café con personalidad.
+- ORIGEN DE LOS GRANOS: Mezcla única de granos de café Robusta y Arábica de Laos, Vietnam y El Salvador. Este blend crea un espresso con un toque afrutado ligero y una acidez sutil, proporcionando una taza equilibrada y refrescante.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C5D41L9J{{</world>}}

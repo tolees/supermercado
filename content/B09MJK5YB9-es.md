@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Lápiz de cejas con cepillo integrado
-- Aplicación rápida y precisa
 - Intensifica y define tus cejas
+- Aplicación rápida y precisa
 - Alta duración
+- Lápiz de cejas con cepillo integrado
 - Acabado natural
 
 [🛒 Comprar!!!]({{< param buyurl >}})

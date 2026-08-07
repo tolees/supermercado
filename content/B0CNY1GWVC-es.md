@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - STARBUCKS Discovery Variety Pack by NESPRESSO, 60 cápsulas
 - Café 100% Arábica
-- Prepáralo en casa como a ti te gusta
 - Descubre todas nuestras variedades, de diferentes tuestes (suave, medio e intenso), blends y orígenes
+- Prepáralo en casa como a ti te gusta
 - Cápsulas hechas con al menos 80% de aluminio reciclado
 - Cápsulas compatibles con máquina Nespresso
 

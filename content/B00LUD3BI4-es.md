@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- No necesita lámpara UV
-- Las uñas se ven sanas y fuertes y muestran una mejora notable
-- Fórmula con ingredientes hidratantes: aceite de almendras, aceite de jojoba, y manteca de karité que ayuda a mantener la hidratación de la uñas
-- No necesita base
 - Se elimina fácilmente con quitaesmaltes
 - Tecnología de color 7 días
+- No necesita lámpara UV
+- Fórmula con ingredientes hidratantes: aceite de almendras, aceite de jojoba, y manteca de karité que ayuda a mantener la hidratación de la uñas
+- No necesita base
+- Las uñas se ven sanas y fuertes y muestran una mejora notable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00LUD3BI4{{</world>}}

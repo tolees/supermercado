@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Proteger de la luz solar y de olores agresivos
-- Conservar en lugar limpio, fresco y seco
-- No congelar
 - Evitar el contacto directo con el suelo
+- Conservar en lugar limpio, fresco y seco
+- Proteger de la luz solar y de olores agresivos
+- No congelar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MG1LQ5O{{</world>}}

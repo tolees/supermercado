@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aptas para lavavajillas, microondas y horno hasta 200ºc, alta calidad: porcelana premium hecha en alemania
-- Aptas también para la restauración gracias a su forma manejable y sus bordes resistentes a golpes e impactos, combinan perfectamente con la vajilla for me
-- Forma una bonita pareja junto a los platos a juego, se sostienen perfectamente en la mano mediante sus asas, aptas para máquinas de café que permiten una altura de 10, 3 cm
-- Contiene: 2x villeroy & boch for me taza de café (370 ml), material: porcelana premium, color: blanco
 - Atemporales tazas de café blancas de porcelana para disfrutar del café con estilo tanto en la vida diaria como en las ocasiones especiales
+- Forma una bonita pareja junto a los platos a juego, se sostienen perfectamente en la mano mediante sus asas, aptas para máquinas de café que permiten una altura de 10, 3 cm
+- Aptas para lavavajillas, microondas y horno hasta 200ºc, alta calidad: porcelana premium hecha en alemania
+- Contiene: 2x villeroy & boch for me taza de café (370 ml), material: porcelana premium, color: blanco
+- Aptas también para la restauración gracias a su forma manejable y sus bordes resistentes a golpes e impactos, combinan perfectamente con la vajilla for me
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00WJSG61I{{</world>}}

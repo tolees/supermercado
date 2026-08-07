@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PARA TODO TIPO DE PIEL: Con su fórmula libre de microplásticos, la crema NIVEA cuida tu piel y planeta. Compatibilidad con la piel dermatológicamente comprobada.
 - PROTEGE DEL SOL: La crema solar facial está enriquecida con filtros UV y ayuda a prevenir la aparición de nuevas arrugas gracias a la protección solar UV FP15.
+- PARA TODO TIPO DE PIEL: Con su fórmula libre de microplásticos, la crema NIVEA cuida tu piel y planeta. Compatibilidad con la piel dermatológicamente comprobada.
 - CONTENIDO DEL ENVÍO: NIVEA Crema de día antiarrugas revitalizante 55+ FP 15, crema antiedad para pieles maduras con aceite de argán y calcio, 1 x 50 ml, bote.
 - INGREDIENTES ESPECIALES: Formulada con valioso aceite de argán y calcio, esta crema antiedad reduce las arrugas y las líneas de expresión de manera visible.
 - PIEL MADURA: Gracias a su fórmula hidratante, esta crema facial para mujer mejora la vitalidad de la piel madura y fortalece su resistencia ante la sequedad.

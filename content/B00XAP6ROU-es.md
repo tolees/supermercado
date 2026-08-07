@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Mantener en lugar fresco y seco
-- Deliciosas y esponjosas
-- Con 35% recubrimiento al cacao
-- Proteger de la luz solar
 - Irresistible sabor a nata y chocolate
+- Proteger de la luz solar
+- Con 35% recubrimiento al cacao
+- Deliciosas y esponjosas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XAP6ROU{{</world>}}

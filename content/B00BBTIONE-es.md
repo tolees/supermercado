@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Ginebra 100% infusionada al vapor para revelar los aromas botánicos más vibrantes
+- La ginebra Bombay Sapphire destacará en una gran variedad de bebidas, como el icónico Gin & Tonic, el Sapphire Negroni o el clásico cóctel Sapphire Martini
+- Elaborada con 10 ingredientes botánicos seleccionados a mano procedentes de proveedores sostenibles certificados* para garantizar su calidad superior
 - Una 1 l botella de Bombay Sapphire London Dry Gin, 40% Vol.
 - La ginebra Bombay Sapphire presenta notas cítricas vibrantes, un estimulante sabor a enebro y un elegante final especiado
-- La ginebra Bombay Sapphire destacará en una gran variedad de bebidas, como el icónico Gin & Tonic, el Sapphire Negroni o el clásico cóctel Sapphire Martini
-- Ginebra 100% infusionada al vapor para revelar los aromas botánicos más vibrantes
-- Elaborada con 10 ingredientes botánicos seleccionados a mano procedentes de proveedores sostenibles certificados* para garantizar su calidad superior
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00BBTIONE{{</world>}}

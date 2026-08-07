@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Combina y crea tu propio estilo con tus nuevos favoritos
 - Caja sorpresa con seis productos misteriosos para looks brillantes y atrevidos
 - Una experiencia divertida de unboxing – ideal para regalar o para ti
-- Momentos infinitos de maquillaje con toques cósmicos
-- Combina y crea tu propio estilo con tus nuevos favoritos
 - Incluye efectos cambiantes, luminosos y con purpurina
+- Momentos infinitos de maquillaje con toques cósmicos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FDX2S5MV{{</world>}}

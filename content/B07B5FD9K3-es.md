@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cerveza mexicana con 4,6% de grado alcohólico
-- Su color claro, amarillo brillante, junto con su espuma blanca forman un dúo perfecto, convirtiendo a la coronita en una cerveza cremosa y consistente
-- Pack de 24 botellas de 33 cl cada uno, 792 cl en total
-- La combinación de sus aromas ligeramente afrutados y con ligeras notas de levadura, invitan a disfrutar de ella una vez destapada y disfrutarla con los cinco sentidos
 - Elaborada a partir de cebada malteada, arroz, maíz, lúpulo y levadura que te harán saborear una experiencia refrescante
+- Pack de 24 botellas de 33 cl cada uno, 792 cl en total
+- Su color claro, amarillo brillante, junto con su espuma blanca forman un dúo perfecto, convirtiendo a la coronita en una cerveza cremosa y consistente
+- La combinación de sus aromas ligeramente afrutados y con ligeras notas de levadura, invitan a disfrutar de ella una vez destapada y disfrutarla con los cinco sentidos
+- Cerveza mexicana con 4,6% de grado alcohólico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07B5FD9K3{{</world>}}

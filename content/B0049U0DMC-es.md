@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lavazza Qualità Oro Café en Grano Natural Ideal para la Máquina de Café Espresso con Notas Aromáticas de Frutas y Flores 100% Arábica Intensidad 5 Tueste Medio Paquete de 1 kg'
-date: 2026-08-04 20:33:31
+date: 2026-08-07 15:51:18
 image: 'https://m.media-amazon.com/images/I/319zYIJ7BCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0049U0DMC/?tag=tolees-21'
 descuento: '26.91'
-average: '21.9747878787876'
+average: '21.9828742514968'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

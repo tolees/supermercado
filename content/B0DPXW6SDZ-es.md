@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CÓMO SE UTILIZA: Aplicar el champú sobre el cabello mojado y hacer espuma, aclarar y repetir si es necesario. Este champú limpia de forma suave y eficaz con una lujosa espuma.
-- FRAGANCIA PARA EL CABELLO: Champú para el cabello con notas de jazmín, vainilla, bergamota, melocotón y sándalo. Enamórate de su aroma floral con cada uso.
 - PRODUCTOS ANTIENCRESPAMIENTO: Con Escualano y Omega 9 para nutrir profundamente las fibras capilares desde el interior y restaurarlas en el exterior. Dermatológicamente probado y adecuado para cabellos teñidos.
 - RUTINA DE CUIDADO DEL CABELLO: Para obtener los mejores resultados, úsalo con el acondicionador ULTIMATE SMOOTH, la mascarilla capilar (una vez a la semana) o el sérum Miracle Oil. Ideal para el cuidado personal o como regalo de belleza.
+- CÓMO SE UTILIZA: Aplicar el champú sobre el cabello mojado y hacer espuma, aclarar y repetir si es necesario. Este champú limpia de forma suave y eficaz con una lujosa espuma.
+- FRAGANCIA PARA EL CABELLO: Champú para el cabello con notas de jazmín, vainilla, bergamota, melocotón y sándalo. Enamórate de su aroma floral con cada uso.
 - CHAMPÚ DETOX: Champú formulado con tecnología Metal Purifier para eliminar los metales del cabello. Al usar el sérum Miracle Oil, nutre en solo 30 segundos y la suavidad dura hasta 3 días*.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

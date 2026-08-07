@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 2 paquetes x 500g
+- Disuelve 18 g (3 o 4 cucharaditas) en 250 ml de leche caliente
 - Cremoso chocolate negro a la taza con un 38,9 % de cacao
 - Sírvelo con 5 o 6 cubitos de hielo para disfrutar de un refrescante placer veraniego
-- Disuelve 18 g (3 o 4 cucharaditas) en 250 ml de leche caliente
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B095JBN89T{{</world>}}

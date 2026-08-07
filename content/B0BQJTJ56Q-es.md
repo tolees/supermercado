@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SIN GLUTEN porque el trigo se transforma en azúcar en tu cuerpo. El trigo y otros "carbohidratos vacíos" hacen que su nivel de azúcar en la sangre aumente rápidamente
 - BAJA EN CARBOHIDRATOS chocolates keto con 1,1 g de carbohidratos netos y 107 kcal por barra
-- SIN LACTOSA chocolate negro con un mínimo de 60% de cacao y un bajo impacto de glucosa en sangre
+- SIN GLUTEN porque el trigo se transforma en azúcar en tu cuerpo. El trigo y otros "carbohidratos vacíos" hacen que su nivel de azúcar en la sangre aumente rápidamente
 - SNACK VEGANO para los amantes del chocolate negro para comer o para hornear y cocinar
+- SIN LACTOSA chocolate negro con un mínimo de 60% de cacao y un bajo impacto de glucosa en sangre
 - SIN AZÚCAR AÑADIDO con edulcorantes que le dan a las barras una sensación dulce en la boca, pero con un efecto mínimo de azúcar en la sangre
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

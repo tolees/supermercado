@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 🥛 Añade 30 ml con leche o bebida vegetal para un iced latte cremoso.
-- 🍨 Ideal para lattes fríos, bebidas dulces y recetas creativas de café.
-- ❄️ Listo para mezclar, perfecto para bebidas frías.
-- ☕ Café con sabor a vainilla, suave y aromático.
 - 🧴 Botella de 500 ml = 16 porciones. Conservar en frío tras abrir y consumir en 6 semanas.
+- 🍨 Ideal para lattes fríos, bebidas dulces y recetas creativas de café.
+- ☕ Café con sabor a vainilla, suave y aromático.
+- 🥛 Añade 30 ml con leche o bebida vegetal para un iced latte cremoso.
+- ❄️ Listo para mezclar, perfecto para bebidas frías.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0GLYY3BCY{{</world>}}

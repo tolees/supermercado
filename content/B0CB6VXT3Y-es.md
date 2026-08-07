@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fórmula de pH optimizado
-- Para cabello grueso
 - Descubre el acondicionador de protección del Color Invigo Color Brilliance para cabello grueso
+- Para cabello grueso
+- Fórmula de pH optimizado
 - Ayuda a mantener la vitalidad y el brillo de tu cabello teñido o con mechas, gracias a la fórmula de pH optimizado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

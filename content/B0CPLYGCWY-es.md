@@ -32,8 +32,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Resultado de expresión, color único, duradero, intenso, brillante, metálico, mate, brillante
 - Paleta de sombras de ojos profesional con 14 colores en tonos bayas
 - Sombra de ojos mate, brillante, metálica y especial altamente pigmentada
-- Vegano, sin micropartículas de plástico, sin nanopartículas, sin perfume, sin alcohol, sin parabenos, sin acetona
 - Embalaje llamativo con un aspecto especial y emocional
+- Vegano, sin micropartículas de plástico, sin nanopartículas, sin perfume, sin alcohol, sin parabenos, sin acetona
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CPLYGCWY{{</world>}}

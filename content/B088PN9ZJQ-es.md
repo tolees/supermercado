@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Uso: Perfecto para los amantes de los cafés aromáticos y equilibrados, este café en grano se debe moler en casa para una frescura y sabores óptimos en cada taza.
-- Sabores y Notas Aromáticas: Descubra un café con una alta intensidad aromática, que revela notas de cítricos, así como toques de flores y hierbas aromáticas, equilibrado por un agradable regusto de vainilla.
 - Mono Origen: Este café en grano proviene exclusivamente de Etiopía, conocida por sus cafés únicos con un perfil aromático rico y distintivo.
-- Caffè Corsini: Fundada en 1950, la empresa italiana Caffè Corsini es reconocida por sus mezclas excepcionales, combinando tradición y compromiso con la sostenibilidad, garantizando un café de calidad superior.
+- Sabores y Notas Aromáticas: Descubra un café con una alta intensidad aromática, que revela notas de cítricos, así como toques de flores y hierbas aromáticas, equilibrado por un agradable regusto de vainilla.
 - Embalaje Práctico: Este set incluye 3 paquetes de 250 g, para un total de 750 g de café en grano, ideal para preservar la frescura y la calidad del café a lo largo de su uso.
+- Caffè Corsini: Fundada en 1950, la empresa italiana Caffè Corsini es reconocida por sus mezclas excepcionales, combinando tradición y compromiso con la sostenibilidad, garantizando un café de calidad superior.
+- Uso: Perfecto para los amantes de los cafés aromáticos y equilibrados, este café en grano se debe moler en casa para una frescura y sabores óptimos en cada taza.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B088PN9ZJQ{{</world>}}

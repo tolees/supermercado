@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sunbites con cheddar y cebolla, 95 g
-- Proteger de la luz solar y de olores agresivos
 - Conservar en lugar fresco y seco
+- Proteger de la luz solar y de olores agresivos
+- Sunbites con cheddar y cebolla, 95 g
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B075GMFXJD{{</world>}}

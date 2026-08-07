@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 💚 Notas de Cata - Este café de Burundi tiene acidez brillante y un cuerpo muy cremoso. Se caracteriza por su sabor a melocotón y su toque a fresa y chocolate con leche. Recomendado para personas que busquen sabores exóticos y diferentes
+- 🌿 Tueste Artesanal - El tueste es uno de los elementos que más influyen en la calidad y el sabor del café. Nuestros expertos tostadores tuestan cada día para asegurar la frescura del café
 - 🌱 Ingredientes - Café en Grano Natural, 100% Arábica
 - ⭐ Café de Especialidad - Café de Burundi de alta calidad, con 87,75 puntos SCA (Specialty Coffee Association). Se distingue por su aroma, sabor, personalidad, carácter distintivo y ausencia de defectos
-- 🌿 Tueste Artesanal - El tueste es uno de los elementos que más influyen en la calidad y el sabor del café. Nuestros expertos tostadores tuestan cada día para asegurar la frescura del café
 - 🌎 Origen único Burundi - Todos los granos de café provienen de la finca Nyagishiru en la región de Buhinyuza
+- 💚 Notas de Cata - Este café de Burundi tiene acidez brillante y un cuerpo muy cremoso. Se caracteriza por su sabor a melocotón y su toque a fresa y chocolate con leche. Recomendado para personas que busquen sabores exóticos y diferentes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08HVPHG6Z{{</world>}}

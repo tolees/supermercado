@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bushmills 10 años es un excepcional whisky irlandés de malta que ha sido destilado, madurado y embotellado en la destilería de whisky con licencia más antigua del mundo en el pequeño pueblo norirlandés de Bushmills desde 1608.
-- ACABADO: Bushmills Whisky 10 años goza con un final crujiente que se diluye suavemente en el paladar.
 - MADURACIÓN: Madurado un mínimo de 10 años en barricas de bourbon y botas de jerez seleccionadas especialmente a mano, resultando así nuestro característico Whisky Irlandés de Malta con tonos Oro Ámbar.
 - NARIZ: Whisky Irlandés con acentos iniciales de cítricos picantes entrelazados con el carácter distintivo de la miel de Bushmills, seguidos de aromas dulces y persistentes de vainilla fresca y cremoso chocolate con leche.
+- Bushmills 10 años es un excepcional whisky irlandés de malta que ha sido destilado, madurado y embotellado en la destilería de whisky con licencia más antigua del mundo en el pequeño pueblo norirlandés de Bushmills desde 1608.
+- ACABADO: Bushmills Whisky 10 años goza con un final crujiente que se diluye suavemente en el paladar.
 - SABOR: El Whiskey Irlandés Bushmills refiere en el paladar, notas dulces y suaves de vainilla, chocolate con leche y madreselva fresca casados con delicados rastros de roble tostado.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

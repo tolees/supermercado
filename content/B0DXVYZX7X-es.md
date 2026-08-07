@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aplicar con los dedos según necesidad a lo largo del día. Uso externo.
 - Terra contour: contouring en tono marrón claro universal que contribuye a crear sombras y definir las facciones. Úsalo bajo el hueso de las mejillas, linea de la mandíbula y sienes.
+- Rose glow: iluminador con tono rosa claro que contribuye a crear un ligero efecto sonrojado. úsalo sobre las mejillas, hueso de la ceja, puente de la nariz o arco de cupido.
 - Caramel touch: iluminador tono caramelo con notas doradas que contribuye a un look más sofisticado. úsalo sobre las mejillas, hueso de la ceja, puente de la nariz o arco de cupido.
+- Aplicar con los dedos según necesidad a lo largo del día. Uso externo.
 - Cherry cheek & lips: colorete cremoso en tono rojo cereza que puede usarse sobre mejillas y labios.
 - Puedes combinar los diferentes tonos o usarlos independientemente. Aplica los tonos más oscuros para crear sombras y dar profundidad al rostro. Utiliza los tonos claros para iluminar allí donde incide la luz de forma natural.
 - Cada paleta contiene dos iluminadores, un colorete y un contouring presentados en un elegante estuche de color bronce.
-- Rose glow: iluminador con tono rosa claro que contribuye a crear un ligero efecto sonrojado. úsalo sobre las mejillas, hueso de la ceja, puente de la nariz o arco de cupido.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DXVYZX7X{{</world>}}

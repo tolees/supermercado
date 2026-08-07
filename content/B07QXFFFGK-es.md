@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pelo ondulado
-- Combínalo con la línea Nutricurls de Wella Professionals. Champú, acondicionador y mascarilla.
-- Espuma ligera
-- Ondas suaves y definidas
-- Ondas llenas de volumen
-- Larga duración de hasta 72 horas
 - Sin encrespamiento
+- Larga duración de hasta 72 horas
+- Pelo ondulado
+- Ondas suaves y definidas
+- Espuma ligera
+- Ondas llenas de volumen
+- Combínalo con la línea Nutricurls de Wella Professionals. Champú, acondicionador y mascarilla.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07QXFFFGK{{</world>}}

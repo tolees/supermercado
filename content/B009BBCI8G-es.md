@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Listo para servir
-- Adecuado como regalo
 - Ideal con hielo
+- Adecuado como regalo
+- Listo para servir
 - De sabor dulce
 - Tiene una textura cremosa
 

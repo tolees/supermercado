@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- ENERGÍA SALUDABLE: Nuestro te matcha Perfect Ted ofrece energía 100% natural y sostenida, ayudando a la concentración sin picos de azúcar.
+- MATCHA DE GRADO CEREMONIAL: Elaborado solo con hojas de té verde de calidad premium, transformadas en un te matcha ceremonial de textura ultrafina.
+- SABOR AUTÉNTICO: Nunca amargo ni herbáceo; nuestro matcha combina el dulzor y la profundidad de un auténtico macha tea.
 - MATCHA TODO PROPÓSITO: Perfecto para preparar té, lattes, batidos y recetas creativas con te matcha en polvo o te machata polvo, incluyendo sabores como matcha vainilla y te matcha vainilla.
 - NATURAL Y PURO: 100% natural, vegano, libre de gluten y sin OGM. Disfruta de un verdadero te macha ceremonial, directo de Japón.
-- SABOR AUTÉNTICO: Nunca amargo ni herbáceo; nuestro matcha combina el dulzor y la profundidad de un auténtico macha tea.
-- MATCHA DE GRADO CEREMONIAL: Elaborado solo con hojas de té verde de calidad premium, transformadas en un te matcha ceremonial de textura ultrafina.
-- ENERGÍA SALUDABLE: Nuestro te matcha Perfect Ted ofrece energía 100% natural y sostenida, ayudando a la concentración sin picos de azúcar.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJFDPLNV{{</world>}}

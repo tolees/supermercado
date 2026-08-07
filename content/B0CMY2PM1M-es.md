@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - ¿La Newyorkina y Real Fooding? Pues sí, ahí los tienes juntitos. Ya pero, ¿cómo fue y por qué? Pues estábamos un día en nuestro obrador tan tranquilos haciendo granola y nos escribieron del equipo de Carlos Ríos Real Fooding, oye nos encantan vuestras granOlas y pensamos que juntando nuestros conocimientos nutricionales y vuestra mano para las granOlas puede salir algo chulo ¿qué decís? Dijimos sí, por supuesto que sí, vamos a ello.
 - ¿Cómo disfrutarla? Yogurt griego, unos arándanos naturales y un poco de GranOla Real Fooding, merienda o desayuno perfecto. Es solo una idea, combínala como más te guste, se adapta a todo.
-- INGREDIENTES: Copos de AVENA, pasta de dátil, aceite de oliva virgen extra, ALMENDRAS, agua, coco rallado, fibra soluble de tapioca, pipas de girasol, pipas de calabaza, ralladura de naranja, canela y sal rosa del Himalaya.
-- El toque definitivo fue añadirle ralladura de naranja, ¿en qué momento se nos ocurrió esto?, ¡hay “mamina” que buena quedó!😋
 - Endulzada con pasta de dátil, la mezclamos con aceite de oliva virgen extra y se lo añadimos a la avena y a las almendras (que lleva muchas de verdad).
+- El toque definitivo fue añadirle ralladura de naranja, ¿en qué momento se nos ocurrió esto?, ¡hay “mamina” que buena quedó!😋
+- INGREDIENTES: Copos de AVENA, pasta de dátil, aceite de oliva virgen extra, ALMENDRAS, agua, coco rallado, fibra soluble de tapioca, pipas de girasol, pipas de calabaza, ralladura de naranja, canela y sal rosa del Himalaya.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CMY2PM1M{{</world>}}

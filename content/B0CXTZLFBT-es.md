@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disfruta del refrescante sabor a limón mientras cuidas de tu salud con nuestras gominolas de Vitamina D. Con cada bocado, estás tomando una decisión inteligente para promover una mejor salud ósea y fortalecer tu sistema inmunológico.
-- En Wonkandy Nutrition, nos preocupamos por la salud de todos. Por eso, nuestras gominolas de Vitamina D están libres de gluten y azúcar, lo que las convierte en una opción segura y adecuada para aquellos con sensibilidades alimentarias o que siguen dietas específicas.
 - La Vitamina D es esencial para la absorción normal del calcio y el fósforo, lo que promueve la salud ósea y dental. Nuestras gominolas están formuladas con una dosis óptima de Vitamina D para asegurar que tu cuerpo pueda aprovechar al máximo estos nutrientes clave.
 - Refuerza tus huesos y sistema inmunológico con nuestras gominolas de Vitamina D. Con 50 gominolas en cada envase, ofrecemos una forma deliciosa y conveniente de cuidar tu salud ósea y fortalecer tus defensas naturales.
 - Además de fortalecer los huesos, la Vitamina D también desempeña un papel crucial en el funcionamiento del sistema inmunológico. Con nuestras gominolas, estás apoyando la capacidad natural de tu cuerpo para combatir enfermedades y mantenerse saludable.
+- En Wonkandy Nutrition, nos preocupamos por la salud de todos. Por eso, nuestras gominolas de Vitamina D están libres de gluten y azúcar, lo que las convierte en una opción segura y adecuada para aquellos con sensibilidades alimentarias o que siguen dietas específicas.
+- Disfruta del refrescante sabor a limón mientras cuidas de tu salud con nuestras gominolas de Vitamina D. Con cada bocado, estás tomando una decisión inteligente para promover una mejor salud ósea y fortalecer tu sistema inmunológico.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CXTZLFBT{{</world>}}

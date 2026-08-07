@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- COMBATE Y PREVIENE LA CASPA: Será tu aliado para eliminar de manera efectiva la caspa existente y prevenir su reaparición, controlando también la producción de sebo. Además, mejora la apariencia del cabello y del cuero cabelludo nutriendolo en profundidad
-- HIDRATACIÓN Y BRILLO: El champú contiene mentol para una limpieza profunda al eliminar la grasa y refrescar el cuero cabelludo. Además, tiene ácido hialurónico para una hidratación desde el interior del cabello, obteniendo un pelo más sedoso y brillante.
-- CHAMPÚ ANTICASPA: El champú anticaspa Mentol de ANIAN está formulado en España con un 90% de ingredientes naturales. Además, contiene un componente altamente eficaz que elimina la caspa existente en el cuero cabelludo y previene su aparición.
-- MODO DE EMPLEO: Aplícalo sobre el cabello húmedo y masajea suavemente hasta que aparezca espuma, después aclara con abundante agua. Perfecto para usar a diario, ya que hidrata el cabello y elimina la caspa. Apto con tratamientos capilares y coloración.
 - SOBRE NOSOTROS: En ANIAN nos comprometemos a ofrecer productos de higiene personal de alta calidad con un 90% de origen natural. Por ello, apostamos por la naturaleza combinada con la investigación e innovación, para conseguir los mejores beneficios.
+- HIDRATACIÓN Y BRILLO: El champú contiene mentol para una limpieza profunda al eliminar la grasa y refrescar el cuero cabelludo. Además, tiene ácido hialurónico para una hidratación desde el interior del cabello, obteniendo un pelo más sedoso y brillante.
+- COMBATE Y PREVIENE LA CASPA: Será tu aliado para eliminar de manera efectiva la caspa existente y prevenir su reaparición, controlando también la producción de sebo. Además, mejora la apariencia del cabello y del cuero cabelludo nutriendolo en profundidad
+- MODO DE EMPLEO: Aplícalo sobre el cabello húmedo y masajea suavemente hasta que aparezca espuma, después aclara con abundante agua. Perfecto para usar a diario, ya que hidrata el cabello y elimina la caspa. Apto con tratamientos capilares y coloración.
+- CHAMPÚ ANTICASPA: El champú anticaspa Mentol de ANIAN está formulado en España con un 90% de ingredientes naturales. Además, contiene un componente altamente eficaz que elimina la caspa existente en el cuero cabelludo y previene su aparición.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00TWC3QBC{{</world>}}

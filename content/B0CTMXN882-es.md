@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - CALIDAD ITALIANA - Nuestros productos se crean y elaboran en nuestra fábrica de Sicilia seleccionando sólo los mejores pistachos para crear una crema untable, similar a la mantequilla de cacahuete. Nuestra crema de pistachos con pasta kataifi tiene un sabor delicado para que pueda combinarla con todos sus platos favoritos; ideal especialmente con chocolate de Dubai.
 - MODO DE EMPLEO - la crema de pistacho es tan versátil como la clásica crema de avellana. Se puede untar en pan y galletas o utilizarla en postres: para aromatizar cremas o mascarpone, decorar o glasear pasteles, crear deliciosas copas o vasitos en capas. Se puede incorporar directamente a la masa y crear pasteles con sabor a pistacho, bizcochos o donuts.
-- Contenido: se le entregará cómodamente en su domicilio o donde prefiera un tarro de 200 gramos de crema de pistacho vegana sin azúcares añadidos, con sello de garantía y tapa para mantener la frescura del producto. La fecha de caducidad se encuentra directamente en el tarro.
 - PISTACHIO - El pistacho es un fruto seco muy especial: no sólo es delicioso, sino que además tiene varias propiedades beneficiosas para nuestra salud, que lo convierten en un alimento muy recomendable en una dieta equilibrada. Abunda en minerales, fósforo, calcio, potasio, manganeso y hierro. Son alimentos de origen vegetal, se trata de las semillas oleaginosas contenidas en el fruto del pistachero, un pequeño árbol de hasta diez metros de altura con un follaje alto y denso.
 - SERVICIO DE ATENCIÓN AL CLIENTE: nuestro servicio de atención al cliente está a su disposición las 24 horas del día, los 7 días de la semana para cualquier consulta. ¡No dude en ponerse en contacto con nosotros!
+- Contenido: se le entregará cómodamente en su domicilio o donde prefiera un tarro de 200 gramos de crema de pistacho vegana sin azúcares añadidos, con sello de garantía y tapa para mantener la frescura del producto. La fecha de caducidad se encuentra directamente en el tarro.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CTMXN882{{</world>}}

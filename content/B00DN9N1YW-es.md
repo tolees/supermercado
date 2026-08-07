@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Formulado con Canela, Clavo, Alcanfor, Mentol, Menta y Cajeput
 - Ungüento original de uso externo para masajes con efecto calor
+- Extender una pequeña cantidad sobre la zona afectada, dando un suave masaje en sentido rotatorio, hasta notar una sensación de calor
 - Fórmula tradicional que se ha mantenido intacta desde hace más de un siglo
 - Para uso externo. No aplicar sobre heridas
-- Extender una pequeña cantidad sobre la zona afectada, dando un suave masaje en sentido rotatorio, hasta notar una sensación de calor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00DN9N1YW{{</world>}}

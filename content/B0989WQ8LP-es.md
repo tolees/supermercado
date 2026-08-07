@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Elaborado con ingredientes de buena calidad
-- Con una forma optima para ofrecer una exquisita experiencia culinaria
 - Alimento 100% completo y equilibrado
+- Elaborado con ingredientes de buena calidad
 - Reciclable por favor separe la tapa de la pirámide
+- Con una forma optima para ofrecer una exquisita experiencia culinaria
 - Delicadas y refinadas mousse con una deliciosa cascada de salsa
 
 [🛒 Aquí!!!]({{< param buyurl >}})

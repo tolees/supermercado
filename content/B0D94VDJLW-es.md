@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Característico sabor a crujiente galleta Filipinos.
+- Turrón Extrafino, se elabora en La penilla (España)
 - 100% Cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan. Certificado Rainforest Alliance
 - Irresistible turrón de chocolate blanco, relleno cremoso con galleta Filipinos.
-- Turrón Extrafino, se elabora en La penilla (España)
-- Característico sabor a crujiente galleta Filipinos.
 - Estas navidades vuelve la diversión con Turrón Jungly Blanco.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

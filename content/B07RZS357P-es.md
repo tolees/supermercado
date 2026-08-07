@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Certificación Ecológica: elaborado con uvas procedentes de viñedos de producción ecológica
-- Vino Ecológico D.O. Rueda
+- Vino Vegano
 - Vino afrutado y persistente con aromas cítricos. Ideal para acompañar arroces, pescados y pastas.
 - Variedad: Verdejo
-- Vino Vegano
+- Vino Ecológico D.O. Rueda
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07RZS357P{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- DEFINICIÓN DURADERA Este perfilador proporciona una definición precisa y duradera a las cejas, con una fórmula que garantiza hasta 24 horas de durabilidad, su diseño con punta angular facilita el relleno de cejas poco pobladas, mientras que el cepillo ayuda a mezclar el color y dar forma a las cejas de manera profesional
 - SEGURIDAD Y COMODIDAD Formulado con pigmentos y ceras naturales para mejorar la consistencia y la adherencia. Además, ha sido testada oftalmológicamente y es apta para personas que usan lentes de contacto, garantizando la seguridad y comodidad durante su uso
 - PERFILADOR DE CEJAS COLORSTAY Es un lápiz resistente al agua, de larga duración con una punta angular diseñada para rellenar y definir las cejas de manera precisa, incluye un cepillo en espiral para peinar y esculpir
 - CONSEJOS DE USO Para definir las cejas, se recomienda usar el lado angulado del lápiz, trazando líneas suaves a lo largo de los bordes superior e inferior de la forma natural de las cejas, luego, se puede rellenar con el lado plano del lápiz, utilizando trazos cortos y suaves en la dirección del crecimiento natural del vello, finalmente, se peina con el cepillo para mezclar el color
-- DEFINICIÓN DURADERA Este perfilador proporciona una definición precisa y duradera a las cejas, con una fórmula que garantiza hasta 24 horas de durabilidad, su diseño con punta angular facilita el relleno de cejas poco pobladas, mientras que el cepillo ayuda a mezclar el color y dar forma a las cejas de manera profesional
 - RECOMENDACIONES Completa tu maquillaje de ojos con el perfilador de ojos Color Stay Eyeliner, con fórmula waterproof, se desliza de manera muy suave y permanece intacto durante 24 horas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

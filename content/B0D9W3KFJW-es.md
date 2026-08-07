@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- 🥛​​ MATCHA LATTE - La Edición Barista es la mejor opción para mezclar con leche y hacer matcha latte. Especialmente diseñado para baristas y amantes del té matcha con leche.
 - ♻️​​ ENVASE ECOSOSTENIBLE - El diseño del envase ha sido pensado y desarrollado para minimizar la huella de carbono al máximo. Esto es debido a la optimización del espacio tanto en el trasporte como en el contenido del producto. El material es 100% reciclable y ecosostenible.
 - ⭐ CALIDAD CEREMONIAL - Té verde en polvo de la máxima calidad, elaborado en Japón mediante métodos tradicionales respetando tiempos de sombreado y molido en piedra. Color intenso, textura fina y aromas achocolatatos. Especial para elaborar con leche o bebida vegetal.
-- 🥛​​ MATCHA LATTE - La Edición Barista es la mejor opción para mezclar con leche y hacer matcha latte. Especialmente diseñado para baristas y amantes del té matcha con leche.
+- 🏔️ ORIGEN JAPÓN - Toda la selección proviene de las mejores granjas de Japon de las que se han catado y testeado más de 30 elaboradores y productores. En este caso, la Edición Barista proviene de Uji, la zona más emblemática en la elaboración de té matcha de calidad.
 - 🟢​ VERDE INTENSO - La Edición Barista está elaborado con el cultivar "Saemidori". Es una variedad de camellia sinensis con un verdor intenso, mínima astringencia y de excelente sabor y calidad. Perfecto para mezclar con leche.
 - 🥇 SELECCIONADO POR PROFESIONALES - Genbu Matcha cuenta con un equipo de catadores con más de 20 años de experiencia entre los que se encuentran sumilleres, periodistas, enólogos y baristas profesionales.
-- 🏔️ ORIGEN JAPÓN - Toda la selección proviene de las mejores granjas de Japon de las que se han catado y testeado más de 30 elaboradores y productores. En este caso, la Edición Barista proviene de Uji, la zona más emblemática en la elaboración de té matcha de calidad.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D9W3KFJW{{</world>}}

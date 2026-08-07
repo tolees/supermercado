@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PARA ADULTOS Y MAYORES | En situaciones de debilidad y falta de energía, poco apetito, disfagia y, en general, en todas aquellas situaciones que requieran un aporte nutricional extra.
 - ADVERTENCIAS | Es importante mantener una dieta variada y equilibrada y seguir un estilo de vida saludable. Recuerda guardarlo en lugar fresco y seco y, una vez abierto, consumirlo en el plazo de un mes.
 - CÓMO TOMAR | Ideal como desayuno, a media mañana, como merienda o postre. Añadir 8 cucharadas soperas a 200-220 ml de leche templada removiendo hasta su total disolución, también puede prepararse en agua.
-- VITAMINAS, MINERALES Y PROTEÍNAS | 13 vitaminas, 5 minerales y proteínas lácteas que ayudan a mantener la masa muscular.
 - NUEVA FORMULACIÓN Y FORMATO | Óptimo valor nutricional, con 8 cereales (trigo, arroz, maíz, centeno, avena, trigo sarraceno, espelta y cebada) para satisfacer las necesidades de adultos y personas mayores.
+- PARA ADULTOS Y MAYORES | En situaciones de debilidad y falta de energía, poco apetito, disfagia y, en general, en todas aquellas situaciones que requieran un aporte nutricional extra.
+- VITAMINAS, MINERALES Y PROTEÍNAS | 13 vitaminas, 5 minerales y proteínas lácteas que ayudan a mantener la masa muscular.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CP4BPPVQ{{</world>}}

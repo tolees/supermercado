@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ideal para toda la familia
-- Leche semidesnatada de Bienestar Animal
 - Lauki, contigo desde 1958
+- Leche semidesnatada de Bienestar Animal
 - Sin azúcar añadido ni gluten
 - Fuente natural de calcio y vitaminas
 - Brik UHT 1L con tapón atado (para evitar que acabe en la naturaleza)

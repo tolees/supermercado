@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 65 % arábica, 35 % robusta
 - CERTIFICACIÓN RAINFOREST ALLIANCE: La procedencia del café utilizado para este producto goza de la certificación Rainforest Alliance, lo que significa que no solo sabe bien, sino que también tiene un impacto positivo. Con cada compra, ayuda a cientos de agricultores y sus familias en todo el mundo, además de aportar su granito a la selva tropical; beber mejor es hacerlo mejor
 - Intensidad: 4/5
-- Adecuado para todas las preparaciones dependiendo de la molienda. Expreso = fina. Filtro = media. Italiana = media. Émbolo = gruesa
 - Una mezcla equilibrada, con mucho cuerpo y notas de chocolate negro y caramelo
+- 65 % arábica, 35 % robusta
+- Adecuado para todas las preparaciones dependiendo de la molienda. Expreso = fina. Filtro = media. Italiana = media. Émbolo = gruesa
 - Tostado y envasado en Italia
 
 [🛒 Aquí!!!]({{< param buyurl >}})

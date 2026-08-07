@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con distintos recubrimientos de limón, fresa, naranja o manzana y rellenos de naranja, frutas del bosque, limón o mora.
-- Variedad multicolor para grandes y pequeños.
 - ¡Crea tus propias combinaciones!
-- Formato cómodo y fácil.
+- Con distintos recubrimientos de limón, fresa, naranja o manzana y rellenos de naranja, frutas del bosque, limón o mora.
 - Los BALLA BITES, nuestros geles dulces con forma de discos rellenos y sabor a frutas variadas. ¡Una explosión de sabor!
 - Disfruta en casa de la alegría y diversión en cualquier momento.
+- Formato cómodo y fácil.
+- Variedad multicolor para grandes y pequeños.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CS3LWH7L{{</world>}}

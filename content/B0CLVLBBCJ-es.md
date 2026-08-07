@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- WATER DECAF: El método de descafeinación con agua es una técnica natural que emplea agua para eliminar la cafeína. El resultado es una taza de café cremosa con las características principales del café para mantener el aroma y el sabor natural del café.
+- SUAVIDAD CON CARÁCTER: Con una calificación de intensidad de 6/10, este café Water Decaf es adecuado para aquellos que buscan un equilibrio entre suavidad y carácter en su taza de café. Disponible en un cómodo formato de 250 g molido fino tipo espresso.
 - CAFÉ DE ESPECIALIDAD: El café de especialidad es de una calidad excepcional debido a la selección cuidadosa de granos de calidad. Esto resulta en una taza de café con sabores y aromas únicos, superando la calidad y experiencia de los cafés convencionales.
 - SABOR INTENSO CON NOTAS DE CACAO: Este café descafeinado ofrece un sabor natural con notas intensas de cacao, con un cuerpo medio y una ligera acidez, lo que lo convierte en una elección ideal para los verdaderos amantes del café y los sabores intensos.
-- SUAVIDAD CON CARÁCTER: Con una calificación de intensidad de 6/10, este café Water Decaf es adecuado para aquellos que buscan un equilibrio entre suavidad y carácter en su taza de café. Disponible en un cómodo formato de 250 g molido fino tipo espresso.
-- WATER DECAF: El método de descafeinación con agua es una técnica natural que emplea agua para eliminar la cafeína. El resultado es una taza de café cremosa con las características principales del café para mantener el aroma y el sabor natural del café.
 - 100% CAFÉ ARÁBICA: El café Water Decaf es un café de especialidad descafeinado de alta calidad que utiliza el método de descafeinación con agua y sin químicos. Está elaborado con granos 100% arábica, garantizando un sabor natural, refinado y agradable.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

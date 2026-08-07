@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Champú Johnson Baby – Suave y eficaz, este champú potencia el brillo natural del pelo de tu bebé, como champú sin sulfatos para uso diario infantil
 - Con ingredientes de origen natural – Este champú sin sulfatos ni parabenos está enriquecido con aceite de argán y proteínas de seda para un pelo saludable
 - Con ingredientes de origen natural – Con aceite de argán y proteína de seda, nutre profundamente y es ideal para complementar los productos para el pelo de la rutina diaria
 - Cabello suave y brillante – El acondicionador Johnsons Baby suaviza y desenreda el pelo infantil al instante, ideal para rutinas de cuidado y peinado sin tirones
+- Champú Johnson Baby – Suave y eficaz, este champú potencia el brillo natural del pelo de tu bebé, como champú sin sulfatos para uso diario infantil
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0G6LKSR7Y{{</world>}}

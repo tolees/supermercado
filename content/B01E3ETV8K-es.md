@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Reactivador del ambientador
-- Desodorante roll-on antitranspirante
-- Tecnología Cryo-Caps
 - Fragancia con un aroma de madera y menta
+- Reactivador del ambientador
+- Tecnología Cryo-Caps
+- Desodorante roll-on antitranspirante
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01E3ETV8K{{</world>}}

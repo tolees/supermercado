@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Es de fácil disolución y espesa antes, por tanto no hay que añadir más producto del recomendado evitando la sobrealimentación del bebé y posibles problemas de sobrepeso
 - Tratamiento exclusivo por calor que nos permite conservar el sabor original de los cereales
-- La papilla Cereales sin gluten está elaborada para alimentar a tu bebé a partir de los 4 meses, dentro de una dieta variada
 - Nutribén ha desarrollado un proceso productivo natural y sin procesos químicos
+- La papilla Cereales sin gluten está elaborada para alimentar a tu bebé a partir de los 4 meses, dentro de una dieta variada
 - Indicada para dar un paso más en la introducción de los cereales en la dieta del bebé
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CON ACIDO GLICOLICO: Este Serum Antimanchas contiene Acido Glicolico y Vitamina E que calma y previene irritaciones, fortalece la barrera cutánea y proporciona una profunda hidratación y efecto antioxidante.
 - HIDRATACIÓN PROFUNDA: El Serum Facial de Acido Glicolico está formulado con Bisabolol, extracto de raíz de Jengibre y Esteroles para obtener mejores resultados.
-- USO DE DÍA Y NOCHE - 30ML: Aplicar el serum facial sobre la piel limpia en rostro, cuello y escote por la noche. Masajear con la yema de los dedos hasta su completa absorción. Evitar el contacto con los ojos.
+- CON ACIDO GLICOLICO: Este Serum Antimanchas contiene Acido Glicolico y Vitamina E que calma y previene irritaciones, fortalece la barrera cutánea y proporciona una profunda hidratación y efecto antioxidante.
 - DESPIGMENTANTE FACIAL: Su contenido en Acido Glicolico actúa como peeling facial eliminando las capas superficiales de la piel y regulando la pigmentación.
+- USO DE DÍA Y NOCHE - 30ML: Aplicar el serum facial sobre la piel limpia en rostro, cuello y escote por la noche. Masajear con la yema de los dedos hasta su completa absorción. Evitar el contacto con los ojos.
 - SERUM FACIAL: Serum facial formulado con Acido Glicolico libre y liposomado, especialmente diseñado como despigmentante facial para renovar y regenerar la piel unificando el tono.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

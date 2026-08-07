@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- TECNOLOGÍA DE LÍPIDOS LAMINARES: Potencian la barrera protectora de la piel desde el interior con hidratantes fisiológicos para una protección de larga duración.
+- CREMA EMOLIENTE PARA PIELES ATÓPICAS: Su fórmula única Derma-Defense refuerza las defensas naturales para que la piel sensible con tendencia atópica se mantenga sana y protegida.
+- BEPANTHOL SENSICONTROL: Aporta un prebiótico que estimula la microflora cutánea de defensa, vitamina B3, provitamina B5 y aceites naturales como el aceite de oliva y el aceite de bayas de espino amarillo que refuerzan la barrera cutánea.
 - FÓRMULA ÚNICA TESTADA BAJO CONTROL DERMATOLÓGICO Y PEDIÁTRICO para el control diario de la piel atópica de bebés, niños y adultos. La crema para piel atópica puede aplicarse diariamente para proteger la barrera cutánea tantas veces como se necesite, sobre las zonas de la piel libre de brotes de eccema.
 - CREMA PIELES ATÓPICAS: Bepanthol SensiControl Crema Emoliente cuida a diario de tu piel sensible y con tendencia atópica manteniéndola libre de brotes durante al menos 3 meses.
-- BEPANTHOL SENSICONTROL: Aporta un prebiótico que estimula la microflora cutánea de defensa, vitamina B3, provitamina B5 y aceites naturales como el aceite de oliva y el aceite de bayas de espino amarillo que refuerzan la barrera cutánea.
-- CREMA EMOLIENTE PARA PIELES ATÓPICAS: Su fórmula única Derma-Defense refuerza las defensas naturales para que la piel sensible con tendencia atópica se mantenga sana y protegida.
+- TECNOLOGÍA DE LÍPIDOS LAMINARES: Potencian la barrera protectora de la piel desde el interior con hidratantes fisiológicos para una protección de larga duración.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B087XGVFL1{{</world>}}

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Hasta 6 veces más volumen y pestañas visiblemente más largas en comparación con su estado natural.
-- Rizo Extremo y Fijación de Hasta 36 Horas: Inspirada en la laminación de cejas, la máscara Bourjois Twist, Lift & Freeze curva y fija las pestañas con un efecto lifting duradero.
-- Se mantiene en su sitio sin apelmazar ni dejar residuos, ofreciendo comodidad durante todo el día.
-- El cepillo giratorio exclusivo de Bourjois permite alargar, levantar y dar volumen desde la raíz con máxima precisión.
 - Resistente al Calor, Sudor y Humedad: Fórmula antiborrones diseñada para soportar condiciones extremas, ideal para climas cálidos o rutinas intensas.
+- Se mantiene en su sitio sin apelmazar ni dejar residuos, ofreciendo comodidad durante todo el día.
+- Rizo Extremo y Fijación de Hasta 36 Horas: Inspirada en la laminación de cejas, la máscara Bourjois Twist, Lift & Freeze curva y fija las pestañas con un efecto lifting duradero.
+- El cepillo giratorio exclusivo de Bourjois permite alargar, levantar y dar volumen desde la raíz con máxima precisión.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FL2SGDFG{{</world>}}

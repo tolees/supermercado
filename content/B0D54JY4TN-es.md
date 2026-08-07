@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- mezcla de café hecha en Italia
 - Producto de grano artesanal
+- mezcla de café hecha en Italia
 - Asado lento en pequeños lotes de 12 kg.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

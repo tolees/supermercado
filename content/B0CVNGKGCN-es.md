@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apto para gatitos de 2 a 12 meses de edad
 - Desarrollo óseo y muscular
+- Apto para gatitos de 2 a 12 meses de edad
 - Bocaditos en salsa para gatitos con Pollo
 - Caja caja contiene 12 Flowpacks de 4x85g
 - Contribuye a un crecimiento saludable

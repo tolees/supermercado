@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - De color dorado brillante
-- Sabor equilibrado entre las notas de cereal, pan blanco, notas de fruta blanca y toques florales de lúpulo ligero. Todo bien arropado con un punto ligero de amargor y acidez
 - Su aroma es muy fresco, combina notas suaves de fruta verde fresca como la manzana con toques florales de lúpulo y una ligera punta de cereal
-- Cerveza Lager. Graduación 4.6º
+- Sabor equilibrado entre las notas de cereal, pan blanco, notas de fruta blanca y toques florales de lúpulo ligero. Todo bien arropado con un punto ligero de amargor y acidez
 - Capacidad: 25CL
+- Cerveza Lager. Graduación 4.6º
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01N3UUBPP{{</world>}}

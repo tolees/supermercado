@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ayuda a reducir las líneas de expresión y arrugas
 - Su contenido en aloe vera proporciona una acción hidratante y ayuda a disminuir la irritación
 - Exfolia la superﬁcie de la piel, ayudando a suavizar su textura y a fomentar el proceso de renovación cutánea
+- Ayuda a reducir las líneas de expresión y arrugas
 - Gel facial formulado con un 25% de ácido glicólico parcialmente neutralizado (equivalente a un 9,5% de glicólico libre)
 
 [🛒 Aquí!!!]({{< param buyurl >}})

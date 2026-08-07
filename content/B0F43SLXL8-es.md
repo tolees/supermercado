@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - ORIGEN: Vino blanco D.O. Rueda elaborado con 100% uva Sauvignon Blanc de dos viñedos selectos en los pagos La Virgen y Los Rosales
-- PRESENTACIÓN: Estuche de cartón de dos botellas , ideal como regalo y para compartir vino en una cena con amigos
 - CRIANZA: Elaborado con crianza sobre lías finas para aportar mayor complejidad y untuosidad al vino
-- VIÑEDOS: Combina uvas de viñas de 30 años en suelos de cascajo y arcilla con viñas de 10 años en suelos arenosos
+- PRESENTACIÓN: Estuche de cartón de dos botellas , ideal como regalo y para compartir vino en una cena con amigos
 - MARIDAJE: Perfecto complemento para mariscos, pescados y aperitivos, destacando por su carácter distintivo y elegante
+- VIÑEDOS: Combina uvas de viñas de 30 años en suelos de cascajo y arcilla con viñas de 10 años en suelos arenosos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F43SLXL8{{</world>}}

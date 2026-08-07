@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CON DIAMOND CRYSTALS: Óptimos exfoliantes para el exceso de dureza
-- SOBRE PIEL MOJADA Y SECA: Puede usarse sobre piel mojada y seca
-- PIES BONITOS Y SUAVES AL INSTANTE: Tras un solo uso podrás sentir la suavidad en tus pies al instante
-- PARA DUREZAS PERSISTENTES: Funcionan incluso sobre la piel más difícil
 - CON LA LIMA ELÉCTRICA DE SCHOLL: Recomendamos utilizar estas limas de recambio únicamente con la lima electrónica Velvet Smooth de Scholl
+- PARA DUREZAS PERSISTENTES: Funcionan incluso sobre la piel más difícil
+- CON DIAMOND CRYSTALS: Óptimos exfoliantes para el exceso de dureza
+- PIES BONITOS Y SUAVES AL INSTANTE: Tras un solo uso podrás sentir la suavidad en tus pies al instante
+- SOBRE PIEL MOJADA Y SECA: Puede usarse sobre piel mojada y seca
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00WMD8P28{{</world>}}

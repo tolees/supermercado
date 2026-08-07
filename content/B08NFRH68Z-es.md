@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 4 PAQUETES DE 500 GRAMOS - 2 Kilos de café en grano perfecto para ser molido en tu máquina de café superautomática. Una vez molido, podrá ser utilizado en cualquier cafetera.
-- COMPLEJO Y CON CUERPO - Perfecta combinación de los granos de arábica más selectos del mundo.
-- Elaboradas con café sostenible bajo el programa de Sostenibilidad Common Grounds que garantiza un Origen Responsable.
 - INTENSIDAD 8 - Café en grano 100 % arábica de tueste natural con toques de miel y cítricos.
+- Elaboradas con café sostenible bajo el programa de Sostenibilidad Common Grounds que garantiza un Origen Responsable.
+- COMPLEJO Y CON CUERPO - Perfecta combinación de los granos de arábica más selectos del mundo.
 - CAFÉ ESPRESSO, RISTRETTO O LUNGO - Con este café podrás preparar un espresso, café negro corto que se disfruta solo o con base de leche como el capuchino o el latte. Un ristretto, una versión más concentrada de un espresso, con menos agua y la misma cantidad de café. O un café lungo, la misma cantidad de café pero el doble de agua que un espresso.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

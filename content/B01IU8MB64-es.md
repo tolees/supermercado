@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Gallina blanca es un socio confiable
-- Todos los productos de gallina blanca le brindan la calidad que necesitas
 - Agitar antes de servir
-- Puede contener trazas de leche
+- Gallina blanca es un socio confiable
 - 100% natural caldo liquido gallina blanca
+- Puede contener trazas de leche
+- Todos los productos de gallina blanca le brindan la calidad que necesitas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01IU8MB64{{</world>}}

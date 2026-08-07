@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- VEGANO - Doña Jimena apuesta por lo vegano presentando el único surtido de dulces del mercado elaborado sin grasas animales y 100% vegano.
-- CONTENIDO DEL SURTIDO - El surtido está compuesto por los dulces más clásicos de Navidad: roscos de anís, hojaldres y polvorones elaborados con Aceite de Oliva de la mejor calidad.
 - CERTIFICADO DE CALIDAD - Elaborado en planta productiva con certificación ifs foods. Sin gluten. Certificación de artesanía de la Comunidad Valenciana que avala la seguridad y calidad de todos nuestros productos alimenticios.
 - RECOMENDADO - Disfruta de nuestros dulces y turrones tradicionales en cualquier momento y lugar, Doña Jimena para ti y tu familia.
+- CONTENIDO DEL SURTIDO - El surtido está compuesto por los dulces más clásicos de Navidad: roscos de anís, hojaldres y polvorones elaborados con Aceite de Oliva de la mejor calidad.
 - DIFERENCIADORES - Surtido de dulces y especialidades navideñas elaboradas con ingredientes de la mejor calidad sin grasas animales. Ofrecemos un sabor auténtico y más natural.
+- VEGANO - Doña Jimena apuesta por lo vegano presentando el único surtido de dulces del mercado elaborado sin grasas animales y 100% vegano.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09SFGXJ1Y{{</world>}}

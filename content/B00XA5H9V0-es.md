@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 1 SOBRE = 4 RACIONES. Tan sólo un sobre de Sopas Gallina Blanca es suficiente para preparar hasta 4 raciones. Sorprende a tus comensales sin complicaciones: prepárales una sopa rica, que alimenta y que deja tu cocina limpia.
-- LISTA EN 10 MINUTOS. La Sopa de Ave con Fideos de Gallina Blanca es muy rápida y fácil de preparar: vierte el contenido del sobre en 1 litro de agua caliente, lleva a ebullición y remueve durante 10 minutos. ¡Y tu sopa ya está lista!
-- SOPA DE AVE, FIDEOS Y VERDURAS DE LA HUERTA. Con ingredientes ricos como un buen pollo de corral, una pasta de sémola de trigo y unas verduras de la huerta, se elabora esta deliciosa Sopa Gallina Blanca.
 - SIN CONSERVANTES · BAJA EN GRASA. Nuestras Sopas Gallina Blanca no llevan conservantes y son bajas en grasa, con lo que podrás alimentarte con un producto sabroso y cuidarte de forma saludable.
+- SOPA DE AVE, FIDEOS Y VERDURAS DE LA HUERTA. Con ingredientes ricos como un buen pollo de corral, una pasta de sémola de trigo y unas verduras de la huerta, se elabora esta deliciosa Sopa Gallina Blanca.
+- 1 SOBRE = 4 RACIONES. Tan sólo un sobre de Sopas Gallina Blanca es suficiente para preparar hasta 4 raciones. Sorprende a tus comensales sin complicaciones: prepárales una sopa rica, que alimenta y que deja tu cocina limpia.
 - GRAN VARIEDAD DE SOPAS Y CREMAS. Además de la Sopa de Ave con Fideos, Gallina Blanca te invita a probar otras sopas y cremas ricas como la de pollo, la de ternera con estrellitas, la jardinera, la crema de espárragos o la de champiñones.
+- LISTA EN 10 MINUTOS. La Sopa de Ave con Fideos de Gallina Blanca es muy rápida y fácil de preparar: vierte el contenido del sobre en 1 litro de agua caliente, lleva a ebullición y remueve durante 10 minutos. ¡Y tu sopa ya está lista!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XA5H9V0{{</world>}}

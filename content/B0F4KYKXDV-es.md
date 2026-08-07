@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Expulsión automática de la cápsula E.S.E.: la cápsula se introduce en el compartimento superior y se expulsa automáticamente al cajón especial de recogida; de esta forma, las manos no entran en contacto con la cápsula usada
-- Depósito extraíble de 0,85 l: fácil de rellenar con agua del grifo
-- Temperatura ajustable: puedes personalizar la temperatura del café en tres niveles diferentes
-- Función de apagado automático: la cafetera se apaga automáticamente tras 25 minutos de inactividad, ahorrando energía
 - Control electrónico de la cantidad de café: preparación del café programable para un espresso largo o corto
+- Temperatura ajustable: puedes personalizar la temperatura del café en tres niveles diferentes
+- Expulsión automática de la cápsula E.S.E.: la cápsula se introduce en el compartimento superior y se expulsa automáticamente al cajón especial de recogida; de esta forma, las manos no entran en contacto con la cápsula usada
+- Función de apagado automático: la cafetera se apaga automáticamente tras 25 minutos de inactividad, ahorrando energía
+- Depósito extraíble de 0,85 l: fácil de rellenar con agua del grifo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4KYKXDV{{</world>}}

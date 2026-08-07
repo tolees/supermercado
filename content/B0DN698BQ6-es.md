@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cocinado al vapor. Prensado en frío. No extrusionado.
-- ALIMENTO COMPLETO PARA PERROS SENIOR. MODO DE EMPLEO: Alimento apto para senior de todas las razas de perros. Tome como referencia la tabla de cantidades diarias recomendadas (las cantidades indicadas son orientativas).
 - Alimento completo semihúmedo para todo tipo de razas perros mayores o con sobrepeso, con un 50% de pavo fresco, un 26% de pescado blanco fresco y un 24% de vegetales, frutas y hierbas medicinales. Prensado en frío, no extruido, procesamiento mínimo. Sin gluten, sin harinas cárnicas, sin colorantes ni aromatizantes artificiales. Cocinado lentamente y a baja temperatura.
 - Sin Gluten, sin harina de carne, sin colorantes ni sabores artificiales.
 - Alta digestibilidad. Menos cantidad de heces.
+- ALIMENTO COMPLETO PARA PERROS SENIOR. MODO DE EMPLEO: Alimento apto para senior de todas las razas de perros. Tome como referencia la tabla de cantidades diarias recomendadas (las cantidades indicadas son orientativas).
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DN698BQ6{{</world>}}

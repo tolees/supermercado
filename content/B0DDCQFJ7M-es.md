@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- BEBIDA VEGETAL BARISTA: Nuestra bebida vegetal barista de almendras ha sido especialmente formulada para conseguir una textura cremosa y una espuma perfecta al calentarla, ideal para cafés, capuccinos o lattes. Su sabor suave, con un toque dulce, realza tus bebidas con una nota delicadamente tostada.
 - SOBRE NOSOTROS: ISOLA BIO nace con el objetivo de ayudarte a conseguir una alimentación vegetal y saludable. Somos empresa BCorp certificada y cumplimos con altos estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
-- SABOR Y ENERGÍA: Las almendras son naturalmente ricas en calcio, vitamina E y grasas saludables. Combinadas con un toque de dulzor, aportan una experiencia gustativa equilibrada que nutre y reconforta.
+- BEBIDA VEGETAL BARISTA: Nuestra bebida vegetal barista de almendras ha sido especialmente formulada para conseguir una textura cremosa y una espuma perfecta al calentarla, ideal para cafés, capuccinos o lattes. Su sabor suave, con un toque dulce, realza tus bebidas con una nota delicadamente tostada.
 - MEZCLA Y DISFRUTA: Diseñada para baristas y amantes del café, esta bebida vegetal es perfecta tanto caliente como fría. Disfrútala con café espresso, en smoothies, infusiones, cereales o recetas dulces. ¡Versátil y deliciosa en cualquier momento del día!
+- SABOR Y ENERGÍA: Las almendras son naturalmente ricas en calcio, vitamina E y grasas saludables. Combinadas con un toque de dulzor, aportan una experiencia gustativa equilibrada que nutre y reconforta.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DDCQFJ7M{{</world>}}

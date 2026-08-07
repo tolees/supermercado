@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Alimento complementario para su perro, con aportación extra del calcio, muy rico en nutrientes.
 - Cantidad: 100 gramos
-- Snack en forma de muslitos con carne de pollo. 100% natural. Con un alto contenido en proteína animal y con pocas grasas (Producto Light).
+- Alimento complementario para su perro, con aportación extra del calcio, muy rico en nutrientes.
 - Utilizar como un regalo o recompensa en cualquier momento, dentro de una dieta equilibrada.
 - COMPOSICIÓN: Carne de pollo 50,3%, Carbonato de calcio 42%, Proteínas vegetales 1,5%, Glicerina 3,5%, Sorbitol 2,5%, Sal 0,2%. COMPONENTES ANALÍTICOS: Proteína 20%, Aceites y grasas brutos 5%, Ceniza bruta 5%, Fibra bruta 1,2%, Humedad 18%.
+- Snack en forma de muslitos con carne de pollo. 100% natural. Con un alto contenido en proteína animal y con pocas grasas (Producto Light).
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B071JF8YZK{{</world>}}

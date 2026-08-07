@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- IDEAL PARA: High Fructose Gel es un gel isotótnico o ideal para realizar actividades de alto rendimiento como competiciones de ciclismo, running y entrenamientos
 - MODO DE USO: Se recomienda consumir 2 unidades máx. cada 60 minutos durante el ejercicio con aprox. 300 ml de agua. Mantener bien cerrado en lugar fresco y seco. Su vida útil es de 12 meses.
-- BENEFICIOS: Clave para provocar un rápido vaciado gástrico que favorece la digestión, y para producir una absorción gradual de fructuosa con liberación de energía constante y progresiva. Permite digerir y asimilar alta cantidad de carbohidratos por hora.
 - GEL ENERGÉTICO: High Fructose Gel es un gel isotótnico a base de maltodextrina, fructosa, agua, sal, aroma natural de plátano, ácido cítrico y sobrato potásico (conservador)
+- BENEFICIOS: Clave para provocar un rápido vaciado gástrico que favorece la digestión, y para producir una absorción gradual de fructuosa con liberación de energía constante y progresiva. Permite digerir y asimilar alta cantidad de carbohidratos por hora.
+- IDEAL PARA: High Fructose Gel es un gel isotótnico o ideal para realizar actividades de alto rendimiento como competiciones de ciclismo, running y entrenamientos
 - La siguiente información se aplica a cada unidad del paquete
 - PRODUCTO VEGANO: High Fructose Gel de 226ERS es un producto vegano y vegetariano. Además, no contiene gluten, ni azúcares añadidos y tampoco lactosa
 

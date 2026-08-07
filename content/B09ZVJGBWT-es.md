@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - TEXTURA SUAVE CON TROCITOS: La textura con trocitos suaves es perfecta para los bebés que están empezando a consumir alimentos sólidos. Facilita la transición del puré a texturas más complejas, apoyando el desarrollo de habilidades alimentarias.
-- SIN GLUTEN NI AZÚCARES AÑADIDOS: Los potitos Hero Baby de guiso de verduras con merluza son libres de gluten y no contienen azúcares añadidos. Toda la sal y azúcar proviene naturalmente de los alimentos, asegurando una dieta equilibrada y segura para tu bebé.
 - COMIDA COMPLETA Y EQUILIBRADA: Los potitos Hero Baby de guiso de verduras con merluza ofrecen una comida completa y equilibrada para bebés desde los 10 meses. Elaborados con ingredientes seleccionados, son ideales para apoyar un crecimiento saludable y un desarrollo óptimo.
+- SIN GLUTEN NI AZÚCARES AÑADIDOS: Los potitos Hero Baby de guiso de verduras con merluza son libres de gluten y no contienen azúcares añadidos. Toda la sal y azúcar proviene naturalmente de los alimentos, asegurando una dieta equilibrada y segura para tu bebé.
 - INGREDIENTES NATURALES Y SEGUROS: Estos potitos están hechos con ingredientes 100% naturales como merluza, zanahoria, calabaza, y patata, sin conservantes ni aditivos artificiales. Así aseguras una alimentación saludable, similar a la comida casera que tú harías.
 - FÁCIL Y PRÁCTICO DE USAR: Estos tarritos vienen en prácticos envases individuales que son fáciles de llevar y usar. Perfectos para viajes o comidas fuera de casa, garantizan la frescura y la higiene de la comida en todo momento.
 

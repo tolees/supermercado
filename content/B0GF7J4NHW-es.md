@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CHAMPÚ PARA EL CRECIMIENTO DEL CABELLO: Nuestro champú anticaída fortalece el anclaje del cabello al cuero cabelludo para lograr un cabello visiblemente más denso, más largo y más fuerte*
-- MASCARILLA CAPILAR PARA CABELLO SECO Y DAÑADO: Con perlas provitamínicas, nuestra mascarilla capilar reconstruye la fibra capilar dañada para lograr un cabello visiblemente más denso, más largo y más fuerte
 - ACONDICIONADOR PARA CABELLO SECO Y DAÑADO: Nuestro acondicionador anticaída fortalece los largos debilitados para lograr un cabello visiblemente más denso, más largo y más fuerte*
+- MASCARILLA CAPILAR PARA CABELLO SECO Y DAÑADO: Con perlas provitamínicas, nuestra mascarilla capilar reconstruye la fibra capilar dañada para lograr un cabello visiblemente más denso, más largo y más fuerte
+- CHAMPÚ PARA EL CRECIMIENTO DEL CABELLO: Nuestro champú anticaída fortalece el anclaje del cabello al cuero cabelludo para lograr un cabello visiblemente más denso, más largo y más fuerte*
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0GF7J4NHW{{</world>}}

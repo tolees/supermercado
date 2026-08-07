@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- NUESTRO OBJETIVO: Seleccionamos solo el 1% de los granos de Arábica para garantizar un espresso sin imperfecciones, gracias a las relaciones que hemos forjado generación tras generación con los productores
 - TAMAÑO: La lata contiene 250 g de café molido ideal para espresso
-- CERTIFICACIÓN REGENAGRI: En la región de Cerrado Mineiro, nuestro café en grano se cultiva mediante técnicas de agricultura regenerativa. Por primera vez, no solo protegemos los recursos, sino que los regeneramos para mejorar la fertilidad del suelo y protegemos la diversidad de las especies que habitan en él
-- CAFÉ ESPRESSO MOLIDO: El grado de molienda del café está creado específicamente para la preparación de café espresso. El proceso de presurización refina y realza los aromas de la mezcla, ofreciendo un aroma increible al abrir la lata illy
 - ARABICA SELECTION BRASIL CERRADO MINEIRO: Descubre nuestro primer café procedente de agricultura 100% regenerativa con certificación regenagri. Cuidamos el café que adoras y el suelo donde lo cultivamos
+- CERTIFICACIÓN REGENAGRI: En la región de Cerrado Mineiro, nuestro café en grano se cultiva mediante técnicas de agricultura regenerativa. Por primera vez, no solo protegemos los recursos, sino que los regeneramos para mejorar la fertilidad del suelo y protegemos la diversidad de las especies que habitan en él
+- NUESTRO OBJETIVO: Seleccionamos solo el 1% de los granos de Arábica para garantizar un espresso sin imperfecciones, gracias a las relaciones que hemos forjado generación tras generación con los productores
+- CAFÉ ESPRESSO MOLIDO: El grado de molienda del café está creado específicamente para la preparación de café espresso. El proceso de presurización refina y realza los aromas de la mezcla, ofreciendo un aroma increible al abrir la lata illy
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CHF9Q58S{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adecuado como aperitivo, con diferentes tipos de platos
-- Largo post gusto levemente amargo e intenso
-- Se recomienda servir frío
 - Tiene un aroma intenso con notas herbáceas y especiadas
+- Largo post gusto levemente amargo e intenso
 - De color caoba con reflejos anaranjados
+- Se recomienda servir frío
+- Adecuado como aperitivo, con diferentes tipos de platos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00MTFKRNO{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Heineken Espana SA, Avda. de Andalucia 1, Sevilla Agua, malta de CEBADA y extracto de lúpulo.
 - Cerveza estilo lager especial tostada sin alcohol 0. 0 % de alcohol en volumen; maltas tostadas en 3 tiempos: secado, tostación y golpe de fuego De color dorado oscuro y espuma cremosa; de cuerpo medio y amargor suave Consumirla entre 2° y 4°C para obtener sus máximas cualidades
+- Heineken Espana SA, Avda. de Andalucia 1, Sevilla Agua, malta de CEBADA y extracto de lúpulo.
 - La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Comprar!!!]({{< param buyurl >}})

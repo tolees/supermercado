@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Notas de fondo: sándalo, ámbar, caramelo y vainilla
+- Notas de corazón: jazmín sambac y madreselva
 - Es una fragancia de la familia olfativa Floral Frutal Gourmand para mujeres
 - Notas de salida: bayas silvestres
-- Notas de corazón: jazmín sambac y madreselva
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00LB9IUBU{{</world>}}

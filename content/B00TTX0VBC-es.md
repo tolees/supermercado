@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - CB12 Mild (Menta Sauve) neutraliza la causa principal del mal aliento y fortalece los dientes, gracias a su fórmula con flúor
+- El enjuague bucal tiene un agradable y suave sabor a menta/mentol
 - Su fórmula patentada y única está clínicamente probada y proporciona un aliento agradable en la boca durante 12 horas1. Su efecto es instantáneo
 - A diferencia de otros colutorios, que simplemente enmascaran el mal olor con un fuerte sabor a menta, CB12 actúa de forma diferente. Asegura un buen aliento durante más tiempo neutralizando el mal aliento y no enmascarándolo
-- El enjuague bucal tiene un agradable y suave sabor a menta/mentol
 - CB12 combate la causa principal del mal aliento durante 12 horas y reduce su aparición neutralizando los gases sulfurosos malolientes en la boca
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

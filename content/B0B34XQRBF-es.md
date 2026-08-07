@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contenido del envío - Eucerin Sun Face Oil Control FPS 50+ con color tono medio, protector solar para piel grasa 50+, crema con color, 50 ml; número de artículo: 87942
-- Ingredientes activos - El protector solar Eucerin contiene Ácido Glicirretínico, que favorece la reparación del ADN de la piel, y Licocalcón A, que neutraliza los radicales libres dañinos
 - Oil Control - El protector solar de cara pertenece a la gama Eucerin Oil Control, con L-Carnitina y partículas sebáceas microabsorbentes para un efecto matificante y antibrillos de larga duración
-- Protección solar facial FPS 50+ - Esta crema con filtros UVA/UVB avanzados y pigmentos de color controla el exceso de sebo y los brillos de la piel durante 12 horas, y deja el tono uniforme
+- Ingredientes activos - El protector solar Eucerin contiene Ácido Glicirretínico, que favorece la reparación del ADN de la piel, y Licocalcón A, que neutraliza los radicales libres dañinos
+- Contenido del envío - Eucerin Sun Face Oil Control FPS 50+ con color tono medio, protector solar para piel grasa 50+, crema con color, 50 ml; número de artículo: 87942
 - Crema solar matificante - Nuestras cremas solares con FPS 50+ están clínica y dermatológicamente probadas, y su textura ligera y no comedogénica da un efecto matificante inmediato sin ser pegajosa
+- Protección solar facial FPS 50+ - Esta crema con filtros UVA/UVB avanzados y pigmentos de color controla el exceso de sebo y los brillos de la piel durante 12 horas, y deja el tono uniforme
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B34XQRBF{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hechas con una cuidada combinación de cereales, estas galletas aportan un sabor suave y equilibrado, ideal para quienes buscan un bocado nutritivo sin renunciar al placer
-- Con más de 140 años de tradición, Fontaneda elabora galletas de calidad con ingredientes seleccionados. Contiene gluten o presencia de cereales que contienen gluten
-- Galletas Fontaneda Digestive con avena, elaboradas con una receta rica en fibra y una textura crujiente perfecta para disfrutar en desayunos, meriendas o como snack en cualquier momento del día
-- Fontaneda utiliza trigo local cultivado bajo el Compromiso Harmony, un programa que protege la biodiversidad, reduce pesticidas y promueve prácticas responsables en el campo
 - Perfectas para tomar solas, con leche, yogur o acompañando café o té; también pueden usarse como base para postres caseros o recetas de repostería
+- Con más de 140 años de tradición, Fontaneda elabora galletas de calidad con ingredientes seleccionados. Contiene gluten o presencia de cereales que contienen gluten
+- Fontaneda utiliza trigo local cultivado bajo el Compromiso Harmony, un programa que protege la biodiversidad, reduce pesticidas y promueve prácticas responsables en el campo
+- Galletas Fontaneda Digestive con avena, elaboradas con una receta rica en fibra y una textura crujiente perfecta para disfrutar en desayunos, meriendas o como snack en cualquier momento del día
+- Hechas con una cuidada combinación de cereales, estas galletas aportan un sabor suave y equilibrado, ideal para quienes buscan un bocado nutritivo sin renunciar al placer
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XA0UTYY{{</world>}}

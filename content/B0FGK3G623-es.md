@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Snack de patatas
 - Envasado en atmósfera protectora
-- La siguiente información se aplica a cada unidad del paquete
 - Crujiente y salado
 - Ideal para llevar de picnic
+- Snack de patatas
+- La siguiente información se aplica a cada unidad del paquete
 - Apto para compartir
 
 [🛒 Aquí!!!]({{< param buyurl >}})

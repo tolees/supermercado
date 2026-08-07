@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PROTECCIÓN ESPECÍFICA CONTRA LA CASPA. Ataca el origen de la caspa con un champú que limpia e hidrata el cuero cabelludo. Hidrata la piel y la revitaliza, ayudando a prevenir la pérdida de hidratación y a combatir la caspa
-- CHAMPÚ HIDRATANTE ANTICASPA. Hidrata al instante el cuero cabelludo seco (debido a la caspa). Con uso regular, actúa sobre la superficie del cuero cabelludo y ayuda a restaurar los niveles de ceramidas y repara la sequedad de la piel
-- DERMATOLOGICALMENTE TESTADO. El champú experto para el cuero cabelludo de DermaXPro actúa con suavidad en el cuero cabelludo y el pelo
 - CON ACEITE DE COCO Y COMPLEJO DE CERAMIDAS. Nuestra fórmula experta, diseñada para cuidar de cueros cabelludos secos y con picor*, contiene aceite de coco, piroctona olamina y ceramidas. (*relacionado con la caspa)
 - CUIDADO PARA EL CUERO CABELLUDO CLÍNICAMENTE PROBADO. Nuestro champú anticaspa DermaXPro Repairing Moisture está clínicamente probado, ayuda a restaurar las ceramidas de la piel y mantiene la hidratación por 72 h (con un uso regular)
+- DERMATOLOGICALMENTE TESTADO. El champú experto para el cuero cabelludo de DermaXPro actúa con suavidad en el cuero cabelludo y el pelo
+- CHAMPÚ HIDRATANTE ANTICASPA. Hidrata al instante el cuero cabelludo seco (debido a la caspa). Con uso regular, actúa sobre la superficie del cuero cabelludo y ayuda a restaurar los niveles de ceramidas y repara la sequedad de la piel
+- PROTECCIÓN ESPECÍFICA CONTRA LA CASPA. Ataca el origen de la caspa con un champú que limpia e hidrata el cuero cabelludo. Hidrata la piel y la revitaliza, ayudando a prevenir la pérdida de hidratación y a combatir la caspa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BDXNJ4BB{{</world>}}

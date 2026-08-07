@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Crema sin aclarado para cabellos rizados u ondulados
-- Tiene una textura ligera
 - Formulado con aceite de pistacho y pectina de fruta
-- Consigue unos rizos definidos y adecuadamente contorneados
 - Fácil de usar
+- Tiene una textura ligera
+- Crema sin aclarado para cabellos rizados u ondulados
+- Consigue unos rizos definidos y adecuadamente contorneados
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07SBS14T3{{</world>}}

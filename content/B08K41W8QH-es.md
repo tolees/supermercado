@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Rojo rubí brillante en colour
+- El paquete puede variar
 - Una estructura integrada de taninos y una acidez bien equilibrada
 - Aromas de dulces e intensas grosellas negras
-- El paquete puede variar
 - Como servir: Servir a temperatura ambiente
 
 [🛒 Aquí!!!]({{< param buyurl >}})

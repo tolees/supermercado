@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- APTAS PARA VEGANOS: Nuestras galletas proteicas de almendra y sesamo son aptas para el consumo vegano ya que ninguno de sus ingredientes es de origen animal.
-- MODO DE EMPLEO: Este producto es ideal para niños y adultos en desayunos, meriendas, etc. Es un acompañamiento ideal para el té, los zumos o las bebidas vegetales.
-- INGREDIENTES NATURALES: Sus ingredientes son harina de trigo sarraceno integral* (23%), proteína de guisante*, pasta de dátil* (22%), , almendra troceada* (10%), aceite de oliva virgen extra* (10%), semillas de sésamo* (6%), aceite de coco*, zumo de limón*, cúrcuma*. Contiene frutos secos de cáscara y sésamo. Puede contener gluten y cacahuete.
 - SOBRE NOSOTROS: Desde 1982, el Granero Integral apuesta por una alimentación saludable al alcance de todos. Somos empresa BCorp certificada y cumplimos con los estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
+- APTAS PARA VEGANOS: Nuestras galletas proteicas de almendra y sesamo son aptas para el consumo vegano ya que ninguno de sus ingredientes es de origen animal.
+- INGREDIENTES NATURALES: Sus ingredientes son harina de trigo sarraceno integral* (23%), proteína de guisante*, pasta de dátil* (22%), , almendra troceada* (10%), aceite de oliva virgen extra* (10%), semillas de sésamo* (6%), aceite de coco*, zumo de limón*, cúrcuma*. Contiene frutos secos de cáscara y sésamo. Puede contener gluten y cacahuete.
+- MODO DE EMPLEO: Este producto es ideal para niños y adultos en desayunos, meriendas, etc. Es un acompañamiento ideal para el té, los zumos o las bebidas vegetales.
 - MÚLTIPLES BENEFICIOS: Nuestras mini cookies proteicas de almendra y sésamo destacan por su alto contenido en proteínas vegetales gracias a la proteína de guisante, que contribuye al mantenimiento y desarrollo muscular. Elaboradas con ingredientes ecológicos como trigo sarraceno integral y dátil, son fuente de fibra y energía natural, favoreciendo la digestión y el rendimiento diario. Además, la almendra y el sésamo aportan grasas saludables y minerales esenciales que contribuyen al bienestar cardiovascular y al equilibrio nutricional.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

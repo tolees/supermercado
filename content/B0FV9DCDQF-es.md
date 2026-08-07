@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Maridaje: En un vaso ancho con mucho hielo, añadir 5 cl de Nordés, 20 cl de tónica, preferiblemente neutra y decoramos con una brocheta de uva blanca. Una preparación original pero sencilla que refuerza los aromas frutales de la ginebra y define un gin&tonic perfecto para disfrutar en buena compañía.
-- Elaboración: Un destilado con el toque genial de la uva Albariño y 11 botánicos, 6 de tradición gallega y 5 de ultramar.
-- Nota de cata: Transparencia a la vista, ginebra aromática, con delicados aromas de fruta blanca, en armonía con notas balsámicas de menta, eucalipto y laurel, acompañados de un sutil toque de enebro. Notas frescas y frutales, con recuerdos retronasales de laurel y enebro en boca.
 - Nordés gin Edición Limitada de la colección La Maxia del Atlántico.
+- Maridaje: En un vaso ancho con mucho hielo, añadir 5 cl de Nordés, 20 cl de tónica, preferiblemente neutra y decoramos con una brocheta de uva blanca. Una preparación original pero sencilla que refuerza los aromas frutales de la ginebra y define un gin&tonic perfecto para disfrutar en buena compañía.
+- Nota de cata: Transparencia a la vista, ginebra aromática, con delicados aromas de fruta blanca, en armonía con notas balsámicas de menta, eucalipto y laurel, acompañados de un sutil toque de enebro. Notas frescas y frutales, con recuerdos retronasales de laurel y enebro en boca.
+- Elaboración: Un destilado con el toque genial de la uva Albariño y 11 botánicos, 6 de tradición gallega y 5 de ultramar.
 - Un homenaje a los tesoros ocultos que guarda el Atlántico representado en la icónica botella de Nordés gin, que mantiene intacto su interior con su característica ginebra fresca, suave y aromática.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

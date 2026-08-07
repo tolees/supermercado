@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Tostado y molido artesabalmente
 - Café de especialidad 100% arábica procedente de cultivos ecológicos
+- Tiene una aroma intenso
 - Es un producto vegano
 - Ideal para los amantes del café
-- Tostado y molido artesabalmente
-- Tiene una aroma intenso
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004GANQ4W{{</world>}}

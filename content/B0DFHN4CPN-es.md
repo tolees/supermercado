@@ -29,12 +29,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Conservar en un lugar fresco y seco. Consumir preferentemente antes del: ver lateral del envase.
-- CAFÉ MOLIDO DE TUESTE NATURAL DESCAFEINADO EN CÁPSULAS COMPATIBLES CON NESPRESSO*
-- Envasado en atmósfera protectora.
 - Certificado Rainforest Alliance. Obtenga más información en ra.org.
-- Este café tiene un aroma intenso con notas a madera, acidez ligera y retrogusto duradero.
-- Asegurarse siempre de seguir las instrucciones del fabricante de la cafetera. Porción recomendada: 40ml espresso o 110ml lungo.
 - *Nespresso no está vinculado a Amazon.
+- Asegurarse siempre de seguir las instrucciones del fabricante de la cafetera. Porción recomendada: 40ml espresso o 110ml lungo.
+- Este café tiene un aroma intenso con notas a madera, acidez ligera y retrogusto duradero.
+- Envasado en atmósfera protectora.
+- CAFÉ MOLIDO DE TUESTE NATURAL DESCAFEINADO EN CÁPSULAS COMPATIBLES CON NESPRESSO*
 - Tostado y envasado en España.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 🌳 BUENO PARA TI, AMABLE CON EL PLANETA: Cuida tu salud y la del planeta con nuestro café saludable en envases sin plástico. B-Corp Pendiente y 1% Para los miembros de The Planet, priorizamos la comunidad y la salud del planeta.
-- ❤ HECHO PARA TU SALUD: Gracias a las 9 pruebas independientes involucradas en la producción de nuestro café libre de micotoxinas, una taza de nuestra bebida energética natural con polifenoles y vitamina B3 tiene el mismo poder antioxidante que 12 canastillas de arándanos o 55 naranjas.
 - 🌻 FRESCO, LIMPIO Y TOTALMENTE NATURAL: En Exhale, tostamos nuestro café en pequeños lotes, asegurando que le entreguemos la máxima frescura y sabor. Nuestro delicioso café es un tueste medio con delicadas notas de Toffee, Almendra, Leche de Avena. Nuestro café descafeinado se prueba de forma independiente; libre de micotoxinas, pesticidas y otros contaminantes potenciales para garantizar que su taza esté tan limpia como natural.
+- ❤ HECHO PARA TU SALUD: Gracias a las 9 pruebas independientes involucradas en la producción de nuestro café libre de micotoxinas, una taza de nuestra bebida energética natural con polifenoles y vitamina B3 tiene el mismo poder antioxidante que 12 canastillas de arándanos o 55 naranjas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D7D2LLWW{{</world>}}

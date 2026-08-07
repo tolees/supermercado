@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - On the go
+- 90% de leche
+- La forma divertida de beber leche
 - Fuente de calcio, vitaminas A y D y proteinas. El calcio y las Vitaminas A y D son necesarios para el cremiento y el desarrollo normal de los huesos en los niños. Las proteinas contribuyen a conservar la masa muscular.
 - Fuente de calcio, vitamina D y proteinas
-- La forma divertida de beber leche
-- 90% de leche
 - Sin glueten
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

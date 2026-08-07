@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fácil y rápido de preparar
 - Una vez abierto conservar en un recipiente hermético
+- Fácil y rápido de preparar
 - Ideal para el desayuno o una pausa durante el día
 - Café molido con un sabor intenso
 - Se puede servir solo o con leche

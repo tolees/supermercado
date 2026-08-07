@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - ✅ AJUSTE CÓMODO – Este antifaz térmico suave y transpirable para ojos secos cuenta con bandas elásticas que se adaptan al contorno del rostro sin ejercer presión, incluso al estar acostado.
 - ✅ 16 ANTIFACES ENVUELTOS INDIVIDUALMENTE – Cada caja incluye 16 tratamientos de antifaz para ojos autocalefactable de un solo uso, higiénicos y portátiles. Perfectos para viajes, regalos o cuidado personal diario. Guárdalos en tu bolso, escritorio o mesita de noche.
-- ✅ RELAJACIÓN DURADERA – Esta compresa calmante para ojos secos proporciona 30–40 minutos de calor suave, perfecta antes de dormir, durante los viajes o al final de un día largo.
-- ✅ ANTIFAZ DE MANZANILLA AUTOCALEFACTABLE PARA OJOS – Una compresa caliente y relajante que se calienta suavemente a 40–45 °C en minutos. No necesita microondas, baterías ni cables: solo abre, aplica y relájate.
 - ✅ ALIVIA LA FATIGA VISUAL Y MEJORA EL BIENESTAR – Estos antifaces térmicos para ojos secos están infusionados con manzanilla calmante para reducir la hinchazón, la fatiga por pantallas, la sequedad y el estrés. Ideal para relajarse en cualquier momento y lugar.
+- ✅ ANTIFAZ DE MANZANILLA AUTOCALEFACTABLE PARA OJOS – Una compresa caliente y relajante que se calienta suavemente a 40–45 °C en minutos. No necesita microondas, baterías ni cables: solo abre, aplica y relájate.
+- ✅ RELAJACIÓN DURADERA – Esta compresa calmante para ojos secos proporciona 30–40 minutos de calor suave, perfecta antes de dormir, durante los viajes o al final de un día largo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0G48CBZPT{{</world>}}

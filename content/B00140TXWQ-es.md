@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Alisa el encrespamiento y aumenta el brillo del cabello
 - El acondicionador reparador de puntas abiertas, sin aclarado Bed Head Ego Boost de Tigi es idóneo para cabellos secos dañados
-- El tratamiento capilar que protege el cabello de los daños
 - Acondicionador sin aclarado para cabellos dañados
 - Un acondicionador profundo que hidrata, acondiciona y suaviza el cabello
-- Alisa el encrespamiento y aumenta el brillo del cabello
+- El tratamiento capilar que protege el cabello de los daños
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00140TXWQ{{</world>}}

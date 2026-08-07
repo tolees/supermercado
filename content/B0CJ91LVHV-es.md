@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Formato/Añada Comercializada actualmente por el productor
 - Caja de 3 Botellas de 70 cl
+- Formato/Añada Comercializada actualmente por el productor
 - Whisky Blended
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

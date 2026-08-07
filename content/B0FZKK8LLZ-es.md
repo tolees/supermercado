@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- SIN AZÚCARES AÑADIDOS. Totalmente Natural. Sin gluten. Vegano. Sin OGM (Organismos Genéticamente Modificados).
-- BEBIDAS ENERGÉTICAS LIMPIAS: Cada lata contiene 80 mg de cafeína, de origen natural del té verde matcha, equivalente a un espresso.
-- SABOR REFRESCANTE: Afrutadas, refrescantes y ligeramente espumosas. Nuestras bebidas energéticas saludables se desarrollaron pensando en el sabor y la funcionalidad: saben tan bien como te hacen sentir.
-- MATCHA GRADO CEREMONIAL: Naturalmente repleto de antioxidantes y L-teanina, el matcha favorece la concentración, la calma y el bienestar general.
 - MEJOR RENDIMIENTO MENTAL: La bebida energética saludable Perfect Ted te proporciona energía sostenida y 100 % natural, durante 4 a 6 horas, sin bajones de azúcar ni nerviosismo
 - ENERGÍA 100% NATURAL: Elaborado con solo unos pocos ingredientes. El matcha libera su energía lentamente, sin acelerar el ritmo cardíaco ni causar ansiedad.
+- SIN AZÚCARES AÑADIDOS. Totalmente Natural. Sin gluten. Vegano. Sin OGM (Organismos Genéticamente Modificados).
+- SABOR REFRESCANTE: Afrutadas, refrescantes y ligeramente espumosas. Nuestras bebidas energéticas saludables se desarrollaron pensando en el sabor y la funcionalidad: saben tan bien como te hacen sentir.
+- MATCHA GRADO CEREMONIAL: Naturalmente repleto de antioxidantes y L-teanina, el matcha favorece la concentración, la calma y el bienestar general.
+- BEBIDAS ENERGÉTICAS LIMPIAS: Cada lata contiene 80 mg de cafeína, de origen natural del té verde matcha, equivalente a un espresso.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FZKK8LLZ{{</world>}}

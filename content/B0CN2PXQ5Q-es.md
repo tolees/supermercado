@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La siguiente información se aplica a cada unidad del paquete
-- EL SECRETO PARA UN PELO RIZADO SANO: Esta crema sin aclarado transforma tus rizos rebeldes en un solo uso, para conseguir unos rizos definidos hasta 24 horas
-- RUTINA PARA RIZOS DEFINIDOS: Para un cuidado adicional, combínalo con el resto de productos de nuestra línea completa Rizos Definidos, para obtener sin esfuerzo unos rizos nutridos y de aspecto sano
-- MAYOR FUERZA: Consigue rizos definidos hasta un 100% más fuertes* (*Frente al desgaste por el peinado, en comparación con el champú Aqualight/ Volumen/ Purificante)
 - DEFINICIÓN Y ANTIENCRESPAMIENTO DIARIOS PARA RIZOS REBELDES: Nuestra crema sin aclarado, diseñada para hidratar el pelo y controlar el encrespamiento, ayuda a definir y controlar el encrespamiento para que luzcas unos rizos llenos de vida
+- RUTINA PARA RIZOS DEFINIDOS: Para un cuidado adicional, combínalo con el resto de productos de nuestra línea completa Rizos Definidos, para obtener sin esfuerzo unos rizos nutridos y de aspecto sano
+- La siguiente información se aplica a cada unidad del paquete
+- MAYOR FUERZA: Consigue rizos definidos hasta un 100% más fuertes* (*Frente al desgaste por el peinado, en comparación con el champú Aqualight/ Volumen/ Purificante)
+- EL SECRETO PARA UN PELO RIZADO SANO: Esta crema sin aclarado transforma tus rizos rebeldes en un solo uso, para conseguir unos rizos definidos hasta 24 horas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CN2PXQ5Q{{</world>}}

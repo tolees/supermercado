@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aroma: La fragancia aromática tiene un perfil seco con suaves notas afrutadas y un reflejo a levadura. Los aromas de lúpulo son leves aunque florales y se intensifican al tragar
 - Inspiración Alhambra: Inspirada en recetas clásicas alemanas, esta cerveza ofrece matices únicos gracias a su proceso de fermentación lenta
-- Sabor: Balance perfecto entre amargor suave pero con sensación de cuerpo y muy equilibrada. La persistencia es fina, ligeramente dulce con acabado seco, que la hace refrescante
-- Pack de 12 latas de 33 cl de cerveza Alhambra especial, lupulación y sabor equilibrados
 - Apariencia: Cerveza lata Alhambra es de color dorado, brillante y con una espuma cremosa y consistente
+- Pack de 12 latas de 33 cl de cerveza Alhambra especial, lupulación y sabor equilibrados
+- Sabor: Balance perfecto entre amargor suave pero con sensación de cuerpo y muy equilibrada. La persistencia es fina, ligeramente dulce con acabado seco, que la hace refrescante
+- Aroma: La fragancia aromática tiene un perfil seco con suaves notas afrutadas y un reflejo a levadura. Los aromas de lúpulo son leves aunque florales y se intensifican al tragar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01LZSCBRO{{</world>}}

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ANNE BONNY: Ron inspirado en la legendaria pirata Anne Bonny, símbolo de carácter, libertad y valentía. Cada botella refleja su espíritu aventurero.
-- IDEAL PARA REGALO: Perfecto para amantes del ron, coleccionistas y quienes buscan una bebida con historia y personalidad. Excelente opción para cumpleaños, Navidad, Día del Padre y eventos especiales.
-- GRADUACIÓN 40º: Este ron es perfecto tanto para tomar solo, con hielo o para preparar los mejores cócteles.
 - SABOR SUAVE Y ENVOLVENTE: En boca ofrece una textura cremosa con notas de caramelo y un final cálido especiado.
 - RON ESPECIADO PREMIUM: Ron artesanal infusionado con especias naturales como vainilla, canela, nuez moscada y clavo.
+- GRADUACIÓN 40º: Este ron es perfecto tanto para tomar solo, con hielo o para preparar los mejores cócteles.
+- IDEAL PARA REGALO: Perfecto para amantes del ron, coleccionistas y quienes buscan una bebida con historia y personalidad. Excelente opción para cumpleaños, Navidad, Día del Padre y eventos especiales.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6PDGWJ1{{</world>}}

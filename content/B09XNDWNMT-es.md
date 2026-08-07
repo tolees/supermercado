@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Sin conservantes ni aditivos Las murallitas son un dulce elaborado de manera tradicional y con ingredientes naturales, libres de conservantes ni aditivos
 - Conservación en lugar seco: Conservar en lugar fresco y seco. Una vez abierto, consumir antes de 15 días
 - Santa Teresa: En Santa Teresa llevamos desde el año 1860 enfocados en crear productos de calidad. Comenzamos fabricando y comercializando las y originales Yemas de Santa Teresa: La receta se ha transmitido de forma idéntica de padres a hijos desde hace de 160 años y hoy en día sigue siendo el principal referente gastronómico de la ciudad de Ávila
-- Contenido: 375grs
 - Receta centenaria: Recuperando una receta centenaria: rendimos homenaje a la ciudad de Ávila con nuestras Murallitas de Santa Teresa: deliciosas galletas de mantequilla, con un suave aroma a naranja, limón, canela y vainilla
-- Sin conservantes ni aditivos Las murallitas son un dulce elaborado de manera tradicional y con ingredientes naturales, libres de conservantes ni aditivos
 - Elaboración artisanal: Elaboradas de forma tradicional, con la silueta de uno de los 88 torreones de la muralla abulense
+- Contenido: 375grs
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09XNDWNMT{{</world>}}

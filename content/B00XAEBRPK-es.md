@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aporta un extra de luminosidad en las prendas blancas y de colo
-- El embalaje puede variar
-- Adecuado para usar en cada lavado
 - Es fácil de usar directamente en el dosificador de la lavadora
-- Elimina las manchas incluso en agua fría
 - Viene en formato polvo y da una agradable fragancia
+- Elimina las manchas incluso en agua fría
+- El embalaje puede variar
+- Aporta un extra de luminosidad en las prendas blancas y de colo
+- Adecuado para usar en cada lavado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XAEBRPK{{</world>}}

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Resultado de expresión, color único, duradero, intenso, brillante, metálico, mate, brillante
-- Vegano, sin micropartículas de plástico, sin nanopartículas, sin perfume, sin alcohol, sin parabenos, sin acetona
 - Sombra de ojos mate, brillante, metálica y especial altamente pigmentada
+- Resultado de expresión, color único, duradero, intenso, brillante, metálico, mate, brillante
 - Decimos no a los ensayos con animales. cosnova está enumerado internacionalmente con essence y Catrice tanto en PETA Deutschland como en PETA.
-- Paleta profesional de sombras de ojos con 14 colores en tonos terrosos naturales
 - Embalaje llamativo con un aspecto especial y emocional
+- Paleta profesional de sombras de ojos con 14 colores en tonos terrosos naturales
+- Vegano, sin micropartículas de plástico, sin nanopartículas, sin perfume, sin alcohol, sin parabenos, sin acetona
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CPLZKYQM{{</world>}}

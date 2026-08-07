@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- INSPIRADO EN LA BELLEZA INTERIOR, LA ENERGÍA Y EL BRILLO DE JENNIFER LOPEZ SOBRE EL ESCENARIO: una versión mejorada de la fragancia original de Glow, Jennifer se involucró en todos los ámbitos de principio a fin
-- FRAGANCIA DE LUJO AUTÉNTICA DE JLO actriz, artista, icono de la moda, emprendedora, mujer y madre y una de las mujeres de mayor influencia de todo el mundo
 - INCREÍBLE BOTELLA METALIZADA DORADA: una mítica obra de arte metalizada en dorado y revestida con una porcelana blanca sofisticada en la base con una forma que inmortaliza la aclamada silueta corporal de JLo
 - FEMENINO, BELLO Y CONVENCIDO: afrutado y floral con notas de cabeza de bergamota, pera húmeda y lichi, un corazón de magnolia, peonía rosa y hojas de violeta y un fondo de almizcle puro, y la nota aromática favorita de Jennifer, la madera de sándalo
+- FRAGANCIA DE LUJO AUTÉNTICA DE JLO actriz, artista, icono de la moda, emprendedora, mujer y madre y una de las mujeres de mayor influencia de todo el mundo
+- INSPIRADO EN LA BELLEZA INTERIOR, LA ENERGÍA Y EL BRILLO DE JENNIFER LOPEZ SOBRE EL ESCENARIO: una versión mejorada de la fragancia original de Glow, Jennifer se involucró en todos los ámbitos de principio a fin
 - UN REGALO IDEAL PARA UNA SEGUIDORA DE JLO contemporánea e inspiradora, esta fragancia encarna la belleza, la incandescencia y la energía de Jennifer para cautivar al público con su presencia y brillo inconfundible
 
 [🛒 Aquí!!!]({{< param buyurl >}})

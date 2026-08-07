@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Higieniza los tejidos y elimina los malos olores de tu ropa gracias a sus activos higiénicos
 - Detergente para la lavadora concentrado en formato gel higiene
-- Apto para ropa blanca y de color
 - Limpieza en profundidad, elimina las manchas más difíciles
 - Descubre el resto de detergentes y complementos para el lavado de Colon
+- Apto para ropa blanca y de color
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07N1TJLJY{{</world>}}

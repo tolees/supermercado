@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- MÚLTIPLES BENEFICIOS: Este café es la opción perfecta para cargarse de la energía necesaria para enfrentar los retos del día a día. Además, sus notas ligeramente amaderadas y su cuerpo suave hacen de cada sorbo una experiencia única.
-- MODO DE PREPARACIÓN: Se trata de un proceso muy sencillo que únicamente requiere añadir una o dos cucharadas de nuestro café soluble a una taza de agua o leche y mezclar bien. Si se desea, se puede añadir edulcorante al gusto.
 - NATURAL Y ORGÁNICO: Nuestro café proviene de cultivos de pequeños productores de Sudamérica y África en cuyas plantaciones no se ha utilizado fertilizantes ni pesticidas. Es un producto 100% natural y apto para una dieta vegana y vegetariana.
-- SOBRE NOSOTROS: En Destination hemos recorrido el mundo para llevar la riqueza y naturalidad de cada bebida hasta tu taza. Elaborados con las mejores materias primas, nuestros cafés y tés llenarán tu paladar de sabores auténticos y originales.
+- MODO DE PREPARACIÓN: Se trata de un proceso muy sencillo que únicamente requiere añadir una o dos cucharadas de nuestro café soluble a una taza de agua o leche y mezclar bien. Si se desea, se puede añadir edulcorante al gusto.
 - CAFÉ SOLUBLE ARÁBICA: Este café es el aliado perfecto de los amantes del café que quieran disfrutar de él en cualquier momento. Gracias al proceso de liofilización y su tueste artesanal, mantiene todo el sabor y propiedades del café natural.
+- SOBRE NOSOTROS: En Destination hemos recorrido el mundo para llevar la riqueza y naturalidad de cada bebida hasta tu taza. Elaborados con las mejores materias primas, nuestros cafés y tés llenarán tu paladar de sabores auténticos y originales.
+- MÚLTIPLES BENEFICIOS: Este café es la opción perfecta para cargarse de la energía necesaria para enfrentar los retos del día a día. Además, sus notas ligeramente amaderadas y su cuerpo suave hacen de cada sorbo una experiencia única.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C2CH7ZG8{{</world>}}

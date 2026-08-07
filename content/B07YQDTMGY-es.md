@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Nutre el cabello
-- Fórmula con pigmentos violetas
 - Neutraliza el tono anaranjado y amarillento
-- Aplicar en pelo húmedo, dejar actuar 5 min y aclarar abundantemente; para pelo castaño: 10 min y aclarar; para el pelo gris: 1 min y aclarar
+- Fórmula con pigmentos violetas
 - Mascarilla Matizadora de pelo anti-efecto anaranjado para pelo con mechas, rubio, decolorado o gris
+- Aplicar en pelo húmedo, dejar actuar 5 min y aclarar abundantemente; para pelo castaño: 10 min y aclarar; para el pelo gris: 1 min y aclarar
+- Nutre el cabello
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07YQDTMGY{{</world>}}

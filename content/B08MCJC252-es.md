@@ -29,12 +29,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 🍓 Fresa para los más pequeños: sabor suave y agradable, ideal para cuidar la dentición de leche de manera natural.
+- 👨‍👩‍👧‍👦 Para toda la familia: disponibles en diferentes versiones adaptadas a cada necesidad — fresa para niños, jengibre homeocompatible y menta blanqueadora.
+- 💚 Vegano y sostenible: sin flúor, sin colorantes ni ingredientes de origen animal. Envasado respetuoso con el planeta.
+- 🌿 Cuidado natural y ecológico: formulados con ingredientes bio que protegen tus dientes y encías respetando el medio ambiente.
+- ✨ Sonrisa saludable y radiante: descubre el poder de la naturaleza para una higiene bucal completa, saludable y consciente.
 - ✨ Sonrisa saludable y radiante: descubre el poder de la naturaleza para una higiene bucal completa, saludable y consciente.
 - ❄️ Menta blanqueadora y refrescante: aporta una sensación de frescor duradero y ayuda a mantener los dientes más blancos.
-- 👨‍👩‍👧‍👦 Para toda la familia: disponibles en diferentes versiones adaptadas a cada necesidad — fresa para niños, jengibre homeocompatible y menta blanqueadora.
-- 🌿 Cuidado natural y ecológico: formulados con ingredientes bio que protegen tus dientes y encías respetando el medio ambiente.
-- 💚 Vegano y sostenible: sin flúor, sin colorantes ni ingredientes de origen animal. Envasado respetuoso con el planeta.
-- ✨ Sonrisa saludable y radiante: descubre el poder de la naturaleza para una higiene bucal completa, saludable y consciente.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08MCJC252{{</world>}}

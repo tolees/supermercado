@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ONDAS SUAVES: Vitaminas, minerales y ácidos grasos esenciales cuidan delicadamente el cabello y mejoran su manejabilidad.
 - CHAMPÚ: Nutre y define tus ondas y rizos, dejándolos elásticos, definidos y con un acabado duradero.
 - CUIDADO CAPILAR: Un champú que elimina impurezas y deja un cabello espectacular. El regalo perfecto para el cuidado del cabello.
-- ANTIENCRESPAMIENTO: Diseñado con nuestro Complejo Nourish-In para nutrir y revitalizar el cabello de forma ligera.
+- ONDAS SUAVES: Vitaminas, minerales y ácidos grasos esenciales cuidan delicadamente el cabello y mejoran su manejabilidad.
 - NUTRICIÓN: Fórmula sin sulfatos enriquecida con aceite de jojoba y pantenol hidratante para ayudar a equilibrar la hidratación.
+- ANTIENCRESPAMIENTO: Diseñado con nuestro Complejo Nourish-In para nutrir y revitalizar el cabello de forma ligera.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CN1SHSF5{{</world>}}

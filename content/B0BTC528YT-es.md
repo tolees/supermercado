@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Una base líquida 3 en 1 que también funciona como primer y corrector para ofrecer hasta 30h de acabado natural.
-- La nueva fórmula avanzada es resistente al agua, a la humedad y al clima.
-- Está disponible en una amplia gama de tonos, con subtonos que van de fríos a cálidos y neutros.
 - La fórmula vegana proporciona un acabado aerógrafo liso e impecable.
 - La fórmula SPF20 ayuda a proteger la piel de los dañinos rayos UVA y UVB del sol, junto a la luz azul.
+- La nueva fórmula avanzada es resistente al agua, a la humedad y al clima.
+- Está disponible en una amplia gama de tonos, con subtonos que van de fríos a cálidos y neutros.
+- Una base líquida 3 en 1 que también funciona como primer y corrector para ofrecer hasta 30h de acabado natural.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BTC528YT{{</world>}}

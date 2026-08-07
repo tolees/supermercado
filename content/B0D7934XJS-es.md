@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Listo para consumir
-- Sin gluten y sin conservantes.
-- Una vez abierto conservar en frigorífico.
 - Indispensable en la despensa y perfecto para ligar tus platos.
+- Una vez abierto conservar en frigorífico.
+- Listo para consumir
 - Sabor tradicional listo para usar para tus recetas del día a día; ideal para pasta, arroz, huevos y guisos, en frasco de cristal reciclable de 340 g fácil de conservar.
+- Sin gluten y sin conservantes.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D7934XJS{{</world>}}

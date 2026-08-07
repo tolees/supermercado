@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- SIN AZÚCARES, SIN GLUTEN Y SIN LACTOSA: Por dosis diaria (1 comprimido efervescente) contiene, entre otros: Vitamina C (1000 mg), Zinc (10 mg), Selenio (55 µg).
 - DOSIS Y MODO DE EMPLEO: Para adultos y adolescentes a partir de los 12 años. Tomar un comprimido efervescente al día, disuelto en 200 ml de agua, preferiblemente por la mañana junto con el desayuno. Un consumo excesivo de Leotron Vitamina C puede producir efectos laxantes. Contiene una fuente de fenilalanina.
 - CANSANCIO Y FATIGA: Contiene vitamina C que ayuda a disminuir el cansancio y la fatiga y mejora la absorción del hierro.
-- SIN AZÚCARES, SIN GLUTEN Y SIN LACTOSA: Por dosis diaria (1 comprimido efervescente) contiene, entre otros: Vitamina C (1000 mg), Zinc (10 mg), Selenio (55 µg).
 - SISTEMA INMUNITARIO: Contiene vitamina C, zinc y selenio que ayudan al funcionamiento normal del sistema inmunitario y a proteger a las células.
 - DEFENSAS: Complemento alimenticio con triple acción para tus defensas por su contenido en vitamina C, zinc y selenio. Perfecto para tomar en épocas de frío o cambios de estación.
 

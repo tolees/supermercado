@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Detalles del envío – Johnsons Baby Champú con aloe vera y vitamina B5, champú con fórmula No Llores Más, para piel delicada, con fragancia única, botella con un 50% de plástico reciclado
-- No Llores Más – Tan suave en los ojos como el agua pura, este champú para bebés evita lágrimas e irritaciones, facilitando el baño bebé y proporcionando una experiencia agradable
 - Champú Johnson Baby – Especialmente diseñado para ser suave con la piel delicada y el cabello de los recién nacidos, este champú sin sulfatos está formulado con aloe vera y vitamina B5
 - Testado por expertos – Clínicamente probado por pediatras y dermatólogos, este champú Johnson Baby garantiza una limpieza segura y un cuidado integral del cabello infantil
+- No Llores Más – Tan suave en los ojos como el agua pura, este champú para bebés evita lágrimas e irritaciones, facilitando el baño bebé y proporcionando una experiencia agradable
+- Detalles del envío – Johnsons Baby Champú con aloe vera y vitamina B5, champú con fórmula No Llores Más, para piel delicada, con fragancia única, botella con un 50% de plástico reciclado
 - Champú neutro – Desarrollado para limpiar la delicada piel y el cabello de los recién nacidos, este champú ha sido formulado con fragancias únicas y delicadas para tu bebé
 
 [🛒 Visítala!!!]({{< param buyurl >}})

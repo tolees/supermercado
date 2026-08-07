@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- SIN ACEITE DE PALMA: Formulada sin aceite de palma, esta crema utiliza aceites alternativos más saludables manteniendo su textura cremosa y sabor característico
 - ENVASE RECICLABLE: Presentada en un práctico tarro de vidrio de 180g con tapa reciclable, contribuyendo a la sostenibilidad ambiental y facilitando su reutilización en el hogar
-- INFORMACIÓN NUTRICIONAL: Cada ración de 15g aporta 84 kcal, con 5,0g de grasas, 8,9g de carbohidratos y 0,8g de proteínas, ideal para disfrutar con moderación
 - CREMA DE CACAO CON PISTACHO: Nocilla Pistacho es una deliciosa crema para untar de 180g que combina el sabor del cacao con trozos de pistacho, perfecta para desayunos y meriendas
+- SIN ACEITE DE PALMA: Formulada sin aceite de palma, esta crema utiliza aceites alternativos más saludables manteniendo su textura cremosa y sabor característico
 - SIN GLUTEN: Apta para personas con intolerancia al gluten o enfermedad celíaca, certificada con el sello oficial Sin Gluten para consumo seguro
+- INFORMACIÓN NUTRICIONAL: Cada ración de 15g aporta 84 kcal, con 5,0g de grasas, 8,9g de carbohidratos y 0,8g de proteínas, ideal para disfrutar con moderación
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0GSRG3XH4{{</world>}}

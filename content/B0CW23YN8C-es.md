@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ACCIÓN ANTI-SARRO: La pasta Anti-Sarro + Blanqueador tiene una fórmula única que ayuda a prevenir que el sarro se adhiera a tus dientes.
-- PROTECCIÓN CONTRA LA CARIES: Está clínicamente probado que nuestra pasta de dientes anticaries fortalece los dientes.
 - PARA TODA LA FAMILIA: Manten tus dientes y los de tu familia sanos, fuertes y brillantes cuando os cepilléis con la pasta de dientes Colgate Anti-Sarro + Blanqueador.
+- PROTECCIÓN CONTRA LA CARIES: Está clínicamente probado que nuestra pasta de dientes anticaries fortalece los dientes.
 - DIENTES BLANCOS DE FORMA NATURAL: También es una pasta de dientes blanqueadora con cristales limpiadores que ayuda a eliminar las manchas diarias que se forman en la superficie y a restaurar el blanco natural de los dientes.
+- ACCIÓN ANTI-SARRO: La pasta Anti-Sarro + Blanqueador tiene una fórmula única que ayuda a prevenir que el sarro se adhiera a tus dientes.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CW23YN8C{{</world>}}

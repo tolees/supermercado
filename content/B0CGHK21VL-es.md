@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Entrega: Kärcher Limpiadora de cristales a batería WV 6, cargador rápido, botella pulverizadora con rascador y paño de microfibra y 20 ml de detergente concentrado de Kärcher
 - Limpieza sin marcas ni gotas: la limpiadora de cristales Kärcher WV 6 es perfecta para limpiar la condensación de agua de cristales, baldosas y otras superficies lisas sin dejar marcas ni gotas
 - Innovadora tecnología de succión y labio: la boquilla de aspiración de 280 mm de ancho recoge fácilmente el agua y la suciedad disuelta en ella. El labio flexible permite limpiar en los bordes
+- Entrega: Kärcher Limpiadora de cristales a batería WV 6, cargador rápido, botella pulverizadora con rascador y paño de microfibra y 20 ml de detergente concentrado de Kärcher
 - Prácticos accesorios: la botella pulverizadora con rascador y paño de microfibra es el accesorio perfecto para limpiar previamente las superficies y hacer que la suciedad se desprenda de forma eficaz
 - Batería de larga duración: con una autonomía de hasta 100 min, se pueden limpiar hasta 300 m² de superficie sin interrupción. La pantalla LED indica el nivel de batería del dispositivo
 

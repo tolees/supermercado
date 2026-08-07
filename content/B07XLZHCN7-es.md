@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Poder para el pueblo: en honor a Sofi Tucker, pionera en la venta de productos de belleza en Sierra Leona en 1912, seguimos usando manteca de karité sin refinar, elaborada a mano por mujeres africanas
 - Ingredientes valiosos: el tratamiento hidratante para rizos aporta brillo al cabello gracias a la miel de manuka, el aceite de mafura, la manteca de karité de comercio justo y el extracto antioxidante de higo
+- Con una fórmula natural: los productos SheaMoisture son libres de sulfatos y siliconas, no se prueban en animales, se obtienen de forma ética y se elaboran de manera sostenible
 - Cabello más sano y fácil de peinar: aporta nutrientes e hidratación profunda al cabello, que se mantiene durante mucho tiempo, para un cabello fortalecido, suave y sin encrespamiento
 - Mascarilla capilar de acción profunda para cabello seco, dañado y encrespado: su rica fórmula con miel de manuka y extacto de higo restaura el cabello dañado y lo hace más resistente
-- Con una fórmula natural: los productos SheaMoisture son libres de sulfatos y siliconas, no se prueban en animales, se obtienen de forma ética y se elaboran de manera sostenible
-- Poder para el pueblo: en honor a Sofi Tucker, pionera en la venta de productos de belleza en Sierra Leona en 1912, seguimos usando manteca de karité sin refinar, elaborada a mano por mujeres africanas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07XLZHCN7{{</world>}}

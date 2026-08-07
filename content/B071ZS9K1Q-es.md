@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ALIMENTACIÓN, ENDULZANTES. Stevia procedente de Agricultura Ecológica
 - PROPIEDADES: La stevia de ECOSANA se obtiene a partir de cultivos 100% ecológicos, respetando por tanto el medioambiente y logrando que el producto conserve todas sus propiedades
 - BENEFICIOS: Destaca por su poder edulcorante sin aportar calorías
-- La stevia se ha popularizado a lo largo de los años por el refrescante dulzor de sus hojas, pero nos aporta numerosos beneficios, ya que tiene propiedades antibacterianas, efecto diurético, propiedades cicatrizantes y ayuda a facilitar la digestión. Además, ¡libre de calorías!
 - MODO DE USO: 10 gotas equivalen a una cucharada de azúcar. Edulcorante de mesa a base de Glucosidos de Steviol
+- ALIMENTACIÓN, ENDULZANTES. Stevia procedente de Agricultura Ecológica
+- La stevia se ha popularizado a lo largo de los años por el refrescante dulzor de sus hojas, pero nos aporta numerosos beneficios, ya que tiene propiedades antibacterianas, efecto diurético, propiedades cicatrizantes y ayuda a facilitar la digestión. Además, ¡libre de calorías!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B071ZS9K1Q{{</world>}}

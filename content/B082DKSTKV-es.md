@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Modo de empleo: aplicar el producto sobre plantas infestadas desde el principio de la infestación, tratar también la superficie inferior de las hojas, No requiere plazo de seguridad entre aplicación y cosecha
-- Simple y efectivo: Eliminación fiable y rápida de las plagas de jardín, balcón, terraza o invernadero, Aceite de colza como ingrediente activo, Ideal para agricultura ecológica
-- Insecticida y acaricida de contacto que funciona de forma eficaz contra una gran variedad de insectos como pulgones, cochinilla algodonosa/harinosa, trips, mosca blanca y ácaros en ornamentales, árboles frutales, arbustos y hortalizas
 - Tratamiento para uso no profesional al aire libre (periodo recomendado de marzo a octubre), en interior y en invernadero (apto todo el año), Utilice la dosis adecuada siguiendo las instrucciones en el envase
+- Simple y efectivo: Eliminación fiable y rápida de las plagas de jardín, balcón, terraza o invernadero, Aceite de colza como ingrediente activo, Ideal para agricultura ecológica
 - Contenido: 1x COMPO Bio Insecticida Concentrado para hortícolas y plantas aromáticas, Apto para agricultura ecológica, 250 ml
+- Insecticida y acaricida de contacto que funciona de forma eficaz contra una gran variedad de insectos como pulgones, cochinilla algodonosa/harinosa, trips, mosca blanca y ácaros en ornamentales, árboles frutales, arbustos y hortalizas
+- Modo de empleo: aplicar el producto sobre plantas infestadas desde el principio de la infestación, tratar también la superficie inferior de las hojas, No requiere plazo de seguridad entre aplicación y cosecha
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B082DKSTKV{{</world>}}

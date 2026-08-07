@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 💊 CÓMO TOMARLO: Tomar dos comprimidos al día repartidos en dos de las comidas principales. Sin Gluten
-- 🌿 MARCA DRASANVI: Compañía española especializada a nivel nacional e internacional en el desarrollo, distribución y comercialización de Suplementos Alimenticios, Nutrición Deportiva, Alimentación Bio y Cosmética Eco. Nuestra dedicación a la calidad está respaldada por las certificaciones ISO 9001 y 14001, garantizando que cumplimos con rigurosos estándares internacionales en gestión de calidad y medio ambiente. En Drasanvi, ofrecemos productos de la más alta calidad de manera sostenible
-- 📣 ¿QUÉ ES EL CALCIO?: Mineral esencial que se encarga de múltiples funciones en el cuerpo humano. Es el mineral más abundante en el organismo y se encuentra principalmente en los huesos y los dientes, pero también es crucial para la función muscular y la transmisión nerviosa.
 - 📣¿QUÉ ES LA VITAMINA D3? Variante de la vitamina D presente en ciertos alimentos y generada en la piel mediante la exposición a los rayos UVB del sol. Dado que se trata de una vitamina liposoluble, su disolución se produce en grasas y aceites, permitiendo su almacenamiento en el tejido adiposo del organismo. La carencia de esta vitamina D es frecuente por lo que se puede suplementar de manera exógena
+- 📣 ¿QUÉ ES EL CALCIO?: Mineral esencial que se encarga de múltiples funciones en el cuerpo humano. Es el mineral más abundante en el organismo y se encuentra principalmente en los huesos y los dientes, pero también es crucial para la función muscular y la transmisión nerviosa.
+- 💊 CÓMO TOMARLO: Tomar dos comprimidos al día repartidos en dos de las comidas principales. Sin Gluten
 - ❔ ¿POR QUÉ TOMAR CALCIO, VITAMINA D3 Y VITAMINA K2 JUNTOS?: Estos nutrientes trabajan en sinergia para mejorar la salud ósea. La vitamina D3 facilita la absorción de calcio, mientras que la vitamina K2 asegura su correcta distribución en los huesos, evitando la acumulación en arterias
 - 📣¿QUÉ ES LA VITAMINA K2?: Nutriente liposoluble clave para varias funciones corporales y la salud ósea. Regula el metabolismo del calcio, crucial para mantener huesos fuertes.
+- 🌿 MARCA DRASANVI: Compañía española especializada a nivel nacional e internacional en el desarrollo, distribución y comercialización de Suplementos Alimenticios, Nutrición Deportiva, Alimentación Bio y Cosmética Eco. Nuestra dedicación a la calidad está respaldada por las certificaciones ISO 9001 y 14001, garantizando que cumplimos con rigurosos estándares internacionales en gestión de calidad y medio ambiente. En Drasanvi, ofrecemos productos de la más alta calidad de manera sostenible
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DC7697GS{{</world>}}

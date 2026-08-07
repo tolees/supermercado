@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HARIBO Aventura Mix 1 x 1 00 Kg'
-date: 2026-07-27 17:58:29
+date: 2026-08-06 18:46:03
 image: 'https://m.media-amazon.com/images/I/513E7MeRYoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09MGS2R95/?tag=tolees-21'
 descuento: '33.01'
-average: '5.33923076923077'
+average: '5.35071428571429'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gran variedad de colores y sabores frutales
 - Descubre la aventura con este mix de divertidas formas
-- Conservar en lugar fresco y seco
 - Caramelos de goma de distintos sabores y colores
+- Conservar en lugar fresco y seco
+- Gran variedad de colores y sabores frutales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09MGS2R95{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Posee un alto porcentaje de proteínas, además de aminoácidos importantes para nuestro organismo.
-- Ingredientes: Concentrado de guisante* (100%). *Ingrediente procedente de la Agricultura Ecológica. Este producto se fabrica en una planta donde se manipulan frutos secos, soja y sésamo.
 - Es ideal para aquellas personas que no contemplan o no pueden ingerir carne, lácteos o gluten.
 - Su consumo es perfecto para veganos, vegetarianos o celíacos.
+- Ingredientes: Concentrado de guisante* (100%). *Ingrediente procedente de la Agricultura Ecológica. Este producto se fabrica en una planta donde se manipulan frutos secos, soja y sésamo.
 - La proteína de guisante bio NaturGreen es una alternativa totalmete vegetal de consumir proteínas.
+- Posee un alto porcentaje de proteínas, además de aminoácidos importantes para nuestro organismo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08CRS7SZJ{{</world>}}

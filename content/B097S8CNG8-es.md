@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- En una pausa de teletrabajo, acompáñala con un bocadillo o hamburguesa: perfecta para sumar frescor y completar el momento de picoteo
-- Pepsi Zero sin Cafeína (pack de 6 botellas) es una opción cómoda para cualquier hora. sin cafeína, sin cafeína, con el sabor cola y una propuesta pensada para el consumo en casa o para compartir. alineada con tendencias de bienestar, conveniencia y consumo consciente.
 - Opción para el día a día: una alternativa zero azúcar para planes tranquilos; sírvela bien fría para potenciar el frescor con el sabor original que distingue a Pepsi
+- En una pausa de teletrabajo, acompáñala con un bocadillo o hamburguesa: perfecta para sumar frescor y completar el momento de picoteo
 - Pepsi Zero mantiene el perfil cola de Pepsi en un formato sin azúcar ni calorías, ideal para disfrutar a diario con una opción más equilibrada.
+- Pepsi Zero sin Cafeína (pack de 6 botellas) es una opción cómoda para cualquier hora. sin cafeína, sin cafeína, con el sabor cola y una propuesta pensada para el consumo en casa o para compartir. alineada con tendencias de bienestar, conveniencia y consumo consciente.
 - Botellas 100 % reciclables dentro del compromiso de PepsiCo Positive (pep+). Producido en España en plantas que avanzan hacia las emisiones netas cero, como Etxabarri-Ibiña (Álava), primera planta de bebidas de PepsiCo a nivel mundial en alcanzar este hito, impulsando un modelo más sostenible y responsable.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

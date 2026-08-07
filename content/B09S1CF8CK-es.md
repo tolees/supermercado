@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - El producto es fabricado con ingredientes de calidad
+- Marca: Schwarzkopf
 - Producto para el cuidado del cabello
 - Apto para el uso diario
-- Marca: Schwarzkopf
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09S1CF8CK{{</world>}}

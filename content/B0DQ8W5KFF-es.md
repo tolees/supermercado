@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - PROTECCIÓN INMEDIATA CONTRA LA RADIACIÓN UVA Y UVB: Filtro UV a base de minerales con óxido de zinc, minimiza el riesgo de reacciones cutáneas no deseadas.
+- SIMPLEMENTE EXTENDER Y SALPICAR: Fórmula resistente al agua con aceites naturales para una fácil aplicación sin tiempo de remojo, no grasosa.
 - A BASE DE MINERALES: Con óxido de zinc, sin oxibenzona, octinoxato, octocrileno ni avobenzona.
 - PROTECCIÓN PARA BEBÉS Y NIÑOS: El protector solar mineral en spray FPS 50 a base de óxido de zinc protege a bebés, niños y personas alérgicas; especialmente adecuado para pieles sensibles.
 - SUAVE CON LA PIEL DELICADA Y UN AROMA SUAVE: Dermatológicamente probado, protege la delicada piel del cuerpo y la cara del bebé. También es apto para futuras mamás. Fragancia suave, libre de los 26 alérgenos más comunes.
-- SIMPLEMENTE EXTENDER Y SALPICAR: Fórmula resistente al agua con aceites naturales para una fácil aplicación sin tiempo de remojo, no grasosa.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQ8W5KFF{{</world>}}

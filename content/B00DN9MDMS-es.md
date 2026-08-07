@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- SOBRE NOSOTROS: Desde 1982, el Granero Integral apuesta por una alimentación saludable al alcance de todos. Somos empresa BCorp certificada y cumplimos con los estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
 - MÚLTIPLES BENEFICIOS: Contiene fibra, vitaminas y minerales que colaboran en el buen mantenimiento de nuestro tránsito intestinal, del organismo, aporta la energía necesaria para afrontar el día a día y regula los niveles de azúcar en sangre.
-- APTO PARA VEGANOS: Nuestro arroz bio es apto para el consumo de personas veganas, puesto que no incluye ingredientes de origen animal. Puede contener trazas de soja, sésamo y frutos de cáscara
-- INGREDIENTES NATURALES: Este alimento está elaborado únicamente de arroz blanco y puede contener trazas de gluten, sésamo, soja y frutos de cáscara. Es perfecto para crear recetas más nutritivas y acompañar diferentes platos.
 - MODO DE EMPLEO: Es recomendable dejarlo en remojo la noche anterior de su preparación. Una vez se vaya a cocinar, cocer con 2 medidas de agua por una de arroz durante 45 minutos. ¡Acompáñalo con tus ingredientes favoritos!
+- INGREDIENTES NATURALES: Este alimento está elaborado únicamente de arroz blanco y puede contener trazas de gluten, sésamo, soja y frutos de cáscara. Es perfecto para crear recetas más nutritivas y acompañar diferentes platos.
+- APTO PARA VEGANOS: Nuestro arroz bio es apto para el consumo de personas veganas, puesto que no incluye ingredientes de origen animal. Puede contener trazas de soja, sésamo y frutos de cáscara
+- SOBRE NOSOTROS: Desde 1982, el Granero Integral apuesta por una alimentación saludable al alcance de todos. Somos empresa BCorp certificada y cumplimos con los estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00DN9MDMS{{</world>}}

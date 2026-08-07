@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ORIGEN INESPERADO – Su origen gallego, que se refleja en su singular base vínica y la selección cuidada de sus botánicos autóctonos de la zona, le proporcionan su característico sabor. Toda la esencia del Atlántico para sublimar tus pequeños grandes momentos.
 - GINEBRA PREMIUM DE ORIGEN GALLEGO FORMATO 1 LITRO – Nordés Atlantic Galician Gin en su formato de 1 litro, elaborada con uva Albariño gallega y 11 botánicos naturales, 6 de ellos silvestres autóctonos de Galicia. Sabor fresco, frutal y balsámico. 40% vol.
+- ORIGEN INESPERADO – Su origen gallego, que se refleja en su singular base vínica y la selección cuidada de sus botánicos autóctonos de la zona, le proporcionan su característico sabor. Toda la esencia del Atlántico para sublimar tus pequeños grandes momentos.
 - MÁS CANTIDAD, MISMA CALIDAD – El formato de 1 litro es ideal para quienes ya conocen y disfrutan de Nordés en casa, para bares y restaurantes, o como regalo de lujo. La misma ginebra premium gallega que enamora en copa, ahora con más para compartir.
 - ELABORACIÓN CON MIMO – Antes de la fase de destilación, los 11 botánicos de Nordés se maceran por separado para conseguir los perfiles aromáticos que se buscan en cada uno. Un proceso realizado con cuidado y paciencia para conseguir una ginebra afrutada equilibrada y excepcional.
 - GIN TONIC PERFECTO – Sírvela en copa ancha con mucho hielo, 5 cl de Nordés, 20 cl de tónica neutra y una brocheta de uva blanca. Su perfil frutal y balsámico ofrece una experiencia de gin tonic diferente y memorable para los amantes de las ginebras especiales.

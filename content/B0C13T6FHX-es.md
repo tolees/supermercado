@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Deliciosas piezas en forma de mini cola
 - Irresistible sabor a cola
 - Caramelos de goma
+- Deliciosas piezas en forma de mini cola
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C13T6FHX{{</world>}}

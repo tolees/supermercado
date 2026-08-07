@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ayuda a prevenir la sequedad
 - Da un poco de brillo extra a los labios
 - Libre de fragancias y sin parabeno
+- Ayuda a prevenir la sequedad
 - Bálsamo labial de Aquaphor para labios agrietados
 - 1 x Eucerin Acuáforo Nariz y Labio Bálsamo - 7g
 

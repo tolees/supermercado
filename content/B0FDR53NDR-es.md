@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Delineador de Ojos Bourjois Liner Feutre Slim Waterproof para una aplicación precisa en una sola pasada.
 - Con aplicador de punta de fieltro ultrafina.
+- Fórmula de tinta resistente al agua y altamente pigmentada.
 - Acabado mate ultraintenso y de secado rápido
 - Mantén tu look impecable todo el día con hasta 24 horas de duración.
-- Delineador de Ojos Bourjois Liner Feutre Slim Waterproof para una aplicación precisa en una sola pasada.
-- Fórmula de tinta resistente al agua y altamente pigmentada.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FDR53NDR{{</world>}}

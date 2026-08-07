@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- UNA RECETA DIFERENTE: en busca constante de un anís original, usamos semillas de anís verde. Una semilla de alto valor culinario y una milenaria tradición medicinal.
+- DULCE: En nariz el dulce aroma del anís verde llega limpio e intenso, con sensaciones balsámicas que aportan frescor y cubren toda sensación alcohólica. Con el trago apreciamos una gran intensidad de aromas anisados. El final es persistente en boca y genera sensaciones frescas en el paladar al respirar.
 - COMO SERVIR: Se recomienda tomarlo muy frío después de las comidas, en copa con hielo o en chupito
 - MARIDAJE: Se recomienda tomarlo muy frío después de las comidas, en copa con hielo o en chupito
-- DULCE: En nariz el dulce aroma del anís verde llega limpio e intenso, con sensaciones balsámicas que aportan frescor y cubren toda sensación alcohólica. Con el trago apreciamos una gran intensidad de aromas anisados. El final es persistente en boca y genera sensaciones frescas en el paladar al respirar.
-- UNA RECETA DIFERENTE: en busca constante de un anís original, usamos semillas de anís verde. Una semilla de alto valor culinario y una milenaria tradición medicinal.
 - DULCE Y CRISTALINO: Al servirlo en copa destaca la cremosidad y su aspecto transparente, brillante.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

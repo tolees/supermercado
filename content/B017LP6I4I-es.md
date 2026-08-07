@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Efecto de purpurina pastel de caramelo
-- Pegamento decorativo brillante para manualidades, regalos, tarjetas, fotos
 - Aplicación sin goteo
-- Boquilla fina para una aplicación precisa
 - Verde, azul, morado, rosa, rojo, amarillo
+- Boquilla fina para una aplicación precisa
+- Pegamento decorativo brillante para manualidades, regalos, tarjetas, fotos
+- Efecto de purpurina pastel de caramelo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B017LP6I4I{{</world>}}

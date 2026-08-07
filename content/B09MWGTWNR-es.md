@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🌱 EL PODER DEL MATE - La Yerba Mate es una planta originaria de Sudamérica con propiedades sorprendentes. Aporta energía al organismo de forma natural, además de tener otros beneficios para la salud. De hecho, contiene más antioxidantes que el té verde y es naturalmente rica en cafeína. También contiene vitaminas, minerales y aminoácidos, que te ayudarán a sentirte más concentrado y productivo.
 - 🌎 BENEFICENCIA - Cada lata de Virtud que se vende contribuye a la preservación de las plantas, animales y comunidades de la selva amazónica.
 - 💯 SIN AZÚCAR, CERO CALORÍAS, 100% ENERGÍA NATURAL - Virtue Clean Energy es una bebida energética saludable, sin azúcar agregada y sin calorías, hecha solo con ingredientes naturales. Una alternativa deliciosa, pero sobre todo saludable a las bebidas energéticas tradicionales, para darte la energía que necesitas sin efectos secundarios negativos como el insomnio o la excitabilidad.
-- ✅ NO ARTIFICIAL - Producimos una bebida completamente natural, sin azúcares añadidos. Apto para diabéticos, para aquellos que siguen una dieta vegana o cetogénica, es sin gluten, sin soja y sin lácteos.
+- 🌱 EL PODER DEL MATE - La Yerba Mate es una planta originaria de Sudamérica con propiedades sorprendentes. Aporta energía al organismo de forma natural, además de tener otros beneficios para la salud. De hecho, contiene más antioxidantes que el té verde y es naturalmente rica en cafeína. También contiene vitaminas, minerales y aminoácidos, que te ayudarán a sentirte más concentrado y productivo.
 - ☕ UNA LATA = UNA TAZA DE CAFÉ - Cada lata de Virtue contiene exactamente la misma cantidad de cafeína contenida en una de las bebidas energéticas tradicionales o una taza de café normal (80 mg). Una bebida energética totalmente natural para ayudarte a alcanzar tus objetivos.
+- ✅ NO ARTIFICIAL - Producimos una bebida completamente natural, sin azúcares añadidos. Apto para diabéticos, para aquellos que siguen una dieta vegana o cetogénica, es sin gluten, sin soja y sin lácteos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09MWGTWNR{{</world>}}

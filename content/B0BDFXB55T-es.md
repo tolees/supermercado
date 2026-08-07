@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Nuevo packaging con el tapón hecho con un 98% de plástico reciclado y mínimo un 25% de vidrio reciclado.
 - Protección contra el sudor de hasta 72 horas.
-- Desodorante antitranspirante refrescante, duradero y perfumado.
-- 0% alcohol.
 - Fórmula mejorada, ahora más clean y vegana.
+- 0% alcohol.
+- Desodorante antitranspirante refrescante, duradero y perfumado.
 - Dermatológicamente testado.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

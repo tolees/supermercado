@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Su ingrediente activo trabaja en el interior del diente construyendo una suave protección alrededor del nervio
-- Enjuague bucal Sensodyne Cool Mint está especialmente diseñado para la protección diaria de los dientes sensibles
 - Ayuda a remineralizar el esmalte con Sensodyne enjuague bucal. Ayuda a prevenir las caries
+- Enjuague bucal Sensodyne Cool Mint está especialmente diseñado para la protección diaria de los dientes sensibles
 - Cepíllese dos veces al día para una protección duradera con Sensodyne. Para uso diario
 - Ayuda a mantener una adecuada higiene bucal con el enjuague bucal de Sensodyne Bucal Cool Mint
 

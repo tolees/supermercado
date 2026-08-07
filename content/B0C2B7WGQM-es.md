@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Oculta rojeces e imperfecciones para proporcionar una cobertura suave y uniforme.
 - Se adapta perfectamente a los tonos de piel claros a medios, para un acabado impecable y natural
 - Hasta 16 horas de larga duración
-- Con su efecto hidratante y cuidador, mantiene los poros limpios y garantiza un aspecto fresco y radiante
 - Con SPF 15
+- Con su efecto hidratante y cuidador, mantiene los poros limpios y garantiza un aspecto fresco y radiante
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C2B7WGQM{{</world>}}
