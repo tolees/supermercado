@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Mahou 0 0 Rubia Cerveza Lager Dorada Sin Alcohol Pack 24 Latas x 33cl'
+date: 2026-08-14 08:55:39
+image: 'https://m.media-amazon.com/images/I/41Pi8D-szJL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0GX6DKQPX-es Mahou 0 0 Rubia Cerveza Lager Dorada Sin Alcohol Pack 24...'
+sku: 'B0GX6DKQPX-es'
+tags: [ 'cerveza','mahou','🇪🇸', ]
+actualPrice: 14.4 EUR
+currency: EUR
+price: 14.4
+comparePrice: 19.92 EUR
+prodname: 'Mahou 0 0 Rubia Cerveza Lager Dorada Sin Alcohol Pack 24 Latas x 33cl'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0GX6DKQPX/?tag=tolees-21'
+descuento: '27.71'
+average: '15.3'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Aroma floral y herbal, notas de cereal, matices de lúpulo y delicados toques afrutados
+- Para un mayor disfrute consumir entre 4º y 6º C
+- Elaborado con malta pilsen, lúpulos selectos y levadura de baja fermentación
+- Cerveza Lager con 0% alcohol, color dorado brillante y muy refrescante
+- Cuerpo ligero y equilibrado, textura suave en boca con un amargor moderado y un punto dulce final
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B0GX6DKQPX{{</world>}}

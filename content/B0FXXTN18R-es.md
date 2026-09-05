@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Schweppes Naranja Refresco Bebida Refrescante - Lata Pack 24 x 33 cl'
+date: 2026-08-03 17:21:43
+image: 'https://m.media-amazon.com/images/I/51DBNKCBiAL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0FXXTN18R-es Schweppes Naranja Refresco Bebida Refrescante - Lata Pack...'
+sku: 'B0FXXTN18R-es'
+tags: [ 'schweppes','🇪🇸', ]
+actualPrice: 12.0 EUR
+currency: EUR
+price: 12.0
+comparePrice: 12.0 EUR
+prodname: 'Schweppes Naranja Refresco Bebida Refrescante - Lata Pack 24 x 33 cl'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0FXXTN18R/?tag=tolees-21'
+descuento: '0.00'
+average: '14.28'
+---
+
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Refresco cítrico con un sabor intenso a naranja y muy refrescante
+- Bebida refrescante bajo en calorías
+- Dulce, cítrica y refrescante, buen sabor a naranja y un toque seco. Agradable acidez.
+- Ideal para consumirla sola o mezclada con ginebra con mucho hielo y una rodaja de naranja. Perfecta para cualquier momento del día. En tu aperitivo en el bar, con los amigos después del trabajo y con tu copa los fines de semana
+- El refresco de naranja Schweppes contiene 100% de aromas naturales
+
+[🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B0FXXTN18R{{</world>}}
