@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- SPF 20
 - Con tecnología smart tone para obtener un acabado luminoso y natural
-- Complejo Hidratante 24HR
-- Iguala el cutis mientras imita el tono y la textura de la piel
 - Reduce el aspecto de las imperfecciones y de los poros
+- Complejo Hidratante 24HR
+- SPF 20
+- Iguala el cutis mientras imita el tono y la textura de la piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B015CMHBI4{{</world>}}

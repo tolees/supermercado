@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- En Garnier ayudamos a la conservación del medio ambiente apostando por un envase 100% reciclable
 - Champú purificante con extractos naturales, que absorbe impurezas y limpia en profundidad los cabellos más grasos para un resultado ideal
-- Consigue, gracias a sus activos libres de silicona, que el pelo graso se vea mucho más limpio y fresco, di adiós a las impurezas
 - Comprometidos desde 1989 en no realizar test en animales, está dermatológicamente testado
+- En Garnier ayudamos a la conservación del medio ambiente apostando por un envase 100% reciclable
 - Formulado con Arcilla suave y Limón, consiguen con su poder absorbente, purificante y refrescante un cabello mucho más ligero, brillante y libre de grasa
+- Consigue, gracias a sus activos libres de silicona, que el pelo graso se vea mucho más limpio y fresco, di adiós a las impurezas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07BYQVY9F{{</world>}}

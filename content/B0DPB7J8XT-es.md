@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Nos oponemos a los experimentos con animales; cosnova aparece internacionalmente con essence y CATRICE tanto en PETA Alemania como en PETA
-- De larga duración; expresión del resultado; de gran pigmentación; reluciente; escarchado; metalizado
-- Sombra de ojos en crema de larga duración y que no se mueve para que dure todo el día
 - Textura similar a una mousse que permite una aplicación suave y que se difumina óptimamente
+- Sombra de ojos en crema de larga duración y que no se mueve para que dure todo el día
+- De larga duración; expresión del resultado; de gran pigmentación; reluciente; escarchado; metalizado
 - Se puede aplicar con los dedos o con una brocha
 
 [🛒 Aquí!!!]({{< param buyurl >}})

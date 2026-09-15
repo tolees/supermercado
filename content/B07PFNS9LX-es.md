@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Con filtro UV para aportar volumen máximo al cabello
-- Se usa una dosis del tamaño de una mandarina
 - Se agita bien el envase y se sostiene al revés
+- Se usa una dosis del tamaño de una mandarina
 - Se distribuye uniformemente por el cabello lavado y húmedo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

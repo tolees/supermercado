@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con un color dorado brillante, la 18/70 es una cerveza rubia con un punto oscuro y un aroma frutal propio de su levadura y la malta oscura que la caracteriza.
-- Prueba la cerveza rubia con más cuerpo y sabor que nació de una producción limitada, y llegó para quedarse. 18/70, cerveza La Rubia que no te dejará indiferente.
-- Elaborada con malta tostada, esta cerveza tipo lager te aportará el punto justo de suave amargor gracias a la mezcla de los lúpulos Nugget y Perlé.
-- Consumirla entre 0° y 3°C para obtener sus máximas cualidades.
 - Con un 6,2% de alcohol en volumen, esta cerveza rubia es ideal para aquellos que buscan disfrutar de una cerveza con gran cuerpo.
 - Disfrútala en un cómodo pack de cerveza en botellas de 12 x 33 cl.
 - Elaborada con ingredientes naturales: agua, malta de cebada, lúpulo y extracto de lúpulo.
+- Prueba la cerveza rubia con más cuerpo y sabor que nació de una producción limitada, y llegó para quedarse. 18/70, cerveza La Rubia que no te dejará indiferente.
+- Consumirla entre 0° y 3°C para obtener sus máximas cualidades.
+- Con un color dorado brillante, la 18/70 es una cerveza rubia con un punto oscuro y un aroma frutal propio de su levadura y la malta oscura que la caracteriza.
+- Elaborada con malta tostada, esta cerveza tipo lager te aportará el punto justo de suave amargor gracias a la mezcla de los lúpulos Nugget y Perlé.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0992TPG3X{{</world>}}

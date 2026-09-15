@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Variedad de texturas y acabados
 - 13 tonos altamente pigmentados con patrones de prensado elegantes, que incluyen 2 delineadores en crema
-- Nos oponemos a los experimentos con animales; cosnova aparece internacionalmente con essence y CATRICE tanto en PETA Alemania como en PETA
 - De gran pigmentación; intensivo; reluciente; color intenso; escarchado; mate
+- Nos oponemos a los experimentos con animales; cosnova aparece internacionalmente con essence y CATRICE tanto en PETA Alemania como en PETA
 - Mezcla y combina estilos únicos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal para preparar cócteles
-- De color ámbar oscuro brillante
 - Envejecido con el método tradicional solera
-- Tostado con notas de vainilla y tabaco
 - En boca es rico y equilibrado
+- Ideal para preparar cócteles
+- Tostado con notas de vainilla y tabaco
+- De color ámbar oscuro brillante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0911RMQTC{{</world>}}

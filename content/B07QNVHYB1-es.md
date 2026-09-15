@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- TEXTURA LIGERA – Gracias a su fórmula ligera, este protector solar 50 antialergias se absorbe rápidamente sin dejar una sensación grasa en la piel.
 - RESISTENTE AL AGUA – Para poder disfrutar de un agradable baño sin preocupaciones, esta leche con protección solar 50 es resistente al agua.
+- CONTENIDO DEL ENVÍO – NIVEA SUN Sensitive Protección Inmediata Antialergias Solares Leche Solar FP 50+, leche solar para piel sensible con protección UVA/UVB, 1 x 200 ml, botella.
 - PROTECCIÓN ANTIALERGIAS – Gracias al FP50+ y a la protección contra los rayos UVA/UVB, esta crema de sol previene la aparición de alergias e irritaciones.
 - CUIDADO DE LA PIEL SENSIBLE – Este protector solar sin perfume contiene aloe vera, pantenol y licocalcón A para cuidar y proteger la piel sensible.
-- CONTENIDO DEL ENVÍO – NIVEA SUN Sensitive Protección Inmediata Antialergias Solares Leche Solar FP 50+, leche solar para piel sensible con protección UVA/UVB, 1 x 200 ml, botella.
+- TEXTURA LIGERA – Gracias a su fórmula ligera, este protector solar 50 antialergias se absorbe rápidamente sin dejar una sensación grasa en la piel.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07QNVHYB1{{</world>}}

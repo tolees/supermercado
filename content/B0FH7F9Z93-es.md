@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- No comedogénico. Testado dermatológicamente.
-- Esta fórmula suave, líquida y ligera se absorbe rápidamente, dejando un acabado no pegajoso ni graso.
-- Proporciona 24 h de hidratación.
-- El nuevo líquido exfoliante está enriquecido con un 7% de [Niacinamida + Escualano + AHA + Ácido Salicílico].
 - Reduce las marcas visibles del acné, la textura irregular y la visibilidad de los poros.
+- Proporciona 24 h de hidratación.
+- Esta fórmula suave, líquida y ligera se absorbe rápidamente, dejando un acabado no pegajoso ni graso.
+- El nuevo líquido exfoliante está enriquecido con un 7% de [Niacinamida + Escualano + AHA + Ácido Salicílico].
+- No comedogénico. Testado dermatológicamente.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FH7F9Z93{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Refrescante
+- Formato lata 330ml
+- Con té frío
 - Sabor melocotón
 - Sin azúcar añadido
-- Con té frío
-- Formato lata 330ml
+- Refrescante
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0H34GDSTS{{</world>}}

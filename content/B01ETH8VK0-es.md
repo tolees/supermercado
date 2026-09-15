@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Algas Wakame secas 100% orgánicas: de España, están certificadas como orgánicas, provienen de mares vírgenes y se secan naturalmente al sol después de procesarlas a bajas temperaturas.
 - USO EN LA COCINA – después de haberlo remojado en agua durante 10 minutos, su volumen aumenta 7 veces; use alga wakame de CiboCrudo para preparar dashi, sopa de miso, en ensaladas o con arroz como se hace en Japón
-- SERVICIO SUPERIOR SATISFECHO O REEMBOLSADO: en CiboCrudo ponemos a nuestro cliente primero, no dude en contactarnos para cualquier problema, estaremos encantados de atenderlo a corto plazo.
 - CiboCrudo es el líder italiano en la producción de alimentos naturales procesados ​​orgánicos, integrales, veganos, naturalmente sin gluten a bajas temperaturas y utiliza solo envases reciclables.
+- SERVICIO SUPERIOR SATISFECHO O REEMBOLSADO: en CiboCrudo ponemos a nuestro cliente primero, no dude en contactarnos para cualquier problema, estaremos encantados de atenderlo a corto plazo.
 - BENEFICIOS: ricas en yodo, fucoxantina, omega-3 y omega-6, las algas wakame tienen un agradable sabor dulce y fortalecen su cuerpo con su generoso complejo de ingredientes activos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

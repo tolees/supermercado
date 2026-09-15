@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 99% de ingredientes de origen natural
 - Sin perfume, fórmula vegana
-- Apto para pieles sensibles
 - Hidrata durante 24 horas y refuerza la protección natural de la piel
+- 99% de ingredientes de origen natural
+- Apto para pieles sensibles
 - Con aloe vera orgánico y manteca de karité
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

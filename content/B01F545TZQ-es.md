@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- FORMATO: 100 Cápsulas de Café
 - MEZCLA DE CAFÉ AZUL: De una cuidadosa selección de blends, surge un café especial con un perfecto equilibrio entre cuerpo, persistencia y dulzura; La Mezca de Café Azul se caracteriza por su sabor noble, carácter vigoroso y aroma intenso
 - FRAGANCIA Y AROMA: Una Mezcla refinada y persistente, que se presenta con: Cuerpo: 8.5 - Intensidad: 8.5 - Persistencia: 9 - Dulzor: 9 - Acidez: 5
 - Cápsulas Compatibles con Lavazza* A Modo Mio* para uso con los siguientes modelos de máquinas de café: Espressgo, Espria, Extra, Fantasia, Favola Electrolux, Idola, Jolie, Magia, Minù, Minù Caffè Latte, Simpla, Tiny
+- FORMATO: 100 Cápsulas de Café
 - Lavazza, *A Modo Mio, *Lavazza A Modo Mio son marcas comerciales propiedad de Luigi Lavazza SPA; Caffè Borbone SRL es un fabricante independiente no relacionado con Luigi Lavazza SPA; La compatibilidad de las cápsulas de Caffè Borbone es funcional con máquinas de café *Lavazza *A Modo Mio para uso doméstico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

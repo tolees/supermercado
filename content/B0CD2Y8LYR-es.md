@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - COLECCIÓNALOS TODOS: Hay catorce Snackles para coleccionar, ¡empieza a construir tu propia familia Snackle!
-- TIRA DE CÓMIC: ¡Descubre cómo tu Snackle se enamoró de su tentempié favorito a través de una bonita tira de cómic!
-- CONSÍGUELOS TODOS: ¡Busca por todas partes tu Snackle favorito!
-- PELUCHE SUPERSUAVE: Los Snackles tamaño grande miden 36 cm y están confeccionados con el peluche más suave y brillante, perfecto para achucharlos.
 - APERITIVO: Cada Snackle viene con su tentempié con licencia favorito. ¿Cuál es tu favorito?
+- TIRA DE CÓMIC: ¡Descubre cómo tu Snackle se enamoró de su tentempié favorito a través de una bonita tira de cómic!
+- PELUCHE SUPERSUAVE: Los Snackles tamaño grande miden 36 cm y están confeccionados con el peluche más suave y brillante, perfecto para achucharlos.
+- CONSÍGUELOS TODOS: ¡Busca por todas partes tu Snackle favorito!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CD2Y8LYR{{</world>}}

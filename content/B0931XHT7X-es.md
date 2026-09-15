@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oxford Carpeta 40 fundas A4 Tapa de Plástico Opaco Color Rosa Chicle'
-date: 2026-09-11 06:20:56
+date: 2026-09-13 09:42:47
 image: 'https://m.media-amazon.com/images/I/21MGXj3huxS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0931XHT7X/?tag=tolees-21'
 descuento: '14.76'
-average: '9.39'
+average: '9.44714285714285'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

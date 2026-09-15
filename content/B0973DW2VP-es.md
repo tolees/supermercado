@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HARIBO FUNKY MIX 1 x 1 Kg'
-date: 2026-09-10 15:32:12
+date: 2026-09-13 19:49:18
 image: 'https://m.media-amazon.com/images/I/51O5z6Z0VsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0973DW2VP/?tag=tolees-21'
 descuento: '6.80'
-average: '7.12885714285713'
+average: '7.12499999999999'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

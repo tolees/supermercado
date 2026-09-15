@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forma parte de la colección oficial TUBBZ con personajes de películas, videojuegos, música, anime y series – todos en formato pato.
 - Una figura única para coleccionistas o como regalo original para fans y entusiastas del Jeep Ducking.
-- Esta figura de Maximus es parte de la colección TUBBZ, que convierte a personajes famosos en divertidos patos cosplay para los fans de Fallout TV y el coleccionismo geek.
+- Forma parte de la colección oficial TUBBZ con personajes de películas, videojuegos, música, anime y series – todos en formato pato.
 - Aproximadamente 9 cm de alto (3,54 pulgadas) sin caja – ideal para estanterías, escritorios o el coche.
+- Esta figura de Maximus es parte de la colección TUBBZ, que convierte a personajes famosos en divertidos patos cosplay para los fans de Fallout TV y el coleccionismo geek.
 - Viene en una caja de cartón ecológica con ventana y el logo de Fallout TV– perfecta para quienes prefieren exhibir sus figuras dentro del embalaje original.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

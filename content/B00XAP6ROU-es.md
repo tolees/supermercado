@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Proteger de la luz solar
-- Con 35% recubrimiento al cacao
 - Mantener en lugar fresco y seco
+- Con 35% recubrimiento al cacao
 - Deliciosas y esponjosas
 - Irresistible sabor a nata y chocolate
 

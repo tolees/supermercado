@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Chivas Regal 18 tiene una imagen audaz y renovada. Más elegante y con más presencia, nuestra nueva botella presenta detalles tallados que simulan una joya
-- En nariz es rico, notas de fruta seca, caramelo, chocolate negro
-- Color oro intenso
-- Acabado de larga duración, afrutado
 - Sabor aterciopelado, floral, chocolate negro, toques de humo dulce y suave
+- Acabado de larga duración, afrutado
+- Color oro intenso
+- En nariz es rico, notas de fruta seca, caramelo, chocolate negro
+- Chivas Regal 18 tiene una imagen audaz y renovada. Más elegante y con más presencia, nuestra nueva botella presenta detalles tallados que simulan una joya
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B001P4SF0C{{</world>}}

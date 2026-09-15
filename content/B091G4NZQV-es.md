@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ingredientes: ALMENDRA palitada, NUEZ en grano, pasa sultana y AVELLANA.
 - Alérgenos: Puede contener trazas de cacahuetes, otros frutos de cáscara, soja leche y derivados. Excepcionalmente puede contener restos de cascara.
 - Conservar en lugar limpio, fresco y seco.
+- Ingredientes: ALMENDRA palitada, NUEZ en grano, pasa sultana y AVELLANA.
 - Varios orígenes: USA, Turquía, España
 
 [🛒 Comprar!!!]({{< param buyurl >}})

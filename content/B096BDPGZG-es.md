@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cereales de desayuno con avena, rico en fibra, vitaminas y minerales
-- Cereales integrales de desayuno, sin colorantes ni aromas artificiales
 - Cereales Nestle Cheerios Avena, con 90% de avena integral
+- Cereales de desayuno con avena, rico en fibra, vitaminas y minerales
 - Cereales Cheerios Nestlé, con Nutriscore A
+- Cereales integrales de desayuno, sin colorantes ni aromas artificiales
 - Sabor delicioso, genial para toda la familia, con leche caliente o fría
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

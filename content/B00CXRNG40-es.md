@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Crema para aplicar en la piel
 - cuidado médico de la piel de alta calidad
-- Dermocosméticos de la Farmacia (PZN: 02398107)
+- Crema para aplicar en la piel
 - para la piel sensible
 - Fabricante: Beiersdorf AG Eucerin, Deutschland
+- Dermocosméticos de la Farmacia (PZN: 02398107)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00CXRNG40{{</world>}}

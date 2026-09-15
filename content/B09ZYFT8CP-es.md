@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Caramelos y golosinas más saludables. ¡Que nada te quite la oportunidad de divertirte!
 - Bolsa con 145gr de golosinas en forma de lengua.
-- Ideal para cualquier ocasión y evento: en clase, en el parque, en la oficina, en casa, en fiestas y entre horas. Para compartir, regalar y disfrutar solo o en compañía
 - Chupa Chups es el caramelo favorito de todas las generaciones. Y siempre con los ingredientes de la mejor calidad. ¡Simplemente imprescindibles!
+- Caramelos y golosinas más saludables. ¡Que nada te quite la oportunidad de divertirte!
+- Ideal para cualquier ocasión y evento: en clase, en el parque, en la oficina, en casa, en fiestas y entre horas. Para compartir, regalar y disfrutar solo o en compañía
 - Lenguas sabor fresa ácida
 
 [🛒 Aquí!!!]({{< param buyurl >}})

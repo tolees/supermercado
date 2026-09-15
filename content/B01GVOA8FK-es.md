@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Conservar en un lugar fresco y seco
-- Sin gluten
 - Tienen un sabor dulce
-- Ideales como postre
+- Conservar en un lugar fresco y seco
 - Nubes recubiertas de chocolate negro
+- Sin gluten
+- Ideales como postre
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01GVOA8FK{{</world>}}

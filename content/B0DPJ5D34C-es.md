@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con crujiente arroz inflado y un sabor irresistible
 - Elaboradas en España por Galletas Gullón
 - Bañadas en delicioso chocolate blanco
+- Con crujiente arroz inflado y un sabor irresistible
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DPJ5D34C{{</world>}}

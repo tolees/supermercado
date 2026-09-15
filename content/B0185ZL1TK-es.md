@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Rollo compacto triple
 - 420 servicios por rollo
 - Paquete de 6 rollos súper triples
-- Papel de dos capas
 - Suave y absorbente
+- Rollo compacto triple
+- Papel de dos capas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0185ZL1TK{{</world>}}

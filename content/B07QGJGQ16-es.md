@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Spray de fijación y brillo de aspecto natural para aplicaciones localizadas de elevada precisión. Su filtro UV protege el cabello de los rayos de sol.
 - Cabello visiblemente más brillante con máxima fijación y un acabado ligero.
+- Spray de fijación y brillo de aspecto natural para aplicaciones localizadas de elevada precisión. Su filtro UV protege el cabello de los rayos de sol.
 - Aplicar sobre el cabello seco o ligeramente húmedo. Pulverizar a una distancia de 15 cm del cabello.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Champú Silver neutralizador y perfeccionador del color para cabello blanco y/o gris. Neutraliza los tonos amarillentos no deseados gracias a su Gloss Protect System y a sus micro pigmentos violetas. Enriquecido con aminoácidos y agentes catiónicos aporta suavidad y brillo al cabello.
-- Aplicar en cabello húmedo, repartiendo de forma uniforme. Emulsionar y aclarar.
 - Para un cabello gris neutralizado y brillante. Neutraliza los tonos amarillentos indeseados.
+- Aplicar en cabello húmedo, repartiendo de forma uniforme. Emulsionar y aclarar.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0918DMMPM{{</world>}}

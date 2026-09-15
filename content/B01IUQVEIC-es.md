@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cada porción contiene 109 calorías
-- Multipack de 10 Kit Kat
-- 4 barritas de crujiente galleta recubiertas de suave chocolate con leche
 - Sin colorantes, aromas y conservantes artificiales
+- 4 barritas de crujiente galleta recubiertas de suave chocolate con leche
+- Multipack de 10 Kit Kat
 - Ideal para tomarte un respiro en cualquier momento
+- Cada porción contiene 109 calorías
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01IUQVEIC{{</world>}}

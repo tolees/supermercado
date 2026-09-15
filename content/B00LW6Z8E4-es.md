@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con pH equilibrado con la piel
-- Con tecnología de hidratación Hydra IQ
 - Ofrece una sensación suave del piel
+- Con tecnología de hidratación Hydra IQ
+- Con pH equilibrado con la piel
 - Es dermatológicamente aprobado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

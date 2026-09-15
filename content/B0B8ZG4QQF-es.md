@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Vegano, sin alcohol, parabenos, partículas microplásticas, sin nanopartículas, sin gluten, sin acetona
 - Decimos no a las pruebas en animales. Cosnova está listado internacionalmente con essence y CATRICE en PETA Alemania, así como PETA.
-- Fácil de aplicar gracias a la punta biselada del aplicador
-- Un color, brillante, brillante, radiantemente fresco
 - Textura no adhesiva
+- Un color, brillante, brillante, radiantemente fresco
+- Fácil de aplicar gracias a la punta biselada del aplicador
 - Acabado ultrabrillante, brillante y fragancia afrutada
+- Vegano, sin alcohol, parabenos, partículas microplásticas, sin nanopartículas, sin gluten, sin acetona
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B8ZG4QQF{{</world>}}

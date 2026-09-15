@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Enjuague bucal cuidado personal unisex adulto
 - Enjuague bucal gingi
-- 0
 - Gingi kin plus colutorio 500ml (8470001949448)
+- 0
+- Enjuague bucal cuidado personal unisex adulto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00BE2KCPG{{</world>}}

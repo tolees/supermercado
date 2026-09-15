@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un snack para fiestas y cumpleaños
 - Elaborados con ajo y perejil
+- Un snack para fiestas y cumpleaños
 - Sin aceite de palma y sin conservantes ni colorantes artificiales
 - Snacks horneados con ingredientes naturales
 - Fuente de fibra

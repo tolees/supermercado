@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fuente de fibra
 - Sin aceite de palma
 - Sin conservantes ni aromas artificiales
+- Fuente de fibra
 - Maíz frito crujiente y sabroso
 - Apto para compartir
 

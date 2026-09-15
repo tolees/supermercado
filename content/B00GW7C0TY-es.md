@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Material de calidad
 - Producto de belleza
+- Material de calidad
 - Adecuado para tu higiene
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

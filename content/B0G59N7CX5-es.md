@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aplicación: vaporizar manteniendo el spray a 15cm de tu piel​
-- Desodorante hombre antitranspirante bodyspray Axe con tecnología dual action: elimina el mal olor con fragancias irresistibles​
 - La siguiente información se aplica a cada unidad del paquete
+- Aplicación: vaporizar manteniendo el spray a 15cm de tu piel​
+- Desodorante antitranspirante fragancia dark temptation con aroma a chocolate negro​
+- Desodorante hombre antitranspirante bodyspray Axe con tecnología dual action: elimina el mal olor con fragancias irresistibles​
 - Desodorante sin aluminio
 - Huele irresistible durante 48 horas gracias al componente antiolor zinc complex​
-- Desodorante antitranspirante fragancia dark temptation con aroma a chocolate negro​
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G59N7CX5{{</world>}}

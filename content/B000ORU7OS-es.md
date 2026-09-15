@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ingredientes delicados para la piel​
-- Fórmula enriquecida con un 1/4 de crema hidratante Dove
-- Jabón Líquido de manos para todo tipo de pieles
-- Jabón para las manos que te las deja suaves y tersas​; Dermatológicamente testado​
 - Descubre el refill jabón Dove Hidratación Profunda y consigue una piel más suave y cuidada
+- Fórmula enriquecida con un 1/4 de crema hidratante Dove
+- Jabón para las manos que te las deja suaves y tersas​; Dermatológicamente testado​
+- Ingredientes delicados para la piel​
+- Jabón Líquido de manos para todo tipo de pieles
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B000ORU7OS{{</world>}}

@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Medalla de Oro en la San Francisco World Spirits Competition
-- El envejecimiento adicional crea una versión especial, ideal para disfrutar sola o con hielo
 - Bulleit 10 Años contiene la misma mezcla que Bulleit Bourbon, con una maduración adicional de 10 años en barriles seleccionados
 - Sabor suave con toques de vainilla, frutos secos y un largo regusto ahumado
-- Óptimo regalo para los aficionados a Bulleit que busquen un bourbon especial
+- El envejecimiento adicional crea una versión especial, ideal para disfrutar sola o con hielo
 - Reserva de bourbons seleccionada por Tom Bulleit, con un alto contenido de centeno, que identifica a Bulleit, y una experiencia de sabor rica, intensa e increíblemente suave
+- Óptimo regalo para los aficionados a Bulleit que busquen un bourbon especial
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0749VFNN2{{</world>}}

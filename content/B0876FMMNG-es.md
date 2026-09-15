@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nariz: vainilla dulce de bourbon, toques de mazapán y almendras
 - Sabor: aterciopelado, suave, con sabor a nuez, ligeramente amargo
+- El Disaronno Velvet debe disfrutarse exclusivamente con hielo para realzar plenamente su sabor único y fresco
 - Color: blanco cremoso
 - Acabado: de larga duración
-- El Disaronno Velvet debe disfrutarse exclusivamente con hielo para realzar plenamente su sabor único y fresco
+- Nariz: vainilla dulce de bourbon, toques de mazapán y almendras
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0876FMMNG{{</world>}}

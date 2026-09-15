@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Indicaciones: Efecto balsámico para la garganta
+- Formato: Caja 50 g
+- Cómo tomar: Dejar que se disuelva en la boca, consumir el caramelo cuando se desee
 - Gama de productos con 13 hierbas suizas, que proporcionan sabor característico y suave efecto balsámico, aliviando y refrescando vías respiratorias y garganta
 - Caramelos Ricola melisa de limón sin azúcar
-- Cómo tomar: Dejar que se disuelva en la boca, consumir el caramelo cuando se desee
-- Formato: Caja 50 g
-- Indicaciones: Efecto balsámico para la garganta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B003VU03SK{{</world>}}

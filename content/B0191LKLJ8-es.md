@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para compartir con familia o amigos
 - 420 gr
-- Galletas surtidas
 - Distintas formas y sabores
+- Galletas surtidas
+- Para compartir con familia o amigos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0191LKLJ8{{</world>}}

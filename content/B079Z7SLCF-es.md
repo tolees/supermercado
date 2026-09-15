@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Elimina hasta el 80 % de las manchas superficiales
 - 3 beneficios en 1: blanqueamiento, fortalecimiento y protección frente a las manchas
 - Pasta dentífrica que protege el esmalte
+- Elimina hasta el 80 % de las manchas superficiales
 - Sabor a menta polar para un aliento fresco durante más tiempo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

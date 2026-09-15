@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- BENEFICIOS: contiene calcio, fósforo, potasio, magnesio, vitamina A, fibra, grasas insaturadas y vitaminas B.
-- EN LA COCINA - naturalmente dulce, es perfecta para la clásica tarta de castañas, excelente junto con otras harinas para preparar tartas, muffins, bizcochos, pastas, ñoquis de patata; mezclado con agua puede convertirse en una masa para deliciosas crepes
-- MADE IN ITALY - Harina de castaña cruda cultivada en Piamonte en agricultura biológica, secada a bajas temperaturas y pulverizada con piedra para evitar el sobrecalentamiento de la preciosa harina y conservar sus cualidades.
 - CRUDA - La Harina de Castaña Orgánica CiboCrudo es naturalmente libre de gluten, vegana, apta para una dieta de alimentos crudos porque no ha sido cocinada a temperaturas superiores a 42°.
+- EN LA COCINA - naturalmente dulce, es perfecta para la clásica tarta de castañas, excelente junto con otras harinas para preparar tartas, muffins, bizcochos, pastas, ñoquis de patata; mezclado con agua puede convertirse en una masa para deliciosas crepes
+- BENEFICIOS: contiene calcio, fósforo, potasio, magnesio, vitamina A, fibra, grasas insaturadas y vitaminas B.
+- MADE IN ITALY - Harina de castaña cruda cultivada en Piamonte en agricultura biológica, secada a bajas temperaturas y pulverizada con piedra para evitar el sobrecalentamiento de la preciosa harina y conservar sus cualidades.
 - EMBALAJE - nuestra harina de castaña orgánica está contenida en un paquete hermético reutilizable que conserva su frescura y protege su sabor y sus ingredientes activos durante mucho tiempo.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

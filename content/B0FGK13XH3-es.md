@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Bolsa de patatas fritas
 - Almacenar en un sitio seco y oscuro
 - Sabor original y la personalidad del vinagre
-- La siguiente información se aplica a cada unidad del paquete
 - Realizada por una receta clásica
+- La siguiente información se aplica a cada unidad del paquete
 - Sin gluten
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De la marca: Gallina Blanca
 - Contiene crustáceos y/o productos a base de crustáceos
+- De la marca: Gallina Blanca
 - Contiene un 30% menos sal
 - Producto de alta calidad
 

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- DERMATOLÓGICAMENTE PROBADO: Indicado para todo tipo de pieles.
-- EXTRACTO DE OLIVA: Jabón suave limpiador e hidratante, con extracto natural de oliva, pantenol y complejo vitamínico
 - 4 packs de JABÓN DE MANOS de 500 ml: incluyen 2 dispensadores y 2 botellas de recambio
-- FÓRMULA DE CUIDADO HUMECTANTE: Protege la piel de la sequedad excesiva, dejando las manos nutridas y suaves.
+- EXTRACTO DE OLIVA: Jabón suave limpiador e hidratante, con extracto natural de oliva, pantenol y complejo vitamínico
 - Cómo usarlo: Distribuir en las manos mojadas, enjabonar y aclarar abundantemente
+- DERMATOLÓGICAMENTE PROBADO: Indicado para todo tipo de pieles.
+- FÓRMULA DE CUIDADO HUMECTANTE: Protege la piel de la sequedad excesiva, dejando las manos nutridas y suaves.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CS6F2GVN{{</world>}}

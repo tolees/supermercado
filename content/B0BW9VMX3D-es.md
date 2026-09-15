@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sabor: cerveza Mahou sin filtrar es agradable en boca, suave y fresco a malta y lúpulo con un final ligeramente amargo
-- Apariencia: Cerveza Mahou sin filtrar tiene óptimo cuerpo e intensidad, con un aspecto dorado oscuro, pálido, con espuma media persistente
 - Aroma: en nariz se puede apreciar la malta y levadura en la cerveza Mahou sin filtrar y además con unas notas cítricas
+- Apariencia: Cerveza Mahou sin filtrar tiene óptimo cuerpo e intensidad, con un aspecto dorado oscuro, pálido, con espuma media persistente
 - Pack de cerveza Mahou sin filtrar de 24 latas de 33 cl con 5.5% de alcohol. Inspirada en los métodos de elaboración tradicional, sin proceso de filtración. Bebida refrescante, una cerveza premium de Mahou
+- Sabor: cerveza Mahou sin filtrar es agradable en boca, suave y fresco a malta y lúpulo con un final ligeramente amargo
 - Para óptimo disfrute de tu cerveza recomendamos girar tu cerveza lata Mahou sin filtrar, sin agitar antes de beber, para despertar la levadura y así podrás apreciar toda su intensidad y frescura una cerveza artesanal
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Con 1% de ácido hialurónico triple y 5% niacinamida
-- calmante, nutritivo, refrescante, resultado de expresión, color unitario, hidratante, imprimación, refinamiento de poros, refrescante, regenerador, relajante, revitalizante, alisador, alisador, para pieles mixtas, para pieles secas, para pieles con impurezas,
-- Textura ligera y transparente
-- Vegano, sin aceite, sin perfume, sin alcohol, sin parabenos, sin micropartículas plásticas, nanopartículas, sin gluten, sin acetona, sin colorantes
-- Decimos no a los ensayos con animales. cosnova está enumerado internacionalmente con essence y Catrice tanto en PETA Deutschland como en PETA.
 - Sérum facial hidratante para 48 horas de hidratación
+- Vegano, sin aceite, sin perfume, sin alcohol, sin parabenos, sin micropartículas plásticas, nanopartículas, sin gluten, sin acetona, sin colorantes
+- Textura ligera y transparente
+- calmante, nutritivo, refrescante, resultado de expresión, color unitario, hidratante, imprimación, refinamiento de poros, refrescante, regenerador, relajante, revitalizante, alisador, alisador, para pieles mixtas, para pieles secas, para pieles con impurezas,
+- Decimos no a los ensayos con animales. cosnova está enumerado internacionalmente con essence y Catrice tanto en PETA Deutschland como en PETA.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09JSL2D69{{</world>}}

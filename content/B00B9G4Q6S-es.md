@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- REGALO PERFECTO: Esta colonia de Tous es ideal para regalar en cumpleaños, comuniones, bautizos o celebraciones; presentación con el icónico oso Tous.
-- COLONIA NIÑA FLORAL AFRUTADA: Descubre Tous Kids Girl, un perfume para niña divertido y alegre; una fragancia tan divertida como una fiesta de niñas.
 - COLONIA NIÑA VERSÁTIL: Ideal como colonia infantil para el día a día; su aroma dulce y frutal aporta alegría y frescura, perfecta para niñas que quieren sentirse especiales.
-- TENDENCIA OLFATIVA: Fragancia infantil suave y segura, diseñada pensando en los más pequeños con los más altos estándares de calidad Tous.
-- PIRÁMIDE OLFATIVA: Notas de salida: caramelos de limón, magdalenas, mandarina. Notas de corazón: flor de naranjo, albaricoques, margaritas. Notas de fondo: frambuesas, almizcle tierno, helado de vainilla.
 - TOUS: Perfume original de Tous, firma icónica en joyería y fragancias, sinónimo de calidad, elegancia y diseño exclusivo desde 1920.
+- REGALO PERFECTO: Esta colonia de Tous es ideal para regalar en cumpleaños, comuniones, bautizos o celebraciones; presentación con el icónico oso Tous.
+- PIRÁMIDE OLFATIVA: Notas de salida: caramelos de limón, magdalenas, mandarina. Notas de corazón: flor de naranjo, albaricoques, margaritas. Notas de fondo: frambuesas, almizcle tierno, helado de vainilla.
+- COLONIA NIÑA FLORAL AFRUTADA: Descubre Tous Kids Girl, un perfume para niña divertido y alegre; una fragancia tan divertida como una fiesta de niñas.
+- TENDENCIA OLFATIVA: Fragancia infantil suave y segura, diseñada pensando en los más pequeños con los más altos estándares de calidad Tous.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00B9G4Q6S{{</world>}}

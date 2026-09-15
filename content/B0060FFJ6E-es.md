@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto de alta calidad
 - De la marca: Dolce & Gabbana
+- Producto de alta calidad
 - Oler bien
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

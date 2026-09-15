@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Disfruta de una experiencia refrescante y energizante con su aroma tropical duradero, perfecto para empezar el día con vitalidad o relajarte al final.
 - Fórmula suave y nutritiva que ayuda a proteger y revitalizar la piel, aportando hidratación profunda gracias al extracto natural de mango.
+- Disfruta de una experiencia refrescante y energizante con su aroma tropical duradero, perfecto para empezar el día con vitalidad o relajarte al final.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FCFHN2JN{{</world>}}

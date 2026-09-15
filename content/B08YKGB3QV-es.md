@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Alimento complementario para perros de todo tipo de razas, muy rico en nutrientes. 100% natural.
+- El perro debe ser supervisado en todo momento mientras se alimenta.Dejar siempre agua dulce y fresca a disposición de su mascota.
 - Utilizar como un regalo o recompensa en cualquier momento, siempre dentro de una dieta equilibrada.
 - Envasado en bolsas de 1 Kg.
-- El perro debe ser supervisado en todo momento mientras se alimenta.Dejar siempre agua dulce y fresca a disposición de su mascota.
+- Alimento complementario para perros de todo tipo de razas, muy rico en nutrientes. 100% natural.
 - Snacks naturales para perros, en forma de tiras, con carne de pollo. 100% natural. Con un alto contenido en proteína animal y con pocas grasas (Producto Light).
 
 [🛒 Aquí!!!]({{< param buyurl >}})

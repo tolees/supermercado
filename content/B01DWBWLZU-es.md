@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene dioxido de azúfre y sulfitos
 - El vino blanco de mesa de toda la vida
+- Contiene dioxido de azúfre y sulfitos
 - Aromas frutales de manzana verde, frutas de hueso maduras y cítricos
 - Ligero, equilibrado y ácido, con un contraste al final, ligeramente amargo
 - Refrescante acidez con buen equilibrio, las notas afrutadas vuelven en el retrogusto

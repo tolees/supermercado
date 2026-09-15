@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Viene en un contenedor 100% reciclable
 - Café soluble con magnesio
-- Ideal para el desayuno o una pausa durante el día
+- Viene en un contenedor 100% reciclable
 - Conservar en lugar fresco y seco
 - Preparación rápida y fácil con leche semidesnatada
+- Ideal para el desayuno o una pausa durante el día
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XACN71E{{</world>}}

@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - NOTA: El embalaje puede variar!
 - Su aspecto se caracteriza por el brillo, su color dorado y una espuma cremosa y consistente
+- Pack de 24 latas de Mahou 5 Estrellas de 25 centilitros cada una
 - Mahou Cinco Estrellas es una cerveza Pale Lager con 5.5% de alcohol, con un sabor muy equilibrado
 - El aroma principal es afrutado suave y fresco, a plátano y manzana, con cierta fragancia seca y un toque a levadura; se aprecian notas florales de lúpulo al beber
-- Pack de 24 latas de Mahou 5 Estrellas de 25 centilitros cada una
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09H39QJZR{{</world>}}

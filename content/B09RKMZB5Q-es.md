@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Aplicación: con la piel limpia aplicar un poco en un algodón y masajear suavemente sobre tu rostro. A la mañana siguiente utilizar un producto con SPF.
 - Verifique el símbolo PAO (Período después de la apertura) que indica el tiempo de caducidad del producto, después de abrir el paquete
 - Resultados: en 30 segundos la calidad de la piel mejora, es más suave y luminosa. En 4 semanas la textura de la piel se siente refinada y las imperfecciones se reducen visiblemente. En 8 semanas las manchas oscuras se reducen.
 - LOréal Paris Revitalift Tónico Perfeccionador Efecto Tensor, 5% Ácido Glicólico y Extracto de Sandía para una piel suave y brillante en 30 segundos. Inspirado en cosmética coreana
-- Aplicación: con la piel limpia aplicar un poco en un algodón y masajear suavemente sobre tu rostro. A la mañana siguiente utilizar un producto con SPF.
 - Fórmula compuesta por un 5% de Ácido Glicólico y con Extracto de Sandía para una eficacia y seguridad óptimas cada día.
 - Contenido: 1x LOréal Paris Revitalift Tónico Perfeccionador Efecto Tensor, 5% Ácido Glicólico y Extracto de Sandía, 180ml
 

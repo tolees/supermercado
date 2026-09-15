@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bialetti* Cápsulas compatibles para usar con los siguientes modelos de cafeteras: Break, Gioia, Super, Mokona
 - FRAGANCIA Y AROMA: Una Mezcla refinada y persistente, que se presenta con: Cuerpo: 8.5 - Intensidad: 8.5 - Persistencia: 9 - Dulzor: 9 - Acidez: 5
-- FORMATO: 50 Cápsulas de Café
 - MEZCLA DE CAFÉ AZUL: De una cuidadosa selección de blends, surge un café especial con un perfecto equilibrio entre cuerpo, persistencia y dulzura. La Mezca de Café Azul se caracteriza por su sabor noble, carácter vigoroso y aroma intenso: una mezcla equilibrada de Arábica y Robusta, envasada en atmósfera protectora
 - *Bialetti es una marca registrada de Bialetti Industrie SPA. Caffè Borbone SRL es un fabricante independiente no vinculado a Bialetti Industrie SPA. La compatibilidad de las cápsulas de Caffè Borbone es funcional con cafeteras Bialetti* para uso doméstico
+- Bialetti* Cápsulas compatibles para usar con los siguientes modelos de cafeteras: Break, Gioia, Super, Mokona
+- FORMATO: 50 Cápsulas de Café
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D7QMH56T{{</world>}}

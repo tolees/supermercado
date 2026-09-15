@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- BEXIDENT PACK BLANQ. COLUTORIO 20% ISDIN
 - Higiene
+- BEXIDENT PACK BLANQ. COLUTORIO 20% ISDIN
 - Parafarmacia
 - 0
 

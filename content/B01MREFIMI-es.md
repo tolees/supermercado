@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Conservar en lugar fresco y seco
 - Tiene un alto contenido de vitamina C
 - Bebida refrescante de zumo de frutas sin colorantes ni aromas artificiales
-- Conservar en lugar fresco y seco
 - La recomendación de servir es fría o con hielo
 - Trina es el refresco sin gas bajo en calorias
 

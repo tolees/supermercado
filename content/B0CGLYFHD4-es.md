@@ -30,10 +30,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - 98% de ORIGEN NATURAL.
 - La siguiente información se aplica a cada unidad del paquete
-- Certificado Vegano, Certificado Natural (Biorius), Certificado Gluten Free, Sin Flúor, Halal
-- Ayuda a calmar las encías: extractos de corteza de roble, plátano y hoja de abedul.
-- Fortalece y restaura el esmalte dental, reduce la sensibilidad - Calcio/Magnesio/Zinc Hidroxiapatita y L-Arginina
 - Protege contra la caries dental - Extracto de semilla de uva roja
+- Certificado Vegano, Certificado Natural (Biorius), Certificado Gluten Free, Sin Flúor, Halal
+- Fortalece y restaura el esmalte dental, reduce la sensibilidad - Calcio/Magnesio/Zinc Hidroxiapatita y L-Arginina
+- Ayuda a calmar las encías: extractos de corteza de roble, plátano y hoja de abedul.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CGLYFHD4{{</world>}}

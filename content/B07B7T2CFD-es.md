@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Adecuada para bases líquidas y cremosas
 - Las cerdas son del tamaño de la versión grande; solo se reduce el mango
+- Adecuada para bases líquidas y cremosas
 - Cerdas sintéticas UltraPlush con un corte específico, duraderas, fáciles de limpiar y libres de crueldad animal
 - Esta brocha profesional de tamaño mini es adecuada para viajar y aplicar una base adecuada
 - Virolas de aluminio extendido ligeras, fáciles de usar y en diferentes colores

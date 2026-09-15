@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 🌎 Origen único Brasil - Todos los granos de café provienen de la unión de 3 fincas: Pantano I, Vitoria y Congonha en la región de Minas Gerais
 - 💚 Notas de Cata - Este café de Brasil se caracteriza ser muy dulce, con cuerpo y notas de cacao amargo y un toque afrutado que recuerda ligeramente al albaricoque. Ideal para iniciarse en el mundo del café de especialidad porque tiene acidez baja.
 - 🌿 Tueste Artesanal - El tueste es uno de los elementos que más influyen en la calidad y el sabor del café. Nuestros expertos tostadores tuestan cada día para asegurar la frescura del café
-- ⭐ Café de Especialidad - Café brasileño de alta calidad, con 84 puntos SCA (Specialty Coffee Association). Se distingue por su aroma, sabor, personalidad, carácter distintivo y ausencia de defectos
 - 🌱 Ingredientes - Café en Grano Natural, 100% Arábica
+- ⭐ Café de Especialidad - Café brasileño de alta calidad, con 84 puntos SCA (Specialty Coffee Association). Se distingue por su aroma, sabor, personalidad, carácter distintivo y ausencia de defectos
+- 🌎 Origen único Brasil - Todos los granos de café provienen de la unión de 3 fincas: Pantano I, Vitoria y Congonha en la región de Minas Gerais
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08J3DZ3FF{{</world>}}

@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Los pigmentos minerales subliman y unifican la piel al instante
 - El Pro-Xylane facilita la síntesis de fibras de colágeno para corregir las arrugas y reafirmar la piel
 - Utilízalo sobre la piel limpia y seca, aplica y masajea para que la crema penetre en la piel con un desde el centro del rostro hacia fuera, y hacia arriba en el cuello
-- BB cream anti edad todo en uno, tono medio
 - Su textura confortable adapta su cobertura para no marcar las arrugas
+- BB cream anti edad todo en uno, tono medio
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00LPLDT60{{</world>}}

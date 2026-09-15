@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 💚 Notas de Cata - Este café de Perú se caracteriza por su base dulce y sus notas a chocolate y a frutos secos que recuerdan ligeramente a la avellana. Su cuerpo medio y acidez suave lo hace ideal para iniciarse en el mundo del café de especialidad
-- 🌿 Tueste Artesanal - El tueste es uno de los elementos que más influyen en la calidad y el sabor del café. Nuestros expertos tostadores tuestan cada día para asegurar la frescura del café
-- 🌎 Origen único Perú -Todos los granos de café provienen de la finca Cenfrocafé en la región de Cajamarca, provincia de Jaén
 - 🌱 Ingredientes - Café en Grano Natural, 100% Arábica
+- 🌎 Origen único Perú -Todos los granos de café provienen de la finca Cenfrocafé en la región de Cajamarca, provincia de Jaén
+- 🌿 Tueste Artesanal - El tueste es uno de los elementos que más influyen en la calidad y el sabor del café. Nuestros expertos tostadores tuestan cada día para asegurar la frescura del café
 - ⭐ Café de Especialidad - Café peruano de alta calidad, con 84,75 puntos SCA (Specialty Coffee Association). Se distingue por su aroma, sabor, personalidad, carácter distintivo y ausencia de defectos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- EL ALMENDRO es una marca española que produce todo tipo de turrones desde 1883. Todos los productos se elaboran con materias primas seleccionadas para garantizar la calidad que nos caracteriza
 - LAS ALMENDRAS son los frutos secos con mayor contenido en nutrientes esenciales, gracias a su alto contenido en fibra son saciantes y tienen un bajo índice glucémico
-- PERFECTO PARA CUALQUIER OCASIÓN: estas barritas son ideales para media mañana, en el gimnasio o llevarlas contigo a cualquier lugar
 - BARRITAS DE ALMENDRAS: Nuestra variedad más rompedora no te dejará indiferente. Sin gluten, sin aceite de palma y mucha almendra
 - BARRITAS DE ALMENDRA Y CHOCOLATE NEGRO 70%: deleitate con el sabor natural de cada uno de sus ingredientes: almendras, avellanas, pipas de calabaza y chocolate. Para tomar en cualquier momento del día. 100% Fabricado en España
+- PERFECTO PARA CUALQUIER OCASIÓN: estas barritas son ideales para media mañana, en el gimnasio o llevarlas contigo a cualquier lugar
+- EL ALMENDRO es una marca española que produce todo tipo de turrones desde 1883. Todos los productos se elaboran con materias primas seleccionadas para garantizar la calidad que nos caracteriza
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B084LB7YCV{{</world>}}

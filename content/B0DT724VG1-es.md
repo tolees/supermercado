@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aroma equilibrado con notas afrutadas, maltas tostadas, matices herbales y delicada fragancia alcohólica
 - Para un mayor disfrute consumir entre 6º y 9º C
 - Cerveza extra dorada de color dorado intenso, aspecto brillante y crema persistente
-- Inspirada en las “Helles Bock” con malta Munich y los lúpulos americanos en late hopping
 - En boca se percibe una textura de cuerpo notable, amargor moderado y agradable persistencia
+- Inspirada en las “Helles Bock” con malta Munich y los lúpulos americanos en late hopping
+- Aroma equilibrado con notas afrutadas, maltas tostadas, matices herbales y delicada fragancia alcohólica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DT724VG1{{</world>}}

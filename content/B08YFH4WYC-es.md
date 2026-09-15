@@ -31,9 +31,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Si quieres sazonar tus comidas con sal rosa del Himalaya, 100% natural y sin toxinas, la de Ecosana es una alternativa perfecta a la sal de mesa común
 - BENEFICIOS: 100% Natural y sin toxinas. Es una perfecta alternativa a la sal de mesa común
 - MODO DE USO: Para sazonar y cocinar
-- ETIQUETAS: Este producto es apto para veganos y celíacos
-- CONDIMENTOS, SALES Y ESPECIAS. Sal rosa del Himalaya (>97% de Cloruro sódico)
 - PROPIEDADES: Sal procedente de yacimientos salinos naturales
+- CONDIMENTOS, SALES Y ESPECIAS. Sal rosa del Himalaya (>97% de Cloruro sódico)
+- ETIQUETAS: Este producto es apto para veganos y celíacos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08YFH4WYC{{</world>}}

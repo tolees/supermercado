@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Fácil y rápido de preparar
+- Una vez abierto conservar en un recipiente hermético
 - Ideal para el desayuno o una pausa durante el día
 - Se puede servir solo o con leche
-- Una vez abierto conservar en un recipiente hermético
-- Fácil y rápido de preparar
 - Café molido con un sabor intenso
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 180 cápsulas duras.
 - Con Zinc y vitamina C, que contribuyen a la protección de las células frente al daño oxidativo.
 - Complemento alimenticio con ingredientes para mantener el cabello y las uñas saludables.
 - Sin gluten, sin lactosa.
+- 180 cápsulas duras.
 - Contiene extractos de Equisetum arvense que contribuye al bienestar del cabello.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

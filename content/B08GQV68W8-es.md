@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tipo manzanilla sin hueso
+- Aceitunas verdes rellenas con anchoa
 - Conservar en lugar fresco y seco
 - Una vez abierto, conservar refrigerado
-- Tipo manzanilla sin hueso
 - Ideal para el momento aperitivo o acompañar con el vermut
-- Aceitunas verdes rellenas con anchoa
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08GQV68W8{{</world>}}

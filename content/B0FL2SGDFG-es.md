@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La máscara de pestañas rizadora más potente de Bourjois, ideal para la ajetreada vida urbana.
-- La máscara de pestañas Bourjois Twist, Lift & Freeze congela tus pestañas durante 36 horas*.
-- La fórmula antiborrones también es resistente al calor, al sudor y a la humedad.
 - Inspirado en los productos con efecto de laminación de cejas.
 - * Basado en un estudio clínico de 36 horas con 31 usuarios
+- La fórmula antiborrones también es resistente al calor, al sudor y a la humedad.
+- La máscara de pestañas Bourjois Twist, Lift & Freeze congela tus pestañas durante 36 horas*.
+- La máscara de pestañas rizadora más potente de Bourjois, ideal para la ajetreada vida urbana.
 - Con el icónico cepillo de máscara de pestañas 2-in-1 Twist Up para un rizo y una longitud extremos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

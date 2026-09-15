@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- SABOR ÚNICO: Delicioso, indulgentemente único. Yogi Tea es sinónimo de variedad de sabores y salud. Tómate un tiempo, escucha atentamente a tu cuerpo y disfruta de la experiencia de un sabor único que acaricia tu alma
 - ECOLÓGICO, ÉTICO, SOSTENIBLE: 100% ecológico certificado, sin aromatizantes ni aditivos. El transporte de las materias primas por contenedor es 100% neutro en emisiones de CO2 y el papel tiene certificación FSC
-- YOGI TEA: Con nuestros tés queremos servirte de inspiración y contribuir así a un mundo pacífico y sano, lleno de atención plena y felicidad
 - TÉ CHAI: Una mezcla de mezcla de especias con maca, canela y clavo
+- YOGI TEA: Con nuestros tés queremos servirte de inspiración y contribuir así a un mundo pacífico y sano, lleno de atención plena y felicidad
+- SABOR ÚNICO: Delicioso, indulgentemente único. Yogi Tea es sinónimo de variedad de sabores y salud. Tómate un tiempo, escucha atentamente a tu cuerpo y disfruta de la experiencia de un sabor único que acaricia tu alma
 - CHAI MACA: ¡Deja que esta mezcla exótica te invite a descubrir nuevas cosas y libere tu espíritu aventurero!
 
 [🛒 Comprar!!!]({{< param buyurl >}})

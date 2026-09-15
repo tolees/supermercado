@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 4 capas
-- 6 paquetitos por pack
 - 7 pañuelos por paquetito
 - Papel blanco
+- 4 capas
+- 6 paquetitos por pack
 - Muy suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

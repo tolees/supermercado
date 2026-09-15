@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- BOTÁNICOS ÚNICOS: Bayas de enebro, arándanos, moras y cáscara de limón y de naranja amarga, cilantro, corteza de cassia, raíz de angélica y coriandro. La firma Brockmans en su máxima expresión.
-- PACK PERFECTO PARA AMANTES DEL NEGRONI: Incluye Brockmans Premium Gin (700 ml) y un vaso exclusivo Negroni de regalo. Todo lo que necesitas para preparar el Negroni más suave y afrutado del mundo.
-- PRESENTACIÓN REGALO LISTA PARA ENTREGAR: Pack con botella y vaso en presentación ideal para cumpleaños, aniversarios o cualquier celebración. Un regalo memorable para los amantes del gin y de la coctelería clásica.
 - RECETA NEGRONI CON BROCKMANS: 30 ml Brockmans + 30 ml vermut rojo + 30 ml Campari. Agita con hielo, sirve en el vaso de regalo y añade una piel de naranja. El Negroni más sofisticado con el toque afrutado de Brockmans.
+- PACK PERFECTO PARA AMANTES DEL NEGRONI: Incluye Brockmans Premium Gin (700 ml) y un vaso exclusivo Negroni de regalo. Todo lo que necesitas para preparar el Negroni más suave y afrutado del mundo.
 - GINEBRA SÚPER PREMIUM, ATREVIDA Y DIFERENTE: Las notas más tradicionales de la ginebra se combinan con la armonía de los botánicos de berries de Brockmans para crear una ginebra intensamente suave con carácter propio.
+- BOTÁNICOS ÚNICOS: Bayas de enebro, arándanos, moras y cáscara de limón y de naranja amarga, cilantro, corteza de cassia, raíz de angélica y coriandro. La firma Brockmans en su máxima expresión.
+- PRESENTACIÓN REGALO LISTA PARA ENTREGAR: Pack con botella y vaso en presentación ideal para cumpleaños, aniversarios o cualquier celebración. Un regalo memorable para los amantes del gin y de la coctelería clásica.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F5WXPMRY{{</world>}}

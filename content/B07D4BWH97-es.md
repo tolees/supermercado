@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Manzana especiada, mineral y piel de limón. Acidez vivaz y con un final complejo con muchos sabores. Lineal y brillante.
 - Acompañar con aperitivo o con buñuelos de queso, crema de erizos de mar, gambas, ensaladas.
-- Origen: AOC Côtes de Provence
+- Manzana especiada, mineral y piel de limón. Acidez vivaz y con un final complejo con muchos sabores. Lineal y brillante.
 - Graduación: 14% vol.
 - Puede disfrutarlo desde ahora, bien conservado aguantará 2-4 años.
+- Origen: AOC Côtes de Provence
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07D4BWH97{{</world>}}

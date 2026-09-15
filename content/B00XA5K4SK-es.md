@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin conservantes
 - Bajo en grasa
 - Ideal para cocinar facilitando la preparación de tus sopas o como ingrediente para otros platos
 - Una receta extraordinaria de caldo de carne
+- Sin conservantes
 - Conservar en lugar fresco y seco
 
 [🛒 Comprar!!!]({{< param buyurl >}})

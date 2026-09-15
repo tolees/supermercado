@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- En el corazón, la intensidad aromática de la hoja de laurel se combina con la sutileza del jazmín, creando un contraste sofisticado y profundamente masculino.
-- Se trata de un perfume amaderado.La fragancia comienza con una frescura vibrante de notas marinas, toronja y mandarina, un inicio limpio y energizante que evoca elegancia natural.
 - El fondo se despliega con la calidez envolvente del ámbar gris, la fuerza refinada de la madera de gaiac, el carácter del musgo de roble y la profundidad del pachulí, construyendo una estela memorable y distinguida.
 - Un perfume para el caballero que encarna el lujo con aplomo, carisma y una presencia inconfundible.
+- Se trata de un perfume amaderado.La fragancia comienza con una frescura vibrante de notas marinas, toronja y mandarina, un inicio limpio y energizante que evoca elegancia natural.
+- En el corazón, la intensidad aromática de la hoja de laurel se combina con la sutileza del jazmín, creando un contraste sofisticado y profundamente masculino.
 - Una expresión de lujo moderno y poder sereno.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

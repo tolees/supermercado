@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Comida española fácil de preparar: al baño maria, en cazo o al microondas
 - Fabada con 30% menos de grasa y sal
-- Selecto embutido elaborado local
 - Disfruta de un plato típico de la cocina casera española, con la calidad de Litoral
+- Selecto embutido elaborado local
+- Comida española fácil de preparar: al baño maria, en cazo o al microondas
 - Ingredientes naturales, sin gluten, sin colorantes ni conservantes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

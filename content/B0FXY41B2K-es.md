@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 🍫 Barritas de proteinas sin azúcar, con un delicioso sabor a cacao
-- 💪 Barritas Nestlé Fitness 0% azúcares añadidos y rico en proteína.
 - 💯 Fitness 0% Proteína, sin azúcares añadidos, rico en proteína y para que disfrutes estando en forma.
-- 🔝 Barrita de cereales integrales, como ingrediente nº1.
+- 💪 Barritas Nestlé Fitness 0% azúcares añadidos y rico en proteína.
 - 🌾 Fitness Proteína, tu barrita de cereales Nestlé con avena, trigo y quinoa integrales, cuidadosamente seleccionados.
+- 🍫 Barritas de proteinas sin azúcar, con un delicioso sabor a cacao
+- 🔝 Barrita de cereales integrales, como ingrediente nº1.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FXY41B2K{{</world>}}

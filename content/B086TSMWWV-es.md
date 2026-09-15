@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - El auténtico sabor de siempre
+- Realizada por un proceso tradicional de secado
+- Mantener en un lugar fresco y seco
 - Con ingredientes seleccionados y deshidratados
 - Sin conservantes
-- Mantener en un lugar fresco y seco
-- Realizada por un proceso tradicional de secado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B086TSMWWV{{</world>}}

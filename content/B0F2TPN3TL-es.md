@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- TEXTURA LIGERA Y ACOGEDORA: Fórmula tipo bálsamo con sensación de confort y suavidad durante todo el día
+- FÓRMULA VEGANA: Con ceramidas de azúcar y polvo de arroz mochi para hidratar, proteger y suavizar los labios
 - ACABADO MATE DIFUMINADO: Color suave con efecto desenfocado para un look natural y aterciopelado
 - COLOR MODULABLE: Cobertura translúcida que puedes intensificar con capas para adaptarla a tu estilo
-- FÓRMULA VEGANA: Con ceramidas de azúcar y polvo de arroz mochi para hidratar, proteger y suavizar los labios
+- TEXTURA LIGERA Y ACOGEDORA: Fórmula tipo bálsamo con sensación de confort y suavidad durante todo el día
 - COLOR MODULABLE: Cobertura translúcida que puedes intensificar con capas para adaptarla a tu estilo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

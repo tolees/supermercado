@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compact and Practical: Perfectly sized for travel and pocket-friendly, this notebook is ideal for on-the-go notes, sketches, and meeting minutes
 - Nautical Spiral Binding: The timeless nautical theme extends to the sturdy spiral binding, allowing the notebook to lay flat for comfortable writing, sketching, and journaling on its unlined pages
-- Aesthetic Vintage Embellishments: Adorned with vintage-style pendants and intricate embossing, the notebooks design is reminiscent of classic adventures and exploration, making it a perfect travel companion or a decorative piece for your collection
 - Blank, Creative Canvas: With unlined paper, this notebook offers a freeform canvas for your sketches, musings, and notes, ensuring that there are no constraints to your creativity and expression
+- Compact and Practical: Perfectly sized for travel and pocket-friendly, this notebook is ideal for on-the-go notes, sketches, and meeting minutes
+- Aesthetic Vintage Embellishments: Adorned with vintage-style pendants and intricate embossing, the notebooks design is reminiscent of classic adventures and exploration, making it a perfect travel companion or a decorative piece for your collection
 - Premium Leather Cover: This writing journal is crafted with a durable PU leather cover that exudes a vintage appeal, providing durability and a luxurious feel that is pleasing to touch
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

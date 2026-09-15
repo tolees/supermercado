@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mantienen su forma durante el uso.
-- Jabón 100 % biodegradable*, sin conservantes peligrosos.
 - Estropajos eficaces rellenos de jabón, eficaces contra la grasa y la suciedad.
+- Jabón 100 % biodegradable*, sin conservantes peligrosos.
 - 0 % de ingredientes de origen animal.
+- Mantienen su forma durante el uso.
 - 85 % de fibras de lana de acero recicladas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

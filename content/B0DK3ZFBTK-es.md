@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- CON 1,9 MG DE MELATONINA: Melatonin Forte ha sido formulado para ofrecer a los que lo necesitan una gominola con mayor cantidad de melatonina, conteniendo hasta 1,9 mg por porción.
 - SIN AZÚCAR, SIN GLUTEN: Además de su delicioso sabor a frutas del bosque, las gominolas de Melatonina de Weider no contienen ni azúcar ni gluten, por lo que están adaptadas a varios tipos de dieta.
 - CONTRA EL JET-LAG: La melatonina es tu mejor aliada para esos viajes largos en los que tanto te cuesta coger el sueño. ¡Con Weider Melatonin Forte, los desfases horarios ya no serán un problema!
-- CON 1,9 MG DE MELATONINA: Melatonin Forte ha sido formulado para ofrecer a los que lo necesitan una gominola con mayor cantidad de melatonina, conteniendo hasta 1,9 mg por porción.
 - CONTRA EL INSOMNIO: La melatonina ayuda a regular el ciclo del sueño, ayudándote a descansar mientras duermes.
 - MELATONIN FORTE GUMMIES de Weider, empresa internacional pionera y especializada en nutrición deportiva, con más de 85 años ofreciendo calidad e innovación.
 

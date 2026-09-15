@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con notas refrescantes de té verde, CK One es un comienzo vigorizante para un día sin límites
 - Adecuada para día o noche
 - Aroma cítrico fresco
 - Olor intenso y duradero
+- Con notas refrescantes de té verde, CK One es un comienzo vigorizante para un día sin límites
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000VEPBY0{{</world>}}

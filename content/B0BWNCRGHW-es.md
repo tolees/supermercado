@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cada pack contiene aproximadamente 13 tortitas
 - 44Kcal por Tortita
 - Tortitas de maíz sabor setas, trufa & queso (8unidades)
 - Cada caja contiene 8 packs
+- Cada pack contiene aproximadamente 13 tortitas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BWNCRGHW{{</world>}}

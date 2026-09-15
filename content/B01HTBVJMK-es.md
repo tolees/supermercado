@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Sin azúcar añadido ni gluten
 - Brik UHT 1L con tapón atado (para evitar que acabe en la naturaleza)
 - Lauki, contigo desde 1958
-- Leche entera de Bienestar Animal
 - Fuente natural de calcio y vitaminas
+- Leche entera de Bienestar Animal
 - Ideal para toda la familia
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

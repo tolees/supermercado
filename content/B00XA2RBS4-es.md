@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Galletas con dibujos de los personajes favoritos de los niños
-- Enriquecidas con 6 vitaminas, hierro, calcio y cereales
 - Nutritivas y deliciosas, con fibra añadida
+- Enriquecidas con 6 vitaminas, hierro, calcio y cereales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00XA2RBS4{{</world>}}

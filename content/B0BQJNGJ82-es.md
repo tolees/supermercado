@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El libro perfecto para que lo hojeen los más golosos: dulce poesía tan creativa y asombrosa como la ciudad de Florencia
 - Sin gluten; Sin colorantes ni conservantes; Sin aceite de palma
 - Se presentan en un elegante minilibro de metal con la imagen de la ciudad de Dante Alighieri
+- El libro perfecto para que lo hojeen los más golosos: dulce poesía tan creativa y asombrosa como la ciudad de Florencia
 - Elaborado en Italia según la regla del «Buono Buonissimo» (ingredientes naturales, con menos azúcares y sin aditivos artificiales)
 - Selección de cremosos bombones Cremino, perfectos para los amantes del chocolate untuoso
 

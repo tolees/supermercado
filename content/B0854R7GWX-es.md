@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Apto para veganos
-- Con 3 meses sobre lías finas, presenta un color amarillo pajizo con matices verdosos que indican juventud; muy limpio y brillante
 - En boca es un vino seco, conservando una acidez natural moderada que le da frescura y viveza en boca, redondo y con cuerpo, bien estructurado
+- Apto para veganos
 - Aroma de intensidad media-alta y complejo; destacan los tropicales frescos como la piña y aromas cítricos
 - Marida con pescados blancos, atún, sushi, arroces con mariscos, paella, pasta, comida asiática, pollo, quesos frescos o azules
+- Con 3 meses sobre lías finas, presenta un color amarillo pajizo con matices verdosos que indican juventud; muy limpio y brillante
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0854R7GWX{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CÓMO SE UTILIZA: Masajea el acondicionador de pelo de raíz a puntas, déjalo actuar 1-3 minutos. Utilízalo con el champú fortalecedor y el tratamiento para el cuero cabelludo.
 - ACONDICIONADOR: Tratamiento hidratante del cabello y el cuero cabelludo que fortalece y nutre las fibras capilares y protege su color. Para cabellos teñidos, secos y debilitados de forma avanzada.
 - CRECIMIENTO CON BIOTINA PARA EL CABELLO: Enriquecido con niacinamida, biotina e ingredientes protectores de los rayos UV. Clínicamente formulado para densificar y fortalecer las fibras capilares.
+- CÓMO SE UTILIZA: Masajea el acondicionador de pelo de raíz a puntas, déjalo actuar 1-3 minutos. Utilízalo con el champú fortalecedor y el tratamiento para el cuero cabelludo.
 - RUTINA NIOXIN: Para unos mejores resultados, utiliza el Kit del Sistema 4 de Nioxin cada día y tus productos preferidos de peinado. Añádelos a tu rutina de autocuidado o regálalos como detalle de belleza.
 - TRATAMIENTO PARA EL CUERO CABELLUDO: Limpiador suave que elimina impurezas y exceso de sebo para estimular el crecimiento del cabello y así obtener un cuero cabelludo más sano.
 

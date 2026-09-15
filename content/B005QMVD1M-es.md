@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - EL EMBALAJE PUEDE VARIAR mientras hacemos la transición del antiguo al nuevo embalaje de marca
-- Fabricado con un número limitado de ingredientes, solo 4 esenciales.
-- Fuente natural de Taurina aminoácido esencial para el apoyo de la vista, la función cardíaca, digestiva e inmune
 - 75 % de peto de pollo con queso; se utilizan productos de la más alta calidad, en nuestros envases solo proteínas de carne adecuadas para el consumo humano.
+- Fuente natural de Taurina aminoácido esencial para el apoyo de la vista, la función cardíaca, digestiva e inmune
+- Fabricado con un número limitado de ingredientes, solo 4 esenciales.
 - 100% natural; sin añadidos ni ingredientes ocultos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

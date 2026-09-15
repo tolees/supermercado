@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Tipo: fresca y versátil
-- Cuando: para todos los días
 - Autentica fragancia de UNITED COLORS OF BENETTON Perfumes
+- Cuando: para todos los días
 - Recomendaciones de uso: rociar ligeramente en los puntos de pulso: pecho, bíceps y muñecas
 - Para: el
 

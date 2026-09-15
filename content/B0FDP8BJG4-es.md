@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- PRESENTACIÓN NÍTIDA DEL VINO: el cristal transparente refleja el brillo natural del vino, lo que mejora la apreciación visual y la experiencia de degustación
 - APTO PARA LAVAVAJILLAS: diseño que facilita la limpieza y el mantenimiento
+- PRESENTACIÓN NÍTIDA DEL VINO: el cristal transparente refleja el brillo natural del vino, lo que mejora la apreciación visual y la experiencia de degustación
 - 6 COPAS DE VINO: juego de copas con tallo de 568ml para vino tinto
 - CRISTAL RESISTENTE: cristal liso, resistente y transparente para mayor durabilidad
 - DISEÑO CLÁSICO: ideal para comidas diarias u ocasiones especiales

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Costilla con textura en mangas, cuello y dobladillo
 - Tejido de punto diagonal de 350 g/m²
 - Sudadera de corte regular
-- Costilla con textura en mangas, cuello y dobladillo
-- Impresión de pantalla a base de agua
 - Hecho de 100% algodón orgánico
+- Impresión de pantalla a base de agua
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DP14QKK5{{</world>}}

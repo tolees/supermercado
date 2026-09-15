@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin cafeína
+- 700 g
 - Conservar en lugar fresco y seco
 - Alto contenido de Fibra
-- 700 g
+- Sin cafeína
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07GZKLYS6{{</world>}}

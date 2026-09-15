@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tostado y envasado en Bélgica
-- Un café extrafuerte de sabor intenso, con regusto de chocolate
-- 60 por ciento arábica, 40 por ciento robusta
-- Adecuado para todas las preparaciones dependiendo de la molienda
 - 2 paquetes, 2 x 1 kg, total 2 kg
-- Intensidad, 45
 - La procedencia del café utilizado para este producto goza de la certificación Rainforest Alliance
+- Adecuado para todas las preparaciones dependiendo de la molienda
+- Tostado y envasado en Bélgica
+- 60 por ciento arábica, 40 por ciento robusta
+- Intensidad, 45
+- Un café extrafuerte de sabor intenso, con regusto de chocolate
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08Y1GBGVF{{</world>}}

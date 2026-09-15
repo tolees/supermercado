@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ⏱️ Fácil y rápido de preparar
-- 📦 Conservar en lugar fresco y seco
-- 🥛 Se disuelve en agua o leche
-- ☕ Café soluble con leche y azúcar
 - ✨ Ideal para el desayuno o una pausa durante el día
+- 🥛 Se disuelve en agua o leche
+- 📦 Conservar en lugar fresco y seco
+- ☕ Café soluble con leche y azúcar
+- ⏱️ Fácil y rápido de preparar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKLHSM61{{</world>}}

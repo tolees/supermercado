@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sin gluten: Formulado sin ingredientes que contienen gluten
+- Ayuda a la digestión: Su fórmula adaptada que contiene granos integrales, prebióticos y concentrado de piña 100% natural ayuda a la función digestiva. Está formulado con una única fuente de proteína animal (huevo) alternativa a las más comunes.
 - Fórmula con monoproteína animal: Formulado con una única fuente de proteína animal.
 - Apoya la vitalidad: Gracias a la espirulina, proteínas, sustancias minerales y vitaminas que ayudan a apoyar la vitalidad del perro.
-- Ayuda a la digestión: Su fórmula adaptada que contiene granos integrales, prebióticos y concentrado de piña 100% natural ayuda a la función digestiva. Está formulado con una única fuente de proteína animal (huevo) alternativa a las más comunes.
 - Ayuda a reducir los malos olores: gracias a yuca schidigera y prebióticos que favorecen la reducción del olor de las heces caninas.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

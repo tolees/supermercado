@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sabores incluidos: Combinación de sabores a fresa y nata con discos fresa, balla-balla fresa, ladrillo fresa-nata, mini torcidas fresa y balla-balla creamy
-- Variedad de piezas: Mix de tus piezas favoritas de regaliz rojo incluyendo Ladrillos, Balla-Balla, Discos y Mega torcidas
-- Formato conveniente: Bolsa de 1 kg que ofrece una gran cantidad de caramelos para compartir
 - Variedad multicolor: Surtido de colores rojo y blanco para grandes y pequeños
 - Ocasiones de consumo: Disfruta con alegría y diversión en cualquier momento del día
-- Geles dulces con delicioso sabor a nata y fresa
+- Sabores incluidos: Combinación de sabores a fresa y nata con discos fresa, balla-balla fresa, ladrillo fresa-nata, mini torcidas fresa y balla-balla creamy
+- Variedad de piezas: Mix de tus piezas favoritas de regaliz rojo incluyendo Ladrillos, Balla-Balla, Discos y Mega torcidas
 - Condiciones de almacenamiento: Conservar en lugar fresco y seco para mantener la frescura
 - Presentación: Sin recubrimiento para disfrutar del auténtico sabor de cada pieza
+- Geles dulces con delicioso sabor a nata y fresa
+- Formato conveniente: Bolsa de 1 kg que ofrece una gran cantidad de caramelos para compartir
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0973CNCQ3{{</world>}}

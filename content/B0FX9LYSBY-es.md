@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Con solo presionar un botón, disfruta de esta bebida elaborada con maestría
-- Un tueste intenso, con ricas notas de avellana tostada y una escala de intensidad de 10
-- Elaborado con el Espresso Roast de Starbucks
 - Prepara una taza llena de sabor con el Macchiato de Avellana de Starbucks by Nescafé Dolce Gusto
+- Elaborado con el Espresso Roast de Starbucks
+- Un tueste intenso, con ricas notas de avellana tostada y una escala de intensidad de 10
 - Hazlo tuyo en casa
 
 [🛒 Comprar!!!]({{< param buyurl >}})

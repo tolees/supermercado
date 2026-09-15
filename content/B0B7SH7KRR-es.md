@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
-- Cepillo de la marca Braun
-- Color: Multicolor
 - Medidas: 9,4 x 17 x 24,5 centímetros
+- Cepillo de la marca Braun
+- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
+- Color: Multicolor
 - Referencia: S91105055
 
 [🛒 Visítala!!!]({{< param buyurl >}})

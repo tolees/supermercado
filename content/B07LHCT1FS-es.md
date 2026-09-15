@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sin gluten y sin grasa, opción inclusiva para celíacos y consumidores conscientes.
-- Sabores fresa, naranja, limón y tutti‑frutti: mezcla ideal para quienes buscan variedad gustativa.
-- Bolsa de 1 kg (~386 unidades) de surtido mini brillante con piezas variadas como osos, moras, botellas y huevos fritos.
 - Formato popular para candy bars, fiestas, eventos o venta a granel, con presentación vistosa como punto de atracción.
+- Bolsa de 1 kg (~386 unidades) de surtido mini brillante con piezas variadas como osos, moras, botellas y huevos fritos.
 - Marca Vidal Golosinas, reputación de calidad, creatividad en surtidos y sabor auténtico en cada mini gominola.
+- Sabores fresa, naranja, limón y tutti‑frutti: mezcla ideal para quienes buscan variedad gustativa.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07LHCT1FS{{</world>}}

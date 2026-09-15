@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin artificiales: suavizantes, conservantes, sabores o colores
-- Instrucciones simples: vacíe el delicioso o en la taza, agregue 8 onzas de agua caliente (para un sabor más rico que agregar leche), mezcla, soja, bajada. Te lo mereces
-- Sabor nuevo y mejorado
 - Fabricado en EE. UU
+- Sin artificiales: suavizantes, conservantes, sabores o colores
+- Sabor nuevo y mejorado
+- Instrucciones simples: vacíe el delicioso o en la taza, agregue 8 onzas de agua caliente (para un sabor más rico que agregar leche), mezcla, soja, bajada. Te lo mereces
 - Hecho de material auténtico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

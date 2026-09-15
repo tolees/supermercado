@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Delicioso chocolate untable con crujientes inclusiones de avellana e inconfundiblesabor a los bombones Caja Roja
 - Ideal para todo tipo de aplicaciones: postres, crepes, gofres, pizzas, croissants, sándwich, tostadas, etc
+- Delicioso chocolate untable con crujientes inclusiones de avellana e inconfundiblesabor a los bombones Caja Roja
 - Textura cremosa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

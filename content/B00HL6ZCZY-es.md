@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aplicar la crema en las axilas limpias y secas.
 - Eficacia antitranspirante 7 días.
+- Aplicar la crema en las axilas limpias y secas.
 - Desodorante en crema de Vichy: controla la sudoración intensa sin irritar la piel. Fórmula con agentes antitranspirantes micro-finos que respetan las pieles sensibles. Dura hasta 7 días. Apto para todo tipo de piel.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

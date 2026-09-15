@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Punta precisa para simular pelo a pelo
-- Lápiz de cejas para definir, llenar y crear un look de cejas bonito al instante
-- Contiene brocha para difuminar y conseguir un acabado aún más real y natural
-- Tonos naturales que realzan el color de tu piel
 - Tonos naturales que combinan con el color de tus cejas
+- Tonos naturales que realzan el color de tu piel
+- Lápiz de cejas para definir, llenar y crear un look de cejas bonito al instante
+- Punta precisa para simular pelo a pelo
+- Contiene brocha para difuminar y conseguir un acabado aún más real y natural
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0977KTNV2{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- __Compartimentos:__ Compartimento principal
-- __Marca:__ serigrafía Roxy
 - __Tejido:__ mezcla de 53% algodón reciclado, 30% poliéster regular, 8% acrílico, 6% viscosa y 3% nailon
-- __Dimensiones: __37 [L] x 42 [A] x 17 [P] cm
+- __Compartimentos:__ Compartimento principal
 - __Correas:__Correas de hombro fijas
+- __Dimensiones: __37 [L] x 42 [A] x 17 [P] cm
+- __Marca:__ serigrafía Roxy
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0GH8VN9QL{{</world>}}

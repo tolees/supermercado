@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Resultados: UNA TRANSFORMACION PARA TU PELO X2 MÁS BRILLO** QUE DURA HASTA 5 LAVADOS 88% MÁS SEDOSO*** (**Test instrumental después de una aplicación del trinomio y 5 aplicaciones del champú***Test instrumental tras el uso de champú + acondicionador.)​
-- 11 % Gloss complex con ácido glicólico: mejora la calidad de la fibra capilar desde el interior y la sella con un brillo duradero.
-- Aplicación: tras lavar el pelo con el champú sin sulfatos de Glycolic Gloss, aplica el acondicionador de medios a puntas y deja actuar durante 3 minutos antes de aclarar. Mantener fuera del alcance de los niños. En caso de contacto con los ojos lavar inmediatamente con agua.
 - 1x LOréal Paris Elvive Acondicionador Glycolic Gloss Con Ácido Glicólico Cabello Suave Y Brillante​
+- 11 % Gloss complex con ácido glicólico: mejora la calidad de la fibra capilar desde el interior y la sella con un brillo duradero.
+- Resultados: UNA TRANSFORMACION PARA TU PELO X2 MÁS BRILLO** QUE DURA HASTA 5 LAVADOS 88% MÁS SEDOSO*** (**Test instrumental después de una aplicación del trinomio y 5 aplicaciones del champú***Test instrumental tras el uso de champú + acondicionador.)​
+- Aplicación: tras lavar el pelo con el champú sin sulfatos de Glycolic Gloss, aplica el acondicionador de medios a puntas y deja actuar durante 3 minutos antes de aclarar. Mantener fuera del alcance de los niños. En caso de contacto con los ojos lavar inmediatamente con agua.
 - Acondicionador glicolic gloss de L´Oréal Paris aporta brillo a tu pelo y acaba con la sequedad logrando un cabello deslumbrante y saudable.​
 
 [🛒 Comprar!!!]({{< param buyurl >}})

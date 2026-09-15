@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SOBRE NOSOTROS: ISOLA BIO nace con el objetivo de ayudarte a conseguir una alimentación vegetal y saludable. Somos empresa BCorp certificada y cumplimos con altos estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
 - MÚLTIPLES BENEFICIOS: Gracias a su alto contenido en proteínas, vitamina B, minerales y fibra, el arroz integral te ayudarán a regular el tránsito intestinal y a controlar tu apetito. Además, te otorgará propiedades antioxidantes.
-- BEBIDA VEGETAL: Hemos extraído los granos de arroz integral para preparar nuestra bebida vegetal sin azúcares de la región de Piamonte, logrando así un sabor firme y auténtico. Además, es el acompañante ideal para una dieta saludable.
 - MEZCLA Y DISFRUTA: Toma nuestra bebida vegetal en los desayunos, tanto fría como caliente. Puedes consumirla sola, en smoothies, con café, infusiones, cereales, mueslis o copos. Incluso en cremas o sopas. ¡Hay un sinfín de posibilidades!
+- BEBIDA VEGETAL: Hemos extraído los granos de arroz integral para preparar nuestra bebida vegetal sin azúcares de la región de Piamonte, logrando así un sabor firme y auténtico. Además, es el acompañante ideal para una dieta saludable.
+- SOBRE NOSOTROS: ISOLA BIO nace con el objetivo de ayudarte a conseguir una alimentación vegetal y saludable. Somos empresa BCorp certificada y cumplimos con altos estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
 - INGREDIENTES NATURALES: Elaborado a partir de agua, arroz integral (17%), aceite de girasol de primera presión en frío y sal marina, este producto es apto para consumo vegano y libre de gluten. Además, no contiene lactosa, leche ni huevo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

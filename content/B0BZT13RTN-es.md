@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- La textura cremosa y supercómoda se aplica y difumina con la máxima facilidad
 - Perfecta para realzar la mirada creando un look de ojos duradero con unos sencillos gestos
 - Brinda una larga duración, hasta 24 horas y no-transfer
-- La textura cremosa y supercómoda se aplica y difumina con la máxima facilidad
 - Oftalmológicamente testado
 - Su fórmula enriquecida con aceite de argán se adhiere perfectamente a los párpados
 

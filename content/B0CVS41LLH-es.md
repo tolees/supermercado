@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Hidratación durante todo el día
-- No deja residuos blancos, no es grasa ni pegajosa.
 - La fórmula está enriquecida con vitamina C* y pigmentos minerales para una iluminación instantánea y brillo. * Derivado de la vitamina C.
+- No deja residuos blancos, no es grasa ni pegajosa.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CVS41LLH{{</world>}}

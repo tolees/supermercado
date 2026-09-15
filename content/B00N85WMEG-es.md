@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Receta oriental
-- Elaborado con ingredientes orgánicos
 - Formato envase de 200 gramos
-- Producto gourmet
+- Elaborado con ingredientes orgánicos
 - Producto vegano
+- Receta oriental
+- Producto gourmet
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00N85WMEG{{</world>}}

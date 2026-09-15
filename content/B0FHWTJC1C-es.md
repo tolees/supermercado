@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Snack de patatas
-- Para llevar de picnic
 - Con patatas de cultivos sostenibles
+- Snack de patatas
 - Sabpr a queso y cebolla
+- Para llevar de picnic
 - Apto para compartir
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

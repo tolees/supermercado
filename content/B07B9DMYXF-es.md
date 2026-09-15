@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 16 rollos por paquete
-- Muy suave
 - Muy resistente
+- Muy suave
+- 16 rollos por paquete
 - Doble capa
 - Suave y absorbente
 

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Secado rápido. Se aplica fácil y uniformemente. No queda pegajoso.
 - Adecuado para rostro y cuerpo. Para cada color y tipo de piel.
-- DHA natural de origen vegetal.
+- Secado rápido. Se aplica fácil y uniformemente. No queda pegajoso.
 - Vegano y no testado en animales.
 - Con un aroma fantástico.
 - Ingredientes naturales y nutritivos que le encantarán a su piel.
+- DHA natural de origen vegetal.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGHHCLXC{{</world>}}

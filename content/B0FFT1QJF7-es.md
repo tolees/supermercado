@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cereales ricos en vitamina D
-- Cereales Miel Pops deliciosas bolitas de arroz inflado con sabor a miel
-- Conservar en un lugar fresco y seco
 - Harina de maíz (76%), azúcar, jarabe de glucosa, fibra de maíz, miel (2%), sal, extracto de malta de CEBADA ; niacina, hierro, vitamina B6, riboflavina (B2), tiamina (B1), ácido fólico, vitamina D, vitamina B12, colorante (carotenos)
 - La siguiente información se aplica a cada unidad del paquete
+- Cereales ricos en vitamina D
+- Conservar en un lugar fresco y seco
 - Cereales fuente de vitaminas del grupo B y hierro
+- Cereales Miel Pops deliciosas bolitas de arroz inflado con sabor a miel
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FFT1QJF7{{</world>}}

@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - El producto viene en una botella de 200 ml
 - Sin parabenos y con PH neutró
-- Limpie suavemente sin irritar o dañar la piel
 - Adecuado para los recién nacidos
+- Limpie suavemente sin irritar o dañar la piel
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01BM67UCG{{</world>}}

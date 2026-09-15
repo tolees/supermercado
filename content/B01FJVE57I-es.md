@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- EN LA COCCIÓN - la dosis diaria recomendada es de 2 cucharaditas de semillas de sésamo al día; se pueden añadir a productos de panadería, desde pan hasta postres, ensaladas o junto con cereales para un desayuno energético.
-- INGREDIENTES ACTIVOS - Las Semillas de Sésamo CiboCrudo contienen proteínas, carbohidratos y grasas; entre las sales minerales, magnesio, hierro, selenio, potasio y fósforo pero sobre todo mucho calcio.
-- CRUDO ITALIANO - CiboCrudo es el líder italiano en la producción de alimentos naturales orgánicos, integrales, veganos y naturalmente libres de gluten procesados a bajas temperaturas; utiliza únicamente envases bioecocompatibles y reciclables
-- GOMASIO - El gomasio se prepara con semillas de sésamo, un condimento que se puede utilizar en sustitución de la sal, procedente de la tradición japonesa y macrobiótica.
 - SERVICIO SUPERIOR DE GARANTÍA DE DEVOLUCIÓN DE DINERO: en CiboCrudo ponemos a nuestros clientes en primer lugar: no dude en contactarnos para cualquier problema, estaremos encantados de solucionarlo en el corto plazo.
+- GOMASIO - El gomasio se prepara con semillas de sésamo, un condimento que se puede utilizar en sustitución de la sal, procedente de la tradición japonesa y macrobiótica.
 - 100% ORGÁNICO - Semillas de Sésamo crudas, no tostadas, limpiadas y secadas al sol, sin aditivos ni sal ni conservantes, veganas, naturalmente sin gluten y procedentes de agricultura ecológica certificada
+- INGREDIENTES ACTIVOS - Las Semillas de Sésamo CiboCrudo contienen proteínas, carbohidratos y grasas; entre las sales minerales, magnesio, hierro, selenio, potasio y fósforo pero sobre todo mucho calcio.
+- EN LA COCCIÓN - la dosis diaria recomendada es de 2 cucharaditas de semillas de sésamo al día; se pueden añadir a productos de panadería, desde pan hasta postres, ensaladas o junto con cereales para un desayuno energético.
+- CRUDO ITALIANO - CiboCrudo es el líder italiano en la producción de alimentos naturales orgánicos, integrales, veganos y naturalmente libres de gluten procesados a bajas temperaturas; utiliza únicamente envases bioecocompatibles y reciclables
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01FJVE57I{{</world>}}

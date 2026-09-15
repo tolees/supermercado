@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene una maquinilla de afeitar de seguridad de doble filo King C + 5 hojas de doble filo con revestimiento de platino, cepillo de barbero, crema de afeitar 175 ml y suavizante de barba 100 ml
 - El Kit Ritual Heritage para quienes realmente quieren cuidar su barba
-- Infusionado con el aroma característico de King C. Gillette, con notas de sándalo, cedro, bergamota, semillas de cardamomo y mandarina
 - Perfecto tanto para vello facial largo como corto
+- Infusionado con el aroma característico de King C. Gillette, con notas de sándalo, cedro, bergamota, semillas de cardamomo y mandarina
+- Contiene una maquinilla de afeitar de seguridad de doble filo King C + 5 hojas de doble filo con revestimiento de platino, cepillo de barbero, crema de afeitar 175 ml y suavizante de barba 100 ml
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FMQBG11X{{</world>}}

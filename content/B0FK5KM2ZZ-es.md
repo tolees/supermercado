@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Fácil de aplicar con los dedos o aplicador – ideal para resultados duraderos
+- Textura en gel verde claro que se vuelve transparente y actúa como un imán para los pigmentos
 - Fórmula de secado rápido que evita que se marquen los pliegues
 - Mejora la duración de sombras en polvo y en crema
-- Textura en gel verde claro que se vuelve transparente y actúa como un imán para los pigmentos
 - Prebase jelly para sombras que intensifica el color y crea un look impecable
 
 [🛒 Visítala!!!]({{< param buyurl >}})

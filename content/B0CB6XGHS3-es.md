@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- PRODUCTO ANTI ENCRESPAMIENTO: Enriquecido con Bayas de Goji, con vitaminas, minerales y péptidos, controla el encrespamiento de la fibras capilares del cabello y mejora la manejabilidad.
-- NUTRICIÓN PROFUNDA: Formulado con Ácido Oleico y Pantenol para nutrir e hidratar el cabello en profundidad y devolverle toda su vitalidad.
 - ACONDICIONADOR: Acondicionador de nutrición profunda que actúa al instante para nutrir y suavizar el pelo seco, dañado y estresado
 - CUIDADO DEL CABELLO: Utilízalo junto con el champú Nutri Enrich y la mascarilla de pelo para completar tu rutina de cuidado capilar - productos Wella Professionals ¡el regalo ideal para la mujer y su cabello!
+- NUTRICIÓN PROFUNDA: Formulado con Ácido Oleico y Pantenol para nutrir e hidratar el cabello en profundidad y devolverle toda su vitalidad.
+- PRODUCTO ANTI ENCRESPAMIENTO: Enriquecido con Bayas de Goji, con vitaminas, minerales y péptidos, controla el encrespamiento de la fibras capilares del cabello y mejora la manejabilidad.
 - SUAVIDAD: Con Vitamina E para proteger el cabello del estrés y mantener la suavidad y el brillo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

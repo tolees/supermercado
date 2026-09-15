@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Aplicación sin goteo
 - Pegamento decorativo brillante para manualidades, regalos, tarjetas, fotos
 - Efecto de purpurina pastel de caramelo
-- Verde, azul, morado, rosa, rojo, amarillo
-- Aplicación sin goteo
 - Boquilla fina para una aplicación precisa
+- Verde, azul, morado, rosa, rojo, amarillo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B017LP6I4I{{</world>}}

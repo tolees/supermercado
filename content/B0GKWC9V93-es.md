@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 🎉 REGALO PERFECTO Y SALUDABLE: Ideal para regalar en cualquier ocasión: cumpleaños, fiestas o como una sorpresa divertida y saludable. ¡Caramelos sin azúcar con un sabor increíble a cereza que encantará a todos!. ✔️ CALIDAD Y DURABILIDAD PARA EL DÍA A DÍA. Tazas aptas para microondas y lavavajillas, estas tazas están diseñadas para durar.
-- los caramelos divertidos simulando medicamento de broma añaden un toque único y divertido. Ademas la taza de TAMAÑO PERFECTO Con capacidad de 350 ml, son ideales para café, té o chocolate caliente. ¡Un regalo con personalidad para la persona más top! 🍬🎁
 - 📦CAJA SUPER PROTEGIDA. Con un diseño original mundohuevo para que no tengas que comprar papel de regalo🎁. Caja de cartón, segura y reutilizable. Convierte la caja de tu regalo en cajhucha y ahorra de una forma divertida 💸. Además, la podrás conservar tanto tiempo como quieras ya que no es necesario romperla para sacar tus ahorros.
 - 🔝 UN REGALO COMPLETO Y ORIGINAL. No solo son caramelos, ¡es un pequeño homenaje! Este pack trae unos caramelos divertidos sin azúcar (medicamentos de broma) y una bonita taza con mensaje a juego. Ideal para cumpleaños, Navidad, dias especiales o simplemente porque te apetece.
 - 🍭✨ CARAMELOS Y TAZA DIVERTIDOS OCASIÓN ESPECIAL. caramelos divertidos sin azúcar simulando medicamento de broma y una taza original para hacer cada momento más especial! ☕
+- los caramelos divertidos simulando medicamento de broma añaden un toque único y divertido. Ademas la taza de TAMAÑO PERFECTO Con capacidad de 350 ml, son ideales para café, té o chocolate caliente. ¡Un regalo con personalidad para la persona más top! 🍬🎁
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0GKWC9V93{{</world>}}

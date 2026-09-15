@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- País de origen: España
 - Producto sometido a estrictos controles de calidad
 - Elaborado de aceite de oliva refinado y virgen
-- País de origen: España
 - Libre de alérgenos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

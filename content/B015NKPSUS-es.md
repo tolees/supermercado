@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Efecto tiza
 - Fácil de aplicar
 - Producto de calidad óptima
+- Efecto tiza
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B015NKPSUS{{</world>}}

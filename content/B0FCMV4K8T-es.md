@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Puede contener ocasionalmente trozos de cáscara.
+- Alto contenido de fibra
 - Envasado en atmósfera protectora.
 - Apto para dietas vegetarianas y veganas.
-- Alto contenido de fibra
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FCMV4K8T{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fairy Original Cápsulas Lavavajillas Para Máquina Limón 132 Cápsulas'
-date: 2026-09-12 18:22:37
+date: 2026-09-14 09:21:15
 image: 'https://m.media-amazon.com/images/I/51JEm7sybwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CWVQ9SN5/?tag=tolees-21'
 descuento: '35.50'
-average: '21.7754666666665'
+average: '21.7290909090908'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

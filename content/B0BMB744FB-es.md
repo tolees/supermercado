@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Irresistible sabor a fresa-nata
 - Deliciosas piezas en forma de ladrillos recubiertos de pica
 - Geles dulces sabor fresa
+- Irresistible sabor a fresa-nata
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BMB744FB{{</world>}}

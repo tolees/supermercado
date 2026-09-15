@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Beneficios para la salud: La canela de Ceylan en polvo regula el azúcar en sangre, reduce la inflamación, contribuye a la salud del corazón y a reducir la hinchazón y los gases, calma el sistema digestivo y refuerza la inmunidad.
-- Canela verdadera: La canela de Ceilán es una especia premium de Sri Lanka, apreciada por su sabor delicado y dulce y sus numerosos beneficios para la salud. Tiene un color más claro, un sabor más sutil y menos cumarina que la más común canela Cassia.
-- Canela de Ceilán Ecológica: Cultivada sin aditivos ni rellenos, nuestra canela de Ceylán en polvo bio es ideal para dietas veganas, vegetarianas o sin gluten. Es ecológica y sin OGM, lo que garantiza su pureza.
 - Fácil de consumir: Añádela a platos dulces o salados para un toque ligeramente dulce y aromático. Combínala con miel como remedio natural contra resfriados, dolor de garganta y tos o incorpórala a infusiones o agua tibia para favorecer la digestión.
+- Canela de Ceilán Ecológica: Cultivada sin aditivos ni rellenos, nuestra canela de Ceylán en polvo bio es ideal para dietas veganas, vegetarianas o sin gluten. Es ecológica y sin OGM, lo que garantiza su pureza.
+- Canela verdadera: La canela de Ceilán es una especia premium de Sri Lanka, apreciada por su sabor delicado y dulce y sus numerosos beneficios para la salud. Tiene un color más claro, un sabor más sutil y menos cumarina que la más común canela Cassia.
 - Ecológico, ético y sostenible: Los productos NaturaleBio son cultivados responsablemente y elaborados con ingredientes sostenibles, por lo que son perfectos para quienes se preocupan por su salud y buscan superalimentos limpios y de origen vegetal.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

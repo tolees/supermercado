@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Contiene flúor para proteger contra la aparición de caries y placa y fortalecer el esmalte dental
-- Sabor fresa suave
 - Con extracto natural
+- Sabor fresa suave
+- Contiene flúor para proteger contra la aparición de caries y placa y fortalecer el esmalte dental
 - Pasta de dientes para niños
 - Para dientes de leche
 

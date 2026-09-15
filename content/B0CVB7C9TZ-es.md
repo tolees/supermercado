@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hygiene: Keep applicators and tools clean to prevent bacteria buildup that can cause breakouts.
 - Skin Types: Choose products based on your skin type (oily, dry, combination, sensitive) for better results.
+- Hygiene: Keep applicators and tools clean to prevent bacteria buildup that can cause breakouts.
 - Application Techniques: Proper application techniques can enhance the products effectiveness (e.g., using a beauty blender for foundation, layering skincare).
 
 [🛒 Comprar!!!]({{< param buyurl >}})

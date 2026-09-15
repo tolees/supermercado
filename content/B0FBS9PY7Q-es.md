@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Aplicar sobre cabello húmedo. Distribuir en forma de estrella en el cuero cabelludo, masajeando para generar espuma y liberar las notas aromáticas, mientras se distribuye al resto del cabello. Emulsionar y aclarar
-- Bain Vital Dermo-Calm es un champú hidro-calmante para cuero cabelludo sensible con tendencia a grasa que aporta suavidad y ligereza al cabello. Enriquecido con aceite de semilla de calophyllum, piroctona olamina y glicerina, combina un efecto antiinflamatorio y calmante con una acción protectora
 - La siguiente información se aplica a cada unidad del paquete
 - Limpia y calma el cuero cabelludo, reduce el picor del cuero cabelludo, aporta al cabello una sensación ligera y vaporosa
+- Bain Vital Dermo-Calm es un champú hidro-calmante para cuero cabelludo sensible con tendencia a grasa que aporta suavidad y ligereza al cabello. Enriquecido con aceite de semilla de calophyllum, piroctona olamina y glicerina, combina un efecto antiinflamatorio y calmante con una acción protectora
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FBS9PY7Q{{</world>}}

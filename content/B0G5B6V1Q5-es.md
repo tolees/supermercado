@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- NOCILLEAR EN CADA BOCADO 😍🍫: Convierte cualquier momento en una experiencia deliciosa con el inconfundible sabor de Nocilla. Perfectas para disfrutar solo o compartir.
+- ALÉRGENOS ⚠️🥛🌰: Contiene trigo, mantequilla, soja, avellanas, huevo, leche y lactosa. Consérvalas en un lugar fresco y seco para mantener su frescura y textura crujiente.
+- La siguiente información se aplica a cada unidad del paquete
+- SIN ACEITE DE PALMA 🚫🌿: Disfruta de estas galletas sin preocupaciones. Están elaboradas sin aceite de palma, garantizando un sabor delicioso con ingredientes de calidad.
 - NOCILLA MINI COOKIES 🍪🍫: Pequeñas galletas con gotas de chocolate y un cremoso relleno de Nocilla Original. Todo el sabor clásico en un formato mini y delicioso.
 - LLEVÁTELAS CONTIGO 🎒🍪: 4 Packs de 5 galletas (160g), ideales para una merienda rápida, un antojo dulce o para llevar a cualquier parte y disfrutar en cualquier momento.
-- SIN ACEITE DE PALMA 🚫🌿: Disfruta de estas galletas sin preocupaciones. Están elaboradas sin aceite de palma, garantizando un sabor delicioso con ingredientes de calidad.
-- La siguiente información se aplica a cada unidad del paquete
-- ALÉRGENOS ⚠️🥛🌰: Contiene trigo, mantequilla, soja, avellanas, huevo, leche y lactosa. Consérvalas en un lugar fresco y seco para mantener su frescura y textura crujiente.
-- NOCILLEAR EN CADA BOCADO 😍🍫: Convierte cualquier momento en una experiencia deliciosa con el inconfundible sabor de Nocilla. Perfectas para disfrutar solo o compartir.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G5B6V1Q5{{</world>}}

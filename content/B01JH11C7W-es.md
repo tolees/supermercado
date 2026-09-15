@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sistema de cuidado del cabello sin sulfatos
 - Con leche de coco y aceite de coco
 - Deja el cabello nutrido e hidratado
-- Ayuda a hidratar y fortalecer
+- Sistema de cuidado del cabello sin sulfatos
 - Champú profundamente nutritivo
+- Ayuda a hidratar y fortalecer
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01JH11C7W{{</world>}}

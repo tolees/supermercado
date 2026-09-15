@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto de Italia
-- Amaretto
-- Formato/Añada Comercializada actualmente por el productor
 - Caja de 3 Botellas de 70 cl
+- Amaretto
+- Producto de Italia
+- Formato/Añada Comercializada actualmente por el productor
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DD48HXBG{{</world>}}

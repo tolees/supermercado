@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- fácil de usar
-- Producto de alta calidad
 - clinique even better concealer 05 cn 52
+- Producto de alta calidad
+- fácil de usar
 - un producto practico
 
 [🛒 Aquí!!!]({{< param buyurl >}})

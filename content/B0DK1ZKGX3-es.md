@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Respeta el pH de la piel: Su fórmula equilibrada ayuda a mantener la hidratación natural de la piel, siendo apta para el uso diario incluso en pieles sensibles.
-- Nutritivo, hidratante y fácil de aclarar: Gel de baño con textura cremosa que genera una espuma abundante, se aclara fácilmente y deja la piel suave, flexible y delicadamente perfumada.
 - Fabricado con agua de manantial: Gel de baño elaborado con agua de manantial y la experiencia de Tulipán Negro, marca española especializada en productos de higiene personal con fragancias únicas para toda la familia.
 - Fragancia Mandarina y Lima: Gel de baño con fragancia inspirada en la frescura de la mandarina y la lima, pensado para quienes buscan una ducha refrescante y energizante, con un perfume fresco que despierta los sentidos desde la primera aplicación y permanece en la piel.
+- Nutritivo, hidratante y fácil de aclarar: Gel de baño con textura cremosa que genera una espuma abundante, se aclara fácilmente y deja la piel suave, flexible y delicadamente perfumada.
+- Respeta el pH de la piel: Su fórmula equilibrada ayuda a mantener la hidratación natural de la piel, siendo apta para el uso diario incluso en pieles sensibles.
 - Fórmula suave con 85% de ingredientes de origen natural: Gel de baño vegano, libre de parabenos y dermatológicamente testado, formulado para limpiar con delicadeza y cuidar la piel en cada uso.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

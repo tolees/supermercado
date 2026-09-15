@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Deja un aliento fresco
+- Protege contra la caries
 - Suave con esmalte dental
 - Ayuda a blanquear los dientes.
 - Con flúor y minerales
-- Protege contra la caries
+- Deja un aliento fresco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00XAC8IM2{{</world>}}

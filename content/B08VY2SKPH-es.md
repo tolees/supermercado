@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sin conservantes
 - Sensación de frescor y limpieza sin agua.
+- Sin conservantes
 - Con aromas delicados para piel íntima sensible
 - Frescor al instante en cualquier momento
 

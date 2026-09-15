@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Old Spice Captain Desodorante en Barra Hombre 2x50ml + Gel y Champú 2x400ml'
-date: 2026-09-10 18:27:39
+date: 2026-09-13 15:03:56
 image: 'https://m.media-amazon.com/images/I/41-HryuzqjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0C28P3QNS/?tag=tolees-21'
 descuento: '33.26'
-average: '8.8888888888889'
+average: '8.89319148936171'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

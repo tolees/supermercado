@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ALL PROFITS TO THE PLANET: Propiedad de la organización sin ánimo de lucro Fondazione Capellino, Almo Nature reinvierte el 100% de sus beneficios en la protección de la biodiversidad y los derechos de los animales.
 - Potencia la hidratación
-- Rico en Omega3
 - Alta concentración de pescado
+- Rico en Omega3
+- ALL PROFITS TO THE PLANET: Propiedad de la organización sin ánimo de lucro Fondazione Capellino, Almo Nature reinvierte el 100% de sus beneficios en la protección de la biodiversidad y los derechos de los animales.
 - 100% Natural
 
 [🛒 Visítala!!!]({{< param buyurl >}})

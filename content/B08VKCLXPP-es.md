@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- EXPERIENCIA Y TRADICIÓN: Fundada en 1958, esta almazara es una de las mayores y más reconocidas de Andalucía.
-- LIDERAZGO EN PRODUCCIÓN: Como la mayor cooperativa del Grupo Dcoop, recibe aceitunas de más de mil socios de diferentes puntos de la comarca.
-- AUTENTICIDAD NATURAL: Al ser un virgen extra sin filtrar, puede contener posos naturales derivados de la molturación de la aceituna
-- CALIDAD GARANTIZADA: A pesar de su alta producción, mantiene un estándar excepcional que le ha valido múltiples reconocimientos.
 - VARIEDAD Y EXCELENCIA: Sus aceites vírgenes extra destacan por conjugar distintas variedades y procedencias, reflejando un equilibrio perfecto entre cantidad y calidad.
+- CALIDAD GARANTIZADA: A pesar de su alta producción, mantiene un estándar excepcional que le ha valido múltiples reconocimientos.
+- EXPERIENCIA Y TRADICIÓN: Fundada en 1958, esta almazara es una de las mayores y más reconocidas de Andalucía.
 - PREMIO A LA EXCELENCIA: OLEOALGAIDAS ha sido galardonada con el "Premio Mejor Maestro de Almazara" de DCOOP en la categoría de aceite arbequino para la campaña 2025/26
+- AUTENTICIDAD NATURAL: Al ser un virgen extra sin filtrar, puede contener posos naturales derivados de la molturación de la aceituna
+- LIDERAZGO EN PRODUCCIÓN: Como la mayor cooperativa del Grupo Dcoop, recibe aceitunas de más de mil socios de diferentes puntos de la comarca.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08VKCLXPP{{</world>}}

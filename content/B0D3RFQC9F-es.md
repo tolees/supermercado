@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Envasado en Alemania
-- Apto para dietas vegetarianas
 - Patatas fritas crujientes con pimentón salado, ahumado y ligeramente picante
 - Conservar en un lugar fresco y seco
 - Este envase contiene aproximadamente 5 porciones
+- Apto para dietas vegetarianas
+- Envasado en Alemania
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D3RFQC9F{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Sin perfumes
+- Fabricado con un 99% de ingredientes de origen natural
 - Cepillo de base biológica fabricado con fibras 100% biológicas
 - Envase fabricado con materiales reciclados
-- Fabricado con un 99% de ingredientes de origen natural
-- Sin perfumes
 - Resistente al agua
 
 [🛒 Comprar!!!]({{< param buyurl >}})

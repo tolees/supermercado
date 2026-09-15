@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para hacer espressos
 - Cafetera hogareña
 - Mejora la experiencia de beber café
+- Para hacer espressos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08THG8F8X{{</world>}}

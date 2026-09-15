@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Smileat - Pack de 10 Pouch de Frutas - Sin Sal ni Azúcar Añadido Sin Gluten - Snack Práctico para Peques - Sabor a Fresa y Plátano'
-date: 2026-09-13 01:50:36
+date: 2026-09-14 06:49:59
 image: 'https://m.media-amazon.com/images/I/41GJAWEJ8sL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B071H34GSS/?tag=tolees-21'
 descuento: '32.19'
-average: '11.0973076923078'
+average: '11.0825000000001'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

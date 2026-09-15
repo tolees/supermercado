@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CHAMPÚ CON FÓRMULA SUPERIOR: alimenta el cabello con los nutrientes activos de Pro-V para fortalecerlo desde dentro hacia fuera
-- BUENO PARA TI Y PARA EL PLANETA: 0 % aceites minerales, 0 % colorantes y frasco reciclable hecho con plástico 100 % reciclado (excluyendo el tapón y los colorantes)
-- TIPO DE CABELLO: este champú Pantene es para cabello débil y dañado
-- El champú 3en1 Repara & Protege de Pantene revierte instantáneamente los signos del cabello débil y dañado como la falta de suavidad y brillo
-- Limpia, desenreda y trata al mismo tiempo Previene la formación de puntas abiertas y proporciona un brillo y una suavidad saludables al cabello
 - Producto capilar Pantene probado por el Instituto Vitamínico Suizo
+- BUENO PARA TI Y PARA EL PLANETA: 0 % aceites minerales, 0 % colorantes y frasco reciclable hecho con plástico 100 % reciclado (excluyendo el tapón y los colorantes)
+- CHAMPÚ CON FÓRMULA SUPERIOR: alimenta el cabello con los nutrientes activos de Pro-V para fortalecerlo desde dentro hacia fuera
+- TIPO DE CABELLO: este champú Pantene es para cabello débil y dañado
+- Limpia, desenreda y trata al mismo tiempo Previene la formación de puntas abiertas y proporciona un brillo y una suavidad saludables al cabello
+- El champú 3en1 Repara & Protege de Pantene revierte instantáneamente los signos del cabello débil y dañado como la falta de suavidad y brillo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08YG7XXLC{{</world>}}

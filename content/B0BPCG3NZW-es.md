@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- DISEÑO ELEGANTE: El sofisticado frasco, coronado con un tapón en forma de gema, es la adición optimo para su aparador de perfumes de lujo
 - LUJO SENSUAL: El fuego y la seducción del eau de parfum Paradiso Assoluto transmiten un lujo y encanto irresistibles; el perfume para mujer que atrae a todo el mundo
-- EXPRÉSESE: Con sus notas frescas y soleadas, Paradiso es un perfume para mujeres sofisticadas y llenas de vitalidad, que ven la vida como un paraíso terrenal
 - LEGADO PRESTIGIOSO: Fundada en los 70, Roberto Cavalli es un icono del glamour italiano y nuestros perfumes para mujer están pensados para que se exprese tal como es
+- EXPRÉSESE: Con sus notas frescas y soleadas, Paradiso es un perfume para mujeres sofisticadas y llenas de vitalidad, que ven la vida como un paraíso terrenal
+- DISEÑO ELEGANTE: El sofisticado frasco, coronado con un tapón en forma de gema, es la adición optimo para su aparador de perfumes de lujo
 - FRAGANCIA PARA MUJER: Una mezcla floral y especiada con pimienta rosa, glicina, jazmín y lirio rojo sobre una base suave de pachuli, sándalo y vainilla
 
 [🛒 Aquí!!!]({{< param buyurl >}})

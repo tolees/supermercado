@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Consumirla entre 2 y 4 grados C para obtener sus máximas cualidades
 - Cerveza nitrogenada de color negro rubí con una espuma cremosa blanca marfil y aroma a café torrefacto
 - Con 4.2% de alcohol en volumen
 - Cerveza negra de tipo ale y estilo stout
+- Consumirla entre 2 y 4 grados C para obtener sus máximas cualidades
 - Ingredientes: agua, malta pilsen, CEBADA tostada, lúpulo y la exclusiva levadura de Guinness
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

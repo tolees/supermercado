@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - De color dorado, con una espuma blanca consistente; sabor afrutado con suaves notas de malta
 - Ingredientes: Agua, malta de cebada, aroma natural, extracto de lúpulo
 - La que reposa en tanques horizontales durante 28 días para proporcionar la presión óptima a la levadura
-- Cerveza tipo y estilo Lager, con 0,0 percent de alcohol en volumen
 - Consumirla entre 2° y 4°C para obtener sus óptimas cualidades
+- Cerveza tipo y estilo Lager, con 0,0 percent de alcohol en volumen
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B06XRR7NBQ{{</world>}}

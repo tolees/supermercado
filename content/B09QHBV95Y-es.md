@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 🎁 Nuestros packs de cerveza artesana son el regalo perfecto.
-- 🍺 ¿Te van los aperitivos y las barbacoas?, ¿vienen días de campo, de playa o de montaña, o simplemente tienes sed de algo bueno? Pues este es tu pack degustación de cerveza artesana Arriaca.
 - 🏆 Premios: Todas nuestras variedades han sido premiadas en certámenes cerveceros de reconocido prestigio, tanto nacionales como internacionales.
+- 🍺 ¿Te van los aperitivos y las barbacoas?, ¿vienen días de campo, de playa o de montaña, o simplemente tienes sed de algo bueno? Pues este es tu pack degustación de cerveza artesana Arriaca.
 - 📦 Contiene tres de nuestras cervezas ideales para el aperitivo: 4 botellas de Arriaca CRAFT RADLER 33cl (2,7% alc) con limón natural + 4 botellas de Arriaca RUBIA 33cl (4,3% alc), refrescante y ligera + 4 botellas de Arriaca TRIGO 33cl (4,7% alc), suave y afrutada.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

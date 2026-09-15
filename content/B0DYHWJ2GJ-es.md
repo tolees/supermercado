@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con un 5% de escualano
 - Deja los labios suaves reparados y rellenos
 - Bálsamo labial ultrahidratante y cremoso
+- Con un 5% de escualano
 - Dulce aroma a vainilla que querrás reaplicar 24/11
 - Su aplicador envuelve los labios y proporciona un efecto calamante
 

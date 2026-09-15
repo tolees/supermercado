@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fórmula enriquecida con arginina, biotina y vitamina B5
-- Protege de la rotura del cabello
 - Deja el cabello suave
+- Protege de la rotura del cabello
+- Fórmula enriquecida con arginina, biotina y vitamina B5
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B086F9M5DD{{</world>}}

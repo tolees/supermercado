@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sabor de hierbabuena
-- Chicles de mentol
-- Ofrece un alineto fresco
-- Sin azúcar
 - Conservar en lugar fresco y seco
+- Ofrece un alineto fresco
+- Sabor de hierbabuena
+- Sin azúcar
+- Chicles de mentol
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01DUWIBL4{{</world>}}

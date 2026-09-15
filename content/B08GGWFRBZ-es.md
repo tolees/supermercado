@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Caja estuche de 2 Botellas x 750 ml de Marqués de Riscal Vino tinto Reserva D.O. Ca. Rioja, Su elegante estilo y acabado, hacen de este estuche el regalo perfecto en ocasiones especiales
 - Este vino marida bien con jamón, quesos no muy curados, guisos con salsas no muy especiadas, legumbres cocidas o guisadas, aves, carnes rojas, carnes a la parrilla y asados
-- En boca es fresco, con taninos pulidos muy agradables, con buena estructura pero fácil de beber, El final de boca es largo y deja unos leves recuerdos balsámicos de gran calidad
-- En nariz es muy expresivo con notas de regaliz, canela y pimienta negra, donde la larga crianza en madera apenas se percibe, gracias a su gran complejidad y concentración de fruta madura
 - Vino de color cereza muy cubierto, intenso y con apenas signos de evolución, Elaborado en gran parte a partir de uvas de la variedad tempranillo plantadas antes de los años 70 en la Rioja Alavesa
+- En boca es fresco, con taninos pulidos muy agradables, con buena estructura pero fácil de beber, El final de boca es largo y deja unos leves recuerdos balsámicos de gran calidad
+- Caja estuche de 2 Botellas x 750 ml de Marqués de Riscal Vino tinto Reserva D.O. Ca. Rioja, Su elegante estilo y acabado, hacen de este estuche el regalo perfecto en ocasiones especiales
+- En nariz es muy expresivo con notas de regaliz, canela y pimienta negra, donde la larga crianza en madera apenas se percibe, gracias a su gran complejidad y concentración de fruta madura
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08GGWFRBZ{{</world>}}

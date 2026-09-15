@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Cuida el cabello largo y sedoso.
+- La fórmula nutritiva hidrata.
 - La leche Dream Length No Spliss combate las puntas abiertas.
 - Aplicar sobre el cabello seco o mojado. No aclarar.
-- La fórmula nutritiva hidrata.
-- Cuida el cabello largo y sedoso.
 - Ideal como protección contra el calor antes del secador o alisado.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

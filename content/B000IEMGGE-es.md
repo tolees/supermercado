@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- ACABADO SUAVE: Los polvos compactos de maquillaje son ideales para unificar el tono en pieles no uniformes, con arrugas y líneas de expresión. Una base ligera de alto rendimiento para pieles maduras.
 - COBERTURA ACUMULABLE: La cobertura que deseas, sin efecto apelmazado. La base translúcida de maquillaje de Laura Geller es ligera y cremosa, dejando un acabado impecable en todo tipo de piel.
 - FÓRMULA PREMIADA: Este icónico maquillaje base de Laura Geller se elabora a mano en Italia con polvos prensados que crean un lienzo perfecto y un acabado semimate para un aspecto radiante e impecable.
-- ACABADO SUAVE: Los polvos compactos de maquillaje son ideales para unificar el tono en pieles no uniformes, con arrugas y líneas de expresión. Una base ligera de alto rendimiento para pieles maduras.
 - FÁCIL APLICACIÓN: Pasa la brocha por el polvo compacto de maquillaje, aplica y difumina hacia afuera y hacia arriba. Repite para aumentar la cobertura y lograr un acabado natural y uniforme.
 - PARA PIELES SENSIBLES: Las bases de maquillaje Balance-n-Brighten de Laura Geller han recibido el National Rosacea Society Seal of Acceptance y están aprobadas por la Fundación Nacional de Psoriasis.
 

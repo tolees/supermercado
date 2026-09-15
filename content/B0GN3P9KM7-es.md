@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Desodorante que proporciona protección durante 72 horas contra el mal olor.
-- Fragancia exclusiva con notas de vainilla, sándalo, almizcle y limón.
 - Desodorante en formato aerosol 150ml
-- Desodorante Axe Aerosol Marshmellow 150ml pack de 6
+- Desodorante que proporciona protección durante 72 horas contra el mal olor.
 - Desodorante sin aluminio y sin alcohol.
+- Fragancia exclusiva con notas de vainilla, sándalo, almizcle y limón.
+- Desodorante Axe Aerosol Marshmellow 150ml pack de 6
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0GN3P9KM7{{</world>}}

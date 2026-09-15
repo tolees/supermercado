@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Aussie Oh My Gloss Champú Sin Sulfatos Brillo Intenso 1L'
-date: 2026-09-10 21:17:22
+date: 2026-09-14 08:16:31
 image: 'https://m.media-amazon.com/images/I/31iFqnHJY2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

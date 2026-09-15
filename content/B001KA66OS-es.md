@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuidarse y sentirse bien nunca había sido tan fácil.
 - All about eyes rich 15 ml
+- Cuidarse y sentirse bien nunca había sido tan fácil.
 - Los mejores productos de higiene para tu día a día.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

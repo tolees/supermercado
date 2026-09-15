@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CEPILLO TUBING EXTENDER: Cerdas piramidales y punta esférica que agarran, separan y extienden incluso las pestañas más cortas.
-- EXTENSIÓN INMEDIATA: Nueva mascara que envuelve cada pestaña en tubos flexibles para una longitud tipo extensiones desde la primera pasada.
-- RESULTADO DE LARGA DURACIÓN: Disfruta hasta 24H de uso con acabado alargado, definición precisa y look resistente durante todo el día.
-- TECNOLOGÍA DE TUBOS: Polímeros que envuelven cada pestaña creando tubos que se retiran fácilmente con agua tibia sin arrastrar ni romper.
 - RESISTENTE A TODO: Fórmula a prueba de manchas, a prueba de sudor y resistente al agua fría para mantener tus pestañas impecables sin manchas.
+- RESULTADO DE LARGA DURACIÓN: Disfruta hasta 24H de uso con acabado alargado, definición precisa y look resistente durante todo el día.
+- EXTENSIÓN INMEDIATA: Nueva mascara que envuelve cada pestaña en tubos flexibles para una longitud tipo extensiones desde la primera pasada.
+- TECNOLOGÍA DE TUBOS: Polímeros que envuelven cada pestaña creando tubos que se retiran fácilmente con agua tibia sin arrastrar ni romper.
+- CEPILLO TUBING EXTENDER: Cerdas piramidales y punta esférica que agarran, separan y extienden incluso las pestañas más cortas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0G52CKKMT{{</world>}}

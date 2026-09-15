@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pasta rellena con un toque de aceite de oliva virgen extra
 - Adecuada para acompañarla con cualquier salsa para pasta
-- Lista en menos de 20 minutos
 - Elaborada con ingredientes cuidadosamente seleccionados
+- Pasta rellena con un toque de aceite de oliva virgen extra
+- Lista en menos de 20 minutos
 - Apta para 3 raciones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

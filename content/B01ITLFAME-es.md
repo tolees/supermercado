@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuida, protege y nutre el cabello
-- 100% cobertura de canas
-- Excellence Creme Triple Cuidado asegura un 100% de cobertura de canas cuidando tu cabello en cada etapa de la coloracion
-- Color rico y radiante
 - En solo 3 pasos consigue un color rico y duradero
+- Excellence Creme Triple Cuidado asegura un 100% de cobertura de canas cuidando tu cabello en cada etapa de la coloracion
+- 100% cobertura de canas
+- Cuida, protege y nutre el cabello
+- Color rico y radiante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01ITLFAME{{</world>}}

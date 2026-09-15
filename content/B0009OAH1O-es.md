@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este producto está indicado para mujeres.
 - De la marca Burberry.
+- Este producto está indicado para mujeres.
 - Las notas olfativas principales de este producto son amaderado y afrutado.
 - Contiene 50 ml.
 

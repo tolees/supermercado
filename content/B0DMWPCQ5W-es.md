@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Desmaquilla, limpia y suaviza todo el rostro: cara, ojos, labios
-- Fórmula suave sin perfume adecuada para todo tipo de pieles, incluso las sensibles
-- Para pieles mixtas a grasas
+- Contiene SPF 25 para proteger la piel
 - Su fórmula permite que la piel respire mientras corrige las imperfecciones
 - Con micelas que actúan como imanes para capturar la suciedad
-- Contiene SPF 25 para proteger la piel
 - Formulado con ácido hialurónico, pigmentos minerales y aloe vera
+- Para pieles mixtas a grasas
+- Fórmula suave sin perfume adecuada para todo tipo de pieles, incluso las sensibles
 - Sin aclarar
+- Desmaquilla, limpia y suaviza todo el rostro: cara, ojos, labios
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DMWPCQ5W{{</world>}}

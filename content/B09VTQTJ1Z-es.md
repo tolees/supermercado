@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% aceite de oliva
-- Alta fuente de proteínas de los ingredientes 100% naturales
 - Sin gluten
-- Sin aceite de palma
+- 100% aceite de oliva
 - Sin sal añadida
+- Sin aceite de palma
+- Alta fuente de proteínas de los ingredientes 100% naturales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09VTQTJ1Z{{</world>}}

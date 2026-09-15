@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- TAPA DE ORIGEN BIO – Tapa fabricada con material de origen BIO, con certificación ISCC siguiendo el enfoque del balance de masas. Conservar en el envase original en lugar oscuro y seco una vez abierto.
+- 1 PAQUETE DE 500 GRAMOS - 500 gramos de café molido.
 - COMPATIBLE CON CAFETERA ITALIANA, FILTRO Y PISTÓN – Preparación sencilla, apto para cafetera tradicional o italiana, cafetera de filtro y cafetera de pistón.
 - INTENSIDAD MÁXIMA 12 DE 12 – Café molido con nivel de intensidad 12 en una escala del 1 al 12. El café más intenso y profundo de la gama Marcilla Gran Aroma.
-- 1 PAQUETE DE 500 GRAMOS - 500 gramos de café molido.
-- TAPA DE ORIGEN BIO – Tapa fabricada con material de origen BIO, con certificación ISCC siguiendo el enfoque del balance de masas. Conservar en el envase original en lugar oscuro y seco una vez abierto.
 - MÁS DE 100 AÑOS DE TRADICIÓN – Más de 100 años seleccionando café, para poder ofrecerte a ti y los tuyos todo el aroma y sabor del mejor café.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

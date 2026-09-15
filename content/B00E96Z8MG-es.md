@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Oreo original en 5 bolsitas individuales, adecuadas para llevar y disfrutar donde quieras
-- Galletas de cacao rellenas de una deliciosa crema con sabor a vainilla
 - Conservar en lugar fresco y seco
-- Combina la textura crujiente de las láminas de galleta con la suavidad y la cremosidad de la nata
 - Alérgenos: contiene cereales con gluten y soja; puede contener leche
+- Galletas de cacao rellenas de una deliciosa crema con sabor a vainilla
+- Combina la textura crujiente de las láminas de galleta con la suavidad y la cremosidad de la nata
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00E96Z8MG{{</world>}}

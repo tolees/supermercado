@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nota de cata (nariz): Sobresalen los aromas de fruta roja madura, que reflejan la tipicidad de la uva, y se ven complementados con finos matices de vainilla de su estancia en barrica.
-- Nota de cata (vista): Color rojo púrpura de intensidad alta con tonos azulados.
-- La temperatura de consumo recomendada es de 14ºC. Es un vino listo para disfrutar, si bien puede evolucionar favorablemente durante los 3-4 próximos años.
 - Nota de cata (boca): Vino goloso, equilibrado y redondo.
+- La temperatura de consumo recomendada es de 14ºC. Es un vino listo para disfrutar, si bien puede evolucionar favorablemente durante los 3-4 próximos años.
+- Nota de cata (vista): Color rojo púrpura de intensidad alta con tonos azulados.
+- Nota de cata (nariz): Sobresalen los aromas de fruta roja madura, que reflejan la tipicidad de la uva, y se ven complementados con finos matices de vainilla de su estancia en barrica.
 - Varietales: Tinto fino 100 percent
 
 [🛒 Comprar!!!]({{< param buyurl >}})

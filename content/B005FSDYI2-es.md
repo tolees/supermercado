@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- HIDRATANTE VAGINAL: Gracias al Aloe Vera, nuestro hidratante vaginal alivia la sequedad y proporciona una sensación inmediata de frescura y confort tras cada uso.
-- VEGANO SIN PERFUME NI ALCOHOL: Fórmula sin perfume, sin alcohol y sin ingredientes de origen animal. Apto para veganas, respetuoso con el ph de tu piel y con el medio ambiente.
 - PH NEUTRO PARA PIEL SENSIBLE: El jabon intimo contiene Aloe Vera Ácido Láctico, que ayuda a mantener el equilibrio del pH neutro, ideal para mujeres con piel delicada o propensas a molestias íntimas.
-- TESTADO DERMATOLOGICAMENTE: Aplicar el gel intimo sobre la zona a limpiar previamente humedecida. Realizar un suave masaje y aclarar con agua.
 - GEL INTIMO MUJER: Este gel íntimo está diseñado para la higiene intima diaria de la mujer, proporcionando una limpieza delicada sin alterar el pH natural de la piel.
+- VEGANO SIN PERFUME NI ALCOHOL: Fórmula sin perfume, sin alcohol y sin ingredientes de origen animal. Apto para veganas, respetuoso con el ph de tu piel y con el medio ambiente.
+- TESTADO DERMATOLOGICAMENTE: Aplicar el gel intimo sobre la zona a limpiar previamente humedecida. Realizar un suave masaje y aclarar con agua.
+- HIDRATANTE VAGINAL: Gracias al Aloe Vera, nuestro hidratante vaginal alivia la sequedad y proporciona una sensación inmediata de frescura y confort tras cada uso.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B005FSDYI2{{</world>}}

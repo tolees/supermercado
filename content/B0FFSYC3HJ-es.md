@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Comodidad
 - Larga duración, hasta 8h
-- Textura cremosa y suave
+- Comodidad
 - La siguiente información se aplica a cada unidad del paquete
+- Textura cremosa y suave
 - Color intenso
 - Tecnología Color Protect para un color inalterable
 

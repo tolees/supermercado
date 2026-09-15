@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Desarrollada por nutricionistas de mascotas y aprobada por veterinarios.
 - Sin aromas artificiales, colorantes, conservantes ni antioxidantes añadidos.
+- Desarrollada por nutricionistas de mascotas y aprobada por veterinarios.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08GD8Y21W{{</world>}}

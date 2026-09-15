@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Se puede compartir con amigos o familiares
 - Snack de patatas fritas
 - Bolsa en formato familiar de 242 gramos
-- Se puede compartir con amigos o familiares
 - Las Lays campesinas con aromas vegetales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

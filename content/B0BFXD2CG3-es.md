@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Apto para una dieta SIN GLUTEN; chocolate con aromas naturales
 - NESTLÉ POSTRES NEGRO es una tableta de chocolate especialmente pensada para darle un toque delicisoso a tus postres y recetas de chocolate
 - Deliciosa tableta de chocolate negro para fundir.
-- Deliciosa tableta de chocolate negro para fundir
 - Apto para una dieta SIN GLUTEN; chocolate con aromas naturales
-- 100% Cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan; certificado Rainforest Alliance
 - NESTLÉ POSTRES NEGRO es una tableta de chocolate especialmente pensada para darle un toque delicisoso a tus postres y recetas de chocolate
-- Apto para una dieta SIN GLUTEN; chocolate con aromas naturales
+- Deliciosa tableta de chocolate negro para fundir
+- 100% Cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan; certificado Rainforest Alliance
 - Pack 20 unidades
 
 [🛒 Aquí!!!]({{< param buyurl >}})

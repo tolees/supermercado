@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para blancos y colores
 - Poder anti manchas incluso en frío
 - Aporta luminosidad a tus prenda
+- Para blancos y colores
 - Su fórmula penetra en profundidad y elimina las manchas resecas
 - Detergente en polvo con poder quitamanchas
 

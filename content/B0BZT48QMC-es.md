@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sabor a fresa
 - Deliciosas piezas redondeadas recubiertas de azúcar
+- Sabor a fresa
 - Conservar en lugar fresco y seco
 - Caramelos de goma
 

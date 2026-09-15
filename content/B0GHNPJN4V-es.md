@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Prepáralo en casa como a ti te gusta
-- Cápsulas hechas con al menos 80% de aluminio reciclado
 - Café 100% Arábica, de tueste suave
+- Prepáralo en casa como a ti te gusta
 - Cápsulas compatibles con máquina Nespresso
 - STARBUCKS Café Aromatizado Pack Variado de Nespresso, 60 Cápsulas
+- Cápsulas hechas con al menos 80% de aluminio reciclado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0GHNPJN4V{{</world>}}

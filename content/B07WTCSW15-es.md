@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un café 100% natural tostado en Italia
 - Compatible con cafeteras NESPRESSO
 - El delicioso sabor y aroma del café recién hecho en una pequeña cápsula de 5.6 gramos
-- Visite nuestra BRAND STORE para descubrir toda la selección NOTE DESPRESSO enlace directo debajo del título del producto
 - Dosis recomendada de agua 25 ml - 40 ml
 - Práctica caja de 100 capsulas, totalmente certificada con barrera de oxigeno, se pueden mantener fuera de las bolsas, no pierden su aroma. Buena elección para aquellos que usen porta capsulas o almacenamiento
+- Un café 100% natural tostado en Italia
+- Visite nuestra BRAND STORE para descubrir toda la selección NOTE DESPRESSO enlace directo debajo del título del producto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07WTCSW15{{</world>}}

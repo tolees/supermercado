@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Piqué elástico de algodón, 210 g
 - 100% algodón
+- Piqué elástico de algodón, 210 g
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DV8G6QZ4{{</world>}}

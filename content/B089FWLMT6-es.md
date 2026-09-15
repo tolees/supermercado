@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Perfecta para toda la familia
 - Bebida refrescante de sandía
 - Sabor fresco y veraniego
-- Lista para consumir
 - Botella PET 1,5L
+- Lista para consumir
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B089FWLMT6{{</world>}}

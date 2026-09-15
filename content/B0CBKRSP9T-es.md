@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Estrella Levante | Cerveza 4 8º caja de 24 Latas de 33 cl.'
-date: 2026-09-11 09:42:34
+date: 2026-09-14 09:50:10
 image: 'https://m.media-amazon.com/images/I/41rRfKBXySL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CBKRSP9T/?tag=tolees-21'
 descuento: '27.83'
-average: '12.8233333333333'
+average: '12.8649999999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

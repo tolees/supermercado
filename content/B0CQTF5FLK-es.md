@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vileda Professional Bayeta microfibra PurMicro Active Gris 5uds PUR 38x35cm'
-date: 2026-09-09 17:56:44
+date: 2026-09-13 20:50:47
 image: 'https://m.media-amazon.com/images/I/31PQyuPaJBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

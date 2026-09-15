@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sin conservantes
 - Aptas para vegetarianos
-- Las tortillas de Old El Paso se caracterizan por su magnífico sabor y calidad
+- Sin conservantes
 - Textura tierna y flexible para que puedas enrollarlas a tu gusto
 - La base de las recetas mexicanas más conocidas: fajitas y burritos
+- Las tortillas de Old El Paso se caracterizan por su magnífico sabor y calidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00XDR3EZK{{</world>}}

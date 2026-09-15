@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Geles dulces
 - Deliciosas piezas de regaliz enrolladas en forma de disco
 - De distintos colores y sabores con un toque ácido
-- Geles dulces
 - Conservar en lugar fresco y seco
 
 [🛒 Aquí!!!]({{< param buyurl >}})

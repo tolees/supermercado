@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Garnier Fructis Style Espuma Hidra-Rizos 5 Acciones 200 ml'
-date: 2026-07-14 18:28:30
+date: 2026-09-13 12:06:25
 image: 'https://m.media-amazon.com/images/I/31AgM9gO0VL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K7S6FXK/?tag=tolees-21'
 descuento: '11.80'
-average: '2.98666666666667'
+average: '2.988'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Extracto de bambú
-- Espuma con cinco acciones
-- Con activo hidratante
-- Rizos vivos y elásticos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01K7S6FXK{{</world>}}

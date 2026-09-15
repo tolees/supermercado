@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- VALORES NUTRICIONALES: Disfruta de los beneficios del salmón, rico en Omega-3, que favorece una alimentación saludable. Una opción nutritiva y deliciosa lista para disfrutar.
 - CONSERVAS 100% NATURALES: USISA mantiene su compromiso con la autenticidad, ofreciendo conservas de pescado totalmente naturales, sin aditivos ni conservantes.
 - SALMÓN EN ACEITE DE OLIVA: Sumérgete en la exquisitez del salmón de USISA, presentado en un práctico pack de 6 latas de 85g cada una. Un manjar que combina el sabor intenso del salmón con la suavidad del aceite de oliva.
+- VALORES NUTRICIONALES: Disfruta de los beneficios del salmón, rico en Omega-3, que favorece una alimentación saludable. Una opción nutritiva y deliciosa lista para disfrutar.
 - ELABORACIÓN ARTESANAL: Cada lata de salmón refleja la dedicación y cuidado en su elaboración por parte de manos artesanas que pelan y estiban los trozos de salmón en cada lata.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

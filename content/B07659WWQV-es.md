@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Sin Gluten. Sin Lactosa
-- Ayuda a mantener un vientre plano.
 - Tomar 1 stick diario diluido en medio litro de agua para ir bebiendo durante el día.
+- Ayuda a mantener un vientre plano.
 - Ayuda a quemar las grasas.
 - Ayuda a eliminar las toxinas del organismo.
 

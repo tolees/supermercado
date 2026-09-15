@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Conservar en un lugar fresco y seco
 - Envasado en Alemania
-- Palitos de patata frita con sabor a pimentón
+- Conservar en un lugar fresco y seco
 - Apto para dietas vegetarianas
+- Palitos de patata frita con sabor a pimentón
 - Este envase contiene aproximadamente 4 porciones
 
 [🛒 Visítala!!!]({{< param buyurl >}})

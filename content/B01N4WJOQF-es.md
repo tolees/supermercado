@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Alto en proteínas - más de 23g por dosis
-- ¡Batido de proteínas de calidad superior que abre nuevos horizontes en la formulación y el sabor de las proteínas!
+- Bajo en grasas - menos de 1.4g por dosis
 - Creado con una innovadora combinación TRI-Proteica de concentrado de proteína de suero, aislado de proteína de suero, proteína de leche, proteína de soja e hidrolizado de proteína de suero
 - Sin azúcares añadidos
-- Bajo en grasas - menos de 1.4g por dosis
+- Alto en proteínas - más de 23g por dosis
+- ¡Batido de proteínas de calidad superior que abre nuevos horizontes en la formulación y el sabor de las proteínas!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01N4WJOQF{{</world>}}

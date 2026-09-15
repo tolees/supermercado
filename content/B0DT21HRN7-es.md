@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Modo de empleo: sostener la botella en posición vertical. Pulverizar a 15 cm de la piel. Uso externo en la ropa. Evita el contacto visual.
-- NOTAS SUPERIORES: Salvia romana francesa
-- Contenido del paquete: 1 perfume de 100 ml
-- Notas medias: jazmín egipcio, marino
-- Notas de corazón - Jazmín egipcio, marino
 - Notas altas - Salvia sclarea francesa
-- El corazón aporta una mezcla exótica de jazmín egipcio y notas marinas, añadiendo una profundidad floral con una frescura acuática, evocando la sensación de brisa marina.
 - Esta fragancia se abre con la frescura herbácea y ligeramente terrosa de la salvia esclarea francesa, proporcionando un inicio limpio y aromático.
+- NOTAS SUPERIORES: Salvia romana francesa
+- Modo de empleo: sostener la botella en posición vertical. Pulverizar a 15 cm de la piel. Uso externo en la ropa. Evita el contacto visual.
+- Notas medias: jazmín egipcio, marino
+- El corazón aporta una mezcla exótica de jazmín egipcio y notas marinas, añadiendo una profundidad floral con una frescura acuática, evocando la sensación de brisa marina.
+- Contenido del paquete: 1 perfume de 100 ml
+- Notas de corazón - Jazmín egipcio, marino
 - Notas de base: ámbar gris, notas minerales, ámbar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

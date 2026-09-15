@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Conservar en un lugar fresco y seco
-- Leche entera UHT
 - Apto para dietas vegetarianas
 - Este envase contiene 5 porciones
+- Leche entera UHT
 - Producto de Francia
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Deja una agradable sensación de frescor
 - Fácil de usar
 - Elimina el mal olor de raíz
-- Deja una agradable sensación de frescor
 - Elimina el 99,9% de los virus, hongos y bacterias
 - Elaborado para el interior del calzado
 

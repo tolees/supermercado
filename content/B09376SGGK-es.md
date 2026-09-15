@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- AMIGABLE CON LA PIEL: Adoptando la extracción de pigmentos vegetales naturales, que es segura y asegurada, no irrita la piel. Los materiales amigables son seguros tanto para niños como para adultos. Adecuado para usted, amigos, niños y pintores faciales profesionales.
-- KIT DE MAQUILLAJE PERFECTO: ¡Esta pintura corporal de 20 colores con pincel de maquillaje profesional (10 piezas / juego), idea para crear looks locos! Como fiesta de fogata, fiesta temática divertida, carnavales, baile de fantasía, disfraces, actuaciones de festivales, fiestas, Halloween y otras ocasiones.
 - FÁCIL DE USAR Y LIMPIAR: Esta es una pintura facial a base de aceite, NO a base de agua y es fácil de usar. Se lava fácilmente con aceite de oliva o con un desmaquillador profesional a prueba de agua.
+- KIT DE MAQUILLAJE PERFECTO: ¡Esta pintura corporal de 20 colores con pincel de maquillaje profesional (10 piezas / juego), idea para crear looks locos! Como fiesta de fogata, fiesta temática divertida, carnavales, baile de fantasía, disfraces, actuaciones de festivales, fiestas, Halloween y otras ocasiones.
 - PORTAL Y CONVENIENCIA: 20 colores en total, los colores se pueden sombrear juntos fácilmente para obtener una amplia variedad de efectos, es portátil y práctico, y se puede combinar en cualquier momento y en cualquier lugar.
+- AMIGABLE CON LA PIEL: Adoptando la extracción de pigmentos vegetales naturales, que es segura y asegurada, no irrita la piel. Los materiales amigables son seguros tanto para niños como para adultos. Adecuado para usted, amigos, niños y pintores faciales profesionales.
 - MULTI-OCASIÓN: 20 colores flash Tattoo Face Body Paint es adecuado para crear muchos estilos diferentes, satisfacer las necesidades de diferentes ocasiones.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

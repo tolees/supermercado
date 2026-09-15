@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Orlando Tomate Frito 0 0 Brik 350g'
-date: 2026-05-09 08:36:26
+date: 2026-09-14 17:55:56
 image: 'https://m.media-amazon.com/images/I/41gZXwn-q4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00A92NA1K/?tag=tolees-21'
 descuento: '28.06'
-average: '1.022'
+average: '1.01833333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene un sabor casero
-- Producto sin conservantes ni gluten
-- Elaborado con tomates cuidadosamente seleccionados y cosechados
-- No contiene sal ni azúcar añadido
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00A92NA1K{{</world>}}

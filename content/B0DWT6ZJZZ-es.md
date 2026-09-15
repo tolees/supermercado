@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiernos trozos finamente cortados, en una transparente y elegante gelatina
 - Elaborado con ingredientes de alta calidad
-- Alimento 100% completo y equilibrado
 - Reciclable. Por favor separe la tapa de la pirámide
+- Tiernos trozos finamente cortados, en una transparente y elegante gelatina
+- Alimento 100% completo y equilibrado
 - Con una forma perfecta para ofrecer una exquisita experiencia culinaria
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Intensidad 3/5
 - Tostado y envasado en Bélgica
 - Apto para dietas vegetarianas y veganas
-- CERTIFICACIÓN RAINFOREST ALLIANCE: La procedencia del café utilizado para este producto goza de la certificación Rainforest Alliance, lo que significa que no solo sabe bien, sino que también tiene un impacto positivo. Con cada compra, ayuda a cientos de agricultores y sus familias en todo el mundo, además de aportar su granito a la selva tropical; beber mejor es hacerlo mejor
-- SUAVE Y DELICADO: Suave y redondeado con una acidez fresca
-- Envasado en atmósfera protectora para mantener su frescura
-- Tostado: velocidad media, color medio
-- Apto para cafeteras de émbolo, filtro o moka (italianas)
-- Intensidad 3/5
 - Una mezcla de granos de café molido arábica y robusta
+- Tostado: velocidad media, color medio
+- SUAVE Y DELICADO: Suave y redondeado con una acidez fresca
+- Apto para cafeteras de émbolo, filtro o moka (italianas)
+- CERTIFICACIÓN RAINFOREST ALLIANCE: La procedencia del café utilizado para este producto goza de la certificación Rainforest Alliance, lo que significa que no solo sabe bien, sino que también tiene un impacto positivo. Con cada compra, ayuda a cientos de agricultores y sus familias en todo el mundo, además de aportar su granito a la selva tropical; beber mejor es hacerlo mejor
+- Envasado en atmósfera protectora para mantener su frescura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07C79Y6KQ{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ☕ | CAFETERA ESPRESS MULTICÁPSULA | Esta cafetera incluye tres adaptadores intercambiables, permitiéndote utilizar cápsulas en todos sus formatos incluyendo variedades y café molido. Disfruta de una gran variedad de sabores y prepara tu café exactamente como lo prefieras.
-- 🧽 | FÁCIL DE LIMPIAR | Las piezas no eléctricas son lavables y aptas para el lavavajillas.
 - 📱 |PROGRAMABLE | Puedes programarla para elegir cómo de largo o corto quieres el café. Tiene un depósito transparente de 600ml de capacidad, para que puedas ver en todo momento si necesita agua.
 - ⚪ |PANTALLA CONTROL TÁCTIL | Cuenta con un panel de control táctil en la parte superior en el que podrás elegir café corto o largo y ajustar el nivel de café que prefieras.
+- 🧽 | FÁCIL DE LIMPIAR | Las piezas no eléctricas son lavables y aptas para el lavavajillas.
+- ☕ | CAFETERA ESPRESS MULTICÁPSULA | Esta cafetera incluye tres adaptadores intercambiables, permitiéndote utilizar cápsulas en todos sus formatos incluyendo variedades y café molido. Disfruta de una gran variedad de sabores y prepara tu café exactamente como lo prefieras.
 - ↕️ |DISEÑO COMPACTO Y FUNCIONAL | Su diseño compacto se adapta a cualquier espacio. Es ideal para cualquier cocina u oficina. Su estructura elegante y moderna combina con cualquier estilo, optimizando tu espacio.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Nota de cata (boca): Entrada en boca suave, con taninos delicados que hace el vino muy agradable y redondeado. Final de boca persistente y elegante
-- Reserva, D.O.Ca. Rioja
 - Nota de cata (vista): Color rubí intenso
 - Varietales: Tempranillo 100%
 - Maridaje: Carnes rojas y platos de caza, asados, aves, carnes blancas, jamón serrano, charcutería, quesos curados, quesos azules combinan a la perfección con Ederra Reserva
+- Nota de cata (boca): Entrada en boca suave, con taninos delicados que hace el vino muy agradable y redondeado. Final de boca persistente y elegante
+- Reserva, D.O.Ca. Rioja
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00XA82HRS{{</world>}}

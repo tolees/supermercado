@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Base de caldo de carne con sofrito para cocinar paella
 - Producto sometido a estrictos controles de calidad
 - Debe agitarse antes de servir
 - Combina tradición e innovación para darle una verdadera explosión de sabor
-- Base de caldo de carne con sofrito para cocinar paella
 - Sano y delicioso
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

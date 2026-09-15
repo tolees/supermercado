@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Deliciosas piezas largas en forma de stick de regaliz rojo
 - Mantener en lugar fresco y seco
 - Geles dulces
+- Deliciosas piezas largas en forma de stick de regaliz rojo
 - Con un irresistible sabor a fresa
 
 [🛒 Comprar!!!]({{< param buyurl >}})

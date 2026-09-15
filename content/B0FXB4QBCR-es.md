@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mejora la elasticidad y el aspecto saludable de la piel.
 - Nutrición y suavidad gracias al aceite de oliva.
 - Textura ligera, de rápida absorción y sin efecto graso.
+- Mejora la elasticidad y el aspecto saludable de la piel.
 - Hidratación prolongada y sensación de confort inmediato.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

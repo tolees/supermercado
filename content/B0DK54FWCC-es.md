@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Desarrollo de la visión y el cerebro: Enriquecido con aceite de pescado, fuente de DHA, para promover el desarrollo de la visión y el sistema nervioso.
 - Favorece las defensas naturales: altos niveles de antioxidantes (vitaminas E y C y selenio y proteína para promover una correcta función inmune.
 - Con carne deshuesada como ingrediente principal. Favorece la digestión y una mejor nutrición. (*comparado con el mismo ingrediente con huesos).
 - Elaborado cuidadosamente para conservar los nutrientes.
 - Dientes y huesos fuertes: minerales y vitamina D para promover el desarrollo saludable de huesos y dientes.
+- Desarrollo de la visión y el cerebro: Enriquecido con aceite de pescado, fuente de DHA, para promover el desarrollo de la visión y el sistema nervioso.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DK54FWCC{{</world>}}

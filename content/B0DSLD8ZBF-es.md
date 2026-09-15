@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forma parte de Estrella Galicia, que ha recibido premios internacionales como el World Beer Award, el International Beer Challenge y el Brussels Beer Challenge, que reconocen la calidad y sabor de las cervezas, además de la dedicación a la innovación y excelencia en la elaboración
-- Pack de cervezas lager tostadas sin alcohol y sin gluten y con un sabor suave y ligero, y matices equilibrados de las maltas empleadas y los lúpulos. Se recomienda su consumo entre 4 y 5º
-- Es una cerveza lager sin gluten y sin alcohol, de sabor equilibrado, ya que tiene un suave dulzor con ligeras notas ácidas, prolongado regusto amargo y final seco. Marida bien con una amplia variedad de platos, como quesos, verduras y hortalizas y aves
 - De color ámbar oscuro y espuma densa blanca. Cuenta con un aroma a galleta y a corteza de pan, con notas herbales y florales
 - Elaborada con agua de la ciudad de A Coruña, MALTAS diferentes grados secado/tostado, LÚPULO Nugget, LÚPULO Perle, LÚPULO Sladek y LEVADURA seleccionada. Cuenta con el distintivo de la espiga barrada, que acredita que el producto está autorizado por la FACE
+- Pack de cervezas lager tostadas sin alcohol y sin gluten y con un sabor suave y ligero, y matices equilibrados de las maltas empleadas y los lúpulos. Se recomienda su consumo entre 4 y 5º
+- Forma parte de Estrella Galicia, que ha recibido premios internacionales como el World Beer Award, el International Beer Challenge y el Brussels Beer Challenge, que reconocen la calidad y sabor de las cervezas, además de la dedicación a la innovación y excelencia en la elaboración
+- Es una cerveza lager sin gluten y sin alcohol, de sabor equilibrado, ya que tiene un suave dulzor con ligeras notas ácidas, prolongado regusto amargo y final seco. Marida bien con una amplia variedad de platos, como quesos, verduras y hortalizas y aves
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DSLD8ZBF{{</world>}}

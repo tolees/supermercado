@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fácil de enjuagar - vierte 10 ml de cb12, enjuaga 30-60 seg, haz gárgaras y escupe
-- Sin alcohol - formula suave, con 92% de ingredientes de origen natural, sabor menta
-- Mal aliento - CB12 es un enjuague bucal para combatir el mal aliento asegurando una proteccion contra la halitosis de 16 horas. Ayuda a fortalecer los dientes gracias al flúor y reducir la placa.
 - Aliento fresco - Fórmula sabor menta suave que deja un aliento fresco inmediato, limpio y agradable durante todo el día, combatiendo el mal aliento desde la raíz.
+- Sin alcohol - formula suave, con 92% de ingredientes de origen natural, sabor menta
 - Clínicamente probado - CB12 está testado provado científicamente para diseñar una proteccion duradera. Fórmula avanzada que neutraliza y reduce las bacterias responsables del mal aliento.
+- Mal aliento - CB12 es un enjuague bucal para combatir el mal aliento asegurando una proteccion contra la halitosis de 16 horas. Ayuda a fortalecer los dientes gracias al flúor y reducir la placa.
+- Fácil de enjuagar - vierte 10 ml de cb12, enjuaga 30-60 seg, haz gárgaras y escupe
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G4XCT7T5{{</world>}}

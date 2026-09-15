@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 0% alcohol
-- Fragancia fresca a limones
 - Suave con la piel
+- Fragancia fresca a limones
 - Protección 48h
+- 0% alcohol
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00X9UTO9G{{</world>}}

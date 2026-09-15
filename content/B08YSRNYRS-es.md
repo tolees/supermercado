@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Elimina olores y perfuma tu hogar de forma continua con un diseño elegante y portable
-- Aroma White Bouquet, una fragancia floral inspirada en el fresco aroma de las flores blancas recién cortadas
 - Pack de recambios para el ambientador spray automático Air Wick Freshmatic
 - Libera automáticamente ráfagas de fragancia para un constante frescor en tu hogar
+- Aroma White Bouquet, una fragancia floral inspirada en el fresco aroma de las flores blancas recién cortadas
+- Elimina olores y perfuma tu hogar de forma continua con un diseño elegante y portable
 - Descubre el resto de fragancias Air Wick Freshmatic y los ambientadores para el hogar de Air Wick
 
 [🛒 Aquí!!!]({{< param buyurl >}})

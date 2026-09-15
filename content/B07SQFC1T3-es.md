@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gel exfoliante anti puntos negros para combatir la suciedad de la piel
+- Especialmente indicado para pieles grasas
 - Ayuda a prevenir la aparición de puntos negros e imperfecciones de la piel
 - Potenciado con carbón de roble purificante que limpia la piel de grasa y ayuda a abrir los poros
-- Especialmente indicado para pieles grasas
+- Gel exfoliante anti puntos negros para combatir la suciedad de la piel
 - Reduce los puntos negros y limpia profundamente con micropartículas que eliminarán las impurezas de la piel en la cara
 
 [🛒 Aquí!!!]({{< param buyurl >}})

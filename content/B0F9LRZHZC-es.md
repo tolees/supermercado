@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - CARAMELOS SIN ALÉRGENOS: PUR Mints está hecho para ti. Son veganas, no contienen OGM, azúcar, gluten, soja, frutos secos ni cacahuetes. Aptas para dieta keto.
-- MENTA POLAR: Estos caramelos de menta sin azúcar ofrecen un intenso frescor ártico con sabor mentolado. Ayudan con la sequedad bucal y refrescan el aliento. La bolsa resellable de 65 unidades es práctica y ofrece gran valor.
 - NUESTRA MISIÓN: PUR crea productos con ingredientes de la más alta calidad para ayudarte a hacer sustituciones simples y tomar decisiones saludables sin esfuerzo.
+- MENTA POLAR: Estos caramelos de menta sin azúcar ofrecen un intenso frescor ártico con sabor mentolado. Ayudan con la sequedad bucal y refrescan el aliento. La bolsa resellable de 65 unidades es práctica y ofrece gran valor.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F9LRZHZC{{</world>}}

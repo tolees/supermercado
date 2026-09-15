@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Embalaje reciclable
 - Carne deshuesada de alta calidad como ingrediente principal
-- Comida completa y equilibrada para gatos adultos esterilizados
 - Control del peso: Con fibra y niveles moderados de grasas y calorías para ayudar a controlar el peso
+- Comida completa y equilibrada para gatos adultos esterilizados
 - Sin colorantes, conservantes ni aromas artificiales; ingredientes con trazabilidad garantizada desde el origen
 - Pelaje brillate y piel sana: Omega 3 y 6 y zinc que contribuyen a un pelaje brillante y una piel cuidada
-- Embalaje reciclable
 - Sin cereales: con carbohidratos alternativos (patata, garbanzos y guisantes)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

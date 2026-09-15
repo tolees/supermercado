@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color ámbar y oro profundo
 - En nariz una primera sensación a fruta madura como melocotón y albaricoque
 - Sutiles notas tostadas y ahumadas
-- Se puede servir solo, con hielo o en una gama de bebidas y cócteles
 - En boca da paso a sabores dulces y notas sutiles de cacao, fusionados con matices de madera
+- Color ámbar y oro profundo
+- Se puede servir solo, con hielo o en una gama de bebidas y cócteles
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B88F4JK5{{</world>}}

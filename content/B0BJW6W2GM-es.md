@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Nuestro atún más sabroso con el toque justo de agua
-- Ideal para toda la familia
 - Una fuente perfecta de proteínas limpias de grasa
-- Atún claro al natural
 - Se debe conservar en un lugar fresco y seco
+- Atún claro al natural
+- Ideal para toda la familia
+- Nuestro atún más sabroso con el toque justo de agua
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BJW6W2GM{{</world>}}

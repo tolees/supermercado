@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Comida para bebés
 - Fuente natural de cálcio
 - Yogures con plátano y melocotón
-- Contienen 0% azúcares añadidos
 - Adecuado desde los 6 meses
+- Contienen 0% azúcares añadidos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B088RS8FYQ{{</world>}}

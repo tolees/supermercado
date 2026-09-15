@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para pieles grasas o con imperfecciones.
 - Purifica, exfolia y da un acabado mate.
+- Para pieles grasas o con imperfecciones.
 - Se puede utilizar de 3 formas diferentes.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

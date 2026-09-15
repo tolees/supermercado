@@ -1,24 +1,24 @@
 ---
 layout: post
-title: 'Atun Claro al Natural'
-date: 2026-04-27 09:47:11
+title: 'Albo Conserva de Atún Claro al Natural Pack 3 Latas x 70 g'
+date: 2026-09-14 12:15:36
 image: 'https://m.media-amazon.com/images/I/41wMvpVu6wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B09JNWVQNH-es Atun Claro al Natural'
+slug: 'B09JNWVQNH-es Albo Conserva de Atún Claro al Natural Pack 3 Latas x 70 g'
 sku: 'B09JNWVQNH-es'
-tags: [ 'atun','claro','🇪🇸', ]
+tags: [ 'albo','atún','claro','conserva','de','🇪🇸', ]
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49
-comparePrice: 4.49 EUR
-prodname: 'Atun Claro al Natural'
+comparePrice: 5.49 EUR
+prodname: 'Albo Conserva de Atún Claro al Natural Pack 3 Latas x 70 g'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09JNWVQNH/?tag=tolees-21'
-descuento: '0.00'
+descuento: '18.21'
 average: '4.49'
 ---
 
@@ -28,7 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Atun Claro al Natural
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09JNWVQNH{{</world>}}

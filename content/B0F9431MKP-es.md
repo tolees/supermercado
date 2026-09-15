@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Conservar en un lugar fresco y seco
-- Apto para dietas vegetarianas
 - Este envase contiene aproximadamente 5 porciones
 - Producto de aperitivo frito con sabor a nata acidificada y cebolla
+- Apto para dietas vegetarianas
 - Envasado en Alemania
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

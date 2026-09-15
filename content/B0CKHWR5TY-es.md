@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Junto a la destilación de grano 100% americano, obtenemos una ginebra Premium
-- Apariencia transparente
-- Aroma suave a cítricos, botánicos y hierbas de tocador
-- Ligero color oro
-- Es uno de los pocos tequilas que incluyen el método Tahona en su proceso, una tradición de más de 500 años
 - Es un tequila hecho Agave Azul sembrado en México en las tierras de Los Altos
+- Es uno de los pocos tequilas que incluyen el método Tahona en su proceso, una tradición de más de 500 años
+- Apariencia transparente
+- Ligero color oro
+- Aroma suave a cítricos, botánicos y hierbas de tocador
+- Junto a la destilación de grano 100% americano, obtenemos una ginebra Premium
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKHWR5TY{{</world>}}

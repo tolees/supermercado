@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Género - Mujer
-- Tipo de producto - Moldeador
-- Marca - Wella
 - Ingredientes seleccionados
+- Marca - Wella
+- Tipo de producto - Moldeador
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B076JS1JDT{{</world>}}

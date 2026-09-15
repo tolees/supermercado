@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- FIJA LA HIDRATACIÓN: Para un cabello más brillante y luminoso.
-- FRAGANCIA DELICADA: Un aroma envolvente para el cabello que te transporta a las dunas de arena blanca de Oriente.
 - FÓRMULA PARA UN CABELLO SUAVE: Con aceite de camelia y extracto de té blanco.
 - ACONDICIONADOR LUMINOSO INSTANTÁNEO: Aporta suavidad y brillo a todo tipo de cabello.
+- FRAGANCIA DELICADA: Un aroma envolvente para el cabello que te transporta a las dunas de arena blanca de Oriente.
 - CUIDADO CAPILAR: Transforma el cabello seco y apagado en un cabello brillante y radiante. El regalo perfecto para el cuidado del cabello.
+- FIJA LA HIDRATACIÓN: Para un cabello más brillante y luminoso.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B076JJFZC6{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color ámbar con ribetes ligeramente rojizos; brillante, transparente; luminoso
-- Graduación alcohólica: 30%Vol
 - De intensidad aromática media, con notas de buen destilado y enriquecido por finas notas de frutos secos e higos; elegante matiz de madera de roble con notas de vainilla y bombón
+- Graduación alcohólica: 30%Vol
+- Color ámbar con ribetes ligeramente rojizos; brillante, transparente; luminoso
 - Paladar suave y aterciopelado, persistente; ligeramente abocado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

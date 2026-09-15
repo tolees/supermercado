@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- La fragancia le da el toque masculino
 - Fijación media con alto brillo
 - Para conseguir el look y definición deseado
 - Sin dañar el cabello
-- La fragancia le da el toque masculino
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0012XAQTE{{</world>}}

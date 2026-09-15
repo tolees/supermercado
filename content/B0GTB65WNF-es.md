@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nature s Variety - Paté para Perros Adultos Medianos y Grandes con Pollo 12 x 400g'
-date: 2026-09-10 10:21:37
+date: 2026-09-14 07:53:24
 image: 'https://m.media-amazon.com/images/I/41cjYnLC6rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GTB65WNF/?tag=tolees-21'
 descuento: '50.03'
-average: '22.44'
+average: '20.6233333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

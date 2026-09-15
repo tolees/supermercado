@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Perfecto con carnes y quesos.
-- Origen: DO Penedès
-- Graduación: 14% vol.
 - Intensamente afrutado, con notas especiadas y balsámicas. Bien estructurado y redondeado por la crianza en buen roble.
+- Graduación: 14% vol.
+- Origen: DO Penedès
+- Perfecto con carnes y quesos.
 - Puede disfrutarlo desde ahora, bien conservado aguantará 8-10 años.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

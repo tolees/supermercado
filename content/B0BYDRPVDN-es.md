@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para: ella
-- Notas de corazón: cardamomo, jengibre, pimienta rosa, tuberrosa, ylang
-- Tipo: intensa y femenina
 - Notas de salida: limón, grosella y frambuesa
+- Notas de corazón: cardamomo, jengibre, pimienta rosa, tuberrosa, ylang
+- Para: ella
+- Tipo: intensa y femenina
 - Familia olfativa: floral
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

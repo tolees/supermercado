@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Gallina Blanca Sopinstant Crema de Espárragos 57g'
-date: 2026-05-05 19:20:34
-image: 'https://m.media-amazon.com/images/I/51E0JithPWL._SL500_._SL400_.jpg'
+title: 'Gallina Blanca · Sopinstant Crema de Espárragos con Picatostes'
+date: 2026-09-14 12:02:18
+image: 'https://m.media-amazon.com/images/I/41PHVoJgslL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00XDPPWV6-es Gallina Blanca Sopinstant Crema de Espárragos 57g'
+slug: 'B00XDPPWV6-es Gallina Blanca · Sopinstant Crema de Espárragos con...'
 sku: 'B00XDPPWV6-es'
 tags: [ 'blanca','gallina','🇪🇸', ]
-actualPrice: 1.37 EUR
+actualPrice: 1.0 EUR
 currency: EUR
-price: 1.37
+price: 1.0
 comparePrice: 1.45 EUR
-prodname: 'Gallina Blanca Sopinstant Crema de Espárragos 57g'
+prodname: 'Gallina Blanca · Sopinstant Crema de Espárragos con Picatostes'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XDPPWV6/?tag=tolees-21'
-descuento: '5.52'
-average: '1.37'
+descuento: '31.03'
+average: '1.185'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con menos sal
-- Contiene Leche o derivados de la leche (lactosa)
-- Con colorantes
-- Sello FEC (Federación Española del Corazón). Sin colorantes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XDPPWV6{{</world>}}

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Caramelos de goma
-- Deliciosas piezas en forma de cerezas
 - Irresistible sabor a cereza
+- Deliciosas piezas en forma de cerezas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C36R53ZL{{</world>}}

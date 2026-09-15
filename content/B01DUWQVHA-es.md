@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Mantener en un lugar fresco y seco
+- Pescado de carne blanca y suave textura
 - Estuchado, fácil apertura
 - Preservado en aceite de oliva
-- Pescado de carne blanca y suave textura
-- Mantener en un lugar fresco y seco
 - Alto en proteínas y bajo en grasas y calorías
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

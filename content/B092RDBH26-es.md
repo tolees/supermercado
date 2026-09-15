@@ -29,13 +29,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 🍷 Icono de Ribera del Duero – Elaborado por Pago de Carraovejas en Peñafiel con predominio de Tinto Fino (Tempranillo), complementado con Cabernet Sauvignon y Merlot según añada. Botella de Vino de 75 cl
-- ⭐ Altamente valorado por la crítica internacional
-- 📖 Excelentes puntuaciones en guías españolas
 - 👃 Aromas intensos y sofisticados – Notas de fruta negra madura, ciruela y mora, con matices de cacao, vainilla, tabaco y fondo balsámico.
+- 🌿 Viñedos en ladera únicos – Procedente de viñedos propios situados en terrazas sobre el río Duero, con suelos calizos que aportan frescura, estructura y elegancia.
+- ⭐ Altamente valorado por la crítica internacional
 - 👄 Potente, equilibrado y sedoso – Amplio en boca, con taninos maduros y envolventes, gran volumen y un final largo y persistente.
 - 🪵 Crianza cuidada en roble – Envejecido en barricas de roble francés y americano, logrando una perfecta integración entre fruta madura, especias y finos tostados.
+- 📖 Excelentes puntuaciones en guías españolas
 - 🎁 El vino perfecto para regalar – Vino con funda de regalo, y caja protectora anti-rotura. Prestigioso, reconocido y elegante, ideal para celebraciones, ocasiones especiales o para sorprender a amantes del vino de alta gama.
-- 🌿 Viñedos en ladera únicos – Procedente de viñedos propios situados en terrazas sobre el río Duero, con suelos calizos que aportan frescura, estructura y elegancia.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B092RDBH26{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Formato aerosol 100 ml.
-- Diseñados específicamente para zonas íntimas.
-- Fragancia de Coco y Sándalo.
 - Nuevos desodorantes corporales de Axe.
+- Fragancia de Coco y Sándalo.
+- Formato aerosol 100 ml.
 - Fórmula hipoalergénica de desodorante, sin alcohol ni aluminio.
+- Diseñados específicamente para zonas íntimas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0GN3XCYF4{{</world>}}

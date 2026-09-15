@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Acondicionador joanna professional
 - Acondicionador peluquería mujer
 - Joanna blackcurrant revitalizing conditioner 500g
+- Acondicionador joanna professional
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B075TFDMNX{{</world>}}

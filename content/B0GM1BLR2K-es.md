@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - RICAS EN FIBRA Y NUTRIENTES: ideales para una alimentación equilibrada, ligeras y fáciles de incorporar a todo tipo de dietas.
 - TORTITAS DE ARROZ INTEGRAL Y QUINOA BIO: elaboradas con ingredientes 100% ecológicos, sin gluten y aptas para veganos.
-- SOBRE NOSOTROS: Ecocesta nació con una misión clara: dar visibilidad a la alimentación de origen vegetal. Somos empresa BCorp certificada y cumplimos con los más altos estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
 - FORMATO INDIVIDUAL DE 20 g: perfectas para llevar a cualquier parte y disfrutar de un tentempié saludable en cualquier momento.
 - VERSÁTILES Y PRÁCTICAS: disfrútalas solas, como alternativa ligera al pan o como base para preparar snacks y canapés dulces o salados.
+- SOBRE NOSOTROS: Ecocesta nació con una misión clara: dar visibilidad a la alimentación de origen vegetal. Somos empresa BCorp certificada y cumplimos con los más altos estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0GM1BLR2K{{</world>}}

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bálsamo de mantequilla corporal vegano natural
-- La crema facial de The Ilex Wood está libre de crueldad animal, aceite de palma y plástico.
-- Manteca de cacao, manteca de karité y manteca de mango
-- Intensamente hidratante con cualidades suavizantes de la piel.
 - Ingredientes 100% naturales para tonificar e hidratar
 - El bálsamo corporal de chocolate y naranja "The Ilex Wood" es una crema emoliente vegana para todas las pieles.
+- Intensamente hidratante con cualidades suavizantes de la piel.
+- Bálsamo de mantequilla corporal vegano natural
+- Manteca de cacao, manteca de karité y manteca de mango
+- La crema facial de The Ilex Wood está libre de crueldad animal, aceite de palma y plástico.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08VQT1JRC{{</world>}}

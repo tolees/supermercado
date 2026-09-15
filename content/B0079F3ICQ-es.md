@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Alimento 100% completo y equilibrado para gatos
 - Comida húmeda sin la adición de colorantes, conservantes ni saborizantes artificiales
 - Ayuda a mantener tu gato saludable
+- Alimento 100% completo y equilibrado para gatos
 - Tiene una textura ligera y apetitosa
 
 [🛒 Aquí!!!]({{< param buyurl >}})

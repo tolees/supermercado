@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🏆 BABARIA AFTER SUN FACIAL — VEGANO: 100% Vegano y Testado Dermatologicamente y Oftalmologicamente
-- ✨ ANTIMANCHAS — La exposición solar sin cuidado post-solar adecuado acelera la aparición de manchas. Su acción antimanchas previene la hiperpigmentación post-solar y unifica el tono de forma progresiva. After sun facial mujer y hombre apto para todas las pieles incluyendo sensibles y mixtas.
-- 💧 ÁCIDO HIALURÓNICO — HIDRATACIÓN Y REGENERACIÓN CELULAR — El ácido hialurónico restaura la hidratación que el sol elimina del rostro recuperando elasticidad y confort. Estimula la regeneración celular y protege frente al daño oxidativo post-solar. Activos de nivel sérum en un after sun facial.
 - ☀️ AFTER SUN FACIAL — REPARACIÓN POST-SOLAR ESPECÍFICA PARA EL ROSTRO — La cara es la zona más expuesta y más castigada por el sol. Este after sun facial con ácido hialurónico repara, hidrata y cuida el tono después de cada exposición solar.
+- 💧 ÁCIDO HIALURÓNICO — HIDRATACIÓN Y REGENERACIÓN CELULAR — El ácido hialurónico restaura la hidratación que el sol elimina del rostro recuperando elasticidad y confort. Estimula la regeneración celular y protege frente al daño oxidativo post-solar. Activos de nivel sérum en un after sun facial.
+- ✨ ANTIMANCHAS — La exposición solar sin cuidado post-solar adecuado acelera la aparición de manchas. Su acción antimanchas previene la hiperpigmentación post-solar y unifica el tono de forma progresiva. After sun facial mujer y hombre apto para todas las pieles incluyendo sensibles y mixtas.
+- 🏆 BABARIA AFTER SUN FACIAL — VEGANO: 100% Vegano y Testado Dermatologicamente y Oftalmologicamente
 - 🌿 VITAMINA E DE NUEVA GENERACIÓN — ANTIENVEJECIMIENTO POST-SOLAR ACTIVO — El Dimethylmethoxy Chromanyl Palmitate, derivado estabilizado de vitamina E de última generación, neutraliza los radicales libres generados por la radiación UV y frena el fotoenvejecimiento. Aloe vera que calma el enrojecimiento y sella la hidratación para un bronceado facial que no se descama.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

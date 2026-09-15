@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cosmética Facial
 - 0
-- REPARACIÓN INMEDIATA balsamo nariz-labios 15 ml
+- Cosmética Facial
 - Parafarmacia
+- REPARACIÓN INMEDIATA balsamo nariz-labios 15 ml
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C62GM8MS{{</world>}}

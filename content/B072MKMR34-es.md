@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mahou Maestra Doble Lúpulo Cerveza Lager Tostada Pack 12 Latas x 33cl'
-date: 2026-09-11 12:49:22
+date: 2026-09-14 08:46:38
 image: 'https://m.media-amazon.com/images/I/41zfr2cXa5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B072MKMR34/?tag=tolees-21'
 descuento: '30.15'
-average: '9.21769230769231'
+average: '9.17000000000001'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

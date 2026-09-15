@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Efecto calmante y regenerador
 - Reduce las arrugas y mejora la estructura de la piel
+- Efecto calmante y regenerador
 - La piel se vuelve lisa, elástica y brillante
 - Aumenta la firmeza y elasticidad de la piel
 

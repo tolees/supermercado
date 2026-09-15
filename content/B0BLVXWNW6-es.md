@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con más de 40 años de experiencia en el sector de la belleza natural y una filosofía de trabajo que respeta el medio ambiente, NaturVital ofrece los beneficios que brinda la naturaleza mediante los mejores productos
-- MODO DE USO: Se recomienda utilizar de 1 a 2 veces por semana, repartiendo el producto sobre el cabello húmedo y dándo un ligero masaje. Dejar actuar por 3 minutos y enjuagar con abundante agua
-- BENEFICIOS: Hidrata y suaviza el cabello, ayudándolo a recuperar su brillo natural
-- INGREDIENTES NATURALES: Su fórmula contiene extracto de Arándano de cultivo biológico certificado, extracto de Henna y Pro-vitamina B5. No contiene parabenos ni ftalatos
 - CHAMPÚ UNISEX: Apto para hombres y mujeres con canas o pelo blanco
+- BENEFICIOS: Hidrata y suaviza el cabello, ayudándolo a recuperar su brillo natural
+- Con más de 40 años de experiencia en el sector de la belleza natural y una filosofía de trabajo que respeta el medio ambiente, NaturVital ofrece los beneficios que brinda la naturaleza mediante los mejores productos
+- INGREDIENTES NATURALES: Su fórmula contiene extracto de Arándano de cultivo biológico certificado, extracto de Henna y Pro-vitamina B5. No contiene parabenos ni ftalatos
+- MODO DE USO: Se recomienda utilizar de 1 a 2 veces por semana, repartiendo el producto sobre el cabello húmedo y dándo un ligero masaje. Dejar actuar por 3 minutos y enjuagar con abundante agua
 - CHAMPÚ SILVER: Su color azulado actúa sobre el pelo blanco o con canas, neutralizando los tonos amarillentos causados por la oxidación y aportando un matiz plata
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

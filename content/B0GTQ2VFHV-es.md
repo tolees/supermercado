@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- PROTECCIÓN DEL CRISTAL, mantiene el brillo por más tiempo
 - PASTILLAS PARA EL LAVAVAJILLAS con protección para el cristal
-- LIMPIEZA Y BRILLO POTENTES, las cápsulas para lavavajillas Quantum Infinity Shine tienen poder quitagrasas
 - AHORRA AGUA gracias a su poder de limpieza no necesitas prelavar los platos antes de meterlos en el lavaplatos
+- LIMPIEZA Y BRILLO POTENTES, las cápsulas para lavavajillas Quantum Infinity Shine tienen poder quitagrasas
+- PROTECCIÓN DEL CRISTAL, mantiene el brillo por más tiempo
 - MEJORA TU EXPERIENCIA DE LAVADO con el abrillantador Finish para una vajilla seca y sin marcas de agua; para un lavavajillas limpio e higiénico y sin malos olores utiliza Finish Limpiamáquinas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- EL aplicador preciso aporta definición a cada pelo y la brocha permite difuminar y dar naturalidad
 - Resultado natural e instantáneo que dura hasta dos días
 - La fórmula pigmentada aporta un tono natural
 - Tinte para cejas de larga duración
 - Cejas llenas y de aspecto natural
+- EL aplicador preciso aporta definición a cada pelo y la brocha permite difuminar y dar naturalidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08P3CVC33{{</world>}}

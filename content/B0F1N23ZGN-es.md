@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Vuelve la marca Matutano, para traer memorias y nuevos productos para toda la familia
-- Sabor a mantequilla con forma de animales
 - Formato de 90 gramos, optimo tanto para compartir como para comer de manera individual
+- Sabor a mantequilla con forma de animales
 - Aperitivo de maíz
 
 [🛒 Aquí!!!]({{< param buyurl >}})

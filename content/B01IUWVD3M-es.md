@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Apto para vegetarianos
 - Piezas largas en forma de espaguetis rojos sabor fresa
+- Apto para vegetarianos
 - Con recubrimiento ácido
 - Geles dulces
 

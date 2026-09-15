@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Monster Energy Original es una bebida energética que proporciona una explosión de sabor refrescante, para tener un impulso energético y un sabor delicioso
-- Disfruta de un refrescante y delicioso sabor a Monster Energy Green mientras aumentas tu concentración y reduces la fatiga con esta potente bebida energizante
 - Esta increíble bebida energizante está carbonatada y cargada con 160mg de cafeína, L-Carnitina, Taurina, ginseng y vitaminas del grupo B
+- Disfruta de un refrescante y delicioso sabor a Monster Energy Green mientras aumentas tu concentración y reduces la fatiga con esta potente bebida energizante
 - Monster Energy Green te proporciona un impulso energético prolongado, combinado con un sabor delicioso que no encontrarás en ninguna otra bebida energética
 - Cada pack trae 4 latas de 500 ml cada una, as para disfrutar y compartir en fiestas o reuniones con amigos
 

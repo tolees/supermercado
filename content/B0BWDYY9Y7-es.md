@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gillette Proglide Maquinilla de Afeitar Hombre con 4 Recambios Negro'
-date: 2026-09-12 20:31:23
+date: 2026-09-14 17:29:09
 image: 'https://m.media-amazon.com/images/I/41GFM3-8gKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

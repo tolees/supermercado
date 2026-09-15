@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🟢 CONTRIBUYE AL BUEN METABOLISMO ENERGÉTICO gracias a la Vitamina B1.
-- 💊 Cápsulas para la recuperación de la energía y la vitalidad.
 - 🍍 EXTRACTO DE PIÑA: Mejora la digestión y reduce la inflamación.
-- 🍇EXTRACTO DE ARÁNDANO: Menor daño en el estómago e intestino delgado. Menor producción de ácido gástrico.
 - 😎 RESALIM PLUS es un complemento alimenticio que ayuda a metabolizar bebidas y alimentos.
+- 😜 MODO DE EMPLEO: Consumir dos cápsulas al día antes de un consumo excesivo. Utilizar siempre como complemento de una dieta variada y equilibrada y un estilo de vida saludable.
+- 🟢 CONTRIBUYE AL BUEN METABOLISMO ENERGÉTICO gracias a la Vitamina B1.
 - 💪🏼 AYUDA A DISMINUIR EL CANSANCIO Y LA FATIGA y contribuye a un buen metabolismo energético, de las proteínas y del glucógeno gracias a la Vitamina B6.
 - 🌷 EXTRACTO DE ALCACHOFA: Hepatoprotector y proporciona menor dolor de cabeza por metabolitos tóxico.
-- 😜 MODO DE EMPLEO: Consumir dos cápsulas al día antes de un consumo excesivo. Utilizar siempre como complemento de una dieta variada y equilibrada y un estilo de vida saludable.
+- 💊 Cápsulas para la recuperación de la energía y la vitalidad.
+- 🍇EXTRACTO DE ARÁNDANO: Menor daño en el estómago e intestino delgado. Menor producción de ácido gástrico.
 - 🌳 EXTRACTO DE GROSELLA NEGRA: Contribuye a una menor deshidratación.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- INGREDIENTES: 1 mg de Melatonina para reducir el tiempo necesario para conciliar el sueño*, 15 mg de Valeriana, 10 mg de Camomila, 10 mg de Lavanda y 1,4 mg de Vitamina B6
 - NO GENERA DEPENDENCIA. Simplemente tómate 1 gummy 30 minutos antes de dormir
 - NUEVA FÓRMULA VEGANA: Sin gelatina de origen animal. Sin colorantes, edulcorantes ni conservantes artificiales. Sin gluten ni lactosa
+- INGREDIENTES: 1 mg de Melatonina para reducir el tiempo necesario para conciliar el sueño*, 15 mg de Valeriana, 10 mg de Camomila, 10 mg de Lavanda y 1,4 mg de Vitamina B6
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DRVH26QK{{</world>}}

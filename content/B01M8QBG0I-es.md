@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin colorantes artificiales añadidos
 - Se producen de forma natural sin la adición de azúcar
+- Sin colorantes artificiales añadidos
 - Aporta los nutrientes necesarios para el buen funcionamiento del metabolismo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con un embalaje práctico y fácil de transportar
-- De textura dura
-- Deja un aliento fresco
 - No contiene azúcar
 - Con un fresco sabor a eucalipto
+- De textura dura
+- Con un embalaje práctico y fácil de transportar
+- Deja un aliento fresco
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07H2Q58QP{{</world>}}

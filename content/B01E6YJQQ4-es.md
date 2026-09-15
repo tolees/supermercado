@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El Ketchup numero 1 en el Mundo
-- Absolutamente sin colorantes, aromas, conservantes o espesantes artificiales
-- Alergenos: Apio
 - Perfecto con una hamburguesa y papas fritas o como un glaseado para alitas de pollo
+- El Ketchup numero 1 en el Mundo
+- Alergenos: Apio
+- Absolutamente sin colorantes, aromas, conservantes o espesantes artificiales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01E6YJQQ4{{</world>}}

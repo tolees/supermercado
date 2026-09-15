@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- MAESTROS ACEITEROS. Coosur tiene una dilatada historia de más de 50 años. Nuestros orígenes se sitúan en la provincia andaluza de Jaén, la mayor región productora de aceite de oliva de todo el mundo. Desde allí, producimos, refinamos, envasamos y exportamos a más de 25 países de todo el mundo.
+- ACEITE DE OLIVA DE JAÉN. En el corazón de Jaén, la cuna mundial del aceite de oliva, Jabalquinto se alza como un rincón privilegiado donde la tradición olivarera se fusiona con la excelencia. Encarnamos la esencia de la reconocida dieta mediterránea y mostramos un profundo respeto por lo nuestro: nuestra tierra, nuestros frutos y, sobre todo, nuestro aceite de oliva. Con más de 50 años de historia, Coosur tiene sus ráices en la provincia andaluza de Jaén, la principal región productora de aceite de oliva en el mundo
 - EL TOQUE FINAL DE SABOR EN CUALQUIER PLATO. El aceite de oliva virgen extra Coosur Squizz Cosecha Temprana es ideal para ensaladas, pastas, arroces, pizzas, totas, salsas y aderezos
 - CALIDAD Y COMPROMISO. Coosur Squizz es el aliado perfecto para los amantes de la calidad, ofreciéndoles productos que cuidan de ellos, con un enfoque en la simplicidad, la cercanía y el respeto por la naturaleza que conecta con público de distintas edades a través de sus valores.
-- ACEITE DE OLIVA DE JAÉN. En el corazón de Jaén, la cuna mundial del aceite de oliva, Jabalquinto se alza como un rincón privilegiado donde la tradición olivarera se fusiona con la excelencia. Encarnamos la esencia de la reconocida dieta mediterránea y mostramos un profundo respeto por lo nuestro: nuestra tierra, nuestros frutos y, sobre todo, nuestro aceite de oliva. Con más de 50 años de historia, Coosur tiene sus ráices en la provincia andaluza de Jaén, la principal región productora de aceite de oliva en el mundo
+- MAESTROS ACEITEROS. Coosur tiene una dilatada historia de más de 50 años. Nuestros orígenes se sitúan en la provincia andaluza de Jaén, la mayor región productora de aceite de oliva de todo el mundo. Desde allí, producimos, refinamos, envasamos y exportamos a más de 25 países de todo el mundo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0GFF5V6V7{{</world>}}

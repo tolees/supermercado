@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Creado para mezclar, adorado por los bartenders: ¿trago largo o corto? ¿Dulce o ácido? Ya sea para preparar un Old Fashioned o un Espresso Martini, añade un toque de Monkey para animar tus cócteles con whisky. Nuestra versión Original tiene el carácter suficiente para mezclarse, pero también el equilibrio necesario para disfrutarse solo.
-- ELABORACIÓN EN LOTES REDUCIDOS: Los whiskies maduran en barricas de primer llenado que contuvieron bourbon y se mezclan en lotes reducidos durante un periodo de hasta 6 meses; posteriormente, se ensamblan para lograr un sabor más suave y rico antes de su embotellado con una graduación alcohólica del 40 % vol.
-- SUAVE. INTENSO. PERFECTO CON UN TOQUE DIFERENTE: Suave, intenso y vibrante, el whisky Monkey Shoulder fue creado para disfrutarse solo, y con la intensidad suficiente para destacar en cócteles clásicos como el Old Fashioned. Simplemente vierta, remueva y gire.
-- Sorprendentemente accesible: el Blended Malt Scotch Whisky Monkey Shoulder ofrece un sabor sabroso, suave y afrutado, con matices de dulzor a malta, azúcar de cebada y mermelada. En nariz presenta notas cítricas de naranja y un ligero toque de miel, acompañadas de matices suaves y delicados de vainilla.
 - UNA MEZCLA ÚNICA DE WHISKIES DE MALTA: Monkey Shoulder es una mezcla de los mejores whiskies de malta de Speyside. Seleccionados en pequeñas partidas y posteriormente combinados para lograr siempre el sabor característico de Monkey Shoulder en cada botella.
+- Creado para mezclar, adorado por los bartenders: ¿trago largo o corto? ¿Dulce o ácido? Ya sea para preparar un Old Fashioned o un Espresso Martini, añade un toque de Monkey para animar tus cócteles con whisky. Nuestra versión Original tiene el carácter suficiente para mezclarse, pero también el equilibrio necesario para disfrutarse solo.
+- Sorprendentemente accesible: el Blended Malt Scotch Whisky Monkey Shoulder ofrece un sabor sabroso, suave y afrutado, con matices de dulzor a malta, azúcar de cebada y mermelada. En nariz presenta notas cítricas de naranja y un ligero toque de miel, acompañadas de matices suaves y delicados de vainilla.
 - GALARDONADO MÚLTIPLES VECES: Favorito entre los amantes del whisky de todo el mundo, Monkey Shoulder ha ganado: Oro en el International Wine & Spirits Challenge 2022; Oro en el International Spirits Challenge 2022; y el título de Destilador del Año en el International Spirits Challenge (2016-2021).
+- SUAVE. INTENSO. PERFECTO CON UN TOQUE DIFERENTE: Suave, intenso y vibrante, el whisky Monkey Shoulder fue creado para disfrutarse solo, y con la intensidad suficiente para destacar en cócteles clásicos como el Old Fashioned. Simplemente vierta, remueva y gire.
+- ELABORACIÓN EN LOTES REDUCIDOS: Los whiskies maduran en barricas de primer llenado que contuvieron bourbon y se mezclan en lotes reducidos durante un periodo de hasta 6 meses; posteriormente, se ensamblan para lograr un sabor más suave y rico antes de su embotellado con una graduación alcohólica del 40 % vol.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B001P4YYI4{{</world>}}

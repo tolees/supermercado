@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La sobreexposición al sol es una grave amenaza para la salud
-- Ningún producto de protección solar puede proporcionar una protección completa contra los rayos solares
-- Agitar bien antes de usar
-- Aplicar por todo el cuerpo antes de la exposición al sol
 - Repetir la aplicación con frecuencia para mantener la protección
+- Aplicar por todo el cuerpo antes de la exposición al sol
+- Agitar bien antes de usar
+- Ningún producto de protección solar puede proporcionar una protección completa contra los rayos solares
+- La sobreexposición al sol es una grave amenaza para la salud
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DTQCG7D8{{</world>}}

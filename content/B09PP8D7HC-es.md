@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ayuda a reparar la piel de la irritación, incluso después del depilado. 0% alcohol
-- Desodorante Antitranspirante en Crema Original 50ml
-- Protección 24h
 - Desodorante antitranspirante con 1/4 de crema hidratante con aceite nutritivo 100% natural
+- Ayuda a reparar la piel de la irritación, incluso después del depilado. 0% alcohol
+- Protección 24h
+- Desodorante Antitranspirante en Crema Original 50ml
 - Desodorante Antitranspirante en Crema Original 50ml
 - Desodorante antitranspirante con 1/4 de crema hidratante con aceite nutritivo 100% natural
 

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con vitamina E para la salud celular: La vitamina E actúa como antioxidante para proteger las células y, junto con el 4,4% de grasa, favorece una dieta equilibrada y una piel sana
 - Alto contenido de proteínas para una nutrición óptima: Con un 27,3% de proteínas, este alimento ofrece una excelente fuente de proteínas que apoya el desarrollo muscular y contribuye a la vitalidad general
 - Hidratación y energía para animales activos: Con un 56% de humedad y 1700 kcal/kg, este alimento proporciona una fuente ideal de energía al mismo tiempo que favorece la ingesta de líquidos para una buena hidratación Disponible en un práctico paquete de 200 g
+- Con vitamina E para la salud celular: La vitamina E actúa como antioxidante para proteger las células y, junto con el 4,4% de grasa, favorece una dieta equilibrada y una piel sana
 - Deliciosa combinación de pollo, atún y queso: La mezcla de pollo tierno, atún aromático y queso picante crea un sabor irresistible que deleita incluso a los animales más exigentes
 - Enriquecido con valiosos nutrientes: la proteína en polvo y el queso proporcionan nutrientes importantes adicionales que promueven el bienestar y la salud general de su mascota
 

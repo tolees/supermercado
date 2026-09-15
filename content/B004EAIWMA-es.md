@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Elaborada en pequeñas cantidades y de manera clásica; diez ingredientes botánicos maceran durante toda la noche para producir este London Dry de forma tradicional
-- Ginebra artesanal premium de aspecto limpio y brillante; con la expresión audaz, compleja y aromática de una ginebra tradicional
-- Este Dry Gin es perfecto para tomar como Gin Tonic con mucho hielo o como ingrediente de un suave Martini, rico y equilibrado
 - En paladar predominan los toques cítricos de la naranja y el enebro, que es protagonista; tiene un final con notas de limón
+- Este Dry Gin es perfecto para tomar como Gin Tonic con mucho hielo o como ingrediente de un suave Martini, rico y equilibrado
 - En nariz es increíblemente suave, equilibrada y con mucha personalidad; con notas florales y cítricas que aportan frescura
+- Ginebra artesanal premium de aspecto limpio y brillante; con la expresión audaz, compleja y aromática de una ginebra tradicional
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004EAIWMA{{</world>}}

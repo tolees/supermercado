@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- PERFIL SENSORIAL: Se caracteriza por un sabor de Vainilla y Frutos Secos, Aroma 8/10, Cuerpo 6/10, Acidez 7/10, Intensidad 6 /10
-- ORIGEN: Una mezcla que combina el cuerpo de los cafés de Colombia con la acidez de los cafés de Guatemala
-- DELTA CAFES GRAN CREMA: Un gran café por la cual se crea una bebida equilibrada con notas de cacao, chocolate y caramelo.
-- COMPATIBLE: 4 unidades de 1 Kg para máquinas de café automáticas y molinillos de café
 - CALIDAD DELTA CAFÉS: La combinación perfecta de productos provenientes de todas parte del mundo para traerte la mejor calidad de café y bebidas calientes
+- PERFIL SENSORIAL: Se caracteriza por un sabor de Vainilla y Frutos Secos, Aroma 8/10, Cuerpo 6/10, Acidez 7/10, Intensidad 6 /10
+- COMPATIBLE: 4 unidades de 1 Kg para máquinas de café automáticas y molinillos de café
+- DELTA CAFES GRAN CREMA: Un gran café por la cual se crea una bebida equilibrada con notas de cacao, chocolate y caramelo.
+- ORIGEN: Una mezcla que combina el cuerpo de los cafés de Colombia con la acidez de los cafés de Guatemala
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BM4RH6Z7{{</world>}}

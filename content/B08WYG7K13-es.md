@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Cápsula inteligente para entregar la mejor calidad de taza en cuerpo y aroma
 - Café tostado y molido sabor caramelo
 - Paquete de 3 cubos de 12 cápsulas cada uno de Starbucks by Nescafé Dolce Gusto Caramel Macchiato
-- Aterciopelado e intenso
 - Deliciosamente familiar
+- Aterciopelado e intenso
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08WYG7K13{{</world>}}

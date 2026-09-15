@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nota de cata: Presenta en copa un color cereza brillante limpio, con borde granate. En nariz mantiene la frescura de la fruta, apreciándose la vainilla y los aromas más emblemáticos del roble tostado. En boca es sedoso y persistente presentado sabores especiados bien ensamblados. Redondo, frutal y equilibrado.
-- Capacidad: 6 botella de 750 ml
-- Variedad: Tempranillo con graduación de 13.5º
 - Temperatura de servicio: 16 - 18ºC.
+- Capacidad: 6 botella de 750 ml
+- Nota de cata: Presenta en copa un color cereza brillante limpio, con borde granate. En nariz mantiene la frescura de la fruta, apreciándose la vainilla y los aromas más emblemáticos del roble tostado. En boca es sedoso y persistente presentado sabores especiados bien ensamblados. Redondo, frutal y equilibrado.
 - Maridaje: Versátil de maridar con carnes, pescador, quesos o ibéricos
+- Variedad: Tempranillo con graduación de 13.5º
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08QXG61DJ{{</world>}}

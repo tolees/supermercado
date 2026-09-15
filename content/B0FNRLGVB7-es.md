@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Fragancia con explosiva combinación de cereza jugosa, manzana roja y ámbar
-- Este pack neceser incluye diferentes productos AXE para la higiene y cuidado personal del hombre. Axe Body Spray Cherry Fizz 150ml. Axe Shower Cherry Fizz 225ml. After Shave Black 100ml.
 - ¡Prueba la gama de productos masculinos Axe Fine Fragance Collection, con 72h de protección!
+- Este pack neceser incluye diferentes productos AXE para la higiene y cuidado personal del hombre. Axe Body Spray Cherry Fizz 150ml. Axe Shower Cherry Fizz 225ml. After Shave Black 100ml.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FNRLGVB7{{</world>}}

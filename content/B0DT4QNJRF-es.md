@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para rostro, ojos y labios – crea un look fresco y luminoso
 - Tonos cálidos en bronce y melocotón para un cutis armonioso
+- Perfecto para un brillo natural – ideal para todo tipo de piel
+- Para rostro, ojos y labios – crea un look fresco y luminoso
 - Incluye glow tint, stick facial, paleta de sombras y otros esenciales
 - Set de maquillaje de 7 piezas para un brillo radiante y veraniego
-- Perfecto para un brillo natural – ideal para todo tipo de piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DT4QNJRF{{</world>}}

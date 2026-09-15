@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Este aceite de oliva virgen extra de Canena (Jaén) es un monovarietal de la variedad arbequina
-- Botella de vidrio de 500 ml
 - Destaca por su extraordinaria delicadeza, redondez y enorme complejidad, dentro de una apreciable intensidad y buen cuerpo, y, sobre todo, su excepcional frutosidad, aromática y gustativa.
+- Botella de vidrio de 500 ml
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01GRU5RM2{{</world>}}

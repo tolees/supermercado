@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La siguiente información se aplica a cada unidad del paquete
-- AROMA DISTINTIVO: Infundida con el aroma distintivo de King C Gillette para una experiencia de cuidado personal refrescante y elegante
 - COMODIDAD DE LA PIEL: Respaldado por el 83% de los usuarios para una mayor comodidad de la piel
-- HIDRATACIÓN DURADERA TODO EL DÍA: Enriquecida con Vitamina B3 y B5
+- La siguiente información se aplica a cada unidad del paquete
 - ALIVIO INSTANTÁNEO: La fórmula infusionada con mentol alivia la irritación de la barba causada por la piel seca, proporcionando comodidad inmediata
 - FÓRMULA 3 EN 1: Hidrata, calma y suaviza tanto la piel como la barba para un confort y cuidado integral
+- AROMA DISTINTIVO: Infundida con el aroma distintivo de King C Gillette para una experiencia de cuidado personal refrescante y elegante
+- HIDRATACIÓN DURADERA TODO EL DÍA: Enriquecida con Vitamina B3 y B5
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0GXXH3WSR{{</world>}}

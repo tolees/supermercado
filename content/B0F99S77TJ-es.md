@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ideal para Halloween y fiestas temáticas – Como dulce espeluznante, para decorar la mesa o regalar en cumpleaños infantiles.
-- Trolli Glotzer con sorpresa – Gominolas blandas con relleno efervescente líquido y diseño 3D aterrador – ácidas y envueltas.
-- Sin gluten y sin lactosa – Diversión afrutada para personas con intolerancias – sabor sin culpa.
-- Para niños, jóvenes y fans de lo raro – Estos caramelos espumosos encantan a los valientes – ideal también como detallito.
 - Pack de 3 con pegatina – 3 bolsas de 4 piezas, total 12 ojos – con exclusiva pegatina Sweet Buddies para fans y coleccionistas.
+- Sin gluten y sin lactosa – Diversión afrutada para personas con intolerancias – sabor sin culpa.
+- Trolli Glotzer con sorpresa – Gominolas blandas con relleno efervescente líquido y diseño 3D aterrador – ácidas y envueltas.
+- Para niños, jóvenes y fans de lo raro – Estos caramelos espumosos encantan a los valientes – ideal también como detallito.
+- Ideal para Halloween y fiestas temáticas – Como dulce espeluznante, para decorar la mesa o regalar en cumpleaños infantiles.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F99S77TJ{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Utilízala para aderezar todo tipo de platos, no solo asiáticos; tus ensaladas no serán aburridas nunca más con nuestra salsa de SOJA
-- Rica en Umami, el sabor que transforma tus platos; realza todo tipo de recetas con el toque característico de Kikkoman
-- Kikkoman elabora su salsa de SOJA con solamente con ingredientes 100% naturales
-- Optima para marinados, aderezos y salsas
 - Usa tu salsa de SOJA como sustituto de la sal y obtendrás unos sabores más intensos y equilibrados
+- Rica en Umami, el sabor que transforma tus platos; realza todo tipo de recetas con el toque característico de Kikkoman
+- Optima para marinados, aderezos y salsas
+- Kikkoman elabora su salsa de SOJA con solamente con ingredientes 100% naturales
+- Utilízala para aderezar todo tipo de platos, no solo asiáticos; tus ensaladas no serán aburridas nunca más con nuestra salsa de SOJA
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B013P78JNO{{</world>}}

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Ideal para consumirla sola o mezclada con alcohol con mucho hielo y una rodaja de limón. Perfecta para cualquier momento del día. En tu aperitivo en el bar, con los amigos después del trabajo y con tu copa los fines de semana
-- El refresco Ginger Ale está elaborado 100% con aromas naturales
 - Refresco cítrico con un sabor suave a jengibre
 - Sabor suave, refrescante y con la genuina burbuja de Schweppes
+- El refresco Ginger Ale está elaborado 100% con aromas naturales
 - Bebida refrescante baja en calorías. Schweppes Ginger Ale tiene un contenido reducido en calorías
 
 [🛒 Visítala!!!]({{< param buyurl >}})

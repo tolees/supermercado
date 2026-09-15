@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Desarrollo óseo y muscular
-- Bocaditos en salsa para gatitos con Pollo
 - Apto para gatitos de 2 a 12 meses de edad
 - 12 sobres de 85g
+- Bocaditos en salsa para gatitos con Pollo
+- Desarrollo óseo y muscular
 - Contribuye a un crecimiento saludable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

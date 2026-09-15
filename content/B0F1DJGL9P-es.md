@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Perlas de perfume con un frescor suave y duradero
+- Sin colorantes
+- Testado dermatológicamente
 - Vierte las perlas de perfume para el lavado directamente en el tambor vacío de la lavadora antes de lavar la ropa
 - Pueden añadirse a todas las coladas, con todo tipo de tejidos
-- Testado dermatológicamente
-- Sin colorantes
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F1DJGL9P{{</world>}}

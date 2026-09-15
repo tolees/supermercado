@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Prima Mayonesa ligera elaborada con huevos 100% origen España. 390 ml'
-date: 2026-08-17 17:42:34
+date: 2026-09-14 11:53:15
 image: 'https://m.media-amazon.com/images/I/310bgcgu0JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0BMQN33KB-es Prima Mayonesa ligera elaborada con huevos 100% origen...'
 sku: 'B0BMQN33KB-es'
 tags: [ 'mayonesa','🇪🇸', ]
-actualPrice: 2.19 EUR
+actualPrice: 1.0 EUR
 currency: EUR
-price: 2.19
+price: 1.0
 comparePrice: 2.5 EUR
 prodname: 'Prima Mayonesa ligera elaborada con huevos 100% origen España. 390 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BMQN33KB/?tag=tolees-21'
-descuento: '12.40'
-average: '2.44714285714286'
+descuento: '60.00'
+average: '2.12555555555556'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dale chispa a tus platos y saborea la vida disfrutando con los tuyos. Prima, Salseo del bueno.
-- Misma receta ahora envasada en botella 25% reciclada
-- Disfruta del delicioso sabor nuestra salsa ligera a la vez que cuidas tu figura con un 40% menos de calorías que nuestra mayonesa original. Sin gluten y sin lactosa.
-- Ideal para dar sabor a tus platos y ensaladas
-- Sabor original, 40% menos calorías
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BMQN33KB{{</world>}}

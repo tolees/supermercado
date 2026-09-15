@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 4 x 500 g; granos de café arábica de las tierras altas cuidadosamente seleccionados y cultivados ecológicamente (100%) para un sabor ligero y afrutado, un aroma perfecto y una acidez equilibrada
+- Tostado con pasión y con la experta tradición vienesa desde 1929; aromatizado suavemente con tostado a tambor a largo plazo
 - Todas nuestras variedades de café cuentan con la certificación UTZ (como parte de Rainforest Alliance); la sostenibilidad y la responsabilidad ambiental están muy cerca de nuestro corazón
 - DER-FRANZ Crema ORGANIC: café tostado, molido; intensidad 4 de 5; tostado 3 de 5; acidez 2 de 5; mezcla perfecta para espresso, lungo o capuchino
-- Tostado con pasión y con la experta tradición vienesa desde 1929; aromatizado suavemente con tostado a tambor a largo plazo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07Y5GW9QH{{</world>}}

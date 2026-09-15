@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alimento 100% completo y equilibrado
-- Alimentación completa para perros adultos
 - Ayuda a mantener las defensas naturales
+- Alimentación completa para perros adultos
+- Alimento 100% completo y equilibrado
 - Creado por nuestros expertos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

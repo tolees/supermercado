@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 🚫 Sin colorantes ni conservantes, según la legislación vigente.
-- 🍎 Alimento infantil elaborado con fruta natural madurada en el árbol y cereales especialmente seleccionados para bebés.
 - 🌿 100% natural con vitamina C.
+- 🍎 Alimento infantil elaborado con fruta natural madurada en el árbol y cereales especialmente seleccionados para bebés.
+- 🚫 Sin colorantes ni conservantes, según la legislación vigente.
 - 🏡 Sin azúcares añadidos y sin espesantes, como lo haces en casa.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

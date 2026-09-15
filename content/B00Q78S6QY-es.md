@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - APTO PARA USO FRECUENTE: Un cosmético que mejora y mantiene la hidratación natural, permitiendo un uso frecuente sin alterar las propiedades protectoras de la piel. pH adaptado al pelaje.
-- CALMA PICORES: Se caracteriza por su capacidad de aliviar los picores ocasionales (prurito), y otras molestias relacionadas con pequeñas irritaciones, sarpullidos, roces y picaduras de insectos
 - EXTRACTO ÁRBOL DE TÉ: Champú de máxima calidad con Aceite Esencial de Árbol de Té que casi siempre hace desaparecer el picor y las costras desde la primera aplicación siendo visible que el pelaje deja de caerse y que este recobra la hidratación normal.
+- CALMA PICORES: Se caracteriza por su capacidad de aliviar los picores ocasionales (prurito), y otras molestias relacionadas con pequeñas irritaciones, sarpullidos, roces y picaduras de insectos
 - MODO DE EMPLEO: Humedecer el pelaje con abundante agua tibia. Aplicar el champú en cuello, lomo, manos y patas. Masajear hasta conseguir una abundante y cremosa espuma y dejar actuar unos instantes. Aclarar y dejar que el perro se sacuda. Secar con toalla.
 - MENFORSAN: En Menforsan nos preocupamos por la salud de los animales y el cuidado del planeta, por lo que creamos productos naturales vegan friendly de la mejor calidad.
 

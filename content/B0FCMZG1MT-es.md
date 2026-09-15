@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alto contenido de fibra
-- Envasado en atmósfera protectora.
 - Apto para dietas vegetarianas y veganas.
+- Envasado en atmósfera protectora.
+- Alto contenido de fibra
 - Puede contener ocasionalmente trozos de cáscara.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

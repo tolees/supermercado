@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Apto para vegetarianos
-- Hecha con huevos de gallinas camperas
 - Perfecto para hacer ensaladilla rusa
+- Hecha con huevos de gallinas camperas
+- Apto para vegetarianos
 - Sin colorantes, aromas, ni espesantes artificiales
 
 [🛒 Visítala!!!]({{< param buyurl >}})

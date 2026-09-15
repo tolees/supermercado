@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- La siguiente información se aplica a cada unidad del paquete
+- Producto de Japón
+- Refinar al gusto con tofu, algas, salsa de pescado u otras verduras
 - Saquitos de sopa instantánea Miso
 - Contenido : 1 X 152 GR
-- Producto de Japón
-- La siguiente información se aplica a cada unidad del paquete
-- Refinar al gusto con tofu, algas, salsa de pescado u otras verduras
 - Sin gluten
 
 [🛒 Visítala!!!]({{< param buyurl >}})

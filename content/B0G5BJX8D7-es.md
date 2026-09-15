@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Sabor inconfundible y aroma envolvente
-- Conservar en un lugar fresco y seco
-- Con un empaque que conserva el sabor
-- Con un intenso aroma a café
 - La siguiente información se aplica a cada unidad del paquete
+- Con un intenso aroma a café
 - Mezcla de café molido descafeinado
+- Con un empaque que conserva el sabor
+- Conservar en un lugar fresco y seco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0G5BJX8D7{{</world>}}

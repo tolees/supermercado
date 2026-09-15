@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sugerencia de preparación: Jack Daniels con cola, Limonada Lynchburg.
-- Sabor y final: intenso y especiado, con matices de naranja, azúcar moreno y especias, roble intenso y manzana seca. Aroma: dulce, intenso, de vainilla.
 - Su éxito se debe al método de elaboración exclusivo del famoso Old No. 7 con los mejores ingredientes como el mejor maíz, centeno y malta de cebada, así como agua libre de hierro procedente del manantial de la cueva Spring Hollow.
-- Además, se somete a un filtrado gota a gota a través de tres metros de carbón de arce sacarino y se madura en barricas de roble ensambladas a mano.
+- Sugerencia de preparación: Jack Daniels con cola, Limonada Lynchburg.
 - Gracias al proceso único de elaboración del whiskey hacen de Jack Daniels un Tennessee Whiskey suave en el paladar, muy distinto de un bourbon.
+- Además, se somete a un filtrado gota a gota a través de tres metros de carbón de arce sacarino y se madura en barricas de roble ensambladas a mano.
+- Sabor y final: intenso y especiado, con matices de naranja, azúcar moreno y especias, roble intenso y manzana seca. Aroma: dulce, intenso, de vainilla.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B007WRKPQS{{</world>}}

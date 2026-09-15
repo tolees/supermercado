@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Variedad con sabor a queso, con una textura crujiente
-- Producto diseñado para cocinar en Air Fryer.
 - Se puede utilizar en Air Fryer o en Horno (ver parte trasera del pack).
 - En cada sobre vienen 3 porciones.
+- Producto diseñado para cocinar en Air Fryer.
+- Variedad con sabor a queso, con una textura crujiente
 - Es práctico, rápido y con un resultado muy crujiente en el exterior y jugoso en el interior.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

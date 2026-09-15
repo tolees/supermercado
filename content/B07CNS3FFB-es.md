@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- PREMIADA INTERNACIONALMENTE. La Estrella Galicia 0,0 forma parte de una marca reconocida con premios como el World Beer Award, el International Beer Challenge o el Brussels Beer Challenge, que avalan su calidad, innovación y excelencia en la elaboración
 - VERSÁTIL Y REFRESCANTE. Su sabor fresco y equilibrado la convierte en una cerveza muy versátil para maridar bien con quesos frescos, verduras y hortalizas frías y cítricas, mariscos y pescados blancos
 - CERVEZA ESTRELLA GALICIA 0,0. Pack de cervezas lager Pilsen sin alcohol con un sabor fresco con un suave final amargo. Aporta un gran equilibrio entre maltas y lúpulos, con sutiles notas florales y lupuladas. Se recomienda un consumo entre 4 y 5º
 - INGREDIENTES SELECCIONADOS. Elaborada con agua de A Coruña, MALTAS tipo Pilsen y tostada, LÚPULOS Nugget y Perle Hallertau, y LEVADURA seleccionada. Su proceso de producción combina la tradición cervecera centenaria de Hijos de Rivera con ingredientes de máxima calidad. Alc 0,0% vol
-- PREMIADA INTERNACIONALMENTE. La Estrella Galicia 0,0 forma parte de una marca reconocida con premios como el World Beer Award, el International Beer Challenge o el Brussels Beer Challenge, que avalan su calidad, innovación y excelencia en la elaboración
 - AROMA MALTOSO Y FLORAL. De color amarillo dorado intenso y brillante, presenta un aroma equilibrado que recuerda a las maltas empleadas en la elaboración del mosto cervecero, acompañado de notas florales y lupuladas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

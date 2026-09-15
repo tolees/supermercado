@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Herbal Essences Argán Champú 2x350ml + Mascarilla 500ml para Pelo Dañado'
-date: 2026-09-12 05:35:00
+date: 2026-09-13 21:14:25
 image: 'https://m.media-amazon.com/images/I/51hUrvURgaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DZHKNCT4/?tag=tolees-21'
 descuento: '25.01'
-average: '13.49'
+average: '13.6566666666666'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Licor del Polo - Pasta de dientes 2 en 1 - Junior +6 años Sabor Fresa - Protección completa contra las caries sarro placa y problemas de encías - 1 ud de 75ml'
-date: 2026-09-06 13:32:28
+date: 2026-09-13 08:12:05
 image: 'https://m.media-amazon.com/images/I/51F9InHEz9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9UNK96/?tag=tolees-21'
 descuento: '23.58'
-average: '1.97500000000001'
+average: '1.96521739130436'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuidado diario de dientes y encías
-- Sabor agradable para favorecer el cepillado
-- Ayuda a proteger frente a las caries
-- Desarrollado para niños
-- Fórmula adaptada a su edad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00X9UNK96{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin conservantes
-- Horneadas y fritas al mejor estilo mexicano
-- Perfectas para dippear en las salsas Old El Paso
 - Sin gluten y aptas para vegetarianos
+- Horneadas y fritas al mejor estilo mexicano
+- Sin conservantes
 - Crujientes tortillas hechas de harina de maíz y con sabor a fajita
+- Perfectas para dippear en las salsas Old El Paso
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MXSZ0YB{{</world>}}

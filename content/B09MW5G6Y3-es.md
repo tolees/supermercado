@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- ROPA BLANCA Y DE COLOR: protege los tejidos de tus prendas aportando brillo y una limpieza profunda
 - APTO PARA LAVAR A MANO: prendas delicadas como medias, ropa interior, prendas de baño, etc
 - EFICACIA: Incluso en lavados cortos o a baja temperatura
-- ROPA BLANCA Y DE COLOR: protege los tejidos de tus prendas aportando brillo y una limpieza profunda
 - ECOBOLSA DE 15 LAVADOS
 - COLADA IMPECABLE: Limpieza total, antimanchas y antiolores
 

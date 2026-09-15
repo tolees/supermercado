@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Malfy Rosa es la ginebra perfecta para preparar un amplio abanico de cócteles, como Gin Rosa Martini, Malfy Gin con Rosa and Tonic, o Pink Lemonade
-- Entre sus ingredientes destacan las uvas tintas de Sicilia, ruibarbo italiano, enebro, pomelo rosado siciliano,cilantro, corteza de casia, raíz de angélica, raíz de lirio, cáscara de naranja y cáscara de limón
-- Esta ginebra premium destaca por las Uvas de Sicilia que predominan en su receta
 - Este gin premium se caracteriza por un delicado color rosa pálido, y un fresco aroma a uvas, anís y ruibarbo
 - Malfy Rosa es una ginebra premium italiana fiel a los botánicos de su tierra
+- Entre sus ingredientes destacan las uvas tintas de Sicilia, ruibarbo italiano, enebro, pomelo rosado siciliano,cilantro, corteza de casia, raíz de angélica, raíz de lirio, cáscara de naranja y cáscara de limón
+- Esta ginebra premium destaca por las Uvas de Sicilia que predominan en su receta
 - Malfy Rosa es una ginebra italiana premium muy refrescante y moderna que contiene frutas y botánicos locales
+- Malfy Rosa es la ginebra perfecta para preparar un amplio abanico de cócteles, como Gin Rosa Martini, Malfy Gin con Rosa and Tonic, o Pink Lemonade
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07DGHQPZ8{{</world>}}

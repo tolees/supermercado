@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Agitar antes de servir
 - Producto sometido a estrictos controles de calidad
-- Puede contener trazas de pescado, leche, crustáceos, moluscos
-- Tapón: girar y listo
 - Cocidos 3 horas a fuego lente
+- Puede contener trazas de pescado, leche, crustáceos, moluscos
+- Agitar antes de servir
+- Tapón: girar y listo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B093RG99TP{{</world>}}

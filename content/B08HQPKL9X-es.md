@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Sin azúcar, con edulcorantes. Contiene sorbitol y una fuente de fenilalanina
-- Formato pack de 3 envases individuales de chicles tipo lámina. Total 36 chicles.
 - Chicles refrescantes sin azúcar con sabor a hierbabuena
 - Conservar en lugar fresco y seco
+- Formato pack de 3 envases individuales de chicles tipo lámina. Total 36 chicles.
 - Sabor intenso y refrescante que cuida tu aliento y tu salud dental
 
 [🛒 Comprar!!!]({{< param buyurl >}})

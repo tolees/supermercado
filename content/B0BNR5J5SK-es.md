@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vileda Infinity Flex tendedero Grande Extensible 30 m Acero y Aluminio'
-date: 2026-09-12 09:29:36
+date: 2026-09-13 19:02:31
 image: 'https://m.media-amazon.com/images/I/31LpH8f1mDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BNR5J5SK/?tag=tolees-21'
 descuento: '11.77'
-average: '65.1922727272728'
+average: '66.0087500000001'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

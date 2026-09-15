@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Frescor resistente al secado en ambientes húmedos o bajo el sol intenso
-- Con tecnología Fresh Air Kick, como si se hubiera secado al aire libre en un campo de flores silvestres
-- Botella de plástico reciclado, excepto boquilla, tapón y cubierta
-- La siguiente información se aplica a cada unidad del paquete
-- Concentrado (en comparación con el suavizante Lenor Frescor de Abril): una pequeña dosis es suficiente
 - Lenor Aire Fresco Suavizante para ropa, para una colada como secada al aire libre
 - Para un DISFRUTE MÁXIMO, combínalo con las perlas de perfume de Lenor
+- Botella de plástico reciclado, excepto boquilla, tapón y cubierta
+- Frescor resistente al secado en ambientes húmedos o bajo el sol intenso
+- Concentrado (en comparación con el suavizante Lenor Frescor de Abril): una pequeña dosis es suficiente
+- Con tecnología Fresh Air Kick, como si se hubiera secado al aire libre en un campo de flores silvestres
+- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G59NYH5Z{{</world>}}

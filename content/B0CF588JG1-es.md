@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un chocolate cremoso, suave y dulce, hecho con leche recogida diariamente de la cornisa Cantábrica.
-- 100% Cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan. Certificado Rainforest.
 - Relleno de Galleta Filipinos Blanco.
-- Producimos Nestlé Extrafino desde 1966 en La Penilla, Cantabria, siguiendo un proceso tradicional.
 - Delicioso chocolate con leche NESTLÉ EXTRAFINO con relleno cremoso y trocitos de galleta Filipinos Blanco.
+- 100% Cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan. Certificado Rainforest.
+- Producimos Nestlé Extrafino desde 1966 en La Penilla, Cantabria, siguiendo un proceso tradicional.
+- Un chocolate cremoso, suave y dulce, hecho con leche recogida diariamente de la cornisa Cantábrica.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CF588JG1{{</world>}}

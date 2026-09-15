@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L Oréal Paris Infaillible Spray Fijador de Maquillaje hasta 36 Horas 75ml'
-date: 2026-09-10 11:24:12
+date: 2026-09-13 23:33:20
 image: 'https://m.media-amazon.com/images/I/31JCGMM3a0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CNQ4DJRV/?tag=tolees-21'
 descuento: '34.79'
-average: '8.22874999999999'
+average: '8.18352941176469'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

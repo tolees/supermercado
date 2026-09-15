@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alimento para bebés a partir de 4 meses
-- Sin aceite de palma y sin gluten
 - Sin azúcares añadidos** y sin espesantes, como lo haces en casa
 - Sin colorantes y sin conservantes, de acuerdo con la legislación vigente
 - Bolsita de puré de frutas para bebés a partir de 4 meses 100% natural con vitamina C
+- Sin aceite de palma y sin gluten
+- Alimento para bebés a partir de 4 meses
 - Alimento infantil elaborado 100% con fruta natural madurada en el árbol lista para tomar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

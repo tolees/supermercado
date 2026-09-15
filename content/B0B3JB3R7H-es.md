@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Efecto matificante – La fórmula de este protector facial solar tiene un efecto matificante instantáneo y absorbe el exceso de grasa de la superficie cutánea.
 - Protección avanzada – Para proteger la piel delicada de los niños de la radiación solar, este protector solar hidratante cuenta con protección UVA/UVB.
-- Protector solar 50 – Esta crema facial solar con FP50, protección UVA/UVB y derivados naturales antioxidantes protege la piel de los rayos solares.
 - Hidratación profunda – Con pantenol y vitamina E, esta crema solar para niños reduce el riesgo de alergias solares hidratando de forma profunda y duradera.
-- No pegajosa – La textura ligera de este protector solar facial proporciona a la piel del rostro una sensación no grasa, no pegajosa e invisible.
+- Efecto matificante – La fórmula de este protector facial solar tiene un efecto matificante instantáneo y absorbe el exceso de grasa de la superficie cutánea.
+- Protector solar 50 – Esta crema facial solar con FP50, protección UVA/UVB y derivados naturales antioxidantes protege la piel de los rayos solares.
 - Fórmula ligera – La fórmula ligera de este spray infantil con factor de protección 50+ se absorbe rápidamente, no es pegajosa y es extra resistente al agua.
+- No pegajosa – La textura ligera de este protector solar facial proporciona a la piel del rostro una sensación no grasa, no pegajosa e invisible.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B3JB3R7H{{</world>}}

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Tipo de piel: Grasa
-- Usar por la mañana y por la noche
 - Mejora la apariencia de la piel y la deja suave e hidratada
-- Aplicar uniformemente por el rostro y el cuello tras la limpieza
 - Para obtener mejores resultados, utilizar junto con el jabón facial para el control de la grasa y el exfoliante facial
+- Usar por la mañana y por la noche
+- Aplicar uniformemente por el rostro y el cuello tras la limpieza
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08M9XZXMC{{</world>}}

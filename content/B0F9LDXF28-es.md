@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Recambio para ambientador difusor de aceites esenciales Air Wick Essential Mist; transforma aceites esenciales naturales en vapor para envolvernos de las fragancias que más nos gustan
-- Larga duración: cada recambio dura hasta 45 días para que puedas disfrutar de un aroma duradero en tu hogar
-- Intensidad de fragancia personalizable: 4 niveles de intensidad para escoger la cantidad justa para cualquier habitación de tu casa: baño, salón o habitación
 - Aroma Flor de Cerezo y Frambuesa; infusionado con 2 veces más aceites esenciales vs los anteriores recambios de Air wick Essential Mist
+- Larga duración: cada recambio dura hasta 45 días para que puedas disfrutar de un aroma duradero en tu hogar
+- Recambio para ambientador difusor de aceites esenciales Air Wick Essential Mist; transforma aceites esenciales naturales en vapor para envolvernos de las fragancias que más nos gustan
+- Intensidad de fragancia personalizable: 4 niveles de intensidad para escoger la cantidad justa para cualquier habitación de tu casa: baño, salón o habitación
 - Embalaje reciclable sin plástico
 
 [🛒 Aquí!!!]({{< param buyurl >}})

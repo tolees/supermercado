@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se puede lavar la cara, el cuerpo y el cabello
+- Fórmula de cuidado con carbón activo
 - Limpia la piel y evita el secado excesivo
 - Aroma masculino
-- Fórmula de cuidado con carbón activo
+- Se puede lavar la cara, el cuerpo y el cabello
 - Compatibilidad con la piel dermatológicamente probada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

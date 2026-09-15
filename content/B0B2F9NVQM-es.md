@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ideales con leche
-- Granolas crujientes vegetarianas
 - Con avena integrale y chocolate negro
+- Granolas crujientes vegetarianas
+- Ideales con leche
 - Listos para consmuir
 - Conservar en un lugar fresco y seco
 

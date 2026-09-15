@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Café 100% Arábica
-- Café Soluble Premium de Tostado Medio de STARBUCKS con notas suaves y equilibradas
-- 50 sobres de 2,3g
-- Bebidas Instantáneas Premium de STARBUCKS
 - Rico en sabor, mezcla latinoamericana con notas cremosas de chocolate con leche y nueces.
+- 50 sobres de 2,3g
+- Café 100% Arábica
+- Bebidas Instantáneas Premium de STARBUCKS
+- Café Soluble Premium de Tostado Medio de STARBUCKS con notas suaves y equilibradas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F3Q4FDW2{{</world>}}

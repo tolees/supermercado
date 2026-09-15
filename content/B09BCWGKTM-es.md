@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Agradable aroma masculino
 - El gel de ducha de NIVEA MEN hidrata intensamente la piel y evita el secado excesivo
-- Compatibilidad con la piel dermatológicamente probada
 - Gel de ducha adecuado para limpiar la cara, el cuerpo y el cabello
+- Compatibilidad con la piel dermatológicamente probada
 - Fórmula de cuidado de gel de aloe vera
 
 [🛒 Comprar!!!]({{< param buyurl >}})

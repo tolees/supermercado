@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Hecho de nuestra tela de jersey súper ligera, ofrece una sensación transpirable y suave, óptima para llevar durante todo el día
-- El corte estándar asegura una silueta casual pero pulida, complementada con un clásico cuello redondo
 - Ideal para superponer o llevar solo, cuenta con nuestro logotipo reflectante de firma en el lado izquierdo del pecho, añadiendo un toque sutil y moderno
+- El corte estándar asegura una silueta casual pero pulida, complementada con un clásico cuello redondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DTJ8LFRK{{</world>}}

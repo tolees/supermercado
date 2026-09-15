@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De acabado invisible, está testado en todos los tonos de piel, no es graso ni pegajoso y tampoco deja marcas blancas. Apto para todo tipo de pieles, incluso las sensibles.
-- Un protector solar en un cómodo formato stick de protección muy alta y enriquecido con Vitamina E.
-- Su fórmula de alta protección previene al instante las quemaduras solares y daños cutáneos a largo plazo.
 - Su fórmula está enriquecida con Manteca de Karité y Vitamina E para una hidratación intensa y efecto antioxidante.Apto para aplicar tanto por encima como por debajo del maquillaje sin que se formen grumos y fácil de transportar.
+- De acabado invisible, está testado en todos los tonos de piel, no es graso ni pegajoso y tampoco deja marcas blancas. Apto para todo tipo de pieles, incluso las sensibles.
+- Su fórmula de alta protección previene al instante las quemaduras solares y daños cutáneos a largo plazo.
+- Un protector solar en un cómodo formato stick de protección muy alta y enriquecido con Vitamina E.
 - Protege contra los rayos UVB y UVA, incluso largos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

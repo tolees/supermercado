@@ -29,15 +29,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - MEZCLA DE CAFÉ DESCAFEINADA: Es la Mezcla adecuada para quienes prefieren el Espresso Descafeinado, sin renunciar al sabor y la cremosidad propios de un buen Café. Gracias a la tecnología de Caffè Borbone, este Mezcla conserva todas las características de un excelente café napolitano, marcado y penetrante en el paladar
-- FORMATO: 50 Cápsulas de Café Compostables
 - FRAGANCIA Y AROMA: Una Mezcla refinada y persistente, que se presenta con: Cuerpo: 8.2 - Intensidad: 8.5 - Persistencia: 8.5 - Dulzo: 8.5 - Acidez: 4
 - Las Cápsulas Compostables ESE Caffè Borbone de 44 mm de papel de filtro son 100% compatibles con todas las máquinas de café que utilizan el sistema Easy Serving Espresso. ¡Haz la elección correcta para un mundo mejor: elige un producto 100% ecológico!
-- Las Cápsulas Compostables ESE Caffè Borbone de 44 mm de papel de filtro son 100% Compatibles con todas las máquinas de café que utilizan el sistema Easy Serving Espresso. ¡Haz la elección correcta para un mundo mejor: elige un producto 100% ecológico!
-- *ESE mm 44 y *ESE son marcas registradas por el consorcio EASY SERVING ESPRESSO; La producción de estas cápsulas es autónoma y no está conectada ni directa ni indirectamente a EASY SERVING ESPRESSO
-- FORMATO: 50 Cápsulas de Café Compostables
 - *ESE dm 44 y *ESE son marcas registradas por el consorcio EASY SERVING ESPRESSO. La producción de estas cápsulas es autónoma y no está conectada ni directa ni indirectamente a EASY SERVING ESPRESSO
-- MEZCLA DE CAFÉ DESCAFEINADA: Es la Mezcla adecuada para quienes prefieren el Espresso Descafeinado, sin renunciar al sabor y la cremosidad propios de un buen Café; Gracias a la tecnología de Caffè Borbone, este Mezcla conserva todas las características de un excelente café napolitano, marcado y penetrante en el paladar
+- FORMATO: 50 Cápsulas de Café Compostables
+- Las Cápsulas Compostables ESE Caffè Borbone de 44 mm de papel de filtro son 100% Compatibles con todas las máquinas de café que utilizan el sistema Easy Serving Espresso. ¡Haz la elección correcta para un mundo mejor: elige un producto 100% ecológico!
 - FRAGANCIA Y AROMA: Una Mezcla refinada y persistente, que se presenta con: Cuerpo: 8.2 - Intensidad: 8.5 - Persistencia: 8.5 - Dulzo: 8.5 - Acidez: 4
+- MEZCLA DE CAFÉ DESCAFEINADA: Es la Mezcla adecuada para quienes prefieren el Espresso Descafeinado, sin renunciar al sabor y la cremosidad propios de un buen Café; Gracias a la tecnología de Caffè Borbone, este Mezcla conserva todas las características de un excelente café napolitano, marcado y penetrante en el paladar
+- FORMATO: 50 Cápsulas de Café Compostables
+- *ESE mm 44 y *ESE son marcas registradas por el consorcio EASY SERVING ESPRESSO; La producción de estas cápsulas es autónoma y no está conectada ni directa ni indirectamente a EASY SERVING ESPRESSO
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07MCCF7F5{{</world>}}

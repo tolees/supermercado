@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una versión elegante y diseñada por expertos de un clásico de ropa masculina
-- Incluye un cocodrilo bordado tonal en el pecho para una marca sutil
 - Cuenta con un corte recto regular y tejido elástico para libertad de movimiento
-- Hecha de una versión más fina del icónico tejido de punto piqué para un resultado elegante
 - Acabado con un cuello acanalado a rayas de contraste para un toque sofisticado
+- Incluye un cocodrilo bordado tonal en el pecho para una marca sutil
+- Una versión elegante y diseñada por expertos de un clásico de ropa masculina
+- Hecha de una versión más fina del icónico tejido de punto piqué para un resultado elegante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D91SFW6Q{{</world>}}

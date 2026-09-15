@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color de labios mate de larga duración
 - aplicador de flecha distintivo ideal para una aplicación precisa para una apariencia de lápiz labial fácil
 - color líquido mate intenso de 12 horas
 - se adapta a todos los tonos de piel
 - fórmula que no seca para labios mate que no se ven ni se sienten secos
+- Color de labios mate de larga duración
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B073H9TC5V{{</world>}}

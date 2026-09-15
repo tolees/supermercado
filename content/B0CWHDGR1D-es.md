@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gillette Venus Rasuradora Mujer Zona Íntima Depiladora para Vello Y Piel de La Zona Íntima con Aletas Protectoras para Una Depilación Suave Recorta Y Afeita El Vello Púbico en Seco Y en Mojado'
-date: 2026-09-11 06:33:02
+date: 2026-09-13 15:06:08
 image: 'https://m.media-amazon.com/images/I/41XYSuk3oKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CWHDGR1D/?tag=tolees-21'
 descuento: '49.35'
-average: '19.746'
+average: '19.46125'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

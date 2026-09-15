@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Anticaida peluquería unisex adulto
-- 1 unidad
 - Lambdapil anticaida champu 100ml (8470001757128)
 - Anticaida lambdapil
+- Anticaida peluquería unisex adulto
+- 1 unidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01BN1R93K{{</world>}}

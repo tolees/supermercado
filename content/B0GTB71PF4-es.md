@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Packs de Pollo
 - Energía y crecimiento para cachorros de razas Mini.
-- Alimento completo y equilibrado para cachorros de tamaño mini (1-10 kg).
-- Digestión fácil: con inulina prebiótica que puede favorecer la digestión
 - En prácticas latas de 200g
+- Digestión fácil: con inulina prebiótica que puede favorecer la digestión
+- Alimento completo y equilibrado para cachorros de tamaño mini (1-10 kg).
+- Packs de Pollo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0GTB71PF4{{</world>}}

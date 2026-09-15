@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Jabón de manos nutritivo con protección total contra agentes externos
 - Deja las manos limpias, suaves, nutridas y delicadamente perfumadas
-- Testado dermatológicamente
 - Con almendras y jalea real
+- Testado dermatológicamente
+- Jabón de manos nutritivo con protección total contra agentes externos
 - Complejo dermo reparador con ingredientes de origen natural
 
 [🛒 Aquí!!!]({{< param buyurl >}})

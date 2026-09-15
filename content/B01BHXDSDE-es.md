@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SOLÍS Tomate Frito Estilo Casero Brick - Sin Gluten - 350g'
-date: 2026-09-09 17:19:03
+date: 2026-09-13 13:50:23
 image: 'https://m.media-amazon.com/images/I/51vo37Dt25L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BHXDSDE/?tag=tolees-21'
 descuento: '38.71'
-average: '0.950857142857142'
+average: '0.95081081081081'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

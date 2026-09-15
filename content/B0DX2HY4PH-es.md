@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Esta mascarilla concentrada patentada, formulada con Repador de enlaces + 5 Aminoácidos, repara 2 años de daños* y rellena las capas moleculares del cabello**.
 - Mini Mascarilla profesional concentrada Absolut Repair Molecular de LOréal Professionnel. Repara los daños y restaura la fuerza, para todo tipo de cabello dañado.
+- Esta mascarilla concentrada patentada, formulada con Repador de enlaces + 5 Aminoácidos, repara 2 años de daños* y rellena las capas moleculares del cabello**.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DX2HY4PH{{</world>}}

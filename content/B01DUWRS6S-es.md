@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Producto que no contiene gluten
 - Sin sal añadida para un sabor natural
-- La textura es crujiente y tostada
 - Conservar en lugar fresco y seco
+- La textura es crujiente y tostada
 - Adecuado para compartir con amigos y familiares
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

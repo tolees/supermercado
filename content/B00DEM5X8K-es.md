@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Uso: se aplica cada día en el rostro húmedo
 - Tipo de producto: gel limpiador facial
+- Género: unisex
 - Ayuda a reducir la impresión de brillo y a mantener los poros cerrados
 - Ofrece un efecto matificante de larga duración
-- Género: unisex
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00DEM5X8K{{</world>}}

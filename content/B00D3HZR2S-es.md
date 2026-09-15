@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Reparar las grietas de sequedad y eliminar asperezas, rugosidades y engrosamientos moderados.
 - Textura Gel Oil: textura fresca, ligera y no grasa de rápida absorción que facilita el uso diario y maximiza la eficacia del producto.
 - Apto para diabéticos. Probado dermatológica y podológicamente.No sensibilizante.
+- Reparar las grietas de sequedad y eliminar asperezas, rugosidades y engrosamientos moderados.
 - Hidrata intensamente: Urea Isdin retiene el agua aportando un nivel óptimo de hidratación.
 - Gel Oil Hidratante para pies secos y agrietados. Eficacia demostrada desde el tercer día.
 

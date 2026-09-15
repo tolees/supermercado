@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Chicles refrescantes sin azúcar con sabor a hierbabuena
-- Conservar en lugar fresco y seco
+- Sabor intenso y refrescante que cuida tu aliento y tu salud dental
 - Bolsa de 4 envases individuales de chicles tipo gragea. Total 40 chicles. Total 56 gramos.
 - Sin azúcar, con edulcorantes. Contiene sorbitol y una fuente de fenilalanina
-- Sabor intenso y refrescante que cuida tu aliento y tu salud dental
+- Chicles refrescantes sin azúcar con sabor a hierbabuena
+- Conservar en lugar fresco y seco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01DUWH76O{{</world>}}

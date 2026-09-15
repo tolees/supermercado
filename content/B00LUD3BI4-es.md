@@ -30,10 +30,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Fórmula con ingredientes hidratantes: aceite de almendras, aceite de jojoba, y manteca de karité que ayuda a mantener la hidratación de la uñas
 - Se elimina fácilmente con quitaesmaltes
-- Tecnología de color 7 días
 - Las uñas se ven sanas y fuertes y muestran una mejora notable
 - No necesita lámpara UV
 - No necesita base
+- Tecnología de color 7 días
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00LUD3BI4{{</world>}}

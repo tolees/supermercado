@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - MODO DE USO: Úsalo a tu gusto
-- Si eres amante del cacao, esta crema de Ecosana a base de ingredientes naturales de procedencia ecológica y sin grasa de palma es un buen acompañante para tus desayunos, meriendas, postres…
-- PROPIEDADES: Hecha a base de ingredientes de procedencia ecológica y libres de aceite de palma
 - CACAOS. Avellanas, Manteca de Cacao procedentes de Agricultura Ecológica
 - BENEFICIOS: Todo el sabor y las propiedades de cacao de procedencia ecológica
+- Si eres amante del cacao, esta crema de Ecosana a base de ingredientes naturales de procedencia ecológica y sin grasa de palma es un buen acompañante para tus desayunos, meriendas, postres…
+- PROPIEDADES: Hecha a base de ingredientes de procedencia ecológica y libres de aceite de palma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07VBDY1GG{{</world>}}

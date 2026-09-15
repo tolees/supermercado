@@ -29,12 +29,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Contiene aceites de jojoba y argán
-- Cabello más ligero y con más cuerpo
 - Pelo hasta 3 veces más suave
-- Acondicionador ligero
-- Combínalo con el champú Dark Oil, la mascarilla Dark Oil y el aceite Dark Oil de Sebastian Professionals
-- Suaviza y desenreda el pelo
 - Todo tipo de cabello
+- Combínalo con el champú Dark Oil, la mascarilla Dark Oil y el aceite Dark Oil de Sebastian Professionals
+- Acondicionador ligero
+- Suaviza y desenreda el pelo
+- Cabello más ligero y con más cuerpo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07TFVCPBS{{</world>}}

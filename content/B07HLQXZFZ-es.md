@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Formulación especialmente diseñada para apoyar la salud cerebral
 - Nutrición basada en la ciencia desarrollada con veterinarios de Purina
 - La fórmula ha sido equilibrada por expertos para apoyar el envejecimiento saludable en gatos mayores.
-- Formulación especialmente diseñada para apoyar la salud cerebral
 - Contiene un alto nivel de antioxidantes, arginina, ácidos grasos omega 3 y 6 y prebióticos para apoyar las funciones vitales clave (inmune, renal, digestión)
 - Ingrediente de salmón n°1
 

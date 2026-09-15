@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - BRANDY SOLERA GRAN RESERVA D.O. JEREZ DE LA MÁS ALTA EXPRESIÓN: Carlos I Imperial XO representa la cima de la maestría brandinista de Osborne. Elaborado a partir de la destilación de vino y envejecido en botas de roble americano con sherry casks de hasta 60 años de antigüedad.
-- MEDALLAS DE ORO Y PLATA INTERNACIONALES: Carlos I Imperial XO ha sido reconocido con Medallas de Oro y Plata en diversas competiciones internacionales. Un brandy de la más alta expresión, ideal para coleccionistas y como regalo de lujo.
-- ENVEJECIDO EN SHERRY CASKS CENTENARIOS: Los líquidos de Carlos I Imperial XO envejecen en las mismas botas de roble americano que criaron los más selectos vinos Amontillados y Olorosos de Osborne. Edad media de las botas: 50-60 años.
-- PERFIL AROMÁTICO DE LUJO: Nariz con aromas de maderas nobles, notas de nuez, higo y avellana. En paladar es extremadamente sedoso, con un final lujoso y sofisticado de larga duración que conquista los paladares más exigentes.
 - MEDALLA DE ORO BACCHUS 2026 GOLD: Reconocido internacionalmente con las más altas distinciones. Su perfil aromático de lujo incluye maderas nobles, nuez, higo y avellana en nariz y una textura extremadamente sedosa en boca.
+- MEDALLAS DE ORO Y PLATA INTERNACIONALES: Carlos I Imperial XO ha sido reconocido con Medallas de Oro y Plata en diversas competiciones internacionales. Un brandy de la más alta expresión, ideal para coleccionistas y como regalo de lujo.
+- PERFIL AROMÁTICO DE LUJO: Nariz con aromas de maderas nobles, notas de nuez, higo y avellana. En paladar es extremadamente sedoso, con un final lujoso y sofisticado de larga duración que conquista los paladares más exigentes.
+- ENVEJECIDO EN SHERRY CASKS CENTENARIOS: Los líquidos de Carlos I Imperial XO envejecen en las mismas botas de roble americano que criaron los más selectos vinos Amontillados y Olorosos de Osborne. Edad media de las botas: 50-60 años.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01MXL14UT{{</world>}}

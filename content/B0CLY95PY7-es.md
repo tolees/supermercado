@@ -28,16 +28,16 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Limpiador de bicicleta en seco.
-- Desengrasante.
-- Limpiador de bicicleta.
-- Limpiador de frenos de disco.
-- Bayeta, cepillo y cesta porta productos.
-- Líquido antipinchazos.
 - Kit de limpieza de bicicletas y mantenimiento completo..
-- Abrillantador.
+- Desengrasante.
+- Bayeta, cepillo y cesta porta productos.
+- Limpiador de frenos de disco.
 - Cera para cadena.
+- Abrillantador.
+- Limpiador de bicicleta.
+- Limpiador de bicicleta en seco.
 - Lubricante para cadena húmedo.
+- Líquido antipinchazos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CLY95PY7{{</world>}}

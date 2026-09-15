@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- fácil de usar
-- Deliciosas piezas en forma de stick
 - Geles dulces
 - producto de calidad
+- fácil de usar
+- Deliciosas piezas en forma de stick
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B082VTWWZZ{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Disfruta de su galleta con textura crujiente y de su delicioso chocolate, imperdible para para compartir con amigos y familiares en desayunos o meriendas
-- Estas galletas tienen barquillo crujiente, relleno de cacao y están recubiertas con chocolate con leche de los Alpes, además de cacao sostenible de Cocoa Life
 - Milka Galletas Choco Wafer Chocolate con Leche, convierte estas galletas en el dulce tentempié para cualquier momento del día
+- Estas galletas tienen barquillo crujiente, relleno de cacao y están recubiertas con chocolate con leche de los Alpes, además de cacao sostenible de Cocoa Life
 - Sumérgete en la deliciosa experiencia de Milka, elaborada con cacao sostenible a través del programa Cocoa Life y utilizando solo leche de los Alpes asegurando calidad y responsabilidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

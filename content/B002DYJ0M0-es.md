@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Polvo de PROTEÍNA DE DIGESTIÓN LENTA REFORZADO con zinc, que contribuye a un sistema inmunológico saludable, y magnesio para apoyar una síntesis adecuada de las proteínas
 - Una fuente de PROTEÍNA para atletas y entusiastas del fitness; para disfrutarlo, añade 1 medida colmada a 300 ml de agua fría y remueve, agita o mezcla hasta que se disuelva
-- Esta proteína en polvo contiene 10 g de aminoácidos esenciales naturales con bajo contenido de azúcar en cada porción
-- El polvo listo para mezclar proporciona una fuente de proteínas de digestión lenta para favorecer el crecimiento y la reparación muscular*
 - Cada porción contiene 24 g de proteína de caseína micelar de primera calidad que proporciona a tu cuerpo un FLUJO LENTO Y CONSTANTE DE AMINOÁCIDOS DURANTE TODA LA NOCHE
 - *La proteína contribuye al crecimiento y el mantenimiento de la masa muscular. Para utilizar dentro de una alimentación variada y equilibrada y un estilo de vida saludable. Fuente: Diario Oficial de la Unión Europea - REGLAMENTO DE LA COMISIÓN (UE) Nº 432/2012
+- Polvo de PROTEÍNA DE DIGESTIÓN LENTA REFORZADO con zinc, que contribuye a un sistema inmunológico saludable, y magnesio para apoyar una síntesis adecuada de las proteínas
+- Esta proteína en polvo contiene 10 g de aminoácidos esenciales naturales con bajo contenido de azúcar en cada porción
+- El polvo listo para mezclar proporciona una fuente de proteínas de digestión lenta para favorecer el crecimiento y la reparación muscular*
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B002DYJ0M0{{</world>}}

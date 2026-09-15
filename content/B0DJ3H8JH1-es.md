@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin gluten; sin colorantes ni conservantes; sin aceite de palma
-- Sumérgete en nuestro pueblo de Navidad y descubre la nueva colección navideña de edición limitada diseñada por Anna Higgie
-- Dentro de un elegante paquete regalo
 - Bombones Perla de chocolate con leche, chocolate negro y de caramelo
+- Dentro de un elegante paquete regalo
+- Sumérgete en nuestro pueblo de Navidad y descubre la nueva colección navideña de edición limitada diseñada por Anna Higgie
+- Sin gluten; sin colorantes ni conservantes; sin aceite de palma
 - Elaborado en Italia según la norma «Buono Buonissimo» con ingredientes naturales, menos azúcar y sin componentes artificiales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

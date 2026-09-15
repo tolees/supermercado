@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- TU EXPRESSO EN CASA – Gracias a su molido extrafino disfruta del auténtico espresso de bar también en casa. Café aromático y cremoso con intensidad y cuerpo para los verdaderos amantes del café.
-- MÁS DE 100 AÑOS DE TRADICIÓN – Más de 100 años seleccionando café, para poder ofrecerte a ti y los tuyos todo el aroma y sabor del mejor café.
 - IDEAL PARA CAFETERA EXPRESS – Preparación sencilla para cafetera express. Prensar suavemente nivelando el café en el cacillo. Tiempo de extracción óptimo de 20-30 segundos. Utilizar agua de máxima pureza.
+- MÁS DE 100 AÑOS DE TRADICIÓN – Más de 100 años seleccionando café, para poder ofrecerte a ti y los tuyos todo el aroma y sabor del mejor café.
 - 1 PAQUETE DE 250 GRAMOS - 250 gramos de café molido extrafino natural
+- TU EXPRESSO EN CASA – Gracias a su molido extrafino disfruta del auténtico espresso de bar también en casa. Café aromático y cremoso con intensidad y cuerpo para los verdaderos amantes del café.
 - TAPA DE ORIGEN BIO – Tapa fabricada con material de origen BIO, con certificación ISCC siguiendo el enfoque del balance de masas. Conservar en el envase original en lugar oscuro y seco una vez abierto.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

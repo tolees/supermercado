@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ideales para un uso cotidiano y alegre
 - 70 unidades
+- Ideales para un uso cotidiano y alegre
 - Servilletas fucsia
 - 30 x 32 cm
 - Una capa

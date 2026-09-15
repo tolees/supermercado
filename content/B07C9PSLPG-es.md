@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cantidad: 1 Kg
 - Altos niveles de triptófano y vitaminas
-- Rico en proteína y bajo en grasa
 - Utilizar como un regalo o recompensa en cualquier momento o bien como parte de una dieta equilibrada
+- Rico en proteína y bajo en grasa
+- Cantidad: 1 Kg
 - Alimento complementario para perros con un delicioso sabor
 
 [🛒 Comprar!!!]({{< param buyurl >}})

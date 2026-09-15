@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - El envase y el nombre pueden variar.
-- APOYA LA PÉRDIDA DE PESO SALUDABLE: Adición única de Glucomanano, una fibra soluble que, en el contexto de una dieta restringida en energía, se ha demostrado que contribuye a la pérdida de peso*.
 - MIX DE CALIDAD PREMIUM: Diet Protein Pancakes – GOLD (anteriormente conocido como Diet Protein Pancakes) son la versión más ligera y adecuada para dietas de nuestros Pancakes de Proteína Cargados más vendidos. Elaborados con nuestro galardonado Whey Protein 80 de calidad premium. El estándar de oro en proteínas premium, elaborado simplemente con 100 % de concentrado puro.
+- APOYA LA PÉRDIDA DE PESO SALUDABLE: Adición única de Glucomanano, una fibra soluble que, en el contexto de una dieta restringida en energía, se ha demostrado que contribuye a la pérdida de peso*.
 - DESAYUNO SALUDABLE: Rápidos y fáciles de preparar, estos pancakes ligeros y esponjosos son el desayuno perfecto para comenzar el día.
 - INGREDIENTES RESPALDADOS POR LA INVESTIGACIÓN: Altos en proteínas y aromatizados para garantizar que sean bajos en azúcar, cada Diet Protein Pancake se combina con ingredientes respaldados por la investigación.
 

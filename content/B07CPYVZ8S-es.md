@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cerveza tipo lager mezcla
 - El producto debera servirse entre 0 y 3C para obtener sus cualidades
-- Conservar el producto en un lugar limpio, seco y bien ventilado
-- Caja para compartir
 - Con zumo natural de limón
+- Conservar el producto en un lugar limpio, seco y bien ventilado
+- Cerveza tipo lager mezcla
+- Caja para compartir
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07CPYVZ8S{{</world>}}

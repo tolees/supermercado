@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Rellenas de crema de albaricoque
+- Elaborado con ingredientes procedentes de agricultura ecológica
 - Sin aceite de palma
 - Contiene huevos. Puede contener trazas de soja.
 - Certificado gluten free, apto para dietas celiacas
-- Rellenas de crema de albaricoque
-- Elaborado con ingredientes procedentes de agricultura ecológica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B086RGL6ZQ{{</world>}}

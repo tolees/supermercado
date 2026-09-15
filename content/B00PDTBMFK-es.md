@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Uso alternativo: indicada para la preparación de alimentos infantiles y dietas pobres en sodio
 - Envase: botella PET más resistente. No retornable
+- Botellas por lote: 35
+- Uso alternativo: indicada para la preparación de alimentos infantiles y dietas pobres en sodio
 - Calidad: agua mineral de gran pureza sabor y equilibrio
 - Presentación: botella de 33 cl
-- Botellas por lote: 35
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00PDTBMFK{{</world>}}

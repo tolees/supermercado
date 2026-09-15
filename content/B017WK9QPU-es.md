@@ -30,11 +30,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Gel de baño y ducha revitalizante, proporcionará una sensación única y estimulante gracias al efecto Ginseng.
 - Libre de parabenos y colorantes. Dermatológicamente testado.
-- Género; Masculino/Unisex. Adulto.
-- Con notas olfativas de bergamota, cardamomo, rosa, lavanda, sándalo, cedro y vetyver
-- No testado en animales. Vegano. Fabricación íntegra en España.
-- Perfume amaderado, frutal, floral, musk
 - Gel muy perfumado y fresco. Fragancia exclusiva y Original.
+- Con notas olfativas de bergamota, cardamomo, rosa, lavanda, sándalo, cedro y vetyver
+- Perfume amaderado, frutal, floral, musk
+- Género; Masculino/Unisex. Adulto.
+- No testado en animales. Vegano. Fabricación íntegra en España.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B017WK9QPU{{</world>}}

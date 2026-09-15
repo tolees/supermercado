@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Baja carbohidratos y baja Azúcar
-- ALTURA EN PROTEÍNAS - 20g por Barra
 - 2.3g G de impacto CARBOHIDRATOS
-- Increíble sabor
+- ALTURA EN PROTEÍNAS - 20g por Barra
+- Baja carbohidratos y baja Azúcar
 - 2.3g G de Azúcar Por Barra
+- Increíble sabor
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B06XKQ6XZ8{{</world>}}

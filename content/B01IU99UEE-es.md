@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Apertura fácil
 - Calamares en conserva con Salsa Americana.
 - Origen: España
 - Alérgenos: pescado, crustaceos y marisco
-- Apertura fácil
 - Mantener en un lugar fresco y seco
 
 [🛒 Comprar!!!]({{< param buyurl >}})

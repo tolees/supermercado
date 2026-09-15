@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- SET REGALO COMPLETO – Pack de 2 botellas de Ginebra Nordés 70 cl más 4 vasos exclusivos de regalo: todo lo necesario para disfrutar de un gin tonic premium en casa o para regalar una experiencia completa a los amantes de las ginebras especiales. 40% vol.
 - GIN TONIC PERFECTO INCLUIDO – Con los 4 vasos del pack, el gin tonic premium está servido. Copa ancha, mucho hielo, 5 cl de Nordés, 20 cl de tónica neutra y brocheta de uva blanca. Un kit para celebrar en buena compañía cualquier momento del año.
-- REGALO PREMIUM PARA CUALQUIER OCASIÓN – Este pack con vasos es la idea de regalo original perfecta para cumpleaños, navidad, bodas o celebraciones especiales. Ginebra premium de origen gallego más 4 vasos: un detalle de nivel para los más exigentes y amantes de las ginebras especiales.
 - NORDÉS es una ginebra elaborada mediante un proceso lento y muy cuidado. Una cuidadosa selección de los mejores alcoholes neutros, junto con la utilización de la uva blanca gallega Albariño, son la base indispensable de nuestra ginebra, otorgando a Nordés su inconfundible carácter fresco y suave.
+- SET REGALO COMPLETO – Pack de 2 botellas de Ginebra Nordés 70 cl más 4 vasos exclusivos de regalo: todo lo necesario para disfrutar de un gin tonic premium en casa o para regalar una experiencia completa a los amantes de las ginebras especiales. 40% vol.
+- REGALO PREMIUM PARA CUALQUIER OCASIÓN – Este pack con vasos es la idea de regalo original perfecta para cumpleaños, navidad, bodas o celebraciones especiales. Ginebra premium de origen gallego más 4 vasos: un detalle de nivel para los más exigentes y amantes de las ginebras especiales.
 - GINEBRA DE ORIGEN GALLEGO PREMIUM – Nordés está elaborada con uva Albariño gallega y 11 botánicos naturales (6 silvestres de tradición gallega: salvia, salicornia, hierbaluisa, laurel, eucalipto y menta). Fresca, frutal y balsámica, es la ginebra que enamora desde la primera copa y diferencia a quienes la eligen.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - TAMAÑO: La lata contiene 500 g de café tostado en grano INTENSO. El proceso de presurización permite que los aromas de la mezcla permanezcan dentro de la lata illy
-- SABOR: El café es 100% Arábica, adecuado para los amantes del café con un sabor muy aromático
 - NUESTRO OBJETIVO: Seleccionamos solo el 1% de los granos de Arábica para garantizar un espresso sin imperfecciones, grâce aux relations nouées avec les producteurs, génération après génération
-- INTENSO: El perfil de tueste INTENSO se caracteriza por notas envolventes de cacao, frutos secos y un sabor final rico y de cuerpo consistente
+- SABOR: El café es 100% Arábica, adecuado para los amantes del café con un sabor muy aromático
 - CAFÉ EN GRANO: Dedicado a quienes disfrutan del café desde su preparación, cuidando también el grado de molienda. El café en grano es un auténtico viaje para descubrir el aroma de nuestra mezcla 100% Arábica
+- INTENSO: El perfil de tueste INTENSO se caracteriza por notas envolventes de cacao, frutos secos y un sabor final rico y de cuerpo consistente
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6RW3DH5{{</world>}}

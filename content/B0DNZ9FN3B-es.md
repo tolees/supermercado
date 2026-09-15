@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Intensidad: 9/10
-- *La marca mencionada pertenece a su respectivo propietario.
-- Espresso Cremoso: Mezcla dulce, equilibrada y de cuerpo medio. La delicada acidez se funde con el aroma en una amalgama de sensaciones que recuerdan a notas de frutos secos.
 - Formato: 8 envases de 10 cápsulas (80 cápsulas). Las cápsulas están equipadas con top 2.0 que es perfectamente compatible con las máquinas de lectura de códigos de barras.
+- *La marca mencionada pertenece a su respectivo propietario.
 - Gimoka forma parte del Grupo Gimoka, uno de los mayores tostadores de Italia desde los años 80. Un café que nació y se desarrolló en Italia para llegar a hogares y empresas de más de 50 países de todo el mundo. Somos amantes del café en todas sus formas. , por este motivo puedes encontrar Gimoka en granos, molido, en vainas y en cápsulas compatibles con tu sistema favorito. Todos nuestros centros de producción están ubicados en Italia porque para nosotros es importante tener el control de toda la cadena de valor: desde la adquisición de materias primas, hasta el tostado, la molienda, el envasado y la distribución.
+- Espresso Cremoso: Mezcla dulce, equilibrada y de cuerpo medio. La delicada acidez se funde con el aroma en una amalgama de sensaciones que recuerdan a notas de frutos secos.
+- Intensidad: 9/10
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DNZ9FN3B{{</world>}}

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cerveza nitrogenada de color negro rubí con una espuma cremosa blanca marfil y aroma a café torrefacto
-- Consumirla entre 2° y 4°C para obtener sus máximas cualidades
-- Cerveza Ale 0% de alcohol en volumen
 - Cerveza de tipo ale y estilo stout elaborada con ingredientes naturales;
+- Cerveza Ale 0% de alcohol en volumen
+- Consumirla entre 2° y 4°C para obtener sus máximas cualidades
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BY95BZ7Z{{</world>}}

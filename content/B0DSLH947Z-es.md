@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aporta un acabado brillante y suave. Prolonga la intensidad del color. Protege contra la humedad y el calor.
 - Sérum de brillo instantáneo que protege el color, combate el encrespamiento y aporta luminosidad intensa.
 - Dividir el pelo en dos secciones, aplicar 1-2 pulsaciones por sección. Extender sobre el cabello. No aclarar.
+- Aporta un acabado brillante y suave. Prolonga la intensidad del color. Protege contra la humedad y el calor.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DSLH947Z{{</world>}}

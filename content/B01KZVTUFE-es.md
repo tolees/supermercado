@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin perfume ni loción
-- Testado dermatológicamente
 - Paquete de 6 rollos
 - Papel de color blanco. tamaño grande
+- Testado dermatológicamente
+- Sin perfume ni loción
 - Papel higiénico 4 capas un 21% más grande
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

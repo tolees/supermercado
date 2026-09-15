@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsillos de parche con solapa en el pecho
 - Detalles distintivos de la marca
+- Bolsillos de parche con solapa en el pecho
 - Ofrece una comodidad óptima
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

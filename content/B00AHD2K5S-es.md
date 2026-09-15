@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- RÁPIDO Y FÁCIL | Deshuesa dos aguacates frescos y quita la cáscara. Tritura con un tenedor y mezcla con la mezcla de especias - ¡y listo, tienes un dip sabroso!
-- UNA RECETA ÚNICA | La mezcla de especias para guacamole aporta a cada plato un toque fresco y es perfecta como dip para compartir con amigos y familiares.
 - VERSÁTIL Y DELICIOSO | El delicioso dip de aguacate es ideal para realzar y sazonar platos mexicanos como burritos, tacos, fajitas o enchiladas.
 - La mezcla de especias para guacamole de Old El Paso ofrece una experiencia de sabor aromática gracias a su receta auténtica.
+- RÁPIDO Y FÁCIL | Deshuesa dos aguacates frescos y quita la cáscara. Tritura con un tenedor y mezcla con la mezcla de especias - ¡y listo, tienes un dip sabroso!
+- UNA RECETA ÚNICA | La mezcla de especias para guacamole aporta a cada plato un toque fresco y es perfecta como dip para compartir con amigos y familiares.
 - CALIDAD OLD EL PASO | Tu experiencia Tex-Mex en casa. Descubre la amplia gama de productos de alta calidad de Old El Paso, ya sean tortillas, salsas, chips o mezclas de especias.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

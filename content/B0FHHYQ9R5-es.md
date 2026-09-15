@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MODO DE USO VERSÁTIL: Puedes servirla como plato preparado único o como guarnición, adaptable para cualquier hora del día
-- FRESCA Y NUTRITIVA: Disfruta de tu ensalada preparada con ingredientes seleccionados para ofrecerte el mejor sabor y calidad
-- COMODIDAD Y DURABILIDAD: Al ser comida en conserva, esta lata de atún garantiza una larga duración y facilidad de almacenamiento
-- GOYA: Líder en productos latinos, la empresa distribuidora más grande de alimentos latinoamericanos en Europa desde 1936
 - ENSALADA MEDITERRÁNEA: Auténtico sabor mediterráneo con guisantes y pimientos vibrantes para una experiencia culinaria sencilla
+- COMODIDAD Y DURABILIDAD: Al ser comida en conserva, esta lata de atún garantiza una larga duración y facilidad de almacenamiento
+- FRESCA Y NUTRITIVA: Disfruta de tu ensalada preparada con ingredientes seleccionados para ofrecerte el mejor sabor y calidad
+- GOYA: Líder en productos latinos, la empresa distribuidora más grande de alimentos latinoamericanos en Europa desde 1936
+- MODO DE USO VERSÁTIL: Puedes servirla como plato preparado único o como guarnición, adaptable para cualquier hora del día
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FHHYQ9R5{{</world>}}

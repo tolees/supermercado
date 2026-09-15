@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Volumen y suavidad etéreos
-- Vibrante claridad del color
 - Brillo restaurado
+- Vibrante claridad del color
+- Volumen y suavidad etéreos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B4SP2CK4{{</world>}}

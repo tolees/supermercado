@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Adecuado para recién nacidos
-- Loción corporal hidratante para pieles sensibles
-- Testado pediátrico y dermatológico
-- Sin parabenos y alérgenos
-- La siguiente información se aplica a cada unidad del paquete
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- La siguiente información se aplica a cada unidad del paquete
+- Adecuado para recién nacidos
+- Testado pediátrico y dermatológico
+- Loción corporal hidratante para pieles sensibles
+- Sin parabenos y alérgenos
 - Con activos naturales
 
 [🛒 Comprar!!!]({{< param buyurl >}})

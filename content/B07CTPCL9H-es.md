@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- 4 paquetes: 4 x 250 g, total 1 kg
+- Adecuado para cafeteras de émbolo, de filtro o italianas
+- Tostado y envasado en Italia
+- 75 % arábica, 25 % robusta
+- Intensidad: 2/5
 - CERTIFICACIÓN RAINFOREST ALLIANCE: La procedencia del café utilizado para este producto goza de la certificación Rainforest Alliance, lo que significa que no solo sabe bien, sino que también tiene un impacto positivo. Con cada compra, ayuda a cientos de agricultores y sus familias en todo el mundo, además de aportar su granito a la selva tropical; beber mejor es hacerlo mejor
 - Una mezcla descafeinada con un equilibrio perfecto, un cuerpo más ligero y un aroma afrutado suave
-- Tostado y envasado en Italia
-- Intensidad: 2/5
-- Adecuado para cafeteras de émbolo, de filtro o italianas
-- 4 paquetes: 4 x 250 g, total 1 kg
-- 75 % arábica, 25 % robusta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07CTPCL9H{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Masa de trigo completa
 - Sin azúcar añadido
 - Sin conservantes
-- Masa de trigo completa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07XQNJKSC{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ⏳ Sostenibilidad y Artesanía: Comprometidos con el medio ambiente, nuestro ron es resultado de procesos sostenibles y recetas familiares de la profunda tradición española que se remontan a décadas atrás. Cada botella refleja nuestra pasión por la calidad y la artesanía. Disfruta excelentes bebidas alcohólicas lujosas.
-- 🪵 Calidad Inigualable: Nuestro ron se destila utilizando métodos tradicionales para garantizar su calidad excepcional. Una mezcla cuidadosamente seleccionada de rones añejos dominicanos madurados en barricas de roble americano que ofrece un color ámbar con aroma intenso y sabor bien equilibrado a aguardientes de caña y roble.
 - 🇩🇴 Ron Premium Dominicano: Disfruta de la autenticidad del ron flor de caña, aguardiente de caña. Este ron ha sido destilado y envejecido en República Dominicana. Disfruta de una experiencia única con notas de vainilla suaves y complejas perfectas para degustar solo o con hielo, características del auténtico ron dominicano.
+- 🪵 Calidad Inigualable: Nuestro ron se destila utilizando métodos tradicionales para garantizar su calidad excepcional. Una mezcla cuidadosamente seleccionada de rones añejos dominicanos madurados en barricas de roble americano que ofrece un color ámbar con aroma intenso y sabor bien equilibrado a aguardientes de caña y roble.
+- ⏳ Sostenibilidad y Artesanía: Comprometidos con el medio ambiente, nuestro ron es resultado de procesos sostenibles y recetas familiares de la profunda tradición española que se remontan a décadas atrás. Cada botella refleja nuestra pasión por la calidad y la artesanía. Disfruta excelentes bebidas alcohólicas lujosas.
 - 🥃 Versatilidad en el Paladar: Ya sea que prefieras disfrutarlo solo, con hielo o como ingrediente principal en un cóctel clásico, nuestro ron premium se adapta a cualquier ocasión, elevando cada momento con su sabor excepcional. El nombre Alpha representa la excelencia y superioridad de este ron en el mercado.
 - 🏆 Experiencia Sensorial Única: Desde su aroma cautivador hasta su final suave y bien equilibrado, cada sorbo de nuestro ron reserva es una experiencia sensorial inolvidable. Perfecto como regalo elegante o para deleitarte en tus momentos más especiales. Ron Alpha es una experiencia única para los auténticos amantes del ron.
 

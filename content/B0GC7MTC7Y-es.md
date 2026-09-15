@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- fruta de la pasión
 - leche de coco
 - flor de ylang ylang
+- fruta de la pasión
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0GC7MTC7Y{{</world>}}

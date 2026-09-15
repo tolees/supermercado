@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nocilla Barritas Original Con Crema al Cacao y Leche con Avellanas - Pack de 6 Unidades - 129g Paquete de 4'
-date: 2026-09-10 06:29:30
+date: 2026-09-14 14:54:50
 image: 'https://m.media-amazon.com/images/I/41e9KqHEwzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

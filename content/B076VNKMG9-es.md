@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Corte holgado. Rodilleras
 - Entrepierna: 26,7 cm
 - Bolsillos laterales cargo y bolsillo para el móvil
-- Tejido de lino elástico
 - Con una cintura elástica que se mueve contigo
+- Tejido de lino elástico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B076VNKMG9{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Catit Go Natural! Arena Guisantes Aroma Vainilla 5.6 kg'
-date: 2026-09-12 16:24:41
+date: 2026-09-14 02:21:28
 image: 'https://m.media-amazon.com/images/I/51H8YgFl7zL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GVXR7V9/?tag=tolees-21'
 descuento: '19.24'
-average: '18.0272727272727'
+average: '18.0325'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

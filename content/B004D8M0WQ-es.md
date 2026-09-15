@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Listo para cocinar
-- Sin Gluten y sin conservantes
-- Producto de España
 - Pack de tomate frito
+- Sin Gluten y sin conservantes
+- Listo para cocinar
+- Producto de España
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B004D8M0WQ{{</world>}}

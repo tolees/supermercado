@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - CUIDA LA PIEL: Este desodorante anti-transpirante en spray ha sido testado dermatológicamente y restaura el pH natural de su piel.
-- PROTECCIÓN HASTA 72 HORAS: Nuestro desodorante anti-transpirante ha sido especialmente formulado para ofrecerte una protección eficaz contra el sudor y el mal olor de hasta 72 horas.
 - CONFIANZA EN EL DÍA A DÍA: Consigue toda la confianza que el frescor puede aportar cuando usas el Desodorante Anti-transpirante Sanex Dermo Active Spray.
+- PROTECCIÓN HASTA 72 HORAS: Nuestro desodorante anti-transpirante ha sido especialmente formulado para ofrecerte una protección eficaz contra el sudor y el mal olor de hasta 72 horas.
 - CUIDA LA PIEL: Este desodorante anti-transpirante en spray ha sido testado dermatológicamente y restaura el pH natural de su piel.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

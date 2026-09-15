@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Pavo de alta calidad3 como ingrediente nº 1
 - Reduce los alérgenos sobre el pelo del gato*
-- Apoya un sistema inmunitario saludable gracias a un alto nivel de proteina y vitaminas C y E
-- Probado que ayuda a una digestión saludable gracias a prebióticos naturales
 - ISFM, la Asociación Internacional de Medicina Felina, reconoce la contribución nutricional de PURINA al bienestar felino
+- Probado que ayuda a una digestión saludable gracias a prebióticos naturales
+- Apoya un sistema inmunitario saludable gracias a un alto nivel de proteina y vitaminas C y E
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B093CB1MSY{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate Total Junior | Children s Toothpaste | Complete Protection | Contains Fluoride | Anticaries Protection | Antibacterial Ingredients | Recyclable Product | Pack 12 Units x 50 ml'
-date: 2026-09-10 10:28:31
+date: 2026-09-13 11:29:03
 image: 'https://m.media-amazon.com/images/I/51ussjLpMsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CJJZQLTS/?tag=tolees-21'
 descuento: '43.47'
-average: '17.4262499999999'
+average: '17.1952941176469'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

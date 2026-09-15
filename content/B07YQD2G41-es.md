@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los sobres vienen individualmente
-- Libre de cafeína
 - Infusión de jengibre y limón
-- Elaborado con ingredientes naturales
+- Los sobres vienen individualmente
 - Aromática y ligeramente picante
+- Libre de cafeína
+- Elaborado con ingredientes naturales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07YQD2G41{{</world>}}

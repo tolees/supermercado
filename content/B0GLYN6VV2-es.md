@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 🍹 Perfecto para iced lattes, bebidas dulces de café y recetas creativas.
-- 🧊 Listo para mezclar en segundos, solo añade agua o leche fría.
 - 🍬 Mezcla 30 ml para obtener un café frío cremoso con toque dulce.
 - ☕ Café con sabor a caramelo, dulce y aromático.
+- 🧊 Listo para mezclar en segundos, solo añade agua o leche fría.
 - 🧴 Botella de 500 ml = 16 porciones. Conservar en frío tras abrir y consumir en 6 semanas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B Pro-Expert Protección Profesional Pasta de Dientes Pack 2x75 ml'
-date: 2026-09-11 20:54:02
+date: 2026-09-14 07:53:37
 image: 'https://m.media-amazon.com/images/I/41D-0JAV72L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09M4BTMLC/?tag=tolees-21'
 descuento: '8.94'
-average: '4.9768918918919'
+average: '4.97723684210527'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

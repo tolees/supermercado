@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
-- Los cafés de tostado suave de STARBUCKS son más delicados y ligeros
 - Con un sabor suave y ligero, se trata de nuestro tostado de café más delicado
 - Esta mezcla especial de granos de Latinoamérica se ha tostado cuidadosamente para obtener un resultado envolvente y vibrante
+- Los cafés de tostado suave de STARBUCKS son más delicados y ligeros
 - Café de STARBUCKS de grano entero suave y envolvente
 
 [🛒 Aquí!!!]({{< param buyurl >}})

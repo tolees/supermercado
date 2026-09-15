@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuidado de la piel instantáneo que no deja rastros detrás
-- Se puede aplicar en la cara, el cuerpo, las manos, en cualquier lugar que la piel lo necesite
 - Con una fórmula ligera que no es grasienta, no pegajosa y absorbe rápidamente
+- Se puede aplicar en la cara, el cuerpo, las manos, en cualquier lugar que la piel lo necesite
+- Cuidado de la piel instantáneo que no deja rastros detrás
 - Se preocupa por la piel al darle un impulso de hidratación y evitar que se seque
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

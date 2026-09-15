@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Las cápsulas Dolce Gusto Marrakesh Style Tea tienen aromas de la menta fresca y té caliente,
-- Máquina Express: sistema de café profesional de hasta 15 bares de presión
-- Cápsulas inteligentes Su sellado hermético mantiene el café fresco conservando todos sus aromas
-- Descubre nuestras más de 30 variedades de cápsulas de café, té, chocolate y especialidades de espresso con leche
 - Café gourmet seleccionando los orígenes de mayor calidad con el inconfundible sabor NESCAFÉ Dolce Gusto
+- Máquina Express: sistema de café profesional de hasta 15 bares de presión
+- Descubre nuestras más de 30 variedades de cápsulas de café, té, chocolate y especialidades de espresso con leche
 - Cápsulas 100% reciclables depositándolas en nuestros puntos de recogida NESCAFÉ Dolce Gusto
+- Cápsulas inteligentes Su sellado hermético mantiene el café fresco conservando todos sus aromas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00EDP4I74{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mantiene tu cabello asombrosamente suave al tacto a la vez que hidratado durante todo el día
 - Acondicionador Intensa HIDRATACIÓN, 2X hidratación al instante
-- Acondicionador para cabello seco o dañado
 - Acondicionador TRESemmé diseñado con la PROSTYLE TECH que contiene aminoácidos y ceramidas para cabello seco o dañado
+- Mantiene tu cabello asombrosamente suave al tacto a la vez que hidratado durante todo el día
+- Acondicionador para cabello seco o dañado
 - Acondicionador de calidad profesional que mantiene tu cabello asombrosamente suave al tacto a la vez que hidratado durante todo el día
 
 [🛒 Comprar!!!]({{< param buyurl >}})

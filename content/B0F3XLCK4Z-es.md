@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Mini Dinosaurus con Chocolate Blanco
 - Formato ideal para compartir
-- Llévalos a donde quieras
 - Con cierre ZIP para una mejor conservación
+- Llévalos a donde quieras
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F3XLCK4Z{{</world>}}

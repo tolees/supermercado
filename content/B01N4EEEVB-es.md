@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Dimensión pañuelo abierto: 21x21cm
+- Pañuelos de Bolsillo premium de 4 capas
 - Perfume de Lavanda
 - Papel Blanco
 - 6 Paquete X 9 Pañuelos Por Paquete
-- Pañuelos de Bolsillo premium de 4 capas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01N4EEEVB{{</world>}}

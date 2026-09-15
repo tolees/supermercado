@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Rinde hasta 40 lavados
-- Detergente con jabón natural
-- Apto para lavado a máquina y a mano
 - Cuidado más natural para tu ropa
+- Apto para lavado a máquina y a mano
+- Detergente con jabón natural
+- Rinde hasta 40 lavados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G4MXSWL6{{</world>}}

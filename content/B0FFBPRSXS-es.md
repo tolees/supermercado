@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- BARRA MASTICABLE - KOJAK: El Kojak de Siempre Sabor Cereza ahora en Barra Masticable
-- CARAMELO CLÁSICO: Kojak es un caramelo tradicional que ofrece el auténtico sabor a cereza que conoces y disfrutas
-- SABOR CEREZA: Bolsa con 50 unidades de Kojak Barra Masticable, caramelo masticable de sabor cereza
-- TEXTURA MASTICABLE: Disfruta de una textura suave y masticable con trocitos de delicioso caramelo de cereza en cada barra
 - FORMATO: Bolsa de 50 unidades de Palotes Kojak Cereza
+- SABOR CEREZA: Bolsa con 50 unidades de Kojak Barra Masticable, caramelo masticable de sabor cereza
+- CARAMELO CLÁSICO: Kojak es un caramelo tradicional que ofrece el auténtico sabor a cereza que conoces y disfrutas
+- BARRA MASTICABLE - KOJAK: El Kojak de Siempre Sabor Cereza ahora en Barra Masticable
+- TEXTURA MASTICABLE: Disfruta de una textura suave y masticable con trocitos de delicioso caramelo de cereza en cada barra
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FFBPRSXS{{</world>}}

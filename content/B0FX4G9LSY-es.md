@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Aroma Lavanda. Infusionado con 2 veces más aceites esenciales(*vs Air wick Eléctricos fragancias base)
 - Con Air Wick ambientador eléctrico conseguirás una fragancia duradera y consistente para tu hogar, para un ambiente acogedor.
 - Elige entre los diferentes niveles de intensidad para conseguir tu nivel de fragancia ideal
-- Larga duración: cada recambio proporciona hasta 120 días de increíble fragancia (basado en la configuración más baja).
 - Ahora todos los packs de Air Wick Eléctricos son libres de plástico.
+- Larga duración: cada recambio proporciona hasta 120 días de increíble fragancia (basado en la configuración más baja).
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FX4G9LSY{{</world>}}

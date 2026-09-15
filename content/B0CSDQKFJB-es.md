@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disfruta de la alegría y diversión en cualquier momento
-- Formato cómodo y fácil
 - Las MEGA TORCIDAS CEREZA son las clasicas piezas de geles dulces en forma de stick con irresistible sabor a Cereza de extremo a extremo. Además, es apto para vegetarianos. ¡Disfruta de los clásicos de siempre con las haribo mega torcidas!
+- Formato cómodo y fácil
+- Disfruta de la alegría y diversión en cualquier momento
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CSDQKFJB{{</world>}}

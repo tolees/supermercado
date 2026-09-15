@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ofrece labios suaves y con un aspecto carnoso
-- Para uso diario
 - La fórmula con colágeno proporciona hidratación
 - Enriquecido con manteca de karité y aceite de jojoba
+- Ofrece labios suaves y con un aspecto carnoso
+- Para uso diario
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B001ET6AL4{{</world>}}

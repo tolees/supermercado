@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'H&S Clinical Strength Champú Anticaspa para Cuero Cabelludo Seco 400ml'
-date: 2026-09-10 21:14:42
+date: 2026-09-14 20:13:20
 image: 'https://m.media-amazon.com/images/I/31c0CUHpZAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

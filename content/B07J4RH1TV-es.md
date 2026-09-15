@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Proteína en polvo de origen vegetal de Optimum Nutrition, sin gluten, 100 % vegana; diseñado para atletas profesionales y amantes del deporte con dieta vegana o vegetariana
 - Polvo rico en proteína con 24 g de proteína vegetal para apoyar el crecimiento y el mantenimiento de la masa muscular*
+- Proteína en polvo de origen vegetal de Optimum Nutrition, sin gluten, 100 % vegana; diseñado para atletas profesionales y amantes del deporte con dieta vegana o vegetariana
+- Para preparar un batido de proteína vegano de chocolate, mezcla una cucharada de este polvo de origen vegetal con 300 g de agua después del ejercicio o en cualquier momento del día para cumplir con los requisitos diarios de proteína
+- * Fuente: REGLAMENTO (UE) Nº 432/2012 DE LA COMISIÓN de 16 de mayo de 2012
 - Este polvo de proteína vegetal contiene vitamina B12 y C que contribuyen al normal metabolismo energético y a la reducción del cansancio y la fatiga*
 - Proteína en polvo aprobada por la sociedad vegana con perfil completo de aminoácidos; sin colorantes ni sabores artificiales
-- * Fuente: REGLAMENTO (UE) Nº 432/2012 DE LA COMISIÓN de 16 de mayo de 2012
-- Para preparar un batido de proteína vegano de chocolate, mezcla una cucharada de este polvo de origen vegetal con 300 g de agua después del ejercicio o en cualquier momento del día para cumplir con los requisitos diarios de proteína
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07J4RH1TV{{</world>}}

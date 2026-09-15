@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal para el desayuno o una pausa durante el día
-- Una vez abierto conservar en un recipiente hermético
-- Se puede servir solo o con leche
-- Café en grano torrefacto
 - Fácil y rápido de preparar
+- Café en grano torrefacto
+- Ideal para el desayuno o una pausa durante el día
+- Se puede servir solo o con leche
+- Una vez abierto conservar en un recipiente hermético
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07W6G6DTP{{</world>}}

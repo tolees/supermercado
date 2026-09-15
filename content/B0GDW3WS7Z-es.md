@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Jabón NIVEA limpia eficazmente las manos
-- La siguiente información se aplica a cada unidad del paquete
 - El jabón de manos es adecuado para el uso diario
 - Compatibilidad con la piel dermatológicamente testada
 - El jabón líquido contiene aceite de almendra
+- La siguiente información se aplica a cada unidad del paquete
 - El pH del jabón NIVEA Soft es respetuoso con la piel
 
 [🛒 Visítala!!!]({{< param buyurl >}})

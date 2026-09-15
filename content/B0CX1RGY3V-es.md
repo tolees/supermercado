@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Chaqueta Red Bull Racing: eleva tu armario al aire libre con el híbrido frontal Knit Storm, viene en lana gruesa de merino/acrílico para una calidez y comodidad en invierno profundo
 - Detalles de PEPE JEANS F1: el parche con el logotipo del equipo RBR se aplica a la manga y el logotipo de Pepe Jeans impreso en la capucha
+- Chaqueta Red Bull Racing: eleva tu armario al aire libre con el híbrido frontal Knit Storm, viene en lana gruesa de merino/acrílico para una calidez y comodidad en invierno profundo
 - Híbrido: panel frontal acolchado de nailon tonal y capucha con deflectores cosidos para un efecto híbrido definitivo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

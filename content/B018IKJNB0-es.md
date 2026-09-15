@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- En boca es suave, goloso, fresco
-- Sin alcohol
+- Delicado aroma frutal
 - Color amarillo pálido
 - Ideal como aperitivo
-- Delicado aroma frutal
+- En boca es suave, goloso, fresco
+- Sin alcohol
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B018IKJNB0{{</world>}}

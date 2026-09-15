@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Formato bucodispersable sin necesidad de agua, ideal para tomar cada mañana después del desayuno
-- Claridad mental y reducción del cansancio: Fórmula diseñada para favorecer el rendimiento intelectual y disminuir la fatiga mental gracias a vitaminas del grupo B
-- Contiene fosferina y glutamina. Además vitaminas B1, B2, B3, B5, B6, B9 y B12, para apoyar la función psicológica y el metabolismo energético
-- Sin gluten, apto para vegetarianos y veganos, con agradable sabor maracuyá
 - 20 sobres individuales, para adultos y adolescentes a partir de 16 años.
+- Claridad mental y reducción del cansancio: Fórmula diseñada para favorecer el rendimiento intelectual y disminuir la fatiga mental gracias a vitaminas del grupo B
+- Sin gluten, apto para vegetarianos y veganos, con agradable sabor maracuyá
+- Contiene fosferina y glutamina. Además vitaminas B1, B2, B3, B5, B6, B9 y B12, para apoyar la función psicológica y el metabolismo energético
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FJLV38XM{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sabor cítrico y especiado – Mermelada de naranja con un toque de jengibre, elaborada con 100 % fruta, sin azúcares añadidos y sin gluten.
-- Edición Emily in Paris – Caja de regalo elegante inspirada en la serie, perfecta como detalle gourmet o regalo especial.
-- Ingredientes naturales – Endulzado únicamente con zumo concentrado de fruta, sin colorantes ni conservantes artificiales, filosofía clean label.
 - Tradición francesa – St. Dalfour representa la artesanía de mermeladas francesas reconocidas a nivel mundial por su calidad.
+- Ingredientes naturales – Endulzado únicamente con zumo concentrado de fruta, sin colorantes ni conservantes artificiales, filosofía clean label.
+- Edición Emily in Paris – Caja de regalo elegante inspirada en la serie, perfecta como detalle gourmet o regalo especial.
 - Uso creativo – Ideal para pan y bollería, repostería, postres o como complemento sofisticado en tablas de quesos.
+- Sabor cítrico y especiado – Mermelada de naranja con un toque de jengibre, elaborada con 100 % fruta, sin azúcares añadidos y sin gluten.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FMY5Q3CM{{</world>}}

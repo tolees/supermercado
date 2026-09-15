@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CREMOSO Y CON CUERPO - Tostado lentamente para obtener un sabor pleno con todo el cuerpo y la crema del mejor café.
-- 1 PAQUETE DE 150 GRAMOS - 150 gramos de café soluble elaborado a partir de granos de café 100% seleccionados cuidadosamente por nuestros expertos.
 - FÁCIL DE PREPARAR - 1- Vierte una cucharadita en un vaso o taza. 2 - Añade agua o leche caliente. 3- Remueve bien hasta que quede cremoso y delicioso.
-- RELLENA Y RECICLA - Recarga de café Marcilla Crème Express Natural para rellenar tu Jarra.
+- CREMOSO Y CON CUERPO - Tostado lentamente para obtener un sabor pleno con todo el cuerpo y la crema del mejor café.
 - CALIDAD Y SOSTENIBILIDAD - Nuevo envase a base de papel con la misma calidad de siempre.
+- 1 PAQUETE DE 150 GRAMOS - 150 gramos de café soluble elaborado a partir de granos de café 100% seleccionados cuidadosamente por nuestros expertos.
+- RELLENA Y RECICLA - Recarga de café Marcilla Crème Express Natural para rellenar tu Jarra.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GP6SHBNY{{</world>}}

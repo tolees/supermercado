@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gillette Venus Oceana Maquinillas de Afeitar Desechables Mujer Pack de 4'
-date: 2026-09-12 21:18:46
+date: 2026-09-14 12:16:27
 image: 'https://m.media-amazon.com/images/I/41lwHKWD-wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KTGY7IG/?tag=tolees-21'
 descuento: '42.92'
-average: '5.3175'
+average: '5.2644'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

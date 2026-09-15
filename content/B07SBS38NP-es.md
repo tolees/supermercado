@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Johnson s Baby Shampoo clásico con fórmula No llores más 500 ml champú infantil para niños y bebés hipoalergénico y con pH equilibrado champú sin parabenos'
-date: 2026-09-10 16:04:26
+date: 2026-09-14 17:37:21
 image: 'https://m.media-amazon.com/images/I/31kWkGowRsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SBS38NP/?tag=tolees-21'
 descuento: '4.49'
-average: '4.21533333333333'
+average: '4.21941176470588'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

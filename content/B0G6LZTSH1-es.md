@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CHAMPÚ NUTRITIVO Y REPARADOR: El Champú NO.BREAKER de Sebastian Professional hidrata y fortalece el cabello, favoreciendo la creación de enlaces.
 - FORTALECIMIENTO Y NUTRICIÓN: Fortalece, nutre y limpia el cabello débil y sensible.
 - CUIDADO RECONSTRUCTOR: Nutrición y creación de enlaces para un cabello limpio, suave y flexible.
+- CHAMPÚ NUTRITIVO Y REPARADOR: El Champú NO.BREAKER de Sebastian Professional hidrata y fortalece el cabello, favoreciendo la creación de enlaces.
 - TECNOLOGÍA PROFESIONAL: Formulado con tecnología de ácido de manzana para el cabello.
 - CREACIÓN DE ENLACES: Un champú que favorece la creación de enlaces, ideal para cabello debilitado.
 

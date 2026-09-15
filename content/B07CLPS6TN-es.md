@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🌿 FÓRMULA VEGANA, CORAL FRIENDLY Y BIODEGRADABLE — Respetuosa con los corales marinos según normativa internacional. Sin filtros químicos agresivos. Formulación vegana testada dermatológicamente, apta para pieles sensibles, normales y mixtas. Protege tu piel y el ecosistema marino al mismo tiempo.
 - ☀️ PROTECCIÓN SOLAR SPF50+ MUY ALTA — UVA, UVB E INFRARROJOS — Crema solar facial con factor de protección muy alta que protege la piel frente a los rayos UVA causantes del envejecimiento prematuro, UVB causantes de quemaduras solares, e infrarrojos que generan daño profundo en el ADN cutáneo. Protección completa de espectro en un solo paso.
-- 💧 ÁCIDO HIALURÓNICO — HIDRATACIÓN PROFUNDA CON PROTECCIÓN SOLAR — Su principio activo de ácido hialurónico hidrata la barrera cutánea de todo tipo de piel, restaurando elasticidad y confort durante y después de la exposición solar. Crema hidratante facial con protección solar ideal para uso diario los 365 días del año.
 - 🏆 BABARIA — PROTECTOR SOLAR FACIAL MUJER Y HOMBRE 75 ml — Bloqueador solar facial de uso diario los 365 días del año, apto para cara, cuello y escote. Crema solar 50 en formato 75 ml. Aplicar 20–30 minutos antes de la exposición.
 - ✨ EFECTO ANTIARRUGAS Y ANTIMANCHAS — PIEL UNIFORMIZADA Y RADIANTE — Formulada con activos que corrigen manchas existentes y previenen la aparición de nuevas imperfecciones. Acción antiarrugas visible con uso continuado. Textura sedosa de rápida absorción que no deja residuo graso ni efecto blanco — perfecta como base de maquillaje.
+- 💧 ÁCIDO HIALURÓNICO — HIDRATACIÓN PROFUNDA CON PROTECCIÓN SOLAR — Su principio activo de ácido hialurónico hidrata la barrera cutánea de todo tipo de piel, restaurando elasticidad y confort durante y después de la exposición solar. Crema hidratante facial con protección solar ideal para uso diario los 365 días del año.
+- 🌿 FÓRMULA VEGANA, CORAL FRIENDLY Y BIODEGRADABLE — Respetuosa con los corales marinos según normativa internacional. Sin filtros químicos agresivos. Formulación vegana testada dermatológicamente, apta para pieles sensibles, normales y mixtas. Protege tu piel y el ecosistema marino al mismo tiempo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07CLPS6TN{{</world>}}

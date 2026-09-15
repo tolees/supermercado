@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 26 g de proteínas para satisfacer las necesidades de recuperación de todo aquel que siga un estilo de vida activo y saludable
 - Tan solo 1,5 g de grasa
 - Composición de proteína de suero de leche aislada y concentrada
+- 26 g de proteínas para satisfacer las necesidades de recuperación de todo aquel que siga un estilo de vida activo y saludable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B005BE1KP4{{</world>}}

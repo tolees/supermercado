@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Uso Sugerido: Aplique después de usar el champú Anti-Dedos Urban Re-energize de Bed Head. Enjuague bien. Ahora sentarse, relajarse y disfrutar del paseo!
 - Descripción: Para el cabello normal que necesita una recogida diaria. Antídoto urbano # 1: Ponga un poco de oomph de nuevo en su pelo cansado, sobre-estimulado. El acondicionador hidratante sobrealimentado ayuda a fortalecer el pelo débil, lo que le da una ráfaga de brillo y salud.
+- Uso Sugerido: Aplique después de usar el champú Anti-Dedos Urban Re-energize de Bed Head. Enjuague bien. Ahora sentarse, relajarse y disfrutar del paseo!
 - Beneficios: Blasts brillo ingrávido, detangles unruly cerraduras, aumenta la fuerza del cabello. Primera línea de defensa contra el cabello seco y dañado.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

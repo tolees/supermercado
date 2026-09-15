@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Reduce visiblemente los poros y los granos sin resecar la piel. Las imperfecciones se reducen en un -58%***.
 - La solución limpiadora TODO EN 1 anti-imperfecciones: enriquecida con ácido salicílico, limpia y elimina cualquier tipo de maquillaje en rostro, ojos y labios mientras matifica la piel*, sin dejar residuos**.
-- Fórmula vegana, aprobada por Cruelty-Free International.
 - *Prueba instrumental en 27 voluntarios. **Test de consumidores en 140 voluntarios con piel propensa al acné. ***Test clínico en 45 mujeres después de 28 días.
+- Fórmula vegana, aprobada por Cruelty-Free International.
 - Garnier se compromete con una belleza más ecológica: Este producto es hipoalergénico, probado dermatológicamente y oftalmológicamente, y es adecuado para pieles y ojos sensibles
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

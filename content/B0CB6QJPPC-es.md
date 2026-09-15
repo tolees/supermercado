@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - PROTECCIÓN DEL TINTE: La fórmula del acondicionador que realza el color está diseñada para fijar el tinte. Para pelos teñidos, secos y dañados.
 - BRILLO: Con una fórmula energizante de Caviar de Lima y Vitamina E para proteger el color y aportar brillo a las fibras capilares
-- COLOR INTENSO: El purificador de metales protege el cabello de los metales dañinos presentes en el agua y ayuda a mantener la vitalidad.
 - ACONDICIONADOR: Tratamiento hidratante que realza la vitalidad del color y proporciona suavidad y brillo al cabello - diseñado para cabellos gruesos
+- COLOR INTENSO: El purificador de metales protege el cabello de los metales dañinos presentes en el agua y ayuda a mantener la vitalidad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB6QJPPC{{</world>}}

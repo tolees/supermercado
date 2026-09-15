@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Deléitate con los hipnóticos y lujosos aromas de Oriente Medio con Amberwood Nomad, un fascinante perfume ambarado de la Colección Jawhara, una selección de cinco Eaux de Parfum que te transportan a Oriente Medio, un lugar donde la rica tradición se encuentra con la magnífica modernidad
-- Este perfume unisex se abre con una mezcla aromática que presenta el aroma especiado del cardamomo y un acorde de mirra que revela un corazón rico y amaderado de madera de cedro y ládano
-- Captura la esencia de Amberwood Nomad, un Eau de Parfum fougère ambarado que combina a la perfección elementos cálidos, resinosos y amaderados
 - La base ambarada, similar a la haba tonka, completa esta cautivadora experiencia aromátic
 - Presentadas en elegantes frascos de vidrio, inspiradas en la ornamentada arquitectura árabe, cada adictiva composición aromática es una celebración única de las diferentes facetas de la belleza sensorial árabe y su herencia olfativa.
+- Captura la esencia de Amberwood Nomad, un Eau de Parfum fougère ambarado que combina a la perfección elementos cálidos, resinosos y amaderados
+- Este perfume unisex se abre con una mezcla aromática que presenta el aroma especiado del cardamomo y un acorde de mirra que revela un corazón rico y amaderado de madera de cedro y ládano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F9B64S4Y{{</world>}}

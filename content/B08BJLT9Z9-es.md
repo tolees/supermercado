@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tamaño medio (33x33cm servilleta abierta)
-- Color Blanco
-- Extra Suaves
 - Certificado FSC
 - 50 Servilletas Premium de 3 capas
+- Extra Suaves
+- Tamaño medio (33x33cm servilleta abierta)
+- Color Blanco
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08BJLT9Z9{{</world>}}

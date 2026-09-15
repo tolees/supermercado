@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Johnson s Baby Champú Bebés Dulces Sueños para piel delicada 500 ml'
-date: 2026-09-12 11:18:23
+date: 2026-09-14 19:16:13
 image: 'https://m.media-amazon.com/images/I/31sNG8vczoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B082VQPVN5/?tag=tolees-21'
 descuento: '30.30'
-average: '3.136875'
+average: '3.12055555555556'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - VEGANO Y SIN CRUELDAD: El producto es vegano y no ha sido probado en animales, y contiene 0% de talco.
-- PARA CABELLO DE NORMAL A GRASO: El champú seco contiene cafeína energizante y baobab
 - CÓMO USARLO: Agita bien y pulveriza hacia las raíces, masajea y cepilla
 - INSTAGRAMABLE: Presentado en un frasco con estampado de mármol digno de Instagram
+- PARA CABELLO DE NORMAL A GRASO: El champú seco contiene cafeína energizante y baobab
 - ELIMINA LA GRASA: El Champú Seco Revive de Revolution Haircare destierra el cabello graso y deja una fragancia fresca y cítrica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

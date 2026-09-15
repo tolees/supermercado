@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Dermatólogicamente y oftalmólogicamente testados
+- Brinda un volumen elevado: el 100% de 121 mujeres está de acuerdo
 - Pestañas de aspecto suave y acondicionadas
 - Infundido con 4 lujosos aceites, de argán, maracuja, marula y camelia
-- Brinda un volumen elevado: el 100% de 121 mujeres está de acuerdo
 - Duradero, a prueba de manchas, a prueba de escamas, fácil de limpiar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

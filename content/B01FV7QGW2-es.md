@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ha sido especialmente desarrollado para proteger el brillo del color
-- Con peonía roja
 - Fórmula enriquecida con filtros UV
-- Elaborado para cabellos teñidos o con mechas
 - Nutre intensamente el cabello
+- Con peonía roja
+- Ha sido especialmente desarrollado para proteger el brillo del color
+- Elaborado para cabellos teñidos o con mechas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01FV7QGW2{{</world>}}

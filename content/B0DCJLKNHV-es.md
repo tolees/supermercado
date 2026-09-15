@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Cantidad: Bolsa de 5 kg
 - 🍽️Considerado por los expertos, como una variedad de calidad extraordinaria gracias a su composición química que guarda la proporción perfecta entre amilosa y amilopectina, consiguiendo así que el arroz absorba mucho sabor y a la vez quede suelto y entero.
-- ☝Tiempo de cocción: 16-17 minutos.
 - 🌾Arroz de Valencia.
 - ✔️Ideal para arroces secos, donde se busca que cada grano quede suelto, definido y cargado de sabor.
+- ☝Tiempo de cocción: 16-17 minutos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DCJLKNHV{{</world>}}

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - PROTECCIÓN CONTRA EL MAL ALIENTO: Con un refrescante sabor a menta, esta pasta dental te proporciona un frescor duradero y la confianza de un aliento fresco durante todo el día para una sonrisa de confianza.
+- PROTECCIÓN ANTIBACTERIANA 24 HORAS: Te proporciona una protección antibacteriana de larga duración, combatiendo activamente las bacterias en tus dientes, lengua, mejillas y encías (*tras 2 semanas de cepillado, 2 veces al día).
 - NEUTRALIZA EL EFECTO PERJUDICIAL DE LA PLACA: Actúa para neutralizar los ácidos y el efecto dañino de la placa bacteriana, ayudando a mantener la fortaleza natural de tus dientes y la salud de tu boca.
 - COMBATE LA PLACA QUE DAÑA LAS ENCÍAS: Su fórmula experta elimina la placa perjudicial acumulada en la línea de las encías, ayudando a prevenir problemas de salud bucodental y manteniendo tus encías sanas.
-- PROTECCIÓN ANTIBACTERIANA 24 HORAS: Te proporciona una protección antibacteriana de larga duración, combatiendo activamente las bacterias en tus dientes, lengua, mejillas y encías (*tras 2 semanas de cepillado, 2 veces al día).
 - CONTENIDO: 1x Colgate Total Anti-Placa Expert Pasta de Dientes 75ml / Para Encías Sanas, Combate la Placa y el Mal Aliento, Sabor Menta Fresca
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Multipack de 6 Gigarrollos
-- Certificado Ecolabel
-- Optima Absorción
 - Papel de 2 capas elaborado con papel reciclado
+- Optima Absorción
+- Certificado Ecolabel
 - 6 Gigarrollos equivalen a más de 50 rollos estándar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

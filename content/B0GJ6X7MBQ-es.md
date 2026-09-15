@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- LOOK PERSONALIZABLE: Usa cada tono por separado o combínalos para crear dimensión y un acabado a medida
-- PALETA VERSÁTIL: La combinación perfecta de cremas difuminables, mates intensos y brillos radiantes para un efecto bronceado natural
-- VEGANO Y NO PROBADO EN ANIMALES: Formulado sin ingredientes de origen animal y certificado por PETA como libre de pruebas en animales
-- ALTA PIGMENTACIÓN: Descubre un bronzer modulable que permite pasar de un tono cálido natural a un bronceado definido con una sola pasada
 - HIDRATACIÓN INTENSA: Enriquecido con ácido hialurónico para una piel luminosa e hidratada durante todo el día
+- PALETA VERSÁTIL: La combinación perfecta de cremas difuminables, mates intensos y brillos radiantes para un efecto bronceado natural
+- LOOK PERSONALIZABLE: Usa cada tono por separado o combínalos para crear dimensión y un acabado a medida
+- ALTA PIGMENTACIÓN: Descubre un bronzer modulable que permite pasar de un tono cálido natural a un bronceado definido con una sola pasada
+- VEGANO Y NO PROBADO EN ANIMALES: Formulado sin ingredientes de origen animal y certificado por PETA como libre de pruebas en animales
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0GJ6X7MBQ{{</world>}}

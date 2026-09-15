@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Conservar en un lugar fresco y seco. Una vez abierto, conservar en un recipiente hermético. Consumir preferentemente antes del: ver parte superior del envase.
 - Una infusión cálida y ligeramente picante que combina la aromática especia del jengibre con notas cítricas.
-- Bolsitas de doble cámara.
 - Envasado en España.
 - Sin cafeína.
+- Conservar en un lugar fresco y seco. Una vez abierto, conservar en un recipiente hermético. Consumir preferentemente antes del: ver parte superior del envase.
+- Bolsitas de doble cámara.
 - Apto para dietas vegetarianas y veganas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

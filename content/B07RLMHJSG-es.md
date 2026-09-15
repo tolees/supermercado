@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cosmética Corporal
 - EU DUPLO MANS UREA REPAIR PLUS EUCERIN
+- Cosmética Corporal
 - 0
 - Ingredientes: Aqua, Glycerin, Urea, Dibutyl Adipate, Glyceryl Stearate, Stearyl Alcohol, Dicaprylyl Ether, Cetearyl Alcohol, Sodium Lactate, Tapioca Starch, Glyceryl Stearate SE, Ceramide NP, Lactic Acid, Arginine HCL, Sodium PCA, Cholesterol, Helianthus Annuus Seed Oil, Alanine, Carnitine, Glycine, Sodium Chloride, Dimethicone, Xanthan Gum, Sodium Cetearyl Sulfate, Decylene Glycol, Phenoxyethanol, Pentylene Glycol.
 

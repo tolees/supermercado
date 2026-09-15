@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CON ACEITES ESENCIALES: Fragancia elaborada con aceites esenciales seleccionados, exclusiva de Moussel.
-- FRAGANCIA CLÁSICA ICÓNICA: Inconfundible aroma con lavanda, geranio, eucalipto y madera de cedro para una experiencia sensorial única.
-- 100% LIMPIADORES DE ORIGEN NATURAL: Fórmula respetuosa con la piel que cuida y protege durante la higiene diaria.
-- DERMATOLÓGICAMENTE PROBADO: Asegura una limpieza eficaz con máxima suavidad y confort.
-- GEL DE DUCHA DE USO DIARIO: Limpia suavemente la piel, ideal para toda la familia y todo tipo de pieles.
 - FORMATO DOYPACK AHORRO 650ML: Recambio práctico y sostenible que permite rellenar tu envase habitual, reduciendo el uso de plástico.
+- GEL DE DUCHA DE USO DIARIO: Limpia suavemente la piel, ideal para toda la familia y todo tipo de pieles.
+- FRAGANCIA CLÁSICA ICÓNICA: Inconfundible aroma con lavanda, geranio, eucalipto y madera de cedro para una experiencia sensorial única.
+- DERMATOLÓGICAMENTE PROBADO: Asegura una limpieza eficaz con máxima suavidad y confort.
+- CON ACEITES ESENCIALES: Fragancia elaborada con aceites esenciales seleccionados, exclusiva de Moussel.
+- 100% LIMPIADORES DE ORIGEN NATURAL: Fórmula respetuosa con la piel que cuida y protege durante la higiene diaria.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C2VTTPZS{{</world>}}

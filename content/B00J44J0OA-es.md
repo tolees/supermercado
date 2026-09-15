@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sencillo de aplicar
-- Producto de belleza
 - Adecuado para el cuidado de tu piel
+- Producto de belleza
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00J44J0OA{{</world>}}

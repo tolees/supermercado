@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Old Spice Whitewater Desodorante en Barra para Hombre Sin Aluminio 6x50ml'
-date: 2026-09-12 11:47:01
+date: 2026-09-14 07:53:43
 image: 'https://m.media-amazon.com/images/I/41kwGiIEJcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0059HA9HS-es Old Spice Whitewater Desodorante en Barra para Hombre Sin...'
 sku: 'B0059HA9HS-es'
 tags: [ 'desodorante','🇪🇸', ]
-actualPrice: 12.99 EUR
+actualPrice: 20.94 EUR
 currency: EUR
-price: 12.99
-comparePrice: 21.42 EUR
+price: 20.94
+comparePrice: 20.94 EUR
 prodname: 'Old Spice Whitewater Desodorante en Barra para Hombre Sin Aluminio 6x50ml'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0059HA9HS/?tag=tolees-21'
-descuento: '39.36'
-average: '13.5642105263159'
+descuento: '0.00'
+average: '14.2666666666668'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

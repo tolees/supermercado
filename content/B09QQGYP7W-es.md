@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Marca: Under Armour
-- Género: Pantalones
 - Bajos de pierna: estrechos
-- Forro: por defecto
 - Extras: por defecto
+- Género: Pantalones
+- Forro: por defecto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09QQGYP7W{{</world>}}

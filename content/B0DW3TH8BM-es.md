@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Crema multiusos de uso diario que hidrata sin dejar una sensación grasa y deja tu piel suave de la cara a los pies.
 - Crema hidratante multiusos de rápida absorción para el cuidado de la cara, las manos y el cuerpo que proporciona hasta 24 horas de hidratación. Apta para todo tipo de pieles incluso como crema de día
+- Crema multiusos de uso diario que hidrata sin dejar una sensación grasa y deja tu piel suave de la cara a los pies.
 - Diseñada con el Sérum Restaura Ceramidas que ayuda a fortalecer la barrera natural de la piel y le proporciona hidratación
-- La siguiente información se aplica a cada unidad del paquete
-- Crema testada dermatológicamente. Mundialmente Dove no testa en animales
 - Dove Crema Ligera Hidratante de cuerpo, manos y cara para todo tipo de piel 24h de Hidratación Rápida Absorción 250ml
+- Crema testada dermatológicamente. Mundialmente Dove no testa en animales
+- La siguiente información se aplica a cada unidad del paquete
 - Fórmula de absorción instantánea que proporciona una hidratación lo suficientemente ligera como para utilizarla bajo el maquillaje
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Crea una abundante espuma
-- Tiene una textura suave y cremosa que mantiene la tersura natural de la piel
-- Gel de ducha de origen 100% vegetal
-- Formato familiar de 900 mililitros
-- Por ese pequeño momento de positividad cada día
 - Con una fragancia llena de placer, única e inimitable
+- Gel de ducha de origen 100% vegetal
+- Por ese pequeño momento de positividad cada día
+- Tiene una textura suave y cremosa que mantiene la tersura natural de la piel
+- Formato familiar de 900 mililitros
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0946YH8CB{{</world>}}

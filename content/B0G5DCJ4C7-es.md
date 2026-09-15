@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ¡Perfecto para gozar de tu momento Haribo!
 - Geles dulces
 - Deliciosas piezas con forma de tubito con exterior rojo sabor Fresa recubiertos de pica e interior de pasta de azúcar sabor nata.
 - La siguiente información se aplica a cada unidad del paquete
+- ¡Perfecto para gozar de tu momento Haribo!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0G5DCJ4C7{{</world>}}

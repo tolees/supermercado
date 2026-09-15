@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - TEXTURA Y RESULTADOS: De textura suave y emoliente, este aceite limpiador es ideal para la higiene íntima de mujeres que buscan limpiar e hidratar en profundidad; además, ayuda con el picor, la irritación y sequedad íntima
 - MODO DE EMPLEO: Aplicar sobre la piel húmeda, masajeando suavemente, como un limpiador normal. Aclarar posteriormente con agua
-- HYDRA OIL HIGIENE ÍNTIMA: Es un aceite limpiador íntimo hidratante y calmante, que alivia el picor y mantiene una higiene suave y protectora, sin dañar la película hidrolipídica de la piel ni las mucosas
-- FORMULACIÓN: Formulado con Niacinamida, Aceite de Almendras Dulces y de Salvado de Arroz, y Vitaminas B y E, que ayudan a calmar y mejorar la función barrera, aportando una acción emoliente y calmante
 - APTO PARA: Es apto para toda la familia, y ha sido testado bajo control pediátrico y ginecológico. Reduce un 75% de picor y aumenta un 15% la hidratación en 24 horas
+- FORMULACIÓN: Formulado con Niacinamida, Aceite de Almendras Dulces y de Salvado de Arroz, y Vitaminas B y E, que ayudan a calmar y mejorar la función barrera, aportando una acción emoliente y calmante
+- HYDRA OIL HIGIENE ÍNTIMA: Es un aceite limpiador íntimo hidratante y calmante, que alivia el picor y mantiene una higiene suave y protectora, sin dañar la película hidrolipídica de la piel ni las mucosas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BXTHT4DM{{</world>}}

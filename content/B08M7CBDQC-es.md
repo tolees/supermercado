@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Caramelos duros con sabor de café
 - Con café espresso
 - Ideales en cualquier momento del día
-- Caramelos duros con sabor de café
 - No contienen azúcar
 - Conservar en lugar fresco y seco
 

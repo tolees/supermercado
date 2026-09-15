@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Gel de ducha con fórmula 3 en 1: para cuerpo, cabello y rostro.
-- Aroma especiado y refrescante que aporta energía.
 - Botella 100% reciclada.
 - Fórmula mejorada, ahora más clean y vegana.
+- Aroma especiado y refrescante que aporta energía.
+- Gel de ducha con fórmula 3 en 1: para cuerpo, cabello y rostro.
 - Dermatológicamente testado.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

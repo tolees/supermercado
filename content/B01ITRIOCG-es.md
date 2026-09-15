@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Perfil nutricional: aporta proteínas de alto valor biológico, calcio de fácil absorción, lactosa, grasas, vitaminas y minerales.
-- Pack de 6 botellas 1,5L con tapón: formato cómodo de servir, guardar y conservar en frigorífico una vez abierto.
-- Sabor auténtico y cremoso: leche entera con textura cremosa y sabor natural, pensada para quienes buscan una leche que sabe a leche; producto distinguido con el sello Sabor del Año.
 - Leche entera de vaca: elaborada con leche de vaca 100% natural, sin aditivos artificiales, para disfrutar del sabor de siempre.
+- Sabor auténtico y cremoso: leche entera con textura cremosa y sabor natural, pensada para quienes buscan una leche que sabe a leche; producto distinguido con el sello Sabor del Año.
+- Pack de 6 botellas 1,5L con tapón: formato cómodo de servir, guardar y conservar en frigorífico una vez abierto.
+- Perfil nutricional: aporta proteínas de alto valor biológico, calcio de fácil absorción, lactosa, grasas, vitaminas y minerales.
 - Perfecta sola, fría o caliente, con café, cacao, cereales, batidos, postres o recetas caseras.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

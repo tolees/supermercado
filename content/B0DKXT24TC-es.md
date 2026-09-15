@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cuétara - Flakes Bombazo 105g'
-date: 2026-08-25 13:49:10
+date: 2026-09-14 23:54:35
 image: 'https://m.media-amazon.com/images/I/51feV4d9nlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0DKXT24TC-es Cuétara - Flakes Bombazo 105g'
 sku: 'B0DKXT24TC-es'
 tags: [ 'cuétara','🇪🇸', ]
-actualPrice: 1.21 EUR
+actualPrice: 1.34 EUR
 currency: EUR
-price: 1.21
+price: 1.34
 comparePrice: 1.4 EUR
 prodname: 'Cuétara - Flakes Bombazo 105g'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DKXT24TC/?tag=tolees-21'
-descuento: '13.57'
-average: '1.21'
+descuento: '4.29'
+average: '1.275'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Conservar en ambiente fresco y seco
-- Divertidos y sorprendentes
-- Formato para llevar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DKXT24TC{{</world>}}

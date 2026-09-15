@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Sin alcohol: por último, una bebida sin alcohol que realmente sabe bien. GIMBER es la alternativa perfecta para el aperitivo clásico o como ingrediente para una cola falsa. Sin alcohol, mucho sabor.
 - Preparación: GIMBER se puede utilizar como aditivo para bebidas, así como para refinar platos. Las posibilidades son infinitas. Receta estándar: mezcla 20-30 ml con agua dulce con gas.
+- Ingredientes: el delicioso concentrado se compone de 38% de jengibre, limones orgánicos, hierbas y especias de alta calidad. Una bebida llena de potencia y sabor. La receta exacta es un secreto estrechamente protegido.
 - 100% BIO: el refrescante concentrado se compone exclusivamente de ingredientes orgánicos y naturales. GIMBER tiene la certificación orgánica (NL-BIO-01) EU/Agricultura no UE.100% BIO: el refrescante concentrado se compone exclusivamente de ingredientes orgánicos y naturales. GIMBER tiene la certificación orgánica (NL-BIO-01) EU/Agricultura no UE.
 - GIMBER: Experimenta el potente sabor de GIMBER. Una versátil bebida orgánica a base de jengibre que hará que tus papilas gustativas bailen.
-- Sin alcohol: por último, una bebida sin alcohol que realmente sabe bien. GIMBER es la alternativa perfecta para el aperitivo clásico o como ingrediente para una cola falsa. Sin alcohol, mucho sabor.
-- Ingredientes: el delicioso concentrado se compone de 38% de jengibre, limones orgánicos, hierbas y especias de alta calidad. Una bebida llena de potencia y sabor. La receta exacta es un secreto estrechamente protegido.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B095HXCQFF{{</world>}}

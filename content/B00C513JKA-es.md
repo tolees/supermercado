@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bebida rápida y sabrosa para cualquier momento del día
-- Con un alto contenido en calcio
 - Conservar en un lugar fresco y seco
 - Elaborado sin azúcares añadidos
+- Bebida rápida y sabrosa para cualquier momento del día
+- Con un alto contenido en calcio
 - Hecho con ingredientes 100% bio
 
 [🛒 Aquí!!!]({{< param buyurl >}})

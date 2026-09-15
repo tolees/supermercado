@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🥰 PLACER ARTESANAL: Cada una de las 24 trufas es una obra de arte culinario, creada con técnicas artesanales que resaltan su sabor esquisito.
-- 🍫 BELGA Y ÚNICO: Directamente desde Bélgica, estas 24 trufas artesanales transportan la tradición y maestría chocolatera hasta tu paladar.
 - 🎁 SORPRESA EXQUISITA: Este pack de 24 trufas es la máxima expresión de la pasión chocolatera. Elaboradas con el más fino chocolate belga, ofrecen una selección de seis sabores distintivos, desde el atrevido chili hasta el sofisticado champagne.
 - 🍫 SET DE 24 DELICIAS: Sumérgete en el sabor exquisito de trufas 100% artesanales. Hechas con el más fino chocolate belga. 5 chili, 5 de pistacho, 5 de cookies con canela y nuez moscada, 5 de Pedro Ximenez, 5 de whisky y 5 de champagne.
+- 🥰 PLACER ARTESANAL: Cada una de las 24 trufas es una obra de arte culinario, creada con técnicas artesanales que resaltan su sabor esquisito.
+- 🍫 BELGA Y ÚNICO: Directamente desde Bélgica, estas 24 trufas artesanales transportan la tradición y maestría chocolatera hasta tu paladar.
 - 😋 SABOR INCOMPARABLE: Con cada trufa, embarcas en un viaje de sabor inigualable. El picante chili, el suave pistacho, las crujientes cookies con canela y nuez moscada, el dulce Pedro Ximénez, el robusto whisky y el burbujeante champagne. Un festín de experiencias para el paladar más exigente.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

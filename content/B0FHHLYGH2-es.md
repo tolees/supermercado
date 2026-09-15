@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Piel uniforme y luminosa por más tiempo. Piel hidratada y con imperfecciones reducidas en dos semanas.
-- Crema gel con vitamina B3 rico en astaxantina, que protege contra los factores externos causantes del envejecimiento prematuro. Se absorbe rápidamente, ilumina la piel y mantiene su hidratación.
 - Tomar el producto con los dedos. Aplicar sobre el rostro y difuminar desde el centro hacia el exterior.
+- Crema gel con vitamina B3 rico en astaxantina, que protege contra los factores externos causantes del envejecimiento prematuro. Se absorbe rápidamente, ilumina la piel y mantiene su hidratación.
+- Piel uniforme y luminosa por más tiempo. Piel hidratada y con imperfecciones reducidas en dos semanas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FHHLYGH2{{</world>}}

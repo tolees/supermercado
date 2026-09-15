@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para su elaboración, se mantiene el vermut doce meses de crianza en toneles de roble le confieren consistencia y carácter.
 - Botella de Vermut Yzaguirre Vermouth Blanco Reserva de 1l. Un reserva luminoso, excelente equilibrio entre nitidez y crianza. Un clásico de la marca.
-- Este vermut se elabora por el método tradicional de las antiguas casas de las estribaciones de los Alpes italianos. Yzaguirre Vermouth recomienda un consumo responsable.
+- Para su elaboración, se mantiene el vermut doce meses de crianza en toneles de roble le confieren consistencia y carácter.
 - Disfutar como aperitivo diario o como copa de tarde-noche. En vaso ancho, acompañado de 3 o 4 cubitos de hielo, una rodaja de limón y una hoja de menta.
 - Nota de cata: Vermut blanco muy aromático, aterciopelado y agradable al paladar; con notas de madera, hierbas y especias balsámicas. Gusto inicial muy equilibrado, perfecta armonía con su acidez.
+- Este vermut se elabora por el método tradicional de las antiguas casas de las estribaciones de los Alpes italianos. Yzaguirre Vermouth recomienda un consumo responsable.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0085ZMAB4{{</world>}}
