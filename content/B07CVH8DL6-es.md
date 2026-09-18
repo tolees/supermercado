@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Crema fijadora para prótesis dentales que proporciona una fijación fuerte todo el día
-- Forma una barrera protectora que ayuda a evitar la entrada de alimentos.
-- Corega Máximo Sellado: mismo producto, nueva imagen. Tubo de 70 g; Sin colorantes ni aromas artificiales; Cartón reciclado y reciclable
 - Ayuda a proteger las encías de la irritación durante todo el día y mejora el ajuste de la prótesis.
+- Corega Máximo Sellado: mismo producto, nueva imagen. Tubo de 70 g; Sin colorantes ni aromas artificiales; Cartón reciclado y reciclable
+- Forma una barrera protectora que ayuda a evitar la entrada de alimentos.
+- Crema fijadora para prótesis dentales que proporciona una fijación fuerte todo el día
 - Su boquilla de precisión permite aplicar la cantidad exacta de producto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

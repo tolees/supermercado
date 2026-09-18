@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Disponible en color negro de humo
-- Aplicación precisa
 - Con peine flexible hecho de cerdas flexibles de elastómero
+- Aplicación precisa
+- Disponible en color negro de humo
 - Contenido de 8 ml
 - Las superficies planas de la multi-peine estiran la fórmula sobre las pestanas de las raíces a la punta
 

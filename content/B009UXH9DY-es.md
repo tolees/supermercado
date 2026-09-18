@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Se sirve en chupitos muy fríos
 - Tiene un aroma intenso y un regusto agradable
 - Licor de whisky canadiense con infusión de canela
-- Formato para compartir con amigos o familia
 - Es ideal para cócteles
+- Formato para compartir con amigos o familia
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B009UXH9DY{{</world>}}

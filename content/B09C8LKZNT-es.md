@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño elegante
 - Rendimiento fiable
+- Diseño elegante
 - Funcionalidad versátil
 
 [🛒 Aquí!!!]({{< param buyurl >}})

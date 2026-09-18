@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CREMA HIDRATANTE FACIAL: Con esta crema facial gracias a la Vitamina B5, mejora la retención de agua en la piel, proporcionando una hidratación duradera y ayudando a evitar la descamación.
-- AFTER SUN EFECTO HIELO CON ALOE VERA Y MANZANILLA: Proporciona un alivio inmediato y refrescante tras la exposición solar, ayudando a calmar la piel irritada y enrojecida.
-- FORMATO PRÁCTICO DE 100 ML: Crema facial con textura de rápida absorción en un envase cómodo y fácil de aplicar, ideal para llevar en la bolsa de playa o en el neceser por esto es un perfecto after sun.
-- PROTEGE Y REPARA LA PIEL DESPUÉS DEL SOL: After sun con la combinación de Aloe Vera y Manzanilla ayuda a regenerar la piel, reduciendo la sensación de tirantez y aportando suavidad.
 - FÓRMULA REFRESCANTE Y LIGERA: Crema facial mujer y hombre con efecto hielo que aporta una sensación de frescura intensa, aliviando la piel tras la exposición al sol sin dejar sensación pegajosa con este after sun.
+- CREMA HIDRATANTE FACIAL: Con esta crema facial gracias a la Vitamina B5, mejora la retención de agua en la piel, proporcionando una hidratación duradera y ayudando a evitar la descamación.
+- FORMATO PRÁCTICO DE 100 ML: Crema facial con textura de rápida absorción en un envase cómodo y fácil de aplicar, ideal para llevar en la bolsa de playa o en el neceser por esto es un perfecto after sun.
+- AFTER SUN EFECTO HIELO CON ALOE VERA Y MANZANILLA: Proporciona un alivio inmediato y refrescante tras la exposición solar, ayudando a calmar la piel irritada y enrojecida.
+- PROTEGE Y REPARA LA PIEL DESPUÉS DEL SOL: After sun con la combinación de Aloe Vera y Manzanilla ayuda a regenerar la piel, reduciendo la sensación de tirantez y aportando suavidad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DW4H1RSC{{</world>}}

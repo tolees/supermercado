@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PACK CUIDADO INFANTIL COMPLETO – EDICIÓN LIMITADA BLUEY: incluye una mochila infantil Bluey de edición limitada con Colonia Nenuco 240 ml, Champú Suave 200 ml y Jabón Líquido 200 ml
-- AGUA DE COLONIA NENUCO: fragancia original de siempre que no reseca la piel, presentada en una edición especial Bluey
-- MOCHILA BLUEY EDICIÓN LIMITADA: práctica y reutilizable, diseñada para acompañar a los niños en su rutina diaria
 - CHAMPÚ SUAVE: fórmula sin lágrimas, adecuada para el uso diario infantil
+- MOCHILA BLUEY EDICIÓN LIMITADA: práctica y reutilizable, diseñada para acompañar a los niños en su rutina diaria
+- AGUA DE COLONIA NENUCO: fragancia original de siempre que no reseca la piel, presentada en una edición especial Bluey
+- PACK CUIDADO INFANTIL COMPLETO – EDICIÓN LIMITADA BLUEY: incluye una mochila infantil Bluey de edición limitada con Colonia Nenuco 240 ml, Champú Suave 200 ml y Jabón Líquido 200 ml
 - JABÓN LÍQUIDO: apto para cuerpo y manos, limpia suavemente sin resecar la piel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

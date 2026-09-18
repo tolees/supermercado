@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- TALLA: Altura del mango 65 cm
 - Edad: Para niños a partir de 3 años
+- TALLA: Altura del mango 65 cm
 - VILEDA: Como los reales! Reproducción fiel de productos icónicos de la marca Vileda
 
 [🛒 Comprar!!!]({{< param buyurl >}})

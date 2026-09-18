@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aumento hasta un 20 percent de las pestañas tras 30 días de aplicación
 - Nuevo sérum False Lash Effect con tratamiento para las pestañas y las cejas
+- Aumento hasta un 20 percent de las pestañas tras 30 días de aplicación
 - Apto para ojos sensibles; Probado Clínicamente
 - Estimula el crecimiento natural de las pestañas y las protege contra la rotura y la caída
 - Fórmula vegana que contiene un complejo potenciador con nutrientes beneficiosos para ti como extracto de bambú, biotina, péptidos y aceite de ricino

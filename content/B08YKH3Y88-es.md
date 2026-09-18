@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El perro debe ser supervisado en todo momento mientras se alimenta
 - Alimento complementario para perros de todo tipo de razas, muy rico en nutrientes. 100% natural.
-- Utilizar como un regalo o recompensa en cualquier momento, siempre dentro de una dieta equilibrada
-- Envasado en bolsas de 1 Kg.
 - Snacks naturales para perros, en forma de huesitos con carne de pollo enrollada. 100% natural. Con un alto contenido en proteína animal y con pocas grasas (Producto Light).
+- Envasado en bolsas de 1 Kg.
+- Utilizar como un regalo o recompensa en cualquier momento, siempre dentro de una dieta equilibrada
+- El perro debe ser supervisado en todo momento mientras se alimenta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08YKH3Y88{{</world>}}

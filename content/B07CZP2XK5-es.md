@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Damm - Cerveza Voll-Damm Doble Malta Caja de 24 Botellas 33cl | Cerveza Doble Malta Estilo Märzenbier 100% Ingredientes Naturales Original en Botella'
-date: 2026-09-15 06:08:39
+date: 2026-09-18 06:52:09
 image: 'https://m.media-amazon.com/images/I/41lcn1ZhD1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZP2XK5/?tag=tolees-21'
 descuento: '23.66'
-average: '22.1504166666668'
+average: '22.2926923076924'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

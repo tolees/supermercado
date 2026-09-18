@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Apariencia: Cerveza Budweiser, estilo American Lager, clara y brillante y con una espuma blanca, cremosa y consistente
 - Aroma: Budweiser tiene ligeras notas aromáticas y afrutadas de lúpulo y limpios matices de malta, así como un suave aroma a levadura fresca
 - Elaborada con MALTA DE CEBADA, seleccionada entre 2.500 variedades de EE.UU y Canadá, y una mezcla de variedades de LÚPULO, seleccionados entre más de 1.600 variedades en Alemania y EE.UU. El agua proviene de un manantial, siendo pura y limpia. La LEVADURA es el secreto del sabor inconfundible, desde 1876 se utiliza la misma cepa. Y el arroz, el ingrediente más importante, principalmente por su sabor fresco
 - Colecciona con Budweiser las 11 latas, edición limitada especial mundial, cada pack trae 10 latas de 44 cl de cerveza estilo American Lager, con 4,8% de alcohol
+- Apariencia: Cerveza Budweiser, estilo American Lager, clara y brillante y con una espuma blanca, cremosa y consistente
 - Sabor: En boca es ligeramente dulce y balanceada, cuerpo medio, amargor ligero y final fresco. La mezcla es sometida a un proceso de doble fermentación y reposa entre virutas de madera de Haya, lo que llamamos “Beechwood Aging” proceso auténtico de Budweiser
 
 [🛒 Comprar!!!]({{< param buyurl >}})

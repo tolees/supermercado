@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Adecuada para uso diario
 - Una celebración atemporal del alma, el cuerpo y el espíritu de la mano de Elizabeth Arden Green Tea.
-- Con notas herbales
-- Deja tu piel con una fresca fragancia cítrica
 - Fragancia con aroma a Té verde que refresca y energiza, sobre todo después de la ducha
+- Adecuada para uso diario
+- Deja tu piel con una fresca fragancia cítrica
+- Con notas herbales
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B06VXBXJB3{{</world>}}

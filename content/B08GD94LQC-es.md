@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'by Amazon Comida Húmeda para Gatos Paté Mixto 100g Paquete de 32'
-date: 2026-09-11 23:50:56
+date: 2026-09-18 09:08:38
 image: 'https://m.media-amazon.com/images/I/41NT4rIbZEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GD94LQC/?tag=tolees-21'
 descuento: '15.35'
-average: '14.1653846153846'
+average: '14.1073333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- EQUILIBRA: líder en el mercado de los Complementos Alimenticios y la Cosmética Natural desde hace más de treinta años, con productos que logran equilibrio entre respeto, eficacia, bienestar y belleza
 - CANSACIO Y FATIGA: el Magnesio es útil para el funcionamiento normal del sistema nervioso y la función psicológica normal, apoyando al organismo para afrontar los efectos del estrés
 - MAGNESIO BISGLICINATO: es una forma orgánica que se absorbe de manera óptima y es bien tolerada por el organismo
-- MODO DE EMPLEO: tomar 1-2 cápsulas al día, que corresponden a 250 mg de magnesio orgánico, con un vaso de agua. Tomar preferentemente por la mañana
 - VEGAN Y SIN GLUTEN: apto para veganos, sin gluten, naturalmente sin lactosa y sin colorantes; frasco de r-PET 100% reciclado
+- EQUILIBRA: líder en el mercado de los Complementos Alimenticios y la Cosmética Natural desde hace más de treinta años, con productos que logran equilibrio entre respeto, eficacia, bienestar y belleza
+- MODO DE EMPLEO: tomar 1-2 cápsulas al día, que corresponden a 250 mg de magnesio orgánico, con un vaso de agua. Tomar preferentemente por la mañana
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FBC3N44M{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- SOLO 70 a 85 CALORÍAS POR BOLSA Cada bolsa de 50g tiene solo 70 a 85 calorías y 25g de fibra, el capricho perfecto cuando te apetece algo dulce. Ideales en el trabajo, después de entrenar, como chuches bajas en calorías para bolsas de cumpleaños o para una noche de sofá.
-- PACK VARIADO 8 MIX CON TODO EL SABOR Mezcla de chuches afrutadas y ligeramente ácidas, estas gominolas variadas ofrecen todo el sabor que buscan los golosos con menos de 1g de azúcar por bolsa. Un capricho delicioso si te apetece un mix de chuches sin azúcar sin renunciar al sabor.
-- SIN GLUTEN Y SIN LACTOSA Estas gominolas bajas en carbohidratos tampoco llevan gluten, un picoteo de menos de 100 calorías que encaja en cualquier estilo de vida. Además, nuestro envase más climático ayuda a reducir las emisiones de CO₂ en un 40%.
-- MÁXIMO SABOR Y MENOS DE 1G DE AZÚCAR En Pändy creemos que los caramelos sin azúcar deben estar tan ricos como las golosinas tradicionales. Quitamos el azúcar, nunca el sabor, creando deliciosas chuches bajas en azúcar que satisfacen a los más golosos.
 - HECHAS EN SUECIA CON AMOR Pändy es una marca líder de golosinas suecas sin azúcar que crea dulces suecos modernos con todo el sabor y menos azúcar. Ofrecemos a los golosos una forma más inteligente de disfrutar de sus chucherías favoritas. Hechas en Suecia. Amadas en todo el mundo.
+- PACK VARIADO 8 MIX CON TODO EL SABOR Mezcla de chuches afrutadas y ligeramente ácidas, estas gominolas variadas ofrecen todo el sabor que buscan los golosos con menos de 1g de azúcar por bolsa. Un capricho delicioso si te apetece un mix de chuches sin azúcar sin renunciar al sabor.
+- SOLO 70 a 85 CALORÍAS POR BOLSA Cada bolsa de 50g tiene solo 70 a 85 calorías y 25g de fibra, el capricho perfecto cuando te apetece algo dulce. Ideales en el trabajo, después de entrenar, como chuches bajas en calorías para bolsas de cumpleaños o para una noche de sofá.
+- MÁXIMO SABOR Y MENOS DE 1G DE AZÚCAR En Pändy creemos que los caramelos sin azúcar deben estar tan ricos como las golosinas tradicionales. Quitamos el azúcar, nunca el sabor, creando deliciosas chuches bajas en azúcar que satisfacen a los más golosos.
+- SIN GLUTEN Y SIN LACTOSA Estas gominolas bajas en carbohidratos tampoco llevan gluten, un picoteo de menos de 100 calorías que encaja en cualquier estilo de vida. Además, nuestro envase más climático ayuda a reducir las emisiones de CO₂ en un 40%.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CTCT4TGV{{</world>}}

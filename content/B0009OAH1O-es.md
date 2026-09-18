@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Este producto está indicado para mujeres.
-- De la marca Burberry.
 - Contiene 50 ml.
 - Las notas olfativas principales de este producto son amaderado y afrutado.
+- De la marca Burberry.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0009OAH1O{{</world>}}

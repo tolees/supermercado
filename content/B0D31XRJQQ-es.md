@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cápsulas de café compatibles con máquinas NESPRESSO, cápsulas no compatibles para las máquinas Nespresso Vertuo
-- Seductora mezcla de granos con un toque de tostado italiano para obtener un café intenso, con carácter y dulzor
-- Comprometidos con el abastecimiento ético de café al 100% en colaboración con Conservation International
 - Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
+- Comprometidos con el abastecimiento ético de café al 100% en colaboración con Conservation International
 - Cápsulas de café de STARBUCKS de NESPRESSO, con un dulzor tostado y toques de cacao
+- Seductora mezcla de granos con un toque de tostado italiano para obtener un café intenso, con carácter y dulzor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D31XRJQQ{{</world>}}

@@ -30,10 +30,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - 👰 [DETALLE]: Especialmente pensado para que lo regales, seguro que encuentras a esa persona o ese momento que requiere de este SUPER REGALO.
 - 🍫 [CONTENIDO DE LA CAJA]: 1 Kinder Bueno, 1 Kinder Joy, 3 Bombones Ferrero Rocher o Raffaello, 1 Barrita Milkybar Nestle, 1 Barrita Crunch Nestle, 1 Barrita Meyvel Chocolate, 2 Chupa Chups.
+- ⚠️ [ADVERTENCIA]: Esta Caja contiene CHOCOLATES. EL CALOR me afecta !!!
+- 🍬 [RECIBELO EN 24 HORAS]: Te lo enviamos en 24 horas donde tu nos digas. No dejes pasar la oportunidad de hacer ese REGALO tan ESPECIAL con esta BANDEJA REGALO PREMIUM especialmente decorada para esta OCASION.
 - ✅ [CALIDAD]: Las mejores marcas de Chocolates reunidas en una única Bandeja de Regalo: KINDER, FERRERO, NESTLE y CHUPA CHUPS.
 - 🎀 [BANDEJA REGALO]: Selección de Productos KINDER, FERRERO, NESTLE y CHUPA CHUPS. Tamaño Bandeja 18x10 cms.
-- 🍬 [RECIBELO EN 24 HORAS]: Te lo enviamos en 24 horas donde tu nos digas. No dejes pasar la oportunidad de hacer ese REGALO tan ESPECIAL con esta BANDEJA REGALO PREMIUM especialmente decorada para esta OCASION.
-- ⚠️ [ADVERTENCIA]: Esta Caja contiene CHOCOLATES. EL CALOR me afecta !!!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C2VMWXHG{{</world>}}

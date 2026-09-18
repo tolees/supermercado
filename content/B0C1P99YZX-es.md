@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CABELLO RIZADO SECO Y FRÁGIL: La mascarilla está pensada para el pelo rizado seco y frágil, debilitado por tratamientos y coloraciones o peinados. Su potente acción reparadora da nueva vida al cabello
-- FÓRMULA ÉTICA Y NATURAL: Fórmula ultra nutritiva de miel de manuka, yogur, aceite de baobab y manteca de Karité de comercio justo. Sin pruebas en animales, ni siliconas, sulfatos, parabenos y ftalatos
-- TU RUTINA NUTRITIVA: Deja actuar la mascarilla 10-15 min tras el champú y acondicionador o como tratamiento pre lavado. Combína con el champú, acondicionador y acondicionador leave-in Hydrate & Repair
 - REPARACIÓN PROFUNDA E HIDRATACIÓN: La mascarilla Hydrate & Repair Protein Power es un tratamiento reparador enriquecido con proteínas. Fortalece la fibra capilar, reduce la rotura y puntas abiertas
+- CABELLO RIZADO SECO Y FRÁGIL: La mascarilla está pensada para el pelo rizado seco y frágil, debilitado por tratamientos y coloraciones o peinados. Su potente acción reparadora da nueva vida al cabello
 - CONTENIDO: 1x SheaMoisture Mascarilla Hydrate & Repair Protein Power, Cabello Rizado Seco y Dañado, Pelo Más Fuerte, Rotura Reducida, Miel de Manuka, Yogur, Proteínas y Manteca de Karité, 355 ml
+- TU RUTINA NUTRITIVA: Deja actuar la mascarilla 10-15 min tras el champú y acondicionador o como tratamiento pre lavado. Combína con el champú, acondicionador y acondicionador leave-in Hydrate & Repair
+- FÓRMULA ÉTICA Y NATURAL: Fórmula ultra nutritiva de miel de manuka, yogur, aceite de baobab y manteca de Karité de comercio justo. Sin pruebas en animales, ni siliconas, sulfatos, parabenos y ftalatos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C1P99YZX{{</world>}}

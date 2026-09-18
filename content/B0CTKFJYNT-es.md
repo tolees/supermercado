@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Champú para cabello seco o encrespado
 - Champú TRESemmé diseñado con la PROSTYLE TECH que contiene aminoácidos y ceramidas para cabello seco o encrespado
-- Descubre la sistema liso y sedoso, con proteína de seda y aceite de argán
-- Champú liso & sedoso, 2x cabello más suave y manejable
 - Champú de calidad que doma el encrespamiento y deja el cabello sedoso, suave y liso
+- Champú liso & sedoso, 2x cabello más suave y manejable
+- Descubre la sistema liso y sedoso, con proteína de seda y aceite de argán
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CTKFJYNT{{</world>}}

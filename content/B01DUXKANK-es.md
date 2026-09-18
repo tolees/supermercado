@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene colágeno que proporciona hidratación
 - Textura ligera que penetra rápidamente
+- Contiene colágeno que proporciona hidratación
 - Con ocho aceites esenciales
 - Revitaliza e ilumina la piel
 

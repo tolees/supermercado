@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Formato cómodo y fácil
-- COCKTAIL HARIBO, un surtido de caramelos de goma de mini piezas, con distintos colores y sabores. ¡Que empiece la fiesta Haribo! ¡TU MIX DE PICOTEO!
+- Conservar en lugar fresco y seco
 - Disfruta con alegría y diversión en cualquier momento
 - Variedad multicolor para grandes y pequeños
-- Conservar en lugar fresco y seco
+- COCKTAIL HARIBO, un surtido de caramelos de goma de mini piezas, con distintos colores y sabores. ¡Que empiece la fiesta Haribo! ¡TU MIX DE PICOTEO!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FR9V3XGK{{</world>}}

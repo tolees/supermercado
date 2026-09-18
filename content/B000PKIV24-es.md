@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Dimensiones: 8 x 3.4 x 4.5 cm
 - Nuovo Milano
+- Diseñador: Ettore Sottsass
 - Cucharadita
 - Lavavajillas lavadora
-- Dimensiones: 8 x 3.4 x 4.5 cm
 - Contenido del paquete: 1
-- Diseñador: Ettore Sottsass
 - Acero inoxidable 18/10 brillante
 
 [🛒 Comprar!!!]({{< param buyurl >}})

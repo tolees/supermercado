@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- DUO DE SABORES IRRESISTIBLE: Exquisita combinación de pechuga de pollo tierna y atún seleccionado, creando un aroma y sabor intensos que motivan de forma inmediata a los perros más selectivos.
-- RECETA LIBRE DE ALÉRGENOS: Formulado sin cereales con gluten y sin azúcares añadidos, lo que garantiza una digestión ligera y segura para perros con estómagos delicados o sensibilidades alimentarias.
 - FORMATO MINI EN ROLLO: Diseñados con una forma y tamaño específicos para ser fáciles de manejar, permitiendo una dosificación cómoda durante el adiestramiento o como premio rápido entre horas.
 - RICO EN NUTRIENTES ESENCIALES: Gracias al aporte del atún, estos snacks son una fuente natural de ácidos grasos que contribuyen a mantener una piel saludable y un pelaje brillante.
+- DUO DE SABORES IRRESISTIBLE: Exquisita combinación de pechuga de pollo tierna y atún seleccionado, creando un aroma y sabor intensos que motivan de forma inmediata a los perros más selectivos.
+- RECETA LIBRE DE ALÉRGENOS: Formulado sin cereales con gluten y sin azúcares añadidos, lo que garantiza una digestión ligera y segura para perros con estómagos delicados o sensibilidades alimentarias.
 - ALTA CALIDAD DE INGREDIENTES: Elaborados con materias primas de calidad óptima que aseguran un snack saludable, bajo en grasas y altamente nutritivo para complementar la dieta diaria de tu mascota.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

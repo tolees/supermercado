@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Red Bull Bebida Energética Regular - 24 latas de 250 ml - Total 6000 ml'
-date: 2026-09-09 17:24:40
+date: 2026-09-18 11:29:52
 image: 'https://m.media-amazon.com/images/I/51fwfakT0rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01G7F3UGC/?tag=tolees-21'
 descuento: '11.27'
-average: '25.1635849056605'
+average: '25.2457407407409'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

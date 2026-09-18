@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Neutrogena Fórmula Noruega Bálsamo Labial CICA Reparación Intensa 15 ml'
-date: 2026-09-16 07:33:28
+date: 2026-09-18 13:31:48
 image: 'https://m.media-amazon.com/images/I/41j9Wj5zDQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GP8WSZND/?tag=tolees-21'
 descuento: '46.91'
-average: '4.19000000000001'
+average: '4.15153846153847'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

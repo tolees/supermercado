@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- High quality cosmetics recommended by professionals
 - Este maquillaje corrector de cobertura total minimiza la apariencia de las ojeras.
 - Crea un rostro impecable con nuestro líquido de larga duración.
-- High quality cosmetics recommended by professionals
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00AXJ9ZEK{{</world>}}

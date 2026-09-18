@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Deja la piel suave, tersa y con aspecto saludable
-- Fórmula clásica hidratante
 - Adecuado para un uso diario en cara, cuerpo y manos
-- El Jabón Dove limpia eficazmente las bacterias
+- Fórmula clásica hidratante
 - 1/4 de crema hidratante y limpiadores suaves ayudan a retener la humedad natural de la piel
+- El Jabón Dove limpia eficazmente las bacterias
+- Deja la piel suave, tersa y con aspecto saludable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B1N5CLG8{{</world>}}

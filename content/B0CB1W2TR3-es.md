@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Este envase contiene 3 porción
 - Conservar en un lugar fresco y seco
 - Listo para consumir
-- Este envase contiene 3 porción
-- Una vez abierto, pasar el contenido a un recipiente no metálico, tapar y mantener refrigerado, y consumir en 2 días
 - Filetes de caballa del sur sin piel y sin espinas en aceite de girasol
+- Una vez abierto, pasar el contenido a un recipiente no metálico, tapar y mantener refrigerado, y consumir en 2 días
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CB1W2TR3{{</world>}}

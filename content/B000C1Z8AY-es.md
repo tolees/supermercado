@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Contiene 50 ml.
 - Las notas olfativas principales de este producto son especiado, floral y afrutado.
 - De la marca Lolita Lempicka.
-- Contiene 50 ml.
 - Este producto está indicado para mujeres.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

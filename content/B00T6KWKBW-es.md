@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- HAPPY CHERRIES son los clásicos caramelos de goma con forma de cerezas , con un interior súper esponjoso y con intenso sabor a Cereza.
-- Variedad multicolor para grandes y pequeños.
-- Formato cómodo y fácil.
-- Disfruta con alegría y diversión en cualquier momento.
-- Conservar en lugar fresco y seco.
 - ¡Disfruta con los clásicos de siempre!
+- Variedad multicolor para grandes y pequeños.
+- Conservar en lugar fresco y seco.
+- Disfruta con alegría y diversión en cualquier momento.
+- Formato cómodo y fácil.
+- HAPPY CHERRIES son los clásicos caramelos de goma con forma de cerezas , con un interior súper esponjoso y con intenso sabor a Cereza.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00T6KWKBW{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Facefinity 3-en-1 combina prebase, corrector y base de maquillaje para un acabado profesional de larga duración que protege de agresiones externas como contaminación o luz azul
-- Fórmula vegana, resistente al agua, al tacto, al sudor y sin aceites y el packaging reciclado
-- Cobertura y acabado mate durante más de 30 horas
-- Prebase que proporciona una base suave y el corrector cubra las imperfecciones
 - Contiene SPF 20 para proteger tu piel de sol
+- Prebase que proporciona una base suave y el corrector cubra las imperfecciones
+- Cobertura y acabado mate durante más de 30 horas
+- Fórmula vegana, resistente al agua, al tacto, al sudor y sin aceites y el packaging reciclado
+- Facefinity 3-en-1 combina prebase, corrector y base de maquillaje para un acabado profesional de larga duración que protege de agresiones externas como contaminación o luz azul
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00A2PCFXS{{</world>}}

@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Color dorado claro, notas dulces y sutiles de chocolate con leche, vainilla y manzana roja
 - Tiene un aroma ligeramente dulce con un toque a vainilla
-- En el paladar se siente un equilibrio dulce y sútil entre chocolate con leche, manzana y vainilla
-- Perfect serve: The Showman con 50 ml de Ballantines Finest, 100 ml de zumo de piña y 50 ml de agua con gas
 - Ballantines Finest Whisky Escocés de Mezcla está elaborado a partir de una mezcla de más de 40 whiskies de malta y de grano
+- Perfect serve: The Showman con 50 ml de Ballantines Finest, 100 ml de zumo de piña y 50 ml de agua con gas
+- En el paladar se siente un equilibrio dulce y sútil entre chocolate con leche, manzana y vainilla
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DFH93C5Q{{</world>}}

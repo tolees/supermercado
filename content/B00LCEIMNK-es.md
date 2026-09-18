@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Neutrogena T/Gel Champú Anticaspa para Cabello Graso 250 ml 2 uds'
-date: 2026-09-16 13:44:20
+date: 2026-09-17 20:37:30
 image: 'https://m.media-amazon.com/images/I/41IOEHX8ZGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LCEIMNK/?tag=tolees-21'
 descuento: '42.25'
-average: '11.8765384615385'
+average: '11.7417857142857'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

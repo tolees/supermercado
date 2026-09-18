@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Los productos de la marca Dash están pensados para ti y tu bienestar
 - Detergente para lavavajillas DASH LAV.PODS DOSI X 44 AMBRA de Dash
+- Los productos de la marca Dash están pensados para ti y tu bienestar
 - Productos de Cuidado y limpieza del hogar para unisex adulto
 
 [🛒 Aquí!!!]({{< param buyurl >}})

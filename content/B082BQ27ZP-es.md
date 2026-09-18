@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Fragancia que dura hasta el último instante
 - Exquisita fragancia afrutada con aceites esenciales
 - Vela aromática antitabaco, elimina el olor a tabaco y funciona como ambientador para el hogar
 - Con las fragancias Air Wick tu hogar se siente en el aire
-- Fragancia que dura hasta el último instante
 - Elaborada con cera natural, extraída directamente de plantas y flores naturales
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Formulado para una higiene dental total
 - Alimento completo para perros adultos de razas pequeñas y miniatura
 - Una combinación de nutrientes clave que ayuda a mantener unas articulaciones saludables para el estilo de vida activo de tu perro
-- Una concentración de nutrientes especialmente adaptada para apoyar el rápido metabolismo de los perros pequeños
 - Ayuda a mantener un corazón saludable
+- Formulado para una higiene dental total
+- Una concentración de nutrientes especialmente adaptada para apoyar el rápido metabolismo de los perros pequeños
 - Contiene pollo de alta calidad que ayuda en su camino hacia la etapa adulta
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Descubre la gama de barritas Corny, elaboradas con una combinación de cereales, chocolate, avena, frutos secos y/o fruta. Están diseñadas para proporcionar energía, siendo una excelente opción para aquellos que buscan una merienda rápida y deliciosa
 - Es una opción ideal para disfrutar de un momento de placer sin sentir culpa, ya sea en el trabajo, en el gimnasio o en cualquier momento del día
 - Barritas de cereales con un auténtico e intenso sabor a chocolate negro, sin aceite de palma ni conservantes
-- Descubre la gama de barritas Corny, elaboradas con una combinación de cereales, chocolate, avena, frutos secos y/o fruta. Están diseñadas para proporcionar energía, siendo una excelente opción para aquellos que buscan una merienda rápida y deliciosa
 - Es el snack perfecto para llevar contigo a todas partes, ya sea como un tentempié entre comidas o como una opción de merienda saludable, satisfaciendo tus antojos de chocolate de forma deliciosa
 
 [🛒 Visítala!!!]({{< param buyurl >}})

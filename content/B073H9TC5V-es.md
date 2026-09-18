@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - fórmula que no seca para labios mate que no se ven ni se sienten secos
 - aplicador de flecha distintivo ideal para una aplicación precisa para una apariencia de lápiz labial fácil
-- se adapta a todos los tonos de piel
 - color líquido mate intenso de 12 horas
+- se adapta a todos los tonos de piel
 - Color de labios mate de larga duración
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

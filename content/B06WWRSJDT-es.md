@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plantas cultivadas utilizando métodos naturales. Los caramelos solo contienen colorantes y saborizantes naturales
 - Es ideal para consumir en cualquier momento y experimentar la sensación duradera y deliciosa. No contiene azúcar y es apto para vegetarianos. Contiene edulcorantes. Un consumo excesivo puede tener un efecto laxante
-- Además de sus 13 hierbas, incluye extractos de menta y de aceite de cúrcuma, concentrado de espirulina, mentol y aroma natural de menta verde
+- Plantas cultivadas utilizando métodos naturales. Los caramelos solo contienen colorantes y saborizantes naturales
 - Contiene 13 hierbas suizas: marrubio, pimpinela, verónica, malvavisco, pie de león, flor de saúco, malva, menta, salvia, milenrama, prímula, llantén menor y tomillo
+- Además de sus 13 hierbas, incluye extractos de menta y de aceite de cúrcuma, concentrado de espirulina, mentol y aroma natural de menta verde
 - Ricola Menta Montaña es un caramelo sabor a menta, que alivia la garganta y las vías respiratorias, además de proporcionar un aliento fresco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

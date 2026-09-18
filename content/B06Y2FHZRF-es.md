@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Largo: 23 cm
-- Fabricado en acero inoxidable
 - Adecuado para quesos
+- Fabricado en acero inoxidable
+- Largo: 23 cm
 - Punta redondeada
 
 [🛒 Visítala!!!]({{< param buyurl >}})

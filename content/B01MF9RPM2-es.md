@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Nota de cata (vista): Intensidad alta de color rojo rubí, limpio y brillante, con reflejos granate en el borde de la copa.
-- Maridaje: Armoniza perfectamente con platos suaves como arroces, quesos, patés, guisos, verduras, pescados…
+- Ecológico, D.O.Ca. Rioja
 - Varietales: Tempranillo 100%
 - Nota de cata (boca): Desarrolla todo su potencial como fresco y expresivo, mostrando un vino equilibrado y agradable.
-- Ecológico, D.O.Ca. Rioja
+- Nota de cata (vista): Intensidad alta de color rojo rubí, limpio y brillante, con reflejos granate en el borde de la copa.
+- Maridaje: Armoniza perfectamente con platos suaves como arroces, quesos, patés, guisos, verduras, pescados…
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01MF9RPM2{{</world>}}

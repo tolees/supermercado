@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- FÓRMULA HIDRATANTE: Con pantenol para equilibrar la hidratación y dejar el cabello suave y nutrido.
-- FRAGANCIA DELICADA: Un aroma envolvente para el cabello que te transporta a las dunas de arena blanca de Oriente.
-- HASTA 3 VECES MÁS SUAVE* con luminosidad y brillo instantáneo. *Champú, mascarilla y aceite vs. champú sin acondicionador.
 - CUIDADO CAPILAR: Transforma el cabello seco y apagado en un cabello brillante y radiante. El regalo perfecto para el cuidado del cabello.
+- HASTA 3 VECES MÁS SUAVE* con luminosidad y brillo instantáneo. *Champú, mascarilla y aceite vs. champú sin acondicionador.
 - MASCARILLA CAPILAR REBOOST: Aporta suavidad y brillo a todo tipo de cabello.
+- FRAGANCIA DELICADA: Un aroma envolvente para el cabello que te transporta a las dunas de arena blanca de Oriente.
+- FÓRMULA HIDRATANTE: Con pantenol para equilibrar la hidratación y dejar el cabello suave y nutrido.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DL8DBRKB{{</world>}}

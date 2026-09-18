@@ -29,12 +29,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Piel perfecta, cobertura media
-- Aplica la base de maquillaje con los dedos o una brocha des del centro hasta el exterior para mezclarla con el tono de tu piel
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
-- La siguiente información se aplica a cada unidad del paquete
 - Hidrata y oculta las imperciones, poros y ojeras
+- La siguiente información se aplica a cada unidad del paquete
 - Indicado para piel seca o mixta
 - Cobertura media para un acabado natural
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Aplica la base de maquillaje con los dedos o una brocha des del centro hasta el exterior para mezclarla con el tono de tu piel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DZHPKNDD{{</world>}}

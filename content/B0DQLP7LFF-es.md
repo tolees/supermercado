@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Capacidad de las tazas: 370 ml
-- Set de dos tazas de cerámica, cuyo molde permite apilar una encima de la otra.
-- Cuentan con un mensaje de amor que se divide entre las dos tazas.
 - Indicaciones: apto para microondas y lavavajillas, pero se recomienda lavar a mano para que el diseño permanezca intacto durante más tiempo.
+- Capacidad de las tazas: 370 ml
+- Cuentan con un mensaje de amor que se divide entre las dos tazas.
+- Set de dos tazas de cerámica, cuyo molde permite apilar una encima de la otra.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DQLP7LFF{{</world>}}

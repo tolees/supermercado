@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Sensación de frescor y limpieza sin agua.
 - Sin conservantes
 - Frescor al instante en cualquier momento
-- Sensación de frescor y limpieza sin agua.
 - Con aromas delicados para piel íntima sensible
 
 [🛒 Visítala!!!]({{< param buyurl >}})

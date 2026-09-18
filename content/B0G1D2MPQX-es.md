@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Elaborada con ingredientes naturales: agua, malta de cebada, maíz, levadura y lúpulo.
 - Con un 5,5% de alcohol en volumen, la cerveza Águila sin filtrar es ideal para los que buscan una cerveza de gran cuerpo.
 - Contiene una caja de 12 Botellas de 33cl más una botella Vintage de 94cl
-- Consumirla entre 2° y 4°C. Para obtener sus máximas cualidades y despertar la levadura en suspensión, girar (no agitar) antes de consumirla.
 - Elaborada según el método tradicional para conservar toda la levadura. Al no ser filtrada, la cerveza Águila sin filtrar realza especialmente el carácter de sus lúpulos Perle y Lemon drop, que intensifican sus aromas. Saborea tu libertad con El Águila sin filtrar, la compañera perfecta para los inconformistas.
+- Elaborada con ingredientes naturales: agua, malta de cebada, maíz, levadura y lúpulo.
+- Consumirla entre 2° y 4°C. Para obtener sus máximas cualidades y despertar la levadura en suspensión, girar (no agitar) antes de consumirla.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0G1D2MPQX{{</world>}}

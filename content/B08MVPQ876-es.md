@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Mantiene un sabor clásico combinando las notas de enebro con toques herbáceos
-- Junto a la destilación de grano 100% americano, obtenemos una ginebra Premium
 - Ligero color oro
 - Nace de la mezcla y doble destilación en frío de finos y botánicos, juntos con alcoholes neutros en alambiques con más de 100 años de antigüedad
 - Aroma suave a cítricos, botánicos y hierbas de tocador
+- Junto a la destilación de grano 100% americano, obtenemos una ginebra Premium
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08MVPQ876{{</world>}}

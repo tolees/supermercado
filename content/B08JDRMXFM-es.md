@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Con vitamina E, aceite de coco y aloe vera; para una aplicación y llevado confortable
+- Color de impacto con tan sólo una pasada
 - Con un acabado mate suave
 - Labial de larga duración
-- Color de impacto con tan sólo una pasada
 - Formulado con una mezcla de polvos matificantes y microesferas para una apariencia mate suave y favorecedora
 
 [🛒 Aquí!!!]({{< param buyurl >}})

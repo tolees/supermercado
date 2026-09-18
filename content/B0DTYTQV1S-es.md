@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adecuado para compartir y probar diferentes sabores energéticos
-- Optimo para cualquier ocasión, mantén tu energía al máximo
-- Cada lata contiene 250 ml de energía revitalizante y deliciosa
-- Disfruta de cuatro sabores únicos en un solo pack
 - Incluye coco, sandía, albaricoque y juneberry para variedad
+- Optimo para cualquier ocasión, mantén tu energía al máximo
+- Adecuado para compartir y probar diferentes sabores energéticos
+- Disfruta de cuatro sabores únicos en un solo pack
+- Cada lata contiene 250 ml de energía revitalizante y deliciosa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTYTQV1S{{</world>}}

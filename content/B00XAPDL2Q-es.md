@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Conservar en lugar fresco y seco
 - Sabor tropifrutti
 - Deliciosas piezas en forma de pisotones
-- Conservar en lugar fresco y seco
 - Caramelos de goma
 
 [🛒 Visítala!!!]({{< param buyurl >}})

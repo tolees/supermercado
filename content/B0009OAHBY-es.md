@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Davidoff Cool Water Eau de Toilette para Hombre | Fragancia aromática masculina fresca y con notas de cilantro menta y lavanda | Intensidad media | 75 ml'
-date: 2026-08-04 12:25:00
+date: 2026-09-17 10:13:29
 image: 'https://m.media-amazon.com/images/I/21nwKAB6ZGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0009OAHBY-es Davidoff Cool Water Eau de Toilette para Hombre |...'
 sku: 'B0009OAHBY-es'
 tags: [ 'cilantro','de','eau','toilette','🇪🇸', ]
-actualPrice: 16.54 EUR
+actualPrice: 15.0 EUR
 currency: EUR
-price: 16.54
-comparePrice: 16.54 EUR
+price: 15.0
+comparePrice: 16.49 EUR
 prodname: 'Davidoff Cool Water Eau de Toilette para Hombre | Fragancia aromática masculina fresca y con notas de cilantro menta y lavanda | Intensidad media | 75 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0009OAHBY/?tag=tolees-21'
-descuento: '0.00'
-average: '17.0939285714286'
+descuento: '9.04'
+average: '16.9543333333334'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cilantro, menta / Lavanda / Ámbar
-- Pulveriza en los puntos de pulso de todo el cuerpo: cuello, escote, muñecas y tobillos para aumentar la intensidad de la fragancia.
-- Experimente Cool Water Eau de Toilette para Hombre de Davidoff. Descubra la fragancia marina original para hombre, inspirada en el frescor del océano. Cool Water, la esencia aromática de la vitalidad, el poder y la seducción masculinas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0009OAHBY{{</world>}}

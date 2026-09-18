@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DOSIS DIARIA DE BRILLO: Desde Australia, este aceite ligero de Aussie potencia el brillo, repara e hidrata el pelo, dejándolo radiante, suave y liso
-- AROMAS ICÓNICOS DE AUSSIE: Fragancias frescas y afrutadas con frutas crujientes, pétalos frescos y almizcle dulce, para un pelo que huele divino
 - LA FILOSOFÍA AUSSIE: Hay más en la vida que el pelo, pero es un buen punto de partida
+- DOSIS DIARIA DE BRILLO: Desde Australia, este aceite ligero de Aussie potencia el brillo, repara e hidrata el pelo, dejándolo radiante, suave y liso
 - ENRIQUECIDO CON ACEITE DE NUEZ DE MACADAMIA AUSTRALIANA: Repara tu cabello y le da brillo, ¡porque tu pelo merece un capricho tan INCREÍBLE como tú!
+- AROMAS ICÓNICOS DE AUSSIE: Fragancias frescas y afrutadas con frutas crujientes, pétalos frescos y almizcle dulce, para un pelo que huele divino
 - PARA UNA REPARACIÓN EXTRA: Para revitalizar el pelo seco y dañado que necesita un buen cuidado, utiliza toda la colección Mighty Mega
 - Cruelty Free: Aussie es reconocida por PETA como una marca Cruelty Free contra las pruebas en animales y,¿adivina qué?¡Este aceite también es vegano!
 

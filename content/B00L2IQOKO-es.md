@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - CUIDADO DE LOS TEJIDOS: Su formulación ayuda a mantener las prendas limpias y cuidadas, respetando tanto ropa de color como prendas blancas para un uso frecuente en lavadora.
-- ASEVI, CALIDAD ESPAÑOLA DESDE 1952: Empresa familiar de Xàbia (Alicante) especializada en limpieza y cuidado del hogar, con fórmulas eficaces y de confianza.
 - DETERGENTE PARA TODA LA COLADA: Apto para ropa blanca, de color y lavado a mano. Una solución práctica para el cuidado diario de la mayoría de los tejidos del hogar.
+- ASEVI, CALIDAD ESPAÑOLA DESDE 1952: Empresa familiar de Xàbia (Alicante) especializada en limpieza y cuidado del hogar, con fórmulas eficaces y de confianza.
 - FÓRMULA CON JABÓN DE MARSELLA: Limpia eficazmente la suciedad habitual mientras deja un agradable aroma inspirado en el clásico jabón de Marsella tras cada lavado.
 - 44 LAVADOS: Con este envase tendrá hasta 44 lavados de detergente concentrado; fórmula vegana y no testada en animales.
 

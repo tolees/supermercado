@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Ideal acompañado con una rodaja de naranja.
 - Graduación: 18% vol.
-- Origen: Zona/Región vinícola Tarragona
 - Aromas de especias dulces de canela y clavo. Fondo de frutas pasificadas. Boca cremosa y fresca con final herbáceo.
+- Origen: Zona/Región vinícola Tarragona
 - Ideal para combinar con embutidos, quesos y snacks salados. Servir frío.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido: 1x Perfilador de labios Color Sensational Maybelline New York, Tono 110 - Rich Wine
 - Perfilador de labios para delinear perfectamente tu boca, resaltar el color de tu pintalabios y evitar que se borre a lo largo del día
 - Aplicar el perfilador del interior al exterior de los labios, Aplica después un tono afín de tu pintalabios Color Sensational para que los colores se fundan y el trazo se haga invisible
 - Lápiz de punta fina para una aplicación precisa, Disponible en varios tonos, Combinable con los pintalabios de Maybelline New York
+- Contenido: 1x Perfilador de labios Color Sensational Maybelline New York, Tono 110 - Rich Wine
 - Fórmula cremosa para un confort extremo, Larga duración durante todo el día, Enriquecida con pigmentos puros para un color sensacional
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

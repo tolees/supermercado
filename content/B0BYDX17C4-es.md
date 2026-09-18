@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- TEXTURA CREMOSA SUAVE. espuma ligera y aterciopelada que se aclara fácilmente dejando una sensación agradable de frescor confort y suavidad sin sensación grasa
-- COMPROMISO LACTOVIT: En Lactovit creemos en un cuidado responsable que empieza en tu piel. Por eso formulamos con activos 100 % naturales de la leche para nutrir y proteger, con fórmulas altamente biodegradables. Además, mejoramos la reciclabilidad de nuestros envases para cuidar de ti y del planeta.
 - GEL DE DUCHA PIEL SENSIBLE. limpia con suavidad sin resecar ayudando a mantener el confort diario y respetando el equilibrio natural de la piel sensible o reactiva desde la primera ducha
 - HIDRATACIÓN Y NUTRICIÓN. aporta hidratación duradera y nutrición diaria reforzando la barrera cutánea para una piel calmada flexible y protegida durante todo el día
+- TEXTURA CREMOSA SUAVE. espuma ligera y aterciopelada que se aclara fácilmente dejando una sensación agradable de frescor confort y suavidad sin sensación grasa
+- COMPROMISO LACTOVIT: En Lactovit creemos en un cuidado responsable que empieza en tu piel. Por eso formulamos con activos 100 % naturales de la leche para nutrir y proteger, con fórmulas altamente biodegradables. Además, mejoramos la reciclabilidad de nuestros envases para cuidar de ti y del planeta.
 - PROTECCIÓN DEL MICROBIOMA. su fórmula con Bioma ProLactic10 y lactobacillus ayuda a fortalecer la flora cutánea favoreciendo una piel más equilibrada fuerte y resistente frente a la sequedad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

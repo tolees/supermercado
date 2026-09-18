@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Bestens geeignet für Kaffeevollautomaten & Kaffeefilter
 - Vollmundig, milder Genuss.
 - Für diese Röstung verwenden wir die besten Bohnen aus Südarmerika & Asien; schonendes Langzeitröstverfahren
 - 100% Arabica
+- Bestens geeignet für Kaffeevollautomaten & Kaffeefilter
 - Erlebe Café Creme, wie er sein sollte. Mild und vollmundig im Geschmack. Ideal für puren Kaffeegenuss oder verfeinert als Café au Lait..
 
 [🛒 Aquí!!!]({{< param buyurl >}})

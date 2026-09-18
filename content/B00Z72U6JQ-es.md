@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Con Water Drop Tech, incrementa la fluidez durante la aplicación para una absorción inmediata y una protección fresca y uniforme.
 - Alta protección SPF 50 Full Spectrum frente a la radiación UVB,/UVA, luz azul, IR-A y la polución.
-- Es ideal para la piel grasa: matifica la piel, no deja residuo graso y es mineral oil free.
-- Aporta hasta 12 horas de hidratación intensa gracias al ácido hialurónico, y acción antioxidante gracias al Mediterranean Alga Extract y a la vitamina E.
 - No provoca irritación en los ojos gracias a su tecnología Safe Eye Tech.
+- Aporta hasta 12 horas de hidratación intensa gracias al ácido hialurónico, y acción antioxidante gracias al Mediterranean Alga Extract y a la vitamina E.
+- Es ideal para la piel grasa: matifica la piel, no deja residuo graso y es mineral oil free.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00Z72U6JQ{{</world>}}

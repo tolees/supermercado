@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - FINISH / VISUAL EFFECT: textura ultraligera que garantiza una rápida penetración sin acabado graso ni sensación pegajosa en la piel.
 - ADDITIONAL BENEFIT: acción contra la sequedad que ayuda a prevenir la deshidratación cutánea vinculada a la sal o al cloro.
-- DURATION / RESISTANCE: fórmula muy resistente al agua, diseñada para aguantar la exposición a la sal, la arena y el sudor.
 - HERO FEATURE: protección muy alta FPS50+ especialmente desarrollada para pieles claras, sensibles e intolerantes al sol de los niños.
+- DURATION / RESISTANCE: fórmula muy resistente al agua, diseñada para aguantar la exposición a la sal, la arena y el sudor.
 - FORMULA INNOVATION: enriquecida con tecnología Ceramide Protect para proteger la función barrera de la piel de forma inmediata.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Perfecto como un regalo
 - Color: Claro. Aroma: Intenso, afrutado de cítricos, notas herbáceas, hinojo, flores de primavera. Sabor: Seco, suave, armonioso, notas de hierbas silvestres. Final: Largo. Excelente solo o como ingrediente de cócteles y tragos largos. Ideal en combinación con agua tónica mediterránea, que resalta perfectamente sus notas herbáceas. (automated translation)
+- Perfecto como un regalo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJ2VV1FQ{{</world>}}

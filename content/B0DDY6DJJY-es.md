@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Este envase contiene 26 porciones
 - Envasado en Italia
+- Conservar en un lugar fresco y seco
 - Apto para dietas vegetarianas y veganas
 - Bebida de soja UHT con azúcar, calcio, riboflavina, vitamina B12 y vitamina D añadidos
-- Conservar en un lugar fresco y seco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DDY6DJJY{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nutritivas y deliciosas, con fibra añadida
 - Galletas con dibujos de los personajes favoritos de los niños
+- Nutritivas y deliciosas, con fibra añadida
 - Enriquecidas con 6 vitaminas, hierro, calcio y cereales
 
 [🛒 Comprar!!!]({{< param buyurl >}})

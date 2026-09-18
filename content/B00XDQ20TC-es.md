@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- País de Origen: España
 - Elaborada con aceite de girasol alto oleico
 - Sabor yogur con avena y chips de chocolate
 - Alto en fibra
+- País de Origen: España
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XDQ20TC{{</world>}}

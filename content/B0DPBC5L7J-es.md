@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hechas en España
-- 10g de proteína por barrita
-- Ingredientes deliciosos, cuidadosamente seleccionados
-- Sin colorantes ni conservantes ni aromas artificiales
 - Sin Gluten
-- Aptas para vegetarianos
 - Cada pack contiene 12 barritas individuales de 40g
+- Sin colorantes ni conservantes ni aromas artificiales
+- Ingredientes deliciosos, cuidadosamente seleccionados
+- Hechas en España
+- Aptas para vegetarianos
+- 10g de proteína por barrita
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DPBC5L7J{{</world>}}

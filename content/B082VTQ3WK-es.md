@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contiene Pescado y/o productos a base de pescados
 - no tiene café
+- Contiene Pescado y/o productos a base de pescados
 - Pack 3 x 80 g
 - Alto contenido ácidos Grasos Omega3
 

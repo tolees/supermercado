@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'by Amazon Granos de Café Intenso Tostado Oscuro 2kg 2 Paquetes de 1kg Certificados por Rainforest Alliance'
-date: 2026-06-17 13:36:53
+date: 2026-09-17 20:58:34
 image: 'https://m.media-amazon.com/images/I/416wRyDQbFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08Y1GBGVF-es by Amazon Granos de Café Intenso Tostado Oscuro 2kg 2...'
 sku: 'B08Y1GBGVF-es'
 tags: [ 'café','🇪🇸', ]
-actualPrice: 20.54 EUR
+actualPrice: 20.46 EUR
 currency: EUR
-price: 20.54
-comparePrice: 20.54 EUR
+price: 20.46
+comparePrice: 21.31 EUR
 prodname: 'by Amazon Granos de Café Intenso Tostado Oscuro 2kg 2 Paquetes de 1kg Certificados por Rainforest Alliance'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08Y1GBGVF/?tag=tolees-21'
-descuento: '0.00'
-average: '19.3768749999999'
+descuento: '3.99'
+average: '19.4405882352941'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,13 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Intensidad, 45
-- Un café extrafuerte de sabor intenso, con regusto de chocolate
-- Adecuado para todas las preparaciones dependiendo de la molienda
-- Tostado y envasado en Bélgica
-- 2 paquetes, 2 x 1 kg, total 2 kg
-- 60 por ciento arábica, 40 por ciento robusta
-- La procedencia del café utilizado para este producto goza de la certificación Rainforest Alliance
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08Y1GBGVF{{</world>}}

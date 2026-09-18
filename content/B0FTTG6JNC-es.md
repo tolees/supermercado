@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Probada clínicamente y diseñada profesionalmente
-- Disminuye las manchas superficiales y protege los dientes ante nuevas manchas
 - Pasta dentífrica indicada para dientes sensibles
+- Probada clínicamente y diseñada profesionalmente
 - Pasta dentífrica con sabor a menta siempreverde
 - La siguiente información se aplica a cada unidad del paquete
+- Disminuye las manchas superficiales y protege los dientes ante nuevas manchas
 - Dientes más blancos en 1 día al eliminar las manchas superficiales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

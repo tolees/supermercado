@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- En Solís se trabaja con agricultores de las Vegas del Guadiana, Extremadura, que generación tras generación cuidan de los tomates
-- Tu salsa de tomate frito para acompañar tus platos de arroz o pasta
 - SOLÍS una marca que ofrece la calidad y el sabor especial
+- En Solís se trabaja con agricultores de las Vegas del Guadiana, Extremadura, que generación tras generación cuidan de los tomates
 - Tomate frito sin gluten y sin aditivos ni conservantes
 - Se utilizan prácticas sostenibles respectuosas con el medio ambiente; hay responsabilidad con el consumo del agua, un bien escaso en el planeta
+- Tu salsa de tomate frito para acompañar tus platos de arroz o pasta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B079ZYKBRS{{</world>}}

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - PRO BRN ALTA CONCENTRACIÓN Y RENDIMIENTO: Cada dosis aporta 194 mg de cafeína, 400 mg de Citrus Aurantium y 200 mg de pimienta de Cayena. Fórmula concentrada en cápsulas fabricadas en Reino Unido. Ideal antes de entrenar o empezar el día
-- SUMINISTRO PARA 1,5 MESES EN CADA BOTE: Muchos productos ofrecen solo 60 cápsulas (1 mes). Pro BRN te da 90 cápsulas por bote para que tu suministro dure más. La constancia es clave para los resultados, y Pro BRN te ayuda a mantenerla cada día
 - MEJOR RELACIÓN CALIDAD-PRECIO: 90 CÁPSULAS FRENTE A 60 – ¿Por qué pagar más por menos? Otras marcas ofrecen solo 60 cápsulas, Pro BRN te da 90: un suministro de 1,5 meses al mismo coste por cápsula. Más producto, más resultados, mejor valor
-- INGREDIENTES LIMPIOS Y TRANSPARENTES: Con Extracto de Té Verde (95 % polifenoles), Café Verde, Frambuesa y L-Fenilalanina. Vegano y sin alérgenos, con cada ingrediente activo y su cantidad claramente indicados en la etiqueta
 - ENERGÍA, CONCENTRACIÓN, CLARIDAD MENTAL Y PRE-ENTRENO: Con Cafeína natural, Extracto de Té Verde y Café Verde, Pro BRN ofrece un impulso de energía limpia, perfecto antes del entrenamiento o para afrontar días intensos sin bajón posterior
+- SUMINISTRO PARA 1,5 MESES EN CADA BOTE: Muchos productos ofrecen solo 60 cápsulas (1 mes). Pro BRN te da 90 cápsulas por bote para que tu suministro dure más. La constancia es clave para los resultados, y Pro BRN te ayuda a mantenerla cada día
+- INGREDIENTES LIMPIOS Y TRANSPARENTES: Con Extracto de Té Verde (95 % polifenoles), Café Verde, Frambuesa y L-Fenilalanina. Vegano y sin alérgenos, con cada ingrediente activo y su cantidad claramente indicados en la etiqueta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DDHPT96H{{</world>}}

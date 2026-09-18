@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fórmula profundamente nutritiva: ayuda a reducir la porosidad y a preservar la calidad del color y de los reflejos
 - Modo de uso: aplicar sobre el cabello lavado y secado con toalla, distribuir de medios a puntas, dejar actuar 1 minuto y aclarar
 - Mascarilla profesional anti-rotura: protege la fibra frente a la acumulación de partículas metálicas y aporta un cuidado intenso a todo tipo de cabello
+- Fórmula profundamente nutritiva: ayuda a reducir la porosidad y a preservar la calidad del color y de los reflejos
 - Tecnología patentada con Glicoamine: su molécula de pequeño tamaño penetra en la fibra para detectar y neutralizar el metal
 - Textura profesional: mascarilla cremosa de rápida absorción, fácil de distribuir y de aclarar, con una fragancia cítrica y amaderada
 

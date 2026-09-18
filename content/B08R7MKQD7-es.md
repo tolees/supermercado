@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pack de 6 tazas de café de porcelana con platillo
 - Apto para lavavajillas y microondas
 - Dimensiones: Ø5 x H 5,5 cm, platillos Ø11 cm
 - Capacidad: 90 ml
+- Pack de 6 tazas de café de porcelana con platillo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08R7MKQD7{{</world>}}

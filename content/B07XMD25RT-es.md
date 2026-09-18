@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Hoja de acero inoxidable de alta resistencia
 - Diseño compacto para usar en una encimera
-- La cubierta de seguridad transparente te permite ver fácilmente la molienda
 - Nota: Se recomienda que los consumidores operen de acuerdo con las instrucciones y que las horas de trabajo no superen los 45 segundos cada vez.
 - Ideal para moler granos de café, hierbas, especias, frutos secos, etc.
+- La cubierta de seguridad transparente te permite ver fácilmente la molienda
 - Molinillo de café eléctrico para uso doméstico
 - Le permite moler 30 gramos de granos de café en 10 segundos para hacer café de filtro
 

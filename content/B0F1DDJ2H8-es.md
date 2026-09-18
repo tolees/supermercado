@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- PIDE TU TAPÓN DOSIFICADOR DE FORMA GRATUITA: por razones medioambientales, no todas las botellas cuentan con un tapón medidor, pero puedes pedirlo de forma gratuita en el sitio web ariel.info
 - PRETRATA LAS MANCHAS: 1. Aplica una pequeña cantidad de detergente líquido Ariel sobre las manchas 2. Frota suavemente 3. Empieza el lavado
 - INSTRUCCIONES PARA MEJORES RESULTADOS: llena el tapón verde con detergente líquido Ariel según el nivel de llenado del tambor y colócalo en el tambor, encima de la ropa
 - EFICAZ EN FRÍO: El detergente líquido de Ariel proporciona resultados impecables incluso en frío
+- PIDE TU TAPÓN DOSIFICADOR DE FORMA GRATUITA: por razones medioambientales, no todas las botellas cuentan con un tapón medidor, pero puedes pedirlo de forma gratuita en el sitio web ariel.info
 - + PODER QUITAMANCHAS: el detergente líquido Ariel Platinum elimina incluso las manchas resecas de 7 días
 
 [🛒 Aquí!!!]({{< param buyurl >}})

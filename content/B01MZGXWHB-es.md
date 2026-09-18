@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para un cabello suave y fácil de cortar.
-- Fórmula con complejo hidratante que no daña el pelo.
-- Adecuado para el cuidado diario.
-- Cuida construyendo y actúa en profundidad, dejando un efecto duradero.
 - Fórmula 2 en 1 con champú y acondicionador.
+- Fórmula con complejo hidratante que no daña el pelo.
+- Cuida construyendo y actúa en profundidad, dejando un efecto duradero.
+- Para un cabello suave y fácil de cortar.
+- Adecuado para el cuidado diario.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MZGXWHB{{</world>}}

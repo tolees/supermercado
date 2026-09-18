@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Para un maquillaje óptimo
-- Fácil de aplicar
 - Producto de calidad óptima
+- Fácil de aplicar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08WP8TM7X{{</world>}}

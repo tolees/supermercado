@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Patatas fritas
 - Bolsa de 160gr
 - Sabor Jamon y Queso
+- Patatas fritas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B084LC86CQ{{</world>}}

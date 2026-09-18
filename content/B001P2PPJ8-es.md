@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Marca - Revlon
 - Producto pensado para mujeres
+- Marca - Revlon
 - Tipo de producto - Pintalabios
 
 [🛒 Aquí!!!]({{< param buyurl >}})

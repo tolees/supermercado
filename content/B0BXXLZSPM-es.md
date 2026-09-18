@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 100% cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan; certificado Rainforest Alliance
-- Delicioso para toda la familia
 - Tú Nesquik de siempre, ahora con 0% azúcares añadidos
+- Delicioso para toda la familia
 - Rico en fibra
 - Con edulcorante extraído de la planta estevia
 

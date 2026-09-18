@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sin colorantes, aromas, ni espesantes artificiales
+- Apto para vegetarianos
 - Perfecto para hacer ensaladilla rusa
 - Hecha con huevos de gallinas camperas
-- Apto para vegetarianos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01E6YIXLI{{</world>}}

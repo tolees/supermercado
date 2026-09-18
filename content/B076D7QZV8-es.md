@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Es equilibrada al paladar y su menor contenido en azúcar permite apreciar la mezcla de aguardiente con café y cacao, otorgándole un carácter propio
 - Su toque dulce combina con los beneficios digestivos del orujo, y la convierten en el final ideal de cualquier comida
-- Es de color beige y se caracteriza por su untuosidad, su equilibrio y la persistencia de sus sabores
-- Esta crema de orujo es compleja en cuanto a romas, combinando intensas notas a chocolate, café tostado, caramelo, un toque a toffee y ligeras notas de avellana, praliné y frutos secos
+- Es equilibrada al paladar y su menor contenido en azúcar permite apreciar la mezcla de aguardiente con café y cacao, otorgándole un carácter propio
 - Para disfrutar de la de la Crema de Orujo Ruavieja se recomienda enfriar la botella y servir con hielo en un vaso ancho
+- Esta crema de orujo es compleja en cuanto a romas, combinando intensas notas a chocolate, café tostado, caramelo, un toque a toffee y ligeras notas de avellana, praliné y frutos secos
+- Es de color beige y se caracteriza por su untuosidad, su equilibrio y la persistencia de sus sabores
 - La crema de orujo Ruavieja se elabora con crema de leche, aguardiente de orujo seleccionado de calidad, caramelo y extractos de café y cacao
 
 [🛒 Aquí!!!]({{< param buyurl >}})

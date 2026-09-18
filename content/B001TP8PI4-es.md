@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aroma a frutos rojos con una nota especiada
-- Marida bien con carnes guisadas, paellas y quesos semicurados
 - Se recomienda servir a 17°C
-- En boca es cálido, firme, con fina acidez
+- Marida bien con carnes guisadas, paellas y quesos semicurados
+- Aroma a frutos rojos con una nota especiada
 - Producto originario de Catalunya
+- En boca es cálido, firme, con fina acidez
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B001TP8PI4{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fragancia Fresa y Nata dulce y cremosa: Un aroma irresistible que combina la frescura de la fresa con la suavidad de la nata, presente en todos los productos del estuche para una experiencia completa.
 - Pack completo de cuidado personal: Incluye colonia 50 ml, loción corporal 75 ml, gel de baño 75 ml y desodorante spray 50 ml, ideal para una rutina diaria con la misma fragancia.
-- Tulipán Negro: Productos de higiene personal fabricados en España, con fórmulas y fragancias únicas para el cuidado diario de toda la familia.
 - Rutina completa con aroma duradero: Permite perfumar y cuidar la piel en diferentes momentos del día, manteniendo la misma fragancia durante más tiempo.
+- Fragancia Fresa y Nata dulce y cremosa: Un aroma irresistible que combina la frescura de la fresa con la suavidad de la nata, presente en todos los productos del estuche para una experiencia completa.
+- Tulipán Negro: Productos de higiene personal fabricados en España, con fórmulas y fragancias únicas para el cuidado diario de toda la familia.
 - Ideal para regalo: Estuche perfecto para sorprender en cualquier ocasión, combinando cuidado personal y una fragancia agradable y duradera.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

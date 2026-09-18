@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Este juego Catwalk Oatmeal & Honey de Tigi consta de un champú de 750 ml y un acondicionador de 750 ml
 - El champú nutritivo alisa, hidrata y ayuda a eliminar la suciedad del pelo
 - Adecuados para nutrir el cabello seco y dañado; pueden utilizarse en pelo teñido
-- Champú y acondicionador profesionales que nutren el pelo seco y dañado en profundidad
 - El acondicionador nutritivo deja el pelo liso, suave y sedoso, como en una peluquería profesional
+- Champú y acondicionador profesionales que nutren el pelo seco y dañado en profundidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01B2A1R8A{{</world>}}

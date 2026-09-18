@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'by Amazon House Blend - Granos de café dorados de 1 kg 1 paquete'
-date: 2026-09-10 07:58:15
+date: 2026-09-18 00:50:39
 image: 'https://m.media-amazon.com/images/I/41W1mtQqe5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F1NF3J68/?tag=tolees-21'
 descuento: '0.00'
-average: '11.5525'
+average: '11.608'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

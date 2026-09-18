@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Producto de aperitivo con el mix de Lays 3D, Doritos, Ruffles y Cheetos
+- Sabor a queso
 - Disfruta de tus snacks favoritos en cualquier lugar con este Mixup
 - Formato de 125 gramos para llevarlo siempre contigo
-- Sabor a queso
-- Producto de aperitivo con el mix de Lays 3D, Doritos, Ruffles y Cheetos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHD2QHW5{{</world>}}

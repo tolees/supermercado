@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Concebida como antifragancia, es una composición química con notas de madera que amplifica y hace inédito su propio perfume personal
-- Formato: 75 ml
 - Perfume para hombre
+- Formato: 75 ml
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08QP4D5XZ{{</world>}}

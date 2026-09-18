@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 🌷 FRESCOR Y FRAGANCIA: duradera de hasta 20 días en tu ropa, gracias a la selección exhaustiva de las mejores flores
-- 🌷 Fragancia duradera con sólo un tapón 🌍 envase 100% reciclable
 - 🌷 MANTIENE Y PROTEGE: la ropa blanca y de color aportando la máxima suavidad en tus prendas y evitando la electricidad estática y el daño que ocasiona el lavado
-- 🌷 APTO PARA PIELES SENSIBLES Y PRENDAS DELICADAS: medias, ropa interior, prendas de baño, ropita de bebé, etc
 - 🌷 SAN CELESTE PACK DE 8: Proporciona a tus prendas un perfume duradero, evocador a brisa suave con toque aldehídico y floral
+- 🌷 Fragancia duradera con sólo un tapón 🌍 envase 100% reciclable
+- 🌷 APTO PARA PIELES SENSIBLES Y PRENDAS DELICADAS: medias, ropa interior, prendas de baño, ropita de bebé, etc
+- 🌷 FRESCOR Y FRAGANCIA: duradera de hasta 20 días en tu ropa, gracias a la selección exhaustiva de las mejores flores
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BGJSYK8S{{</world>}}

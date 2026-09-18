@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- para el cuidado de la piel
 - Crema para uso en la piel
-- cuidado médico de la piel de alta calidad
 - Fabricante: Johnson&Johnson GmbH (CHC), Deutschland
+- para el cuidado de la piel
 - Cosméticos de marca de alta calidad de la farmacia (PZN: 18334026)
+- cuidado médico de la piel de alta calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BBXZ2LYF{{</world>}}

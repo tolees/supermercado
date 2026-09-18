@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Aplicador en forma de curva para adaptarse a la forma del labio
-- Usa el bálsamo top-coat durante el día para mantener los labios hidratados y brillantes
-- 4 Pasos: una bálsamo con color inalterable y top-coat para dar brillo a los labios
 - Color seductor e irrestible hasta 24 horas
+- 4 Pasos: una bálsamo con color inalterable y top-coat para dar brillo a los labios
+- Usa el bálsamo top-coat durante el día para mantener los labios hidratados y brillantes
 - Labial permante de larga duración en dos pasos
 - Ingredientes: agua
 

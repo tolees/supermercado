@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Limpiador diario antisequedad para desmaquillar suavemente, eliminar impurezas y calmar la piel. Fórmula con Niacinamida, Pantenol y Agua Termal, de textura cremosa y suave. Adecuada para pieles normales, secas y muy sensibles.
 - Piel limpia, calmada, hidratada y confortable. Elimina impurezas e incluso el maquillaje resistente al agua.
+- Limpiador diario antisequedad para desmaquillar suavemente, eliminar impurezas y calmar la piel. Fórmula con Niacinamida, Pantenol y Agua Termal, de textura cremosa y suave. Adecuada para pieles normales, secas y muy sensibles.
 - Aplicar sobre rostro, cuello y escote, masajeando con movimientos circulares. Después, aclarar y secar sin frotar.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

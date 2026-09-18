@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Es muy frecuente encontrarla en muchos platos y preparaciones de la culinaria de todo el mundo Su carne se considera un alimento básico y es por esta razón por la que se incluye en el índice de precios al consumo
 - La carne de pollo es como se denomina a los tejidos musculares y órganos procedentes del pollo Es muy frecuente encontrarla en muchos platos y preparaciones de la culinaria de todo el mundo
 - La carne de pollo es una de las más saludables del mercado Es un alimento con una alta densidad de nutrientes
+- Es muy frecuente encontrarla en muchos platos y preparaciones de la culinaria de todo el mundo Su carne se considera un alimento básico y es por esta razón por la que se incluye en el índice de precios al consumo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0H6GPMJMH{{</world>}}

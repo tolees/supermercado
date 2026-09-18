@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Tipo de producto: Acondicionador
-- Referencia: 4743318150239 / 89692
-- Las mejores marcas de belleza a los mejores precios
 - Cantidad: 250 mililitros
 - Cuidado capilar de la marca Natura Siberica
+- Las mejores marcas de belleza a los mejores precios
+- Referencia: 4743318150239 / 89692
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BV73NYV4{{</world>}}

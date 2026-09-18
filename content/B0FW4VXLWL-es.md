@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - DETALLES: cuello y puños acanalados, solapa con dos botones, aberturas laterales en el bajo y costuras duraderas de doble pespunte
 - CORTE AJUSTADO: corte ajustado en los hombros, las mangas, el pecho y la cintura
-- PIQUÉ DE ALGODÓN: el piqué de algodón 100% ofrece textura y transpirabilidad
 - POLO VERSÁTIL: perfecto para salidas informales, el trabajo o el campo de golf
+- PIQUÉ DE ALGODÓN: el piqué de algodón 100% ofrece textura y transpirabilidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FW4VXLWL{{</world>}}

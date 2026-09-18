@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maybelline New York - Lápiz Perfilador de Ojos Negro en Gel Master Precise Skinny Tono Negro'
-date: 2026-09-16 09:06:20
+date: 2026-09-17 20:57:43
 image: 'https://m.media-amazon.com/images/I/31DlznHM4XL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LQBJ958/?tag=tolees-21'
 descuento: '37.54'
-average: '6.11333333333333'
+average: '6.164'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

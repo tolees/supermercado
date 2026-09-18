@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 🌱 CAFÉ ECOLÓGICO COMERCIO JUSTO - Nuestros cafés cuentan con los certificados de agricultura ecológica y Fair Trade: El cultivo del café ha sido realizado sin utilizar productos químicos para respetar la naturaleza y tu salud. Saborea unos cafés con un sabor protegido y perfumado, respetuoso con el medioambiente y los cultivadores.
-- 🌱 CÁPSULA BIODEGRADABLE ECOLOGICA - Nuestras monodosis están hechas completamente con materiales de origen vegetal, garantizadas sin OGM, sin aluminio y sin Bisfenol A, para respetar así el medioambiente y tu salud. Certificadas OK BIOBASED y OK COMPOST, son compostables (6 meses en compost industrial, 18 meses en compost casero).
-- 🌱 FRESCOR GARANTIZADO - Nuestros cafés han sido torrefactados recientemente y nuestras cápsulas de nueva generación, que son compatibles con las capsulas nespresso, cuentan con un envoltorio hermético al aire que preserva el frescor aromático del café
-- 🌱 NESPRESSO CAPSULAS COMPATIBLES: Nuestras cápsulas han sido diseñadas para garantizar una crema idéntica a las de las cápsulas nespresso. La lenta torrefacción artesanal de los cafés (15-20min) garantiza el perfecto respeto a los aromas. ¡Perfecto para degustar!
 - 🌱 CAFE CAPSULAS - SOFÍA (Descafeinado) es un gran café 100% Arábica de Latinoamérica, fino y ligeramente acidulado. Descafeinización sin disolventes. 60 cápsulas compatibles con Nespresso
+- 🌱 CÁPSULA BIODEGRADABLE ECOLOGICA - Nuestras monodosis están hechas completamente con materiales de origen vegetal, garantizadas sin OGM, sin aluminio y sin Bisfenol A, para respetar así el medioambiente y tu salud. Certificadas OK BIOBASED y OK COMPOST, son compostables (6 meses en compost industrial, 18 meses en compost casero).
+- 🌱 NESPRESSO CAPSULAS COMPATIBLES: Nuestras cápsulas han sido diseñadas para garantizar una crema idéntica a las de las cápsulas nespresso. La lenta torrefacción artesanal de los cafés (15-20min) garantiza el perfecto respeto a los aromas. ¡Perfecto para degustar!
+- 🌱 CAFÉ ECOLÓGICO COMERCIO JUSTO - Nuestros cafés cuentan con los certificados de agricultura ecológica y Fair Trade: El cultivo del café ha sido realizado sin utilizar productos químicos para respetar la naturaleza y tu salud. Saborea unos cafés con un sabor protegido y perfumado, respetuoso con el medioambiente y los cultivadores.
+- 🌱 FRESCOR GARANTIZADO - Nuestros cafés han sido torrefactados recientemente y nuestras cápsulas de nueva generación, que son compatibles con las capsulas nespresso, cuentan con un envoltorio hermético al aire que preserva el frescor aromático del café
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B084Z2X7RG{{</world>}}

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Fuente natural de calcio y fósforo
+- Leche entera enriquecida con vitaminas A y D
 - Brik UHT 1L con tapón atado (para evitar que acabe en la naturaleza)
-- Sin azúcar añadido ni gluten
 - Puleva Original desde 1958
 - Ideal para toda la familia
-- Leche entera enriquecida con vitaminas A y D
-- Fuente natural de calcio y fósforo
+- Sin azúcar añadido ni gluten
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01HTBC5UK{{</world>}}

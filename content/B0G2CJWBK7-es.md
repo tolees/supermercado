@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- PACK PROTECTOR SOLAR 50 CUERPO: Este pack contiene crema solar que funciona como bloqueador solar y after sun de Aloe Vera. Todo lo necesario para cuidar y embellecer la piel antes y después del sol.
-- RESISTENTE AL AGUA: Nuestra crema solar cuerpo 50 es resistente al agua y por tanto, perfecta para potenciar el tono dorado protegiendo tu piel en la playa o piscina.
 - PROTECTOR SOLAR SPRAY: Protector solar corporal en formato spray para que su aplicación sea más sencilla. La crema sol proteccion solar 50 es de 200 ml.
+- RESISTENTE AL AGUA: Nuestra crema solar cuerpo 50 es resistente al agua y por tanto, perfecta para potenciar el tono dorado protegiendo tu piel en la playa o piscina.
+- PACK PROTECTOR SOLAR 50 CUERPO: Este pack contiene crema solar que funciona como bloqueador solar y after sun de Aloe Vera. Todo lo necesario para cuidar y embellecer la piel antes y después del sol.
 - SUNSCREEN SPF 50: Proporciona protección solar alta protegiéndote de los rayos UVA/UVB.
 - AFTER SUN CON ALOE VERA: Alivia, hidrata y repara la piel tras la exposición solar con nuestro after sun de Aloe Vera.
 

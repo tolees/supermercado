@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se debe conservar en un lugar fresco y seco
-- La más esmerada elaboración y una paciente y cuidada maduración
+- Elaborados artesanalmente
 - Filetes de atún claro en aceite de oliva
 - Adecuado para toda la familia
-- Elaborados artesanalmente
+- Se debe conservar en un lugar fresco y seco
+- La más esmerada elaboración y una paciente y cuidada maduración
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01DUWXUMY{{</world>}}

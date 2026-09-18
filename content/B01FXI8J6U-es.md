@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'COLGATE Cepillo de dientes Extra Clean medio limpia alcanzando hasta los dientes posteriores Pack 2+2 Multicolor CP21509'
-date: 2026-09-16 13:35:48
+date: 2026-09-17 16:16:34
 image: 'https://m.media-amazon.com/images/I/41zjr-GQaVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FXI8J6U/?tag=tolees-21'
 descuento: '39.80'
-average: '2.23310000000001'
+average: '2.22881188118813'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

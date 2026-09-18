@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- LISTERINE Menthol Flavor proporciona la tranquilidad de un aliento fresco duradero
-- La siguiente información se aplica a cada unidad del paquete
-- El paquete puede variar
-- Gracias a su contenido en flúor, fortalece los dientes y los protege contra las caries
-- Limpia en profundidad las zonas más difíciles y actúa entre los dientes y en la línea de las encías
 - Su fórmula, clínicamente probada, asegura hasta un 97% de la eliminación de bacterias que forman la placa dental: alcanza los lugares a los que el cepillo no llega
+- El paquete puede variar
+- Limpia en profundidad las zonas más difíciles y actúa entre los dientes y en la línea de las encías
+- LISTERINE Menthol Flavor proporciona la tranquilidad de un aliento fresco duradero
+- Gracias a su contenido en flúor, fortalece los dientes y los protege contra las caries
+- La siguiente información se aplica a cada unidad del paquete
 - Fórmula basada en aceites esenciales con flúor y sin alcohol que proporciona 24 horas de protección contra la placa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

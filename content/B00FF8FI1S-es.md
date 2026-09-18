@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Como servir: Serve at room temperature
 - Acabado: larga duración
-- Sabor: robusto, dulce, notas de caramelo, vainilla, toques de miel
-- Contenido de alcohol (alc/vol): 40.0 percent by volume
-- Color: oro
-- Tipo de alcohol: Whiskey
-- Procedencia: Spain
-- Perfecto como un regalo
 - Nariz: ligera, dulce, notas de vainilla, toques de miel
+- Perfecto como un regalo
+- Procedencia: Spain
+- Tipo de alcohol: Whiskey
+- Contenido de alcohol (alc/vol): 40.0 percent by volume
+- Como servir: Serve at room temperature
+- Color: oro
+- Sabor: robusto, dulce, notas de caramelo, vainilla, toques de miel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00FF8FI1S{{</world>}}

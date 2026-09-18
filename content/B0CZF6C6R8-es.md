@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para cabello largo
-- Para reducir la fragilidad del cabello
-- Todo tipo de cabello
 - Sérum anti encrespamiento
 - La siguiente información se aplica a cada unidad del paquete
+- Todo tipo de cabello
+- Para cabello largo
+- Para reducir la fragilidad del cabello
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CZF6C6R8{{</world>}}

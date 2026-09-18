@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- LIMPIEZA PROFUNDA SIN JABÓN: Elimina el exceso de sebo y purifica los poros sin resecar la piel
-- ÁCIDO SALICÍLICO LIBRE Y LIPOSOMAL (2 %): Acción queratolítica y seborreguladora para prevenir brotes
 - TEXTURA SUAVE Y SENSORIAL: Emulsiona en crema espumosa, refrescando la piel desde el primer uso
+- ÁCIDO SALICÍLICO LIBRE Y LIPOSOMAL (2 %): Acción queratolítica y seborreguladora para prevenir brotes
+- LIMPIEZA PROFUNDA SIN JABÓN: Elimina el exceso de sebo y purifica los poros sin resecar la piel
 - EXTRACTOS CALMANTES NATURALES: Aloe vera, avena, camomila y mimosa que regeneran y alivian la piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})

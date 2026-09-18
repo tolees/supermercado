@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Mezcla de hierbabuena y menta
-- Neutraliza las bacterias de la placa, incluso entre cepillados
 - Ayuda a mejorar la salud de las encías con un efecto 2 veces mayor que una pasta dentífrica normal con flúor
-- Pasta dentífrica de uso diario
+- Neutraliza las bacterias de la placa, incluso entre cepillados
 - La tecnología antibacteriana con complejo de Flúor Stannous y sales de gluconato crea un escudo protector para unas encías más fuertes y sanas
+- Pasta dentífrica de uso diario
 - Probada clínicamente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

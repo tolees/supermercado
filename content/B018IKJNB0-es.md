@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color amarillo pálido
-- Ideal como aperitivo
 - En boca es suave, goloso, fresco
+- Color amarillo pálido
 - Delicado aroma frutal
+- Ideal como aperitivo
 - Sin alcohol
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

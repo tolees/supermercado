@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- DISEÑO ELEGANTE EN BEIGE Y NEGRO: Cada pieza presenta patrones decorativos surtidos, combinando modernidad y sofisticación en tu mesa.
-- SET DE 6 TAZAS CON PLATILLO: Incluye 6 tazas de café con sus respectivos platillos, perfectas para el uso diario o para recibir invitados con estilo.
-- STONEWARE DE ALTA CALIDAD: Fabricadas en stoneware resistente, ideal para conservar la temperatura del café y garantizar una larga durabilidad.
 - CAPACIDAD 90 ML: Tamaño perfecto para espresso, café corto o degustaciones, combinando estética y comodidad.
 - APTAS PARA LAVAVAJILLAS Y MICROONDAS: Prácticas y funcionales: fáciles de limpiar y seguras para calentar bebidas.
+- SET DE 6 TAZAS CON PLATILLO: Incluye 6 tazas de café con sus respectivos platillos, perfectas para el uso diario o para recibir invitados con estilo.
+- STONEWARE DE ALTA CALIDAD: Fabricadas en stoneware resistente, ideal para conservar la temperatura del café y garantizar una larga durabilidad.
+- DISEÑO ELEGANTE EN BEIGE Y NEGRO: Cada pieza presenta patrones decorativos surtidos, combinando modernidad y sofisticación en tu mesa.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B074CCLSZ8{{</world>}}

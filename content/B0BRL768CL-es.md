@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- PLACER Y NUTRICIÓN: Disfruta de un equilibrio perfecto entre sabor y beneficios nutricionales con el cacao natural que se mantiene fiel a sus raíces y a tus necesidades.
-- PROCESO TRADICIONAL DEL CACAO: Cacao natural recolectado a mano, secado al sol, tostado, prensado y mezclado de manera tradicional.
 - CANTIDAD Y PORCIONES: El envase de 3kg ofrece 214 raciones, lo que lo convierte en una opción ideal para disfrutar durante un largo periodo de tiempo. Cada porción está diseñada para ofrecer un equilibrio perfecto entre sabor y nutrición, sin comprometer la calidad.
+- PROCESO TRADICIONAL DEL CACAO: Cacao natural recolectado a mano, secado al sol, tostado, prensado y mezclado de manera tradicional.
 - CERTIFICACIÓN DE SOSTENIBILIDAD: Cacao con certificación UTZ, que apoya el cultivo sostenible y el respeto por el medio ambiente.
+- PLACER Y NUTRICIÓN: Disfruta de un equilibrio perfecto entre sabor y beneficios nutricionales con el cacao natural que se mantiene fiel a sus raíces y a tus necesidades.
 - DISFRUTA EN CUALQUIER MOMENTO: Sin aditivos. Ideal para el desayuno, la merienda, la cena o como snack.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

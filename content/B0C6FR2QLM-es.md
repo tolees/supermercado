@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Selecto embutido elaborado en Asturias
-- Lentejas riojana con 30% menos de grasa y sal
 - Disfruta de un plato típico de la cocina casera española, con la calidad de LITORAL
-- Ingredientes 100% naturales, sin gluten, sin colorantes ni conservantes
+- Selecto embutido elaborado en Asturias
 - Comida española fácil de preparar: al baño maria, en cazo o al microondas
+- Ingredientes 100% naturales, sin gluten, sin colorantes ni conservantes
+- Lentejas riojana con 30% menos de grasa y sal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C6FR2QLM{{</world>}}

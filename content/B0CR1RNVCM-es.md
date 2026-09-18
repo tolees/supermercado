@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- NOTAS DE FONDO: Musgo, ámbar tridimensional, haba tonka.
-- 99,9 % vegano
-- NOTA DE SALIDA: Té blanco, lirio de los valles, fresia rosa.
-- FRAGANCIA FEMENINA Y DELICADA: Caracterizada por una combinación refinada de notas florales y almizcladas. Esta fragancia envolvente está diseñada para resaltar la feminidad con una elegante composición de flores, enriquecida con sutiles acentos almizclados que aportan profundidad y calidez.
 - NOTA DE CORAZÓN: Iris rosa, madreselva rosa, AmberTonic.
+- 99,9 % vegano
+- NOTAS DE FONDO: Musgo, ámbar tridimensional, haba tonka.
+- FRAGANCIA FEMENINA Y DELICADA: Caracterizada por una combinación refinada de notas florales y almizcladas. Esta fragancia envolvente está diseñada para resaltar la feminidad con una elegante composición de flores, enriquecida con sutiles acentos almizclados que aportan profundidad y calidez.
+- NOTA DE SALIDA: Té blanco, lirio de los valles, fresia rosa.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CR1RNVCM{{</world>}}

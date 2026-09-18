@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Mahou Mixta Pack de 24 Latas x 33 cl Combinación de Cerveza Mahou 5 Estrellas Con Limón Sabor Ligero y Refrescante 0 9% de Alcohol'
-date: 2026-05-31 19:21:10
+title: 'Mahou Mixta Cerveza con Limón 5 Estrellas Pack 24 Latas x 33cl'
+date: 2026-09-18 11:47:14
 image: 'https://m.media-amazon.com/images/I/51MfCtDpaML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0BW9SLQFC-es Mahou Mixta Pack de 24 Latas x 33 cl Combinación de...'
+slug: 'B0BW9SLQFC-es Mahou Mixta Cerveza con Limón 5 Estrellas Pack 24 Latas x...'
 sku: 'B0BW9SLQFC-es'
-tags: [ '5','cerveza','estrellas','mahou','🇪🇸', ]
-actualPrice: 14.25 EUR
+tags: [ 'cerveza','mahou','🇪🇸', ]
+actualPrice: 13.98 EUR
 currency: EUR
-price: 14.25
+price: 13.98
 comparePrice: 19.44 EUR
-prodname: 'Mahou Mixta Pack de 24 Latas x 33 cl Combinación de Cerveza Mahou 5 Estrellas Con Limón Sabor Ligero y Refrescante 0 9% de Alcohol'
+prodname: 'Mahou Mixta Cerveza con Limón 5 Estrellas Pack 24 Latas x 33cl'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BW9SLQFC/?tag=tolees-21'
-descuento: '26.70'
-average: '13.0847619047617'
+descuento: '28.09'
+average: '13.1626086956519'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sabor: cerveza sabor limón. En boca destaca un gusto dulce ligero que deja paso a un amargor muy sutil con un toque ácido. El cuerpo es tenue y la sensación final de una bebida refrescante
-- Apariencia: Cerveza lata Mahou mixta de color dorado pálido, brillante y de espuma ligera
-- Pack de cerveza Mahou Mixta de 24 latas de 33 cl, con 0,9% de alcohol. Mixta es la cerveza combinación de 16% de cerveza Mahou 5 Estrellas, en la que destaca el cuidado en la selección de las cebadas y su malteo, así como la combinación de variedades de lúpulo amargas y semiaromáticas de origen europeo; y 84% de refresco de limón, que le aporta los aromas cítricos y el dulzor. Para un mayor disfrute se recomienda consumir entre 4º y 6º C
-- Aroma: cerveza Mixta tiene esencia frutal con predominio cítrico de limón
-- Mahou Mixta, la cerveza limón, es una cerveza española refrescante que combina cerveza con limón, la alternativa de la cerveza, la radler sin Alcohol de Mahou: la Mixta de siempre
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BW9SLQFC{{</world>}}

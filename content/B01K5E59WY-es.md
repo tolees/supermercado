@@ -29,12 +29,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 60% Filete de atún - Alto contenido en proteínas y carne que favorece la musculatura magra y es rico en taurina natural. Sólo insistimos en utilizar únicamente ingredientes de la más alta calidad
-- Sostenible, envases reciclables; nuestras latas de metal y envases de cartón pueden reciclarse completamente
-- La comida húmeda para gatos 100% natural en caldo contiene más carne de verdad y no contiene cereales, rellenos ni conservantes innecesarios, lo que la convierte en una opción más sana y nutritiva para su gato.
+- EL EMBALAJE PUEDE VARIAR mientras hacemos la transición del antiguo al nuevo embalaje de marca
 - El paquete contiene 12 sobres de 70 g de filete de atún con anchoas
+- La comida húmeda para gatos 100% natural en caldo contiene más carne de verdad y no contiene cereales, rellenos ni conservantes innecesarios, lo que la convierte en una opción más sana y nutritiva para su gato.
+- Sostenible, envases reciclables; nuestras latas de metal y envases de cartón pueden reciclarse completamente
 - Complementario y debe administrarse junto con un alimento seco completo y equilibrado para proporcionar a su gato una dieta completa
 - Fuente natural de Omega-3 y 6. Los ácidos grasos omega-3 y omega-6 son importantes para la salud general de los gatos, con beneficios potenciales que incluyen la promoción de un pelaje y una piel sanos, el apoyo a la salud del cerebro y los ojos, la promoción de la salud cardiovascular, el apoyo a la salud de las articulaciones y el apoyo al sistema inmunológico.
-- EL EMBALAJE PUEDE VARIAR mientras hacemos la transición del antiguo al nuevo embalaje de marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01K5E59WY{{</world>}}

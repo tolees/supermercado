@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🫒【AOVE PICUAL DE PERFIL INTENSO】: Aceite de oliva virgen extra variedad picual, con carácter marcado y personalidad; aove gourmet pensado para quienes buscan sabor potente y autenticidad.
 - 🫒【BOTELLA DE VIDRIO 500 ML】: Presentación premium en botella de vidrio de 500 ml, diseñada para preservar la calidad del aceite y ofrecer una experiencia elegante.
-- 🫒【ORIGEN ESPAÑA · DOP LA MANCHA】: Aceite de oliva virgen extra español con denominación de origen; olive oil premium para uso diario exigente o como regalo.
+- 🫒【AOVE PICUAL DE PERFIL INTENSO】: Aceite de oliva virgen extra variedad picual, con carácter marcado y personalidad; aove gourmet pensado para quienes buscan sabor potente y autenticidad.
 - 🫒【SABOR VERDE Y ESTRUCTURADO】: Notas herbáceas, amargor medio y picante equilibrado característico del aceite picual; ideal para carnes, tostadas y cocina gourmet.
+- 🫒【ORIGEN ESPAÑA · DOP LA MANCHA】: Aceite de oliva virgen extra español con denominación de origen; olive oil premium para uso diario exigente o como regalo.
 - 🫒【PRENSADO EN FRÍO · PRIMERA EXTRACCIÓN】: Elaborado mediante prensado en frío para conservar antioxidantes, aromas naturales y todas sus propiedades esenciales.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

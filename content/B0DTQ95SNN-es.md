@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Formato: 1 huevera de 130 gr con 6 minihuevos extra fondente 75% y 6 minihuevos crema al latte
 - El chocolate Venchi se produce estrictamente en Italia con ingredientes naturales y menos azúcar. Es sin gluten, sin aceite de palma, sin colorantes, conservantes ni componentes artificiales para garantizar la máxima calidad
 - Blooming Pleasure: la colección de Pascua de Venchi es una obra maestra que toma forma a través de ingredientes selectos y materias primas de excelencia, trabajadas con pasión y maestría artesanal
+- Formato: 1 huevera de 130 gr con 6 minihuevos extra fondente 75% y 6 minihuevos crema al latte
 - Sabor: minihuevos de chocolate al Sabor Gianduia con relleno de crema de leche con "Avellana Piamonte" y minihuevos plant-based, sabor a chocolate negro con intenso relleno extra negro
 - Colección Pascua: una simpática y festiva huevera con envoltura floral esconde 12 minihuevos de chocolate surtidos
 

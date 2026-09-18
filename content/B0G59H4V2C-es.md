@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - PROTECCIÓN SOLAR: Con protección UV para el cabello.
+- LOOKS SIN LÍMITES: Permite crear peinados en cabello húmedo o seco.
 - TRATAMIENTO SIN ACLARADO: Sebastian Professional Potion 9 Crema styling acondicionadora sin aclarado que aporta brillo y acondicionamiento ligero.
 - CREMA DE CUIDADO: Una crema que cuida todo tipo y texturas de cabellos.
 - FIJACIÓN LIGERA Y BRILLO: La unión perfecta de fijación ligera, hidratación y brillo para el cabello.
-- LOOKS SIN LÍMITES: Permite crear peinados en cabello húmedo o seco.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0G59H4V2C{{</world>}}

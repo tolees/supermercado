@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Ideal como postre o snack
 - Conservar en un lugar fresco y seco
 - Con un práctico embalaje
-- Ideal como postre o snack
 - Con una textura crujiente
 - Galleta bañada con chocolate blanco
 

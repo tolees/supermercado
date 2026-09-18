@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Scotch-Brite Estropajo para vitrocerámica paquete de 3 unidades'
-date: 2026-09-11 09:43:20
+date: 2026-09-16 18:20:41
 image: 'https://m.media-amazon.com/images/I/41bNJQ0ZDuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08X22LKKF/?tag=tolees-21'
 descuento: '12.07'
-average: '6.21466666666667'
+average: '6.20352941176471'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

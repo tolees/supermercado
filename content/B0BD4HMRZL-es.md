@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- SECADO AL AIRE: endurece de forma natural sin horno ni microondas y después puede pintarse con témpera, pintura al agua, rotuladores o barniz.
-- FORMATO PRÁCTICO: pack de 3 unidades de 500 g en color blanco, ideal para proyectos creativos, escolares y manualidades en casa
 - FÁCIL DE MOLDEAR: barro sin cocción, muy manejable y fácil de limpiar; perfecto para moldes, relieves y superficies como madera, plástico o cartón.
+- SECADO AL AIRE: endurece de forma natural sin horno ni microondas y después puede pintarse con témpera, pintura al agua, rotuladores o barniz.
 - LISTA PARA USAR: pasta de modelar de tacto suave, con ingredientes naturales, sin olor y sin gluten para un uso cómodo y seguro.
+- FORMATO PRÁCTICO: pack de 3 unidades de 500 g en color blanco, ideal para proyectos creativos, escolares y manualidades en casa
 - IDEAL PARA TODOS: recomendada para adultos y niños a partir de 3 años, educadores y personas que buscan una pasta de modelar de calidad fabricada en España.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

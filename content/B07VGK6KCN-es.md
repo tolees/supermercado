@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Color: marrón oscuro
 - Adecuado como regalo
 - Producto de calidad
-- Color: marrón oscuro
 - Sabor: almendras, café, canela
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

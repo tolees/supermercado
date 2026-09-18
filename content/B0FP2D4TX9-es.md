@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SANTIVERI - Galletas Jungla Cacao Triple Zero Galletas Crujientes con Avena Integral y Proteína de Guisante Altas en Fibra Sin Edulcorantes Sin Azúcar Ni Gluten Ideal para Niños Vegano - 120 g'
-date: 2026-09-14 11:42:13
+date: 2026-09-18 11:42:41
 image: 'https://m.media-amazon.com/images/I/41qje6YDuKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FP2D4TX9/?tag=tolees-21'
 descuento: '49.75'
-average: '1.095'
+average: '1.076'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

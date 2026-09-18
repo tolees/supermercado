@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kneipp Sueño Complet Bicapa Melatonina 30 comprimidos'
-date: 2026-09-16 07:35:19
+date: 2026-09-18 09:49:25
 image: 'https://m.media-amazon.com/images/I/417j4ysoEdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KC3YMXH/?tag=tolees-21'
 descuento: '38.30'
-average: '9.406'
+average: '9.00142857142857'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

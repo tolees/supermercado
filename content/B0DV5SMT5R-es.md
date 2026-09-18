@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - INTENSIDAD 11 - Café molido de tueste natural con sabor intenso y especiado.
-- CÁPSULA ESPRESSO - La cápsula tiene el tamaño indicado para poder preparar un café Espresso para disfrutar solo o con base de leche como el cappuccino o el latte.
 - 80 CÁPSULAS - 4 paquetes de 20 Cápsulas de Aluminio compatibles con las cafeteras L’OR Barista y con máquinas Nespresso* (*Marca de una compañía no relacionada con Jacobs Douwe Egberts).
-- TOSTADO, INTENSO Y ESPECIADO - La mezcla da como resultado un café con notas a regaliz y almendras tostadas.
 - CAFÉ SOSTENIBLE - Elaboradas con café sostenible bajo el programa de Sostenibilidad Common Grounds que garantiza un Origen Responsable.
+- TOSTADO, INTENSO Y ESPECIADO - La mezcla da como resultado un café con notas a regaliz y almendras tostadas.
+- CÁPSULA ESPRESSO - La cápsula tiene el tamaño indicado para poder preparar un café Espresso para disfrutar solo o con base de leche como el cappuccino o el latte.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DV5SMT5R{{</world>}}

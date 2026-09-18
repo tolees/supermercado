@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Género - mujer
 - Marca - wella
-- Tipo de producto - laca
+- Género - mujer
 - Producto que combina tradición e innovación
+- Tipo de producto - laca
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B076JK5GQV{{</world>}}

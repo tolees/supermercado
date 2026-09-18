@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Desarrollado con dermatólogos - Este suave gel facial con un 2% de Ácido Salicílico limpia la piel en tan solo 1 día y ayuda a prevenir brotes en pieles propensas al acné
 - Spot Controlling - Este limpiador anti acné de Neutrogena limpia la piel en profundidad. Se ha demostrado clínicamente que elimina el exceso de grasa y las impurezas***
-- Fórmula suave sin aceites - El jabón Neutrogena penetra en los poros ayudando a tratar el origen de las manchas y suaviza la piel respetando la barrera cutánea
-- Detalles del envío -Neutrogena Spot Controlling Limpiador Facial 2% Ácido Salicílico (200 ml), jabón limpiador anti acné de uso diario para una piel libre de granos
 - Piel sin impurezas - Este jabón para la cara es adecuado para pieles con tendencia acneica, y el 97% de los usuarios confirma tener menos granos después de 4 semanas
+- Detalles del envío -Neutrogena Spot Controlling Limpiador Facial 2% Ácido Salicílico (200 ml), jabón limpiador anti acné de uso diario para una piel libre de granos
+- Fórmula suave sin aceites - El jabón Neutrogena penetra en los poros ayudando a tratar el origen de las manchas y suaviza la piel respetando la barrera cutánea
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B074P9B5FF{{</world>}}

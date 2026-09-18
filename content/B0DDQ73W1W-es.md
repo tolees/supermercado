@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuidado diario para zonas agrietadas y dañadas
 - Ultra-hidratación (nueva fórmula con 20% de urea)
+- Cuidado diario para zonas agrietadas y dañadas
 - Acción regeneradora
 - Protección de la piel. Suavidad
 - La siguiente información se aplica a cada unidad del paquete

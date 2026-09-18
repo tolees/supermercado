@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Crema de peinar nutritiva Pantene Pro-V sin aclarado que ofrece a tu cabello ondulado una definición natural
-- Para un cabello ondulado suave e hidratado
 - Protección de calor para el cabello
+- Para un cabello ondulado suave e hidratado
 - Crema capilar enriquecida con una combinación de vitamina Pro-V y aceite de argán
 
 [🛒 Visítala!!!]({{< param buyurl >}})

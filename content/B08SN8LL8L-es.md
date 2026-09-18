@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cápsulas de café compatibles con cafeteras NESCAFE DOLCE GUSTO
 - Comprometidos con el abastecimiento ético de café al 100 % en colaboración con Conservation International
-- Inspirado por el Caffe Latte de STARBUCKS que tanto te gusta: intenso, aterciopelado y deliciosamente familiar
 - Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
+- Cápsulas de café compatibles con cafeteras NESCAFE DOLCE GUSTO
+- Inspirado por el Caffe Latte de STARBUCKS que tanto te gusta: intenso, aterciopelado y deliciosamente familiar
 - Cápsulas de café de STARBUCKS de NESCAFE DOLCE GUSTO, suave y cremoso
 
 [🛒 Aquí!!!]({{< param buyurl >}})

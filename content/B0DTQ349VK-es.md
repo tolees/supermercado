@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - La siguiente información se aplica a cada unidad del paquete
+- Mezclador optimó: Indian Tonic Water, Mediterranean Tonic Water
+- Botella de 70 cl
 - Contenido de alcohol 37.5 %
 - Boca: fresa dulce fresca con enebro subyacente
-- Botella de 70 cl
-- Mezclador optimó: Indian Tonic Water, Mediterranean Tonic Water
 - Nariz: fresas frescas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

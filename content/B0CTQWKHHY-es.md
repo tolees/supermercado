@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Formato cómodo y fácil
 - Disfruta con alegría y diversión en cualquier momento
-- Conservar en lugar fresco y seco
 - Los FRESONES SUPER son caramelos de goma con la clásica forma de fresa, con un interior súper esponjoso con instenso sabor a Fresa. ¡Disfruta con los clásicos de siempre!
+- Formato cómodo y fácil
+- Conservar en lugar fresco y seco
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CTQWKHHY{{</world>}}

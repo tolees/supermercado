@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Arroz arborio para risotto
 - Este envase contiene aproximadamente 6 porciones
+- Apto para dietas vegetarianas y veganas
 - Textura "al dente" y cremosa
 - Ideal para recetas de risotto
-- Apto para dietas vegetarianas y veganas
+- Arroz arborio para risotto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CG9R48T8{{</world>}}

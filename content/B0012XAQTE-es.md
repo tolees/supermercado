@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sin dañar el cabello
-- La fragancia le da el toque masculino
 - Fijación media con alto brillo
+- La fragancia le da el toque masculino
+- Sin dañar el cabello
 - Para conseguir el look y definición deseado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

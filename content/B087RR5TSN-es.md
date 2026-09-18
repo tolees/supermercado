@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El paquete contiene 2 bolsa de 10 cápsulas de café cada Napoli, Roma, Trieste, Venezia y descafeinado
 - Paquete de 100 cápsulas compatibles Caffitaly Tour de Italia
-- 5 mezclas diferentes con diferentes aromas y la intensidad, compatible con todas las máquinas Caffitaly
+- El paquete contiene 2 bolsa de 10 cápsulas de café cada Napoli, Roma, Trieste, Venezia y descafeinado
 - Un recorrido por los diferentes tipos de café para todos los gustos
+- 5 mezclas diferentes con diferentes aromas y la intensidad, compatible con todas las máquinas Caffitaly
 - Paquete de 100 cápsulas compatibles Caffitaly Tour de Italia
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

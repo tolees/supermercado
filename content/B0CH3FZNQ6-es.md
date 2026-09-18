@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tostado y envasado en Italia
-- La siguiente información se aplica a cada unidad del paquete
-- CERTIFICACIÓN RAINFOREST ALLIANCE: La procedencia del café utilizado para este producto goza de la certificación Rainforest Alliance, lo que significa que no solo sabe bien, sino que también tiene un impacto positivo. Con cada compra, ayuda a cientos de agricultores y sus familias en todo el mundo, además de aportar su granito a la selva tropical; beber mejor es hacerlo mejor
-- Adecuado para todas las preparaciones dependiendo de la molienda. Expreso : fina. Filtro : media. Italiana : media. Émbolo : gruesa
-- 65 % arábica, 35 % robusta
 - Una mezcla equilibrada, con mucho cuerpo y notas de chocolate negro y caramelo
-- Intensidad: 4/5
+- 65 % arábica, 35 % robusta
+- Adecuado para todas las preparaciones dependiendo de la molienda. Expreso : fina. Filtro : media. Italiana : media. Émbolo : gruesa
 - El embalaje puede variar de las imágenes mostradas. Este producto era anteriormente un producto de Solimo. Ahora es parte de la marca de Amazon. El producto tiene exactamente las mismas formulaciones, tamaño y calidad
+- CERTIFICACIÓN RAINFOREST ALLIANCE: La procedencia del café utilizado para este producto goza de la certificación Rainforest Alliance, lo que significa que no solo sabe bien, sino que también tiene un impacto positivo. Con cada compra, ayuda a cientos de agricultores y sus familias en todo el mundo, además de aportar su granito a la selva tropical; beber mejor es hacerlo mejor
+- Tostado y envasado en Italia
+- Intensidad: 4/5
+- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CH3FZNQ6{{</world>}}

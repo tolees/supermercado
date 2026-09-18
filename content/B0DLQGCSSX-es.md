@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Resultado de larga duración
-- Matificante; fijación; mate
 - Envase fabricado con material reciclado
 - Pulverizador mejorado
 - Nos oponemos a los experimentos con animales; cosnova aparece internacionalmente con essence y CATRICE tanto en PETA Alemania como en PETA
+- Matificante; fijación; mate
+- Resultado de larga duración
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DLQGCSSX{{</world>}}

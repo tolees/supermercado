@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - VISUAL: Color rojo picota intenso con elegante ribete granate que denota su calidad superior
 - AROMA: Complejo bouquet con notas de fruta negra y roja madura, perfectamente integrado con matices torrefactos de la barrica
-- SABOR: Textura aterciopelada con intensos sabores frutales y nobles notas de madera, proporcionando una experiencia equilibrada
 - PRESENTACIÓN: Estuche regalo Protos Serie Privada , incluye 2 copas
 - VARIEDAD: Elaborado con 100% uva tempranillo seleccionada de las parcelas más antiguas de la bodega
+- SABOR: Textura aterciopelada con intensos sabores frutales y nobles notas de madera, proporcionando una experiencia equilibrada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F44D11MY{{</world>}}

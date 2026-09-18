@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuidado mamá: Labios
 - Edad Etiqueta: 0m+
+- Cuidado mamá: Labios
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000KU95EC{{</world>}}

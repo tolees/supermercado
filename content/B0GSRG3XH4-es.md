@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nocilla Pistacho Crema de Cacao Sin Aceite de Palma 180g Sin Gluten'
-date: 2026-09-05 17:31:49
+date: 2026-09-18 14:07:57
 image: 'https://m.media-amazon.com/images/I/411gE4DGn1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GSRG3XH4/?tag=tolees-21'
 descuento: '15.04'
-average: '3.69499999999999'
+average: '3.66727272727272'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- SIN GLUTEN: Apta para personas con intolerancia al gluten o enfermedad celíaca
-- INFORMACIÓN NUTRICIONAL: Cada ración de 15g aporta 84 kcal, con 5,0g de grasas, 8,9g de carbohidratos y 0,8g de proteínas, ideal para disfrutar con moderación
-- SIN ACEITE DE PALMA: Formulada sin aceite de palma, manteniendo la textura cremosa y sabor característico de Nocilla
-- CREMA DE CACAO CON PISTACHO: Nocilla Pistacho es una deliciosa crema para untar de 180g que combina el sabor del cacao con trozos de pistacho, perfecta para desayunos y meriendas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0GSRG3XH4{{</world>}}

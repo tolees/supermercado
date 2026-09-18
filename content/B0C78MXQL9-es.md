@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- FORMATO: 1kg - (1000g)
-- RITUAL DEL Espresso NAPOLITANO AUTÉNTICO: Caffè Borbone lleva el alma de Nápoles a tu hogar con una marca dedicada a preservar los antiguos secretos del café italiano. Nuestra mezcla 100% Arábica representa la cumbre de nuestra experiencia en el tueste
 - MEZCLA EQUILIBRADA DE ARÁBICA Y ROBUSTA: Experimenta un café con cuerpo con el equilibrio perfecto entre granos de Arábica y Robusta. Esta meticulosa selección garantiza una experiencia cremosa y un gran carácter en cada taza
-- PERFIL CON CUERPO Y PERSISTENTE: Disfruta de una intensidad sofisticada de 8/10 que deleita el paladar. Esta mezcla está diseñada específicamente para quienes buscan un café aterciopelado pero persistente con un sabor estructurado
+- RITUAL DEL Espresso NAPOLITANO AUTÉNTICO: Caffè Borbone lleva el alma de Nápoles a tu hogar con una marca dedicada a preservar los antiguos secretos del café italiano. Nuestra mezcla 100% Arábica representa la cumbre de nuestra experiencia en el tueste
 - NOTAS SENSORIALES GOURMET: Despierta tus sentidos con un ramo aromático único con notas ricas de cacao y frutos secos. Estos sabores tradicionales crean un aroma equilibrado que eleva tu experiencia diaria de Espresso
+- FORMATO: 1kg - (1000g)
+- PERFIL CON CUERPO Y PERSISTENTE: Disfruta de una intensidad sofisticada de 8/10 que deleita el paladar. Esta mezcla está diseñada específicamente para quienes buscan un café aterciopelado pero persistente con un sabor estructurado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C78MXQL9{{</world>}}

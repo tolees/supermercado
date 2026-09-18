@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Los ingredientes principales son proteína de leche, cobertura de chocolate, café descafeinado soluble y vitaminas. Cada barrita aporta a tu organismo 130 kcal
 - Producto ideado para ayudarte a cuidar tu peso sin renunciar a tomar un tentempié con delicioso sabor a café
 - Toma una barrita entre horas. Idealmente a media mañana o a media tarde. Es importante seguir una dieta variada y equilibrada y un modo de vida saludable
-- Los ingredientes principales son proteína de leche, cobertura de chocolate, café descafeinado soluble y vitaminas. Cada barrita aporta a tu organismo 130 kcal
 - Las barritas Siken Diet con sabor a café son el snack perfecto para picar entre horas, ya que son ricas en proteínas y bajas en calorías. La proteína contribuye al crecimiento y mantenimiento normal de los músculos
 - Gracias a su cómodo formato de barrita individual podrás llevarla contigo a cualquier parte, como la oficina, el gimnasio, de excursión…etc
 

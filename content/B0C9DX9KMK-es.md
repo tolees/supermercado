@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ideal para consumirla sola o mezclada con alcohol con mucho hielo y una rodaja de limón. Perfecta para cualquier momento del día. En tu aperitivo en el bar, con los amigos después del trabajo y con tu copa los fines de semana
-- Refresco cítrico con un sabor intenso y muy refrescante
-- Bebida refrescante con cero azúcares y cero calorías. Elaborada 100% con extractos de origen natural
-- El refresco con sabor cítrico Schweppes sin colorantes
 - Sabor intenso y especial fruto de su única receta que combina el sabor de cuatro frutas (lima, mandarina, pomelo y naranja) con la genuina burbuja Schweppes, con la que disfrutarás de una explosión de sabores cítricos
+- Bebida refrescante con cero azúcares y cero calorías. Elaborada 100% con extractos de origen natural
+- Refresco cítrico con un sabor intenso y muy refrescante
+- El refresco con sabor cítrico Schweppes sin colorantes
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C9DX9KMK{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Champú tratamiento antiácido de 250 ml
-- Agradable sensación en el pelo
 - Champú para cabellos
+- Agradable sensación en el pelo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00Y0IWJKC{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- elaboradas en España por Galletas Gullón
 - con divertidos dibujos de animales y piratas
-- elaboradas con aceite de girasol alto oleico
 - ideales para desayunos y meriendas
 - La siguiente información se aplica a cada unidad del paquete
+- elaboradas en España por Galletas Gullón
+- elaboradas con aceite de girasol alto oleico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0H7LFY4Q3{{</world>}}

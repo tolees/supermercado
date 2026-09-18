@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Versátiles en la cocina: ideales para preparar cremas, sopas, purés, guisos, ensaladas y salsas con un sabor delicado y textura ligera.
-- Ricas en nutrientes: alto contenido en proteínas vegetales y fibra, contribuyendo a una dieta equilibrada y saludable.
-- Ingredientes 100% naturales: lenteja roja procedente de agricultura ecológica certificada, sin aditivos ni conservantes añadidos. Contiene GLUTEN.
-- Modo de empleo: Poner 1 taza de lentejas por cada 2-3 tazas de agua y cocer según su gusto. No es necesario ponerlas a remojo.
 - Formato de 500 g: envase práctico que asegura frescura y conservación óptima; guardar en lugar fresco y seco.
+- Ricas en nutrientes: alto contenido en proteínas vegetales y fibra, contribuyendo a una dieta equilibrada y saludable.
+- Modo de empleo: Poner 1 taza de lentejas por cada 2-3 tazas de agua y cocer según su gusto. No es necesario ponerlas a remojo.
+- Ingredientes 100% naturales: lenteja roja procedente de agricultura ecológica certificada, sin aditivos ni conservantes añadidos. Contiene GLUTEN.
+- Versátiles en la cocina: ideales para preparar cremas, sopas, purés, guisos, ensaladas y salsas con un sabor delicado y textura ligera.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01M31TMH8{{</world>}}

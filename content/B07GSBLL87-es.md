@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Color de alta intensidad
 - Proporciona lo mejor del color mate, la hidratación, la comodidad y el poder de permanencia
-- Máxima comodidad
 - Acabado mate aterciopelo
+- Máxima comodidad
+- Color de alta intensidad
 - Larga duración
 
 [🛒 Visítala!!!]({{< param buyurl >}})

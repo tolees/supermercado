@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'YOSOY Bebida Vegetal de Avena Barista sin Azúcar - especial para café pack de 6 x 1L'
-date: 2026-09-16 09:16:18
+date: 2026-09-17 10:55:45
 image: 'https://m.media-amazon.com/images/I/41NLcQ6X4rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GWMYBC83/?tag=tolees-21'
 descuento: '45.95'
-average: '7.61428571428572'
+average: '7.4125'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

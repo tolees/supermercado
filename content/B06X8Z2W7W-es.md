@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CHICLE SIN AZÚCAR: Endulzado naturalmente con xilitol. El xilitol es una azúcar alcohol totalmente natural que se ve y sabe igual que el azúcar, pero tiene un 40% menos de calorías.
 - CHICLE SIN ALÉRGENOS: PUR Gum está hecho para ti. Somos veganos, no modificados genéticamente, sin azúcar, sin gluten, sin soja, sin frutos secos ni cacahuetes, aptos para ceto y diabéticos y fabricados en Suiza.
 - SPEARMINT: Este chicle sin azúcar es refrescante y tiene un sabor a menta para animar tus papilas gustativas. Mantén tu boca fresca con una intensa explosión del clásico sabor a spearmint. Se presenta en una bolsa recerrable.
+- CHICLE SIN AZÚCAR: Endulzado naturalmente con xilitol. El xilitol es una azúcar alcohol totalmente natural que se ve y sabe igual que el azúcar, pero tiene un 40% menos de calorías.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B06X8Z2W7W{{</world>}}

@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - INTENSO: El perfil de tueste INTENSO se caracteriza por notas envolventes de cacao, frutos secos y un sabor final rico y de cuerpo consistente
+- CLASSICO Y CLASSICO LUNGO: El perfil de tueste CLASSICO se caracteriza por delicadas notas de caramelo, azahar, jazmín y un sabor final dulce
 - FORTE: El perfil de tueste FORTE se caracteriza por notas pronunciadas de chocolate negro combinadas con un atractivo aroma a pan tostado
+- CÁPSULAS COMPATIBLES: Descubra las cápsulas compatibles con las máquinas *Nespresso Original: dosificación óptima para una taza de café, preparación rápida y fácil, ideal para disfrutar del placer de un espresso todos los días. *illy no está afiliada a la marca Nespresso.
 - DECISIÓN CONSCIENTE: Las cápsulas de aluminio compatibles de illy adoptan los principios de sostenibilidad medioambiental y social para garantizar a los consumidores una experiencia de compra más informada a partir de la selección de productos
 - TAMAÑO: Cada paquete contiene 10 cápsulas de aluminio para un total de 100 cápsulas compatibles. La selección incluye 3 paquetes de CLASSICO, 3 de INTENSO, 3 de FORTE y 1 de CLASSICO LUNGO, ofreciendo un surtido variado para diferentes preferencias de sabor
-- CÁPSULAS COMPATIBLES: Descubra las cápsulas compatibles con las máquinas *Nespresso Original: dosificación óptima para una taza de café, preparación rápida y fácil, ideal para disfrutar del placer de un espresso todos los días. *illy no está afiliada a la marca Nespresso.
-- CLASSICO Y CLASSICO LUNGO: El perfil de tueste CLASSICO se caracteriza por delicadas notas de caramelo, azahar, jazmín y un sabor final dulce
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F8W2Y5PL{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Es ligero y agradable sobre la piel sin recargarla
 - No crea un efecto máscara ni deja manchas de color
+- Es ligero y agradable sobre la piel sin recargarla
 - Garantiza una piel de aspecto impecable durante 24 horas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

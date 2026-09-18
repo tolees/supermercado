@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El producto es fabricado con ingredientes de calidad
 - Marca: Gliss
-- Producto para el cuidado del cabello
 - Apto para el uso diario
+- El producto es fabricado con ingredientes de calidad
+- Producto para el cuidado del cabello
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08KVP7YSH{{</world>}}

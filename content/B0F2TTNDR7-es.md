@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Una infusión cálida y ligeramente picante que combina la aromática especia del jengibre con notas cítricas.
 - Conservar en un lugar fresco y seco. Una vez abierto, conservar en un recipiente hermético. Consumir preferentemente antes del: ver parte superior del envase.
+- Una infusión cálida y ligeramente picante que combina la aromática especia del jengibre con notas cítricas.
 - Envasado en España.
 - Bolsitas de doble cámara.
 - Apto para dietas vegetarianas y veganas.

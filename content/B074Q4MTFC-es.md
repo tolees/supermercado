@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - 100% Biodegradable
 - Elaborado en frío con aceites vegetales (oliva, coco y arroz) ricos en ácidos grasos esenciales, miel y esencias de plantas
-- Jabón de miel
 - "Sin conservantes"
+- Jabón de miel
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B074Q4MTFC{{</world>}}

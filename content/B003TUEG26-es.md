@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - PARA REGALAR Y COMPARTIR: Esta caja de chocolates para regalar es ideal para consumo propio o como regalo y son la forma ideal de simplemente decir "gracias" a seres queridos, amigos o colegas
 - MERCI SIGNIFICA GRACIAS: Desde 1964, los bombones merci son la mejor manera de decir gracias con un gesto especial, porque agradecer simplemente te hace feliz: con merci puedes expresar aún más aprecio
-- 4 ESPECIALIDADES CRUJIENTES: Milk Selection es el disfrute del chocolate con leche de alta calidad en 4 exquisitas especialidades seleccionadas con mimo pieza a pieza, con relleno y sin relleno
 - SIN GLUTEN Y APTOS PARA VEGETARIANOS: Esta elegante caja con bombones para regalar sin gluten incluye chocolates variados, con y sin relleno, deliciosos y aptos para celíacos y dietas vegetarianas
+- 4 ESPECIALIDADES CRUJIENTES: Milk Selection es el disfrute del chocolate con leche de alta calidad en 4 exquisitas especialidades seleccionadas con mimo pieza a pieza, con relleno y sin relleno
 - ELEGANTE FORMATO: Esta elegante caja de bombones es un detalle perfecto, cada uno de los 20 bombones merci está envuelto individualmente en papel de oro y aluminio para una mejor conservación e higiene
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

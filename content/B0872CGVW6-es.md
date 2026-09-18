@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hellmann s Salsa Barbacoa Bocabajo 430 ml'
-date: 2026-08-28 19:32:15
+date: 2026-09-18 14:05:39
 image: 'https://m.media-amazon.com/images/I/41KVCCSINFS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0872CGVW6-es Hellmann s Salsa Barbacoa Bocabajo 430 ml'
 sku: 'B0872CGVW6-es'
 tags: [ 'barbacoa','salsa','🇪🇸', ]
-actualPrice: 3.75 EUR
+actualPrice: 3.64 EUR
 currency: EUR
-price: 3.75
-comparePrice: 3.75 EUR
+price: 3.64
+comparePrice: 3.64 EUR
 prodname: 'Hellmann s Salsa Barbacoa Bocabajo 430 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0872CGVW6/?tag=tolees-21'
 descuento: '0.00'
-average: '3.33333333333333'
+average: '3.40999999999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con tomates cultivados de forma sostenible​
-- Óptimo con costillas a la brasa, alitas de pollo y hamburguesas
-- Botella 100% reciclable y formato ahorro para toda la familia
-- Sin colorantes artificiales​
-- Disfruta del auténtico sabor Hellmann’s en tus barbacoas
-- Hellmanns Salsa Barbacoa 430 ml
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0872CGVW6{{</world>}}

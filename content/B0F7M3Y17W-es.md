@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fairy Platinum Cápsulas Lavavajillas Para Máquina Limón 170 Cápsulas'
-date: 2026-09-15 07:06:00
+date: 2026-09-16 20:44:50
 image: 'https://m.media-amazon.com/images/I/41BMho5QX7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F7M3Y17W/?tag=tolees-21'
 descuento: '38.17'
-average: '26.1333333333332'
+average: '26.2078260869564'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

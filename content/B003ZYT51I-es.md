@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para compartir o regalar a quienes disfrutan del chocolate con licor
-- Combinación de chocolate cremoso con el licor de guindas; Elaborado por maestros chocolateros suizos con cacao puro e ingredientes seleccionados; Trabajo artesanal cuidadoso a lo largo de todo el proceso; Para compartir o regalar a quienes disfrutan del chocolate con licor
-- Elaborado por maestros chocolateros suizos con cacao puro e ingredientes seleccionados
-- Combinación de chocolate cremoso con el licor de guindas
 - Trabajo artesanal cuidadoso a lo largo de todo el proceso
+- Combinación de chocolate cremoso con el licor de guindas
+- Combinación de chocolate cremoso con el licor de guindas; Elaborado por maestros chocolateros suizos con cacao puro e ingredientes seleccionados; Trabajo artesanal cuidadoso a lo largo de todo el proceso; Para compartir o regalar a quienes disfrutan del chocolate con licor
+- Para compartir o regalar a quienes disfrutan del chocolate con licor
+- Elaborado por maestros chocolateros suizos con cacao puro e ingredientes seleccionados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B003ZYT51I{{</world>}}

@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - 5 Especias Chinas es una mezcla intensa y aromática típica de la cocina de la región china de Sichuan. El aroma recuerda notas de regaliz debido a la presencia de la semilla de hinojo. El clavo y la pimienta de Sichuan, por su parte, aportan notas picantes y refrescantes.
 - Bembo ha abierto el cofre del tesoro más preciado para ofrecerle las mezclas de especias más raras y secretas que el hombre ha sabido conservar a lo largo de los milenios que han caracterizado su historia. En estas preciosas recetas se esconden los secretos de grandes civilizaciones que han dominado inmensas áreas geográficas, pero también pequeños misterios ligados a un momento, a un encuentro, a un instante vivido con gran intensidad.
-- Ideal para aromatizar carnes saladas y grasas: costillas de cerdo, panceta y paletilla de cerdo, pechuga de pato o sobre pollo o carnes generalmente destinadas a la parrilla.
 - Sin glutamatos, antiaditivos, colorantes ni otros productos químicos, conservado en el nuevo tarro negro antioxidante.
+- Ideal para aromatizar carnes saladas y grasas: costillas de cerdo, panceta y paletilla de cerdo, pechuga de pato o sobre pollo o carnes generalmente destinadas a la parrilla.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CC31RX86{{</world>}}

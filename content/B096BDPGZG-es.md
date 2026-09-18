@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cereales Cheerios Nestlé, con Nutriscore A
-- Cereales Nestle Cheerios Avena, con 90% de avena integral
 - Sabor delicioso, genial para toda la familia, con leche caliente o fría
+- Cereales Nestle Cheerios Avena, con 90% de avena integral
+- Cereales Cheerios Nestlé, con Nutriscore A
 - Cereales integrales de desayuno, sin colorantes ni aromas artificiales
 - Cereales de desayuno con avena, rico en fibra, vitaminas y minerales
 

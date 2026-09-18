@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fuentes naturales de omega 6 y 3 para una piel y un pelaje sanos; calcio para reforzar/ayudar a mantener unos huesos fuertes
-- Sin saborizantes ni colorantes artificiales, sin OGM; alcance de la entrega: 1 x 12 kg
-- Alimento seco para perros (1+ años) para digestión sensible, con arroz fácil de digerir, para perros con estómagos sensibles
 - Creado para perros con estómagos sensibles; prebióticos FOS y MOS, butirato y pulpa de remolacha para favorecer una digestión saludable
+- Sin saborizantes ni colorantes artificiales, sin OGM; alcance de la entrega: 1 x 12 kg
+- Fuentes naturales de omega 6 y 3 para una piel y un pelaje sanos; calcio para reforzar/ayudar a mantener unos huesos fuertes
+- Alimento seco para perros (1+ años) para digestión sensible, con arroz fácil de digerir, para perros con estómagos sensibles
 - Una forma de croqueta especial que, junto con la tecnología DentaDefense, ayuda a mantener los dientes limpios y sanos; rico en pollo que ayuda a fomentar una musculatura compacta
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideales para acompañar con verduras salteadas o con una sopa
-- Vegetariano
 - Vegano
+- Ideales para acompañar con verduras salteadas o con una sopa
 - El paquete puede variar
+- Vegetariano
 - País de origen: China
 - Los beneficios más conocidos de este producto es que ayuda a la pérdida de peso, disminución del colesterol, control de la diabetes y la regulación gastrointestinal
 

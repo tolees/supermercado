@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- TEXTURA GEL REFRESCANTE: Se funde con la piel sin dejar sensación grasa ni pegajosa
+- FÓRMULA CON +2% NIACINAMIDA: Ayuda a mejorar la textura de la piel, aportando suavidad y frescor inmediato
+- PREBASE FACIAL: Prepara la piel para una aplicación de maquillaje más uniforme y duradera
 - PIEL MÁS SUAVE: Deja el rostro con una sensación sedosa, ideal como base de maquillaje
 - DIFUMINACIÓN INSTANTÁNEA: Suaviza poros e imperfecciones para un acabado uniforme y natural
-- PREBASE FACIAL: Prepara la piel para una aplicación de maquillaje más uniforme y duradera
-- FÓRMULA CON +2% NIACINAMIDA: Ayuda a mejorar la textura de la piel, aportando suavidad y frescor inmediato
-- TEXTURA GEL REFRESCANTE: Se funde con la piel sin dejar sensación grasa ni pegajosa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DGQS2WKS{{</world>}}

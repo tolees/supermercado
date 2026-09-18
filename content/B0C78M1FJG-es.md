@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- FORMATO: 1kg - (1000g)
-- NOTAS SENSORIALES GOURMET: Despierta tus sentidos con un ramo aromático único con notas dulces de cacao, jarabe de malta y vainilla. Estos sabores refinados crean una textura aterciopelada que eleva tu rutina diaria de café
 - CALIDAD 100% ARÁBICA PREMIUM: Disfruta del máximo lujo en café con una mezcla elaborada exclusivamente a partir de granos de Arábica de alta calidad. Esta meticulosa selección garantiza un sabor preciado y un Espresso superior constante
+- FORMATO: 1kg - (1000g)
 - RITUAL DEL Espresso NAPOLITANO AUTÉNTICO: Caffè Borbone lleva el alma de Nápoles a tu hogar con una marca dedicada a preservar los antiguos secretos del café italiano. Nuestra mezcla 100% Arábica representa la cumbre de nuestra experiencia en el tueste
 - PERFIL AROMÁTICO Y REFINADO: Disfruta de una intensidad sofisticada de 6/10 que deleita el paladar. Esta mezcla está diseñada específicamente para los amantes del café que buscan una experiencia delicada, equilibrada y suave cada día
+- NOTAS SENSORIALES GOURMET: Despierta tus sentidos con un ramo aromático único con notas dulces de cacao, jarabe de malta y vainilla. Estos sabores refinados crean una textura aterciopelada que eleva tu rutina diaria de café
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C78M1FJG{{</world>}}

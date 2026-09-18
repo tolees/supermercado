@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Cuca es sinónimo de conservas de pescado de alta calidad, ofreciendo un producto gourmet que satisface los paladares más exigentes.
 - Perfectas para cualquier ocasión, las sardinas Cuca son un producto gourmet que destaca por su autenticidad y excelencia.
-- Comprometidos con la pesca responsable, las conservas Cuca garantizan prácticas sostenibles que respetan el medio ambiente.
 - Disfruta de las auténticas sardinas en conserva Cuca, cuidadosamente elaboradas para mantener todo su sabor y frescura.
 - Con más de un siglo de experiencia, Cuca combina tradición y calidad en cada lata, asegurando sardinas premium con un sabor incomparable.
+- Comprometidos con la pesca responsable, las conservas Cuca garantizan prácticas sostenibles que respetan el medio ambiente.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09TBF2YFC{{</world>}}

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Uso Diario: su formato en lata de 65 g lo convierte en un aliado versátil para comidas y cenas ligeras; ideal para ensaladas, bocadillos, tostas o recetas rápidas de picoteo
-- Calidad y Beneficios: rico en proteínas y elaborado a partir de atún claro de calidad, una conserva de pescado equilibrada y nutritiva, pensada para quienes buscan cuidarse sin renunciar al sabor
-- Albo: desde 1869, elaboramos conservas con materias primas seleccionadas y los más altos estándares de calidad para conservar lo bueno del mar; más que una lata, es una forma de vivir
-- Ingredientes: filetes de atún seleccionados y aceite de oliva virgen extra, una elaboración cuidada que realza el sabor natural del pescado, sin gluten y sin conservantes añadidos
 - Atún Claro en Aceite de Oliva Virgen Extra: 100% lomo de atún de alta calidad; Albo selecciona atunes medianos sin congelaciones adicionales para un sabor y calidad óptimos, con certificación IFS
+- Calidad y Beneficios: rico en proteínas y elaborado a partir de atún claro de calidad, una conserva de pescado equilibrada y nutritiva, pensada para quienes buscan cuidarse sin renunciar al sabor
+- Ingredientes: filetes de atún seleccionados y aceite de oliva virgen extra, una elaboración cuidada que realza el sabor natural del pescado, sin gluten y sin conservantes añadidos
+- Albo: desde 1869, elaboramos conservas con materias primas seleccionadas y los más altos estándares de calidad para conservar lo bueno del mar; más que una lata, es una forma de vivir
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B076DFK6J5{{</world>}}

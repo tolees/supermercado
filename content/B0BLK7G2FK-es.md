@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pack de 4 cervezas de La Sagra + 1 vaso de regalo
-- Pack de 4 botellas + vaso de regalo
-- 1x botella de 33cl de La Sagra Flanders (Blanca de Trigo)
 - 1x botella de 33cl de La Sagra Castiza (Rubia - Blonde Ale)
-- 1x botella de 33cl de La Sagra Criolla (Tostada)
+- Pack de 4 botellas + vaso de regalo
 - 1x botella de 33cl de La Sagra India (IPA)
+- 1x botella de 33cl de La Sagra Criolla (Tostada)
+- 1x botella de 33cl de La Sagra Flanders (Blanca de Trigo)
+- Pack de 4 cervezas de La Sagra + 1 vaso de regalo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BLK7G2FK{{</world>}}

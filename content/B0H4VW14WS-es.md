@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- NUTRICIÓN QUE SE SIENTE DIVINA: Con extracto de coco, este acondicionador hidrata el cabello dejándolo suave y liso
-- IMPULSO PARA EL CABELLO DE FORMA NATURAL: Maximiza la hidratación de tu cabello con la colección completa de Herbal Essences Fiji, que incluye champú, acondicionador y sérum
-- NUTRE TU CABELLO, MENTE Y ALMA: Una fórmula sensorial que cuida tu cabello mientras transporta tu mente a la dicha de Fiji
 - HIDRATACIÓN LIGERA: Desenredante proporciona hidratación ligera para un cabello suave y fluido
+- NUTRE TU CABELLO, MENTE Y ALMA: Una fórmula sensorial que cuida tu cabello mientras transporta tu mente a la dicha de Fiji
+- IMPULSO PARA EL CABELLO DE FORMA NATURAL: Maximiza la hidratación de tu cabello con la colección completa de Herbal Essences Fiji, que incluye champú, acondicionador y sérum
 - MEJORANDO EL ÁNIMO DE FORMA NATURAL: Deja que el aroma a coco te transporte a un paraíso de libertad y te ayude a sentirte renovado
+- NUTRICIÓN QUE SE SIENTE DIVINA: Con extracto de coco, este acondicionador hidrata el cabello dejándolo suave y liso
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0H4VW14WS{{</world>}}

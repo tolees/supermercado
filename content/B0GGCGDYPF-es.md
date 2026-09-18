@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- ✅ VEGANAS Y SIN GLUTEN: nuestras almendras tostadas son aptas para dietas veganas, vegetarianas y sin gluten
 - ✅ El envase del producto está sujeto a posibles cambios.
 - ✅ FRUTO SECO SALUDABLE: las amendras tostadas con piel, además de no tener sal, no contienen ningún conservante ni aditivo añadido
 - ✅ DELICIOSAS y SIN SAL: gracias al tostado justo que se le han dado a estas almendras, disfrutarás de un sabor más intenso y sabroso
 - ✅ ACOMPÁÑALA EN TUS RECETAS: las almendras tostadas también puedes disfrutarlas como complemento a tus ensaladas, batidos o postres, además de ser un snack perfecto para tus almuerzos y meriendas.
-- ✅ VEGANAS Y SIN GLUTEN: nuestras almendras tostadas son aptas para dietas veganas, vegetarianas y sin gluten
 - ✅ ENVASES 100 % RECICLABLES: contribuimos con el cuidado del medio ambiente lanzando envases de papel 100 % reciclable, además de ser un formato ahorro.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

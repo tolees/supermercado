@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ayuda al crecimiento de las pestañas.
-- Previene la rotura y la caída del cabello.
 - Espesa y alarga.
+- Ayuda al crecimiento de las pestañas.
 - Deja las pestañas fuertes.
+- Previene la rotura y la caída del cabello.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00QVFZ5WG{{</world>}}

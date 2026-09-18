@@ -32,9 +32,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Con un 5% de alcohol en volumen, el barril de Heineken Original te brinda su gran sabor y cuerpo.
 - Descubre Heineken Original, elaborada para ser la mejor desde 1983.
 - Elaborada con: agua, malta de cebada y lúpulo junto a la exclusiva levadura-A de Heineken.
-- Elaborada con un proceso natural, disfruta de la cerveza más emblemática del mundo vayas donde vayas.
 - Heineken Original, una emblemática cerveza color amarillo brillante y una espuma blanca consistente. Con sabor equilibrado y un final fresco y amargo que la convierte en la ideal para cualquier situación.
 - Consumirla entre 0° y 3°C para obtener sus máximas cualidades.
+- Elaborada con un proceso natural, disfruta de la cerveza más emblemática del mundo vayas donde vayas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00OM57YSK{{</world>}}

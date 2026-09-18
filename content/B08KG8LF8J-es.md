@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Su aroma nos recuerda a la fruta negra madura, incluidas las uvas, en cualquier caso equilibrado y dulce, rico
 - Estará óptimo fresco, entre 10 y 12ºC
+- Su aroma nos recuerda a la fruta negra madura, incluidas las uvas, en cualquier caso equilibrado y dulce, rico
 - Color atractivo, capa violeta como su nombre indica, joven y fresco, natural y explosivo
 - Sabor suave, sedoso, de película continua, envolvente y delicado; invita a descubrir más, sin fatigar, en fin, una delicia
 

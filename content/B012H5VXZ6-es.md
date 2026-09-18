@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Receta formulada sin azúcar en una bolsita con cierre hermético para conservar sus cualidades
 - Sabrosos bocaditos horneados, semihúmedos y extra carnosos con más del 70% de contenido en carne y enriquecido con queso.
 - Con una agradable textura y altamente palatable para los gatos gracias a su relleno.
+- Receta formulada sin azúcar en una bolsita con cierre hermético para conservar sus cualidades
 - Recomendación de empleo: como snack entre comidas. No administrar más de 5 piezas al día
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Nestlé KitKat chocolate con leche, la mejor excusa para tomarse un RESPIRO
-- Contiene 24 packs de 3 unidades de KITKAT individual 24(3 x 41.5 g)
 - 4 deliciosas barritas de crujiente galleta recubierta de suave chocolate con leche
+- Contiene 24 packs de 3 unidades de KITKAT individual 24(3 x 41.5 g)
+- Tómate un respiro y recarga pilas con KITKAT, donde y cuando quieras
 - 100% cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan Certificado UTZ
 - 100% aromas naturales
-- Tómate un respiro y recarga pilas con KITKAT, donde y cuando quieras
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07B114TCH{{</world>}}

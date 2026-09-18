@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseñado para ayudar a proteger la nariz de enrojecimiento en los periodos más congestionados como los resfriados y gripe
-- Los pañuelos Scottex están fabricados con papel certificado FSC (procedente de fuentes gestionadas de forma responsable)
-- Dermatológicamente probado
 - Calmante y emoliente
+- Diseñado para ayudar a proteger la nariz de enrojecimiento en los periodos más congestionados como los resfriados y gripe
+- Dermatológicamente probado
+- Los pañuelos Scottex están fabricados con papel certificado FSC (procedente de fuentes gestionadas de forma responsable)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08CP4THZK{{</world>}}

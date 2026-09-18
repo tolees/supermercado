@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Galletas Sin Gluten Gullón Hookies Mini Sharkies 160g 4x40g'
-date: 2026-09-05 19:36:21
+date: 2026-09-17 15:26:47
 image: 'https://m.media-amazon.com/images/I/51OVJYRLRbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0DM6K21Y4-es Galletas Sin Gluten Gullón Hookies Mini Sharkies 160g 4x40g'
 sku: 'B0DM6K21Y4-es'
 tags: [ 'gluten','gullón','sin','🇪🇸', ]
-actualPrice: 1.49 EUR
+actualPrice: 1.0 EUR
 currency: EUR
-price: 1.49
+price: 1.0
 comparePrice: 1.69 EUR
 prodname: 'Galletas Sin Gluten Gullón Hookies Mini Sharkies 160g 4x40g'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DM6K21Y4/?tag=tolees-21'
-descuento: '11.83'
-average: '1.09538461538463'
+descuento: '40.83'
+average: '1.08857142857145'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Elaboradas en España por Galletas Gullón
-- en 4 cómodas bolsitas para llevar donde quieras
-- Sin gluten, sin lactosa, sin proteínas de la leche, sin frutos secos y sin huevo.
-- elaboradas con aceite de girasol alto oleico SIN aceite de palma
-- veganas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DM6K21Y4{{</world>}}

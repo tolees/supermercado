@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contribuye al mantenimiento de la masa muscular
 - Apto para gatos de 1 a 12 años
-- Bocaditos en salsa para gatos esterilizados con Bacalao
-- 12 sobres de 85g
 - Contribuye al control del peso
+- Bocaditos en salsa para gatos esterilizados con Bacalao
+- Contribuye al mantenimiento de la masa muscular
+- 12 sobres de 85g
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BZDWSX5M{{</world>}}

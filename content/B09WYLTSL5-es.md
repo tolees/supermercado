@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto de calidad óptima
 - Con activador de la melanina
+- Producto de calidad óptima
 - Fácil de aplicar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

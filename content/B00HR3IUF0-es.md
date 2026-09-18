@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adecuado para piel grasa o mixta, libre de aceite, no comedogenico, resistente al agua
-- Hipoalergénico, formulado para minimizar los posibles riesgos de alergia, probado dermatológicamente y oftalmológicamente
-- Protección muy alta (SPF50+) UVA y UVB, color bronce, sin perfume
 - Unifica el tono de la piel y aporta un acabado natural que disimula las imperfecciones
+- Protección muy alta (SPF50+) UVA y UVB, color bronce, sin perfume
+- Hipoalergénico, formulado para minimizar los posibles riesgos de alergia, probado dermatológicamente y oftalmológicamente
+- Adecuado para piel grasa o mixta, libre de aceite, no comedogenico, resistente al agua
 - Hidratante, contiene vitamina E de acción antioxidante, con esponja apta para pieles sensibles
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

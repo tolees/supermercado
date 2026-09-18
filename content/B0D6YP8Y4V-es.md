@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dermatológicamente testado incluso en pieles delicadas. No comedogénico
 - Se absorbe al instante para dejar la piel aterciopelada
 - Una fórmula mejorada y funcional enriquecida con ácido hialurónico, extracto de granada italiana de origen sostenible y extractos de magnolia, flor de loto azul y rosa
 - Tras la aplicación, el cutis luce hidratado, limpio, luminoso y suave al tacto.
+- Dermatológicamente testado incluso en pieles delicadas. No comedogénico
 - Una textura acuosa, ligera y confortable sobre el rostro que hidrata, refresca y mima la piel con un efecto suavizante
 
 [🛒 Comprar!!!]({{< param buyurl >}})

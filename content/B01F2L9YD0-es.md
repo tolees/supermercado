@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PIRÁMIDE OLFATIVA: Notas de salida: bergamota, pomelo. Notas de corazón: lavanda, flor del naranjo africano, cedro de Virginia. Notas de fondo: vetiver, almizcle, pachulí.
-- REGALO PERFECTO PARA MUJER: Este perfume de Tous es ideal para regalar en cumpleaños, San Valentín, Día de la Madre o Navidad; diseño atractivo que combina lujo y feminidad.
-- TENDENCIA OLFATIVA: Fragancia de mujer con equilibrio perfecto entre frescura y sofisticación, ideal para quienes buscan un perfume duradero que acompañe todo el día sin resultar pesado.
-- TOUS: Perfume original de Tous, firma icónica en joyería y fragancias, sinónimo de calidad, elegancia y diseño exclusivo desde 1920.
 - PERFUME VERSÁTIL: Ideal como perfume mujer diario o para ocasiones especiales; su aroma elegante y femenino se adapta a cualquier momento y estación del año.
+- TOUS: Perfume original de Tous, firma icónica en joyería y fragancias, sinónimo de calidad, elegancia y diseño exclusivo desde 1920.
+- REGALO PERFECTO PARA MUJER: Este perfume de Tous es ideal para regalar en cumpleaños, San Valentín, Día de la Madre o Navidad; diseño atractivo que combina lujo y feminidad.
 - FRAGANCIA FLORAL AMADERADA ALMIZCLADA: Descubre Tous LEau Eau de Toilette, un perfume de mujer fresco y optimista; creado para disfrutar y vivir con ilusión cada momento.
+- TENDENCIA OLFATIVA: Fragancia de mujer con equilibrio perfecto entre frescura y sofisticación, ideal para quienes buscan un perfume duradero que acompañe todo el día sin resultar pesado.
+- PIRÁMIDE OLFATIVA: Notas de salida: bergamota, pomelo. Notas de corazón: lavanda, flor del naranjo africano, cedro de Virginia. Notas de fondo: vetiver, almizcle, pachulí.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01F2L9YD0{{</world>}}

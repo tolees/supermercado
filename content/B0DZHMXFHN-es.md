@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Neutrogena Crema de Manos Concentrada con Perfume 50 ml crema de manos reparadora para pieles sensibles crema para manos agrietadas y secas con glicerina y vitamina E Paquete de 3'
-date: 2026-09-13 21:22:47
+date: 2026-09-17 14:37:58
 image: 'https://m.media-amazon.com/images/I/41VdiYEa1VL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DZHMXFHN/?tag=tolees-21'
 descuento: '70.77'
-average: '6.5664'
+average: '6.58666666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

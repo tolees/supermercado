@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pueden añadirse a todas las coladas, con todo tipo de tejidos
 - Sin colorantes
+- Pueden añadirse a todas las coladas, con todo tipo de tejidos
 - Perlas de perfume con un frescor suave y duradero
 - Vierte las perlas de perfume para el lavado directamente en el tambor vacío de la lavadora antes de lavar la ropa
 - Testado dermatológicamente

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Formato Pulverizador de 100 ml.
-- Apto para recién nacidos.
 - Fórmula específica para respetar la piel del bebé testada dermatológicamente.
+- Formato Pulverizador de 100 ml.
 - Bajo contenido en alcohol y +90% ingredientes de origen natural.
+- Apto para recién nacidos.
 - Con agentes hidratantes.
 - Agua de Perfume perfecta para perfumar, cuidar y mimar a diario la piel del bebé.
 

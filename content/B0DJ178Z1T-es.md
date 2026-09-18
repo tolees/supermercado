@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fairy Original TodoEn1 Cápsulas Lavavajillas Máquina Limón 5x41 Cápsulas'
-date: 2026-09-15 19:37:36
+date: 2026-09-18 14:50:42
 image: 'https://m.media-amazon.com/images/I/51+s+ACGA5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DJ178Z1T/?tag=tolees-21'
 descuento: '34.79'
-average: '30.5536842105264'
+average: '30.5255000000001'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

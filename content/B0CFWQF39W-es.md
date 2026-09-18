@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Revise el símbolo PAO
-- Fragancia personal
 - Agradable sensación en la piel
+- Fragancia personal
+- Revise el símbolo PAO
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CFWQF39W{{</world>}}

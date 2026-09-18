@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Color durante todo el día
-- Velvet Contour Lip Liner de Bourjois delinea y define los labios con la precisión y claridad que se merecen; su fórmula fundente es fácil de aplicar e incluye los beneficios naturales
-- Su textura mate y cremosa se desliza fácilmente sin correrse
 - La siguiente información se aplica a cada unidad del paquete
+- Velvet Contour Lip Liner de Bourjois delinea y define los labios con la precisión y claridad que se merecen; su fórmula fundente es fácil de aplicar e incluye los beneficios naturales
 - Encuentra el tono adecuado para combinar perfectamente con tu Velvet The Lipstick favorito para crear un acabado ideal de labios Bourjois
 - Formulado con ingredientes naturales, manteca de karité y el aceite de pepitas de uva
+- Color durante todo el día
+- Su textura mate y cremosa se desliza fácilmente sin correrse
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0G58MFJHL{{</world>}}

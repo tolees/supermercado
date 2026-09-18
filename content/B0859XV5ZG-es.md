@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aporta luminosidad
 - Producto de calidad óptima
+- Aporta luminosidad
 - Fácil de aplicar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

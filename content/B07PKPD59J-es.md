@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tiene un aroma bien equilibrado de los cítricos y la energía de salvia y la albahaca
 - Antitranspirante en aerosol Rexona Men
 - Protege de la sudoración y el olor
+- Tiene un aroma bien equilibrado de los cítricos y la energía de salvia y la albahaca
 - Protección para 48 horas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

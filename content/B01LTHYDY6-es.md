@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fuente de fibra.
 - Producto tradicional de la cocina italiana, una vez cocido se puede degustar caliente acompañado de alguna salsa o frio, en ensaladas.
-- Ingredientes: Sémola integral de TRIGO duro (origen UE y fuera UE).
-- Pasta alimenticia a base de sémola integral de trigo duro en forma de hélices.
 - Alérgenos: TRIGO.
+- Pasta alimenticia a base de sémola integral de trigo duro en forma de hélices.
+- Ingredientes: Sémola integral de TRIGO duro (origen UE y fuera UE).
+- Fuente de fibra.
 - Cocción al dente en 10 minutos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

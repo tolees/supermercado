@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fuente de calcio, vitamina D y proteinas
 - Fuente de calcio, vitaminas A y D y proteinas. El calcio y las Vitaminas A y D son necesarios para el cremiento y el desarrollo normal de los huesos en los niños. Las proteinas contribuyen a conservar la masa muscular.
+- Fuente de calcio, vitamina D y proteinas
 - 90% de leche
 - Sin glueten
 - On the go

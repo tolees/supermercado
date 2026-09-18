@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Variedad multicolor para grandes y pequeños
-- Los PECES PAYASO son los clásicos caramelos de goma con forma de pez payaso de distintos colores, que combinan una irresistible textura y un fabuloso sabor a multifrutas. ¡Disfruta con los clásicos de siempre! Entra en un mundo acuático lleno de color y emoción ¡Momentos Haribo que te hacen feliz!
 - Disfruta con alegría y diversión.
+- Los PECES PAYASO son los clásicos caramelos de goma con forma de pez payaso de distintos colores, que combinan una irresistible textura y un fabuloso sabor a multifrutas. ¡Disfruta con los clásicos de siempre! Entra en un mundo acuático lleno de color y emoción ¡Momentos Haribo que te hacen feliz!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJQVWX6C{{</world>}}

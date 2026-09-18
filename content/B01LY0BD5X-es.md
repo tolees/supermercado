@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Kit de lujo - Este kit barba para hombre vintage viene en un paquete de metal y combina un trío de productos icónicos de Proraso formulados para un afeitado refrescante
-- Jabón afeitar - Enriquecido con aceite de eucalipto y mentol, el jabón se transforma en una espuma suave y rica espuma que refresca y tonifica la piel
-- Crema de preafeitado - Enriquecida con aceite de eucalipto y mentol, esta crema de afeitar concentrada para hombres suaviza la barba y prepara la piel para un afeitado impecable
 - Bálsamo barba para después del afeitado - Gracias al aceite de eucalipto y al mentol, este bálsamo ayuda a mejorar la hidratación y recuperación de la piel después del afeitado
 - Diseño vintage - Con ilustraciones de inspiración retro de anuncios clásicos de Proraso, este kit barba para un afeitado de lujo es la idea perfecta de regalo para hombre
+- Crema de preafeitado - Enriquecida con aceite de eucalipto y mentol, esta crema de afeitar concentrada para hombres suaviza la barba y prepara la piel para un afeitado impecable
+- Jabón afeitar - Enriquecido con aceite de eucalipto y mentol, el jabón se transforma en una espuma suave y rica espuma que refresca y tonifica la piel
+- Kit de lujo - Este kit barba para hombre vintage viene en un paquete de metal y combina un trío de productos icónicos de Proraso formulados para un afeitado refrescante
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01LY0BD5X{{</world>}}

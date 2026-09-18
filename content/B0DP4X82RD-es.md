@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Un consumo excesivo puede producir efectos laxantes; Contiene una fuente de fenilalanina
 - Su intenso frescor y sabor te ayudará a refrescarte en cualquier momento del día.
+- Un consumo excesivo puede producir efectos laxantes; Contiene una fuente de fenilalanina
 - La siguiente información se aplica a cada unidad del paquete
-- Caja de 20 sticks de caramelos con práctico formato bolsillo para tomártelos donde y cuando quieras
 - Caramelos duros Halls con sabor a eucalipto; Con edulcorantes, sin azúcar
+- Caja de 20 sticks de caramelos con práctico formato bolsillo para tomártelos donde y cuando quieras
 - Conservar en lugar fresco y seco
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Boca: tras una entrada fina y aterciopelada, las notas complejas de los frutos negros silvestres se abren paso con sus matices suaves, intensos, agridulces, culminando con el ligerísimo toque característico de la canela
-- Nariz: destacan las notas frutales de la mora subrayadas por finos recuerdos a caramelo de violeta, sobre un fondo fresco y cítrico
-- Como tomarla: 5 cl de Puerto de Indias Blackberry; 20 cl de tu refresco de lima limón o tónica; moras y ramitas de canela; hielo
-- Vista: apariencia blanca traslucida
 - Gin Puerto de Indias Exótica
+- Nariz: destacan las notas frutales de la mora subrayadas por finos recuerdos a caramelo de violeta, sobre un fondo fresco y cítrico
+- Boca: tras una entrada fina y aterciopelada, las notas complejas de los frutos negros silvestres se abren paso con sus matices suaves, intensos, agridulces, culminando con el ligerísimo toque característico de la canela
+- Vista: apariencia blanca traslucida
+- Como tomarla: 5 cl de Puerto de Indias Blackberry; 20 cl de tu refresco de lima limón o tónica; moras y ramitas de canela; hielo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CNW6NCYP{{</world>}}

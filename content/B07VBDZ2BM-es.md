@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- MODO DE USO: Úsalo a tu gusto, en tostadas, repostería…
 - Mermelada hecha como en casa, con trocitos de fruta y endulzada con sirope de agave. Hechas con ingredientes seleccionados de la agricultura ecológica e inspiradas en recetas tradicionales
 - ETIQUETAS: Este producto es apto para veganos y celíacos
+- MODO DE USO: Úsalo a tu gusto, en tostadas, repostería…
 - PROPIEDADES: Están inspiradas en las recetas tradicionales y partiendo de unas materias primas de máxima calidad
-- MERMELADAS. Arándanos, Frambuesas, Fresas, Moras, Sirope de agave, Zumo de limón procedentes de la Agricultura Ecológica
 - BENEFICIOS: Con trozos de fruta endulzados con sirope de agave y cocidos en un proceso sencillo
+- MERMELADAS. Arándanos, Frambuesas, Fresas, Moras, Sirope de agave, Zumo de limón procedentes de la Agricultura Ecológica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07VBDZ2BM{{</world>}}

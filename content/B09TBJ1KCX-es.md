@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Berberechos mariscados de forma artesanal en las rías
 - Acompañados de una deliciosa salsa en su jugo al natural que realza el sabor para el aperitivo más gourmet
-- Garantía Cuca desde 1932
 - Ingredientes: Berberechos, agua, cebolla, sal y antioxidantes (ácido cítrico, ácido ascórbico y AEDT).
 - Elaborados de forma artesanal, cuidadosa limpieza manual uno a uno y colocados en la lata
+- Garantía Cuca desde 1932
+- Berberechos mariscados de forma artesanal en las rías
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09TBJ1KCX{{</world>}}

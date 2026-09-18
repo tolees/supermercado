@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CUIDADO CAPILAR: Equilibra y protege el cabello y el cuero cabelludo. Para mejores resultados, úsalo con la mascarilla CALM Sensitive.
-- CHAMPÚ: Un champú limpiador purificante diseñado para limpiar el cabello y el cuero cabelludo sensibles.
 - INGREDIENTES: Formulado con alantoína para ayudar a calmar y suavizar el cabello y el cuero cabelludo.
-- CABELLO Y CUERO CABELLUDO SALUDABLES: Fórmula suave y sin fragancia para la piel, ideal para pieles sensibles.
+- CHAMPÚ: Un champú limpiador purificante diseñado para limpiar el cabello y el cuero cabelludo sensibles.
 - FÓRMULA ENERGIZANTE: Fórmula refrescante y calmante de Wella Professionals que alivia suavemente los cueros cabelludos sensibles.
+- CUIDADO CAPILAR: Equilibra y protege el cabello y el cuero cabelludo. Para mejores resultados, úsalo con la mascarilla CALM Sensitive.
+- CABELLO Y CUERO CABELLUDO SALUDABLES: Fórmula suave y sin fragancia para la piel, ideal para pieles sensibles.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CH9DKHSC{{</world>}}

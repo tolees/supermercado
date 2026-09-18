@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B iO 5 Cepillo de Dientes Eléctrico con 1 Cabezal Negro'
-date: 2026-09-16 10:10:34
+date: 2026-09-18 09:48:38
 image: 'https://m.media-amazon.com/images/I/51ILGuROHzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,13 +12,13 @@ tags: [ 'cepillo','de','dientes','🇪🇸', ]
 actualPrice: 119.94 EUR
 currency: EUR
 price: 119.94
-comparePrice: 179.95 EUR
+comparePrice: 119.94 EUR
 prodname: 'Oral-B iO 5 Cepillo de Dientes Eléctrico con 1 Cabezal Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F1G8GNND/?tag=tolees-21'
-descuento: '33.35'
+descuento: '0.00'
 average: '119.94'
 ---
 

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Variedad de uva: verdejo
-- Servir frío, a una temperatura de 6-8ºC
 - Maridaje: Pescado y marisco fresco, pastas y arroces, quesos y carnes blancas.
-- Vino blanco D.O. Rueda
 - Vino afrutado e intenso, con un paladar equilibrado y un delicado final a hinojo.
+- Variedad de uva: verdejo
+- Vino blanco D.O. Rueda
+- Servir frío, a una temperatura de 6-8ºC
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00CW9KGAG{{</world>}}

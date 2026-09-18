@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🎃 IDEAL PARA: Fiestas de cumpleaños, Navidad, Halloween, fiestas temáticas u otras ocasiones especiales. Nuestras piruletas Zombie LokoPop también son perfectas para incluirlas en piñatas y candy bar
-- 🪅 SABORES VARIADOS: Las piruletas YokoPop de Cerdán tienen sabor a cereza, cola, frutas del bosque y manzana, una auténtica delicia para el paladar de niños y adultos. Perfectas para compartir con amigos y familiares
 - 🧟 PIRULETA ZOMBIE LOKOPOP: Piruleta redonda pintalenguas de sabores surtidos. Elaborada con colorantes naturales y libre de alérgenos. Se presenta en un cubo con forma de cabeza de zombie contiene 175 piruletas
-- 🚫 LIBRE DE ALÉRGENOS: Nuestros caramelos se fabrican en una fábrica que combina las más modernas tecnologías con la imaginación y el cuidado artesanal; sin gluten, lactosa, huevo, trazas de pescado o frutos secos
 - 💯 CARAMELOS CERDÁN: Es una empresa familiar líder en Europa en la fabricación de caramelo duro con una amplia gama de productos para niños y adultos. Fundada en 1914, lleva más 100 años endulzando paladares por todo el mundo
+- 🚫 LIBRE DE ALÉRGENOS: Nuestros caramelos se fabrican en una fábrica que combina las más modernas tecnologías con la imaginación y el cuidado artesanal; sin gluten, lactosa, huevo, trazas de pescado o frutos secos
+- 🪅 SABORES VARIADOS: Las piruletas YokoPop de Cerdán tienen sabor a cereza, cola, frutas del bosque y manzana, una auténtica delicia para el paladar de niños y adultos. Perfectas para compartir con amigos y familiares
+- 🎃 IDEAL PARA: Fiestas de cumpleaños, Navidad, Halloween, fiestas temáticas u otras ocasiones especiales. Nuestras piruletas Zombie LokoPop también son perfectas para incluirlas en piñatas y candy bar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09FYB5J6Y{{</world>}}

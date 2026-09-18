@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- No contiene gluten
 - Preparado para rebozados
+- Conservar en un lugar fresco y seco
 - Da una textura crujiente
 - Con un cierra fácil
-- Conservar en un lugar fresco y seco
+- No contiene gluten
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07JGJ28LN{{</world>}}

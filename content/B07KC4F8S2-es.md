@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aceitunas estilo Gazpacha partidas y con hueso, de la variedad manzanilla. Cada bocado te transporta a los sabores tradicionales de la cocina casera
-- Presentadas en un tarro reutilizable de cristal con tapadera de rosca, no solo garantizamos la frescura y calidad del producto, sino que también apostamos por la sostenibilidad
 - Las aceitunas son un alimento versátil que puede disfrutarse de diversas maneras, como combinadas con aperitivos, en ensaladas, como ingrediente de platos principales o incluso en cócteles
+- Aceitunas estilo Gazpacha partidas y con hueso, de la variedad manzanilla. Cada bocado te transporta a los sabores tradicionales de la cocina casera
 - La combinación de ajo, vinagre y el pimentón, realzada por el toque picante de guindilla, se entrelaza con la frescura y firmeza de las aceitunas manzanilla
+- Presentadas en un tarro reutilizable de cristal con tapadera de rosca, no solo garantizamos la frescura y calidad del producto, sino que también apostamos por la sostenibilidad
 - Las aceitunas, además de ser una delicia culinaria, ofrecen una variedad de beneficios para la salud gracias a su composición nutricional única, siendo ricas en ácidos grasos saludables, antioxidantes y hierro
 
 [🛒 Visítala!!!]({{< param buyurl >}})

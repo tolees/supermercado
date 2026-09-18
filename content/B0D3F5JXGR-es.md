@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aplicar sobre rostro y cuello limpios, mañana y noche . Usar solo o bajo el maquillaje. Aplicar protector solar.
-- Piel hidratada, poros reducidos, acabado mate. Sensación refrescante, no grasa. Rápida absorción. No comedogénico.
 - Gel-crema hidratante diario que reduce poros y controla el brillo. Con ceramidas esenciales, Ácido Hialurónico, Niacinamida y Tecnología MVE. Para pieles mixtas a grasas. Apta para pieles sensibles o con tendencia acneica.
+- Piel hidratada, poros reducidos, acabado mate. Sensación refrescante, no grasa. Rápida absorción. No comedogénico.
+- Aplicar sobre rostro y cuello limpios, mañana y noche . Usar solo o bajo el maquillaje. Aplicar protector solar.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D3F5JXGR{{</world>}}

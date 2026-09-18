@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto sometido a estrictos controles de calidad
 - Tapón: girar y listo
-- Agitar antes de servir
 - Cocidos 3 horas a fuego lente
+- Agitar antes de servir
+- Producto sometido a estrictos controles de calidad
 - Puede contener trazas de pescado, leche, crustáceos, moluscos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

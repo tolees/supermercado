@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El Gel Dermatológico Protector Inibsa contiene colágeno y lipoproteínas naturales con propiedades que mejoran la hidratación de la piel; el resultado es una piel más suave y lisa (propiedades valoradas bajo test de uso)
 - Piel cuidada e hidratada
-- El Champú Suave Inibsa (200 ml) de uso frecuente contiene Pro-vitamina B5 y Vitamina E que mantiene el cabello protegido e hidratado
-- El Gel Dermatológico Protector Inibsa puede utilizarse como Champú ya que limpia perfectamente el cabello y produce un efecto suavizante que facilita el peinado
+- El Gel Dermatológico Protector Inibsa contiene colágeno y lipoproteínas naturales con propiedades que mejoran la hidratación de la piel; el resultado es una piel más suave y lisa (propiedades valoradas bajo test de uso)
 - Hidratación corporal para toda la familia
 - Contiene: Pack de 2 Geles dermatológicos de 1L y un champú suave de 200 ml de regalo
+- El Gel Dermatológico Protector Inibsa puede utilizarse como Champú ya que limpia perfectamente el cabello y produce un efecto suavizante que facilita el peinado
+- El Champú Suave Inibsa (200 ml) de uso frecuente contiene Pro-vitamina B5 y Vitamina E que mantiene el cabello protegido e hidratado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00L7QPMHC{{</world>}}

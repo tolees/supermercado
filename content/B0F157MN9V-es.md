@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Huelas dónde huelas, hay un desodorante Rexona para ayudarte
 - Fragancia energizante
+- Huelas dónde huelas, hay un desodorante Rexona para ayudarte
+- Con 0% aluminio
 - Nuevos Desodorantes Para Todo El Cuerpo Rexona
 - La tecnología Odor Adapt te ofrece una protección de 72h frente al mal olor
-- Con 0% aluminio
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F157MN9V{{</world>}}

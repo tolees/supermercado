@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Óptima para aquellas personas con un ritmo de vida dinámico
 - Ensalada mediterránea de atún
-- Adecuado para toda la familia
 - Se debe conservar en un lugar fresco y seco
 - Disfrútala sola, o como guarnición
+- Óptima para aquellas personas con un ritmo de vida dinámico
+- Adecuado para toda la familia
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00MTF71DS{{</world>}}

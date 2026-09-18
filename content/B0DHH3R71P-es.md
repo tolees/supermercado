@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Vitamin Well Sport 002 contiene las vitaminas B6 y B12, que ayudan a reducir el cansancio y la fatiga, así como la vitamina D, que contribuye al mantenimiento de la función muscular normal.
 - Sin gas.
 - Botella de plástico 100% reciclado.
-- Vitamin Well Sport 002 es una bebida deportiva sin azúcar que contiene una combinación de electrolitos y está enriquecida con vitaminas y minerales.
 - La bebida también contiene magnesio, que apoya el metabolismo energético normal y la función muscular del cuerpo, y contribuye al equilibrio electrolítico.
+- Vitamin Well Sport 002 es una bebida deportiva sin azúcar que contiene una combinación de electrolitos y está enriquecida con vitaminas y minerales.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHH3R71P{{</world>}}

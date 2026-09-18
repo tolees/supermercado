@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Drasanvi COLLMAR Colágeno Marino Hidrolizado + Cúrcuma con Magnesio Vitamina C Ácido Hialurónico para bienestar articular y muscular |Máx. asimilación 9.355 mg/día | 300g de polvo | Sabor Vainilla'
-date: 2026-09-15 08:46:16
-image: 'https://m.media-amazon.com/images/I/41NRF+qMFML._SL500_._SL400_.jpg'
+date: 2026-09-18 10:57:27
+image: 'https://m.media-amazon.com/images/I/51mtNgQbUyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y24MG5T/?tag=tolees-21'
 descuento: '43.52'
-average: '17.213'
+average: '17.0109090909091'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

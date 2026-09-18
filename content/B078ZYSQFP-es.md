@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cabello suave, brillante y nutrido
-- Champú de calidad profesional que ayuda al control del encrespamiento hasta 72h*
-- Champú formulado con aceite de marula y keratina​
 - Champú para cabellos secos y con tendencia a encresparse​; botella 100% reciclable​
+- Champú de calidad profesional que ayuda al control del encrespamiento hasta 72h*
+- Cabello suave, brillante y nutrido
+- Champú formulado con aceite de marula y keratina​
 - Desenredo fácil​ y acabado de peluquería
 
 [🛒 Aquí!!!]({{< param buyurl >}})

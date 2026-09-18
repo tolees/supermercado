@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sudadera con capucha y cremallera completa
-- 26% poliéster
 - Ajuste regular
 - Felpa francesa en color índigo
+- Sudadera con capucha y cremallera completa
+- 26% poliéster
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B083SSWT9Z{{</world>}}

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - La siguiente información se aplica a cada unidad del paquete
-- Deliciosas piezas con forma de tubito con exterior rojo sabor Fresa recubiertos de pica e interior de pasta de azúcar sabor nata.
 - ¡Perfecto para gozar de tu momento Haribo!
 - Geles dulces
+- Deliciosas piezas con forma de tubito con exterior rojo sabor Fresa recubiertos de pica e interior de pasta de azúcar sabor nata.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0G5DCJ4C7{{</world>}}

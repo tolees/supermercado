@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'REVLON ColorStay Xtensionnaire Máscara alargadora 201 Blackest Black'
-date: 2026-09-16 16:04:58
+date: 2026-09-17 18:01:53
 image: 'https://m.media-amazon.com/images/I/41SKtiK9t4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CX2T8BMG/?tag=tolees-21'
 descuento: '42.49'
-average: '8.24333333333333'
+average: '7.902'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

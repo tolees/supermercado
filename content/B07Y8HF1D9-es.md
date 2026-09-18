@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Color rojo brillante profundo con matices púrpuras
-- En boca es suave y amable, c
 - El paladar equilibrado, armónico y de gran persistencia
-- Notas elegantes de coco y vainilla
 - Con uvas de la variedad Malbec
+- En boca es suave y amable, c
+- Notas elegantes de coco y vainilla
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07Y8HF1D9{{</world>}}

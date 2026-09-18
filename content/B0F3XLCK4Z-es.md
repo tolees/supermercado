@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Formato ideal para compartir
-- Mini Dinosaurus con Chocolate Blanco
 - Llévalos a donde quieras
+- Mini Dinosaurus con Chocolate Blanco
 - Con cierre ZIP para una mejor conservación
 
 [🛒 Comprar!!!]({{< param buyurl >}})

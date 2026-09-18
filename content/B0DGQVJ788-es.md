@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para una tez cálida perfecta
-- Acabado mate de larga duración
 - De larga duración; definir; fácil de retirar; natural
 - Fórmula ligera y modulable
+- Acabado mate de larga duración
+- Para una tez cálida perfecta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DGQVJ788{{</world>}}

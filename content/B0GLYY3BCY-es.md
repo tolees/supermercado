@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 🧴 Botella de 500 ml = 16 porciones. Conservar en frío tras abrir y consumir en 6 semanas.
-- 🍨 Ideal para lattes fríos, bebidas dulces y recetas creativas de café.
-- ❄️ Listo para mezclar, perfecto para bebidas frías.
 - ☕ Café con sabor a vainilla, suave y aromático.
 - 🥛 Añade 30 ml con leche o bebida vegetal para un iced latte cremoso.
+- 🧴 Botella de 500 ml = 16 porciones. Conservar en frío tras abrir y consumir en 6 semanas.
+- ❄️ Listo para mezclar, perfecto para bebidas frías.
+- 🍨 Ideal para lattes fríos, bebidas dulces y recetas creativas de café.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0GLYY3BCY{{</world>}}

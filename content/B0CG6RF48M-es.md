@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cereales para el desayuno
 - Complementa la alimentación habitual
+- Cereales para el desayuno
 - Avena de cocción
 
 [🛒 Aquí!!!]({{< param buyurl >}})

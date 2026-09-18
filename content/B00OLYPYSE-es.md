@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ✅ 5 VARIEDADES - Cada una con una composición y sabor únicos, y beneficios para nuestro organismo
-- 🍋 BEBIDAS ENRIQUECIDAS CON VITAMINAS Y MINERALES, elaboradas con extractos de frutas y plantas
-- 📌 12 BOTELLAS 500 ML POR CADA CAJA – 5 sabores: Refresh (Kiwi y limonada), Awake (frambuesa), Antioxidant (melocotón), Reload (lima/limón) y Boost (arándos y frambuesa)
 - 🧊 EXCELENTES PARA SACIAR LA SED - Una alternativa moderna, más sana y refrescante que los refrescos y zumos azucarados
+- 📌 12 BOTELLAS 500 ML POR CADA CAJA – 5 sabores: Refresh (Kiwi y limonada), Awake (frambuesa), Antioxidant (melocotón), Reload (lima/limón) y Boost (arándos y frambuesa)
+- 🍋 BEBIDAS ENRIQUECIDAS CON VITAMINAS Y MINERALES, elaboradas con extractos de frutas y plantas
+- ✅ 5 VARIEDADES - Cada una con una composición y sabor únicos, y beneficios para nuestro organismo
 - ✅ ENDULZADAS SOLO CON FRUCTOSA y sin gas. Bajo en calorías.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

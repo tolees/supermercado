@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aromas dulces sobre una base de jugo de uva roja
 - Realizada con endulcorantes
-- Color granate claro y brillante en apariencia
-- Refrescante y sabroso, con un postgusto a limón
 - Bebida de vino y zumo de uva
+- Refrescante y sabroso, con un postgusto a limón
+- Color granate claro y brillante en apariencia
+- Aromas dulces sobre una base de jugo de uva roja
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00XA9B2FA{{</world>}}

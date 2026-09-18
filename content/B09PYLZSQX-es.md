@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Finish Quantum Infinity Shine Pastillas para lavavajillas - 83 cápsulas'
-date: 2026-09-16 16:30:31
+date: 2026-09-17 19:08:41
 image: 'https://m.media-amazon.com/images/I/51HPYk8gO3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09PYLZSQX/?tag=tolees-21'
 descuento: '23.74'
-average: '15.8749999999999'
+average: '15.8435227272726'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

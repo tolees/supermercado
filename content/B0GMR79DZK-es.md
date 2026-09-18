@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Bonito del Norte de calidad superior: Elaborado a partir de piezas seleccionadas de bonito, limpio y cortado a mano para garantizar una textura firme y jugosa.
+- Lata de 120 g, tamaño cómodo para consumo individual o para compartir, fácil de almacenar y listo para servir en cualquier momento.
 - Marca gourmet de referencia: Cuca es sinónimo de conservas de calidad, con décadas de experiencia y tradición.
 - Elaboración tradicional: Preparado siguiendo métodos artesanos que respetan la materia prima y la receta original
-- Lata de 120 g, tamaño cómodo para consumo individual o para compartir, fácil de almacenar y listo para servir en cualquier momento.
 - Sabor delicado y equilibrado: Ideal para disfrutar solo, en ensaladas, tostadas o recetas gourmet.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

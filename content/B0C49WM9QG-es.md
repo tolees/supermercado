@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Un whisky suave y con cuerpo, con sabores de naranja, azúcar moreno y especias, y un largo y rico final. Un color ámbar con aromas de caramelo y vainilla con suaves toques de plátano
-- Perfecto para ver una carrera de Fórmula 1 o simplemente para reunirse con los amigos.
 - Dos marcas pioneras, una colaboración icónica. Jack Daniels y McLaren F1 Team honran a sus fundadores con esta botella de edición limitada. Esta es una botella de edición limitada del 2024.
-- Disfrútalo solo, con hielo o en tu cóctel favorito, como un Old Fashioned.
 - Cada gota de Jack Daniels Old No. 7 Tennessee Whiskey de esta botella de edición limitada se destila en la destilería Jack Daniel de Lynchburg (Tennessee).
+- Disfrútalo solo, con hielo o en tu cóctel favorito, como un Old Fashioned.
+- Perfecto para ver una carrera de Fórmula 1 o simplemente para reunirse con los amigos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C49WM9QG{{</world>}}

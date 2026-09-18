@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Disminuye las manchas superficiales y protege los dientes ante nuevas manchas
 - Pasta dentífrica con sabor a menta siempreverde
 - Dientes más blancos en 1 día al eliminar las manchas superficiales
+- Disminuye las manchas superficiales y protege los dientes ante nuevas manchas
 - Probada clínicamente y diseñada profesionalmente
 - Pasta dentífrica indicada para dientes sensibles
 

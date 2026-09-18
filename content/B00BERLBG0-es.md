@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sabor: miel, en lugar de humo de hollín con notas vegetales turbias, agua dulce de cebada, especias ligeras y roble de vainilla
 - Tiempo de envejecimiento en barril: 12 años
-- Aroma: cebada dulce con humo de turba, arenques y migajas de manzana bien horneadas
 - País de origen: Irlanda
+- Aroma: cebada dulce con humo de turba, arenques y migajas de manzana bien horneadas
 - Contenido de alcohol 40%
+- Sabor: miel, en lugar de humo de hollín con notas vegetales turbias, agua dulce de cebada, especias ligeras y roble de vainilla
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00BERLBG0{{</world>}}

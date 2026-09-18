@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Disponible en tres tonos para cada tipo de piel
-- Consigue una piel efecto buena cara, como recién salida de la playa
 - La siguiente información se aplica a cada unidad del paquete
 - Luce una piel naturalmente bronceada y suavemente contorneada
-- Polvos bronceadores enriquecidos con pigmentos a base de extracto de cacao que reproducen un bronceado ligero y natural
 - Textura en polvo con acabado mate
+- Consigue una piel efecto buena cara, como recién salida de la playa
+- Disponible en tres tonos para cada tipo de piel
+- Polvos bronceadores enriquecidos con pigmentos a base de extracto de cacao que reproducen un bronceado ligero y natural
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FF5CBF2P{{</world>}}

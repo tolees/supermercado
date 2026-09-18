@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- STARBUCKS Paquete Variado Espresso Roast by Nespresso, 100 cápsulas
-- Café 100% Arábica, de tueste intenso
-- Cápsulas compatibles con máquina Nespresso
-- El contenido del variety pack puede variar ligeramente
 - Cápsulas hechas con al menos 80% de aluminio reciclado
 - Prepáralo en casa como a ti te gusta
+- Cápsulas compatibles con máquina Nespresso
+- STARBUCKS Paquete Variado Espresso Roast by Nespresso, 100 cápsulas
+- El contenido del variety pack puede variar ligeramente
+- Café 100% Arábica, de tueste intenso
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CNY1RYDZ{{</world>}}

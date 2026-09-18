@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Hecha de una versión más fina del icónico tejido de punto piqué para un resultado elegante
-- Una versión elegante y diseñada por expertos de un clásico de ropa masculina
 - Acabado con un cuello acanalado a rayas de contraste para un toque sofisticado
 - Incluye un cocodrilo bordado tonal en el pecho para una marca sutil
+- Una versión elegante y diseñada por expertos de un clásico de ropa masculina
 - Cuenta con un corte recto regular y tejido elástico para libertad de movimiento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

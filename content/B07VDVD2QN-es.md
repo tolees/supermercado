@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 150 ml
-- Producto de alta calidad
-- Wella eimi nutri fresh up spray (1)
 - Facil de usar
+- Producto de alta calidad
+- 150 ml
+- Wella eimi nutri fresh up spray (1)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07VDVD2QN{{</world>}}

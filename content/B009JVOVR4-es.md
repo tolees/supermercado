@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chips Ahoy Mini Galletas Cookies Dulces Pepitas de Chocolate 160g'
-date: 2026-09-15 23:45:21
+date: 2026-09-17 14:30:50
 image: 'https://m.media-amazon.com/images/I/510VGEZi9QL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B009JVOVR4/?tag=tolees-21'
 descuento: '4.02'
-average: '1.77739130434782'
+average: '1.78112676056338'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

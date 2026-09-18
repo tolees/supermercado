@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- CAFÉ DE ESPECIALIDAD ARÁBICA 100%: Cosechado en cultivos ecológicos, nuestro café arábica aporta grandes beneficios a tu organismo. Gracias a sus propiedades diuréticas, favorece el tránsito intestinal y te ayuda a estimular y activar tu cuerpo.
 - CAFÉ EN GRANO: Montañas y clima tropical. Son las dos características que aúnan la mayoría de las regiones latinoamericanas para el cultivo óptimo del café. Redondo y generoso, este café bio revelará en cada taza lo mejor de los cafés de altura.
+- SOBRE NOSOTROS: En Destination hemos recorrido el mundo para llevar la riqueza de cada entorno, hasta tu taza. Elaborados con las mejores materias primas, nuestros cafés y tés llenarán tu paladar de sabores auténticos y originales.
 - INGREDIENTES NATURALES: Elaborado a base de café arábica 100% orgánico, sin azúcares añadidos y sin lactosa, este café tiene unas excelentes notas de cata y presenta una acidez media. Una sabrosa combinación que enamorará a los amantes del café.
 - TOSTADO ARTESANALMENTE: Realizamos el tueste en Burdeos, asando lentamente cada grano. Gracias a la artesanía de nuestras técnicas conseguimos potenciar el aroma de nuestros cafés en cada taza, logrando sabores redondos, generosos e intensos.
-- CAFÉ DE ESPECIALIDAD ARÁBICA 100%: Cosechado en cultivos ecológicos, nuestro café arábica aporta grandes beneficios a tu organismo. Gracias a sus propiedades diuréticas, favorece el tránsito intestinal y te ayuda a estimular y activar tu cuerpo.
-- SOBRE NOSOTROS: En Destination hemos recorrido el mundo para llevar la riqueza de cada entorno, hasta tu taza. Elaborados con las mejores materias primas, nuestros cafés y tés llenarán tu paladar de sabores auténticos y originales.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08DMGDV3Y{{</world>}}

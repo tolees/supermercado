@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- 2 capas (1 colorida y 1 blanca)
 - 1 rollo
+- Tamaño extra XXL
 - Formato americano (más alto)
 - Rollo de cocina azul
-- 2 capas (1 colorida y 1 blanca)
-- Tamaño extra XXL
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00OZM628I{{</world>}}

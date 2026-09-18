@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CrueltyFree
-- Gel de baño cremoso Proteins Yogur & Avena enriquecido con proteínas de yogur y extractos naturales de avena.
-- Cremosidad e hidratación suave para pieles sensibles.
-- Las proteínas del yogur y de la avena calman la piel, mejoran la elasticidad y aportan un efecto refrescante.
 - Extractos naturales: avena
+- Cremosidad e hidratación suave para pieles sensibles.
+- Gel de baño cremoso Proteins Yogur & Avena enriquecido con proteínas de yogur y extractos naturales de avena.
+- CrueltyFree
+- Las proteínas del yogur y de la avena calman la piel, mejoran la elasticidad y aportan un efecto refrescante.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B082SC91DH{{</world>}}

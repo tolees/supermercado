@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- MÚLTIPLES BENEFICIOS: La avena es una fuente natural de fibra, proteínas y vitaminas del grupo B, mientras que las especias chai aportan propiedades antioxidantes y digestivas. Una bebida que te reconforta y te llena de energía desde el primer sorbo.
 - BEBIDA VEGETAL: Nuestra bebida vegetal de avena chai sin azúcar combina la suavidad natural de la avena con el exótico y reconfortante sabor de las especias chai (como canela, jengibre y cardamomo), creando una experiencia cálida, aromática y deliciosa.
-- MEZCLA Y DISFRUTA: Perfecta para tus desayunos o momentos de relax, puedes tomarla fría o caliente. Disfrútala sola, en smoothies, con café, té, cereales, mueslis o copos. También es ideal para recetas como cremas, sopas o postres. ¡Déjate inspirar!
 - SOBRE NOSOTROS: ISOLA BIO nace con el objetivo de ayudarte a conseguir una alimentación vegetal y saludable. Somos empresa BCorp certificada y cumplimos con altos estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
+- MEZCLA Y DISFRUTA: Perfecta para tus desayunos o momentos de relax, puedes tomarla fría o caliente. Disfrútala sola, en smoothies, con café, té, cereales, mueslis o copos. También es ideal para recetas como cremas, sopas o postres. ¡Déjate inspirar!
+- MÚLTIPLES BENEFICIOS: La avena es una fuente natural de fibra, proteínas y vitaminas del grupo B, mientras que las especias chai aportan propiedades antioxidantes y digestivas. Una bebida que te reconforta y te llena de energía desde el primer sorbo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FN4L2R2L{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CON LECHE DE ALMENDRAS DULCES
-- PIEL HIDRATADA: respeto de su piel y sensación de piel hidratada
-- CONSEJOS DE USO: comprueba que la temperatura del agua es de 36ºC; enjabona a tu bebé desde el cuello a los pies con un delicado masaje; aclara cuidadosamente su cuerpecito, dejando el cabello en último lugar para evitar que coja frío
 - DERMATOLÓGICAMENTE TESTADO: Su fórmula ha sido clínicamente testada bajo control dermatológico
 - PARA CUERPO Y CABELLO: adecuado tanto para cuerpo como para cabello
+- CONSEJOS DE USO: comprueba que la temperatura del agua es de 36ºC; enjabona a tu bebé desde el cuello a los pies con un delicado masaje; aclara cuidadosamente su cuerpecito, dejando el cabello en último lugar para evitar que coja frío
+- CON LECHE DE ALMENDRAS DULCES
+- PIEL HIDRATADA: respeto de su piel y sensación de piel hidratada
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BT2SFN3B{{</world>}}

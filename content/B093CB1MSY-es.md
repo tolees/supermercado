@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apoya un sistema inmunitario saludable gracias a un alto nivel de proteina y vitaminas C y E
 - Probado que ayuda a una digestión saludable gracias a prebióticos naturales
-- ISFM, la Asociación Internacional de Medicina Felina, reconoce la contribución nutricional de PURINA al bienestar felino
 - Pavo de alta calidad3 como ingrediente nº 1
+- ISFM, la Asociación Internacional de Medicina Felina, reconoce la contribución nutricional de PURINA al bienestar felino
+- Apoya un sistema inmunitario saludable gracias a un alto nivel de proteina y vitaminas C y E
 - Reduce los alérgenos sobre el pelo del gato*
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

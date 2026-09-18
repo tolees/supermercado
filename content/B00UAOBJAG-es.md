@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fácil de obtener la dosis correcta gracias a la práctica pipeta. Recomendamos comenzar con menos gotas para encontrar su dosis óptima personal y minimizar el riesgo de un sabor amargo
-- Perfecto para el edulcorante bajo en carbohidratos y bueno para la figura, una dieta sin azúcar, adecuada para diabéticos. Así como para dietas de quienes cuidan su peso y para personasactivas que se encuentran en la fase de definición muscular
 - Ideal para endulzar batidos, yogures, batidos, bebidas frías y calientes, para hornear y postres en general.
+- Perfecto para el edulcorante bajo en carbohidratos y bueno para la figura, una dieta sin azúcar, adecuada para diabéticos. Así como para dietas de quienes cuidan su peso y para personasactivas que se encuentran en la fase de definición muscular
+- Fácil de obtener la dosis correcta gracias a la práctica pipeta. Recomendamos comenzar con menos gotas para encontrar su dosis óptima personal y minimizar el riesgo de un sabor amargo
 - Naturalmente dulce con los glucósidos de esteviol edulcorante de la Planta de Stevia
 - No contiene azúcar, cero calorías, sin carbohidratos. Ingredientes naturales, sin colorantes artificiales ni conservantes. Libre de sucralosa, lactosa, gelatina, gluten y son veganos
 

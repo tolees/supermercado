@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Sin recubrimiento
 - Conservar en lugar fresco y seco
-- Geles dulces
 - Taquitos redondos sabor intenso a regaliz negro con relleno de sabor a limón y fresa
+- Geles dulces
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B079ZGKXZ5{{</world>}}

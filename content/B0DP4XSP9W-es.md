@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Lenguas sabor fresa ácida
 - Ideal para cualquier ocasión y evento: en clase, en el parque, en la oficina, en casa, en fiestas y entre horas. Para compartir, regalar y disfrutar solo o en compañía
 - Chupa Chups es el caramelo favorito de todas las generaciones. Y siempre con los ingredientes de la mejor calidad. ¡Simplemente imprescindibles!
 - Caramelos y golosinas más saludables. ¡Que nada te quite la oportunidad de divertirte!
 - La siguiente información se aplica a cada unidad del paquete
+- Lenguas sabor fresa ácida
 - Bolsa con 145gr de golosinas en forma de lengua.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

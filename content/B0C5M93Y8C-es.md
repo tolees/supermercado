@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Sin conservantes ni colorantes artificiales
-- Conservar en lugar fresco y seco
-- Con un toque de aceite de oliva
 - Pipas de girasol con sal marina
+- Con un toque de aceite de oliva
+- Conservar en lugar fresco y seco
 - Fuente de fibra, magnesio, vitamina E y fósforo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

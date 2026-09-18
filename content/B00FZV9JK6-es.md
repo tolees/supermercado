@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Eucerin AtopiControl Intensive Calming Cream 40ml by Eucerin'
-date: 2026-09-10 18:35:38
+date: 2026-09-18 11:30:03
 image: 'https://m.media-amazon.com/images/I/31F3SzXNiDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

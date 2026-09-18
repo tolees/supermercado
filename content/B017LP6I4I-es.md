@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Boquilla fina para una aplicación precisa
 - Aplicación sin goteo
-- Pegamento decorativo brillante para manualidades, regalos, tarjetas, fotos
 - Verde, azul, morado, rosa, rojo, amarillo
 - Efecto de purpurina pastel de caramelo
+- Pegamento decorativo brillante para manualidades, regalos, tarjetas, fotos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B017LP6I4I{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Extractos vegetales
 - Fabricado en una empresa, que tambien manipula derivados lacteos
+- Extractos vegetales
 - País de origen: España
 
 [🛒 Aquí!!!]({{< param buyurl >}})

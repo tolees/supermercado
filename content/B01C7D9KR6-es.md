@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Consumirla entre 0° y 3°C para obtener sus óptimas cualidades
-- 4,8% de alcohol en volumen
-- Cerveza estilo Pilsen
 - Ingredientes naturales: agua, malta de cebada, lúpulo, maíz y levadura
+- Consumirla entre 0° y 3°C para obtener sus óptimas cualidades
 - De color rubio pajizo y espuma consistente (con ligero aroma frutal y sabor balanceado de dulce de malta y amargor suave)
+- Cerveza estilo Pilsen
+- 4,8% de alcohol en volumen
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01C7D9KR6{{</world>}}

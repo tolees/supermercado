@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Alérgenos: pescado, crustaceos y marisco
-- Mantener en un lugar fresco y seco
-- Calamares en conserva con Salsa Americana.
 - Origen: España
+- Calamares en conserva con Salsa Americana.
 - Apertura fácil
+- Mantener en un lugar fresco y seco
+- Alérgenos: pescado, crustaceos y marisco
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01IU99UEE{{</world>}}

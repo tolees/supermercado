@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- CRUELTY FREE: Aussie es reconocida por PETA como una marca Cruelty Free y en contra de las pruebas en animales
+- AROMAS ICÓNICOS DE AUSSIE: Deliciosos y exóticos aromas con notas de maracuyá, naranja y leche de coco, para un pelo que huele de maravilla
 - TRATAMIENTO MILAGROSO PARA PELO RIZADO: Acondicionador profundo que se puede aclarar o no aclarar, proporcionando 2x más hidratación (para ser exactos) y suavidad, asegurando 3 días de ondas y rizos suaves y lisos
 - LA MANERA AUSSIE DE USAR: Necesitas una solución rápida? Acláralo tras 3 minutos para unos rizos profundamente hidratados y listos para rebotar. Buscas más hidratación? Déjalo actuar para unos rizos duraderos y espectaculares que robarán el show
-- CRUELTY FREE: Aussie es reconocida por PETA como una marca Cruelty Free y en contra de las pruebas en animales
 - MEZCLA INCREÍBLE DE ACEITES: Enriquecido con una mezcla de aceites de Jojoba, Coco y Nuez de Macadamia australiana, este acondicionador profundo hidrata, refresca y aporta un rebote natural a tu pelo
-- AROMAS ICÓNICOS DE AUSSIE: Deliciosos y exóticos aromas con notas de maracuyá, naranja y leche de coco, para un pelo que huele de maravilla
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FLWX95VK{{</world>}}

@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para pieles normales y grasas
-- Matifica tu piel
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
-- Luce un acabado mate por más de 12 horas
-- Controlla brillos y borra poros
 - Fija la base de maquillaje a tu piel para una mayor duración
+- Para pieles normales y grasas
 - La siguiente información se aplica a cada unidad del paquete
+- Matifica tu piel
+- Controlla brillos y borra poros
+- Luce un acabado mate por más de 12 horas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZF7SD5B{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L Oréal Paris Le Shadow Stick Sombra de Ojos 420 Brown Bliss'
-date: 2026-09-16 11:19:05
+date: 2026-09-17 16:51:52
 image: 'https://m.media-amazon.com/images/I/3163yn4YWVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

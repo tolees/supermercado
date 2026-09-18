@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Caldo Casero de Pollo y 8 Verduras 100% Natural Gallina Blanca 1 l
 - La siguiente información se aplica a cada unidad del paquete
+- Caldo Casero de Pollo y 8 Verduras 100% Natural Gallina Blanca 1 l
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0GDW94KK2{{</world>}}

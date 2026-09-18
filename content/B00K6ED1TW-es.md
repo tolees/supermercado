@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Medidas (ancho x altura x profundidad): 7,3 x 16,5 x 9 cm
 - Dispensador de jabón recargable para dosificar la descarga de jabón líquido o loción
-- Sobria elegancia en color negro
 - Superficie higiénica limpia
+- Sobria elegancia en color negro
 - Fabricado de material plástico especial
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

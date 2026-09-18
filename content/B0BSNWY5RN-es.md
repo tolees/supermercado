@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cerveza artesanal Cerex Pilsen
 - Marca: Genérico
+- Cerveza artesanal Cerex Pilsen
 - Tipo de producto: BEER
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Protección eficaz: Nuestra pasta de dientes con flúor ha sido diseñada para que toda la familia mantenga sus dientes relucientes.
 - Tecnología Colgate: Mantén tus dientes fuertes, sanos y blancos de forma natural con la pasta de dientes Colgate Triple Acción Xtra White.
 - Cuidado avanzado: La pasta dentífrica Colgate Triple Acción Xtra White proporciona protección contra la caries, ayuda a mantener los dientes blancos de forma natural, y refresca el aliento.
+- Protección eficaz: Nuestra pasta de dientes con flúor ha sido diseñada para que toda la familia mantenga sus dientes relucientes.
 - Protección eficaz: Nuestra pasta de dientes con flúor ha sido diseñada para que toda la familia mantenga sus dientes relucientes.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

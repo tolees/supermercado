@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CONSEJOS DE USO Rociar una pequeña cantidad en puntos específicos como el cuello, las muñecas y detrás de las orejas; evitar frotarlo sobre la piel para no alterar la fragancia, controlar la cantidad para no excederse y aplicarlo sobre la piel hidratada para una mayor duración del perfume
-- NOTAS DE SALIDA: deliciosa frambuesa, bergamota italiana y fresia
-- PERSONALIDAD DE LA FRAGRANCIA: femenina, brillante, joven y sofisticada
-- NOTAS DE CORAZÒN: azahar, rosa y pétalos de jazmín
 - NOTAS DE FONDO: ámbar, sándalo y almizcle suave
+- PERSONALIDAD DE LA FRAGRANCIA: femenina, brillante, joven y sofisticada
+- CONSEJOS DE USO Rociar una pequeña cantidad en puntos específicos como el cuello, las muñecas y detrás de las orejas; evitar frotarlo sobre la piel para no alterar la fragancia, controlar la cantidad para no excederse y aplicarlo sobre la piel hidratada para una mayor duración del perfume
+- NOTAS DE CORAZÒN: azahar, rosa y pétalos de jazmín
+- NOTAS DE SALIDA: deliciosa frambuesa, bergamota italiana y fresia
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0009OAI1I{{</world>}}

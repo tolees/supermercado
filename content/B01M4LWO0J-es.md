@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Disfruta de un plato típico de la cocina casera española, con la calidad de LITORAL
+- Comida española fácil de preparar: al baño maria, en cazo o al microondas
 - Legumbres de cultivo local, cuidadosamente seleccionadas y acompañadas de su sofrito
 - Receta bajo en grasa
-- Comida española fácil de preparar: al baño maria, en cazo o al microondas
 - Ingredientes 100% naturales, sin gluten, sin colorantes ni conservantes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

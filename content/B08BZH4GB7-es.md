@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Color Verde
 - Capacidad de 600 toallas (altura de 375mm)
+- Color Verde
 - Anchura: 285mm
 - Profundidad: 135mm
 - Fabricado con ABS anti-choque

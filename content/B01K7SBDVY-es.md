@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Protege el cabello de la humedad.
+- Se elimina con un ligero cepillado.
 - El embalaje puede variar
 - Mantiene el peinado perfecto.
 - Sin efecto apelmazado.
-- Se elimina con un ligero cepillado.
-- Protege el cabello de la humedad.
 - Con micro-difusor para una vaporización ultra fina.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

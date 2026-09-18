@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- En esta cosecha que presentamos, el aceite tiene una intensidad fuerte, con un amargor y un picor equilibrado, pero más marcado que en otras ocasiones.
-- Cada año nuestro aceite es diferente. Varía en función de la floración, el calor, la lluvia y por otras razones que quiere la Naturaleza. Nosotros intentamos influir lo menos posible en ese proceso.
 - Muchas gracias por confiar en nuestro producto y en nosotros.
+- Cada año nuestro aceite es diferente. Varía en función de la floración, el calor, la lluvia y por otras razones que quiere la Naturaleza. Nosotros intentamos influir lo menos posible en ese proceso.
+- En esta cosecha que presentamos, el aceite tiene una intensidad fuerte, con un amargor y un picor equilibrado, pero más marcado que en otras ocasiones.
 - Esperamos de todo corazón que todo el amor que ponemos en el proceso se pueda ver reflejado en la calidad de este aceite embotellado.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

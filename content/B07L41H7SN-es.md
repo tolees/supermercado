@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El envase contiene 45 ml
-- Los mejores productos para tu cuidado personal a tu alcance, de la mano de los mejores proveedores por un módico precio
 - Aquaphor pomada reparadora 45 ml
+- Los mejores productos para tu cuidado personal a tu alcance, de la mano de los mejores proveedores por un módico precio
+- El envase contiene 45 ml
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07L41H7SN{{</world>}}

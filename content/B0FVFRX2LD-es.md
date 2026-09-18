@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Ideal para desayunos y meriendas así como, para la preparación de postres
 - Producto lácteo UHT con Chocolate
-- El aútentico chocolate RAM a la taza de siempre con un toque de sabor a galleta caramelizada
 - Producto listo para tomar
+- El aútentico chocolate RAM a la taza de siempre con un toque de sabor a galleta caramelizada
 - Formato 1L adecuado tanto para servir en raciones individuales como para su uso en reposteria
 
 [🛒 Visítala!!!]({{< param buyurl >}})

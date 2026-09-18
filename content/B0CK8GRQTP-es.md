@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gallina Blanca Caldo Gourmet de Pollo con Jamón Ibérico 100% Natural 1L'
-date: 2026-09-14 18:36:15
+date: 2026-09-18 16:53:07
 image: 'https://m.media-amazon.com/images/I/41lnra6c6-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CK8GRQTP/?tag=tolees-21'
 descuento: '43.81'
-average: '1.61142857142858'
+average: '1.61739130434784'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

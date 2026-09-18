@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Alhambra Especial Cerveza Lager Pack 12 Botellines x 25cl'
-date: 2026-09-10 19:44:51
+date: 2026-09-18 07:07:43
 image: 'https://m.media-amazon.com/images/I/41gJs9dELHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D9PM4R4/?tag=tolees-21'
 descuento: '33.86'
-average: '6.60666666666668'
+average: '6.48307692307693'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

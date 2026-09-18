@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Avda. de los Olmos, 2. 01013, Vitoria, Espana
 - Bebida refrescante de extracto de té con zumo de melocotón Con azúcar y edulcorante Conservar en lugar limpio, fresco y seco Bebida refrescante de extracto de té con zumo de melocotó Proteger de la luz solar
+- Avda. de los Olmos, 2. 01013, Vitoria, Espana
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07NSLR9CY{{</world>}}

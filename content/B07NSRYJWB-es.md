@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Conservar en lugar limpio, fresco y seco
 - Bebida refrescante de extracto de té con zumo de limón
 - Con azúcar y edulcorante
+- Conservar en lugar limpio, fresco y seco
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07NSRYJWB{{</world>}}

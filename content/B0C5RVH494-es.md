@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Albo: desde 1869, elaboramos conservas con materias primas seleccionadas y los más altos estándares de calidad para conservar lo bueno del mar; más que una lata, es una forma de vivir
-- Atún Claro en Aceite de Girasol: elaborado 100% con lomo de atún, ideal para disfrutar del sabor natural del pescado y su textura tierna y jugosa en recetas sencillas del día a día
-- Ingredientes: lomos de atún seleccionados y aceite de girasol, una elaboración cuidada que realza el sabor natural del pescado, sin gluten y sin conservantes añadidos
 - Calidad y Beneficios: rico en proteínas y elaborado a partir de atún claro de calidad, una conserva de pescado equilibrada y nutritiva, pensada para quienes buscan cuidarse sin renunciar al sabor
+- Atún Claro en Aceite de Girasol: elaborado 100% con lomo de atún, ideal para disfrutar del sabor natural del pescado y su textura tierna y jugosa en recetas sencillas del día a día
 - Uso Diario: su formato en lata de 65 g lo convierte en un aliado versátil para comidas y cenas ligeras; ideal para ensaladas, bocadillos, tostas o recetas rápidas de picoteo
+- Albo: desde 1869, elaboramos conservas con materias primas seleccionadas y los más altos estándares de calidad para conservar lo bueno del mar; más que una lata, es una forma de vivir
+- Ingredientes: lomos de atún seleccionados y aceite de girasol, una elaboración cuidada que realza el sabor natural del pescado, sin gluten y sin conservantes añadidos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C5RVH494{{</world>}}

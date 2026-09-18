@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ideal en una variedad de cócteles
-- Color caoba
 - Elaborado a partir de holandas, aguardientes de vinos
+- Color caoba
 - Adecuado como regalo
 - Aroma limpio y de buena intensidad
 

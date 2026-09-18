@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Higiene y cuidado de pieles muy atópicas, secas y sensibles
 - Inca Omega Oil reforzado con Vitamina E
 - Formulado sin agua ni conservantes
-- Higiene y cuidado de pieles muy atópicas, secas y sensibles
 - Sin jabón
 
 [🛒 Comprar!!!]({{< param buyurl >}})

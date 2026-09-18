@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Tienen un alto contenido de fibra
 - Galletas con copos de avena
 - Ideal como snack
-- Tienen un alto contenido de fibra
 - Elaboradas con aceite vegetal de girasol alto oleico
 - Están aptos para vegetarianos
 

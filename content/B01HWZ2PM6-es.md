@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Mousse aireada con pato fino
+- Prestamos atención a la sostenibilidad, por eso adquirimos el pescado de las pesquerías MSC
 - Comida húmeda de alta calidad para gatos adultos
 - Nutricionalmente perfectamente adaptado a las necesidades de los gatos
-- Prestamos atención a la sostenibilidad, por eso adquirimos el pescado de las pesquerías MSC
-- Mousse aireada con pato fino
 - Renunciamos a la adición de azúcar y colorantes artificiales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

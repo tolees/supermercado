@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Scottex Acolchado Papel Higiénico - 63 rollos 7 packs de 9 rollos - Papel Higienico 3 capas'
-date: 2026-09-15 19:01:59
+date: 2026-09-17 08:24:29
 image: 'https://m.media-amazon.com/images/I/51W9OtcdR1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CCVMSKV/?tag=tolees-21'
 descuento: '19.11'
-average: '26.2753413654617'
+average: '26.2615199999999'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

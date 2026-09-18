@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con limpiador de lengua
 - Cepillo manual con cerdas medianas
+- Con limpiador de lengua
 - Cuello flexible para alcanzar los puntos más difíciles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

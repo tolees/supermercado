@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Uso: se aplica cada día en el rostro húmedo
-- Tipo de producto: gel limpiador facial
-- Ofrece un efecto matificante de larga duración
 - Ayuda a reducir la impresión de brillo y a mantener los poros cerrados
+- Ofrece un efecto matificante de larga duración
+- Tipo de producto: gel limpiador facial
+- Uso: se aplica cada día en el rostro húmedo
 - Género: unisex
 
 [🛒 Aquí!!!]({{< param buyurl >}})

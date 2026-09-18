@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ariel Detergente Lavadora Liquido 80 Lavados Original Jabon Limpieza Mejorada en Ciclos Mas Frios con la Exclusiva Tecnologia de limpieza en Frio'
-date: 2026-09-15 11:54:18
+date: 2026-09-17 12:44:30
 image: 'https://m.media-amazon.com/images/I/41pMNakLCUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F1DBWND8/?tag=tolees-21'
 descuento: '23.09'
-average: '21.4448780487803'
+average: '21.3772093023254'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

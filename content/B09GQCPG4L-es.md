@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- FORMATO DE 100 G - Fácil de dividir en porciones para acompañar el café, tomar como merienda o disfrutar después de una comida.
 - CON ALMENDRAS TROCEADAS - El cacao se combina con almendras troceadas para aportar contraste, aroma y una textura agradable en cada porción.
-- PARA CADA MOMENTO - Ideal para quienes prefieren un chocolate sin azúcares añadidos con un perfil de sabor intenso.
-- 0% AZÚCARES AÑADIDOS - Chocolate negro 85% para disfrutar de un sabor definido y equilibrado sin renunciar al placer de una tableta de chocolate.
 - SIN GLUTEN - Tableta elaborada sin gluten, con una receta que mantiene el sabor y la textura propios del chocolate negro.
+- 0% AZÚCARES AÑADIDOS - Chocolate negro 85% para disfrutar de un sabor definido y equilibrado sin renunciar al placer de una tableta de chocolate.
+- PARA CADA MOMENTO - Ideal para quienes prefieren un chocolate sin azúcares añadidos con un perfil de sabor intenso.
+- FORMATO DE 100 G - Fácil de dividir en porciones para acompañar el café, tomar como merienda o disfrutar después de una comida.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09GQCPG4L{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Reduce los signos de la piel sensible en una semana.
 - Elimina eficazmente la suciedad que obstruye los poros, el exceso de grasa y el maquillaje, respetando la hidratación de la piel.
+- Reduce los signos de la piel sensible en una semana.
 - Con Aloe Vera calmante, mantiene la barrera cutánea protectora y el pH de la piel para preservar el microbioma cutáneo, dejando la piel hidratada tras la limpieza.
 - Preserva el microbioma cutáneo.
 

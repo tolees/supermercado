@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Productos de belleza y el cuidado personal
-- Marca: Clinique
 - Tipo de producto: Base de maquillaje CN 40 Cream Chamois
+- Marca: Clinique
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B002SQ4FAA{{</world>}}

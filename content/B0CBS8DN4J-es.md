@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- HIDRATACIÓN: SENSACIÓN DE HIDRATACIÓN HASTA 48H. (En combinación con la Mascarilla Aqua Revive)
 - SIN COLORANTES: SIN COLORANTES ARTIFICIALES
 - USO DIARIO: APTO PARA USO DIARIO, SIN APELMAZAR
-- BRILLO: CABELLO BRILLANTE Y CON ASPECTO SALUDABLE
 - CON COMPLEJO HIALURÓNICO Y ALGA MARINA
+- BRILLO: CABELLO BRILLANTE Y CON ASPECTO SALUDABLE
+- HIDRATACIÓN: SENSACIÓN DE HIDRATACIÓN HASTA 48H. (En combinación con la Mascarilla Aqua Revive)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CBS8DN4J{{</world>}}

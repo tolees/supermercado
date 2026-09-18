@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Certificación Vino Vegano
-- Servir frío, a una temperatura de 6-8ºC.
 - Maridaje: carnes blancas, ensaladas y atún.
 - Vino blanco D.O. Rueda
+- Servir frío, a una temperatura de 6-8ºC.
 - Variedad de uva: Verdejo
+- Certificación Vino Vegano
 - Vino aromático, afrutado y suave. Buena estructura y complejidad en boca.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

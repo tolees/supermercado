@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pack de 24 botellas de 25cl de cerveza Alhambra Tradicional, una cerveza lager suave, de sabor ligero
 - Aroma: La intensidad aromática es ligera pero incluye una mezcla sutil de sensaciones afrutadas y florales.
+- Pack de 24 botellas de 25cl de cerveza Alhambra Tradicional, una cerveza lager suave, de sabor ligero
 - Sabor: En boca el amargo es bajo y suave, lo que unido a un cuerpo moderado la hace muy refrescante
 - Elaboración única: cerveza inspirada en la tradición alemana, es una cerveza Lager Pilsen fermentada en bajas temperaturas y con una maduración que potencia su sabor.
 - Apariencia: Cerveza lata de color dorado pálido, aspecto brillante y con espuma persistente.

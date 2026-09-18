@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 100% Albariño, D.O. Rías Baixas
 - Una innovadora, joven, fresca y divertida manera de disfrutar el vino blanco albariño
+- 100% Albariño, D.O. Rías Baixas
 - Intensidad aromática alta con notas de fruta de pulpa blanca tipo pera, manzana, peladillo y melón. Ligera punta de burbuja, paso goloso e intenso
 - Marieta ha llegado para convertirse en el primer albariño semiseco de Rías Baixas
 - Maridajes: mariscos, pescados, queso fresco, ceviches y curries.

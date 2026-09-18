@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Calidad certificada: Producidas en olivares familiares con gestión de seguridad alimentaria conforme a la norma ISO 22000.
-- Aceitunas verdes con auténtico orégano griego: Pulpa firme y crujiente con sabor mediterráneo tradicional.
 - Producto 100% natural: Sin conservantes ni colorantes, apto para veganos y vegetarianos.
+- Aceitunas verdes con auténtico orégano griego: Pulpa firme y crujiente con sabor mediterráneo tradicional.
 - Versátil en la cocina: Perfectas para disfrutar solas, en ensaladas, como aperitivo o acompañando cócteles.
 - Práctico pack doble: 4 envases de 200 g (total 800 g), ideal para el hogar, aperitivos o regalos gourmet.
+- Calidad certificada: Producidas en olivares familiares con gestión de seguridad alimentaria conforme a la norma ISO 22000.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09F3MDTN8{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- USO DIARIO: Perfectos para trabajo, viajes, universidad o cualquier momento en el que busques una sensación de frescor inmediata.
-- SMINT: Una marca que te ofrece muchas cosas: frescor, confianza…Pero nada de azúcar ni tampoco gluten.
-- FORMATO AHORRO: Pack de 12 unidades (21g). Ideal para llevar siempre contigo y mantener tu aliento fresco en cualquier momento.
 - SIN AZÚCAR: Una alternativa cómoda a los caramelos tradicionales, ideal para después de comer o antes de una reunión.
 - FRESCOR INTENSO: Caramelos comprimidos de bubble fresh con sabor potente para refrescar el aliento cuando más lo necesitas.
+- USO DIARIO: Perfectos para trabajo, viajes, universidad o cualquier momento en el que busques una sensación de frescor inmediata.
+- FORMATO AHORRO: Pack de 12 unidades (21g). Ideal para llevar siempre contigo y mantener tu aliento fresco en cualquier momento.
+- SMINT: Una marca que te ofrece muchas cosas: frescor, confianza…Pero nada de azúcar ni tampoco gluten.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FM4K8CHY{{</world>}}

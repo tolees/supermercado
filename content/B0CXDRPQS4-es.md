@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- El resultado: Una piel suave y cuidada; fórmula vegana con 92% de ingredientes de origen natural
 - Aplicar sobre la piel previamente mojada y masajear con las manos o con la ayuda de una esponja; aclarar con abundante agua
 - Su tradicional fragancia te aportará una sensación óptima al mismo tiempo que su fórmula con Sales Minerales mantiene tu piel hidratada y enriquecida
-- El resultado: Una piel suave y cuidada; fórmula vegana con 92% de ingredientes de origen natural
 - Mantiene el pH neutro de la piel; fórmula dermatológicamente probada
 - Relaja, renueva y revitaliza tu piel tras la ducha con el gel de ducha con Sales de Agua Termal de la Toja
 

@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - ¡Come esta chocorana rapido, antes que salte a la boca de otra persona!
 - Contiene una carta del mundo mágico de Harry Potter para coleccionar
-- ¡Saborea las Ranas del universo Harry Potter!
 - Chocolate con leche delicioso, con granitos de arroz inflado para un toque crujiente
+- ¡Saborea las Ranas del universo Harry Potter!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B073JT6NM1{{</world>}}

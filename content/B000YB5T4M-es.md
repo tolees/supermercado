@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 200 gr
 - facil de usar
 - Dimensiones del producto: 5 x 6 x 6 cm
+- 200 gr
 - Cuidado del c+F2681:I2695abello
 
 [🛒 Comprar!!!]({{< param buyurl >}})

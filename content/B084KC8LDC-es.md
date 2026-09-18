@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con simple y clásico sabor a sal
 - Conservar en un lugar fresco y seco
 - Producto que no contiene gluten
+- Con simple y clásico sabor a sal
 - Apto para compartir con amigo o familia
 - De textura crujiente y agradable
 

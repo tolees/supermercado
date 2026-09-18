@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con eficacia clínicamente probada, este sérum es adecuado para todo tipo de pieles, incluidas las sensibles.
-- Ofreciendo unos resultados visibles desde los primeros días de uso.
-- Una fórmula ligera, no pegajosa y de rápida absorción, probada para unificar el tono de la piel y reducir todo tipo de manchas oscuras.
-- Nuestro Sérum Antimanchas con un 4% de [NIACINAMIDA + VITAMINA C + ÁCIDO SALICÍLICO + MELASYL]
-- Garnier se compromete con una belleza más sostenible: este producto está testado dermatológicamente, tiene una fórmula vegana y cuenta con la aprobación Cruelty Free.
 - Para una piel más luminosa en 3 días.
+- Garnier se compromete con una belleza más sostenible: este producto está testado dermatológicamente, tiene una fórmula vegana y cuenta con la aprobación Cruelty Free.
+- Ofreciendo unos resultados visibles desde los primeros días de uso.
+- Con eficacia clínicamente probada, este sérum es adecuado para todo tipo de pieles, incluidas las sensibles.
+- Nuestro Sérum Antimanchas con un 4% de [NIACINAMIDA + VITAMINA C + ÁCIDO SALICÍLICO + MELASYL]
+- Una fórmula ligera, no pegajosa y de rápida absorción, probada para unificar el tono de la piel y reducir todo tipo de manchas oscuras.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09BD7L35V{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Servilleta de papel color y decorada
-- 32x30 cm
+- 140 unidades por paquete
 - Verde o rosa
 - Una capa
-- 140 unidades por paquete
+- 32x30 cm
+- Servilleta de papel color y decorada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01DUWKQFS{{</world>}}

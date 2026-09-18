@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Para todo tipo de cabello y cuero cabelludo: Este champú anticaspa está dermatológicamente probado e ideal para uso diario
-- Hasta un 100 % de protección contra la caspa*: Elimina la caspa desde el primer lavado y ayuda a prevenir su reaparición, manteniendo tu cuero cabelludo limpio y sin escamas. *Con uso regular
-- FÓRMULA DE PROTECCIÓN 3X: Actúa profundamente en la fuente contra tres problemas del cuero cabelludo: caspa, grasa y picor relacionado con la caspa, para un cuero cabelludo más limpio y saludable
 - EFICACIA SUPERIOR CLÍNICAMENTE PROBADA: Combate eficazmente la caspa mientras cuida tu cuero cabelludo con una fórmula de triple protección para resultados clínicamente probados
+- FÓRMULA DE PROTECCIÓN 3X: Actúa profundamente en la fuente contra tres problemas del cuero cabelludo: caspa, grasa y picor relacionado con la caspa, para un cuero cabelludo más limpio y saludable
+- Hasta un 100 % de protección contra la caspa*: Elimina la caspa desde el primer lavado y ayuda a prevenir su reaparición, manteniendo tu cuero cabelludo limpio y sin escamas. *Con uso regular
 - MARCA DE CHAMPÚ ANTICASPA NÚMERO 1: Soluciones adaptadas para cada cuero cabelludo y cabello respaldadas por 7 décadas de investigación
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

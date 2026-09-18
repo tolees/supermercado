@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Potenciado con Vitamona C y ácido salicílico
 - Crema hidratante para la cuidado del piel
-- Para todas los tipos de pieles
 - Reduce los poros e ilumina la piel
 - Sencillo de aplicar
-- Potenciado con Vitamona C y ácido salicílico
+- Para todas los tipos de pieles
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D2P3WSFF{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Neutrogena Retinol Boost Crema Antiedad Sin Perfume 50 ml'
-date: 2026-09-14 13:45:47
+date: 2026-09-17 11:29:59
 image: 'https://m.media-amazon.com/images/I/414Qn0RQQ1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BVBWB2KZ/?tag=tolees-21'
 descuento: '50.59'
-average: '20.3640322580645'
+average: '20.2385937499999'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

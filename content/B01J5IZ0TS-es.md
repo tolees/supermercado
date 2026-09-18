@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- País de origen: España
 - Ensalada rusa con atún
+- País de origen: España
 - Alergenos: pescado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

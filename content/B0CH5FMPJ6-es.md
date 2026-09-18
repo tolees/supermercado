@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cabello sedoso y sano.
 - Reaviva el pelo seco y dañado
 - Limpia y proporciona al instante una nutrición profunda
+- Cabello sedoso y sano.
 - Enriquecido con Ácido Oleico y Bayas de Goji
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

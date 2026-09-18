@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ensalada de pasta, atún, quinoa, aceituna y vegetales
 - Perfecta para todas aquellas personas que siguen unos hábitos de vida saludables
 - Ideal para toda la familia
+- Ensalada de pasta, atún, quinoa, aceituna y vegetales
 - Un plato completo con el equilibrio nutricional perfecto
 - Se debe conservar en un lugar fresco y seco
 

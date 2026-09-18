@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Horneadas y fritas al mejor estilo mexicano
-- Crujientes tortillas hechas de harina de maíz y con sabor a chili
 - Sin gluten y aptas para vegetarianos
-- Sin conservantes
+- Crujientes tortillas hechas de harina de maíz y con sabor a chili
+- Horneadas y fritas al mejor estilo mexicano
 - Perfectas para dippear en las salsas Old El Paso
+- Sin conservantes
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01L6OE0C2{{</world>}}

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - FÁCIL DE DOSIFICAR: Pipeta dosificadora incluida. 4 gotas una vez al día. Tomar 30 minutos antes de dormir. No crea dependencia y es segura de utilizar a corto y largo plazo.
-- INDICADO En aquellos casos que se requiera controlar los ciclos sueño-vigilia, cambios de rutinas, vuelta de vacaciones, estados de estrés, evitar trastornos horarios producidos por el jet-lag.
 - PENSADO PARA TODA LA FAMILIA: Apto para niños a partir de 6 meses y para adultos. Sin gluten, sin trazas de soja, ni lactosa. Sabor agradable ideal para peques que rechazan otros formatos.
-- MELATONINA PURA AL 99%: Cada 4 gotas aportan 1 mg de melatonina, el ingrediente que contribuye a disminuir el tiempo necesario para conciliar el sueño y a la regulación del ritmo circadiano.
 - RECOMENDACIONES: No superar la dosis diaria recomendada. Consulte a su médico antes de usar este producto. No recomendado en caso de hipersensibilidad o alergia a cualquiera de los ingredientes contenidos en la formulación. El efecto beneficioso se obtiene con una ingesta de 1ml de melatonina, un poco antes de ir a dormir. Los complementos alimenticios no deben utilizarse como sustituto de una dieta variada y equilibrada y un estilo de vida sano.
+- MELATONINA PURA AL 99%: Cada 4 gotas aportan 1 mg de melatonina, el ingrediente que contribuye a disminuir el tiempo necesario para conciliar el sueño y a la regulación del ritmo circadiano.
+- INDICADO En aquellos casos que se requiera controlar los ciclos sueño-vigilia, cambios de rutinas, vuelta de vacaciones, estados de estrés, evitar trastornos horarios producidos por el jet-lag.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00M75GE4M{{</world>}}

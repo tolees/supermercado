@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sin conservantes
-- La base de las recetas mexicanas más conocidas: fajitas y burritos
 - Las tortillas de Old El Paso se caracterizan por su magnífico sabor y calidad
-- Aptas para vegetarianos
+- La base de las recetas mexicanas más conocidas: fajitas y burritos
 - Textura tierna y flexible para que puedas enrollarlas a tu gusto
+- Aptas para vegetarianos
+- Sin conservantes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00XDR3EZK{{</world>}}

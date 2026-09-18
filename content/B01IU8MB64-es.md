@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Agitar antes de servir
 - Puede contener trazas de leche
-- 100% natural caldo liquido gallina blanca
 - Gallina blanca es un socio confiable
+- 100% natural caldo liquido gallina blanca
 - Todos los productos de gallina blanca le brindan la calidad que necesitas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

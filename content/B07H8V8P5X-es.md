@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Original Source: Capturamos la intensidad que la naturaleza tiene para ofrecer. Original Source se elabora con fragancias 100 % naturales. Nos inspiramos en la naturaleza —en aromas potentes y colores vibrantes— y nuestra misión es compartir experiencias sensoriales frescas en cada ducha.
 - Libre de parabenos: El gel de ducha ha sido elaborado conscientemente sin parabenos
-- La fuerza de la naturaleza: Hemos esperado 7.872 horas tropicales para dejar madurar nuestros cocos antes de prensarlos junto con manteca de karité. Fragancia 100 % natural en cada botella de gel de ducha. Disfruta en cualquier momento de un toque de paraíso tropical con nuestro gel de ducha de coco y manteca de karité.
-- Pack múltiple de gel de ducha: Prolonga tu dosis diaria de paraíso tropical y naturaleza con este pack de 6 geles de ducha de 500 ml.
+- Original Source: Capturamos la intensidad que la naturaleza tiene para ofrecer. Original Source se elabora con fragancias 100 % naturales. Nos inspiramos en la naturaleza —en aromas potentes y colores vibrantes— y nuestra misión es compartir experiencias sensoriales frescas en cada ducha.
 - 100 % vegano y libre de crueldad animal. Original Source está orgullosamente certificado como vegano y mostramos el logotipo en todos nuestros productos. Los productos se prueban en nosotros, nunca en animales. Esta fragancia ha sido desarrollada para ofrecer una experiencia de ducha que estimule los sentidos con una intensa sensación natural.
+- Pack múltiple de gel de ducha: Prolonga tu dosis diaria de paraíso tropical y naturaleza con este pack de 6 geles de ducha de 500 ml.
+- La fuerza de la naturaleza: Hemos esperado 7.872 horas tropicales para dejar madurar nuestros cocos antes de prensarlos junto con manteca de karité. Fragancia 100 % natural en cada botella de gel de ducha. Disfruta en cualquier momento de un toque de paraíso tropical con nuestro gel de ducha de coco y manteca de karité.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07H8V8P5X{{</world>}}

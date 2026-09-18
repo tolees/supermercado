@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La fragancia vibrante y distintiva refleja la carismática personalidad de David Beckham.
 - El elegante y discreto frasco está coronado por una tapa negra de alta calidad y adornado con una refinada etiqueta negra y plateada.
-- David Beckham Instinct Parfum es para hombres dinámicos que confían en su propia intuición.
 - La colección Instinct está inspirada en la búsqueda de David Beckham de mantenerse fiel a su yo auténtico.
+- David Beckham Instinct Parfum es para hombres dinámicos que confían en su propia intuición.
+- La fragancia vibrante y distintiva refleja la carismática personalidad de David Beckham.
 - Este irresistible David Beckham Eau de Parfum for Men es una mezcla vibrante de notas cítricas frescas y especiadas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

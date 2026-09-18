@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - No tiene gluten ni conservantes
-- Tiene un aroma tradicional y casero
-- Producto elaborado únicamente con ingredientes naturales
-- Conservar en lugar fresco y seco
 - Adecuado para sopas y la mayoría de los platos
+- Tiene un aroma tradicional y casero
+- Conservar en lugar fresco y seco
+- Producto elaborado únicamente con ingredientes naturales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09W1SB5G6{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Rápida absorción.
 - Proporciona una sensación duradera de suavidad y protección.
 - Ayuda a aliviar la sensación de tirantez en la piel.
+- Rápida absorción.
 - Testado dermatológicamente.
 - Hidrata la piel intensamente.
 

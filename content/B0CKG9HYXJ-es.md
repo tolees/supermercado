@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Alimento completo y equilibrado para perros pequeños
 - Indicado para perros adultos (1-10 años) pequeños (1-8 años)
+- Alimento completo y equilibrado para perros pequeños
 - Paté en tarrinas sabor buey
+- Sin colorantes ni conservantes
 - Indicado para perros adultos (1-10 años) pequeños (1-8 años)
 - Fácil de digerir
-- Alimento completo y equilibrado para perros pequeños
 - Paté en tarrinas sabor buey
-- Alimento completo y equilibrado para perros pequeños
-- Sin colorantes ni conservantes
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CKG9HYXJ{{</world>}}

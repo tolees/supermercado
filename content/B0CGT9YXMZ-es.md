@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hecho a mano con ingredientes de la más alta calidad, libre de químicos sintéticos, toxinas y aluminio.
 - Sin aluminio, parabenos ni carcinógenos.
+- Embalaje de cartón 100 % reciclable.
+- Hecho a mano con ingredientes de la más alta calidad, libre de químicos sintéticos, toxinas y aluminio.
 - Permite que tu piel respire naturalmente.
 - No obstruye las glándulas sudoríparas, permitiendo que tu cuerpo libere toxinas como lo hace la naturaleza.
-- Embalaje de cartón 100 % reciclable.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CGT9YXMZ{{</world>}}

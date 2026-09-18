@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Se puede combinar con la mayoría de las bebidas calientes
-- Con vitaminas y calcio
 - Apto para cualquier hora del día
+- Con vitaminas y calcio
 - Forma de los personajes del mar
 - Conservar en un lugar fresco y seco
 

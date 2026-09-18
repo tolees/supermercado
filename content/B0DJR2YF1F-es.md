@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca: Bagley
-- Ideal para prepara la CHOCOTORTA
 - Paquete 170g
+- Ideal para prepara la CHOCOTORTA
+- Marca: Bagley
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJR2YF1F{{</world>}}

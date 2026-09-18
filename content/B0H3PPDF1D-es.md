@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PROTECCIÓN ANTICARIES: Esta pasta de dientes infantil ofrece la máxima protección anticaries para los dientes de los más pequeños
-- CUIDA LAS GRANDES SONRISAS: Nuestra pasta de dientes para mayores de 6 años cuida suavemente los dientes de los jóvenes magos y brujas para conseguir unas sonrisas grandes y brillantes
-- SABOR A MENTA SUAVE: Nuestra suave pasta de dientes tiene un hechizante sabor a menta suave que a los más pequeños les encantará
 - ESMALTE 4 VECES MÁS FUERTE: Cuida sus grandes y brillantes sonrisas con nuestra fascinante pasta de dientes para niños que ayuda a fortalecer su esmalte 4 veces más (a las 2 semanas, cambio mineral comparado con una pasta de dientes con flúor convencional)
+- SABOR A MENTA SUAVE: Nuestra suave pasta de dientes tiene un hechizante sabor a menta suave que a los más pequeños les encantará
+- CUIDA LAS GRANDES SONRISAS: Nuestra pasta de dientes para mayores de 6 años cuida suavemente los dientes de los jóvenes magos y brujas para conseguir unas sonrisas grandes y brillantes
+- PROTECCIÓN ANTICARIES: Esta pasta de dientes infantil ofrece la máxima protección anticaries para los dientes de los más pequeños
 - NIVEL DE FLÚOR RECOMENDADO: La pasta de dientes infantil especialmente formulada está hecha con el nivel de flúor recomendado por dentistas para ayudar a proteger las bocas de los más pequeños
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

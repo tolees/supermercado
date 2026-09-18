@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suave, con cuerpo y excelente crema. Ideal para cafeteras automáticas y portafiltros.
-- Un fino espresso orgánico, suavemente descafeinado con el proceso de CO2. Molido a pedido para un óptimo aroma.
-- FRESCO - café superior tostado y empacado con aroma garantizado por la válvula de frescura en un empaque sellado al vacío.
 - PUR - Sólo granos de café de tostado suave a largo plazo para un sabor completo con poco ácido
+- FRESCO - café superior tostado y empacado con aroma garantizado por la válvula de frescura en un empaque sellado al vacío.
+- Un fino espresso orgánico, suavemente descafeinado con el proceso de CO2. Molido a pedido para un óptimo aroma.
+- Suave, con cuerpo y excelente crema. Ideal para cafeteras automáticas y portafiltros.
 - Los mejores granos de Arábica descafeinado de la agricultura orgánica, recién tostados, para un trato especial a cualquier hora del día.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

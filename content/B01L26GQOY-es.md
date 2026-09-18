@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'RENOVA Skin Care Plus Papel Higiénico Decorado Perfumado 6 Unidades Paquete de 1'
-date: 2026-09-15 13:14:50
+date: 2026-09-16 21:00:04
 image: 'https://m.media-amazon.com/images/I/41Zo-A4YapL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01L26GQOY/?tag=tolees-21'
 descuento: '17.39'
-average: '2.38316239316236'
+average: '2.39100840336131'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

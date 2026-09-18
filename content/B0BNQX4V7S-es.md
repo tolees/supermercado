@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- PERFECTAS PARA CUALQUIER OCASIÓN: Nuestra tarta con forma de números y rellenas de gominolas pica pica son ideales para tus mesas de celebraciones de cumpleaños
 - FORMATO SUPER LLAMATIVO: Es el regalo o complemento perfecto para cualquier celebración Diviértete y disfruta de tus chuches favoritas en cualquier sitio
+- INGREDIENTES: Jarabe de glucosa, azúcar, gelatina, almidón de maíz, humectante: glicerina; acidulante: ácido cítrico, ácido málico; gelificante: pectinas; corrector de acidez: malatos de sodio; aromas; colorantes: E102, E129, E133. El E102 y E129 puede tener efectos negativos sobre la actividad y la atención de los niños.
 - FÁCIL DE ALMACENAR Y CONSERVAR: Práctico e higiénico. Conservar siempre en un lugar seco y fresco, preservar de la luz, el calor y la humedad.
 - SIN GLUTEN
-- PERFECTAS PARA CUALQUIER OCASIÓN: Nuestra tarta con forma de números y rellenas de gominolas pica pica son ideales para tus mesas de celebraciones de cumpleaños
-- INGREDIENTES: Jarabe de glucosa, azúcar, gelatina, almidón de maíz, humectante: glicerina; acidulante: ácido cítrico, ácido málico; gelificante: pectinas; corrector de acidez: malatos de sodio; aromas; colorantes: E102, E129, E133. El E102 y E129 puede tener efectos negativos sobre la actividad y la atención de los niños.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BNQX4V7S{{</world>}}

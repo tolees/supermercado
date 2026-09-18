@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ideal para cocinar facilitando la preparación de tus sopas o como ingrediente para otros platos
 - Conservar en lugar fresco y seco
+- Ideal para cocinar facilitando la preparación de tus sopas o como ingrediente para otros platos
 - Una receta extraordinaria de caldo de carne
 - Sin conservantes
 - Bajo en grasa

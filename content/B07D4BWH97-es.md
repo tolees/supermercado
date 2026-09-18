@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Puede disfrutarlo desde ahora, bien conservado aguantará 2-4 años.
 - Origen: AOC Côtes de Provence
 - Graduación: 14% vol.
 - Acompañar con aperitivo o con buñuelos de queso, crema de erizos de mar, gambas, ensaladas.
-- Puede disfrutarlo desde ahora, bien conservado aguantará 2-4 años.
 - Manzana especiada, mineral y piel de limón. Acidez vivaz y con un final complejo con muchos sabores. Lineal y brillante.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

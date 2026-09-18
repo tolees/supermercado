@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 💧 CON EXOSOMAS DE ALOE VERA — Exosomas de aloe vera para hidratación celular profunda. Doble ácido hialurónico para superficie y profundidad. Vitamina C estabilizada que ilumina y protege frente a radicales libres. Beta-Sitosterol que refuerza la barrera lipídica. Los ingredientes que encuentras en fluidos de 35€, en una BB cream solar de Babaria.
 - 🏊 RESISTENTE AL AGUA — APTA PARA TODO TIPO DE PIEL — 40 ml — Waterproof. Dosificador preciso sin desperdicio. Apta para piel normal, mixta y sensible. El fotoprotector con color que no tienes que retirar antes de reaplicar — funciona como base todo el día.
-- 🌿 BABARIA — VEGANA, CORAL FRIENDLY, ESPAÑOLA: Sin oxibenzona. Sin microplásticos. Testado dermatológicamente.
 - 🍊 TONO UNIFICADO SIN EFECTO MÁSCARA — GLOW QUE PARECE PIEL — Los pigmentos Color Adapt se adaptan al tono de tu piel, no al revés. Sin el tono artificial que deja una BB cream convencional. El resultado parece piel real con luz propia — no producto. Textura fluida que se absorbe en segundos sin residuo graso ni sensación pesada.
+- 💧 CON EXOSOMAS DE ALOE VERA — Exosomas de aloe vera para hidratación celular profunda. Doble ácido hialurónico para superficie y profundidad. Vitamina C estabilizada que ilumina y protege frente a radicales libres. Beta-Sitosterol que refuerza la barrera lipídica. Los ingredientes que encuentras en fluidos de 35€, en una BB cream solar de Babaria.
+- 🌿 BABARIA — VEGANA, CORAL FRIENDLY, ESPAÑOLA: Sin oxibenzona. Sin microplásticos. Testado dermatológicamente.
 - ✨ UN SOLO PRODUCTO EN LUGAR DE DOS — GLOW BB CREAM CON SPF50+ — Por la mañana aplicas esto y listo. Color Adapt unifica el tono al instante, el acabado glow potencia el bronceado natural y el SPF50+ protege con muy alta eficacia frente a UVA, UVB e infrarrojos. Sin el paso del solar encima de la base. Sin el paso de la base encima del solar. Un producto, un gesto.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

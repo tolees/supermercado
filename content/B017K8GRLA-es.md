@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Tecnología médica con hidroxiapatita: El “esmalte líquido” crea una película protectora sobre los dientes, remineraliza el esmalte, alisa la superficie y ayuda a reducir la sensibilidad dental.
+- Hialurónico para mucosas hidratadas – Hidrata y cuida la mucosa oral, ideal en casos de sequedad bucal; aporta una sensación de confort y suavidad en la boca.
 - Fácil y segura aplicación – Para adultos y niños a partir de 6 años: usar dos veces al día sin diluir durante 30 segundos. Un paso sencillo para una higiene bucal completa.
 - Aliento fresco & fórmula suave – Sin alcohol ni parabenos, vegano, libre de lactosa, gluten, microplásticos y dióxido de titanio. Refresca el aliento de manera duradera y ayuda a reducir el mal aliento y la inflamación gingival.
-- Hialurónico para mucosas hidratadas – Hidrata y cuida la mucosa oral, ideal en casos de sequedad bucal; aporta una sensación de confort y suavidad en la boca.
-- Tecnología médica con hidroxiapatita: El “esmalte líquido” crea una película protectora sobre los dientes, remineraliza el esmalte, alisa la superficie y ayuda a reducir la sensibilidad dental.
 - Cuidado probiótico de la flora oral – Los prebióticos favorecen un microbioma bucal equilibrado, apoyan bacterias beneficiosas y contribuyen a la prevención de caries y periodontitis.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

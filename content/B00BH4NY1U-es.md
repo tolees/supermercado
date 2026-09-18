@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- FRAGANCIA ORIENTAL AFRUTADA: Descubre Tous Man, la primera fragancia masculina de Tous; un perfume para hombre con personalidad y estilo que refleja el carácter del hombre moderno.
-- REGALO PERFECTO PARA HOMBRE: Este perfume de Tous es ideal para regalar en cumpleaños, Día del Padre o Navidad; diseño atractivo que combina elegancia y distinción.
-- PIRÁMIDE OLFATIVA: Notas de salida: pomelo, naranja, jengibre, pimienta de Sichuan, salvia. Notas de corazón: Campari, piña, manzana Red Delicious. Notas de fondo: cedro, sándalo, haba tonka, ámbar, musc blanco.
+- PERFUME VERSÁTIL: Ideal como perfume hombre diario o para ocasiones especiales; su aroma masculino y elegante se adapta a cualquier momento y estación del año.
 - TOUS: Perfume original de Tous, firma icónica en joyería y fragancias, sinónimo de calidad, elegancia y diseño exclusivo desde 1920.
 - TENDENCIA OLFATIVA: Fragancia de hombre con equilibrio perfecto entre frescura y calidez, ideal para quienes buscan un perfume duradero que acompañe todo el día con personalidad.
-- PERFUME VERSÁTIL: Ideal como perfume hombre diario o para ocasiones especiales; su aroma masculino y elegante se adapta a cualquier momento y estación del año.
+- REGALO PERFECTO PARA HOMBRE: Este perfume de Tous es ideal para regalar en cumpleaños, Día del Padre o Navidad; diseño atractivo que combina elegancia y distinción.
+- PIRÁMIDE OLFATIVA: Notas de salida: pomelo, naranja, jengibre, pimienta de Sichuan, salvia. Notas de corazón: Campari, piña, manzana Red Delicious. Notas de fondo: cedro, sándalo, haba tonka, ámbar, musc blanco.
+- FRAGANCIA ORIENTAL AFRUTADA: Descubre Tous Man, la primera fragancia masculina de Tous; un perfume para hombre con personalidad y estilo que refleja el carácter del hombre moderno.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00BH4NY1U{{</world>}}

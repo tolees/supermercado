@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tipo de producto: Champú
-- Género: Mujer
 - Marca: Batiste
 - El embalaje puede variar
+- Género: Mujer
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B007PQYHJW{{</world>}}

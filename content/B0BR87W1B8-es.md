@@ -28,16 +28,16 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- FRAGANCIA Y AROMA: Una Mezcla de Café inigualable con un extraordinario equilibrio, que se presenta con: Cuerpo: 9.5 - Intensidad: 9.5 - Persistencia: 9.5 - Dulzor: 7 - Acidez: 4
+- FORMATO: 100 Cápsulas de Café
+- FORMATO: 100 Cápsulas de Café
+- Bialetti* Cápsulas compatibles para usar con los siguientes modelos de cafeteras: Break, Gioia, Super, Mokona
+- MEZCLA DE CAFÉ ROJA: Pura energía en sabor, fuerte y cremoso y al mismo tiempo delicioso. Tiene un carácter marcado y persistente que infunde una profunda sensación de placer en el paladar, para una sensación mágica. Una selección de Robusta, envasada en atmósfera protectora
+- Cápsulas Compatibles con Bialetti* para uso con los siguientes modelos de máquinas de café: Break, Gioia, Super, Mokona
 - *Bialetti es una marca registrada de Bialetti Industrie SPA; Caffè Borbone SRL es un fabricante independiente no vinculado a Bialetti Industrie SPA. La compatibilidad de las cápsulas de Caffè Borbone es funcional con máquinas de café *Bialetti para uso doméstico
 - MEZCLA DE CAFÉ ROJA: Pura energía en sabor, fuerte y cremoso y al mismo tiempo delicioso; Tiene un carácter marcado y persistente que infunde una profunda sensación de placer en el paladar, para una sensación mágica; Una selección de Robusta, envasada en atmósfera protectora
-- FRAGANCIA Y AROMA: Una Mezcla de Café inigualable con un extraordinario equilibrio, que se presenta con: Cuerpo: 9.5 - Intensidad: 9.5 - Persistencia: 9.5 - Dulzor: 7 - Acidez: 4
-- FORMATO: 100 Cápsulas de Café
-- FORMATO: 100 Cápsulas de Café
-- Cápsulas Compatibles con Bialetti* para uso con los siguientes modelos de máquinas de café: Break, Gioia, Super, Mokona
 - *Bialetti es una marca registrada de Bialetti Industrie SPA. Caffè Borbone SRL es un fabricante independiente no vinculado a Bialetti Industrie SPA. La compatibilidad de las cápsulas de Caffè Borbone es funcional con cafeteras Bialetti* para uso doméstico
-- MEZCLA DE CAFÉ ROJA: Pura energía en sabor, fuerte y cremoso y al mismo tiempo delicioso. Tiene un carácter marcado y persistente que infunde una profunda sensación de placer en el paladar, para una sensación mágica. Una selección de Robusta, envasada en atmósfera protectora
-- Bialetti* Cápsulas compatibles para usar con los siguientes modelos de cafeteras: Break, Gioia, Super, Mokona
+- FRAGANCIA Y AROMA: Una Mezcla de Café inigualable con un extraordinario equilibrio, que se presenta con: Cuerpo: 9.5 - Intensidad: 9.5 - Persistencia: 9.5 - Dulzor: 7 - Acidez: 4
+- FRAGANCIA Y AROMA: Una Mezcla de Café inigualable con un extraordinario equilibrio, que se presenta con: Cuerpo: 9.5 - Intensidad: 9.5 - Persistencia: 9.5 - Dulzor: 7 - Acidez: 4
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BR87W1B8{{</world>}}

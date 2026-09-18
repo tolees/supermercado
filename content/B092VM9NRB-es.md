@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- No amarga, sabor muy similar al del azúcar no aporta calorías al igual monk fruit
 - Perfecta para cafés o infusiones se dosifica muy bien mermeladas, postres, confituras. Perfecto para reducir el consumo de azúcar.
 - No afecta a la glucosa en sangre, apta para personas con diábetes.
 - Muy dulce, para más de 300 cafés, equivale a 3 kg de azúcar.
 - No edulcorantes artificiales, no agentes de carga.
+- No amarga, sabor muy similar al del azúcar no aporta calorías al igual monk fruit
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B092VM9NRB{{</world>}}

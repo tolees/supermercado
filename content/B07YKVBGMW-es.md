@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Para cualquier estufa: adecuado para su uso en una estufa de gas, eléctrica, cerámica o inducción
-- Contenido: sartén y soporte para fondue de hierro fundido, 4 tenedores de fondue, quemador, receta, manual
 - Ideal para fondue de queso: con una capacidad de 700 ml, disfruta de 350 g de queso derretido.
 - BOSKA te ofrece herramientas alimentarias duraderas y asequibles, de calidad excepcional y diseño atemporal
+- Contenido: sartén y soporte para fondue de hierro fundido, 4 tenedores de fondue, quemador, receta, manual
+- Para cualquier estufa: adecuado para su uso en una estufa de gas, eléctrica, cerámica o inducción
 - Diseño robusto y elegante: el uso de hierro fundido, madera de roble y acero inoxidable hace que el juego sea resistente y lujoso
 
 [🛒 Visítala!!!]({{< param buyurl >}})

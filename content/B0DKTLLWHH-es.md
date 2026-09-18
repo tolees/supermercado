@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Envasado en España
-- Mantener en un lugar fresco y seco
 - Ingredientes: Té verde descafeinado.
 - La siguiente información se aplica a cada unidad del paquete
 - Procedente de la agricultura ecológica
+- Mantener en un lugar fresco y seco
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DKTLLWHH{{</world>}}

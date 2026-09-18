@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 30 x 32 cm
 - 70 unidades
+- 30 x 32 cm
+- Ideales para un uso cotidiano y alegre
 - Servilletas fucsia
 - Una capa
-- Ideales para un uso cotidiano y alegre
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00XVKWQ08{{</world>}}

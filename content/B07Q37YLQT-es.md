@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aroma 4/6, Cuerpo 6/6, Tueste 5/6, Intensidad 12/12
-- Una cuidadosa mezcla de granos de Brasil, América Central y Asia
 - Una delicia en todas sus variantes, desde espresso a cappuccino y latte macchiato
-- Extra Cream produce un espresso lleno de cuerpo con un sabor decisivo y una cremosidad persistente
 - Este espresso de tueste medio consigue la armonía perfecta entre dulzor y acidez
+- Extra Cream produce un espresso lleno de cuerpo con un sabor decisivo y una cremosidad persistente
+- Una cuidadosa mezcla de granos de Brasil, América Central y Asia
+- Aroma 4/6, Cuerpo 6/6, Tueste 5/6, Intensidad 12/12
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07Q37YLQT{{</world>}}

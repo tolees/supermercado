@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ensalada marinera con mejillones
-- Adecuado para toda la familia
 - Óptima para aquellas personas con un ritmo de vida dinámico
 - Disfrútala sola, o como guarnición
+- Ensalada marinera con mejillones
 - Se debe conservar en un lugar fresco y seco
+- Adecuado para toda la familia
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00MTEWOPE{{</world>}}

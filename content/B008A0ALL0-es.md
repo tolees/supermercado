@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Ideal para café de filtro o preparación vietnamita
 - Sabor rico y profundo, más intensidad
 - Recién envasado para una frescura duradera
 - Una bolsa de 250 g de café molido
-- Ideal para café de filtro o preparación vietnamita
 - Perfecto para los entendidos en café a los que les gusta más el sabor
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

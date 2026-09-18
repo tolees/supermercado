@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Aceites esenciales: Algunos de los aceites esenciales más eficaces para aliviar la hinchazón alrededor de los ojos son el eucalipto, el tomillo y la bergamota, todos incluidos en este suero. Al igual que la naranja, estos son antiinflamatorios naturales que ayudan a reducir la hinchazón alrededor de los ojos.
-- Aceite de café verde: Todos sabemos que el café nos da un poco de energía por la mañana, y esto no es diferente a cuando lo aplicamos en la piel. Estimulante y revitalizante, el aceite de café tiene una alta concentración de ácidos grasos esenciales, esteroles y vitamina E que lo convierten en un potente antioxidante que puede ofrecer protección contra el daño de la piel, como la formación de células quemadas por el sol y la degradación del ADN.
 - Botella reciclable de vidrio con bola de rodillo reciclable de acero inoxidable para aplicación
 - Aceite de cacay: Aclamado como un aceite maravilloso por sus increíbles propiedades regeneradoras de la piel, el cacay tiene la mayor cantidad de retinol natural que otros aceites, más de tres veces más que el aceite de rosa mosqueta. El retinol es un componente que ayuda a aumentar la producción de colágeno, reducir las arrugas y regenerar la piel.
+- Aceite de café verde: Todos sabemos que el café nos da un poco de energía por la mañana, y esto no es diferente a cuando lo aplicamos en la piel. Estimulante y revitalizante, el aceite de café tiene una alta concentración de ácidos grasos esenciales, esteroles y vitamina E que lo convierten en un potente antioxidante que puede ofrecer protección contra el daño de la piel, como la formación de células quemadas por el sol y la degradación del ADN.
+- Aceites esenciales: Algunos de los aceites esenciales más eficaces para aliviar la hinchazón alrededor de los ojos son el eucalipto, el tomillo y la bergamota, todos incluidos en este suero. Al igual que la naranja, estos son antiinflamatorios naturales que ayudan a reducir la hinchazón alrededor de los ojos.
 - Suero para ojos vegano calmante hecho de ingredientes naturales.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

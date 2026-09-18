@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lactovit - Desodorante Roll-On Extra Eficaz ProLactic10 48H - 50 ml'
-date: 2026-09-16 16:29:03
+date: 2026-09-18 11:36:29
 image: 'https://m.media-amazon.com/images/I/317zwm7i-4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LPLHN76/?tag=tolees-21'
 descuento: '0.00'
-average: '2.15756097560977'
+average: '2.16186046511629'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

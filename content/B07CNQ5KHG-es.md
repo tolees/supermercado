@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amstel Cerveza Lager Pack Lata 24 x 33cl'
-date: 2026-09-07 10:27:45
+date: 2026-09-18 12:06:46
 image: 'https://m.media-amazon.com/images/I/41j4xiuqPcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CNQ5KHG/?tag=tolees-21'
 descuento: '32.04'
-average: '12.6452631578947'
+average: '12.6268041237113'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene gluten
-- DISTRIBUIDA POR: Heineken España, S.A. Avda. de Andalucía 1, Sevilla.
-- Almacenar preferiblemente entre 5 y 15C, evitando temperaturas superiores a 25C
-- Cerveza tipo lager y estilo rubia
-- 100% Malta
-- Conservar el producto en un lugar limpio, seco y bien ventilado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07CNQ5KHG{{</world>}}

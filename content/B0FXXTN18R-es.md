@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ideal para consumirla sola o mezclada con ginebra con mucho hielo y una rodaja de naranja. Perfecta para cualquier momento del día. En tu aperitivo en el bar, con los amigos después del trabajo y con tu copa los fines de semana
-- El refresco de naranja Schweppes contiene 100% de aromas naturales
 - Dulce, cítrica y refrescante, buen sabor a naranja y un toque seco. Agradable acidez.
+- Ideal para consumirla sola o mezclada con ginebra con mucho hielo y una rodaja de naranja. Perfecta para cualquier momento del día. En tu aperitivo en el bar, con los amigos después del trabajo y con tu copa los fines de semana
 - Bebida refrescante bajo en calorías
+- El refresco de naranja Schweppes contiene 100% de aromas naturales
 - Refresco cítrico con un sabor intenso a naranja y muy refrescante
 
 [🛒 Aquí!!!]({{< param buyurl >}})

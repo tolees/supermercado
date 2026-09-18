@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Higiene
 - Parafarmacia
-- 0
 - De la marca Vichy
+- Higiene
+- 0
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00CY9Z7EO{{</world>}}

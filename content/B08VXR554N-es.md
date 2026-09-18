@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Vendimia manual. 18 meses en barricas Americanas y Francesas. 50% barricas nuevas de roble francés, 30% barricas Francesas de un año, 20% barricas Americanas de un año. 24 meses en botella.
+- Buena acidez, con gran equilibrio fruta madera y un final persistente y armónico.
 - Cosecha puede variar
 - Color rojo cereza oscuro, con destellos granates. Intensa, fruta negra, regaliz, ligeros tostados, vainillas, especiados, tonos minerales y balsámicos
-- Buena acidez, con gran equilibrio fruta madera y un final persistente y armónico.
 - Viñedos muy viejos situados en laderas con orientación Sur. Mayores de 50 años.
 - Marida con carnes rojas, platos con trufa, carnes y pescados ahumados, platos con salsas cremosas, quesos curados
-- Vendimia manual. 18 meses en barricas Americanas y Francesas. 50% barricas nuevas de roble francés, 30% barricas Francesas de un año, 20% barricas Americanas de un año. 24 meses en botella.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08VXR554N{{</world>}}

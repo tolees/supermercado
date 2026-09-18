@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- No daña el cuero cabelludo
-- Tiene un efecto rápido
-- Fórmula sin pesticidas
 - Incluye una lendrera metálica
+- Fórmula sin pesticidas
+- Tiene un efecto rápido
+- No daña el cuero cabelludo
 - Es fácil de usar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

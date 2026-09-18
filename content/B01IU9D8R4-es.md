@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Nutrición Natural: fuente natural de proteínas, elaborada con materia prima seleccionada y aporte natural de Omega 3
+- Uso Versátil: adecuada para disfrutar directamente o como parte de ensaladas, bocadillos, tostas y platos fríos pensados para comidas informales o momentos de picoteo
 - Albo: desde 1869, elaboramos conservas con materias primas seleccionadas y los más altos estándares de calidad para conservar lo bueno del mar; más que una lata, es una forma de vivir
 - Bonito del Norte al Natural: conserva de atún blanco sin aditivos, 100% lomo de bonito del Norte, pescado a caña en temporada, la manera más saludable de consumir pescado en conserva
 - Ingredientes: lomos de bonito con una preparación al natural que mantiene las características propias del pescado, una elaboración cuidada que realza el sabor natural del pescado
-- Nutrición Natural: fuente natural de proteínas, elaborada con materia prima seleccionada y aporte natural de Omega 3
-- Uso Versátil: adecuada para disfrutar directamente o como parte de ensaladas, bocadillos, tostas y platos fríos pensados para comidas informales o momentos de picoteo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01IU9D8R4{{</world>}}

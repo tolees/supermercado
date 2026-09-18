@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Fórmula 100 % natural: con suaves compuestos de limpieza a base de aceite de coco, libre de ingredientes irritantes, ideal también para pieles sensibles
-- LIMPIEZA FACIAL DIARIA FÁCIL: elimina fácilmente el maquillaje, el protector solar y las impurezas con un solo golpe
 - Cuidado calmante con manzanilla y caléndula: ayuda a la regeneración de la piel y reduce el enrojecimiento de forma suave y eficaz
+- LIMPIEZA FACIAL DIARIA FÁCIL: elimina fácilmente el maquillaje, el protector solar y las impurezas con un solo golpe
 - También adecuado para el área de los ojos: dermatológicamente suave, sin irritación y perfecto para el uso diario, sin sensación de tensión
 - Hidratación y potencia radiante con aloe vera y ginkgo: para una piel suave e hidratada con brillo natural
 

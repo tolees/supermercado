@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ❄️ Sin azúcares añadidos y listo para mezclar en segundos
-- 🧊 Mezcla 30 ml con 150 ml de agua o leche fría para tu iced coffee perfecto.
-- 🍹 Ideal para iced lattes, americanos y mocktails de café, sin necesidad de máquina.
-- 🧴 Botella de 500 ml = 16 porciones. Conservar en frío tras abrir y consumir en 6 semanas.
 - ☕ Café de alta calidad: concentrado de café líquido con sabor intenso y auténtico.
+- 🧴 Botella de 500 ml = 16 porciones. Conservar en frío tras abrir y consumir en 6 semanas.
+- ❄️ Sin azúcares añadidos y listo para mezclar en segundos
+- 🍹 Ideal para iced lattes, americanos y mocktails de café, sin necesidad de máquina.
+- 🧊 Mezcla 30 ml con 150 ml de agua o leche fría para tu iced coffee perfecto.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0GLZ2KK67{{</world>}}

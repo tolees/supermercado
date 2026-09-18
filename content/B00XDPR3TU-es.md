@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Advertencia alergénica: contiene trigo, soja, leche
 - Listo en 3 minutos
 - Se debe conservar en un lugar fresco y seco
+- Advertencia alergénica: contiene trigo, soja, leche
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00XDPR3TU{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Serum intensivo con vitamina C de última generación hidratante, antiarrugas e iluminador que devuelve a tu piel su vitalidad y luz natural.
 - Un bestseller que vas a adorar.
 - Un potente antioxidante para tu piel.
+- Serum intensivo con vitamina C de última generación hidratante, antiarrugas e iluminador que devuelve a tu piel su vitalidad y luz natural.
 - Ilumina y revitaliza la piel. Unifica el tono y previene el fotoenvejecimiento.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

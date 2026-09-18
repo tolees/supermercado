@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fácil de aplicar
 - Efecto tiza
+- Fácil de aplicar
 - Producto de calidad óptima
 
 [🛒 Aquí!!!]({{< param buyurl >}})

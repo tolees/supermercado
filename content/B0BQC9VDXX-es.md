@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Recambio para 24/7 Spray Automático Active Fresh: y mejor teconologia que combate sin esfuerzo los malos olores, con fragancias sin aerosol
 - Larga duración: cada recambio dura hasta 70 días
 - Botella reciclable, fabricada con un 50% de plástico reciclado
+- Recambio para 24/7 Spray Automático Active Fresh: y mejor teconologia que combate sin esfuerzo los malos olores, con fragancias sin aerosol
 - Fragancia Campo de Lavanda; infusionado con 2 veces más aceites esenciales naturales vs los anteriores recambios de Air Wick Active Fresh Autospray
 - Libre de ftalatos, propulsores y colorantes
 

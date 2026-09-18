@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Etiquetas, certificaciones, premios: Carne Francesa, Punto Verde, Fabricado en Francia
 - Origen de la carne de vacuno: Francia
+- Etiquetas, certificaciones, premios: Carne Francesa, Punto Verde, Fabricado en Francia
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00D3MEK8A{{</world>}}

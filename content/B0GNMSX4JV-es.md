@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - PRUEBA EL EXCEPCIONAL AROMA DE EPIC LEGEND: Esta fragancia de vainilla bourbon, tabaco de cereza, madera de roble ahumada y cálido ámbar te transformará en un legendario caballero de la frescura
 - EXPERIMENTA LA FRESCURA INVISIBLE CON UN 0% DE SALES DE ALUMINIO: como un ninja, la barra Old Spice te mantiene fresco todo el día sin dejar huella en ropa blanca o negra
 - DI ADIÓS AL MAL OLOR Y DISFRUTA DE UNA FRESCURA DURADERA: Disfruta de un superfrescor* excepcional y un aroma fantástico durante 24 horas con el desodorante en spray Old Spice (*con uso diario)
-- ¡FRESCURA PARA EL CUERPO Y LAS AXILAS! Aplícalo por la mañana para mantener una frescura duradera. Vuelve a aplicarlo según sea necesario para una mayor frescura durante todo el día
 - LIBERA LA FÓRMULA ACTIVE DEFENCE DE TRIPLE ACCIÓN: perfume duradero / protección contra el mal olor / combate el mal olor para que huelas de forma legendaria las 24 horas del día, todos los días (con uso diario)
+- ¡FRESCURA PARA EL CUERPO Y LAS AXILAS! Aplícalo por la mañana para mantener una frescura duradera. Vuelve a aplicarlo según sea necesario para una mayor frescura durante todo el día
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0GNMSX4JV{{</world>}}

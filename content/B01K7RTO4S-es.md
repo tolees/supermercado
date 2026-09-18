@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Old El Paso Sazonador para Fajitas en Polvo Sabor Pimienta Picante Suave Sin Conservantes Apto para Vegetarianos 1 Sobre 30g'
-date: 2026-09-14 17:54:58
+date: 2026-09-18 08:27:28
 image: 'https://m.media-amazon.com/images/I/51mNXTZ3DdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K7RTO4S/?tag=tolees-21'
 descuento: '28.06'
-average: '1.18'
+average: '1.12'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

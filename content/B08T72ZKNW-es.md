@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Conservar en un lugar fresco y seco
 - Madurados en rama
 - Apto para dietas vegetarianas y veganas
-- Conservar en un lugar fresco y seco
 - Tomates enteros pelados en su jugo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

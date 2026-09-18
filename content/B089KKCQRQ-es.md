@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- HIGIENE DIARIA QUE CUIDA: Limpia con eficacia respetando la barrera cutánea, para un lavado de manos frecuente en el baño o la cocina sin sensación de tirantez.
 - ALOE VERA Y TÉ VERDE: Enriquecido con aloe vera, que hidrata y suaviza la piel, y con un aroma fresco de aloe vera y té verde que hace más agradable el lavado de manos diario.
-- PROTECCIÓN E HIDRATACIÓN: Jabón de manos que une la protección Sanytol frente a los agentes externos con la hidratación del aloe vera, para unas manos limpias, protegidas y cuidadas.
 - FORMATO 250 ML CON DOSIFICADOR: Envase con dosificador para aplicar la cantidad justa, cómodo para el baño o la cocina de uso diario.
+- PROTECCIÓN E HIDRATACIÓN: Jabón de manos que une la protección Sanytol frente a los agentes externos con la hidratación del aloe vera, para unas manos limpias, protegidas y cuidadas.
 - FÓRMULA PROBADA: Fórmula pensada para el uso frecuente que combina la higiene de manos con el cuidado de la piel en cada lavado.
+- HIGIENE DIARIA QUE CUIDA: Limpia con eficacia respetando la barrera cutánea, para un lavado de manos frecuente en el baño o la cocina sin sensación de tirantez.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B089KKCQRQ{{</world>}}

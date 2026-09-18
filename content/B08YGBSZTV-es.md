@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- BUENO PARA TI Y PARA EL PLANETA: 0 % aceites minerales, 0 % colorantes y frasco reciclable hecho con plástico 100 % reciclado (excluyendo el tapón y las tintas)
-- TIPO DE CABELLO: Este champú Pantene es para cabello normal y mixto, y está probado por el Instituto Vitamínico Suizo, una de las autoridades con mas reconocimiento en cuanto a eficacia de vitaminas
 - El champú Pantene 3en1 Cuidado Clásico limpia suavemente, proporciona una hidratación equilibrada y aporta un brillo saludable, además limpia desenreda y trata el cabello al mismo tiempo, dejandolo suelto y manejable
 - CHAMPÚ CON FÓRMULA SUPERIOR: alimenta el cabello con los nutrientes activos de Pro-V para fortalecerlo y aportarle aspecto saludable desde dentro hacia fuera
+- TIPO DE CABELLO: Este champú Pantene es para cabello normal y mixto, y está probado por el Instituto Vitamínico Suizo, una de las autoridades con mas reconocimiento en cuanto a eficacia de vitaminas
 - El champú Pantene Cuidado Clásico con fórmula Pro-V limpia suavemente, proporciona una hidratación equilibrada y aporta un brillo saludable para fortalecerlo de adentro hacia afuera
+- BUENO PARA TI Y PARA EL PLANETA: 0 % aceites minerales, 0 % colorantes y frasco reciclable hecho con plástico 100 % reciclado (excluyendo el tapón y las tintas)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08YGBSZTV{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fuente de proteína vegetal
 - Producción ecológica
+- Fuente de proteína vegetal
 - Certificado sin gluten
 - Procedente de comercio justo
 

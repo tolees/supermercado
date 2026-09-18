@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Alcohol-Free Formula: Enjoy the benefits of an alcohol-free mouthwash that promotes a healthy oral environment without causing dryness or irritation.
+- WARNING: This product contains sodium fluoride
 - Distinctive Strong Taste Flavor: Experience a refreshing and clean sensation with Euthymol Mouthwashs special blend of ingredients and its distinctive strong taste.
 - Fights Bad Breath with Vitamin E: Euthymol Mouthwash contains vitamin E, which helps fight against bad breath while maintaining the mouths natural environment.
 - Classic British Oral Care Brand: Elevate your oral hygiene routine with Euthymol Mouthwash, a famous brand in the UK since 1898.
 - Trusted by Generations in the UK: Embrace a refreshing daily oral care routine with Euthymol Mouthwash, a brand trusted by generations for its efficacy and distinctive taste.
-- WARNING: This product contains sodium fluoride
-- Alcohol-Free Formula: Enjoy the benefits of an alcohol-free mouthwash that promotes a healthy oral environment without causing dryness or irritation.
 - Reduces Plaque and Promotes Healthy Teeth and Gums: The formulation, including eucalyptus and thymol, helps reduce plaque, ensuring clean and healthy teeth and gums.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

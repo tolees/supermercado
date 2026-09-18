@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fiel a la firma de Seagram’s Dry, denota la esencial floral y fresca procedente de sus botánicos dulces y cítricos como la mandarina y la naranja
 - Destaca el elegante y característico amargor del lúpulo, aportándole una mayor potencia y cuerpo en boca, manteniendo su perfil sedoso y dulce
 - Elaborada con extractos de lúpulo, mantiene la esencia de Seagram´s Gin adquiriendo el amargor y caracter propio de las IPA
+- Fiel a la firma de Seagram’s Dry, denota la esencial floral y fresca procedente de sus botánicos dulces y cítricos como la mandarina y la naranja
 - Grano 100% amerciano
 
 [🛒 Visítala!!!]({{< param buyurl >}})

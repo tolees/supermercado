@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Para bebés a partir de los seis meses
 - Elaborado con ingredientes 100% naturales
-- Tiene un práctico formato: bolsita listo para llevar
 - Bolsita de puré con manzana y mango
+- Tiene un práctico formato: bolsita listo para llevar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08B6N3Y6K{{</world>}}

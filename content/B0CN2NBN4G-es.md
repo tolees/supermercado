@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- La vitamina C activa las defensas y ayuda a frenar el envejecimiento prematuro de
+- Proporciona una humedad fresca para una piel flexible y en forma
 - Gel de baño nutritivo con extracto refrescante de cítricos y melocotón
 - Extractos naturales de cítricos y melocotón
-- Proporciona una humedad fresca para una piel flexible y en forma
-- La vitamina C activa las defensas y ayuda a frenar el envejecimiento prematuro de
 - La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Comprar!!!]({{< param buyurl >}})

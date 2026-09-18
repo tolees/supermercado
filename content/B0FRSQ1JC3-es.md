@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- SNACK SABROSO Y SALUDABLE: Mima a tu gato con Churu, deliciosas cremas disponibles en una amplia variedad de recetas irresistibles. Su textura suave y cremosa encantará a cualquier felino
 - ALTA HUMEDAD Y BAJO EN CALORÍAS: Cada tubito contiene un 88% de humedad esencial para la salud del gato y solo 6 calorías. Ideal como snack saludable diario
+- SNACK SABROSO Y SALUDABLE: Mima a tu gato con Churu, deliciosas cremas disponibles en una amplia variedad de recetas irresistibles. Su textura suave y cremosa encantará a cualquier felino
 - INGREDIENTES DE ALTA CALIDAD: Snacks Churu con alta palatabilidad, bajos en calorías y sin cereales. Sin conservantes ni colorantes artificiales. Elaborados con pollo de corral y atún salvaje
 - APTO PARA TODOS LOS GATOS: Ideal como premio, complemento o para enriquecer su comida habitual. Apto para gatos de todas las razas y edades
 - FORMATO AHORRO: Pack práctico con 120 unidades de 14g. Perfecto para ofrecer directamente desde la mano y fortalecer el vínculo con tu gato

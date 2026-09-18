@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Contiene alergenos: Mostaza, Huevo
 - Contiene gluten
 - Prueba el resto de nuestros sabores para continuar con la aventura del sabor
-- Contiene alergenos: Mostaza, Huevo
 - Perfecto para hamburgesas y perritos calientes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

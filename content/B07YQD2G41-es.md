@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aromática y ligeramente picante
-- Los sobres vienen individualmente
 - Infusión de jengibre y limón
 - Elaborado con ingredientes naturales
+- Aromática y ligeramente picante
 - Libre de cafeína
+- Los sobres vienen individualmente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07YQD2G41{{</world>}}

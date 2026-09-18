@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - TENDENCIA OLFATIVA: Fragancia de mujer con equilibrio perfecto entre frescura y sofisticación, ideal para quienes buscan un perfume duradero que acompañe todo el día sin resultar pesado.
 - FRAGANCIA FLORIENTAL AFRUTADA: Descubre Tous Love Me The Onyx, un perfume de mujer intenso e irresistible inspirado en la piedra preciosa Ónix Negro.
-- PIRÁMIDE OLFATIVA: Notas de salida: avellana, pomelo, peonía. Notas de corazón: orquídea negra, heliotropo. Notas de fondo: vainilla, vetiver, sándalo.
 - PERFUME VERSÁTIL: Ideal como perfume mujer diario o para ocasiones especiales; su aroma elegante y femenino se adapta a cualquier momento y estación del año.
 - REGALO PERFECTO PARA MUJER: Este perfume de Tous es ideal para regalar en cumpleaños, San Valentín, Día de la Madre o Navidad; diseño atractivo que combina lujo y feminidad.
+- PIRÁMIDE OLFATIVA: Notas de salida: avellana, pomelo, peonía. Notas de corazón: orquídea negra, heliotropo. Notas de fondo: vainilla, vetiver, sándalo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09NRRWC52{{</world>}}

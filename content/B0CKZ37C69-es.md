@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Suministro óptimo: una lata de nuestros péptidos de colágeno ESN contiene 20 porciones. El zinc ayuda a mantener una piel sana y el cobre para mantener un tejido conectivo normal¹²³
 - Sabor delicioso: no importa si es insípido o afrutado, nuestros péptidos de colágeno ESN están disponibles en neutro, limón, naranja y cereza
 - Fabricado en Alemania: los péptidos de colágeno ESN se producen en producción propia y alemana con el cumplimiento de los más estrictos requisitos de calidad
-- Suministro óptimo: una lata de nuestros péptidos de colágeno ESN contiene 20 porciones. El zinc ayuda a mantener una piel sana y el cobre para mantener un tejido conectivo normal¹²³
 - Innovador: nuestra preparación contiene los tres péptidos de colágeno bioactivos patentados específicos de tejido TENDOFORTE, FORTIGEL, VERISOL y además vitamina C, zinc y cobre como cofactores
 - Rápido y sencillo: puedes mezclar rápida y fácilmente una deliciosa bebida de colágeno en dosis altas, simplemente mezclar 15 g de polvo de colágeno con 300 ml de agua y disfrutar
 

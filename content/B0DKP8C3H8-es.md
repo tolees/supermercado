@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fuente de fibra: optimo si buscas una comida que además aporte fibra
-- Bajo en grasas: optimo para quienes buscan un producto bajo en grasas sin sacrificar el sabor
 - Sustitutivo de comida: un batido equivale a una comida completa en el marco de una dieta hipocalórica
 - Sabor intenso a fresa: disfruta de un delicioso sabor a fresa mientras cuidas tu alimentación con este batido sustitutivo
+- Bajo en grasas: optimo para quienes buscan un producto bajo en grasas sin sacrificar el sabor
+- Fuente de fibra: optimo si buscas una comida que además aporte fibra
 - Alto en proteínas: contiene proteínas esenciales que ayudan a mantener y desarrollar la masa muscular
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- crema hidratante
-- Aceite de coco para la loción corporal de la piel con un aroma calmante y cremoso
-- Dove Loción con fórmula súper rica que proporciona a la piel humedad
-- Dove Loción corporal enriquecida con aceite de coco y leche de almendras
-- Dove Loción corporal para todos los tipos de piel que deja una sensación relajada y extra suave en la piel
 - Inspirado en los rituales de belleza reales de las mujeres indias
+- Dove Loción corporal enriquecida con aceite de coco y leche de almendras
+- Aceite de coco para la loción corporal de la piel con un aroma calmante y cremoso
+- crema hidratante
+- Dove Loción corporal para todos los tipos de piel que deja una sensación relajada y extra suave en la piel
+- Dove Loción con fórmula súper rica que proporciona a la piel humedad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0756GZPLD{{</world>}}

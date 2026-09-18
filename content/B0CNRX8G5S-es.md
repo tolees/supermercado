@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Matcha ceremonial del sur de Japón
 - Caffeine content : Cafeína media
+- Matcha ceremonial del sur de Japón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CNRX8G5S{{</world>}}

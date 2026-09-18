@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ENVASE: Botellas PET más resistentes. No retornable
-- USO ALTERNATIVO: Indicada para la preparación de alimentos infantiles y dietas pobres en sodio
 - MINERAL: Agua mineral de gran pureza sabor y equilibrio
+- USO ALTERNATIVO: Indicada para la preparación de alimentos infantiles y dietas pobres en sodio
+- ENVASE: Botellas PET más resistentes. No retornable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00PDRLB94{{</world>}}

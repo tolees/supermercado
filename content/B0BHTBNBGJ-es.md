@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para: el
 - Notas de salida: kumquat, pomelo, pimienta rosa.
 - Familia olfativa: madera
+- Para: el
 - Notas de corazón: lavanda, verbena, albahaca, haba tonka.
 - Tipo: fresca y versátil
 

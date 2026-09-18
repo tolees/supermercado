@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - El Desodorante roll-on Verbena Cítricos neutraliza los malos olores mientras perfuma su piel con un aroma fresco y cítrico; Está formulado sin sales de aluminio ni alcohol;
-- Respeta el fenómeno natural de la transpiración sin bloquearla; Sus poros no se obstruyen, su piel puede respirar;
 - Aplíquelo sobre la piel limpia y seca;
+- Respeta el fenómeno natural de la transpiración sin bloquearla; Sus poros no se obstruyen, su piel puede respirar;
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B11YKTD6{{</world>}}

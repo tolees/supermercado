@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Listo para consumo
 - Bajo en grasa
-- Conservar en lugar fresco y seco
-- Elaborado con pescado natural
 - Sin conservantes ni colorantes
+- Elaborado con pescado natural
+- Conservar en lugar fresco y seco
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B009UPFMPO{{</world>}}

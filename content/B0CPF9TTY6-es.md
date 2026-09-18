@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Listerine Enjuague Bucal Mentol 250 ml Paquete de 2'
-date: 2026-09-15 14:34:38
+date: 2026-09-17 11:27:29
 image: 'https://m.media-amazon.com/images/I/41A3WNppywL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CPF9TTY6/?tag=tolees-21'
 descuento: '64.91'
-average: '2.8736842105263'
+average: '2.79047619047617'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

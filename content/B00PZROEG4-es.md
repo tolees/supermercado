@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- "Para apreciar mejor las características organolépticas de este vinorecomiendo su decantación 60 minutos antes de su consumo y servirlo a 16ºC. Este vino tendrá una buena evolución en botella durante los próximos 10-12 años si se mantiene en condiciones adecuadas de conservación."
-- Nota de cata (boca): Vino muy amplio, potente, cálido y con un largo postgusto.
-- Nota de cata (nariz): Aromas de fruta negra muy madura entremezclados con finos matices balsámicos y tostados.
-- Nota de cata (vista): Color rojo picota muy intenso con reflejos granate.
 - Varietales: Tinto fino 100%
+- "Para apreciar mejor las características organolépticas de este vinorecomiendo su decantación 60 minutos antes de su consumo y servirlo a 16ºC. Este vino tendrá una buena evolución en botella durante los próximos 10-12 años si se mantiene en condiciones adecuadas de conservación."
+- Nota de cata (nariz): Aromas de fruta negra muy madura entremezclados con finos matices balsámicos y tostados.
+- Nota de cata (boca): Vino muy amplio, potente, cálido y con un largo postgusto.
+- Nota de cata (vista): Color rojo picota muy intenso con reflejos granate.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00PZROEG4{{</world>}}

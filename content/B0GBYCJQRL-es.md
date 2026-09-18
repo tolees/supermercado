@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene una mezcla de especias como ajo, pimentón, orégano y comino, sin harinas ni almidón, adhiriéndose fácilmente a los alimentos; puede contener trazas de cacahuete, mostaza y sésamo.
-- Disponible en un práctico formato de lata de 75 g con diseño compacto, fácil de almacenar y excelente para tener siempre a mano en tu cocina.
-- Una opción rápida y deliciosa para tus comidas, excelente para sorprender con chips irresistiblemente crujientes y llenas de sabor.
 - Diseñado para realzar el sabor de tus patatas fritas en freidora de aire y conseguir unas patatas doradas y crujientes en minutos.
-- 100 años dando sabor y color a tu vida. El diseño puede cambiar, pero el sabor y la calidad siguen siendo los mismos.
 - Incrementa el sabor de tus platos mientras permite preparar guarniciones rápidas y deliciosas, ofreciendo una experiencia culinaria versátil y fácil de usar: simplemente mezcla y cocina.
+- 100 años dando sabor y color a tu vida. El diseño puede cambiar, pero el sabor y la calidad siguen siendo los mismos.
+- Una opción rápida y deliciosa para tus comidas, excelente para sorprender con chips irresistiblemente crujientes y llenas de sabor.
+- Disponible en un práctico formato de lata de 75 g con diseño compacto, fácil de almacenar y excelente para tener siempre a mano en tu cocina.
+- Contiene una mezcla de especias como ajo, pimentón, orégano y comino, sin harinas ni almidón, adhiriéndose fácilmente a los alimentos; puede contener trazas de cacahuete, mostaza y sésamo.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GBYCJQRL{{</world>}}

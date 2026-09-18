@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Surtido de 5 variedades de bombones de chocolate negro y chocolate con leche con sabor a menta.
 - Ideal para regalar o compartir
 - After Eight ahora en formato de bombones
+- Surtido de 5 variedades de bombones de chocolate negro y chocolate con leche con sabor a menta.
 - 100% Cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan. Certificado Rainforest Alliance.
 - Todos los productos After Eight están libres de colorantes, sabores y conservantes artificiales.
 

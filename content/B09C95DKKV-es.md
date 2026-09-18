@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Fáciles de transportar y flexibles para llevarlas a cualquier parte, vayas donde vayas
 - Agitar antes de abrir. Apretar la bolsita directamente sobre la cuchara. No coloque la bolsita en el microondas
-- Envase de 6 x 90g
+- La tapa puede suponer un riesgo de asfixia para los niños menores de 36 meses. Mantener siempre fuera de su alcance. No permitir que los niños menores de 36 meses se alimenten directamente de la bolsita. Al abrir la bolsita, la tapa debe hacer clic. No utilizar si la bolsita parece dañada o inflada. Los bebés deben ser supervisados mientras comen. Antes de abrir, compruebe la fecha de consumo preferente
+- Nuestra bolsitas, aptas para mayores de 6 meses, no tienen trozos de comida, ofrecen un sabor intenso y serán el alimento favorito de tu pequeño
 - Previamente Marcado Mama Bear
 - Todos nuestros deliciosos ingredientes son orgánicos
 - Puré de Manzana, plátano y avena
-- La tapa puede suponer un riesgo de asfixia para los niños menores de 36 meses. Mantener siempre fuera de su alcance. No permitir que los niños menores de 36 meses se alimenten directamente de la bolsita. Al abrir la bolsita, la tapa debe hacer clic. No utilizar si la bolsita parece dañada o inflada. Los bebés deben ser supervisados mientras comen. Antes de abrir, compruebe la fecha de consumo preferente
+- Envase de 6 x 90g
 - Apto para dietas vegetarianas y veganas
-- Fáciles de transportar y flexibles para llevarlas a cualquier parte, vayas donde vayas
-- Nuestra bolsitas, aptas para mayores de 6 meses, no tienen trozos de comida, ofrecen un sabor intenso y serán el alimento favorito de tu pequeño
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09C95DKKV{{</world>}}

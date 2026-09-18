@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Buen acompañante de caza, carnes rojas y ternera
 - Elaborado con uvas de la variedad Tempranillo
 - En el retrogusto, el vino es muy largo, reapareciendo
-- Buen acompañante de caza, carnes rojas y ternera
-- De color picota de capa alta
 - Notas de fruta roja, grosella, arándanos
+- De color picota de capa alta
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01K7IMLVA{{</world>}}

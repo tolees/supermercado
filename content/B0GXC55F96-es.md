@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Perfecto para disfrutar del zumo, con hielo como un cóctel sin alcohol afrutado, o como base para bebidas y cócteles. Con tan solo un ingrediente adicional, tu mezcla perfecta estará lista en un instante
-- El sabor del cóctel más clásico, ahora sin alcohol y listo para disfrutar
-- Refrescante combinación inspirada en el clásico mojito, con el equilibrio perfecto entre limón y menta
 - Mojito elaborado con ingredientes de origen natural y sin alcohol que ofrece todo el sabor y frescura del cóctel tradicional . 22% de contenido de fruta
+- Perfecto para disfrutar del zumo, con hielo como un cóctel sin alcohol afrutado, o como base para bebidas y cócteles. Con tan solo un ingrediente adicional, tu mezcla perfecta estará lista en un instante
+- Refrescante combinación inspirada en el clásico mojito, con el equilibrio perfecto entre limón y menta
+- El sabor del cóctel más clásico, ahora sin alcohol y listo para disfrutar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GXC55F96{{</world>}}

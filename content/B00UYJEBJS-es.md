@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Duración excepcional.
-- Fácil de aplicar.
 - Paleta de colores atrevida y versátil, de cobertura total a traslúcido.
 - Color más rico y vivo.
-- Acabado ultrabrillante.
+- Duración excepcional.
 - Esmalte de uñas de secado rápido.
+- Acabado ultrabrillante.
+- Fácil de aplicar.
 - Fórmula vegana limpia y mejorada.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

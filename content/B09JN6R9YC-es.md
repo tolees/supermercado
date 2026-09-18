@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sabor auténtico: Nuestras ramas de canela se secan cuidadosamente para conservar su sabor y aroma naturales. Son naturalmente veganas y no contienen gluten, aditivos, conservantes ni saborizantes.
-- La canela es una especia popular derivada de la corteza interna de varios árboles del género Cinnamomum. Conocida por su sabor cálido, dulce y aromático, realza tanto platos dulces como salados.
+- Compromiso con la calidad: Mantenemos estándares excepcionales a lo largo de toda la cadena de valor, desde el cultivo hasta el envasado, para asegurar la consistencia en la calidad de nuestros productos.
 - Usos versátiles: Las ramas de canela aromatizan postres como rollos de canela y tartas de manzana, así como guisos, curris y vino caliente. También se utilizan en aromaterapia y como ambientadores naturales.
 - Origen natural: Nuestras ramas de canela provienen de cultivos que priorizan la pureza, garantizando que cada ingrediente cumpla con los más altos estándares de calidad.
-- Compromiso con la calidad: Mantenemos estándares excepcionales a lo largo de toda la cadena de valor, desde el cultivo hasta el envasado, para asegurar la consistencia en la calidad de nuestros productos.
+- La canela es una especia popular derivada de la corteza interna de varios árboles del género Cinnamomum. Conocida por su sabor cálido, dulce y aromático, realza tanto platos dulces como salados.
+- Sabor auténtico: Nuestras ramas de canela se secan cuidadosamente para conservar su sabor y aroma naturales. Son naturalmente veganas y no contienen gluten, aditivos, conservantes ni saborizantes.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09JN6R9YC{{</world>}}

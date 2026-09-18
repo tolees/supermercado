@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Suave y absorbente
 - Paquete de 6 rollos súper triples
 - 420 servicios por rollo
+- Suave y absorbente
 - Rollo compacto triple
 - Papel de dos capas
 
