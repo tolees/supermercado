@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mahou 5 Estrellas Cerveza Lager Dorada Pack 12 Botellines x 25cl'
-date: 2026-09-16 07:06:22
+date: 2026-09-21 09:30:04
 image: 'https://m.media-amazon.com/images/I/31xJR06kImL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XDNTRIM/?tag=tolees-21'
 descuento: '37.81'
-average: '5.81565217391305'
+average: '5.78166666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kärcher FJ 6 Boquilla de Espuma volumen recipiente: 0 6 l color: transparente consumo de detergente ajustable manualmente compatible con todas las hidrolimpiadoras K2 a K7 de Kärcher'
-date: 2026-07-23 22:06:51
+date: 2026-09-22 15:44:05
 image: 'https://m.media-amazon.com/images/I/411PCsqgC7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00HH9QI1C-es Kärcher FJ 6 Boquilla de Espuma volumen recipiente: 0 6 l...'
 sku: 'B00HH9QI1C-es'
 tags: [ 'detergente','🇪🇸', ]
-actualPrice: 17.77 EUR
+actualPrice: 17.95 EUR
 currency: EUR
-price: 17.77
-comparePrice: 17.77 EUR
+price: 17.95
+comparePrice: 23.95 EUR
 prodname: 'Kärcher FJ 6 Boquilla de Espuma volumen recipiente: 0 6 l color: transparente consumo de detergente ajustable manualmente compatible con todas las hidrolimpiadoras K2 a K7 de Kärcher'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HH9QI1C/?tag=tolees-21'
-descuento: '0.00'
-average: '17.0871794871795'
+descuento: '25.05'
+average: '17.1292682926829'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Recipiente de 0,6 l de capacidad
-- Compatible con las hidrolimpiadoras de Kärcher y adecuado para vehículos, porches acristalados, muebles de jardín, fachadas, escaleras, caravanas, caminos, muros, persianas, terrazas, entradas, etc
-- Boquilla de espuma FJ 6 para limpiar con espuma y sin esfuerzo superficies de todo tipo: pintura, vidrio o piedra.
-- Permite transformar desinfectantes y detergentes en una potente espuma para facilitar la limpieza y desinfección de todas las superficies externas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00HH9QI1C{{</world>}}

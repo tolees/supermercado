@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ingrediente de salmón n°1
 - La fórmula ha sido equilibrada por expertos para apoyar el envejecimiento saludable en gatos mayores.
+- Ingrediente de salmón n°1
 - Contiene un alto nivel de antioxidantes, arginina, ácidos grasos omega 3 y 6 y prebióticos para apoyar las funciones vitales clave (inmune, renal, digestión)
-- Formulación especialmente diseñada para apoyar la salud cerebral
 - Nutrición basada en la ciencia desarrollada con veterinarios de Purina
+- Formulación especialmente diseñada para apoyar la salud cerebral
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07HLQXZFZ{{</world>}}

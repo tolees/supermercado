@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TRAPA 0% AZÚCARES AÑADIDOS | Tableta de Chocolate Blanco | Sin Gluten'
-date: 2026-09-19 16:59:18
+date: 2026-09-22 06:59:46
 image: 'https://m.media-amazon.com/images/I/41LoCQAzp5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

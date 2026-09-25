@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Larios Ginebra Mediterránea Dry Gin 70cl'
-date: 2026-04-11 12:48:39
-image: 'https://m.media-amazon.com/images/I/31racJdxHyL._SL500_._SL400_.jpg'
+date: 2026-09-25 18:06:19
+image: 'https://m.media-amazon.com/images/I/314ecw7fvRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B00XUNT40Q-es Larios Ginebra Mediterránea Dry Gin 70cl'
 sku: 'B00XUNT40Q-es'
 tags: [ 'dry','gin','ginebra','🇪🇸', ]
-actualPrice: 8.28 EUR
+actualPrice: 8.59 EUR
 currency: EUR
-price: 8.28
+price: 8.59
 comparePrice: 10.3 EUR
 prodname: 'Larios Ginebra Mediterránea Dry Gin 70cl'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XUNT40Q/?tag=tolees-21'
-descuento: '19.61'
-average: '8.24'
+descuento: '16.60'
+average: '8.30363636363636'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sabor suave y refrescante en el paladar; Larios Dry Gin es una ginebra con cuerpo que presenta un equilibrio de los elementos botánicos con un toque de dulzura
-- Ginebra de aspecto cristalino y brillante
-- Para disfrutar de su refrescante sabor se recomienda tomarla en una copa con abundante hielo acompañada de tónica
-- Elaborada a partir de un proceso de dos destilaciones de enebro salvaje y una selección de ingredientes naturales
-- Posee los aromas propios de la ginebra: bayas de enebro salvaje que se unen a los cítricos más refrescantes: limón y naranja del Mediterráneo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XUNT40Q{{</world>}}

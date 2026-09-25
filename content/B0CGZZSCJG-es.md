@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fragancia fresca, limpia y delicada.​
 - Dove no testa en animales en ningún lugar del mundo​.
-- Desodorante Antitranspirante en spray con nuestra fórmula Advanced Care y Tecnología Triple Hidratante.​
 - Ayuda a reparar la piel de la irritación, incluso después del depilado. 0% alcohol.​ Desodorante sin aluminio.
+- Desodorante Antitranspirante en spray con nuestra fórmula Advanced Care y Tecnología Triple Hidratante.​
+- Fragancia fresca, limpia y delicada.​
 - Desodorante Antitranspirante Aerosol Dove Advanced Care Original 35ml.​
 - Protección 72 horas.
 

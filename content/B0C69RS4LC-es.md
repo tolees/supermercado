@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- TAZA DE CAFÉ CON CALAVERA: aplicable al hogar, restaurante y otros lugares.
-- TAZAS DE CAFÉ MEXICANAS: la taza tiki cup tiki, de gran capacidad, se puede usar como decoración o como recipiente para copas de vino, exquisita y práctica.
-- VIDRIO VINTAGE: excelente estabilidad, no se producirán sustancias nocivas después de almacenar el vino, seguro y saludable para su uso.
 - COPA DE CHAMPÁN: adecuada para fiestas hawaianas, puede contener bebidas, café, champán, cócteles y otros usos de contenedores. Diseño de apariencia única, creatividad original. taza tropical
+- TAZA DE CAFÉ CON CALAVERA: aplicable al hogar, restaurante y otros lugares.
+- VIDRIO VINTAGE: excelente estabilidad, no se producirán sustancias nocivas después de almacenar el vino, seguro y saludable para su uso.
+- TAZAS DE CAFÉ MEXICANAS: la taza tiki cup tiki, de gran capacidad, se puede usar como decoración o como recipiente para copas de vino, exquisita y práctica.
 - VASOS DE ROCAS: taza de calavera vikinga, material cerámico de , apariencia suave y delicada.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

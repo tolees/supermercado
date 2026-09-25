@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Ayuda a blanquear los dientes
+- Para una higiene dental profunda
 - Pasta de dientes con flúor para manchas dentales
 - Contenedor práctico y fácil de almacenar
-- Para una higiene dental profunda
-- Ayuda a blanquear los dientes
 - Tiene un refrescante sabor a menta
 
 [🛒 Aquí!!!]({{< param buyurl >}})

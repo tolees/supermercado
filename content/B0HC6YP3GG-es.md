@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- ☀️ [ FABRICACIÓN EN ESPAÑA ] Fabricado en laboratorio certificado con IFS. Sin OGM (Organismos Modificados Genéticamente). Buenas prácticas de fabricación (GMP). NO Contiene → Gluten, Pescado, Lactosa, Lácteos, Soja, Frutos Secos, Huevo. CONFORME A NUESTRA POLÍTICA DE COMPROMISO RESPETUOSO CON EL MEDIO AMBIENTE NO SE INCLUYE CACITO DOSIFICADOR.
 - 🏆 [ SIN AZÚCARES AÑADIDOS ] Bajo aporte de azúcar natural. Sin hidrólisis -> Alimento perfecto para personas que no consumen azúcar en su dieta y siguen un estilo de vida saludable basado en la comida real.
 - 🚀 [ FACIL DE PREPARAR ] Muy fácil de preparar de forma homogénea, no deja grumos -> Mezcla 2 dosificadores de 20ml (30g aprox.) en 160ml de agua, leche o bebida vegetal.
-- 🥣 [ CREMA DE ARROZ FITNESS ] Ideal para preparar papillas y porridges -> Se puede combinar con proteína whey en polvo o proteína vegetal.
-- ☀️ [ FABRICACIÓN EN ESPAÑA ] Fabricado en laboratorio certificado con IFS. Sin OGM (Organismos Modificados Genéticamente). Buenas prácticas de fabricación (GMP). NO Contiene → Gluten, Pescado, Lactosa, Lácteos, Soja, Frutos Secos, Huevo. CONFORME A NUESTRA POLÍTICA DE COMPROMISO RESPETUOSO CON EL MEDIO AMBIENTE NO SE INCLUYE CACITO DOSIFICADOR.
 - 🔝 [ 100% HARINA DE ARROZ PRECOCIDA ] Preparado alimenticio a base de harina de arroz cruda, sometida a un proceso de cocinado (pre-cocinado) para su posterior transformación de nuevo en polvo de harina -> Se puede tomar directamente sin cocinar.
+- 🥣 [ CREMA DE ARROZ FITNESS ] Ideal para preparar papillas y porridges -> Se puede combinar con proteína whey en polvo o proteína vegetal.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0HC6YP3GG{{</world>}}

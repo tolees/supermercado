@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Lagavulin 8 años Whisky Escocés - 700 ml'
-date: 2026-03-12 03:58:43
-image: 'https://m.media-amazon.com/images/I/41oZAytnapL._SL500_._SL400_.jpg'
+date: 2026-09-23 08:45:01
+image: 'https://m.media-amazon.com/images/I/31-vsNHFCzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B01E7DSPDO-es Lagavulin 8 años Whisky Escocés - 700 ml'
 sku: 'B01E7DSPDO-es'
 tags: [ 'whisky','🇪🇸', ]
-actualPrice: 44.9 EUR
+actualPrice: 39.99 EUR
 currency: EUR
-price: 44.9
-comparePrice: 62.0 EUR
+price: 39.99
+comparePrice: 63.0 EUR
 prodname: 'Lagavulin 8 años Whisky Escocés - 700 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01E7DSPDO/?tag=tolees-21'
-descuento: '27.58'
-average: '46.9039130434783'
+descuento: '36.52'
+average: '46.6158333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,6 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Un producto de gran profundidad y personalidad que rinde homenaje a la crítica del afamado periodista y cronista de whiskies, Alfred Barnard
-- Graduación alcohólica: 48 percent
-- Su destilación se realiza en alambiques de pera de cobre
-- Con un color dorado, en nariz se aprecia su ligereza, frescura y las notas a chocolate con leche, limón y marítimas; con toques de carbón, menta y chocolate negro en boca, y paladar ahumado y duradero
-- Tras el éxito del año pasado, Lagavulin 8 vuelve por demanda popular
-- Un whisky que siempre aprecia ser servido solo o con hielo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01E7DSPDO{{</world>}}

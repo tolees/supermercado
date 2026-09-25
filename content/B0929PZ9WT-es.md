@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Contenido de alcohol: 40%
 - Capacidad: 6x0.7L
 - Marca: Canadian Club
-- Contenido de alcohol: 40%
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0929PZ9WT{{</world>}}

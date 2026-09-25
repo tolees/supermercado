@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El paquete puede variar
-- Formulado con ingredientes vegetales activos
 - Fácil de aplicar
+- Formulado con ingredientes vegetales activos
 - 100% cobertura de canas
+- El paquete puede variar
 - Gel de coloración permanente color 6N Rubio Oscuro
 - Sin amoníaco o parafinas
 

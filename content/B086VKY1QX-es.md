@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene trigo, leche, huevo y apio
-- Auténtico sabor
-- Conservar en lugar fresco y seco
 - Cocina español
+- Auténtico sabor
 - Puede contener trazas de soja, pescado, crustáceos y moluscos
+- Contiene trigo, leche, huevo y apio
+- Conservar en lugar fresco y seco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B086VKY1QX{{</world>}}

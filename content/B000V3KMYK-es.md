@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Formato: Stick
+- Proteccion solar: 15
 - Protección SPF: Baja SPF 0- SPF 10
 - Parafarmacia: Parafarmacia
-- Proteccion solar: 15
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B000V3KMYK{{</world>}}

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Papel color blanco
-- Testado dermatológicamente
-- La siguiente información se aplica a cada unidad del paquete
-- Papel Higiénico 4 capas
 - Paquete de 9 rollos
 - Sin perfume ni loción
+- Papel Higiénico 4 capas
+- Testado dermatológicamente
+- La siguiente información se aplica a cada unidad del paquete
+- Papel color blanco
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DLX23YGP{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B Vitality Pro Cepillo de Dientes Eléctrico con 1 Cabezal Negro'
-date: 2026-09-16 20:25:24
+date: 2026-09-21 10:40:08
 image: 'https://m.media-amazon.com/images/I/41Nn6QpaXHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0B4SCYCLS/?tag=tolees-21'
 descuento: '34.55'
-average: '23.8084615384617'
+average: '23.7931932773111'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

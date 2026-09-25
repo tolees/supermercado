@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Innovadora, juvenil y llena de vida
 - Productos de calidad a precio reducido
+- Innovadora, juvenil y llena de vida
 - Marca Nº1 en Europa
 
 [🛒 Visítala!!!]({{< param buyurl >}})

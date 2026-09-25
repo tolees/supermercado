@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Dile adiós a los malos olores durante 48 horas
-- Actúa como escudo protector contra las manchas blancas y amarillentas
 - [Old Spice Deep Sea, con aroma a mar abierto, flores y notas cítricas, te hará inolvidable: te convertirás prácticamente en el centro del universo
+- Actúa como escudo protector contra las manchas blancas y amarillentas
 - La frescura duradera que todos quieren]
 
 [🛒 Visítala!!!]({{< param buyurl >}})

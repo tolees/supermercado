@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tipo de producto: Locion anti-imperfecciones
 - Marca: Clinique
 - Productos de belleza y el cuidado personal
+- Tipo de producto: Locion anti-imperfecciones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B000UJHB4Y{{</world>}}

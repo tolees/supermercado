@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Un sabor equilibrado de sabores dulces
+- Notas dulces y sutiles de chocolate con leche, vainilla y manzana roja
+- Regusto fresco y floral que crea un brillo redondeado
 - Tiene un aroma ligeramente dulce con un toque a vainilla
 - Es un whisky escocés cuya receta centenaria es apreciada por la armonía y equilibrio que se logra combinando las más de cincuenta maltas que lo componen
-- Un sabor equilibrado de sabores dulces
-- Regusto fresco y floral que crea un brillo redondeado
-- Notas dulces y sutiles de chocolate con leche, vainilla y manzana roja
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07VQP1LL8{{</world>}}

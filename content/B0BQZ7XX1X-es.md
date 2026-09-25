@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Made in Italy: Gimoka Group - Café y bebidas por pasión desde los años 80, se compromete activamente a desarrollar soluciones de embalaje fácilmente reciclables, compostables y ecosostenibles.
-- Preparado en polvo con sabor a pistacho para mini capuchinos, envasado en cápsulas en atmósfera protectora
-- Cápsulas de aluminio compatibles con Nespresso* con sabor a pistacho
 - *Nespresso es una marcas comerciales registradas de Societè des Produits Nestlè S.A. Gruppo Gimoka Spa es un fabricante independiente no vinculado a Societè des Produits Nestlè S.A. La compatibilidad de las cápsulas Gimoka Es funcional para su uso con las máquinas de café domésticas Nespresso.
+- Cápsulas de aluminio compatibles con Nespresso* con sabor a pistacho
+- Preparado en polvo con sabor a pistacho para mini capuchinos, envasado en cápsulas en atmósfera protectora
+- Made in Italy: Gimoka Group - Café y bebidas por pasión desde los años 80, se compromete activamente a desarrollar soluciones de embalaje fácilmente reciclables, compostables y ecosostenibles.
 - Formato: 100 cápsulas ahorradoras de aroma, para conservar todo el frescor de la bebida
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

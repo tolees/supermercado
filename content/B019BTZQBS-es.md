@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - MODO DE USO: aplica este champú sobre el cabello mojado, masajea de raíces a puntas y aclara bien. Úsalo regularmente para mantener el color y la suavidad
 - REPARACIÓN ENRIQUECIDA CON QUERATINA: con aceite de coco y almendra, este champú ayuda a fortalecer el cabello dañado y revitalizar el cabello teñido
-- LA EXPERIENCIA PROFESIONAL BED HEAD: Bed Head by TIGI lleva a casa champús profesionales para cabello teñido apreciados por estilistas de todo el mundo
 - BRILLO, VOLUMEN Y LUMINOSIDAD: este champú ayuda a prolongar la intensidad del color y aporta volumen y brillo al cabello teñido
+- LA EXPERIENCIA PROFESIONAL BED HEAD: Bed Head by TIGI lleva a casa champús profesionales para cabello teñido apreciados por estilistas de todo el mundo
 - CHAMPÚ SIN SULFATOS PARA CABELLO TEÑIDO: este champú protege suavemente el color evitando la pérdida de intensidad y manteniendo el cabello brillante lavado tras lavado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

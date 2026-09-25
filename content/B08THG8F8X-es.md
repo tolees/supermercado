@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cafetera hogareña
 - Para hacer espressos
+- Cafetera hogareña
 - Mejora la experiencia de beber café
 
 [🛒 Aquí!!!]({{< param buyurl >}})

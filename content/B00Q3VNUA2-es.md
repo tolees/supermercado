@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Una fragancia elegante para mujeres modernas y artísticas
-- Ideal para cualquier ocasión
 - Mezclado con capullos de amapola roja, oris, madera de teca, almizcle, ámbar
 - Cuenta con notas de hoja de violeta, cáscara de mandarina, fresia
 - Inspirado en arte vibrante y estilo lugar en Nueva York
+- Una fragancia elegante para mujeres modernas y artísticas
+- Ideal para cualquier ocasión
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00Q3VNUA2{{</world>}}

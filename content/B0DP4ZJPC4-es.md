@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aplicar sobre las axilas, una vez estén limpias y secas. Interrumpir el uso si aparecen irritaciones. Dejar secar antes de vestirse.
 - La siguiente información se aplica a cada unidad del paquete
-- skin type: Normal
-- Activo Antibacteriano, Agente Desodorante y Clorohidrato de Aluminio.
-- Antitranspirante, 0% Alcohol.
 - Protege la sudoración eficazmente durante 48h.
 - Babaria desodorante Skin Protect +.
+- skin type: Normal
+- Antitranspirante, 0% Alcohol.
+- Activo Antibacteriano, Agente Desodorante y Clorohidrato de Aluminio.
+- Aplicar sobre las axilas, una vez estén limpias y secas. Interrumpir el uso si aparecen irritaciones. Dejar secar antes de vestirse.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DP4ZJPC4{{</world>}}

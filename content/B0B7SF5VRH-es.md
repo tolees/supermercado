@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 3. Máxima sedación y suavidad
 - 4. No daña el cabello
+- 3. Máxima sedación y suavidad
 - 1. Limpieza suave del cabello y el cuero cabelludo
 - 5. Antirizaje
 - 2. Protege y cuida el cuero cabelludo

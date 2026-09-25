@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Lay s Vinagreta Patatas Fritas de cultivos sostenibles con sabor sal y vinagre Producto de Aperitivo bolsa individual 150g'
-date: 2026-04-17 19:23:17
-image: 'https://m.media-amazon.com/images/I/41Fqx5otB3L._SL500_._SL400_.jpg'
+date: 2026-09-23 11:50:25
+image: 'https://m.media-amazon.com/images/I/51-H6M3cnqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B084KC5JC9-es Lay s Vinagreta Patatas Fritas de cultivos sostenibles con...'
 sku: 'B084KC5JC9-es'
 tags: [ 'fritas','patatas','🇪🇸', ]
-actualPrice: 1.89 EUR
+actualPrice: 1.5 EUR
 currency: EUR
-price: 1.89
+price: 1.5
 comparePrice: 1.99 EUR
 prodname: 'Lay s Vinagreta Patatas Fritas de cultivos sostenibles con sabor sal y vinagre Producto de Aperitivo bolsa individual 150g'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B084KC5JC9/?tag=tolees-21'
-descuento: '5.03'
-average: '1.63137931034483'
+descuento: '24.62'
+average: '1.62290322580645'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bolsa de patatas fritas
-- Sin gluten
-- Realizada por una receta clásica
-- Sabor original y la personalidad del vinagre
-- Almacenar en un sitio seco y oscuro
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B084KC5JC9{{</world>}}

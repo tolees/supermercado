@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sin azúcar añadido ni gluten
+- Puleva Original desde 1958
 - Ideal para toda la familia
 - Brik UHT 1L con tapón atado (para evitar que acabe en la naturaleza)
-- ok
-- Puleva Original desde 1958
 - Fuente natural de calcio y fósforo
+- ok
 - Leche entera enriquecida con vitaminas A y D
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

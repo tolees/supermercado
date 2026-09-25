@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tiene un olor limpio y agradable a frutos secos y madera, seguido de suaves notas de vainilla
-- Ideal para después de la cena
-- Ligeramente dulce al paladar con un final increíble
 - Es una bebida elaborada según una receta tradicional
+- Ligeramente dulce al paladar con un final increíble
 - Adecuado como un regalo
+- Ideal para después de la cena
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09LVXP1RL{{</world>}}

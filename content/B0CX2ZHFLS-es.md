@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tu piel revela un brillo natural duradero e impecable
-- Su tecnología Full Light protege de los rayos UVB y UVA, así como de la luz visible y los rayos infrarrojos, mientras que el ácido hialurónico hidrata intensamente la piel
-- Infinite Bronze es la protección solarembellecedora híbrida y con color de Lancaster
 - Infinite Bronze Tinted Protection Compact Cream SPF50 es una base de maquillaje ultraligera y compacta y que unifica y broncea la apariencia de la piel al tiempo que difumina visiblemente las imperfecciones
+- Tu piel revela un brillo natural duradero e impecable
+- Infinite Bronze es la protección solarembellecedora híbrida y con color de Lancaster
+- Su tecnología Full Light protege de los rayos UVB y UVA, así como de la luz visible y los rayos infrarrojos, mientras que el ácido hialurónico hidrata intensamente la piel
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CX2ZHFLS{{</world>}}

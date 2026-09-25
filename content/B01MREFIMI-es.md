@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trina Tropical Refresco Bajo en Calorías Bebida Sin Gas - Botella Pack 6 x 1 5 L'
-date: 2026-09-16 21:55:36
+date: 2026-09-21 06:27:20
 image: 'https://m.media-amazon.com/images/I/413dKLnUc8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MREFIMI/?tag=tolees-21'
 descuento: '42.86'
-average: '6.93625'
+average: '6.83222222222223'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

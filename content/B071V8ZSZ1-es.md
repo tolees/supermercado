@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - 40 Servilletas
 - Tamaño Grande (39x39cm servilleta abierta)
-- 2 Capas
 - Color Negro
 - Sustitutiva de las de tela
+- 2 Capas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B071V8ZSZ1{{</world>}}

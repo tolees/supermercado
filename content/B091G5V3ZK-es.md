@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Ingredientes: CACAHUETES y deliciosos frutos secos tex mex y bbq.
 - Varios orígenes: Argentina/España/Perú
 - Alérgenos: Puede contener trazas de otros frutos de cáscara, leche, soja y derivados
-- Ingredientes: CACAHUETES y deliciosos frutos secos tex mex y bbq.
 - Conservar en lugar limpio, fresco y seco.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

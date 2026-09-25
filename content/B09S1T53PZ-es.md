@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Formato Pulverizador de 100 ml.
-- Bajo contenido en alcohol y +90% ingredientes de origen natural.
-- Fórmula específica para respetar la piel del bebé testada dermatológicamente.
 - Agua de Perfume perfecta para perfumar, cuidar y mimar a diario la piel del bebé.
 - Con agentes hidratantes.
+- Bajo contenido en alcohol y +90% ingredientes de origen natural.
+- Fórmula específica para respetar la piel del bebé testada dermatológicamente.
 - Apto para recién nacidos.
+- Formato Pulverizador de 100 ml.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09S1T53PZ{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TRAPA COLLECTION | Tableta de Chocolate Negro 95% Cacao | Sin Gluten'
-date: 2026-09-09 19:57:17
+date: 2026-09-24 13:06:53
 image: 'https://m.media-amazon.com/images/I/41iwuv2z78L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B094YNBM5Q/?tag=tolees-21'
 descuento: '3.11'
-average: '2.08428571428571'
+average: '2.09624999999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

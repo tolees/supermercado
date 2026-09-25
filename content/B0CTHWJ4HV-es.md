@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Notas de salida: Coco con un toque salado, Delicia de Virutas de Coco, Semilla de Cilantro, Bergamota
 - Crema corporal con aroma cítrico, floral y afrutado
+- Notas de salida: Coco con un toque salado, Delicia de Virutas de Coco, Semilla de Cilantro, Bergamota
 - Notas de fondo: Ámbar blanco, almizcle, musgo de roble Accord
 - Notas de corazón Té verde Accord, Karmaflor, Mahonial, Petalia.
 

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🧊 EXCELENTES PARA SACIAR LA SED - Una alternativa moderna, más sana y refrescante que los refrescos y zumos azucarados
-- 📌 12 BOTELLAS 500 ML POR CADA CAJA – 5 sabores: Refresh (Kiwi y limonada), Awake (frambuesa), Antioxidant (melocotón), Reload (lima/limón) y Boost (arándos y frambuesa)
-- ✅ 5 VARIEDADES - Cada una con una composición y sabor únicos, y beneficios para nuestro organismo
 - ✅ ENDULZADAS SOLO CON FRUCTOSA y sin gas. Bajo en calorías.
+- 🧊 EXCELENTES PARA SACIAR LA SED - Una alternativa moderna, más sana y refrescante que los refrescos y zumos azucarados
 - 🍋 BEBIDAS ENRIQUECIDAS CON VITAMINAS Y MINERALES, elaboradas con extractos de frutas y plantas
+- ✅ 5 VARIEDADES - Cada una con una composición y sabor únicos, y beneficios para nuestro organismo
+- 📌 12 BOTELLAS 500 ML POR CADA CAJA – 5 sabores: Refresh (Kiwi y limonada), Awake (frambuesa), Antioxidant (melocotón), Reload (lima/limón) y Boost (arándos y frambuesa)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00OLYPYSE{{</world>}}

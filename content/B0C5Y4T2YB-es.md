@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate Triple Acción Xtra Fresh Pasta de Dientes Pack 12x75 ml'
-date: 2026-09-20 00:05:34
+date: 2026-09-21 19:13:56
 image: 'https://m.media-amazon.com/images/I/51SunV5DV3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0C5Y4T2YB/?tag=tolees-21'
 descuento: '34.36'
-average: '25.7916666666667'
+average: '25.0214285714286'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- HIDRATANTE NUTRITIVO: Contiene sesquicaprilato de sorbitán certificado Ecocert derivado de aceites vegetales para una piel suave y nutrida.
 - INGREDIENTES NATURALES: 97% de ingredientes naturales incluyendo glicerina vegetal que aporta hidratación profunda.
 - DERMATOLÓGICAMENTE TESTADO: Vegano y sin testado en animales, apto para todo tipo de piel, con propiedades antioxidantes de la rosa.
-- FÓRMULA SUAVE: pH neutro con limpiadores de origen vegetal que respetan la piel y la hidratan mientras limpian.
 - AROMA REFRESCANTE: Ruibarbo ácido con notas dulces y florales de rosa que elevan el ánimo y dejan un perfume delicado.
+- HIDRATANTE NUTRITIVO: Contiene sesquicaprilato de sorbitán certificado Ecocert derivado de aceites vegetales para una piel suave y nutrida.
+- FÓRMULA SUAVE: pH neutro con limpiadores de origen vegetal que respetan la piel y la hidratan mientras limpian.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09QGYL4ML{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Carbonell - Vinagre de Vino Blanco Acidez Moderada Sabor Agradable Ideal para Salsas y Aliños - Botella de 1 L'
-date: 2026-09-16 11:20:22
+date: 2026-09-23 09:05:21
 image: 'https://m.media-amazon.com/images/I/31sH7PKDPZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EG23P2M/?tag=tolees-21'
 descuento: '22.48'
-average: '0.976666666666667'
+average: '0.99'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

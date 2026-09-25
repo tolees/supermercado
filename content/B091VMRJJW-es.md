@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Es el snack perfecto para llevar contigo a todas partes, ya sea como un tentempié entre comidas o como una opción de merienda saludable, satisfaciendo tus antojos de chocolate de forma deliciosa
 - Barritas de cereales con un auténtico y delicioso sabor a chocolate fundido y crujientes cacahuetes, sin aceite de palma ni conservantes
 - Cada bocado ofrece una combinación perfecta de crujiente granola, delicioso chocolate fundido y crujientes cacahuetes
+- Es el snack perfecto para llevar contigo a todas partes, ya sea como un tentempié entre comidas o como una opción de merienda saludable, satisfaciendo tus antojos de chocolate de forma deliciosa
 - Descubre la gama de barritas Corny, elaboradas con una combinación de cereales, chocolate, avena, frutos secos y/o fruta. Están diseñadas para proporcionar energía, siendo una excelente opción para aquellos que buscan una merienda rápida y deliciosa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

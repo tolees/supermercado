@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Elaboración artesanal, en todas las fases del proceso
 - Mantener en un lugar fresco y seco
+- Elaboración artesanal, en todas las fases del proceso
 - Ingredientes: Carne de cerdo, pimentón agridulce, sal, ajo y tripa natural.
-- Sin gluten, sin lactosa, sin colorantes ni conservantes adicionales
 - Elaboración tradicional desde 1945
+- Sin gluten, sin lactosa, sin colorantes ni conservantes adicionales
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08CW2JFFQ{{</world>}}

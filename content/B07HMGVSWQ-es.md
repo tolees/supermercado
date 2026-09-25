@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Eucerin Aquaphor Pomada Reparadora 220 ml – Crema Corporal Hidratante para Piel Seca y Agrietada - Pomada Cicatrizante con Pantenol y Bisabolol que Calma y Regenera - Sin Perfume y No Comedogénica'
-date: 2026-09-19 16:50:38
+date: 2026-09-25 00:21:02
 image: 'https://m.media-amazon.com/images/I/41U6HL+6TvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HMGVSWQ/?tag=tolees-21'
 descuento: '44.79'
-average: '13.88'
+average: '14.0125'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Apto para todo tipo de pieles
+- Se puede usar directamente sobre la piel o encima de una base
 - Su fórmula absorbe el exceso de aceites
 - Óptima para retoques diarios, para llevar en el bolso
 - Colorete de cobertura media-baja y acabado mate
-- Apto para todo tipo de pieles
-- Se puede usar directamente sobre la piel o encima de una base
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B092W84KGL{{</world>}}

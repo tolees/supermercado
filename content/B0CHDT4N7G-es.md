@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- FÓRMULA ENERGIZANTE: Fórmula refrescante y calmante de Wella Professionals que alivia suavemente los cueros cabelludos sensibles.
-- MASCARILLA CAPILAR: Mascarilla calmante y nutritiva para pieles sensibles que deja el cuero cabelludo equilibrado y cuidado.
 - CABELLO Y CUERO CABELLUDO SALUDABLES: Fórmula suave y sin fragancia para la piel, ideal para pieles sensibles.
+- MASCARILLA CAPILAR: Mascarilla calmante y nutritiva para pieles sensibles que deja el cuero cabelludo equilibrado y cuidado.
 - CUIDADO CAPILAR: Equilibra y protege el cabello y el cuero cabelludo. Para mejores resultados, úsalo con el champú CALM.
+- FÓRMULA ENERGIZANTE: Fórmula refrescante y calmante de Wella Professionals que alivia suavemente los cueros cabelludos sensibles.
 - INGREDIENTES: Con alantoína para calmar, aliviar y reducir la sensación de picor en el cabello y el cuero cabelludo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

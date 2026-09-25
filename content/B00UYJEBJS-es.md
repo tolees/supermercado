@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Esmalte de uñas de secado rápido.
 - Duración excepcional.
-- Fórmula vegana limpia y mejorada.
-- Acabado ultrabrillante.
-- Fácil de aplicar.
 - Color más rico y vivo.
+- Fácil de aplicar.
+- Fórmula vegana limpia y mejorada.
 - Paleta de colores atrevida y versátil, de cobertura total a traslúcido.
+- Acabado ultrabrillante.
+- Esmalte de uñas de secado rápido.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00UYJEBJS{{</world>}}

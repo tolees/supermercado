@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disfruta de los beneficios de Halls Original, brindando un momento de frescor en tu garganta en cualquier momento
-- Halls Original Caramelos Refrescantes es la elección para quienes buscan un delicioso sabor eucalipto y mentol
-- Con ingredientes de calidad, Halls garantiza un sabor intenso y fresco; combinando el sabor a eucalipto y mentol sin azúcar, dando un sabor extra refrescante
 - Cada paquete contiene 4 envases de 32 g, diseñados para su fácil transporte, permitiendo degustarlos en cualquier ocasión, ya sea en el trabajo, en casa o mientras viajáis
+- Halls Original Caramelos Refrescantes es la elección para quienes buscan un delicioso sabor eucalipto y mentol
 - Halls llegó a España en los años 70 convirtiéndose a día de hoy en el número uno de caramelos refrescantes en España
+- Con ingredientes de calidad, Halls garantiza un sabor intenso y fresco; combinando el sabor a eucalipto y mentol sin azúcar, dando un sabor extra refrescante
+- Disfruta de los beneficios de Halls Original, brindando un momento de frescor en tu garganta en cualquier momento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01DUWJPMI{{</world>}}

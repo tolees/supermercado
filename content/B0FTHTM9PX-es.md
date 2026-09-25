@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ESPECIALMENTE PARA PIELES SENSIBLES: Todos los productos Naïf están elaborados con ingredientes naturales, están dermatológicamente probados y libres de SLES, microplásticos, parabenos y aceites minerales.
 - SUAVE PARA LOS OJOS: 0% SLES y 0% MICROPLÁSTICO.
 - AHORRO DE TIEMPO: Limpia y cuida el cabello y el cuerpo en un instante.
-- DERMATOLÓGICAMENTE PROBADO: Muy suave, especialmente desarrollado para la piel sensible de los niños.
+- ESPECIALMENTE PARA PIELES SENSIBLES: Todos los productos Naïf están elaborados con ingredientes naturales, están dermatológicamente probados y libres de SLES, microplásticos, parabenos y aceites minerales.
 - FRESCO Y FRUTAL: Suave aroma a lima y grosella negra. Especialmente desarrollado para la piel de los niños.
+- DERMATOLÓGICAMENTE PROBADO: Muy suave, especialmente desarrollado para la piel sensible de los niños.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FTHTM9PX{{</world>}}

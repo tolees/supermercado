@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cuétara Napolitanas Caja De Galletas - Paquete de 2 x 213gr - Total: 426 gr'
-date: 2026-09-10 07:07:34
+date: 2026-09-24 13:27:42
 image: 'https://m.media-amazon.com/images/I/41wcTvip6bL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B009JVLKL4/?tag=tolees-21'
 descuento: '3.21'
-average: '2.40416666666667'
+average: '2.42026315789474'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

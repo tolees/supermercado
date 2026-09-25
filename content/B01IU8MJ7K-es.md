@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gallina Blanca - Caldo Casero de Pollo 100% Natural - 1L Paquete de 4'
-date: 2026-09-20 12:42:59
+date: 2026-09-21 20:15:02
 image: 'https://m.media-amazon.com/images/I/51pmCThZ3BL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B01IU8MJ7K-es Gallina Blanca - Caldo Casero de Pollo 100% Natural - 1L...'
 sku: 'B01IU8MJ7K-es'
 tags: [ 'blanca','gallina','pollo','🇪🇸', ]
-actualPrice: 6.99 EUR
+actualPrice: 8.19 EUR
 currency: EUR
-price: 6.99
+price: 8.19
 comparePrice: 8.49 EUR
 prodname: 'Gallina Blanca - Caldo Casero de Pollo 100% Natural - 1L Paquete de 4'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IU8MJ7K/?tag=tolees-21'
-descuento: '17.67'
-average: '6.9277049180328'
+descuento: '3.53'
+average: '6.9677777777778'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

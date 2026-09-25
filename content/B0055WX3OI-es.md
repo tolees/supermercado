@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Es adecuada para todo tipo de pieles
 - Ofrece protección solar SPF 30 contra rayos UVA/UVB
+- Es adecuada para todo tipo de pieles
 - RevitaLift Anti-arrugas y Firmeza incrementa la producción celular y reduce las arrugas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

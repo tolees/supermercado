@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Se adapta a cualquier actividad deportiva
 - Tiene detalles distintivos de la marca
+- Se adapta a cualquier actividad deportiva
 - Ofrece comodidad y libertad de movimientos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

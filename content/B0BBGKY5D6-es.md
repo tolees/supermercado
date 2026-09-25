@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CONSEJOS DE USO: Tomar 2 gummies al día, 1 hora antes de acostarse. A partir de 15 años. No recomendado durante embarazo o lactancia. Un consumo excesivo puede tener efectos laxantes. Conservar por debajo de 25 ºC, protegido de la luz y la humedad.
-- RELAX Y DESCANSO REPARADOR: La amapola de California ayuda a mejorar la calidad del sueño y la vitamina B6 contribuye al funcionamiento normal del sistema nervioso. Fórmula sin azúcar y apta para veganos, pensada para favorecer un descanso completo.
 - GUMMIES PARA DORMIR: Arkosueño Dormigummies es un complemento alimenticio de gummies sin azúcar, con 1,9 mg de melatonina, melisa, amapola de California, tila y vitamina B6, formulado para ayudar al descanso nocturno y favorecer un sueño más reparador.
 - ARKOPHARMA: Desde hace más de 40 años, Arkopharma desarrolla complementos alimenticios basados en ingredientes de origen vegetal. Combina ciencia, innovación y calidad farmacéutica para ofrecer soluciones eficaces que ayudan a cuidar tu bienestar cada día.
+- RELAX Y DESCANSO REPARADOR: La amapola de California ayuda a mejorar la calidad del sueño y la vitamina B6 contribuye al funcionamiento normal del sistema nervioso. Fórmula sin azúcar y apta para veganos, pensada para favorecer un descanso completo.
+- CONSEJOS DE USO: Tomar 2 gummies al día, 1 hora antes de acostarse. A partir de 15 años. No recomendado durante embarazo o lactancia. Un consumo excesivo puede tener efectos laxantes. Conservar por debajo de 25 ºC, protegido de la luz y la humedad.
 - AYUDA A CONCILIAR EL SUEÑO: La melatonina contribuye a reducir el tiempo necesario para conciliar el sueño, mientras que la melisa y la tila favorecen la relajación. Ideal para dificultades puntuales para dormir o noches de descanso irregular.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

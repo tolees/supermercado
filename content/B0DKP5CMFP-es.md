@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sustitutivo de comida: un batido equivale a una comida completa en el marco de una dieta hipocalórica
-- Bajo en grasas saturadas: optimo para quienes buscan un producto bajo en grasas saturadas sin sacrificar el sabor
 - Alto en proteínas: contiene proteínas esenciales que ayudan a mantener y desarrollar la masa muscular
 - Sabor intenso a chocolate: disfruta de un delicioso sabor a chocolate mientras cuidas tu alimentación con este batido sustitutivo
+- Sustitutivo de comida: un batido equivale a una comida completa en el marco de una dieta hipocalórica
+- Bajo en grasas saturadas: optimo para quienes buscan un producto bajo en grasas saturadas sin sacrificar el sabor
 - Fuente de fibra: optimo si buscas una comida que además aporte fibra
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

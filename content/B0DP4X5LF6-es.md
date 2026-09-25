@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Creando Momentos Royal desde 1863, ayudándote a preparar postres deliciosos que te traen de vuelta a tu infancia. Royal contigo.
-- La siguiente información se aplica a cada unidad del paquete
-- Endulza tus momentos con el irresistible sabor del chocolate Milka, ideal para disfrutar en casa con amigos.
-- Solo destapa y disfruta el mejor sabor del chocolate Milka en tus postres favoritos.
 - Bote de 300 gramos de sirope de chocolate Milka con tapón antigoteo, práctico y fácil de almacenar.
+- Endulza tus momentos con el irresistible sabor del chocolate Milka, ideal para disfrutar en casa con amigos.
+- La siguiente información se aplica a cada unidad del paquete
+- Creando Momentos Royal desde 1863, ayudándote a preparar postres deliciosos que te traen de vuelta a tu infancia. Royal contigo.
+- Solo destapa y disfruta el mejor sabor del chocolate Milka en tus postres favoritos.
 - Royal Sirope Milka, el topping perfecto para endulzar tus postres con el mejor sabor del chocolate con leche.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

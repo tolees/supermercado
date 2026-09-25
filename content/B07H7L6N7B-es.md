@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CUIDADO DEL CABELLO: Utilizarlo junto con el champú y acondicionador Elements Renewing - productos Wella Professionals, ¡un regalo perfecto para la mujer y su cabello!
-- BRILLO: Enriquecida con Aloe Vera para un cuidado suave y Esencia de Oliva para suavidad y brillo.
-- MASCARILLA CAPILAR: Mascarilla de pelo que renueva, desenreda y potencia la hidratación - un tratamiento hidratante de cabello formulado sin siliconas.
 - SUAVE PARA LA PIEL: Formulado con ingredientes de origen natural - adecuado para pieles y cueros cabelludos sensibles.
+- CUIDADO DEL CABELLO: Utilizarlo junto con el champú y acondicionador Elements Renewing - productos Wella Professionals, ¡un regalo perfecto para la mujer y su cabello!
+- MASCARILLA CAPILAR: Mascarilla de pelo que renueva, desenreda y potencia la hidratación - un tratamiento hidratante de cabello formulado sin siliconas.
 - PROTECTOR: Con Vitamina E y antioxidantes para proteger las fibras capilares de los daños causados por los radicales libres.
+- BRILLO: Enriquecida con Aloe Vera para un cuidado suave y Esencia de Oliva para suavidad y brillo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07H7L6N7B{{</world>}}

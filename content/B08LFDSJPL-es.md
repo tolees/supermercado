@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Graduación: 12.5% vol.
-- Puede disfrutarlo desde ahora, bien conservado aguantará 2 años.
-- Origen: DO Rías Baixas
 - Ideal para combinar con pescado, marisco, queso, ensalada, pasta.
 - Color amarillo con tonos acerados, finísimo carbónico y brillante. flores blancas (acacia y azahar), frutas tropicales.
+- Origen: DO Rías Baixas
+- Puede disfrutarlo desde ahora, bien conservado aguantará 2 años.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08LFDSJPL{{</world>}}

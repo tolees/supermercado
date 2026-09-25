@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Resistente a romperse gracias al proceso de fabricación
 - Con un sensual aroma a rosas
-- Viene con una brocha y un espejo incorporado
 - Su fórmula de secado al horno en su elaboración permite una calidad de difuminado y adherencia único
+- Resistente a romperse gracias al proceso de fabricación
+- Viene con una brocha y un espejo incorporado
 - Colorete en polvo con una textura ultrafina que se funde con la piel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

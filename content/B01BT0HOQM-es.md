@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- paquete: 6 vidrio
 - material: vidrio, aptos para lavavajillas
+- paquete: 6 vidrio
 - Calidad de Bormioli Rocco de Italia
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

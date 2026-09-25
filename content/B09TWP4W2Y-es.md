@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Perfecto para atletas con una dieta de entrenamiento estricta o para aquellos que cuentan calorías
-- Añade dulzura a tu café sin las calorías
-- Completamente libre de azúcar y grasa, es ideal para el uso diario
 - Disponible en cuatro deliciosos sabores, este jarabe dulce es el complemento perfecto para tu taza matutina
+- Completamente libre de azúcar y grasa, es ideal para el uso diario
+- Añade dulzura a tu café sin las calorías
+- Perfecto para atletas con una dieta de entrenamiento estricta o para aquellos que cuentan calorías
 - Un jarabe sin calorías que da un sabor ideal a cada molido de café
 
 [🛒 Visítala!!!]({{< param buyurl >}})

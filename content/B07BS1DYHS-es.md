@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin parabenos
-- Puedes usarlo como tratamiento sin aclarado, como mascarilla o como acondicionador
-- Con 98 % ingredientes de origen natural
-- Para cabello seco
 - Testadas dermatológicamente
+- Para cabello seco
+- Sin parabenos
+- Con 98 % ingredientes de origen natural
+- Puedes usarlo como tratamiento sin aclarado, como mascarilla o como acondicionador
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07BS1DYHS{{</world>}}

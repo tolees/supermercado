@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Formato de 6 unidades de 75 ml
 - Sonrisa más blanca y natural en 2 semanas
+- Formato de 6 unidades de 75 ml
 - Elimina eficazmente las manchas al no agredir el esmalte
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Parodontax Sin Flúor Pasta De Dientes Encías Sanas 75 ml'
-date: 2026-09-20 08:57:26
+date: 2026-09-24 10:42:14
 image: 'https://m.media-amazon.com/images/I/411MH+zUP-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P74XC8R/?tag=tolees-21'
 descuento: '40.72'
-average: '3.91764705882353'
+average: '3.88526315789474'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

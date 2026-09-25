@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
-- Testado pediátrico y dermatológico
 - Adecuado para recién nacidos
+- Testado pediátrico y dermatológico
 - Loción corporal hidratante para pieles sensibles
 - Con activos naturales
-- Sin parabenos y alérgenos
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - La siguiente información se aplica a cada unidad del paquete
+- Sin parabenos y alérgenos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F137QDY4{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Adecuado para regalar
-- Producto de calidad óptima
 - Fragancia agradable
+- Producto de calidad óptima
+- Adecuado para regalar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01AVG348W{{</world>}}

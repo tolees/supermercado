@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'La Roche-Posay Lipikar Gel Lavant Eco-Refill Gel de Ducha 400 ml'
-date: 2026-09-11 06:40:15
+date: 2026-09-24 22:24:00
 image: 'https://m.media-amazon.com/images/I/41qULk-VSsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

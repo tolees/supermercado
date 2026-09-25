@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Vino Tinto Barrica DO Toro: 100% Tinta de Toro elaborado con uvas procedentes de viñedos de baja producción, recolectadas con mimo cuando su maduración es óptima, para obtener un vino de la mejor calidad
-- Características del Viñedo: Variedad Tinta de Toro 100% con edad media del viñedo entre 30 y 40 años, garantizando la calidad y concentración del fruto
 - Presentación Especial: Botella de 75cl presentada en estuche de madera, edición limitada que lo convierte en una opción distinguida para obsequiar
 - Crianza en Barrica: Permanencia en barricas nuevas de roble americano durante los 15 primeros meses. Temperatura de servicio recomendada de 16º C
+- Características del Viñedo: Variedad Tinta de Toro 100% con edad media del viñedo entre 30 y 40 años, garantizando la calidad y concentración del fruto
+- Perfil Sensorial: Barricas seleccionadas con un perfil de respeto varietal, ensamblando las características frutales y florales de la variedad con las notas de vainilla y tostadas propias de su paso por barrica. Marca una entrada en boca de taninos firmes con un final suave y persistente
 - Proceso de Crianza: Se realiza en barricas de roble americano y francés durante 9 meses, para finalmente descansar en botella hasta alcanzar un perfecto estado para su consumo
 - Características Técnicas: 15% de volumen alcohólico. Denominación de Origen Toro. Contiene sulfitos. Acompaña asados, embutidos, quesos fuertes, pasta, guisos, legumbres y frutos rojos
-- Perfil Sensorial: Barricas seleccionadas con un perfil de respeto varietal, ensamblando las características frutales y florales de la variedad con las notas de vainilla y tostadas propias de su paso por barrica. Marca una entrada en boca de taninos firmes con un final suave y persistente
+- Vino Tinto Barrica DO Toro: 100% Tinta de Toro elaborado con uvas procedentes de viñedos de baja producción, recolectadas con mimo cuando su maduración es óptima, para obtener un vino de la mejor calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FY6QBJ7G{{</world>}}

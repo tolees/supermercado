@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trina Manzana Zero Refresco Sin Azúcares añadidos Bebida sin Gas - Botella Pack 6 x 1 5 L'
-date: 2026-09-14 10:34:27
+date: 2026-09-24 15:35:32
 image: 'https://m.media-amazon.com/images/I/41La68+oijL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

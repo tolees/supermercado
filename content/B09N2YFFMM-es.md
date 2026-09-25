@@ -32,8 +32,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Item_form: Polvo
 - A prueba de sudor y resistente al agua
 - Fórmula Vegana
-- Controla los brillos sin secar la piel
 - Apto para pieles sensibles y no obstruye poros; dermatológicamente testado
+- Controla los brillos sin secar la piel
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09N2YFFMM{{</world>}}

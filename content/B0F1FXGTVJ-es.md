@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dejar actuar durante 2 minutos en la primera aplicación y después aclarar. Utilizar como tratamiento de un mes.
 - La caspa se elimina con el primer uso y se alivian los picores. Acción antirrecurrente después de 6 semanas.
+- Dejar actuar durante 2 minutos en la primera aplicación y después aclarar. Utilizar como tratamiento de un mes.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F1FXGTVJ{{</world>}}

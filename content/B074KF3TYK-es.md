@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CUMLAUDE Serotogyn - Complemento Alimenticio Para Disminuir Los Sofocos Durante La Menopausia - 60 Cápsulas One size 100 ml'
-date: 2026-05-21 13:31:19
+date: 2026-09-24 13:40:18
 image: 'https://m.media-amazon.com/images/I/21+mT6nuR5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B074KF3TYK-es CUMLAUDE Serotogyn - Complemento Alimenticio Para...'
 sku: 'B074KF3TYK-es'
 tags: [ 'alimenticio','complemento','🇪🇸', ]
-actualPrice: 8.8 EUR
+actualPrice: 8.79 EUR
 currency: EUR
-price: 8.8
-comparePrice: 25.49 EUR
+price: 8.79
+comparePrice: 25.7 EUR
 prodname: 'CUMLAUDE Serotogyn - Complemento Alimenticio Para Disminuir Los Sofocos Durante La Menopausia - 60 Cápsulas One size 100 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B074KF3TYK/?tag=tolees-21'
-descuento: '65.48'
-average: '16.1412903225807'
+descuento: '65.80'
+average: '15.6957575757576'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Complemento alimenticio oral para la rápida disminución de los sofocos durante la menopausia
-- Producen una rápida disminución de los sofocos y los síntomas asociados a la menopausia, como la sudoración, palpitaciones, ansiedad y alteración del estado de ánimo
-- Para sofocos diurnos intensos, tomar dos cápsulas al día por la mañana. Para sofocos y dificultades para conciliar el sueño, tomar 1 cápsula por la mañana y otra por la noche
-- Mecanismo de acción serotoninérgico. No hormonal, no fitoestrogénico. Sin gluten.
-- Formulado con L-Triptófano, ácido gamma-aminobutírico, magnesio y vitamina B6, que contribuyen al funcionamiento normal del sistema nervioso y ayudan a reducir la fatiga y el cansancio
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B074KF3TYK{{</world>}}

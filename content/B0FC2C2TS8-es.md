@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'ARIEL Costa Mediterránea Brisa Marina & Jazmín Detergente Líquido 75 Lavados Pack de 3 – Limpieza Impecable y Frescor de Lenor'
-date: 2026-09-16 10:23:29
+title: 'ARIEL Detergente Lavadora Líquido Brisa Limpia 75 Lavados Paquete de 3'
+date: 2026-09-23 09:16:27
 image: 'https://m.media-amazon.com/images/I/41tE84l2pmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0FC2C2TS8-es ARIEL Costa Mediterránea Brisa Marina & Jazmín Detergente...'
+slug: 'B0FC2C2TS8-es ARIEL Detergente Lavadora Líquido Brisa Limpia 75 Lavados...'
 sku: 'B0FC2C2TS8-es'
 tags: [ 'detergente','🇪🇸', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99
 comparePrice: 27.57 EUR
-prodname: 'ARIEL Costa Mediterránea Brisa Marina & Jazmín Detergente Líquido 75 Lavados Pack de 3 – Limpieza Impecable y Frescor de Lenor'
+prodname: 'ARIEL Detergente Lavadora Líquido Brisa Limpia 75 Lavados Paquete de 3'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FC2C2TS8/?tag=tolees-21'
 descuento: '34.75'
-average: '18.1566666666668'
+average: '18.1328571428573'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Referencia: S4261240
+- Color: multicolor
 - Regenerador Capilar de la marca Diamond Girl
 - Medidas: 9,52 x 7,64 x 11,1 centímetros
-- Referencia: S4261240
 - ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
-- Color: multicolor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CP61WFJN{{</world>}}

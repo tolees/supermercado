@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ariel Pods PODEROSO Detergente lavadora capsulas | 45 Lavados | Original | POD GRANDE = 2 PODS | 2X eliminación de manchas y olores'
-date: 2026-09-19 17:12:14
+date: 2026-09-23 22:47:40
 image: 'https://m.media-amazon.com/images/I/51XJQpMUFXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

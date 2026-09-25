@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Crea una rica espuma, aunque no contiene siliconas.
 - Champú ideal para el cuidado diario del cabello. Llimpia, hidrata, suaviza el cabello. Además, aporta luminosidad y frescura.
-- Apto para veganos.
 - Adecuado para estilismos.
+- Apto para veganos.
 - Contiene inulina suavizante.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

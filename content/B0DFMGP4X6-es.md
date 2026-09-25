@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Prebióticos para el bienestar de la microbiota intestinal
-- Glucosamina y condroitina para el apoyo de las articulaciones
 - Formato de croqueta ideal para perros de todos los tamaños
+- Glucosamina y condroitina para el apoyo de las articulaciones
+- Prebióticos para el bienestar de la microbiota intestinal
 - Nutrición diaria equilibrada y completa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Celsius Bebida Energética Sin Azúcar Sabor Fresa Sandía Energy Drink Funcional - Lata Pack 12 x 355 ml'
-date: 2026-09-20 10:16:31
+date: 2026-09-21 18:42:20
 image: 'https://m.media-amazon.com/images/I/41XsmprK08L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

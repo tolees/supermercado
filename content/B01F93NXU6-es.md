@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Fácil de colgar en el interior del lavavajillas
 - Hecho con tecnología alemana
 - Neutraliza los malos olores de tu lavavajillas
-- Fácil de colgar en el interior del lavavajillas
 - Doble cámara: ccombina un fresco aroma de limón y corteza de naranja
 - Fragancia cítrica fresca constante
 

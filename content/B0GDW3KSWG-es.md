@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- La siguiente información se aplica a cada unidad del paquete
+- Sin siliconas, ni colorantes​
+- Champú con calidad profesional​
 - Cabello hidratado, suave y 10 veces más fuerte
 - Champú que hidrata tu cabello proporcionándole un extra de fuerza​​
-- Sin siliconas, ni colorantes​
 - Champú que nutre y fortalece con extracto natural de aceite de coco y aloe vera​
-- La siguiente información se aplica a cada unidad del paquete
-- Champú con calidad profesional​
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0GDW3KSWG{{</world>}}

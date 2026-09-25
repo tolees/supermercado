@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- CAFEÍNA PARA ESTIMULAR LA MENTE: Enriquecidos con cafeína, los comprimidos efervescentes estimulan el rendimiento mental y la concentración
 - SiS SCIENCE IN SPORT: Science in Sport es una empresa pionera en nutrición deportiva. Desde 1992 colaboramos con institutos de investigación, deportistas de élite y científicos deportivos
-- HIDRATACIÓN ÓPTIMA PARA RENDIR AL MÁXIMO: Gracias a su equilibrada concentración de sodio, estos comprimidos con electrolitos favorecen la hidratación. Con una buena hidratación te sientes en forma para un entrenamiento intensivo
 - MINERALES VALIOSOS: Con su complejo multimineral de potasio, sodio, magnesio y calcio, nuestros comprimidos de electrolitos mantienen el equilibrio electrolítico y están recomendados para personas que hagan mucho deporte
 - VEGANOS: Estos comprimidos deportivos con electrolitos llevan ingredientes y son veganos. Se han elaborado sin modificación genética. Ideales para quienes basen su nutrición deportiva en alimentos vegetales
-- CAFEÍNA PARA ESTIMULAR LA MENTE: Enriquecidos con cafeína, los comprimidos efervescentes estimulan el rendimiento mental y la concentración
+- HIDRATACIÓN ÓPTIMA PARA RENDIR AL MÁXIMO: Gracias a su equilibrada concentración de sodio, estos comprimidos con electrolitos favorecen la hidratación. Con una buena hidratación te sientes en forma para un entrenamiento intensivo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00EZSCRRC{{</world>}}

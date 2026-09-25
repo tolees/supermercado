@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gullón Galletas Saladas Mini 350G - [PACK de 12] Total: 4 2 kg'
-date: 2026-05-14 14:57:18
+date: 2026-09-23 18:09:25
 image: 'https://m.media-amazon.com/images/I/51TEB0e4EHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08HW71MSY/?tag=tolees-21'
 descuento: '48.72'
-average: '12.5563636363636'
+average: '12.5099999999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin aceite de palma. Producto elaborado con aceite de girasol alto oleico.
-- Fabricado por Galletas Gullón.
-- Disfruta de su delicioso sabor.
-- La mejor elección para cualquier momento del día, para los más salados.
-- Las mini galletas saladas de Gullón, con todo el sabor de siempre.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08HW71MSY{{</world>}}

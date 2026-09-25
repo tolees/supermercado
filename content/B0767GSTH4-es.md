@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¿Nuestro consejo? No te apresures, canta y ¡pásatelo bien!
-- Jabón de Manos Moussel Classique Original 300ml
-- Lávate las manos en su abundante espuma y resérvate ese ratito de positividad cada día
-- Textura suave y cremosa que ayuda a mantener la tersura natural de tu piel
 - ¡Alegría en tus manos!
+- Textura suave y cremosa que ayuda a mantener la tersura natural de tu piel
+- Lávate las manos en su abundante espuma y resérvate ese ratito de positividad cada día
+- Jabón de Manos Moussel Classique Original 300ml
+- ¿Nuestro consejo? No te apresures, canta y ¡pásatelo bien!
 - Una fragancia única, llena de placer
 
 [🛒 Comprar!!!]({{< param buyurl >}})

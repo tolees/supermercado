@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - sin SLS (Sodium Lauryl Sulfate)
-- Aqua, Glycerin, Propylene Glycol, Sodium Laureth Sulfate, Sodium Stearate, Sorbitol, Sodium Laurate, Sodium Chloride, Sodium Thiosulfate, Etidronic Acid
 - Vegetarianos y Veganos
+- Aqua, Glycerin, Propylene Glycol, Sodium Laureth Sulfate, Sodium Stearate, Sorbitol, Sodium Laurate, Sodium Chloride, Sodium Thiosulfate, Etidronic Acid
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07SW4PYGQ{{</world>}}

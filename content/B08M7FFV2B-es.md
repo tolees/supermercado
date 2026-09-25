@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Vienen envueltos individualmente
-- Con sabor a nata
-- No contiene azúcar
 - Conservar en un lugar fresco y seco
 - De textura dura
+- No contiene azúcar
+- Con sabor a nata
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08M7FFV2B{{</world>}}

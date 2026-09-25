@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Barebells - Barritas Proteína - 20g Proteína x Barrita - Baja en azúcar - Baja en Calorías - Sin Aceite de Palma - Pack de 12 Barritas x 55g Soft Bar Salted Peanut Caramel
-- Marca: BAREBELLS
 - Tipo de producto: SNACK FOOD BAR
+- Barebells - Barritas Proteína - 20g Proteína x Barrita - Baja en azúcar - Baja en Calorías - Sin Aceite de Palma - Pack de 12 Barritas x 55g Soft Bar Salted Peanut Caramel
 - Tamaño: 12 Unidad Paquete de 1
+- Marca: BAREBELLS
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BF78MM5N{{</world>}}

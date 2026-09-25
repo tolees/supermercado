@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kellogg s Smacks 400g'
-date: 2026-09-20 10:15:44
+date: 2026-09-23 20:05:04
 image: 'https://m.media-amazon.com/images/I/51oMUSqyb2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GZS56YJ/?tag=tolees-21'
 descuento: '5.75'
-average: '3.81086956521738'
+average: '3.83399999999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Der-Franz Melange: café tostado, molido; intensidad 3 de 5; tostado 3 de 5; acidez 3 de 5; mezcla perfecta para Espresso, Lungo o Cappuccino
-- Todas nuestras variedades tienen la certificación UTZ como parte de Rainforest Alliance; llevamos la sostenibilidad y la responsabilidad medioambiental en nuestro corazón
-- Tostado con pasión y siguiendo la experta tradición vienesa desde 1929; suavemente aromatizado con un tostado de tambor a largo plazo
 - Una mezcla vienesa tradicional, 100 % arábica, con un sabor redondo y mucho cuerpo, y un bajo nivel de taninos para una fácil digestión
+- Der-Franz Melange: café tostado, molido; intensidad 3 de 5; tostado 3 de 5; acidez 3 de 5; mezcla perfecta para Espresso, Lungo o Cappuccino
+- Tostado con pasión y siguiendo la experta tradición vienesa desde 1929; suavemente aromatizado con un tostado de tambor a largo plazo
+- Todas nuestras variedades tienen la certificación UTZ como parte de Rainforest Alliance; llevamos la sostenibilidad y la responsabilidad medioambiental en nuestro corazón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07Y5KBYYY{{</world>}}

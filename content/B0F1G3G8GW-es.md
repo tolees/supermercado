@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vichy Recarga de Champú Anticaída Efecto Estimulante Apto Para Todo Tipo de Cabello Cuero Cabelludo Sano y Detoxificado Con Aminexil Energy+ Dercos Technique 400 ml'
-date: 2026-09-20 09:02:16
+date: 2026-09-23 20:10:23
 image: 'https://m.media-amazon.com/images/I/418+3oIr6DL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F1G3G8GW/?tag=tolees-21'
 descuento: '40.47'
-average: '15.0871428571429'
+average: '14.95'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

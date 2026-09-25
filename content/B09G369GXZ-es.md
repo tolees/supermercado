@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Sabor Original
+- 100% arábica, café tostado molido
+- Información del paquete Bolsa
 - Peso del producto 500 Gramos
 - 6,3 x 9,5 x 17,8 centímetros
-- Información del paquete Bolsa
-- 100% arábica, café tostado molido
-- Sabor Original
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09G369GXZ{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sabor neutro
 - Rápida cocción
-- Harina fina de maíz
-- Sin gluten
+- Sabor neutro
 - Ideal para bizcochos, rebozados y salsas
+- Sin gluten
+- Harina fina de maíz
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00XA2I7KU{{</world>}}

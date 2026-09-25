@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fairy Maxi Poder Líquido Lavavajillas 730ml'
-date: 2026-09-14 14:24:15
+date: 2026-09-22 21:01:56
 image: 'https://m.media-amazon.com/images/I/41kCk+osLjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DX7FJXP3/?tag=tolees-21'
 descuento: '3.67'
-average: '5.14615384615386'
+average: '5.15357142857144'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

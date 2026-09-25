@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Envasado en atmósfera protectora para mantener su frescura
-- No apto para alérgicos a los frutos de cáscara, los cacahuetes, el sésamo y la soja, ni para celíacos, debido al método de producción
-- El embalaje puede variar
 - Apto para dietas vegetarianas y veganas
+- El embalaje puede variar
+- No apto para alérgicos a los frutos de cáscara, los cacahuetes, el sésamo y la soja, ni para celíacos, debido al método de producción
 - Conservar en un lugar fresco y seco. Una vez abierto, volver a cerrar herméticamente, mantener refrigerado y consumir en 2 semanas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

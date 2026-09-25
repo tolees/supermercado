@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Whisky DYC es fruto de la experiencia de más de 60 años de las destilerías DYC
 - Realizado con agua pura y natural proveniente del río Eresma de Segovia junto con el mejor trigo y cebada de las tierras de Castilla León
 - Óptimo equilibrio de sabores en paladar, con aroma de frutas especiadas y madera tostada
 - Destilado por métodos tradicionales en nuestra destilería de Palazuelos de Eresma, Segovia
+- Whisky DYC es fruto de la experiencia de más de 60 años de las destilerías DYC
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00AIMW1CA{{</world>}}

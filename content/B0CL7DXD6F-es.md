@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Desodorante Antitranspirante Aerosol Dove Advanced Care Original 150 ml.​
 - Desodorante Antitranspirante en spray con nuestra fórmula Advanced Care y Tecnología Triple Hidratante.​
 - Fragancia fresca, limpia y delicada.​
-- Ayuda a reparar la piel de la irritación, incluso después del depilado. 0% alcohol.​ Desodorante sin aluminio.
 - Dove no testa en animales en ningún lugar del mundo​.
+- Ayuda a reparar la piel de la irritación, incluso después del depilado. 0% alcohol.​ Desodorante sin aluminio.
+- Desodorante Antitranspirante Aerosol Dove Advanced Care Original 150 ml.​
 - Protección 72 horas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

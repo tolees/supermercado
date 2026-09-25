@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal para uso diario, aporta beneficio inmediata.
-- Disfruta de una experiencia de frescura con cada aplicación.
-- CAROLINA HERRERA Carolina Herrera 212 Vip Rose Edp Sp 50 Ml – Other Beauty auténtico y reconocido.
-- CAROLINA HERRERA perfume original con calidad garantizada.
 - Presentación práctica de alta calidad, fácil de usar y llevar contigo.
+- CAROLINA HERRERA Carolina Herrera 212 Vip Rose Edp Sp 50 Ml – Other Beauty auténtico y reconocido.
+- Ideal para uso diario, aporta beneficio inmediata.
+- CAROLINA HERRERA perfume original con calidad garantizada.
+- Disfruta de una experiencia de frescura con cada aplicación.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00D2GT4U6{{</world>}}

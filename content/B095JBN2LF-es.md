@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ristretto: 20 ml; espresso: 30 ml; lungo: 160 ml; cappucino: 180 ml
 - Granos enteros tostados con sabor a caramelo natural; 3/5 de intensidad, 4/5 de tueste y 1/5 de acidez
+- Ristretto: 20 ml; espresso: 30 ml; lungo: 160 ml; cappucino: 180 ml
 - Tostado con toda la pasión y la experiencia de la tradición vienesa desde 1929, y con un sabor matizado y sutil gracias al largo tueste de tambor
-- Los granos de café cuidadosamente seleccionados (80 % arábica, 20 % robusta) crean una mezcla perfectamente equilibrada de aroma y sabor, con una ligera acidez y el sabor dulce del caramelo natural
 - La opción perfecta para el ristretto, el espresso, el lungo o el cappucino
+- Los granos de café cuidadosamente seleccionados (80 % arábica, 20 % robusta) crean una mezcla perfectamente equilibrada de aroma y sabor, con una ligera acidez y el sabor dulce del caramelo natural
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B095JBN2LF{{</world>}}

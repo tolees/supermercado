@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Puleva ECO - Leche Ecológica Entera BIO - Bienestar Animal - Brik UHT Pack 6 x 1L'
-date: 2026-09-19 18:08:05
+date: 2026-09-23 19:24:42
 image: 'https://m.media-amazon.com/images/I/51qgoexc0TL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'puleva','🇪🇸', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0
-comparePrice: 7.74 EUR
+comparePrice: 7.35 EUR
 prodname: 'Puleva ECO - Leche Ecológica Entera BIO - Bienestar Animal - Brik UHT Pack 6 x 1L'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HTBC6OK/?tag=tolees-21'
-descuento: '22.48'
-average: '6.1792'
+descuento: '18.37'
+average: '6.16592592592592'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

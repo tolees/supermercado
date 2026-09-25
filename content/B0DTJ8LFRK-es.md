@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Ideal para superponer o llevar solo, cuenta con nuestro logotipo reflectante de firma en el lado izquierdo del pecho, añadiendo un toque sutil y moderno
 - El corte estándar asegura una silueta casual pero pulida, complementada con un clásico cuello redondo
 - Hecho de nuestra tela de jersey súper ligera, ofrece una sensación transpirable y suave, óptima para llevar durante todo el día
-- Ideal para superponer o llevar solo, cuenta con nuestro logotipo reflectante de firma en el lado izquierdo del pecho, añadiendo un toque sutil y moderno
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DTJ8LFRK{{</world>}}

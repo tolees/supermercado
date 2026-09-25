@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Con aroma a café recién molido
 - Hecho a base de una mezcla granos café Arábica y Robusta
 - Fabricado en textura aglomerada, que permite una fácil disolución tanto en agua como leche
-- Con aroma a café recién molido
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XABHHUC{{</world>}}

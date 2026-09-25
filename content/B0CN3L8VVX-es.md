@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Desayuno ideal para los niños
-- Forma de los personajes del mar
 - Con vitaminas y calcio
+- Forma de los personajes del mar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CN3L8VVX{{</world>}}

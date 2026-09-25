@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sabor casero con un toque gourmet
-- Receta exclusiva de la Edición Limitada Luis Calvo
 - Sardinillas tiernas con salsa y cebolla caramelizada
+- Receta exclusiva de la Edición Limitada Luis Calvo
+- Sabor casero con un toque gourmet
 - Pescado azul rico en Omega 3
 
 [🛒 Visítala!!!]({{< param buyurl >}})

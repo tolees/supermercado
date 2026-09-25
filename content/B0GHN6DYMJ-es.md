@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un delicioso STARBUCKS Chocolate Hazelnut by NESPRESSO al alcance de tu mano
-- Café STARBUCKS Blonde Roast con una intensidad equilibrada de 5
-- Disfrútalo como espresso, lungo, con hielo o con leche para un momento cremoso y lleno de sabor
 - Suaves notas de chocolate y avellana tostada se combinan para crear una taza indulgente y con matices frutos secos
 - Inspirado en el icónico Hazelnut Mocha de las cafeterías STARBUCKS
+- Disfrútalo como espresso, lungo, con hielo o con leche para un momento cremoso y lleno de sabor
+- Café STARBUCKS Blonde Roast con una intensidad equilibrada de 5
+- Un delicioso STARBUCKS Chocolate Hazelnut by NESPRESSO al alcance de tu mano
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GHN6DYMJ{{</world>}}

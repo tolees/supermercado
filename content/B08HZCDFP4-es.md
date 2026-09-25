@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 💚 Notas de Cata - El Blend Decaf tiene notas a chocolate con leche y nueces, un poco de acidez y cuerpo medio. Ideal para amantes del café de verdad que por algún motivo no podéis tomar cafeína
-- ✨ Café Blend, mezcla de cafés de varias fincas de Brasil creada por nuestra Q grader y cofundadora, Bea Mesas
-- 💦 Descafeinado al Agua - Swiss water - Café descafeinado en grano con el método más respetuoso con tu salud, con el sabor y propiedades del café y con el medioambiente. No se usan productos químicos, conserva en la medida de lo posible las propiedades organolépticas y es eco-friendly porque reutiliza el agua usada en el proceso
-- 🌿 Tueste Artesanal - El tueste es uno de los elementos que más influyen en la calidad y el sabor del café. Nuestros expertos tostadores tuestan cada día para asegurar la frescura del café
 - 🌱 Ingredientes - Café Natural en Grano, 100% Arábica
+- 🌿 Tueste Artesanal - El tueste es uno de los elementos que más influyen en la calidad y el sabor del café. Nuestros expertos tostadores tuestan cada día para asegurar la frescura del café
+- ✨ Café Blend, mezcla de cafés de varias fincas de Brasil creada por nuestra Q grader y cofundadora, Bea Mesas
+- 💚 Notas de Cata - El Blend Decaf tiene notas a chocolate con leche y nueces, un poco de acidez y cuerpo medio. Ideal para amantes del café de verdad que por algún motivo no podéis tomar cafeína
+- 💦 Descafeinado al Agua - Swiss water - Café descafeinado en grano con el método más respetuoso con tu salud, con el sabor y propiedades del café y con el medioambiente. No se usan productos químicos, conserva en la medida de lo posible las propiedades organolépticas y es eco-friendly porque reutiliza el agua usada en el proceso
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08HZCDFP4{{</world>}}

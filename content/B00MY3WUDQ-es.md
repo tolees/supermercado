@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cheetos - Sticks 96 g'
-date: 2026-09-13 10:25:47
+date: 2026-09-20 21:04:37
 image: 'https://m.media-amazon.com/images/I/41K77i-hlUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MY3WUDQ/?tag=tolees-21'
 descuento: '5.13'
-average: '1.56631578947368'
+average: '1.59333333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

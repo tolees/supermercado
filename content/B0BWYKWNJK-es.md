@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Alimento para bebés a partir de 6 meses
 - Sin aceite de palma y sin gluten; sin colorantes ni conservantes, según la legislación vigente
-- Alimento infantil elaborado 100% con fruta natural madurada en el árbol lista para tomar
 - 100% natural con vitamina C
+- Alimento infantil elaborado 100% con fruta natural madurada en el árbol lista para tomar
 - Sin azúcares añadidos y sin espesantes, como lo haces en casa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

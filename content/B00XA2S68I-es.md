@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Galletas con dibujos de los personajes favoritos de los niños
 - Enriquecidas con 6 vitaminas, hierro, calcio y cereales
+- Galletas con dibujos de los personajes favoritos de los niños
 - Desarrollo de la imaginación de los más pequeños de casa
 
 [🛒 Aquí!!!]({{< param buyurl >}})

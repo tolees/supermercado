@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vanish Oxi Advance - Quitamanchas Multibeneficio Y Blanqueador Para Ropa Blanca En Polvo Sin Lejía 1 2kg'
-date: 2026-09-19 08:52:59
+date: 2026-09-24 12:11:32
 image: 'https://m.media-amazon.com/images/I/41iiV+L+48L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0B25L5DN3/?tag=tolees-21'
 descuento: '32.90'
-average: '11.3016666666667'
+average: '11.2904545454545'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

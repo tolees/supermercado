@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Burn Energy Original es una bebida energética, diseñada para ofrecerte el impulso que necesitas en tu día a día
-- Combina un sabor suave y refrescante mientras reduce el cansancio y la fatiga
 - Burn Energy Original ofrece un sabor refrescante y una explosión de energía para mantenerte activo durante el día
+- Burn Energy Original es una bebida energética, diseñada para ofrecerte el impulso que necesitas en tu día a día
 - Cada pack contiene 4 latas de 500ml de Burn Energy Original para llevar contigo a cualquier lugar y disfrutarlo bien frío
+- Combina un sabor suave y refrescante mientras reduce el cansancio y la fatiga
 - Esta bebida está cargada con ingredientes energizantes como cafeína, taurina, guaraná y vitaminas B6 y B12, que contribuyen a aumentar la concentración
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

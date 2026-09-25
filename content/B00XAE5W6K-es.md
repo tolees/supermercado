@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Air Wick Ambientador Freshmatic Max Recambio Duplo White Bouquet 500 ml'
-date: 2026-04-12 11:37:28
+date: 2026-09-25 10:17:41
 image: 'https://m.media-amazon.com/images/I/51ts0CeMP2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00XAE5W6K-es Air Wick Ambientador Freshmatic Max Recambio Duplo White...'
 sku: 'B00XAE5W6K-es'
 tags: [ 'air','wick','🇪🇸', ]
-actualPrice: 6.28 EUR
+actualPrice: 7.99 EUR
 currency: EUR
-price: 6.28
+price: 7.99
 comparePrice: 10.99 EUR
 prodname: 'Air Wick Ambientador Freshmatic Max Recambio Duplo White Bouquet 500 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAE5W6K/?tag=tolees-21'
-descuento: '42.86'
-average: '9.12200000000001'
+descuento: '27.30'
+average: '8.98882352941177'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elije entre tres niveles de intensidad para conseguir tu nivel de fragancia deseada
-- Pack de 2, hasta 140 días de frescor, disfruta de un aroma duradero y consistente para tu hogar
-- Descubre el resto de fragancias Air Wick Freshmatic
-- Fragancia White Bouquet, rodéate con la delicada fragancia floral de White Bouquet, inspirado en el fresco aroma de las flores blancas recién cortadas
-- Recambio para ambientador spray automático Air Wick Freshmatic
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XAE5W6K{{</world>}}

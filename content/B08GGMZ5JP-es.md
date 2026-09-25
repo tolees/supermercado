@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Textura suave
-- Mítica fragancia Moussel
-- Gel hidratante
 - Crema de ducha Moussel
+- Textura suave
+- Gel hidratante
+- Mítica fragancia Moussel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08GGMZ5JP{{</world>}}

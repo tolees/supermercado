@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Este vino blanco es suave y ligeramente dulce para realzar sus aromas afrutados y se sirve mejor frío
-- 6 botellas de vino blanco dulce Pays dOc, 100 % moscatel
 - "Color: bonito color amarillo claro con ligeros reflejos dorados. Nariz: fina y delicada, con un rico aroma. Boca: frescura profunda con aromas de frutas exóticas y miel."
 - Beber frío - entre 7 y 8 °C.
 - A disfrutar frío como aperitivo o con tartas saladas, quesos de pasta azul y postres de frutas de verano.
+- 6 botellas de vino blanco dulce Pays dOc, 100 % moscatel
+- Este vino blanco es suave y ligeramente dulce para realzar sus aromas afrutados y se sirve mejor frío
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09VGYDF84{{</world>}}

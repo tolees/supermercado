@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maybelline New York Lash Sensational Mascara Pestañas Space Diamond'
-date: 2026-09-17 23:30:32
+date: 2026-09-21 03:51:46
 image: 'https://m.media-amazon.com/images/I/31yl8ZzJRrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DHCYMVQJ/?tag=tolees-21'
 descuento: '48.81'
-average: '7.20500000000001'
+average: '7.18000000000001'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuidado nutritivo: enriquece profundamente el cabello y revitaliza, lo hace suave y manejable.
-- Brilliant Shine – Mejora el brillo natural, dando a tu cabello un acabado sano y brillante.
-- Pelo fuerte: ayuda a fortalecer el cabello contra el daño futuro, promoting healthier strands.
 - Control de frizz: suaviza el cabello, reduce el encrespamiento para un aspecto elegante y pulido.
+- Cuidado nutritivo: enriquece profundamente el cabello y revitaliza, lo hace suave y manejable.
+- Pelo fuerte: ayuda a fortalecer el cabello contra el daño futuro, promoting healthier strands.
+- Brilliant Shine – Mejora el brillo natural, dando a tu cabello un acabado sano y brillante.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F21VZR88{{</world>}}

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Este vino marida bien con jamón, quesos no muy curados, guisos con salsas no muy especiadas, legumbres cocidas o guisadas, aves, carnes rojas, carnes a la parrilla y asados
-- En boca es fresco, con taninos pulidos muy agradables, con buena estructura pero fácil de beber
 - Marqués de Riscal Reserva Edición Especial Risk All 2021 es una añada para la historia, la bodega rinde tributo al título de Mejor Viñedo del mundo en los Worlds Best Vineyards 2024
-- Estuche regalo metálico de 1 botella x 750 ml de Marqués de Riscal Reserva Edición Especial Risk All, Vino tinto Reserva D.O. Ca. Rioja
-- Vino de color cereza muy cubierto, intenso y con apenas signos de evolución
 - En nariz es muy expresivo con notas de regaliz, canela y pimienta negra, donde la larga crianza en madera apenas se percibe, gracias a su gran complejidad y concentración de fruta madura
+- Vino de color cereza muy cubierto, intenso y con apenas signos de evolución
+- Este vino marida bien con jamón, quesos no muy curados, guisos con salsas no muy especiadas, legumbres cocidas o guisadas, aves, carnes rojas, carnes a la parrilla y asados
+- Estuche regalo metálico de 1 botella x 750 ml de Marqués de Riscal Reserva Edición Especial Risk All, Vino tinto Reserva D.O. Ca. Rioja
+- En boca es fresco, con taninos pulidos muy agradables, con buena estructura pero fácil de beber
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0GQZMG8ZM{{</world>}}

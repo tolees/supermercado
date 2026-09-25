@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Marca - Hugo Boss
 - Tipo de producto - Desodorante
+- Marca - Hugo Boss
 - Producto pensado para hombres
 
 [🛒 Visítala!!!]({{< param buyurl >}})

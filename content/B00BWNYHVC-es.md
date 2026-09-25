@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Máquina Express: sistema de café profesional de hasta 15 bares de presión.
 - Café gourmet seleccionando los orígenes de mayor calidad con el inconfundible sabor NESCAFÉ Dolce Gusto
-- Las cápsulas Nescafé Dolce Gusto Latte Macchiato Caramel incluye un delicioso café con una cápsula de leche entera muy espumosa y con un delicioso toque de caramelo,
+- Cápsulas 100% reciclables depositándolas en nuestros puntos de recogida NESCAFÉ Dolce Gusto.
 - Cápsulas de café inteligentes. Su sellado hermético mantiene el café fresco conservando todos sus aromas.
 - Descubre nuestras más de 30 variedades de cápsulas de café, té, chocolate y especialidades de espresso con leche.
-- Máquina Express: sistema de café profesional de hasta 15 bares de presión.
-- Cápsulas 100% reciclables depositándolas en nuestros puntos de recogida NESCAFÉ Dolce Gusto.
+- Las cápsulas Nescafé Dolce Gusto Latte Macchiato Caramel incluye un delicioso café con una cápsula de leche entera muy espumosa y con un delicioso toque de caramelo,
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00BWNYHVC{{</world>}}

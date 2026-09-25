@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepsi zero Cherry Refresco de cola con cero azúcar y cero calorías packs de 6 botellas de 1.75 litros 10.5 litros en total'
-date: 2026-09-13 06:35:23
+date: 2026-09-23 10:53:52
 image: 'https://m.media-amazon.com/images/I/51TxBNM5qgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F1N15WKF/?tag=tolees-21'
 descuento: '42.86'
-average: '6.45'
+average: '6.36'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

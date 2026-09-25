@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Nutricionalmente perfectamente adaptado a las necesidades de los gatos
+- Renunciamos a la adición de azúcar y colorantes artificiales
+- Prestamos atención a la sostenibilidad, por eso adquirimos el pescado de las pesquerías MSC
 - Comida húmeda de alta calidad para gatos adultos
 - Mousse aireada con pato fino
-- Renunciamos a la adición de azúcar y colorantes artificiales
-- Nutricionalmente perfectamente adaptado a las necesidades de los gatos
-- Prestamos atención a la sostenibilidad, por eso adquirimos el pescado de las pesquerías MSC
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01HWZ2PM6{{</world>}}

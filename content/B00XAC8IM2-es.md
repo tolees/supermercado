@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Suave con esmalte dental
 - Con flúor y minerales
-- Protege contra la caries
 - Ayuda a blanquear los dientes.
+- Protege contra la caries
 - Deja un aliento fresco
 
 [🛒 Visítala!!!]({{< param buyurl >}})

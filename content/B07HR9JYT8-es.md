@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Todos estos sabores se envuelven para crear una textura aterciopelada; el final es equilibrado con un toque a vainilla
-- Se puede tomar servido en chupito o en cualquier cóctel para compartir en cualquier momento de celebración
 - Este whiskey escocés tiene un aroma rico y dulce, con notas concentradas a manzana cocida, mermelada casera de naranja, miel, canela y sultanas húmedas y jugosas
-- El sabor es pasmosamente suave y afrutado, con sabores a pera escalfada mezclados con butterscotch y toffees de caramelo
-- Su proceso de acabado se realiza en barricas usadas anteriormente para madurar Coñacs de Grande Champagne, que le otorgan un sabor especial
 - Chivas Regal XV es una versión refinada, afrutada y aterciopelada del estilo de whiskys escoceses Chivas Regal
+- Todos estos sabores se envuelven para crear una textura aterciopelada; el final es equilibrado con un toque a vainilla
+- El sabor es pasmosamente suave y afrutado, con sabores a pera escalfada mezclados con butterscotch y toffees de caramelo
+- Se puede tomar servido en chupito o en cualquier cóctel para compartir en cualquier momento de celebración
+- Su proceso de acabado se realiza en barricas usadas anteriormente para madurar Coñacs de Grande Champagne, que le otorgan un sabor especial
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07HR9JYT8{{</world>}}

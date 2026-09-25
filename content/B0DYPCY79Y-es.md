@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pestañas visiblemente más saludables: suero de pestañas + delineador líquido en uno para pestañas visiblemente más saludables en 1 semana
-- DELINEADOR VERSÁTIL: Apto para todas las formas de ojos
-- FÁCIL DE USAR: La punta del cepillo de sujeción de la línea de pestañas se desliza con flexibilidad y es fácil de controlar
-- FÓRMULA NUTRITIVA: Con microalgas tahitianas infundidas en suero
 - DURACIÓN DURANTE TODO EL DÍA: Tecnología ColorStay Adapti-Flex Color Lock para un color duradero
+- FÓRMULA NUTRITIVA: Con microalgas tahitianas infundidas en suero
+- DELINEADOR VERSÁTIL: Apto para todas las formas de ojos
+- Pestañas visiblemente más saludables: suero de pestañas + delineador líquido en uno para pestañas visiblemente más saludables en 1 semana
+- FÁCIL DE USAR: La punta del cepillo de sujeción de la línea de pestañas se desliza con flexibilidad y es fácil de controlar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DYPCY79Y{{</world>}}

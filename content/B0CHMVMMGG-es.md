@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepsi zero sin cafeína Refresco de cola con cero azúcar y cero calorías pack de 24 latas de 330 ml 7.92 litros en total'
-date: 2026-09-18 10:22:13
+date: 2026-09-20 22:03:52
 image: 'https://m.media-amazon.com/images/I/51vgGZuXmKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CHMVMMGG/?tag=tolees-21'
 descuento: '0.00'
-average: '14.2835384615385'
+average: '14.3944776119403'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

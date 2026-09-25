@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Procedente de la agricultura ecológica
-- La siguiente información se aplica a cada unidad del paquete
 - Envasado en España
 - Mantener en un lugar fresco y seco
 - Ingredientes: Té verde descafeinado.
+- Procedente de la agricultura ecológica
+- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DKTLLWHH{{</world>}}

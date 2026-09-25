@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Potencía la luminosidad de la piel
 - Gel facial formulado con un 15% de ácido glicólico parcialmente neutralizado (equivalente a un 6,1% de glicólico libre)
 - Tipo de piel: Combination
 - Exfolia la superﬁcie de la piel, ayudando a suavizar su textura y a fomentar el proceso de renovación cutánea
 - Su contenido en aloe vera proporciona una acción hidratante y ayuda a disminuir la irritación
+- Potencía la luminosidad de la piel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0849B6XKD{{</world>}}

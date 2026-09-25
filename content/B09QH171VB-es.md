@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🏆 Premios: Todas nuestras variedades han sido premiadas en certámenes cerveceros de reconocido prestigio, tanto nacionales como internacionales.
-- 🎁 Nuestros packs de cerveza artesana son el regalo perfecto.
-- 📦 Contiene seis de nuestras variedades de cerveza más vendidas en lata: 4 latas de Arriaca RUBIA 33cl (4,3% alc) + 4 latas de Arriaca TRIGO 33cl (4,7% alc) + 4 latas de Arriaca SESSION IPA 33cl (3,6% alc) + 4 latas de Arriaca IPA 33cl (6,9% alc), una cerveza de alta fermentación con lúpulos de nueva generación + 4 latas de Arriaca IMPERIAL RED IPA 33cl (8,5% alc), una cerveza de color rojo, con un potente carácter maltoso + 4 latas de Arriaca PORTER 33cl (5,9 alc), una cerveza negra.
 - 🍺 No te conformas con una sola cosas y sabes que hay una cerveza para cada momento. Te encantan todos los estilos y los quieres todos, por eso nuestro pack degustación de cerveza artesana Arriaca es para ti.
+- 🎁 Nuestros packs de cerveza artesana son el regalo perfecto.
+- 🏆 Premios: Todas nuestras variedades han sido premiadas en certámenes cerveceros de reconocido prestigio, tanto nacionales como internacionales.
+- 📦 Contiene seis de nuestras variedades de cerveza más vendidas en lata: 4 latas de Arriaca RUBIA 33cl (4,3% alc) + 4 latas de Arriaca TRIGO 33cl (4,7% alc) + 4 latas de Arriaca SESSION IPA 33cl (3,6% alc) + 4 latas de Arriaca IPA 33cl (6,9% alc), una cerveza de alta fermentación con lúpulos de nueva generación + 4 latas de Arriaca IMPERIAL RED IPA 33cl (8,5% alc), una cerveza de color rojo, con un potente carácter maltoso + 4 latas de Arriaca PORTER 33cl (5,9 alc), una cerveza negra.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09QH171VB{{</world>}}

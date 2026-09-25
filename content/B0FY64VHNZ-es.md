@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Azúcar, Manteca De Cacao, Leche Desnatada En Polvo
-- 125 g
-- Proteger del calor.
-- La siguiente información se aplica a cada unidad del paquete
 - Conservar en lugar seco
+- Proteger del calor.
+- 125 g
+- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FY64VHNZ{{</world>}}

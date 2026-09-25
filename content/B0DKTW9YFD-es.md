@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Paquete especial variado para explorar toda la gama de Cafés Solos de Starbucks desde la comodidad de tu hogar
 - Cápsulas de café Starbucks Exclusivo de Amazon, by NESCAFÉ Dolce Gusto; con una variedad de tuestes y mezclas de la colección Starbucks
-- Cápsulas de café compatibles con las máquinas de café NESCAFÉ Dolce Gusto para mayor comodidad y facilidad
 - Disfruta de tu café favorito de Starbucks sin salir de casa
+- Cápsulas de café compatibles con las máquinas de café NESCAFÉ Dolce Gusto para mayor comodidad y facilidad
 - Comprometidos con el abastecimiento ético de café en colaboración con Conservación Internacional
 
 [🛒 Comprar!!!]({{< param buyurl >}})

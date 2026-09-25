@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- NOCILLA COOKIES & CREAM: Disfruta de una combinación única de barritas con trocitos crujientes de galleta de cacao, rellenas de suave crema de leche y avellanas.
-- PRÁCTICAS Y PORTÁTILES: 18 Packs de 43 gr con 2 barritas cada uno, ideales para llevar como snack o merienda en cualquier momento del día. Fáciles de disfrutar y mantener frescas gracias a su envase individual en distintivo color rojo con el logotipo de Nocilla, fácil de identificar y almacenar.
 - SABOR DELICIOSO: Disfruta de una combinación irresistible de crema al cacao y leche con avellanas en cada barrita, ofreciendo un sabor auténtico y delicioso en cada bocado. Ideal para meriendas, descansos o como postre.
 - TEXTURA INIGUALABLE: Una cobertura crujiente con un suave y cremoso relleno interior que combina perfectamente con los trozos de galleta de cacao para una experiencia única en cada bocado.
+- PRÁCTICAS Y PORTÁTILES: 18 Packs de 43 gr con 2 barritas cada uno, ideales para llevar como snack o merienda en cualquier momento del día. Fáciles de disfrutar y mantener frescas gracias a su envase individual en distintivo color rojo con el logotipo de Nocilla, fácil de identificar y almacenar.
+- NOCILLA COOKIES & CREAM: Disfruta de una combinación única de barritas con trocitos crujientes de galleta de cacao, rellenas de suave crema de leche y avellanas.
 - CALIDAD NOCILLA:Con la garantía de la famosa marca Nocilla, estas barritas te ofrecen una experiencia deliciosa con el sabor clásico que tanto te gusta, perfectas para compartir o disfrutar en solitario.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

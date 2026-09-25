@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- FÓRMULAS INTELIGENTES | Fórmula científica sin ingredientes nocivos para la piel: sin petrolatos, ni siliconas ni parabenos. Bueno para tí y para el planeta.
 - IDEAL PARA | Todo Tipo de Pieles. Apto Veganos, Lactancia y Embarazo. Toxic & Cruelty Free.
-- PIEL LIMPIA CON UN SOLO GESTO | Con este producto podrás eliminar cualquier rastro de maquillaje, incluso waterproof, en una sola pasada.
 - ¿QUÉ ES? | Leche de limpieza que elimina el maquillaje, el sebo producido por tu piel, el sudor y la polución de forma natural y eficaz.
+- PIEL LIMPIA CON UN SOLO GESTO | Con este producto podrás eliminar cualquier rastro de maquillaje, incluso waterproof, en una sola pasada.
 - ENRIQUECIDO CON ACEITE DE COCO | Limpia sin irritar ¿El resultado? Una piel suave, radiante y luminosa.
+- FÓRMULAS INTELIGENTES | Fórmula científica sin ingredientes nocivos para la piel: sin petrolatos, ni siliconas ni parabenos. Bueno para tí y para el planeta.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BZWGXF7V{{</world>}}

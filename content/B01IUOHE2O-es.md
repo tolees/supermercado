@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Formato bolsa con 43,5 gramos de chicles sueltos tipo gragea
 - Chicles refrescantes sin azúcar con sabor a fresa
-- Sabor intenso y refrescante que cuida tu aliento y tu salud dental
 - Conservar en lugar fresco y seco
+- Sabor intenso y refrescante que cuida tu aliento y tu salud dental
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01IUOHE2O{{</world>}}

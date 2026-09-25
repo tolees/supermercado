@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Fórmula enriquecida con keratina cuida y fortalece las pestañas
 - Cepillo modelador de pestañas con cerdas únicas que cubren cada pestaña para un impacto total
 - 7X Volumen instántaneo
-- Tratamiento prolongado, pestañas visiblemente más pobladas en 4 semanas
-- Fórmula enriquecida con keratina cuida y fortalece las pestañas
 - Diseño recargable de alta tecnología para un uso infinito, recambio en 1 solo minuto
+- Tratamiento prolongado, pestañas visiblemente más pobladas en 4 semanas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DP5FW15C{{</world>}}

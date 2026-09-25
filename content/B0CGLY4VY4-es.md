@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Listerine Enjuague Bucal Mentol Sabor Suave Sin Alcohol Para uso Diario Aliento Fresco Duradero 500ml Paquete de 2'
-date: 2026-09-17 19:47:54
+date: 2026-09-24 20:12:29
 image: 'https://m.media-amazon.com/images/I/41is-IS6Z7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CGLY4VY4/?tag=tolees-21'
 descuento: '62.62'
-average: '4.11882352941176'
+average: '4.09619047619048'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

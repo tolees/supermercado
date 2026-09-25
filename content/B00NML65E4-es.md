@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Protege la flora cutánea natural con un pH neutro para la piel
+- Limpia delicadamente sin jabón
 - Cuida la piel durante el lavado
 - Para ducharse y lavarse
-- Limpia delicadamente sin jabón
+- Protege la flora cutánea natural con un pH neutro para la piel
 - Producto fabricado en Alemania por EUBOS, una empresa familiar fundada en 1930
 
 [🛒 Comprar!!!]({{< param buyurl >}})

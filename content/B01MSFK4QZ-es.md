@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mostaza estilo Americana
-- Sin Conservante, Colorantes, ni Aromas artificiales
 - Perfecto con carnes, bocadillos, hamburguesas, perritos calientes.
+- Sin Conservante, Colorantes, ni Aromas artificiales
+- Mostaza estilo Americana
 - Contiene gluten (cebada)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

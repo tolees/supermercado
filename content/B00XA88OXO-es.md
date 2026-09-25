@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Listerine Mentol 1 x 250 ml enjuague bucal con flúor colutorio encías con 24 horas de protección elixir bucal que elimina las bacterias para un aliento fresco duradero'
-date: 2026-09-14 06:53:48
+date: 2026-09-22 15:24:28
 image: 'https://m.media-amazon.com/images/I/31LV8ORQIxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XA88OXO/?tag=tolees-21'
 descuento: '64.91'
-average: '1.7353488372093'
+average: '1.66565217391304'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

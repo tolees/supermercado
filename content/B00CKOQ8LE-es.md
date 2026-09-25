@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'COOSUR - Aceite de Oliva Suave. El Aceite de los Maestros. Botella 1 L'
-date: 2026-09-17 13:46:52
+date: 2026-09-24 16:20:56
 image: 'https://m.media-amazon.com/images/I/31yMJSq0ZgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CKOQ8LE/?tag=tolees-21'
 descuento: '0.00'
-average: '4.59857142857143'
+average: '4.5225'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

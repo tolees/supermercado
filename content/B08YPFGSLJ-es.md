@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lipton Té helado con sabor a melocotón cero azúcar y bajo en calorías pack de 24 latas de 330 ml 7.92 litros en total'
-date: 2026-09-16 12:44:07
+date: 2026-09-24 06:33:31
 image: 'https://m.media-amazon.com/images/I/51akvMjrQNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08YPFGSLJ/?tag=tolees-21'
 descuento: '5.56'
-average: '14.8547826086957'
+average: '15.2984000000001'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

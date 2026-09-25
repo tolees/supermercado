@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Idea de regalo para fanáticos
-- Inmediatamente da una sensación de bienestar
 - Una fragancia fresca y energética
+- Inmediatamente da una sensación de bienestar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08LPFLHQM{{</world>}}

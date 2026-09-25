@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Capacidad: 5 x 50 ml
-- Producto de calidad
 - El set incluye: 1 botella de Jack Daniels Tennessee Fire 35%, 1 botella de Jack Daniels GENTLEMAN JACK Tennessee Whiskey 40%, 1 botella de Jack Daniels Tennessee Whiskey 40%, 1 botella de Licor de Miel Jack Daniels 35% y 1 botella de whisky Jack Daniels Select Single Barrel Tennessee 45%
+- Producto de calidad
+- Capacidad: 5 x 50 ml
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07NJP2LCT{{</world>}}

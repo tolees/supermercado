@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HARIBO Favoritos Pica 1x250g'
-date: 2026-09-12 14:32:18
+date: 2026-09-25 12:33:57
 image: 'https://m.media-amazon.com/images/I/51Y71ObPp0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08JMC2PTT/?tag=tolees-21'
 descuento: '43.69'
-average: '2.6375'
+average: '2.44'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

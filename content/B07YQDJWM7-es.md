@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Elaboradas de forma artesanal, con ingredientes naturales y colocadas en la lata manualmente
 - Ingredientes: SARDINAS, aceite de girasol, vinagre, especias y sal.
 - Ideales para un aperitivo gourmet
+- Elaboradas de forma artesanal, con ingredientes naturales y colocadas en la lata manualmente
 - Sardinas capturadas con las artes de pesca tradicionales en el Atlántico
 - Garantía Cuca desde 1932
 

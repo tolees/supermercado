@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vitakraft Cat YUMS golosinas para Gatos Snack Blando para Gatos Relleno de salmón en Bolsa resellable tamaño Almacenamiento sin azúcar añadido 9X 40g'
-date: 2026-09-18 17:22:42
+date: 2026-09-21 18:36:03
 image: 'https://m.media-amazon.com/images/I/41a6SrAiy3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

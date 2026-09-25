@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Esta caja de 160g contiene 4 bolsas individuales de 40g cada una, son hechas para tener en casa o para llevar a cualquier lugar
-- Desde 1964, Mini Chips Ahoy ha sido sinónimo de diversión, ofreciendo una amplia variedad de galletas que alegran nuestras meriendas y reuniones
-- La siguiente información se aplica a cada unidad del paquete
 - Estas mini galletas están hechas con ingredientes de calidad, ofreciendo la combinación imperdible de galleta crujiente y trozos de chocolate que se derriten en la boca
 - Chips Ahoy presenta Mini Galletas Cookies , una deliciosa opción con crujientes galletas y pepitas de chocolate que encantan a todos
+- Desde 1964, Mini Chips Ahoy ha sido sinónimo de diversión, ofreciendo una amplia variedad de galletas que alegran nuestras meriendas y reuniones
+- Esta caja de 160g contiene 4 bolsas individuales de 40g cada una, son hechas para tener en casa o para llevar a cualquier lugar
+- La siguiente información se aplica a cada unidad del paquete
 - Disfruta de Chips Ahoy Mini como un snack delicioso para picar, compartir en reuniones o acompañar con un vaso de leche
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

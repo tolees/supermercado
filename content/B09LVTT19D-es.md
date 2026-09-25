@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ofrece una cobertura óptima
-- Apto para todo tipo de piel
 - Marca: Max Factor
+- Apto para todo tipo de piel
+- Ofrece una cobertura óptima
 - Fácil de aplicar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

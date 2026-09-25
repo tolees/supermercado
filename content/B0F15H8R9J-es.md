@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mejillones aderezados con una rica y sabrosa salsa escabeche, tamaño mediano: 8/12 piezas por lata.
-- Nuestros mejillones no contienen ni gluten, ni lactosa.
-- Producto en línea con el compromiso de sostenibilidad de Isabel que cuenta con el sello de calidad responsable.
-- Los mejillones Isabel es un producto de alto valor nutritivo, rico en Omega 3 y proteina.
 - Ingredientes: MEJILLONES, aceite de girasol, agua, vinagre y aroma natural.
+- Nuestros mejillones no contienen ni gluten, ni lactosa.
+- Los mejillones Isabel es un producto de alto valor nutritivo, rico en Omega 3 y proteina.
+- Producto en línea con el compromiso de sostenibilidad de Isabel que cuenta con el sello de calidad responsable.
+- Mejillones aderezados con una rica y sabrosa salsa escabeche, tamaño mediano: 8/12 piezas por lata.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F15H8R9J{{</world>}}

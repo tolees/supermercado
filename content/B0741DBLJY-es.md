@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mix de sabores frutales
 - Caramelos de goma
-- Conservar en lugar fresco y seco
 - Deliciosas piezas en forma de estrellitas
+- Conservar en lugar fresco y seco
+- Mix de sabores frutales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0741DBLJY{{</world>}}

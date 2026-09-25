@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Red Bull Zero Bebida energética Sin Azúcar - 24 latas de 250 ml Total 6000 ml'
-date: 2026-09-17 08:54:53
+date: 2026-09-24 10:59:44
 image: 'https://m.media-amazon.com/images/I/4153uDi61NL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VQRNNQE/?tag=tolees-21'
 descuento: '28.06'
-average: '26.8220512820514'
+average: '26.6843902439025'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

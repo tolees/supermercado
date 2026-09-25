@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Apto para el uso diario
-- Marca: Gliss
 - Producto para el cuidado del cabello
 - El producto es fabricado con ingredientes de calidad
+- Marca: Gliss
+- Apto para el uso diario
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08KVP7YSH{{</world>}}

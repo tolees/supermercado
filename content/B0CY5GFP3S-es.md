@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Con cierre ZIP para una mejor conservación
-- Mini Dinosaurus con Chocolate con Leche
 - Llévalos a donde quieras
+- Mini Dinosaurus con Chocolate con Leche
 - Formato ideal para compartir
 
 [🛒 Aquí!!!]({{< param buyurl >}})

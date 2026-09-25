@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseñado y empaquetado de manera preciosa, es el mejor regalo para lograr una estación genuinamente mágica.
 - Abre un regalo cada semana para disfrutar de un Adviento muy especial o descúbrelos todos a la vez para llenar tu hogar de fragancias y espíritu navideños.
 - Disfruta de un Adviento único, descubriendo un producto cada semana o todos a la vez, si no puedes resistirte.
-- Dentro encontrarás todo lo que necesitas para llenar tu hogar de los mejores aromas, incluidos productos de tamaño estándar de nuestra Private Collection y un regalo de tamaño mini.
 - Deja que la elegancia florezca en tu hogar con nuestro cofre de regalo prémium. Con lo mejor de las gamas Fresh y Floral de nuestra Private Collection, podrás disfrutar de cinco productos de fragancias para el hogar para rodearte de los mejores aromas del invierno.
+- Dentro encontrarás todo lo que necesitas para llenar tu hogar de los mejores aromas, incluidos productos de tamaño estándar de nuestra Private Collection y un regalo de tamaño mini.
+- Diseñado y empaquetado de manera preciosa, es el mejor regalo para lograr una estación genuinamente mágica.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0G4DHTYHR{{</world>}}

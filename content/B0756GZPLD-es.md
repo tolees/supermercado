@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Dove Loción corporal enriquecida con aceite de coco y leche de almendras
+- Aceite de coco para la loción corporal de la piel con un aroma calmante y cremoso
 - Dove Loción con fórmula súper rica que proporciona a la piel humedad
 - Dove Loción corporal para todos los tipos de piel que deja una sensación relajada y extra suave en la piel
 - Inspirado en los rituales de belleza reales de las mujeres indias
-- Aceite de coco para la loción corporal de la piel con un aroma calmante y cremoso
-- Dove Loción corporal enriquecida con aceite de coco y leche de almendras
 - crema hidratante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

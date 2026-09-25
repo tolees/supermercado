@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Una experiencia de sabor y textura realmente única; Experimente la suntuosa combinación del aterciopelado chocolate blanco Gianduja con las crujientes avellanas enteras tostadas de Piemonte en cada uno de los hermosos cubos de chocolate envueltos individualmente
+- Turrón de chocolate blanco NUXOR; Nuestra mejor receta con frutos secos mediterráneos y chocolate blanco aterciopelado con avellanas enteras tostadas
 - Gracias a décadas de experiencia, los chocolateros maîtres crean chocolate suizo a la perfección
 - Para compartir con amigos, como postre, para tomar un café o simplemente disfrutar
-- Turrón de chocolate blanco NUXOR; Nuestra mejor receta con frutos secos mediterráneos y chocolate blanco aterciopelado con avellanas enteras tostadas
 - Todo lo que puedes esperar de Lindt: creatividad, pasión y talento, adecuadamente combinados en deliciosos momentos de chocolate
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

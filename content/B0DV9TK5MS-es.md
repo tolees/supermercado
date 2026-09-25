@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
 - Set de la marca Nivea
 - Color: Multicolor
+- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
 - Medidas: 25 x 7 x 20 centímetros
 - Referencia: S05128026
 

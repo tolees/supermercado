@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Proteína de calidad
 - Cajita multisabor con 12 bolsitas de 85 g
+- Sin cereales: con carbohidratos alternativos (boniato, garbanzos y guisantes)
+- Elaborado con ingredientes naturales
+- Sin colorantes, conservantes ni aromas artificiales; ingredientes con trazabilidad garantizada desde el origen
+- Proteína de calidad
 - Embalaje reciclable
 - Alimento húmedo completo para gatos adultos
-- Elaborado con ingredientes naturales
-- Sin cereales: con carbohidratos alternativos (boniato, garbanzos y guisantes)
 - Comida completa y equilibrada para gatos adultos esterilizados
-- Sin colorantes, conservantes ni aromas artificiales; ingredientes con trazabilidad garantizada desde el origen
 - Pelaje brillate y piel sana: Omega 3 y 6 y zinc que contribuyen a un pelaje brillante y una piel cuidada
 
 [🛒 Visítala!!!]({{< param buyurl >}})

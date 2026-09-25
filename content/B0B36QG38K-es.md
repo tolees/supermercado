@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Nuevo colorete que cuida y mejora tu piel
 - Formula 100% vegana que incluye ácido hialurónico, escualeno y un complejo hidratante
-- Disponible en 4 colores vivos y de fácil difuminado
 - Acabado radiante y natural
 - Larga duración
+- Disponible en 4 colores vivos y de fácil difuminado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B36QG38K{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SANTIVERI – Mini Tortitas Proteicas Sabor Romero Snack Proteico con 24 g de Proteína Alto en Fibra con Aceite de Oliva Sin Gluten ni Lactosa – 50 g'
-date: 2026-09-20 12:02:21
+date: 2026-09-24 15:02:31
 image: 'https://m.media-amazon.com/images/I/41Qp1gGmXjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

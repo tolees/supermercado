@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Champú para cabellos
-- Fórmula nutritiva para cabellos dañados
 - Agradable sensación en el pelo
+- Fórmula nutritiva para cabellos dañados
+- Champú para cabellos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D3M3L4ZJ{{</world>}}

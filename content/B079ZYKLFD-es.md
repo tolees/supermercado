@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Marca: Litoral
 - Un plato apto para dietas vegetarianas, elaborado con ingredientes 100% naturales
+- Marca: Litoral
 - Con ingredientes de cultivo local
 - Una deliciosa receta 100% vegetal con aceite de oliva, casera
 

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Kit de degustación de surtidos creado con las mezclas más famosas Gimoka para satisfacer el gusto de los amantes del café italiano más exigentes. Desde 100% Arábica hasta Robusta, con un aroma aterciopelado o más fuerte.
+- Formato de paquete de degustación variada: 100 cápsulas de plástico que ahorran aroma, 20 cápsulas clásicas, 20 cápsulas de Ristretto, 20 cápsulas de Sublime, 20 cápsulas de Brasil y 20 cápsulas de Colombia.
 - La intensidad varía de 6 a 12.
 - Mezcla una cuidadosa selección de los mejores cafés para arábicas. Granos de Colombia, Brasil, Honduras, Vietnam, Papúa Nueva Guinea e Indonesia.
 - Grupo Made in Italy Gimoka - Coffee for passion desde los años 80, se ha comprometido activamente con el desarrollo de soluciones de envasado que sean fácilmente reciclables, compostables y ambientalmente sostenibles.
-- Formato de paquete de degustación variada: 100 cápsulas de plástico que ahorran aroma, 20 cápsulas clásicas, 20 cápsulas de Ristretto, 20 cápsulas de Sublime, 20 cápsulas de Brasil y 20 cápsulas de Colombia.
-- Kit de degustación de surtidos creado con las mezclas más famosas Gimoka para satisfacer el gusto de los amantes del café italiano más exigentes. Desde 100% Arábica hasta Robusta, con un aroma aterciopelado o más fuerte.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07BKK1YCM{{</world>}}

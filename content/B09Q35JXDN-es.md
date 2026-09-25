@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MENFORSAN Champú para Perros Aceite de Macadamia Nutre y Abrillanta el Pelaje Poder desenredante Propiedades Anti Encrespamiento y Restauradoras Cítrico 5 l'
-date: 2026-09-19 02:21:20
+date: 2026-09-25 03:50:33
 image: 'https://m.media-amazon.com/images/I/418022jOhJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09Q35JXDN/?tag=tolees-21'
 descuento: '0.00'
-average: '35.2408333333334'
+average: '35.4056250000002'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

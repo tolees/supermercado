@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ALIMENTACIÓN, SUPERALIMENTOS. Cúrcuma en polvo procedente de Agricultura Ecológica
-- Es muy beneficiosa por su alto poder antiinflamatorio, puede añadirse a las recetas o, incluso, puede servir como colorante natural
-- MODO DE USO: Añadir una cucharadita a bebidas vegetales, ensaladas y batidos. Es recomendable acompañarla de grasa (ejemplo: aceite de coco) para mejorar la asimilación por parte del organismo. 1 cucharadita de postre = 5g aproximadamente
-- BENEFICIOS: Puede utilizarse como colorante natural o como especia. Ayuda a aliviar molestias articulares y musculares
 - ETIQUETAS: Este producto es apto para veganos y celíacos. Además, no contiene colorantes, conservantes ni azúcares añadidos
+- ALIMENTACIÓN, SUPERALIMENTOS. Cúrcuma en polvo procedente de Agricultura Ecológica
+- MODO DE USO: Añadir una cucharadita a bebidas vegetales, ensaladas y batidos. Es recomendable acompañarla de grasa (ejemplo: aceite de coco) para mejorar la asimilación por parte del organismo. 1 cucharadita de postre = 5g aproximadamente
+- Es muy beneficiosa por su alto poder antiinflamatorio, puede añadirse a las recetas o, incluso, puede servir como colorante natural
+- BENEFICIOS: Puede utilizarse como colorante natural o como especia. Ayuda a aliviar molestias articulares y musculares
 - PROPIEDADES: Puede utilizarse como colorante natural o como especia. Además, el proceso de recolección y procesado se realiza siguiendo los estándares de calidad, lo que ha permitido obtener el certificado BIO
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

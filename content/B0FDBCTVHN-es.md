@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Gallina Blanca - Yatekomo Cup Pollo pack 4 x 60'
-date: 2026-09-15 10:31:13
+title: 'Gallina Blanca Yatekomo Cup Pollo 60g'
+date: 2026-09-25 12:25:33
 image: 'https://m.media-amazon.com/images/I/51QVDVWhXFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0FDBCTVHN-es Gallina Blanca - Yatekomo Cup Pollo pack 4 x 60'
+slug: 'B0FDBCTVHN-es Gallina Blanca Yatekomo Cup Pollo 60g'
 sku: 'B0FDBCTVHN-es'
 tags: [ 'blanca','gallina','pollo','yatekomo','🇪🇸', ]
 actualPrice: 4.6 EUR
 currency: EUR
 price: 4.6
 comparePrice: 6.1 EUR
-prodname: 'Gallina Blanca - Yatekomo Cup Pollo pack 4 x 60'
+prodname: 'Gallina Blanca Yatekomo Cup Pollo 60g'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FDBCTVHN/?tag=tolees-21'
 descuento: '24.59'
-average: '5.00666666666667'
+average: '4.905'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

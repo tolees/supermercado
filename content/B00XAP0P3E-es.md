@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sabor a tutti-frutti
-- Caramelos de goma
-- Deliciosas piezas en forma de delfines azules
 - Conservar en lugar fresco y seco
+- Sabor a tutti-frutti
+- Deliciosas piezas en forma de delfines azules
+- Caramelos de goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00XAP0P3E{{</world>}}

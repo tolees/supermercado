@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Acabado natural gracias a su fórmula fluida y ligera que se funde con la piel
 - Se puede usar sola o como base preparatoria bajo el maquillaje
+- Acabado natural gracias a su fórmula fluida y ligera que se funde con la piel
 - Prebase correctora del color para reducir visiblemente las rojeces y unificar el tono de la piel
 - Con un efecto de frescura hidratante
 - El tono verde neutraliza las imperfecciones y equilibra la complexión

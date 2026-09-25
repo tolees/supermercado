@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- INTENSIDAD: Cápsulas de café molido de tueste natural con intensidad 10 para disfrutar de un espresso con cuerpo y fuerte presencia en la taza
+- La siguiente información se aplica a cada unidad del paquete
 - ORIGEN: Una completa mezcla de robustas africanas y arábicas procedentes de Honduras
 - CALIDAD DELTA Q: La combinación perfecta de granos provenientes de las mejores regiones productoras de café del mundo y del arte del tostado
-- PERFIL SENSORIAL: Café espresso con cuerpo y muy intenso con notas de caramelo; Aroma 5/10, cuerpo 8/10, acidez 4/10, equilibrio 6/10, Intensidad 10/15
-- La siguiente información se aplica a cada unidad del paquete
 - COMPATIBLE: Paquete de 40 cápsulas de café Qalidus (1 x 40 cápsulas de café) compatible con todas las cafeteras Delta Q
+- PERFIL SENSORIAL: Café espresso con cuerpo y muy intenso con notas de caramelo; Aroma 5/10, cuerpo 8/10, acidez 4/10, equilibrio 6/10, Intensidad 10/15
+- INTENSIDAD: Cápsulas de café molido de tueste natural con intensidad 10 para disfrutar de un espresso con cuerpo y fuerte presencia en la taza
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F136CJZL{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CHAMPÚ: Fija el tinte y potencia el brillo de las fibras capilares de tu cabello con este champú protector de Wella que intensifica el color -formulado especialmente para cabellos teñidos, secos y dañados.
-- PROTECCIÓN DEL TINTE: Elimina las impurezas para intensificar los reflejos de color de las fibras capilares del cabello. Hasta 8 semanas de protección del color.
 - SUAVIDAD: Tratamiento hidratante -hasta el pelo con color más seco y dañado queda suave y manejable.
+- PROTECCIÓN DEL TINTE: Elimina las impurezas para intensificar los reflejos de color de las fibras capilares del cabello. Hasta 8 semanas de protección del color.
 - BRILLO: Enriquecido con antioxidantes para proteger las fibras capilares del cabello de la decoloración y de los daños del ambiente - mantiene el cabello vivo y con brillo .
+- CHAMPÚ: Fija el tinte y potencia el brillo de las fibras capilares de tu cabello con este champú protector de Wella que intensifica el color -formulado especialmente para cabellos teñidos, secos y dañados.
 - CUIDADO DEL CABELLO: Suaviza las cutículas con el pulidor de la superficie capilar, manteniendo la suavidad y el brillo del cabello - productos Wella Professionals. ¡Un perfecto regalo para mujer!
 
 [🛒 Aquí!!!]({{< param buyurl >}})

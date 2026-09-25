@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La siguiente información se aplica a cada unidad del paquete
 - Género: Mujer
-- El embalaje puede variar
-- Tipo de producto: Champú
-- Marca: Batiste
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- El embalaje puede variar
+- La siguiente información se aplica a cada unidad del paquete
+- Marca: Batiste
+- Tipo de producto: Champú
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJMQTHPB{{</world>}}

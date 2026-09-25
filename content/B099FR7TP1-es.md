@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Enriquecido con ingredientes que cuidan la piel.
-- Una fragancia exclusiva y permanente, única en el mundo.
-- El clásico jabón de manos negro con espuma blanca y perfume exclusivo del mercado.
 - Pruébalo y descubrirás un suave y cremoso jabón de tocador que cuida y suaviza tus manos.
+- Enriquecido con ingredientes que cuidan la piel.
 - ¡Con más de 30 años de historia sigue siendo un placer diario!
+- El clásico jabón de manos negro con espuma blanca y perfume exclusivo del mercado.
+- Una fragancia exclusiva y permanente, única en el mundo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B099FR7TP1{{</world>}}

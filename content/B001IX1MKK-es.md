@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bajo en grasas
+- Su envase está hecho con 100% cartón de origen sostenible
 - Número 1 en ventas
 - Knorr Caldo Pescado 12 pastillas
-- Su envase está hecho con 100% cartón de origen sostenible
 - Sin gluten, sin conservantes, sin colorantes y sin lactosa. Con aceite de oliva virgen extra.
 - Elaborado con verduras y hortalizas de origen sostenible
+- Bajo en grasas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001IX1MKK{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Su efecto hidratante es tan versátil que puedes usarlo solo para un acabado natural y glowy, o bien como primer debajo de tu base de maquillaje para una perfección duradera
-- Base ligera que minimiza la apariencia de los poros y reduce el enrojecimiento de la piel
-- Enriquecida con vitaminas, su fórmula limpia y vegana contiene un 98 % de ingredientes naturales con una mezcla de vitaminas E y B5
 - Hidratación instantánea y duradera de hasta 24 horas gracias a que está compuesta por un 71% de agua
+- Base ligera que minimiza la apariencia de los poros y reduce el enrojecimiento de la piel
+- Su efecto hidratante es tan versátil que puedes usarlo solo para un acabado natural y glowy, o bien como primer debajo de tu base de maquillaje para una perfección duradera
+- Enriquecida con vitaminas, su fórmula limpia y vegana contiene un 98 % de ingredientes naturales con una mezcla de vitaminas E y B5
 - Desafía la opacidad y redescubre la luminosidad natural de tu piel con Bourjois Healthy Mix Glow Tint Essence. Crea un efecto de filtro luminoso, dejando la piel fresca y radiante
 
 [🛒 Comprar!!!]({{< param buyurl >}})

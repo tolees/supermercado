@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Destilación tradicional: Cada gota de Jack Daniels Tennessee Whiskey se destila en Lynchburg, Tennessee, en la primera destilería registrada de los Estados Unidos
 - Proceso de filtrado único: Filtrado a través de tres metros de carbón de arce sacarino para obtener ese gusto suave, intenso y único que define a Jack Daniels
-- Perfil de sabor: Sabor a mora, dulce y refrescante que combina el carácter audaz del whiskey con notas frutales
-- Sugerencias de consumo: Disfrútalo como en un chupito frío o mezclado con ginger ale o limonada con hielo
 - Mezcla exclusiva: Jack Daniels Tennessee Blackberry es una mezcla de Jack Daniels Tennessee Whiskey y un exclusivo licor de mora
+- Sugerencias de consumo: Disfrútalo como en un chupito frío o mezclado con ginger ale o limonada con hielo
+- Perfil de sabor: Sabor a mora, dulce y refrescante que combina el carácter audaz del whiskey con notas frutales
+- Destilación tradicional: Cada gota de Jack Daniels Tennessee Whiskey se destila en Lynchburg, Tennessee, en la primera destilería registrada de los Estados Unidos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FQWKSMYH{{</world>}}

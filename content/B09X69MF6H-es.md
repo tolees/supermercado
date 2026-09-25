@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Central Lechera Asturiana Leche Entera Pack 6 x 200ml'
-date: 2026-09-15 06:27:32
+date: 2026-09-24 12:39:49
 image: 'https://m.media-amazon.com/images/I/51DP0vfpFXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09X69MF6H/?tag=tolees-21'
 descuento: '22.27'
-average: '1.81959999999999'
+average: '1.81148148148148'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

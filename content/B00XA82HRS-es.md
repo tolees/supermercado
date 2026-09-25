@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Nota de cata (boca): Entrada en boca suave, con taninos delicados que hace el vino muy agradable y redondeado. Final de boca persistente y elegante
+- Maridaje: Carnes rojas y platos de caza, asados, aves, carnes blancas, jamón serrano, charcutería, quesos curados, quesos azules combinan a la perfección con Ederra Reserva
+- Varietales: Tempranillo 100%
 - Nota de cata (vista): Color rubí intenso
 - Reserva, D.O.Ca. Rioja
-- Maridaje: Carnes rojas y platos de caza, asados, aves, carnes blancas, jamón serrano, charcutería, quesos curados, quesos azules combinan a la perfección con Ederra Reserva
-- Nota de cata (boca): Entrada en boca suave, con taninos delicados que hace el vino muy agradable y redondeado. Final de boca persistente y elegante
-- Varietales: Tempranillo 100%
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00XA82HRS{{</world>}}

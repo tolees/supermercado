@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elaboradas en España por Galletas Gullón
+- Con deliciosas pepitas de chocolate
 - Elaboradas con copos de avena y fibras vegetales
 - Alto contenido en fibra
+- Elaboradas en España por Galletas Gullón
 - Sin azúcares añadidos
-- Con deliciosas pepitas de chocolate
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GZPRHYH6{{</world>}}

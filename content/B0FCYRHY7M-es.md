@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - DEJA EL SHAKER DE PROTEÍNA EN CASA - Con nuestro batido de proteína listo para beber, no hay necesidad de mezclar polvo de proteína con una botella shaker. ¡Simplemente llévate un batido de Barebells en su lugar!
-- LOS BATIDOS DE PROTEÍNA BAREBELLS - Con menos de 200 kcal por porción y 24 g de proteína, estos batidos bajos en calorías se convierten en el snack proteico ideal para acompañarte allá donde vayas
 - PARA UN ESTILO DE VIDA ACTIVO - Las bebidas proteicas Barebells funcionan tanto como sustitutivo de una comida previa al entrenamiento como alternativa líquida al tradicional batido en polvo tras tu sesión. Hay muchas formas de disfrutar un batido de proteína Barebells.
+- LOS BATIDOS DE PROTEÍNA BAREBELLS - Con menos de 200 kcal por porción y 24 g de proteína, estos batidos bajos en calorías se convierten en el snack proteico ideal para acompañarte allá donde vayas
 - DISEÑADO PARA CONSENTIR A NUESTRO NIÑO INTERIOR - Que un batido Cookies & Cream aporte 24 g de proteína, sin de azúcares añadidos y sin de lactosa es el plus que tu rutina y tu paladar agradecerán
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Imprescindibles coordinados por colores para ojos, rostro y labios
-- Colección de maquillaje de 8 productos
 - Tonos dinámicos para looks expresivos
 - Nos oponemos a los experimentos con animales. Cosnova aparece internacionalmente con essence y CATRICE tanto en PETA Alemania como en PETA.
 - natural; brillante; rociado; reluciente; holográfico; escarchado; mate
+- Imprescindibles coordinados por colores para ojos, rostro y labios
+- Colección de maquillaje de 8 productos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FP2WSD87{{</world>}}

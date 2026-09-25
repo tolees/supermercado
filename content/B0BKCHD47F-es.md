@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fresco aroma a cítricos y menta vigoriza el cuerpo y los sentidos.
 - Dale más volumen a tu cabello y reduce la rotura y la caída del cabello con ingredientes altamente efectivos como los aminoácidos de queratina y las proteínas vegetales
-- Refresca el cuero cabelludo
+- Fresco aroma a cítricos y menta vigoriza el cuerpo y los sentidos.
 - El champú limpia y fortalece el cabello fino desde la raíz hasta las puntas, aportando más cuerpo y brillo.
+- Refresca el cuero cabelludo
 - Masajee suavemente una pequeña cantidad de champú sobre el cabello mojado y luego enjuague bien.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

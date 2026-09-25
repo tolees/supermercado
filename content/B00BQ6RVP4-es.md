@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'M&M s Chocolate con Leche Bolitas de Colores Multipack 24 Bolsitas 45g'
-date: 2026-09-15 10:06:55
+date: 2026-09-21 20:15:10
 image: 'https://m.media-amazon.com/images/I/41yEJlJmovL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BQ6RVP4/?tag=tolees-21'
 descuento: '48.32'
-average: '18.3754838709677'
+average: '18.3818181818182'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Utilízalas a diario para una sonrisa limpia, sana y una sensación de frescor. Las tabletas limpiadoras de Corega son aptas para prótesis completas y parciales, además de para las partes metálicas
-- Tabletas limpiadoras para prótesis dentales de Corega blanqueador que limpian en profundidad eliminando las manchas más difíciles, como las del té, café o tabaco
 - El pack de tabletas limpiadoras de Corega blanqueador para prótesis dentales contiene 30 tabletas limpiadoras. El cartón es reciclado y reciclable
 - Eliminan el 99,9% de las bacterias causantes del mal olor y los virus** y con una limpieza habitual ayuda a mantener el color original de tu prótesis dental
+- Tabletas limpiadoras para prótesis dentales de Corega blanqueador que limpian en profundidad eliminando las manchas más difíciles, como las del té, café o tabaco
 - Para la limpieza de tu prótesis con Corega blanqueador tabletas limpiadoras: Eliminan 10 veces más bacterias* y son más delicadas* gracias a su fórmula no abrasiva
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

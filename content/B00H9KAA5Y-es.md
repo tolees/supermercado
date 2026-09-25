@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Su fórmula Wet Skin facilita la aplicación en piel húmeda sin dejar residuo blanco.
-- Es muy resistente al agua y resistente a la fricción.
 - Fórmula con extracto de siempreviva que ayuda a calmar y a reforzar la función barrera de la piel.
+- Es muy resistente al agua y resistente a la fricción.
 - Hidrata y se absorbe rápidamente, aportando sensación de frescor y un acabado sedoso y sin brillos.
 - Proporciona una alta protección UVB y UVA SPF 50.
 

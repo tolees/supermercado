@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Delta Cafés Origen Brasil - Café Molido - Mezcla Aromática y Tropical - Dulce y Afrutado - 220 g'
-date: 2026-09-11 14:06:07
+date: 2026-09-22 19:48:51
 image: 'https://m.media-amazon.com/images/I/41kid+BQfjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F8YMJ6R/?tag=tolees-21'
 descuento: '0.00'
-average: '3.67350000000001'
+average: '3.69318181818182'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

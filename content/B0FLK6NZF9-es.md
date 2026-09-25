@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 💐 Perfume versátil: Ideal para llevar durante todo el día, desde la rutina diaria hasta eventos especiales.
-- 🍊 Notas frescas y florales: Salida cítrica de mandarina y bergamota, corazón floral con jazmín, nardos y lirios del valle, y fondo de vetiver elegante.
-- 💧 Formato 200 ml con vaporizador: Presentación práctica y duradera con pulverizador natural spray para una aplicación cómoda y uniforme.
 - 🌸 Fragancia femenina icónica: Un Eau de Toilette clásico de Don Algodón, tierno y romántico, que evoca recuerdos inolvidables.
+- 💐 Perfume versátil: Ideal para llevar durante todo el día, desde la rutina diaria hasta eventos especiales.
 - 🌿 Frescura y elegancia en cada uso: Una sinfonía de aromas que realzan tu estilo con un toque fresco, femenino y sofisticado.
+- 💧 Formato 200 ml con vaporizador: Presentación práctica y duradera con pulverizador natural spray para una aplicación cómoda y uniforme.
+- 🍊 Notas frescas y florales: Salida cítrica de mandarina y bergamota, corazón floral con jazmín, nardos y lirios del valle, y fondo de vetiver elegante.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FLK6NZF9{{</world>}}

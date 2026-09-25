@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El Kétchup #1 en el Mundo.
-- Apto para veganos y vegetarianos.
-- Alérgenos: Apio.
-- Una vez abierto conservar en frigorífico.
 - Sin colorantes, saborizantes ni conservantes artificiales.
 - Ingredientes: Tomates, vinagre de alcohol, azúcar, sal, extracto de especias (contiene APIO)y hierbas aromáticas, especia.
-- Ideal para hamburguesas, patatas fritas y sándwiches.
 - Sin gluten.
+- Ideal para hamburguesas, patatas fritas y sándwiches.
+- Una vez abierto conservar en frigorífico.
+- Alérgenos: Apio.
+- Apto para veganos y vegetarianos.
+- El Kétchup #1 en el Mundo.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XIJCNZK{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Certificadas con Ecolabel (Etiqueta Ecológica Europea) y FSC (papel procedente de bosque sostenibles)
 - Servilletas Respetuosas con el medio ambiente
 - Doble Capa
-- 33x33cm
 - 90 unidades
+- Certificadas con Ecolabel (Etiqueta Ecológica Europea) y FSC (papel procedente de bosque sostenibles)
+- 33x33cm
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07TVJY2YT{{</world>}}

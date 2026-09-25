@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Es un whisky escocés de lujo superior, con una textura cremosa en el paladar y notas de miel, vainilla y manzana madura
-- La mezcla de whiskeys se madura durante un mínimo de 12 años
-- Este whisky se caracteriza por un color ámbar radiante y cálido
 - Chivas Regal 12 es un whisky escocés mezcla de diferentes whiskys de malta y grano
 - Se recomienda colocar las rodajas de manzana en el fondo del vaso y verter whisky Chivas Regal 12 años, dejar reposar durante unos pocos minutos y disfrutar su intenso sabor
 - Es un whiskey con un aroma de hierbas silvestres, brezo, miel y frutas
+- La mezcla de whiskeys se madura durante un mínimo de 12 años
+- Este whisky se caracteriza por un color ámbar radiante y cálido
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00XABRW34{{</world>}}

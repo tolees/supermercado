@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- SIN COLORANTES: SIN COLORANTES ARTIFICIALES
 - USO DIARIO: APTO PARA USO DIARIO, SIN APELMAZAR
+- SIN COLORANTES: SIN COLORANTES ARTIFICIALES
 - BRILLO: CABELLO BRILLANTE Y CON ASPECTO SALUDABLE
 - CON COMPLEJO HIALURÓNICO Y ALGA MARINA
 - Hidratación: sensación de hidratación hasta 48 horas (en combinación con la mascarilla aqua revive)

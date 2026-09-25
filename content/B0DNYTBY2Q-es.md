@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 💚 MjAMjAM: Alimento completo natural sin cereales para gatitos con un contenido extra alto de carne - monoproteína.
-- 👩‍🌾 REGIONAL: Con ingredientes procedentes de explotaciones agrícolas regionales.
 - 🍃 COMPOSICIÓN: Apropiada a la especie, natural y cercana a la colmena.
 - 🐾 BIENESTAR ANIMAL: El bienestar animal es siempre la máxima prioridad durante la producción.
+- 👩‍🌾 REGIONAL: Con ingredientes procedentes de explotaciones agrícolas regionales.
+- 💚 MjAMjAM: Alimento completo natural sin cereales para gatitos con un contenido extra alto de carne - monoproteína.
 - 🔎 CONTROLADO: Los ingredientes están sujetos a un estricto control de calidad.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

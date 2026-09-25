@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Caja estuche de 2 Botellas x 750 ml Barón de Chirel de Marqués de Riscal - Vino tinto Reserva D.O.Ca. Rioja con 20 meses de crianza en barrica de roble francés. Su elegante estilo y acabado, hacen de este estuche el regalo perfecto en ocasiones especiales
-- Este vino marida bien con jamón y quesos curados. Carnes rojas, aves, guisos de caza, tales como perdiz, conejo, venado, jabalí o corzo, incluso condimentados con salsas especiadas
-- En boca es fresco y cremoso, taninos suaves y elegantes, con un final largo y equilibrado
 - Potente intensidad aromática, donde destacan los tostados y especiados aportados por el roble Allier. Frutas negras confitadas
+- Este vino marida bien con jamón y quesos curados. Carnes rojas, aves, guisos de caza, tales como perdiz, conejo, venado, jabalí o corzo, incluso condimentados con salsas especiadas
+- Caja estuche de 2 Botellas x 750 ml Barón de Chirel de Marqués de Riscal - Vino tinto Reserva D.O.Ca. Rioja con 20 meses de crianza en barrica de roble francés. Su elegante estilo y acabado, hacen de este estuche el regalo perfecto en ocasiones especiales
 - Vino de bonito color rojo picota, de capa alta y oscura.
+- En boca es fresco y cremoso, taninos suaves y elegantes, con un final largo y equilibrado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08GGRQ4TY{{</world>}}

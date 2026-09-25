@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- by Amazon - Champú Fortifying Men, 2 x 400 ml
-- Fórmula vegana: no contiene ingredientes ni productos de desecho de origen animal.
-- Cómo usarlo: aplicar en el cuero cabelludo y el cabello mojado para crear espuma esponjosa y aclarar con agua abundante.
-- Fortalecer: champú para una limpieza suave con extracto de bardana y niacinamida, que ayuda a nutrir y fortalecer el cabello.
-- Fórmula sin: siliconas ni microplásticos.
 - Tipo de cabello: para todo tipo de cabello.
+- Fórmula vegana: no contiene ingredientes ni productos de desecho de origen animal.
+- Fórmula sin: siliconas ni microplásticos.
+- Fortalecer: champú para una limpieza suave con extracto de bardana y niacinamida, que ayuda a nutrir y fortalecer el cabello.
+- Cómo usarlo: aplicar en el cuero cabelludo y el cabello mojado para crear espuma esponjosa y aclarar con agua abundante.
 - Dermatológicamente probado: indicado para todo tipo de pieles.
+- by Amazon - Champú Fortifying Men, 2 x 400 ml
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZP7V71S{{</world>}}

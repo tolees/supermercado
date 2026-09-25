@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Deliciosas piezas en forma de chupetes
-- Caramelos de goma
 - Irresistible mix de sabores
+- Caramelos de goma
+- Deliciosas piezas en forma de chupetes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B072F1ZXKZ{{</world>}}

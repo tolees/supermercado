@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ingredientes de origen natural, sin sulfatos ni parabenos
-- Hidrata profundamente la piel
 - Es un producto testado dermatológicamente
+- Hidrata profundamente la piel
 - Fórmula vegana, biodegradable y sin microplásticos
+- Ingredientes de origen natural, sin sulfatos ni parabenos
 - Jabón sólido con glicerina para cara, manos y cuerpo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

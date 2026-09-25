@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Customizable Features: Create and customize your avatar to reflect your style, experimenting with different looks and products.
 - Virtual Try-On: Utilize augmented reality technology to virtually try on products, such as makeup shades or hairstyles, before purchasing.
+- Customizable Features: Create and customize your avatar to reflect your style, experimenting with different looks and products.
 - Personalized Recommendations: Receive tailored product suggestions based on your unique avatars skin type, color, and preferences.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- El ácido hialurónico y el colágeno le aportan a tu piel hidratación hasta 12 horas
 - Producto de 30 ml
 - Ayuda a conseguir un resplandor instantáneo
-- Base de maquillaje hidratante con ácido hialurónico y colágeno
-- El ácido hialurónico y el colágeno le aportan a tu piel hidratación hasta 12 horas
 - La siguiente información se aplica a cada unidad del paquete
+- Base de maquillaje hidratante con ácido hialurónico y colágeno
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0G59B9CSP{{</world>}}

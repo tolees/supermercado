@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bueno para casa o fuera
 - Sabor en cada bocado
+- Bueno para casa o fuera
 - No solo te las comes, sino que juegas con ellas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ideal para toda la familia
-- Se debe conservar en un lugar fresco y seco
-- Un plato completo con el equilibrio nutricional perfecto
-- Ensalada de pasta, atún, quinoa, aceituna y vegetales
 - Perfecta para todas aquellas personas que siguen unos hábitos de vida saludables
+- Un plato completo con el equilibrio nutricional perfecto
+- Se debe conservar en un lugar fresco y seco
+- Ideal para toda la familia
+- Ensalada de pasta, atún, quinoa, aceituna y vegetales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F4DLGGZW{{</world>}}

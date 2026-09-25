@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sangre de Toro Vino Tinto - 6 botellas de 75 cl Total: 4500 ml Cosecha puede variar 13 5% vol'
-date: 2026-09-10 16:17:59
+date: 2026-09-24 17:23:37
 image: 'https://m.media-amazon.com/images/I/41guYSBtgEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GFL8CKS/?tag=tolees-21'
 descuento: '26.11'
-average: '23.8629629629631'
+average: '23.8729032258066'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

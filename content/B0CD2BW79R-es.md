@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Respeta el microbioma cutáneo
 - Utiliza el agua micelar de Collistar sin necesidad de aclarado
-- El agua micelar Collistar es eficaz para eliminar todo tipo de maquillaje
 - Apto para todo tipo de pieles
+- Respeta el microbioma cutáneo
+- El agua micelar Collistar es eficaz para eliminar todo tipo de maquillaje
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CD2BW79R{{</world>}}

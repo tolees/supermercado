@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo Gl: Cocina
 - Kitchentour Báscula De Café Con Temporizador, 3 Kg/0,1 G De Alta Precisión Para Verter Sobre Goteo De Café Con Pantalla Lcd Retroiluminada (Pilas Incluidas)
 - Tipo De Producto: Báscula
+- Tipo Gl: Cocina
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B083PX1VHG{{</world>}}

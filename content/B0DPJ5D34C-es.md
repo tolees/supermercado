@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Galletas Gullón Choco Bom Hoops Chocolate Blanco 128g'
-date: 2026-09-18 08:27:56
+date: 2026-09-24 12:47:07
 image: 'https://m.media-amazon.com/images/I/31hdqUpMBNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DPJ5D34C/?tag=tolees-21'
 descuento: '33.33'
-average: '1.0175'
+average: '1.01615384615385'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

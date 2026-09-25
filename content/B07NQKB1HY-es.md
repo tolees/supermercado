@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Colección harry potter
-- Caja ilustrada con ventana
 - Alta calidad
+- Caja ilustrada con ventana
+- Colección harry potter
 - Réplica exacta
 - Licencia oficial
 

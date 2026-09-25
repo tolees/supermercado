@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Tous Eau de Toilette para Mujer Fragancia Floral 90 ml con Vaporizador'
-date: 2026-04-23 09:12:39
-image: 'https://m.media-amazon.com/images/I/418l2+QUImL._SL500_._SL400_.jpg'
+title: 'TOUS Eau de Toilette 90 ml Eau de Toilette fresca y floral para mujer'
+date: 2026-09-25 17:16:24
+image: 'https://m.media-amazon.com/images/I/413RjXoFZBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B000VON5KM-es Tous Eau de Toilette para Mujer Fragancia Floral 90 ml con...'
+slug: 'B000VON5KM-es TOUS Eau de Toilette 90 ml Eau de Toilette fresca y floral...'
 sku: 'B000VON5KM-es'
 tags: [ 'de','eau','toilette','🇪🇸', ]
-actualPrice: 36.94 EUR
+actualPrice: 31.9 EUR
 currency: EUR
-price: 36.94
+price: 31.9
 comparePrice: 36.94 EUR
-prodname: 'Tous Eau de Toilette para Mujer Fragancia Floral 90 ml con Vaporizador'
+prodname: 'TOUS Eau de Toilette 90 ml Eau de Toilette fresca y floral para mujer'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B000VON5KM/?tag=tolees-21'
-descuento: '0.00'
-average: '37.2195029239767'
+descuento: '13.64'
+average: '37.1885755813954'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aplica la fragancia manteniendo el frasco a una distancia aproximada de 10cm con respecto a la piel. Para que perdure durante todo el día, aplícalo sobre la parte superior de la nuca, detrás de las orejas y la parte interna de codos y muñecas
-- Vaporizador de 90ml
-- Su pirámide olfativa comienza por hojas de cassis, violeta, bergamota y coriandro. En su corazón, jazmín blanco de Sambac, peonia amarilla, rosa y gardenia que finaliza en musc blanco, cedro de Marruecos e iris
-- Colonia Tous con fragancia floral verde para mujeres
-- Para una mujer de caracter puro, delicado y elegante
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000VON5KM{{</world>}}

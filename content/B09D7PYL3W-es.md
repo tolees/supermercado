@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gillette Mach3 Base Cuchillas de Afeitar Hombre Pack de 24'
-date: 2026-09-20 18:16:08
+date: 2026-09-24 13:48:22
 image: 'https://m.media-amazon.com/images/I/51wKKVj58hL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

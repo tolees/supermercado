@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Gel de Ducha Hidratación Profunda 225ml
+- Loción Corporal Intensiva 250ml
+- Gel de Ducha Hidratación Profunda 55ml
 - Antitranspirante Roll-On Original 50ml
 - Este pack neceser de regalo incluye diferentes productos de la gama Dove Hidratación Avanzada
-- Gel de Ducha Hidratación Profunda 55ml
-- Loción Corporal Intensiva 250ml
+- Gel de Ducha Hidratación Profunda 225ml
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0G4DVFVQZ{{</world>}}

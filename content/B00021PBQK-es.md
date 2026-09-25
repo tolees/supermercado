@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Perfumeria agua de tocador para mujeres
 - Perfume 100 mililitros
 - Perfumes y fragancias mujer
+- Perfumeria agua de tocador para mujeres
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00021PBQK{{</world>}}

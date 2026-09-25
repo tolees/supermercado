@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Sin conservantes
-- Bajo en grasa
 - Alta calidad
+- Bajo en grasa
 - Fácil de usar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

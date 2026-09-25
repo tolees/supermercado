@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Conservar en un lugar fresco y seco
+- Ideal para compartir
 - De diferentes formas
 - De textura gomosa
-- Ideal para compartir
-- Conservar en un lugar fresco y seco
 - De colores y sabores diferentes
 
 [🛒 Comprar!!!]({{< param buyurl >}})

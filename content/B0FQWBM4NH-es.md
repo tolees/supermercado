@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ultimate Smooth nutre el cabello en 30 segundos, aportando suavidad y hasta 96h de control del encrespameinto.
-- Champú: Aplicar sobre el cabello húmedo, hacer espuma y aclarar.
 - Acondicionador: Aplica sobre el cabello limpio y húmedo dejar actuar hasta 3 minutos, aclarar.
+- Champú: Aplicar sobre el cabello húmedo, hacer espuma y aclarar.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FQWBM4NH{{</world>}}

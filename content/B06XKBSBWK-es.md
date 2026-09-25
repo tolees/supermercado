@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - El nombre de Roe & Co se remonta a George Roe, un destilador de whisky de fama mundial, que en el siglo XIX desempeñó un papel decisivo para que el whisky irlandés viviera una auténtica época dorada
 - Elaborado con whiskies envejecidos en barriles de bourbon, no filtrados en frío y embotellados con un 45% de volumen de alcohol, lo que hace que destaque entre otros whiskies
+- Puede disfrutarse solo o con una rodaja de manzana fresca y agua con gas o en un Old Fashioned
 - Roe & Co consiste en una combinación de whiskies irlandeses de malta y grano, seleccionados a mano por la maestra destiladora Caroline Martin
 - De sabor suave y cremoso, es ligeramente picante, con toques de azúcar derretido, vainilla y compota de pera
-- Puede disfrutarse solo o con una rodaja de manzana fresca y agua con gas o en un Old Fashioned
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B06XKBSBWK{{</world>}}

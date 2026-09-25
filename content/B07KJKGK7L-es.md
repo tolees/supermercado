@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Detrás de cada creación de chocolate Lindt hay un Maestro Chocolatero; desde 1845, el chocolate Lindt encarna la pasión de sus Maestros Chocolateros siguiendo las óptimos recetas tradicionales suizas y utilizando ingredientes de la óptima calidad
-- Una delicada combinación de chocolate negro con higo
 - Óptimo para los amantes del chocolate negro; óptimo para disfrutarlo con amigos o maridarlo con una taza de buen café, vino, coñac o cualquier clase de bebida intensa
 - Tableta Chocolate Negro con Higo Lindt EXCELLENCE 100 g
+- Una delicada combinación de chocolate negro con higo
+- Detrás de cada creación de chocolate Lindt hay un Maestro Chocolatero; desde 1845, el chocolate Lindt encarna la pasión de sus Maestros Chocolateros siguiendo las óptimos recetas tradicionales suizas y utilizando ingredientes de la óptima calidad
 - Disfruta de un placer para todos los sentidos; lindt EXCELLENCE un chocolate negro fino, pero intenso, con un alto contenido en cacao y un gusto equilibrado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

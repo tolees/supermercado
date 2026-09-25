@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mitada color, mitad blanco decorado
-- Servilletas de 1 capa
 - 220 unidades
 - En rosa o verde
+- Servilletas de 1 capa
+- Mitada color, mitad blanco decorado
 - 32 cm x 30 cm
 - Buen tacto
 

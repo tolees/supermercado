@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- SIN GLUTEN - Producto certificado gluten free, apto para personas con intolerancia al gluten.
-- IMPRESCINDIBLES PARA FIESTAS - Caramelos ideales para comer y regalar durante la temporada de Halloween. Perfecto para fiestas de cumpleaños, para rellenar piñatas o para tenerlo expuesto en el mostrador de bienvenida de la oficina para que los visitantes lo disfruten.
 - RECETA TRADICIONAL - Dale un toque dulce a tu día con los caramelos blandos de nata de Tirma, elaborados con nuestra deliciosa receta tradicional. Perfectos para acompañar el té o el café, o para disfrutar de un capricho dulce cuando te apetezca.
+- IMPRESCINDIBLES PARA FIESTAS - Caramelos ideales para comer y regalar durante la temporada de Halloween. Perfecto para fiestas de cumpleaños, para rellenar piñatas o para tenerlo expuesto en el mostrador de bienvenida de la oficina para que los visitantes lo disfruten.
 - FORMATO INDIVIDUAL - Están envasados individualmente, por lo que son ideales para llevar en el bolso o en la mochila. Cada caramelo conserva toda su frescura hasta el momento de consumirlo, para llevarlos contigo y disfrutarlos en cualquier momento.
+- SIN GLUTEN - Producto certificado gluten free, apto para personas con intolerancia al gluten.
 - HECHO EN ESPAÑA - Fabricado de forma local en las islas Canarias. Tirma es una marca española con más de 80 años de experiencia en el mercado de los productos de confitería. Entre su gama de productos de gran calidad, destacan las ambrosías, uno de los dulces más típicos de Canarias.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Axe Aftershave Dark Temptation 100 ml
 - Aplicarlo en la línea de la mandíbula y el cuello recién afeitados
 - Aporta un delicioso y cálido aroma que refresca tu día
-- El aftershave es una fragancia para hombres que tiene un aroma a chocolate intenso, ámbar y pimienta roja que aportan una sensación cálida y oriental
-- Axe Aftershave Dark Temptation 100 ml
 - Es una fragancia ganadora que añade un último toque a tu estilo desenfadado
+- El aftershave es una fragancia para hombres que tiene un aroma a chocolate intenso, ámbar y pimienta roja que aportan una sensación cálida y oriental
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C5J8HX6R{{</world>}}

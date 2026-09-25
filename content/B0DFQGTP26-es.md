@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beverly ISOLATE CFM – Proteína Aislada de Suero Premium Whey Isolate | 30 g Proteína | Baja en Lactosa y Sin Azúcares Añadidos | 29 Servicios | Desarrollo Muscular 1 Kg Chocolate Cookie'
-date: 2026-09-14 15:07:34
+date: 2026-09-21 09:48:20
 image: 'https://m.media-amazon.com/images/I/41RLYyPFnxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

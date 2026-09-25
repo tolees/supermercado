@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Desarrollada por nutricionistas de mascotas y aprobada por veterinarios.
 - con vitamina E para ayudar a mantener una buena función inmunitaria
 - Sin aromas artificiales, colorantes, conservantes ni antioxidantes añadidos.
+- Desarrollada por nutricionistas de mascotas y aprobada por veterinarios.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08GD8ZSR9{{</world>}}

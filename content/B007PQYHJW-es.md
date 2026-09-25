@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de producto: Champú
 - Género: Mujer
-- El embalaje puede variar
 - Marca: Batiste
+- El embalaje puede variar
+- Tipo de producto: Champú
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B007PQYHJW{{</world>}}

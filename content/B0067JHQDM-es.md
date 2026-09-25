@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Maquillaje Rimmel London Lasting Finish Lipstick 084 Amethyst Shimmer 4 g de Rimmel London
 - Productos de Maquillaje para Mujer
+- Maquillaje Rimmel London Lasting Finish Lipstick 084 Amethyst Shimmer 4 g de Rimmel London
 - Los productos de la marca Rimmel London están fabricados con ingredientes de la mejor calidad.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

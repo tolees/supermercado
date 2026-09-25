@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Información sobre Reciclaje (ver Reverso del Envase)
-- Alto en Fibra y Fuente de Proteína
 - Cacahuetes, Almendras, Avellanas, Anacardos y Nueces Pecanas Tostados y Salados
-- Perfecto para picar
 - Envasado en atmósfera protectora para mantener su frescura.
+- Alto en Fibra y Fuente de Proteína
+- Perfecto para picar
 - Envase Resellable
+- Información sobre Reciclaje (ver Reverso del Envase)
 - Apto para dietas vegetarianas y veganas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

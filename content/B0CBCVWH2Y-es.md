@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ayuda a mantener un peso corporal saludable
 - Ayuda a mantener unas defensas naturales fuertes gracias a antioxidantes tales como la vitamina E
+- Ayuda a mantener un peso corporal saludable
 - Ayuda a mantener un tracto urinario saludable favoreciendo una orina diluida* *Como todos los alimentos húmedos para gatos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

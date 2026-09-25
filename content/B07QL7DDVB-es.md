@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Duradero, a prueba de manchas, a prueba de escamas, fácil de limpiar
-- Dermatólogicamente y oftalmólogicamente testados
-- Brinda un volumen elevado: el 100% de 121 mujeres está de acuerdo
-- Infundido con 4 lujosos aceites, de argán, maracuja, marula y camelia
 - Pestañas de aspecto suave y acondicionadas
+- Dermatólogicamente y oftalmólogicamente testados
+- Infundido con 4 lujosos aceites, de argán, maracuja, marula y camelia
+- Brinda un volumen elevado: el 100% de 121 mujeres está de acuerdo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07QL7DDVB{{</world>}}

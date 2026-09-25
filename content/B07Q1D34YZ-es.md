@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pack de 12 latas 33cl
 - En la nueva receta, recuperamos los aromas que se perdían en la desalcoholización, consiguiendo todavía más sabor
+- Pack de 12 latas 33cl
 - Producto que combina tradición e innovación
 - Cerveza sin alcohol 0,0%
 

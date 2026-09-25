@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cero daño
 - Mascarilla que deposita particulas de color para mantener o transformar tu color en casa.
-- Coloración temporal
-- Duración de 4 a 5 lavados
+- Cero daño
 - Sin amoniaco
+- Duración de 4 a 5 lavados
+- Coloración temporal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08P6MVXHR{{</world>}}

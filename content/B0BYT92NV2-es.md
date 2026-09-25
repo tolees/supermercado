@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gillette Venus ComfortGlide Breeze Máquinilla de Afeitar Mujer 6 Recambios'
-date: 2026-09-20 07:55:14
+date: 2026-09-21 21:29:28
 image: 'https://m.media-amazon.com/images/I/41-TxEPruRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BYT92NV2/?tag=tolees-21'
 descuento: '34.66'
-average: '19.5197674418603'
+average: '19.4651111111109'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Las fuentes naturales de Omega-6 y Omega-3 favorecen una piel sana y un pelaje brillante / Sistema de cuidado dental DentaDefense para dientes limpios y sanos / Sin colorantes ni aromatizantes artificiales ni OMG / Envase reciclable
+- La glucosamina y el calcio presentes en el alimento favorecen el mantenimiento de unas articulaciones sanas y huesos fuertes, mientras que el pollo fresco rico en proteínas ayuda a mantener una musculatura fuerte y esbelta
 - La mezcla de fibras alimentarias adaptada, compuesta por prebióticos (FOS) y pulpa de remolacha, favorece una digestión saludable / El complejo de antioxidantes con vitamina E refuerza el sistema inmunitario
 - Alimento premium para perros adultos de razas pequeñas (peso inferior a 10 kg) de 1 a 11 años para mantener una condición corporal óptima
-- La glucosamina y el calcio presentes en el alimento favorecen el mantenimiento de unas articulaciones sanas y huesos fuertes, mientras que el pollo fresco rico en proteínas ayuda a mantener una musculatura fuerte y esbelta
-- Las fuentes naturales de Omega-6 y Omega-3 favorecen una piel sana y un pelaje brillante / Sistema de cuidado dental DentaDefense para dientes limpios y sanos / Sin colorantes ni aromatizantes artificiales ni OMG / Envase reciclable
 - Como los perros mayores suelen ganar peso, la receta para perros adultos contiene L-carnitina, que favorece el metabolismo de las grasas, ayudando a mantener el peso ideal y a reducir la carga sobre las articulaciones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

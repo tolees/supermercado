@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mahou 5 Estrellas Cerveza Lager Dorada Pack 24 Latas x 50cl'
-date: 2026-09-17 21:02:43
+date: 2026-09-22 14:33:26
 image: 'https://m.media-amazon.com/images/I/41Kvd2LbkOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08MYVQJ1K/?tag=tolees-21'
 descuento: '21.26'
-average: '23.5447826086957'
+average: '23.56375'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

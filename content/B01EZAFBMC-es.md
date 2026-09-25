@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Calentamiento eficiente en el horno, en todas las estufas comunes (eléctricas, de gas, vitrocerámicas, halógenas, de inducción) o con posibilidad de incluir quemador y pasta combustible
 - Contenido: 1x STAUB Set de fondue incl. 1x olla de fondue, 1x soporte, 1x quemador, 4x tenedores de fondue, Capacidad: 1,1 L, Dimensiones (LxAxA): 21,7 x 16,7 x 8,4 cm, Diámetro (sin asas): 16 cm, Peso: 4 kg, Material: hierro fundido, Color: negro, 40511-970-0
-- Material de hierro fundido robusto, Sin apelmazamiento gracias a su superficie lisa y esmaltada con propiedades antiadherentes, Fácil de transportar gracias a sus asas ergonómicas
-- Made in France - Único hecho a mano, Resistente a los arañazos y duradero, Resistente a los ácidos, Sabor neutro, Fácil de limpiar a mano (recomendado) o en el lavavajillas
 - Para momentos sabrosos y de convivencia: Set de fondue para hasta 4 personas con capacidad de 1,1 L, Apto para fondue de queso, chocolate, verduras o carne con aceite o caldo
+- Made in France - Único hecho a mano, Resistente a los arañazos y duradero, Resistente a los ácidos, Sabor neutro, Fácil de limpiar a mano (recomendado) o en el lavavajillas
+- Calentamiento eficiente en el horno, en todas las estufas comunes (eléctricas, de gas, vitrocerámicas, halógenas, de inducción) o con posibilidad de incluir quemador y pasta combustible
+- Material de hierro fundido robusto, Sin apelmazamiento gracias a su superficie lisa y esmaltada con propiedades antiadherentes, Fácil de transportar gracias a sus asas ergonómicas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01EZAFBMC{{</world>}}

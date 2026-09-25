@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Desde 1972, CAJA ROJA acompañándonos en celebraciónes y momentos especiales
 - Bombones especialmente pensados para regalar un detalle
 - Delicioso surtido de 16 bombones de chocolate con leche, negro y blanco de calidad; bombones 100% aromas naturales
+- Desde 1972, CAJA ROJA acompañándonos en celebraciónes y momentos especiales
 - Cacao 100% obtenido de forma sostenible seleccionado a través de NESTLE Cocoa Plan; certificado Rainforest Alliance
 
 [🛒 Aquí!!!]({{< param buyurl >}})

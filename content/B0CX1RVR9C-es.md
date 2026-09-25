@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Logotipo del equipo RBR impreso
 - El estilo viene en algodón elástico para una sensación deportiva limpia
+- Logotipo del equipo RBR impreso
 - Un ajuste delgado se complementa con cordones tonales con extremos de cordón de marca
 
 [🛒 Comprar!!!]({{< param buyurl >}})

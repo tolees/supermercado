@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Vibrante claridad del color
 - Volumen y suavidad etéreos
+- Vibrante claridad del color
 - Brillo restaurado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

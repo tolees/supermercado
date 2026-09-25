@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Kitkat Pack 3 Barritas de Chocolate con Leche 41 5g'
-date: 2026-09-07 18:16:38
-image: 'https://m.media-amazon.com/images/I/41UXzIVnecL._SL500_._SL400_.jpg'
+date: 2026-09-21 19:47:26
+image: 'https://m.media-amazon.com/images/I/41n9jiCKvhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B114TCH/?tag=tolees-21'
 descuento: '14.50'
-average: '42.7928571428571'
+average: '45.55'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,12 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 100% cacao de cultivo sostenible seleccionado a través de NESTLE Cocoa Plan Certificado UTZ
-- Tómate un respiro y recarga pilas con KITKAT, donde y cuando quieras
-- Contiene 24 packs de 3 unidades de KITKAT individual 24(3 x 41.5 g)
-- 100% aromas naturales
-- Nestlé KitKat chocolate con leche, la mejor excusa para tomarse un RESPIRO
-- 4 deliciosas barritas de crujiente galleta recubierta de suave chocolate con leche
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07B114TCH{{</world>}}

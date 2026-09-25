@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aplicación fácil, mina afilable y suave deslizamiento.
-- Disponible en 5 tonos que cambian según la luz.
-- Delineador en gel multicromo con destellos y acabado prismático.
 - Larga duración: hasta 24 h, waterproof y a prueba de borrones.
+- Disponible en 5 tonos que cambian según la luz.
 - Apto para ojos sensibles, para lentes de contacto y con fórmula vegana.
+- Aplicación fácil, mina afilable y suave deslizamiento.
+- Delineador en gel multicromo con destellos y acabado prismático.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FBMM6DGV{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ayudan a retener los niveles naturales de humedad de la piel
 - Cuida eficazmente las manos y elimina la suciedad y los gérmenes
+- Ayudan a retener los niveles naturales de humedad de la piel
 - Fórmula nutritiva para la limpieza diaria de manos
 - Deja la piel hidratada
 

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Protege la piel, corrige las manchas y cubre por complete
 - BB Cream con una fórmula ligera
-- Con factor de protección solar SPF 15
 - Proporciona un acabo luminoso y natural
+- Protege la piel, corrige las manchas y cubre por complete
 - También iguala el tono y matifica los brillos
+- Con factor de protección solar SPF 15
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01MQRG9E4{{</world>}}

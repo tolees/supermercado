@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Galletas Choco Bom Hoops Chocolate con Leche 128g'
-date: 2026-09-19 19:20:24
+date: 2026-09-25 16:52:43
 image: 'https://m.media-amazon.com/images/I/31-pCV5TgAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DPJB85WN/?tag=tolees-21'
 descuento: '33.33'
-average: '1.03052631578947'
+average: '1.02761904761905'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

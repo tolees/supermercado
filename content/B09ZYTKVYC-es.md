@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Tecnología Color Protect para un color inalterable
 - Comodidad
 - Textura cremosa y suave
-- Larga duración, hasta 8h
 - Color intenso
+- Larga duración, hasta 8h
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09ZYTKVYC{{</world>}}

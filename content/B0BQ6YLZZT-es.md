@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '1906 - Reserva Especial Cerveza Lager Extra Frigopack 10 Latas x 33 cl'
-date: 2026-09-20 12:46:01
+date: 2026-09-21 18:37:41
 image: 'https://m.media-amazon.com/images/I/41dKr7VR1kL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BQ6YLZZT/?tag=tolees-21'
 descuento: '29.75'
-average: '7.98035087719297'
+average: '7.96327586206895'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- FÓRMULA CON INGREDIENTES NATURALES | Este complemento alimenticio a base de Imunoglukan P4H, una sustancia natural de origen vegetal y Vitamina C que ayudan a las defensas inmunitarias.
-- ¿CÓMO TOMAR? | Prepara las defensas antes del invierno tomando 1 ml por cada 5 kg de peso o 2 ml por cada 5 kg de peso.
 - FÁCIL DOSIFICACIÓN | Se presenta en formato Jarabe vía oral con un tapón dosificador para administrar los mililitros recomendados por peso corporal.
-- PARA NIÑOS Y ADULTOS | Indicado para niños, especialmente en épocas de frío y cambios de temperatura.
+- FÓRMULA CON INGREDIENTES NATURALES | Este complemento alimenticio a base de Imunoglukan P4H, una sustancia natural de origen vegetal y Vitamina C que ayudan a las defensas inmunitarias.
 - SIN AZÚCAR, SIN GLUTEN | El jarabe no contiene gluten, lactosa, ni azúcares añadidos. Apto para APLV. No está indicado en personas que estén en tratamiento con inmunosupresores, como es el caso de los trasplantados.
+- PARA NIÑOS Y ADULTOS | Indicado para niños, especialmente en épocas de frío y cambios de temperatura.
+- ¿CÓMO TOMAR? | Prepara las defensas antes del invierno tomando 1 ml por cada 5 kg de peso o 2 ml por cada 5 kg de peso.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07ZKT6C3N{{</world>}}

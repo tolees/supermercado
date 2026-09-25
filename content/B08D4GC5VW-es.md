@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Kreyenhop & Kluge GmbH & Co. KG, Industriestraße 40, 28876 Oyten, Germany
+- Ingredientes: Aqua 39,22%, extracto de OSTRAS 20%, azúcar 15%, jarabe de fructosa 10%, sal 10%, almidón de tapioca modificado 4%, potenciador de sabor (E621) 1%; colorante(E150c) 0,5%, acidulante (E330) 0,1%; espesante (E415) 0,1%; conservador (E211) 0,08%
 - Sin gluten
 - Típica salsa de la cocina china
-- Instrucciones para su uso adecuado: Después de abrir conservar en la nevera y consumir en pocos días
+- Kreyenhop & Kluge GmbH & Co. KG, Industriestraße 40, 28876 Oyten, Germany
 - Salsa de color marrón y de textura viscosa
-- Ingredientes: Aqua 39,22%, extracto de OSTRAS 20%, azúcar 15%, jarabe de fructosa 10%, sal 10%, almidón de tapioca modificado 4%, potenciador de sabor (E621) 1%; colorante(E150c) 0,5%, acidulante (E330) 0,1%; espesante (E415) 0,1%; conservador (E211) 0,08%
+- Instrucciones para su uso adecuado: Después de abrir conservar en la nevera y consumir en pocos días
 - Excelente para preparar con carnes rojas o pollo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

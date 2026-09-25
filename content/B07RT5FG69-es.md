@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Desodorante elaborado con 0% alcohol
 - Elaborado con tecnología motionsense que se activa con el movimiento
+- Desodorante elaborado con 0% alcohol
 - Rexona te impulsa para que disfrutes del movimiento y que nada te detenga
 - Desodorante antitranspirante que ofrece la mayor protección por hasta 48 horas
 - Desodorante Antitranspirante de secado rápido

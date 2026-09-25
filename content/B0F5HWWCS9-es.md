@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- La siguiente información se aplica a cada unidad del paquete
 - Aromas florales frescos
-- Con notas cítricas fuertes
-- Die folgenden Informationen gelten für jede Einheit pro Packung
 - Ideal con platos de ostras al estilo del sudoeste
 - Bebida de aspecto claro
+- Con notas cítricas fuertes
+- Die folgenden Informationen gelten für jede Einheit pro Packung
 - Ideal para preparar cócteles
-- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F5HWWCS9{{</world>}}

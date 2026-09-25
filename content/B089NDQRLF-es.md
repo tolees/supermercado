@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- De la marca VIET NAM
-- Contenido: 1 x 1 kg
 - Calidad superior
 - Soja VIET NAM
+- Contenido: 1 x 1 kg
+- De la marca VIET NAM
 - País de origen: Vietnam
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Base de maquillaje con tratamiento, 24h cobertura modulable y acabado mate-natural
 - Controla el exceso de brillo, resiste a la humedad y al calor, no reseca ni parchea, no transfiere, no marca los poros ni las líneas de expresión
+- Base de maquillaje con tratamiento, 24h cobertura modulable y acabado mate-natural
 - Fórmula de alta tolerancia, no comedogénica, sin fragancias ni parabenos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

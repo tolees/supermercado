@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Vegano. Sin añadir siliconas ni aceite mineral.
-- Mascarilla Potenciadora del color: Recupera la intensidad del color como el primer día con la mascarilla potenciadora del color. Reaviva la vitalidad del color en sólo 5 minutos gracias a los pigmantos iónicos que depositan el color en la superficie del cabello. Aplicar entre 3 y 4 semanas después de la coloración inicial.
 - 100% cobertura de canas hasta 8 semanas de duración del color.
 - Color de Alto Rendimiento: Coloración de larga duración. Fórmula de alto rendimiento con tecnologia Colorstay para un color radiante e intenso.
 - Cabello nutrido y brillante: Fórmula ultra-nutritiva para un cabello suave y sedoso con una combinación de Manteca de Murumuru y Aceite de Macadamia 100% naturales.
+- Mascarilla Potenciadora del color: Recupera la intensidad del color como el primer día con la mascarilla potenciadora del color. Reaviva la vitalidad del color en sólo 5 minutos gracias a los pigmantos iónicos que depositan el color en la superficie del cabello. Aplicar entre 3 y 4 semanas después de la coloración inicial.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C5R755MY{{</world>}}

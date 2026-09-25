@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Libre de ftalatos, propulsores y colorantes
 - Botella reciclable, fabricada con un 50% de plástico reciclado
 - Fragancia Campo de Lavanda; infusionado con 2 veces más aceites esenciales naturales vs los anteriores recambios de Air Wick Active Fresh Autospray
-- Larga duración: cada recambio dura hasta 70 días
 - Recambio para 24/7 Spray Automático Active Fresh: y mejor teconologia que combate sin esfuerzo los malos olores, con fragancias sin aerosol
+- Larga duración: cada recambio dura hasta 70 días
+- Libre de ftalatos, propulsores y colorantes
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BQC9VDXX{{</world>}}

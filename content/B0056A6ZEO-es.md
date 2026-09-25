@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Kärcher Champú para coches detergente 619 5 L  6.295-360.0 '
-date: 2025-10-04 06:48:02
+title: 'Kärcher RM 619 Detergente para Automóviles 5 L Detergente Espumoso para Limpieza Profunda de Vehículos Cuidado de Superficies Pintadas y de Plástico para Hidrolimpiadoras Kärcher'
+date: 2026-09-25 17:50:25
 image: 'https://m.media-amazon.com/images/I/41yJTXiqFWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0056A6ZEO-es Kärcher Champú para coches detergente 619 5 L 6.295-360.0'
+slug: 'B0056A6ZEO-es Kärcher RM 619 Detergente para Automóviles 5 L Detergente...'
 sku: 'B0056A6ZEO-es'
-tags: [ 'Arborist Merchandising Root','Bricolaje y herramientas','Champús para automóviles','Coche y moto','Cuidado de coche y moto','Cuidado exterior para automóviles','Equipo de lavado para automóviles','Self Service','Special Features Stores','champú','detergente','f8a41b96-6bb6-4d7d-bb5b-67f8fcd7c327_0','f8a41b96-6bb6-4d7d-bb5b-67f8fcd7c327_2001','kärcher','🇪🇸', ]
-actualPrice: 15.45 EUR
+tags: [ 'detergente','🇪🇸', ]
+actualPrice: 16.45 EUR
 currency: EUR
-price: 15.45
-comparePrice: 15.45 EUR
-prodname: 'Kärcher Champú para coches detergente 619 5 L  6.295-360.0 '
+price: 16.45
+comparePrice: 22.36 EUR
+prodname: 'Kärcher RM 619 Detergente para Automóviles 5 L Detergente Espumoso para Limpieza Profunda de Vehículos Cuidado de Superficies Pintadas y de Plástico para Hidrolimpiadoras Kärcher'
 country: 'es'
 flag: '🇪🇸'
-brand: 'Kärcher'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0056A6ZEO/?tag=tolees-21'
-descuento: '0.00'
-average: '12.7893333333333'
+descuento: '26.43'
+average: '13.22'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ready touse productos de limpieza (rtu)
-- Detergente ligeramente alcalino, no hay sustancias peligrosas
-- Muy suave en el material
-- Para una limpieza a fondo de delicada pintura y las superficies de plástico
-- Los tensioactivos son biodegradables según la ocde
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0056A6ZEO{{</world>}}

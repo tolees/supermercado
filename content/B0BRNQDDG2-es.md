@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Formato: Pack 4 Uds x 75ml
 - Cuidado: La pasta dentífrica para dientes sensibles contiene fluoruro de amina, que fortalece los dientes para protegerlos frente a la caries
 - Sonrisa brillante todo el día: Mantenga su sonrisa luciendo bien protegiéndola contra la caries con la pasta de dientes Elmex
 - Dentífrico para dientes sensibles: Prueba la pasta de dientes Elmex Sensitive para disfrutar libremente de tus comidas y bebidas favoritas
+- Formato: Pack 4 Uds x 75ml
 - Protección 24 horas: Esta pasta dentífrica para dientes sensibles ha sido formulada para proporcionarle una protección eficaz contra la sensibilidad durante 24 horas si la utiliza de forma continuada, dos veces al día
 
 [🛒 Visítala!!!]({{< param buyurl >}})

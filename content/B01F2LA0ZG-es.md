@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Notas sensuales amaderadas
 - Geranio, Canela
 - Manzana
-- Notas sensuales amaderadas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01F2LA0ZG{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- [Protección Frente al Fotoenvejecimiento]: Ayuda a prevenir los signos visibles del envejecimiento provocados por la exposición solar.
 - [Protección UV de Larga Duración]: Proporciona una protección eficaz contra los rayos UV para ayudar a mantener la piel protegida durante todo el día.
+- [Protección Frente al Fotoenvejecimiento]: Ayuda a prevenir los signos visibles del envejecimiento provocados por la exposición solar.
 - [Ayuda a Combatir el Estrés Térmico] : Ayuda a minimizar los efectos del calor en la piel, manteniéndola saludable y protegida.
 - [Favorece la Elasticidad de la Piel] : Ayuda a mejorar la firmeza y elasticidad de la piel para un rostro de aspecto más firme y tonificado.
 

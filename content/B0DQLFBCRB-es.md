@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contenido: 1 x Garnier Good, cobre condimentado (7,43). Contenido del envío: crema reveladora, crema de color, cuidado nutritivo con manteca de karité, guantes, espátula e instrucciones de uso (idioma español no garantizado)
-- Resultados: un resultado natural con múltiples reflejos, dura hasta 8 semanas*, cobertura 100% de cabello blanco (*pruebas instrumentales)
+- Instrucciones de uso: uso sensorial a mano (con los guantes incluidos) como máscara, lea atentamente las instrucciones antes de la aplicación y realice una prueba de alergia durante 48 horas
 - Fórmula vegana** compuesta de 90% ingredientes de origen natural y maceta ecológica (45% menos de plástico que otros. Garnier Classic Set), **sin ingredientes de origen animal ni derivados
 - Tinte permanente con textura cremosa y sin amoniaco, de larga duración y alta cobertura, con un cuidado enriquecido con manteca de karité para el cabello
-- Instrucciones de uso: uso sensorial a mano (con los guantes incluidos) como máscara, lea atentamente las instrucciones antes de la aplicación y realice una prueba de alergia durante 48 horas
+- Contenido: 1 x Garnier Good, cobre condimentado (7,43). Contenido del envío: crema reveladora, crema de color, cuidado nutritivo con manteca de karité, guantes, espátula e instrucciones de uso (idioma español no garantizado)
+- Resultados: un resultado natural con múltiples reflejos, dura hasta 8 semanas*, cobertura 100% de cabello blanco (*pruebas instrumentales)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQLFBCRB{{</world>}}

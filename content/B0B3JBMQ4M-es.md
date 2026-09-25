@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Deliciosa bebida 100% vegetal de almendras SIN AZÚCAR AÑADIDO
+- Naturalmente SIN LACTOSA
 - No apto para personas alérgicas a los frutos de cáscara
 - Contiene azúcares NATURALMENTE presentes
-- Naturalmente SIN LACTOSA
+- Deliciosa bebida 100% vegetal de almendras SIN AZÚCAR AÑADIDO
 - Se presenta en pack de 6 briks individuales de 1 litro, con tapón de rosca
 
 [🛒 Comprar!!!]({{< param buyurl >}})

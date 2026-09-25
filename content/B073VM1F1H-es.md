@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Garnier Fructis Champú Anticaspa - 380 ml'
-date: 2026-04-15 12:38:23
-image: 'https://m.media-amazon.com/images/I/41B00GqTUAL._SL500_._SL400_.jpg'
+date: 2026-09-20 19:40:42
+image: 'https://m.media-amazon.com/images/I/41jZbFqZtzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B073VM1F1H/?tag=tolees-21'
 descuento: '0.00'
-average: '3.91'
+average: '3.93285714285714'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con té verde
-- Para cabello normal con caspa, sin parabenos
-- Cabello libre de caspa y recupera el brillo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B073VM1F1H{{</world>}}

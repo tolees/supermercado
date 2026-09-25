@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Su textura ligera y sedosa garantiza un look brillante y luminoso
 - Perfecta para realzar los ojos con un maquillaje luminoso y brillante que aguantará perfectamente hasta entrada la noche
 - Su fórmula de alta pigmentación garantiza un resultado duradero (hasta 10 horas), para obtener un color intenso y cubriente
-- Su textura ligera y sedosa garantiza un look brillante y luminoso
-- Sombra de ojos líquida de tacto sedoso, acabado perlado y metalizado
 - Permite crear estilos originales y brillantes
+- Sombra de ojos líquida de tacto sedoso, acabado perlado y metalizado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08WLZMQWH{{</world>}}

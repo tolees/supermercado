@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sabor: A nuez, ligeramente amargo
 - Final: Largo y persistente
 - Color: Marrón rojizo oscuro intenso
+- Sabor: A nuez, ligeramente amargo
 - Nariz: Vainilla dulce de bourbon, toques de mazapán y almendras
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

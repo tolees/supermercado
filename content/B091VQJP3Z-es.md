@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Corny Barritas de Cereales Sin Azúcares Añadidos Chocolate 0% 24x20 g'
-date: 2026-09-16 09:36:30
+date: 2026-09-22 16:09:14
 image: 'https://m.media-amazon.com/images/I/417wXaotgAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B091VQJP3Z/?tag=tolees-21'
 descuento: '19.27'
-average: '8.01720930232559'
+average: '8.09111111111112'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Aplicación: Agita el rotulador antes de aplicar; paso 1: Rellena con trazos ligeros hacia arriba en las zonas con menos vello de la ceja y deja secar 15 segundos; paso 2: Aplica el gel fijador en la dirección y forma que deseas y deja secar
+- Fórmula de gel transparente con duración hasta 24h
 - Reforma tus cejas; Cejas reales y rellenas en tan solo 2 pasos
 - Contenido: 1 x Maybelline New York, Build-A-Brow 2-en-1 con Rotulador preciso y Gel Fijador de cejas en Tono: 262 Black Brown
 - Build-A-Brow 2-en-1 disponible en 5 tonos
-- Fórmula de gel transparente con duración hasta 24h
-- Aplicación: Agita el rotulador antes de aplicar; paso 1: Rellena con trazos ligeros hacia arriba en las zonas con menos vello de la ceja y deja secar 15 segundos; paso 2: Aplica el gel fijador en la dirección y forma que deseas y deja secar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJ5FNQ1W{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- *Bialetti es una marca registrada de Bialetti Industrie SPA. Caffè Borbone SRL es un fabricante independiente no vinculado a Bialetti Industrie SPA. La compatibilidad de las cápsulas de Caffè Borbone es funcional con cafeteras Bialetti* para uso doméstico
 - Cápsulas Compatibles con Bialetti* para uso con los siguientes modelos de cafeteras: Break, Gioia, Super, Mokona
-- MEZCLA DE CAFÉ ROJA: Pura energía en sabor, fuerte y cremoso y al mismo tiempo delicioso. Tiene un carácter marcado y persistente que infunde una profunda sensación de placer en el paladar, para una sensación mágica. Una selección de Robusta, envasada en atmósfera protectora
+- *Bialetti es una marca registrada de Bialetti Industrie SPA. Caffè Borbone SRL es un fabricante independiente no vinculado a Bialetti Industrie SPA. La compatibilidad de las cápsulas de Caffè Borbone es funcional con cafeteras Bialetti* para uso doméstico
 - FORMATO: 50 Cápsulas de Café
 - FRAGANCIA Y AROMA: Una Mezcla de Café inigualable con un extraordinario equilibrio, que se presenta con: Cuerpo: 9.5 - Intensidad: 9.5 - Persistencia: 9.5 - Dulzor: 7 - Acidez: 4
+- MEZCLA DE CAFÉ ROJA: Pura energía en sabor, fuerte y cremoso y al mismo tiempo delicioso. Tiene un carácter marcado y persistente que infunde una profunda sensación de placer en el paladar, para una sensación mágica. Una selección de Robusta, envasada en atmósfera protectora
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D7QGJRS5{{</world>}}

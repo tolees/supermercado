@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- País de origen: españa, producto natural sin conservantes ni colorantes
-- Método de pesca: cerco; ver especie y zona de pesca en la lata
-- Alto contenido en proteína, proteína barata, ideal para deportistas
 - Práctica lata individual de 400 g peso neto con tapa fácil apertura.
-- Conserva de atún en aceite de girasol
+- País de origen: españa, producto natural sin conservantes ni colorantes
 - Lata ideal para consumo de varias personas dependiendo de su uso
+- Conserva de atún en aceite de girasol
+- Alto contenido en proteína, proteína barata, ideal para deportistas
+- Método de pesca: cerco; ver especie y zona de pesca en la lata
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07NRQ6RLM{{</world>}}

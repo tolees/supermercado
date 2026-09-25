@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colhogar Aloe 8x80 - Papel Higiénico Húmedo Desechable por el WC con Extracto de Aloe Vera - Sin Alcohol - Dermatológicamente Testado - 640 Unidades'
-date: 2026-09-19 17:21:08
+date: 2026-09-24 12:45:47
 image: 'https://m.media-amazon.com/images/I/51E9+iEqhXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BM22NNDK/?tag=tolees-21'
 descuento: '24.16'
-average: '20.4934210526316'
+average: '20.37575'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

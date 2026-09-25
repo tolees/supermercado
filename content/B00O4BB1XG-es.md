@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Croquetas de dos tamaños para una correcta higiene oral
 - Esta combinación de croquetas ha sido testada cuidadosamente por nuestros nutricionistas y criadores, asegurando que sean apropiadas y para el disfrute de perros adultos de distintas razas
-- Las croquetas de Purina Dog Chow están especialmente diseñadas para fomentar la masticación y mantener una correcta higiene oral
-- Purina Dog Chow Active es también adecuado para perros de trabajo y perros de caza
-- Pienso formulado con achicoria, una fuente de prebiótico natural, que se ha probado que ayuda a incrementar el número de bacterias beneficiosas en el intestino para ayudar a mejorar la función digestiva
 - Las recetas Purina Dog Chow contienen pulpa de remolacha que ayuda a regular el tránsito intestinal y a mejorar la calidad de las heces
+- Croquetas de dos tamaños para una correcta higiene oral
+- Pienso formulado con achicoria, una fuente de prebiótico natural, que se ha probado que ayuda a incrementar el número de bacterias beneficiosas en el intestino para ayudar a mejorar la función digestiva
+- Purina Dog Chow Active es también adecuado para perros de trabajo y perros de caza
+- Las croquetas de Purina Dog Chow están especialmente diseñadas para fomentar la masticación y mantener una correcta higiene oral
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00O4BB1XG{{</world>}}

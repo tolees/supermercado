@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Designed for long-lasting makeup application
 - Ultraplush dense bristles for maximum pickup and laydown
 - Best used with liquid and cream foundations and primers
+- Foundation brush has a dense, unique head shape to help precisely blend hard-to-reach areas
+- Round, flat head for stippling foundation on the face and gently buffing into skin
 - Triple threat brush design to level up your makeup routine
 - The 259 brush provides full coverage for a smooth, airbrushed finish
 - The Real Techniques Glow Round Base Makeup Brush buffs out foundation for an even, smooth base
-- Foundation brush has a dense, unique head shape to help precisely blend hard-to-reach areas
+- Designed for long-lasting makeup application
 - 100% Cruelty-Free and Vegan- Real Techniques products are never tested on animals
-- Round, flat head for stippling foundation on the face and gently buffing into skin
 - Features custom-cut round head shape with flat top
 
 [🛒 Comprar!!!]({{< param buyurl >}})

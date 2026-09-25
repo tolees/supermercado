@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Aroma afrutado suave con notas de plátano, manzana y matices florales del lúpulo
+- Sabor equilibrado, amargor moderado y ligera acidez en boca
 - Para un mayor disfrute consumir entre 4º y 6º C
 - Cerveza dorada brillante con espuma cremosa y consistente
-- Sabor equilibrado, amargor moderado y ligera acidez en boca
-- Aroma afrutado suave con notas de plátano, manzana y matices florales del lúpulo
 - Elaborada con agua, malta, levadura y variedades seleccionadas de lúpulo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

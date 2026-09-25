@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 🎁 IDEAL PARA REGALOS: buscando regalos cerveceros? Ideal para aquellos que les encante las cervezas o coleccionan todo tipo de cervezas.
 - 📦 Este pack contiene: 4 cervezas Chouffe ( Belgian Blonde 8%) con su vaso oficial
 - 🍻 Cerveza Golden Ale, fuerte, con un sabor a fruta condimentada con cilantro y a lúpulo ligeramente en constante evolución. Cerveza natural con segunda fermentación en botella, sin filtrar, sin pasteurizar y sin aditivos.
+- 🎁 IDEAL PARA REGALOS: buscando regalos cerveceros? Ideal para aquellos que les encante las cervezas o coleccionan todo tipo de cervezas.
 - 🇧🇪 La Chouffe Blond es una de las cervezas belgas más famosas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Maxiabsorbentes
-- Blancos y Decorados
-- Tamaño XXL
 - 2 capas
+- Maxiabsorbentes
+- Tamaño XXL
+- Blancos y Decorados
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B079K4LLHC{{</world>}}

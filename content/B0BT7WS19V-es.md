@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ☕️ CELLINI ALUMINIUM: Las inconfundibles mezclas Cellini en una nueva cápsula de aluminio para un sabor y un aroma aún más intensos. Un resultado perfecto en taza gracias a un 10% más de café en cada cápsula de café compatible con Nespresso*. Además, el aluminio protege el café de la humedad, la luz y el oxígeno.
-- ☕️ MADE IN ITALY: Todas nuestras mezclas se tuestan y envasan en Italia. La combinación perfecta de calidad y diseño para un rendimiento único en la taza... ¡igual que en el bar!
 - ☕️ KIT DE DEGUSTACIÓN DE CAFÉ: Selección de 4 mezclas que contienen 30 cápsulas cada una. Mezclas: INTENSO - INTREPIDO - MELÓDICO - CREMOSO
 - ☕️ TAMAÑO DEL PAQUETE: Las cápsulas de café Cellini Caffè compatibles con Nespresso* están disponibles en un paquete que contiene 4 cajas de aluminio de 30 cápsulas (120 cápsulas).
+- ☕️ CELLINI ALUMINIUM: Las inconfundibles mezclas Cellini en una nueva cápsula de aluminio para un sabor y un aroma aún más intensos. Un resultado perfecto en taza gracias a un 10% más de café en cada cápsula de café compatible con Nespresso*. Además, el aluminio protege el café de la humedad, la luz y el oxígeno.
+- ☕️ MADE IN ITALY: Todas nuestras mezclas se tuestan y envasan en Italia. La combinación perfecta de calidad y diseño para un rendimiento único en la taza... ¡igual que en el bar!
 - ☕️ ENVASADO ECOLÓGICO: Cellini cuida el medio ambiente utilizando cartón de celulosa pura FSC. las cápsulas de aluminio, separadas del café tras su uso, son potencialmente reciclables al infinito.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

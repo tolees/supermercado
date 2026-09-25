@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- USO: Se recomienda tomar 1-2 barritas al día en función de la actividad física y teniendo en cuenta otras fuentes proteicas aportadas por la dieta; acompañar con una ingesta adecuada de agua
-- BAJO EN AZÚCAR: Contribuye al metabolismo normal de las proteínas y a la reducción del cansancio y la fatiga; cada barrita aporta solo 1g de azúcar
-- BARRITA DE PROTEINAS 50% SALTED CARAMEL: La barrita de proteínas más técnica de la línea Enervit con cobertura de chocolate con leche, con 20g de proteínas y vitaminas, baja en azúcar y sin gluten
 - ENERVIT: Formulamos y producimos soluciones nutricionales innovadoras con un objetivo: ayudar a todas las personas a mejorar su calidad de vida
+- BARRITA DE PROTEINAS 50% SALTED CARAMEL: La barrita de proteínas más técnica de la línea Enervit con cobertura de chocolate con leche, con 20g de proteínas y vitaminas, baja en azúcar y sin gluten
+- BAJO EN AZÚCAR: Contribuye al metabolismo normal de las proteínas y a la reducción del cansancio y la fatiga; cada barrita aporta solo 1g de azúcar
+- USO: Se recomienda tomar 1-2 barritas al día en función de la actividad física y teniendo en cuenta otras fuentes proteicas aportadas por la dieta; acompañar con una ingesta adecuada de agua
 - BENEFICIOS: Adecuada al final del entrenamiento, la vitamina D, B6 y la tiamina contribuyen al mantenimiento de la función muscular y al metabolismo de las proteínas y el glucógeno
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

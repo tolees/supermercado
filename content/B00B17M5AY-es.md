@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kärcher 6.295-750.0 - Champú detergente para coches 3 en 1'
-date: 2026-09-04 08:14:07
+date: 2026-09-21 19:04:42
 image: 'https://m.media-amazon.com/images/I/41EkKQgDznL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00B17M5AY/?tag=tolees-21'
 descuento: '20.10'
-average: '8.17315789473684'
+average: '8.162'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elija su vehículo en el selector para comprobar su compatibilidad con el producto.
-- KARCHER Jabón para carrocerías
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00B17M5AY{{</world>}}

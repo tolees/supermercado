@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Los bizcochos Fontaneda Osito Lulu son un snack irresistible para disfrutar en familia, en el colegio o como capricho dulce; contienen gluten, leche y soja
-- Disponibles en formatos prácticos de 150 g (5 bizcochos) y 300 g (10 bizcochos), ideales para llevar en la mochila, preparar meriendas o disfrutar en casa
-- Elaborados con ingredientes de calidad, estos bizcochos destacan por su textura suave y su sabor equilibrado, perfectos para niños y adultos
 - Con un relleno de chocolate con leche cremoso y sorprendente, satisfacen antojos dulces en cualquier momento del día
+- Los bizcochos Fontaneda Osito Lulu son un snack irresistible para disfrutar en familia, en el colegio o como capricho dulce; contienen gluten, leche y soja
+- Elaborados con ingredientes de calidad, estos bizcochos destacan por su textura suave y su sabor equilibrado, perfectos para niños y adultos
+- Disponibles en formatos prácticos de 150 g (5 bizcochos) y 300 g (10 bizcochos), ideales para llevar en la mochila, preparar meriendas o disfrutar en casa
 - Fontaneda Osito Lulu ofrece una deliciosa experiencia con bizcochos con forma de osito, tiernos y esponjosos, ideales para alegrar cualquier merienda
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

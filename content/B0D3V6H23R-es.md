@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Aroma: En nariz es compleja, primero manifiesta una fragancia seca a la que siguen notas de lúpulo floral y fresco, acompañadas de notas a plátano y manzana roja junto aromas delicados a tostados y caramelo de las maltas
 - Color ámbar intenso, aspecto brillante y espuma consistente
 - El saber hacer de Cervezas Alhambra y el lúpulo Saaz se unen para presentar Alhambra Reserva 1925; una cerveza estilo Amber Lager Checa con carácter intenso y mucho cuerpo hecha sin prisa gracias a su proceso de fermentación lenta
 - Sabor equilibrado: la sensación en boca es muy equilibrada con amargor moderado y un ligero dulzor en gusto; tiene cuerpo, es plena y aterciopelada
 - Pack de 12 latas de cerveza extra; equilibrada e intensa, Alhambra Reserva 1925 está elaborada con la variedad de lúpulo Saaz, que le aporta toques ligeramente florales
-- Aroma: En nariz es compleja, primero manifiesta una fragancia seca a la que siguen notas de lúpulo floral y fresco, acompañadas de notas a plátano y manzana roja junto aromas delicados a tostados y caramelo de las maltas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D3V6H23R{{</world>}}

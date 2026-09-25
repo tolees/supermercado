@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Seb Champú Anticas 400ml'
-date: 2026-07-13 22:05:10
+title: 'Sebamed Champú Anticaspa Elimina la Caspa y Alivia el Picor 400 ml'
+date: 2026-09-24 07:34:30
 image: 'https://m.media-amazon.com/images/I/3107D6OnT3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07ZRQDL76-es Seb Champú Anticas 400ml'
+slug: 'B07ZRQDL76-es Sebamed Champú Anticaspa Elimina la Caspa y Alivia el...'
 sku: 'B07ZRQDL76-es'
 tags: [ 'champú','🇪🇸', ]
-actualPrice: 14.1 EUR
+actualPrice: 11.45 EUR
 currency: EUR
-price: 14.1
-comparePrice: 16.56 EUR
-prodname: 'Seb Champú Anticas 400ml'
+price: 11.45
+comparePrice: 14.53 EUR
+prodname: 'Sebamed Champú Anticaspa Elimina la Caspa y Alivia el Picor 400 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZRQDL76/?tag=tolees-21'
-descuento: '14.86'
-average: '11.9165384615386'
+descuento: '21.20'
+average: '11.8832142857144'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sebamed es una marca de confianza que se esfuerza continuamente para proporcionar productos que cuidan la piel de manera efectiva. Garantía sello ECARF.
-- Fórmula suave: Reduce el picor e irritación del cuero cabelludo sensibilizado.
-- Eficaz contra caspa grasa: Sebamed Champú Anticaspa 400ml limpia y elimina caspa.
-- Con Piroctone Olamine para un cabello sano y libre de caspa.
-- pH 5,5: Respeto al pH natural de la piel, promueve barrera protectora.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07ZRQDL76{{</world>}}

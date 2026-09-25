@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Deja un aliento fresco
 - De textura dura
 - No contiene azúcar
 - Con un embalaje práctico y fácil de transportar
+- Deja un aliento fresco
 - Con un fresco sabor a menta
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

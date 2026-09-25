@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marcilla Café Grano Gran Aroma | Natural | 500g'
-date: 2026-09-20 10:47:15
+date: 2026-09-21 13:43:28
 image: 'https://m.media-amazon.com/images/I/41YTKHMwHhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ITY52VU/?tag=tolees-21'
 descuento: '19.18'
-average: '9.11350000000001'
+average: '9.14095238095239'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Rizo visiblemente transformado y definido, con hasta 100h de hidratación y antiencrespamiento*, *Test instrumental
-- Fórmula enriquecida con [7%] COMPLEJO HIDRATANTE HIALURÓNICO + ÁCIDOS GRASOS DE KARITÉ
 - Contenido: 1x Garnier Fructis Método Rizos Crema Definidora sin aclarado, Volumen: 260 ml
+- Fórmula enriquecida con [7%] COMPLEJO HIDRATANTE HIALURÓNICO + ÁCIDOS GRASOS DE KARITÉ
 - Crema definidora sin aclarado Método Rizos de Garnier Fructis: fija la hidratación del cabello y bloquea el frizz para una definicion de rizos duradera y deslumbrantes durante más tiempo, Hasta 100h sin frizz*, Test instrumental.
 - Aplicar sobre el cabello húmedo o seco, Moldear con las manos de la forma deseada, Dejar secar al aire, No aclarar, Continuar con el gel de peinado y el sérum para un resultado óptimo
 

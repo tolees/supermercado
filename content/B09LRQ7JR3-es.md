@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Knorr - Cacitos de caldo pollo 112g pack de 8'
-date: 2026-09-19 16:58:48
+date: 2026-09-24 14:30:18
 image: 'https://m.media-amazon.com/images/I/415mZREt00L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09LRQ7JR3/?tag=tolees-21'
 descuento: '59.71'
-average: '7.14333333333333'
+average: '6.96612903225807'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

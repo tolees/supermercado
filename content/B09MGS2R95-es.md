@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Caramelos de goma de distintos sabores y colores
 - Conservar en lugar fresco y seco
 - Descubre la aventura con este mix de divertidas formas
+- Caramelos de goma de distintos sabores y colores
 - Gran variedad de colores y sabores frutales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

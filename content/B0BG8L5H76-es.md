@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con intenso sabor a Fresa y cubiertos de Azúcar.
 - Los clásicos besitos CREAM KISS de color Rosa y textura súper suave
 - Disfruta con alegría y diversión en cualquier momento
+- Con intenso sabor a Fresa y cubiertos de Azúcar.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BG8L5H76{{</world>}}

@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - PROTECCIÓN SOLAR EFICAZ – Gracias al protector solar 30 y a la protección UVA/UVB, este aceite solar protege la piel de los dañinos rayos solares.
 - CONTENIDO DEL ENVÍO – NIVEA SUN Protege & Broncea Aceite Solar FP30, aceite solar con activador del bronceado, 1 x 200 ml, spray.
 - CÓMODO FORMATO – Con su formato en spray, este acelerador del bronceado resulta cómodo y fácil de aplicar. Además, su textura ligera se absorbe rápidamente.
-- RESISTENTE AL AGUA – Para que no desaparezca con el primer baño, este protector solar en spray es resistente al agua. Así la piel estará cuidada por más tiempo.
 - PROLONGADOR DEL BRONCEADO – Este aceite protector solar contiene extracto natural de promelanina, que estimula el proceso natural de bronceado de la piel.
+- RESISTENTE AL AGUA – Para que no desaparezca con el primer baño, este protector solar en spray es resistente al agua. Así la piel estará cuidada por más tiempo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XDVQ9H6{{</world>}}

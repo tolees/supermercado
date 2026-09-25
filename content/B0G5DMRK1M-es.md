@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Envase inteligente para conserva el aroma
 - La siguiente información se aplica a cada unidad del paquete
-- Se puede servir sola o can leche, azúcar o miel
 - Tiene un sabor intenso
 - Apto para compartir con los amigos
+- Se puede servir sola o can leche, azúcar o miel
 - Café tostado y molido
+- Envase inteligente para conserva el aroma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G5DMRK1M{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Revivia Base de Maquillaje Coreana Base Maquillaje Coreana SPF15 30ml'
-date: 2026-09-18 17:11:53
+date: 2026-09-21 10:27:32
 image: 'https://m.media-amazon.com/images/I/41WDY6y4iuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

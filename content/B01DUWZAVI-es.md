@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gigante Verde - Hexapack Lata De Maíz Dulce Clásico 6 x 160 g'
-date: 2026-09-19 17:39:36
+date: 2026-09-21 08:03:42
 image: 'https://m.media-amazon.com/images/I/41SvVxoqgwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DUWZAVI/?tag=tolees-21'
 descuento: '35.81'
-average: '3.76111111111111'
+average: '3.80090909090909'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

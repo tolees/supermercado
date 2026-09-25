@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Conservar en un lugar fresco y seco. Una vez abierto, conservar refrigerado en un envase hermético, alejado de olores fuertes y consumir en 14 días.
 - Apto para dietas vegetarianas y veganas.
 - Apto para cualquier preparación de café como cafetera de émbolo, filtro y moka italiana. Utilizar 6-8 gramos de café por taza.
-- Certificado Rainforest Alliance. Obtenga más información en ra.org.
 - Este café de tueste medio bien equilibrado tiene notas de pera y avellanas y un retrogusto cremoso.
+- Conservar en un lugar fresco y seco. Una vez abierto, conservar refrigerado en un envase hermético, alejado de olores fuertes y consumir en 14 días.
+- Certificado Rainforest Alliance. Obtenga más información en ra.org.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F1NGWS32{{</world>}}

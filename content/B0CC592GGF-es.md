@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Larga duración
-- Sin sensación de rigidez ni residuos
 - Cejas efecto lifting
+- Larga duración
 - Tono que funciona para todas las personas
+- Sin sensación de rigidez ni residuos
 - Fórmula 100% vegana, respetuosas con los animales y con el planeta, libre de fragancias, aceites e ingredientes de origen animal
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Optimo para llevar en la mochila, fiestas de cumpleaños y piñatas
 - Todos los caramelos y chicles vienen protegidos individualmente
-- Caramelo masticable Mentos Mini Fresa y Fruittella
 - Caramelos con palo de sabores variados y Mini Manzana
+- Caramelo masticable Mentos Mini Fresa y Fruittella
 - Chicle Center Shock Cola, caramelo comprimido Look-o-Look Dextrosa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

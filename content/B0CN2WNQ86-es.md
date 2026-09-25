@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - La siguiente información se aplica a cada unidad del paquete
-- Cantidad: 100 gramos
-- El perro debe ser supervisado en todo momento mientras se alimenta.
 - Con un alto contenido en proteína animal y con pocas grasas.
+- El perro debe ser supervisado en todo momento mientras se alimenta.
 - Alimento complementario para su perro, con aportación extra del calcio, muy rico en nutrientes. Utilizar como un regalo o recompensa en cualquier momento, dentro de una dieta equilibrada.
+- Cantidad: 100 gramos
 - Snack en forma de huesitos con carne de pollo enrollada. 100% natural.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

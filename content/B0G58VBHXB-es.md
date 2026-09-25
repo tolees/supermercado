@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ideal para un café aromatico
 - Café molido descafeinado
+- Ideal para un café aromatico
+- Con un clik paq para conservar el aroma
 - La siguiente información se aplica a cada unidad del paquete
 - Fácil de usar
 - Conservar en un lugar fresco y seco
-- Con un clik paq para conservar el aroma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0G58VBHXB{{</world>}}

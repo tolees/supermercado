@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Testado dermatológicamente
 - Para todo tipo de pieles
-- Formato:500ml
 - Manos suaves y protegidas
 - Un aroma limpio y refrescante
+- Formato:500ml
+- Testado dermatológicamente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B003XRAJ6M{{</world>}}

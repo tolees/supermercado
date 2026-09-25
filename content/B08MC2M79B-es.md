@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Óptimo para el desayuno o una pausa durante el día
 - Viene en un recipiente de vidrio
+- Óptimo para el desayuno o una pausa durante el día
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08MC2M79B{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- TRATAMIENTO ULTIMATE REPAIR: spray sin aclarado para el cabello dañado.
 - BOOSTER CAPILAR PROFESIONAL: Desenreda el cabello mojado de manera eficaz.
 - CABELLO SALUDABLE Y BRILLANTE hasta 12 veces más suave* y con hasta 99 % menos rotura**. *Test instrumental vs. champú sin acondicionador. **vs. champú sin acondicionador.
 - REPARACIÓN CAPILAR: Resultados transformadores desde el primer lavado del cabello con efecto hasta 4 semanas.
-- TRATAMIENTO ULTIMATE REPAIR: spray sin aclarado para el cabello dañado.
 - INGREDIENTES PODEROSOS: Con AHA para fortalecer y reconstruir el cabello, y Omega-9 para restaurar la barrera externa.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

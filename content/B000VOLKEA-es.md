@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De la marca Calvin Klein.
 - Este producto está indicado para hombres.
 - Las notas olfativas principales de este producto son especiado y cítrico.
+- De la marca Calvin Klein.
 - Contiene 100 ml.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

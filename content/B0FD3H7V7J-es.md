@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Gafas de sol sin Rx
 - Gafas de sol
+- Gafas de sol sin Rx
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FD3H7V7J{{</world>}}

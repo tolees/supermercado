@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ricola - Limón Melisa Caramelos Duros Sin Azúcar 70 g'
-date: 2026-09-20 06:39:09
+date: 2026-09-22 14:21:57
 image: 'https://m.media-amazon.com/images/I/41stJxntUTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B001O1B8SW/?tag=tolees-21'
 descuento: '0.00'
-average: '2.075'
+average: '2.08'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

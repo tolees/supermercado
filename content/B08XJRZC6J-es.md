@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Melatonina 400 Tabletas +1 año Altas dosis Para dormir bien'
-date: 2026-09-19 17:45:06
+date: 2026-09-20 21:21:38
 image: 'https://m.media-amazon.com/images/I/41fcN-Tfd2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08XJRZC6J/?tag=tolees-21'
 descuento: '50.03'
-average: '14.6175'
+average: '14.309'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

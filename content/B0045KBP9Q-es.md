@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los mejores productos de higiene para tu día a día.
 - Cuidarse y sentirse bien nunca había sido tan fácil.
+- Los mejores productos de higiene para tu día a día.
 - Rinse off foaming cleanser ii 150 ml
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Eau de Toilette para mujer 50 ml
-- Su aroma, amaderado y especiado, es inconfundible, masculino y tradicional
-- Las Notas de Corazón son fresia, magnolia, nuez moscada, cardamomo y pimienta negra
-- La siguiente información se aplica a cada unidad del paquete
-- Fragancia de la familia olfativa Oriental Floral
 - Las Notas de Salida son naranja, hojas de violeta, toronja (pomelo) rosada, rosa y tamarindo
+- Fragancia de la familia olfativa Oriental Floral
+- Las Notas de Corazón son fresia, magnolia, nuez moscada, cardamomo y pimienta negra
+- Eau de Toilette para mujer 50 ml
+- La siguiente información se aplica a cada unidad del paquete
+- Su aroma, amaderado y especiado, es inconfundible, masculino y tradicional
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CN2K68QF{{</world>}}

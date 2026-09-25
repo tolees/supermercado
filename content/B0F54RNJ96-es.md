@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 0 % DE ALCOHOL. 100 % FC BAYERN. -  Sabor intenso, aspecto potente: para aficionados y sibaritas por igual. Por las noches legendarias, ¡sin alcohol!
-- LA FIRMA QUE CAMBIA DE COLOR: la ginebra de color negro azabache se transforma al añadirle tónica en rojo FC Bayern, el color de los ganadores.
-- EL DÍA DEL PARTIDO ES PARA TODOS - Tanto si quieres brindar por la victoria como si quieres mantener la mente despejada para el partido, esta es la combinación perfecta. Porque el día del partido es para todos.
 - PERFIL DE SABOR - Con 11 botánicos perfectamente combinados, esta magistral base de cóctel sin alcohol combina la fruta de la mora, la lima ácida y el suave trébol rojo para crear una experiencia de sabor refrescante y compleja.
+- EL DÍA DEL PARTIDO ES PARA TODOS - Tanto si quieres brindar por la victoria como si quieres mantener la mente despejada para el partido, esta es la combinación perfecta. Porque el día del partido es para todos.
+- LA FIRMA QUE CAMBIA DE COLOR: la ginebra de color negro azabache se transforma al añadirle tónica en rojo FC Bayern, el color de los ganadores.
+- 0 % DE ALCOHOL. 100 % FC BAYERN. -  Sabor intenso, aspecto potente: para aficionados y sibaritas por igual. Por las noches legendarias, ¡sin alcohol!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F54RNJ96{{</world>}}

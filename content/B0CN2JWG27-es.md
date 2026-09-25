@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Disfruta del máximo poder colorante hasta 8 semanas, mejora visiblemente la calidad del cabello luciendo un pelo sedoso y brillante.
+- El embalaje puede variar.
 - La siguiente información se aplica a cada unidad del paquete
 - Su fórmula, potenciada a base de aceites de origen natural, no reseca el cabello y lo protege contra la rotura de sus fibras.
-- El embalaje puede variar.
-- Consigue hasta un 100% de cobertura de canas, con un tono impecable y más bonito incluso en los cabellos más rebeldes.
 - Coloración permanente para un tono castaño claro intenso y duradero, a la vez que deja una melena intensamente nutrida y reforzada.
+- Consigue hasta un 100% de cobertura de canas, con un tono impecable y más bonito incluso en los cabellos más rebeldes.
+- Disfruta del máximo poder colorante hasta 8 semanas, mejora visiblemente la calidad del cabello luciendo un pelo sedoso y brillante.
 - La Mascarilla envuelve cada fibra capilar para sellar la nutrición y está elaborada a base de: Aceite de Aguacate,aceite de Oliva, aceite e Karité y aceite de Arándano.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

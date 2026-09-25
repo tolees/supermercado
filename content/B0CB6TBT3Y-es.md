@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - NUTRICIÓN PROFUNDA: Formulada con Ácido Oleico y Pantenol para nutrir e hidratar el cabello en profundidad y devolverle toda su vitalidad -efecto de tratamiento hidratante
-- SUAVIDAD: Con Vitamina E para proteger el cabello del estrés y mantener la suavidad y el brillo.
-- PRODUCTO ANTI ENCRESPAMIENTO: Enriquecido con Bayas de Goji -contienede vitaminas, minerales y péptidos -controla el encrespamiento y mejora la manejabilidad.
 - MASCARILLA CAPILAR: Mascarilla de nutrición profunda que actúa de forma instantánea para nutrir y suavizar el cabello seco, dañado y estresado
+- PRODUCTO ANTI ENCRESPAMIENTO: Enriquecido con Bayas de Goji -contienede vitaminas, minerales y péptidos -controla el encrespamiento y mejora la manejabilidad.
+- SUAVIDAD: Con Vitamina E para proteger el cabello del estrés y mantener la suavidad y el brillo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CB6TBT3Y{{</world>}}

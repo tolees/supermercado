@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L Oréal Paris Men Expert Hydra Energetic Crema Hidratante Anti-Fatiga 50ml'
-date: 2026-09-16 16:29:09
+date: 2026-09-20 21:39:46
 image: 'https://m.media-amazon.com/images/I/41Om69+2ZrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00STBW4R4/?tag=tolees-21'
 descuento: '0.00'
-average: '6.69466183574882'
+average: '6.69588942307695'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

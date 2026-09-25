@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Agua mineral natural de mineralización débil
 - Pack con 24 botellas x 0.5 l
 - De pureza de las cumbres de Sierra Nevada, desde hace 200 años
+- Agua mineral natural de mineralización débil
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07CJCVGJK{{</world>}}

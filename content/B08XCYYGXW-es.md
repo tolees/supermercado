@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cacao procedente de cultivo responsable gracias al Cocoa Plan de NESTLÉ
+- Certificado por RainForest Alliance
 - Experimenta la cremosidad y el sabor de este Chocolate a la taza
 - Cacao en polvo espeso, ideal para hosteleria
-- Certificado por RainForest Alliance
+- Cacao procedente de cultivo responsable gracias al Cocoa Plan de NESTLÉ
 - Preparado alimentico al cacao
 
 [🛒 Aquí!!!]({{< param buyurl >}})

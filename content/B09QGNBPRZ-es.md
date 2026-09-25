@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ☕️ CELLINI ALUMINIUM: Las inconfundibles mezclas Cellini en una nueva cápsula de aluminio para un sabor y un aroma aún más intensos. Un resultado perfecto en taza gracias a un 10% más de café en cada cápsula de café compatible con Nespresso*. Además, el aluminio protege el café de la humedad, la luz y el oxígeno.
-- ☕️ ENVASADO ECOLÓGICO: Cellini cuida el medio ambiente utilizando cartón de celulosa pura FSC. las cápsulas de aluminio, separadas del café tras su uso, son potencialmente reciclables al infinito.
-- ☕️ MELODICO: mezcla de cafés 100% Arábica, en la que el delicado sabor de los Arábicas centroamericanos se mezcla con la fina acidez de Colombia para realzar la armonía en el paladar, con agradables notas de cacao. INTENSIDAD 9
 - ☕️ TAMAÑO DEL PAQUETE: Las cápsulas de café Cellini Caffè compatibles con Nespresso* están disponibles en un paquete que contiene 10 cajas de aluminio de 10 cápsulas (100 cápsulas).
+- ☕️ ENVASADO ECOLÓGICO: Cellini cuida el medio ambiente utilizando cartón de celulosa pura FSC. las cápsulas de aluminio, separadas del café tras su uso, son potencialmente reciclables al infinito.
 - ☕️ MADE IN ITALY: Todas nuestras mezclas se tuestan y envasan en Italia. La combinación perfecta de calidad y diseño para un rendimiento único en la taza... ¡igual que en el bar!
+- ☕️ MELODICO: mezcla de cafés 100% Arábica, en la que el delicado sabor de los Arábicas centroamericanos se mezcla con la fina acidez de Colombia para realzar la armonía en el paladar, con agradables notas de cacao. INTENSIDAD 9
+- ☕️ CELLINI ALUMINIUM: Las inconfundibles mezclas Cellini en una nueva cápsula de aluminio para un sabor y un aroma aún más intensos. Un resultado perfecto en taza gracias a un 10% más de café en cada cápsula de café compatible con Nespresso*. Además, el aluminio protege el café de la humedad, la luz y el oxígeno.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09QGNBPRZ{{</world>}}

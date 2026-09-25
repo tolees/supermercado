@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colon Higiene Detergente Gel para Ropa Blanca y de Color 40 Dosis 1.8 L'
-date: 2026-04-05 08:18:22
+date: 2026-09-22 15:36:54
 image: 'https://m.media-amazon.com/images/I/41xol7JBjmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07N1TJLJY-es Colon Higiene Detergente Gel para Ropa Blanca y de Color...'
 sku: 'B07N1TJLJY-es'
 tags: [ 'detergente','🇪🇸', ]
-actualPrice: 11.04 EUR
+actualPrice: 10.5 EUR
 currency: EUR
-price: 11.04
+price: 10.5
 comparePrice: 12.99 EUR
 prodname: 'Colon Higiene Detergente Gel para Ropa Blanca y de Color 40 Dosis 1.8 L'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N1TJLJY/?tag=tolees-21'
-descuento: '15.01'
-average: '8.16108108108108'
+descuento: '19.17'
+average: '8.28102564102564'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Higieniza los tejidos y elimina los malos olores de tu ropa gracias a sus activos higiénicos
-- Descubre el resto de detergentes y complementos para el lavado de Colon
-- Limpieza en profundidad, elimina las manchas más difíciles
-- Apto para ropa blanca y de color
-- Detergente para la lavadora concentrado en formato gel higiene
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07N1TJLJY{{</world>}}

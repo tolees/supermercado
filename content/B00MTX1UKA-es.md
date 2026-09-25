@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Procedencia: spain
-- Tipo de alcohol: gift baskets spirits
-- Contenido de alcohol (alc/vol.): 40.0 percent by volume
 - 1000 ml
 - Tipo de alcohol: Gift Baskets Spirits
+- Contenido de alcohol (alc/vol.): 40.0 percent by volume
+- Tipo de alcohol: gift baskets spirits
 - Dyc 5 + miniatura dyc 8
 - Marca dyc 5
 

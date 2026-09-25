@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Disfrútala sola, o como guarnición
 - Ensalada marinera con mejillones
-- Se debe conservar en un lugar fresco y seco
 - Óptima para aquellas personas con un ritmo de vida dinámico
+- Se debe conservar en un lugar fresco y seco
 - Adecuado para toda la familia
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

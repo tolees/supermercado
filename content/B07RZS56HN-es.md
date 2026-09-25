@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vino blanco D.O. Rueda
-- Variedad de uva: Verdejo
-- Nota de cata: Vino aromático y afrutado, con buena estructura y complejidad en boca.
 - Temperatura de servicio: 6-8ºC
 - Maridaje: carnes blancas, ensaladas y atún.
+- Variedad de uva: Verdejo
+- Nota de cata: Vino aromático y afrutado, con buena estructura y complejidad en boca.
+- Vino blanco D.O. Rueda
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07RZS56HN{{</world>}}

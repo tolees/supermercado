@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🏡 LA TETERA AZUL: Es una marca de infusiones premium de la mejor calidad que recupera el gusto por los pequeños momentos de placer, donde un olor, un sabor, te ayudan a recordar un instante o te hacen disfrutar de nuevas sensaciones. Cada una de nuestras infusiones es única, con su personalidad, su imagen, su color… Y todas tienen algo en común: son capaces de despertar tus sentidos.
-- 🌿 PROPIEDADES: Endulzante que conserva los minerales, vitaminas y propiedades de la caña de azúcar. Al proceder de la agricultura ecológica; destaca por su alto contenido en vitaminas y minerales. Sin gluten, VEGAN FRIEDLY, libre de lácteos y 100% natural. El material de las bolsitas es 100% compostable y degradable, no es plástico.
 - ✔️CALIDAD Y CERTIFICACIONES. Seleccionamos en origen a los mejores proveedores para disponer de las plantas perfectas y controlar exhaustivamente los productos durante todo el proceso. Cumplimos las normas de correcta fabricación de medicamentos (GMPs). Tenemos certificado IFS (International Featured Standards) de seguridad y calidad alimentaria, certificado FAIRTRADE (Comercio Justo) y certificación Ecológica.
 - 🌱 El azúcar de caña integral, el azúcar de caña y la panela son endulzantes que conservan los minerales, vitaminas y propiedades de la caña de azúcar. Al proceder de la agricultura ecológica; destacan por su alto contenido de vitaminas y minerales.
 - 📦 ESTUCHE CON 200 SOBRES INDIVIDUALES. Azúcar moreno orgánico en monodosis. El azúcar ecológico se extrae a partir de caña de azúcar procedente de tierras cultivadas de forma ecológica y con procedimientos respetuosos con el medio ambiente.
+- 🌿 PROPIEDADES: Endulzante que conserva los minerales, vitaminas y propiedades de la caña de azúcar. Al proceder de la agricultura ecológica; destaca por su alto contenido en vitaminas y minerales. Sin gluten, VEGAN FRIEDLY, libre de lácteos y 100% natural. El material de las bolsitas es 100% compostable y degradable, no es plástico.
+- 🏡 LA TETERA AZUL: Es una marca de infusiones premium de la mejor calidad que recupera el gusto por los pequeños momentos de placer, donde un olor, un sabor, te ayudan a recordar un instante o te hacen disfrutar de nuevas sensaciones. Cada una de nuestras infusiones es única, con su personalidad, su imagen, su color… Y todas tienen algo en común: son capaces de despertar tus sentidos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0161HB9NW{{</world>}}

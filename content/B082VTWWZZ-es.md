@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- fácil de usar
 - Deliciosas piezas en forma de stick
 - Geles dulces
-- fácil de usar
 - producto de calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

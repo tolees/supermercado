@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- COMPATIBLE: Blend de 220 gramos de café molido mezcla apto para cualquier cafetera de molido.
-- CALIDAD DELTA: La combinación perfecta de granos provenientes de las mejores regiones productoras de café del mundo y del arte del tostado
 - ORIGEN: Una mezcla con toda la personalidad y sin cafeína. Procedente de los mejores orígenes en una mezcla de Arábica y Robusta, da como resultado un espresso con cuerpo y un aroma rico en notas de caramelo, vainilla y frutos secos.
 - PERFIL SENSORIAL: Aroma 9 /15, Cuerpo 10/15, Acidez 9/15, Equilibrio 10/15, Intensidad 9/17
 - INTENSIDAD: Café molido de tueste natural con intensidad 9, un café con cuerpo y muy intenso
+- COMPATIBLE: Blend de 220 gramos de café molido mezcla apto para cualquier cafetera de molido.
+- CALIDAD DELTA: La combinación perfecta de granos provenientes de las mejores regiones productoras de café del mundo y del arte del tostado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CYR9ZBFN{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- [PA] Laboratorio Coreano: UVA PF 16.1±2.4 P++++ Laboratorio Español: UVA PF 19 P++++
-- [SPF] Laboratorio Coreano: 52.5±5.8 Laboratorio Español: 63.1±0.6
 - Pruebas de SPF y PA se realizaron en laboratorios de Corea y España
-- Después de su absorción, proporciona un brillo natural sin dejar un tono blanco. Incluso si aplicas una cantidad abundante antes del maquillaje, no deja grumos ni se vuelve pastoso.
+- [PA] Laboratorio Coreano: UVA PF 16.1±2.4 P++++ Laboratorio Español: UVA PF 19 P++++
 - Los extractos de arroz y granos fermentados son ricos en vitaminas B, C, E, aminoácidos y minerales que ayudan a calmar e hidratar la piel seca.
+- [SPF] Laboratorio Coreano: 52.5±5.8 Laboratorio Español: 63.1±0.6
+- Después de su absorción, proporciona un brillo natural sin dejar un tono blanco. Incluso si aplicas una cantidad abundante antes del maquillaje, no deja grumos ni se vuelve pastoso.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B5PJ41ZT{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El lavado nunca ha sido tan fácil: simplemente coloque una hoja en el tambor. El folleto es totalmente soluble en agua, ultra ligero y conveniente. Una hoja garantiza una limpieza profunda.
-- Las hojas de detergente para lavadora están libres de microplásticos, sin conservantes y son un producto vegano. Neutre para el clima
-- El tamaño práctico y ligero ahorra emisiones de CO2 durante el envío. También es adecuado para el lavado a bajas temperaturas y también para lavar a mano.
 - En comparación con los detergentes líquidos convencionales disponibles en envases de plástico, Dr.Beckmann logra utilizar un 80% menos de material de embalaje
+- Las hojas de detergente para lavadora están libres de microplásticos, sin conservantes y son un producto vegano. Neutre para el clima
+- El lavado nunca ha sido tan fácil: simplemente coloque una hoja en el tambor. El folleto es totalmente soluble en agua, ultra ligero y conveniente. Una hoja garantiza una limpieza profunda.
+- El tamaño práctico y ligero ahorra emisiones de CO2 durante el envío. También es adecuado para el lavado a bajas temperaturas y también para lavar a mano.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BMYBC612{{</world>}}

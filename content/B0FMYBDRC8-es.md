@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tradición reconocida – St. Dalfour representa la artesanía francesa en mermeladas, con reconocimiento internacional por su calidad.
+- Edición Emily in Paris – Caja de regalo inspirada en la serie, perfecta como detalle gourmet o para desayunos con estilo parisino.
 - Uso versátil – Ideal para pan, bollería, yogures, repostería y como acompañamiento afrutado en postres y tablas de quesos.
 - Receta natural – Sin colorantes ni conservantes artificiales, clean label y apta para diferentes estilos de vida y alimentación.
-- Edición Emily in Paris – Caja de regalo inspirada en la serie, perfecta como detalle gourmet o para desayunos con estilo parisino.
 - Clásico francés – Mermelada de fresa elaborada en Francia con 100 % fruta, endulzada solo con zumo concentrado, sin azúcares añadidos y sin gluten.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

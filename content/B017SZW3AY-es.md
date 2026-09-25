@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Anticabottega es una mezcla de aroma delicado, que se obtiene seleccionando variedades preciadas de Arábica y Robusta
 - El envasado en entorno protegido lo mantiene constantemente fresco y aumenta su conservabilidad
 - Café molido ideal para preparar en una Moka clásica
-- Conservabilidad: 24 meses a partir de la fecha de su producción. Modo de conservación: conservar en un lugar fresco y seco, lejos de fuentes de calor y humedad
-- Anticabottega es una mezcla de aroma delicado, que se obtiene seleccionando variedades preciadas de Arábica y Robusta
 - Este café es el resultado de un proceso de tueste lento, que le confiere un sabor ligero y agradable
+- Conservabilidad: 24 meses a partir de la fecha de su producción. Modo de conservación: conservar en un lugar fresco y seco, lejos de fuentes de calor y humedad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B017SZW3AY{{</world>}}

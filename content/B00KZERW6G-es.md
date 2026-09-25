@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- LAVAZZA: Lavazza está presente en todos los ámbitos de la industria del café y ofrece productos de alta calidad, frutos de un modelo sostenible basado en la innovación, la pasión y la experiencia
-- PREPARACIÓN: Estas cápsulas de café son idóneas para un Espresso de 40 ml
-- TOSTADO MEDIO: Estas cápsulas de café están elaboradas a partir de una mezcla de tueste medio para conseguir una crema ligera y un color dorado
-- VARIEDAD: Selección 100 % Arábica procedente de América Central y del Sur y de Asia. Cada variedad de café es seleccionada, tostada y molida por manos expertas, siguiendo nuestros estándares de calidad
 - A MODO MIO LUNGO DOLCE: Una mezcla de granos arábigos dulces. Un café suave para una taza grande. Muy acogedor, para disfrutarlo cada día
+- LAVAZZA: Lavazza está presente en todos los ámbitos de la industria del café y ofrece productos de alta calidad, frutos de un modelo sostenible basado en la innovación, la pasión y la experiencia
 - NOTAS AROMÁTICAS: A Modo Mio Espresso Lungo Dolce de Lavazza se presenta como un café dulce y cremoso con notas de frutos secos
+- VARIEDAD: Selección 100 % Arábica procedente de América Central y del Sur y de Asia. Cada variedad de café es seleccionada, tostada y molida por manos expertas, siguiendo nuestros estándares de calidad
+- TOSTADO MEDIO: Estas cápsulas de café están elaboradas a partir de una mezcla de tueste medio para conseguir una crema ligera y un color dorado
+- PREPARACIÓN: Estas cápsulas de café son idóneas para un Espresso de 40 ml
 - INTENSIDAD: Esta selección de café tiene un sabor dulce y suave. Se caracteriza por su nivel de intensidad 6/14
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

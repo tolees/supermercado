@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - ✅ Con Nutriscore B
+- 🌾 Cereales integrales como ingrediente número 1
 - 💪 Cereales fortificados con vitaminas y minerales
 - 🤎Los cereales Chocapic de siempre, ahora en tamaño mini
 - 🚫 Sin colorantes ni aromas artificiales
-- 🌾 Cereales integrales como ingrediente número 1
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FX2SWDNC{{</world>}}

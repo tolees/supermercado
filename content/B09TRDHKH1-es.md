@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 🚿 LAVADO FRECUENTE Y RÁPIDO: Un champú y acondicionador suave para hidratar el cabello encrespado. Acondicionador con alto poder acondicionador e hidratante incluso para pieles sensibles.
+- 🧴 ¿QUÉ ES UN COWASH? Un producto que combina el poder limpiador del champú y el poder nutritivo del acondicionador en un solo producto, convirtiéndolo en el aliado perfecto para los lavados frecuentes.
 - 👩‍🦱 PERFECTO PARA CABELLO RIZADO: Limpiador y acondicionador para cabello rizado pero también para todos los demás tipos de cabello. En un solo gesto mejora el cabello seco y dañado, nutriendo e hidratando.
 - 🌱 RESPETUOSO CON EL MEDIO AMBIENTE: Champú sin sulfatos, 100% Made in Italy y cruelty free. No contiene parabenos y siliconas. Respetuoso con el medio ambiente y vegano con un 89 % de ingredientes naturales.
 - 🥭 A BASE DE ÁCIDOS DE FRUTAS (AHA): Contiene AHA de naranja, manzana y granada con poderes hidratantes, nutritivos, antioxidantes, vitamínicos y proteicos. Estimula la producción de colágeno.
-- 🧴 ¿QUÉ ES UN COWASH? Un producto que combina el poder limpiador del champú y el poder nutritivo del acondicionador en un solo producto, convirtiéndolo en el aliado perfecto para los lavados frecuentes.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09TRDHKH1{{</world>}}

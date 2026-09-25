@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sopa de pollo en sobre
 - El auténtico sabor de siempre
+- Sopa de pollo en sobre
+- No contiene conservantes
 - Conservar en lugar seco y frio
 - Proceso tradicional de secado
-- No contiene conservantes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XDPQSE6{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca: YOSOY ofrece calidad garantizada y soporte al cliente ante cualquier incidencia
-- Ingredientes: Agua, Avena (10%), Aceite de nabina, Aromas naturales ,Sal marina
-- Consumo: ideal para lattes, cappuccinos o cortados, tanto en frío como en caliente.
-- Formato: pack de 6 envases de 1 litro, cómodo para consumo diario en casa, oficina, cafeterías o espacios profesionales.
 - Uso barista: bebida de avena con sabor a pistacho y textura cremosa, ideal para el café.
+- Formato: pack de 6 envases de 1 litro, cómodo para consumo diario en casa, oficina, cafeterías o espacios profesionales.
+- Consumo: ideal para lattes, cappuccinos o cortados, tanto en frío como en caliente.
+- Ingredientes: Agua, Avena (10%), Aceite de nabina, Aromas naturales ,Sal marina
+- Marca: YOSOY ofrece calidad garantizada y soporte al cliente ante cualquier incidencia
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GWMTBGS1{{</world>}}

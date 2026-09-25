@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HARIBO Favoritos 1x250g'
-date: 2026-05-14 09:06:50
+date: 2026-09-25 11:53:59
 image: 'https://m.media-amazon.com/images/I/51VLzRVcoCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08HN8RFKR-es HARIBO Favoritos 1x250g'
 sku: 'B08HN8RFKR-es'
 tags: [ 'haribo','🇪🇸', ]
-actualPrice: 1.65 EUR
+actualPrice: 3.08 EUR
 currency: EUR
-price: 1.65
-comparePrice: 2.93 EUR
+price: 3.08
+comparePrice: 3.08 EUR
 prodname: 'HARIBO Favoritos 1x250g'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08HN8RFKR/?tag=tolees-21'
-descuento: '43.69'
-average: '2.312'
+descuento: '0.00'
+average: '2.53142857142857'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- De diferentes texturas y sabores
-- Incluye ositos de oro, corazón-melocotón, fresa-nata, platanito, besito
-- Mix de caramelos de goma con recubrimiento de azúcar
-- Conservar en lugar fresco y seco
-- Sin colorantes artificiales
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08HN8RFKR{{</world>}}

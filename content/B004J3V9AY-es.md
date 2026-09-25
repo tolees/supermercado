@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Staropramen Premium - Cerveza Checa estilo Pilsner - Alc. 5 0% Vol. - Caja de 24 botellas de 330 ml - Total: 7920 ml'
-date: 2026-03-16 08:14:26
+date: 2026-09-25 07:08:29
 image: 'https://m.media-amazon.com/images/I/51a2RCLdWeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B004J3V9AY-es Staropramen Premium - Cerveza Checa estilo Pilsner - Alc....'
 sku: 'B004J3V9AY-es'
 tags: [ 'cerveza','🇪🇸', ]
-actualPrice: 18.0 EUR
+actualPrice: 24.0 EUR
 currency: EUR
-price: 18.0
+price: 24.0
 comparePrice: 30.96 EUR
 prodname: 'Staropramen Premium - Cerveza Checa estilo Pilsner - Alc. 5 0% Vol. - Caja de 24 botellas de 330 ml - Total: 7920 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B004J3V9AY/?tag=tolees-21'
-descuento: '41.86'
-average: '22.3850847457628'
+descuento: '22.48'
+average: '22.4380327868853'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,16 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contenido de alcohol (alc/vol): 5.0 percent_by_volume
-- Como servir: servir entre 3 y 6
-- Tipo de alcohol: malt beers
-- Procedencia: czech republic
-- Volumen paquete: 7925.0 milliliters
-- Unidades: 24
-- Volumen: 0.33 liters
-- Alc. 5.0% vol.
-- Staropramen es una cerveza ligera de praga, producida con amor y pasión durante casi 150 años.
-- Su ambición siempre ha sido atraer a los amantes de la cerveza con su sabor único, apetitoso y redondo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004J3V9AY{{</world>}}

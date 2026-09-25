@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con punta cuadrada
 - Ofrecen una comodidad óptima
+- Con punta cuadrada
 - Diseño ligero y flexible
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

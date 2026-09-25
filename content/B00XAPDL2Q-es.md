@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Caramelos de goma
-- Sabor tropifrutti
 - Conservar en lugar fresco y seco
+- Caramelos de goma
 - Deliciosas piezas en forma de pisotones
+- Sabor tropifrutti
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00XAPDL2Q{{</world>}}

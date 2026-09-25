@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- RECOMENDACIONES Para complementar tu rutina de cuidado con Green Tea Honey Drops, se recomienda usar el perfume, una experiencia sensorial completa con la frescura revitalizante del té verde
 - Cítrico, Afrutado, Floral: Este perfume, fresco como el rocío, con lima bañada por el sol, bergamota luminosa y deliciosas notas de lichi, aporta un giro inesperado a una fragancia clásica
-- LA CREMA HIDRATANTE Elizabeth Arden Green Tea Lychee Lime Honey Drops desprende un aroma a lima bañada por el sol, bergamota luminosa y deliciosas notas de lichi
-- CONSEJOS DE USO Aplica la crema generosamente sobre la piel limpia y seca, masajeando suavemente hasta que se absorba completamente, úsala diariamente, preferiblemente después del baño o la ducha
+- RECOMENDACIONES Para complementar tu rutina de cuidado con Green Tea Honey Drops, se recomienda usar el perfume, una experiencia sensorial completa con la frescura revitalizante del té verde
 - EN LA ANTIGUA CULTURA CHINA el lichi es un símbolo mitológico de romanticismo, belleza y felicidad, según los principios del Feng Shui, simboliza la buena suerte y la prosperidad
+- CONSEJOS DE USO Aplica la crema generosamente sobre la piel limpia y seca, masajeando suavemente hasta que se absorba completamente, úsala diariamente, preferiblemente después del baño o la ducha
+- LA CREMA HIDRATANTE Elizabeth Arden Green Tea Lychee Lime Honey Drops desprende un aroma a lima bañada por el sol, bergamota luminosa y deliciosas notas de lichi
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09QH73DRT{{</world>}}

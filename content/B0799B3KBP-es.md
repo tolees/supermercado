@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sin aromas artificiales
-- Cada pack contiene 4 barritas individuales de 40g
-- Sin Gluten
-- Hechas en España
-- Aptas para vegetarianos
 - Ingredientes deliciosos, cuidadosamente seleccionados
+- Sin Gluten
+- Cada pack contiene 4 barritas individuales de 40g
+- Aptas para vegetarianos
+- Hechas en España
+- Sin aromas artificiales
 - 10g de proteína por barrita
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Alergenos: pescado
-- Ensalada rusa con atún
 - País de origen: España
+- Ensalada rusa con atún
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01J5IZ0TS{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Semillas de girasol con sabor a auténtica salsa Tijuana
+- Alto contenido de fibra
 - Sin conservantes ni colorantes artificiales
 - Máxima frescura garantizada
-- Alto contenido de fibra
+- Semillas de girasol con sabor a auténtica salsa Tijuana
 - Fuente natural de vitamina E, Magnesio y Fósforo
 - Pack de 240 gramos
 

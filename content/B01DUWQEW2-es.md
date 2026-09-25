@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Contiene Gluten o presencia de cereales que contienen gluten
 - Producto sometido a estrictos controles de calidad
 - Sabor delicioso
 - 66% cereales
+- Contiene Gluten o presencia de cereales que contienen gluten
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01DUWQEW2{{</world>}}

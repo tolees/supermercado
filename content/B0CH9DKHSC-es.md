@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CABELLO Y CUERO CABELLUDO SALUDABLES: Fórmula suave y sin fragancia para la piel, ideal para pieles sensibles.
+- INGREDIENTES: Formulado con alantoína para ayudar a calmar y suavizar el cabello y el cuero cabelludo.
 - CUIDADO CAPILAR: Equilibra y protege el cabello y el cuero cabelludo. Para mejores resultados, úsalo con la mascarilla CALM Sensitive.
 - FÓRMULA ENERGIZANTE: Fórmula refrescante y calmante de Wella Professionals que alivia suavemente los cueros cabelludos sensibles.
-- INGREDIENTES: Formulado con alantoína para ayudar a calmar y suavizar el cabello y el cuero cabelludo.
+- CABELLO Y CUERO CABELLUDO SALUDABLES: Fórmula suave y sin fragancia para la piel, ideal para pieles sensibles.
 - CHAMPÚ: Un champú limpiador purificante diseñado para limpiar el cabello y el cuero cabelludo sensibles.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

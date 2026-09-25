@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gallina Blanca · Sopinstant Crema de Champiñones con Picatostes'
-date: 2026-09-15 13:01:54
+date: 2026-09-22 20:04:57
 image: 'https://m.media-amazon.com/images/I/41vkZP02KGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

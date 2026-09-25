@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Muy dulce, para más de 300 cafés, equivale a 3 kg de azúcar.
 - No amarga, sabor muy similar al del azúcar no aporta calorías al igual monk fruit
-- No afecta a la glucosa en sangre, apta para personas con diábetes.
-- No edulcorantes artificiales, no agentes de carga.
+- Muy dulce, para más de 300 cafés, equivale a 3 kg de azúcar.
 - Perfecta para cafés o infusiones se dosifica muy bien mermeladas, postres, confituras. Perfecto para reducir el consumo de azúcar.
+- No edulcorantes artificiales, no agentes de carga.
+- No afecta a la glucosa en sangre, apta para personas con diábetes.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B092VM9NRB{{</world>}}

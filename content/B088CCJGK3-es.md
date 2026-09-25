@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Color: rojo intenso con reflejos granate con envejecimiento
-- Ramo: típico, vinoso, afrutado
 - Sabor: Vinoso, aromas intensos y un paladar completo con un buen componente afrutado y un final largo
-- Uva: Nero dAvola
 - Maridaje: primer y segundo platos de carne, quesos
+- Ramo: típico, vinoso, afrutado
+- Uva: Nero dAvola
+- Color: rojo intenso con reflejos granate con envejecimiento
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B088CCJGK3{{</world>}}

@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El paquete contiene 12 sobres de 70 g de filete de atún con besugo
 - Sostenible, envases reciclables; nuestras latas de metal y envases de cartón pueden reciclarse completamente
-- Complementario y debe administrarse junto con un alimento seco completo y equilibrado para proporcionar a su gato una dieta completa
-- Fuente natural de Omega 3 y 6; los ácidos grasos omega-3 y omega-6 son importantes para la salud general de los gatos, con beneficios potenciales que incluyen la promoción de un pelaje y una piel sanos, el apoyo a la salud del cerebro y los ojos, la promoción de la salud cardiovascular, el apoyo a la salud de las articulaciones y el apoyo al sistema inmunológico
-- 55% Filete de Atún; contenido en proteínas y carne que favorece la musculatura magra y es rico en taurina natural; sólo insistimos en utilizar únicamente ingredientes de calidad
-- La comida húmeda en caldo para gatos 100% natural contiene carne de verdad y no contiene cereales, rellenos ni conservantes innecesarios, lo que la convierte en una opción sana y nutritiva para su gato
 - EL EMBALAJE PUEDE VARIAR mientras hacemos la transición del antiguo al nuevo embalaje de marca
+- 55% Filete de Atún; contenido en proteínas y carne que favorece la musculatura magra y es rico en taurina natural; sólo insistimos en utilizar únicamente ingredientes de calidad
+- El paquete contiene 12 sobres de 70 g de filete de atún con besugo
+- La comida húmeda en caldo para gatos 100% natural contiene carne de verdad y no contiene cereales, rellenos ni conservantes innecesarios, lo que la convierte en una opción sana y nutritiva para su gato
+- Fuente natural de Omega 3 y 6; los ácidos grasos omega-3 y omega-6 son importantes para la salud general de los gatos, con beneficios potenciales que incluyen la promoción de un pelaje y una piel sanos, el apoyo a la salud del cerebro y los ojos, la promoción de la salud cardiovascular, el apoyo a la salud de las articulaciones y el apoyo al sistema inmunológico
+- Complementario y debe administrarse junto con un alimento seco completo y equilibrado para proporcionar a su gato una dieta completa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B004VRM5F6{{</world>}}

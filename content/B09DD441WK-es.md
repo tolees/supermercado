@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - La fórmula de cuidado vegana con aceite de coco y extracto de semilla de macadamia reduce la rotura del cabello y evita la pérdida de hidratación - Una porción de cuidado regular para un cabello de aspecto sano.
-- Gracias al cuidado intensivo, la estructura capilar se fortalece y el cabello vuelve a brillar - El champú reparador huele suavemente a coco y macadamia, como un día de playa bajo las palmeras
 - Sin Gedøns: Para nosotros, los Gedøns son ingredientes de los que a la fundadora Len personalmente le gusta prescindir - El producto es naturalmente vegano y viene sin siliconas, parabenos, aceite mineral y microplásticos.
+- Gracias al cuidado intensivo, la estructura capilar se fortalece y el cabello vuelve a brillar - El champú reparador huele suavemente a coco y macadamia, como un día de playa bajo las palmeras
 - Volumen de suministro: 1 x 300 ml Jean&Len Champú Reparador Aceite de Coco y Macadamia, para cabellos dañados y débiles, contra la pérdida de hidratación, reduce la rotura del cabello, aroma de coco, sin parabenos ni siliconas, vegano
 - El Champú Reparador Jean y Len con aceite de coco y macadamia repara el cabello quebradizo y débil y lo deja con un aspecto cuidado - Hecho con amor en Alemania
 

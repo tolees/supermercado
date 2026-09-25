@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Complejo inmunitario de mananos y glucanos para estabilizar la flora intestinal y las defensas inmunitarias (fortalecimiento del sistema inmunológico)
-- Extractos de mejillones para fortalecer cartílagos, articulaciones y huesos
+- Comida seca para perros adultos de razas pequeños
 - Suave para el estómago y bien digerible
 - Sin gluten & sin azúcar
-- Comida seca para perros adultos de razas pequeños
+- Extractos de mejillones para fortalecer cartílagos, articulaciones y huesos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01EQZB1ES{{</world>}}

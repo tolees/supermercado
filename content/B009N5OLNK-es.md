@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- tipo de cabello: todo tipo de cabello
-- marca: revlon
-- 300 ml
 - género: unisex adulto
+- marca: revlon
+- tipo de cabello: todo tipo de cabello
+- 300 ml
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B009N5OLNK{{</world>}}

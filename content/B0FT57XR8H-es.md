@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- NUTRICIÓN PROFUNDA: Contiene Bayas de Goji, Ácido Oleico y Pantenol para proporcionar una sensación de nutrición e hidratacion profunda al cabello - combate el pelo seco, dañado y estresado.
 - CHAMPÚ: Rescata el cabello seco, dañado y estresado - champú de nutrición profunda que actúa al instante para devolver al cabello toda su vitalidad.
-- FÓRMULA CON VITAMINAS: Contiene vitaminas, minerales y péptidos - mejora la textura del pelo seco, dañado y rebelde dejándolo más manejable.
+- NUTRICIÓN PROFUNDA: Contiene Bayas de Goji, Ácido Oleico y Pantenol para proporcionar una sensación de nutrición e hidratacion profunda al cabello - combate el pelo seco, dañado y estresado.
 - La siguiente información se aplica a cada unidad del paquete
+- FÓRMULA CON VITAMINAS: Contiene vitaminas, minerales y péptidos - mejora la textura del pelo seco, dañado y rebelde dejándolo más manejable.
 - CUIDADO DEL CABELLO: Completa tu rutina capilar con el acondicionador Nutri Enrich de Wella y la mascarilla capilar - productos Wella Professional. ¡Un perfecto regalo para mujer!
 - HIDRATACIÓN: Repone la hidratación perdida y revitaliza el cabello para un acabado suave y liso.
 

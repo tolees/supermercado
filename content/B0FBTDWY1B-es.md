@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¿CÓMO SE USA? Realizar un enjuague bucal sin diluir con 15 ml (vaso dosificador) durante 60 segundos, dos veces al día, tras el cepillado dental. No enjuagar. PRECAUCIONES: No ingerir. Indicado en niños de más de 12 años y adultos. Mantener fuera del alcance de los Niños. Conservar en un lugar fresco
+- PROTEGE LAS ENCÍAS. El ÁCIDO HIALURÓNICO y el PANTENOL regeneran, hidratan y cuidan las encías y la mucosa oral
+- SIN ALCOHOL, SIN GLUTEN Y SIN CLORHEXIDINA. Colutorio que puede usarse a diario y a largo plazo. No pigmenta el esmalte y no altera el sentido del gusto. Enjuague bucal sin alcohol y sin gluten
 - CONTROL DE LA PLACA BIOFILM. El CPC - cloruro de cetilpiridinio y la LACTOFERRINA cuentan con accion antiseptica que ayuda a controlar la formación de biofilm
 - IDEAL PARA usar en situaciones de riesgo de gingivitis y encias delicadas: gingivitis gestacional, periodontitis, sensibilidad dental, sangrado de encías, procedimientos odontológicos, personas con movilidad reducida, pacientes polimedicados, etc
-- PROTEGE LAS ENCÍAS. El ÁCIDO HIALURÓNICO y el PANTENOL regeneran, hidratan y cuidan las encías y la mucosa oral
-- ANTICARIES. Concentración óptima de flúor 227 ppm, previene la caries y refuerza y mineraliza el esmalte
-- SIN ALCOHOL, SIN GLUTEN Y SIN CLORHEXIDINA. Colutorio que puede usarse a diario y a largo plazo. No pigmenta el esmalte y no altera el sentido del gusto. Enjuague bucal sin alcohol y sin gluten
+- ¿CÓMO SE USA? Realizar un enjuague bucal sin diluir con 15 ml (vaso dosificador) durante 60 segundos, dos veces al día, tras el cepillado dental. No enjuagar. PRECAUCIONES: No ingerir. Indicado en niños de más de 12 años y adultos. Mantener fuera del alcance de los Niños. Conservar en un lugar fresco
 - REDUCE LA INFLAMACIÓN Y EL SANGRADO. El AGUA DE MAR purificada reduce la inflamación gingival y la placa bacteriana (biofilm). El ÁCIDO HIALURÓNICO y el PANTENOL contribuyen a reducir la inflamación y el sangrado
 - COLUTORIO ENCÍAS para adultos. Contribuye a reducir la inflamacion y el sangrado de las encias por gingivitis. La acción sinérgica de sus ingredientes favorece la reducción de placa bacteriana o biofilm (principal desencadenante de la gingivitis) y el buen estado de los tejidos gingivales y mucosa oral
+- ANTICARIES. Concentración óptima de flúor 227 ppm, previene la caries y refuerza y mineraliza el esmalte
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FBTDWY1B{{</world>}}

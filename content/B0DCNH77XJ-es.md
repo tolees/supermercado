@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tulipán Negro - Loción Corporal Nube de Algodón con Dosificador Hidratación Intensa para Todo Tipo de Pieles Crema Corporal con Fragancia Dulce de Algodón de Azúcar 400 ml'
-date: 2026-09-16 21:49:00
+date: 2026-09-23 20:09:59
 image: 'https://m.media-amazon.com/images/I/31NxLz8c0fL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DCNH77XJ/?tag=tolees-21'
 descuento: '30.03'
-average: '3.34'
+average: '3.14333333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

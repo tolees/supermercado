@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Fórmula de acabado profesional
+- El pincel recoge la dosis exacta, para una aplicación perfecta en una pasada
 - Su fórmula de gel flexible hacen que el color del esmalte de uñas sea súper resistente
 - Emalte de uñas efecto gel de larga duración
-- El pincel recoge la dosis exacta, para una aplicación perfecta en una pasada
-- Fórmula de acabado profesional
 - Contiene hierro, calcio, silicio y Vitamina B5 que refuerza tus uñas frente a las agresiones externas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

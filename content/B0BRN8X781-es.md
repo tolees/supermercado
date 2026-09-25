@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Sanex Mineral Protect Desodorante Spray Pack 6 Uds x 200ml Protección 48H contra el Mal Olor con Piedra de Alumbre 0% Alcohol Sin Alérgenos ni Colorantes Piel Sensible'
-date: 2026-03-27 17:24:59
+title: 'Sanex Mineral Protect Desodorante Spray Piel Sensible Pack 6x200ml'
+date: 2026-09-22 20:17:44
 image: 'https://m.media-amazon.com/images/I/41JoFdX1C+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0BRN8X781-es Sanex Mineral Protect Desodorante Spray Pack 6 Uds x 200ml...'
+slug: 'B0BRN8X781-es Sanex Mineral Protect Desodorante Spray Piel Sensible Pack...'
 sku: 'B0BRN8X781-es'
 tags: [ 'desodorante','🇪🇸', ]
-actualPrice: 18.78 EUR
+actualPrice: 15.54 EUR
 currency: EUR
-price: 18.78
+price: 15.54
 comparePrice: 20.34 EUR
-prodname: 'Sanex Mineral Protect Desodorante Spray Pack 6 Uds x 200ml Protección 48H contra el Mal Olor con Piedra de Alumbre 0% Alcohol Sin Alérgenos ni Colorantes Piel Sensible'
+prodname: 'Sanex Mineral Protect Desodorante Spray Piel Sensible Pack 6x200ml'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BRN8X781/?tag=tolees-21'
-descuento: '7.67'
-average: '18.4816666666667'
+descuento: '23.60'
+average: '17.74625'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El embalaje puede variar
-- 24h de protección eficaz contra el mal olor
-- Fórmula que combina cuidado e higiene. Contiene piedra de alumbre un ingrediente activo de origen natural
-- La fórmula Sanex respeta la piel y respeta el planeta
-- Reducimos los ingredientes químicos innecesarios: Sin alérgenos, sin alcohol, sin colorantes
-- Desodorante testado dermatológicamente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BRN8X781{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Espuma con cinco acciones
-- La siguiente información se aplica a cada unidad del paquete
 - Con activo hidratante
+- La siguiente información se aplica a cada unidad del paquete
+- Espuma con cinco acciones
 - Rizos vivos y elásticos
 - Extracto de bambú
 

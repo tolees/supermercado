@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Maybelline New York Máscara de pestañas Lash Sensational Sky High Volumen y Longitud Tono Cherry Sky 7.2 ml'
-date: 2026-07-17 10:11:53
+title: 'Maybelline New York Lash Sensational Volumen y Longitud Cherry Sky'
+date: 2026-09-25 00:35:13
 image: 'https://m.media-amazon.com/images/I/41IqN5Wfg2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0DHCYMWG8-es Maybelline New York Máscara de pestañas Lash Sensational...'
+slug: 'B0DHCYMWG8-es Maybelline New York Lash Sensational Volumen y Longitud...'
 sku: 'B0DHCYMWG8-es'
-tags: [ 'de','maybelline','máscara','pestañas','🇪🇸', ]
-actualPrice: 8.98 EUR
+tags: [ 'maybelline','🇪🇸', ]
+actualPrice: 7.08 EUR
 currency: EUR
-price: 8.98
+price: 7.08
 comparePrice: 13.83 EUR
-prodname: 'Maybelline New York Máscara de pestañas Lash Sensational Sky High Volumen y Longitud Tono Cherry Sky 7.2 ml'
+prodname: 'Maybelline New York Lash Sensational Volumen y Longitud Cherry Sky'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DHCYMWG8/?tag=tolees-21'
-descuento: '35.07'
-average: '8.63250000000001'
+descuento: '48.81'
+average: '8.32200000000001'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cepillo cónico y flexible que alcanza todas tus pestañas
-- Fórmula infusionada con extracto de bambú
-- Dosificador con proporción óptima del producto
-- Nuevo tono Cherry Sky
-- Pestañas con altura: longitud sin límites y volumen redefinido
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DHCYMWG8{{</world>}}

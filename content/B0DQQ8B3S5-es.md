@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fórmula clean y 100% vegana
-- Con extracto de flor de Loto, Vitamina E, y complejo de cica, que ayuda asuavizar y calmar la piel sensible
+- Ideal para pieles de mixtas a grasas
 - Base ligera que calma la piel sensible, con acabado mate y control de brillo todo el día
 - DiIfumina las imperfecciones y reduce las rojeces
-- Ideal para pieles de mixtas a grasas
+- Con extracto de flor de Loto, Vitamina E, y complejo de cica, que ayuda asuavizar y calmar la piel sensible
+- Fórmula clean y 100% vegana
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQQ8B3S5{{</world>}}

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Kit de Cuidado Diario – Incluye limpiador facial, tónico, sérum, crema para el contorno de ojos, crema facial y protector solar, ofreciendo una rutina diaria completa desde la limpieza hasta la protección
-- Hidratación Suave – Su textura ligera hidrata intensamente sin dejar sensación pesada. Ideal para piel joven y sensible que necesita un cuidado suave pero eficaz
-- Iluminación & Protección – La vitamina C aporta acción antioxidante, reduce la opacidad y ayuda a proteger la piel de los factores ambientales que aceleran el envejecimiento prematuro
 - Luz con Vitamina C – Este set de cuidado combina vitamina C con ingredientes naturales para iluminar la piel, unificar el tono y aportar un aspecto fresco y saludable
+- Iluminación & Protección – La vitamina C aporta acción antioxidante, reduce la opacidad y ayuda a proteger la piel de los factores ambientales que aceleran el envejecimiento prematuro
+- Hidratación Suave – Su textura ligera hidrata intensamente sin dejar sensación pesada. Ideal para piel joven y sensible que necesita un cuidado suave pero eficaz
 - Compacto para Viajar – Tamaño práctico para llevar a todas partes. Un regalo encantador para adolescentes y chicas jóvenes que desean cuidar su piel con productos suaves y efectivos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

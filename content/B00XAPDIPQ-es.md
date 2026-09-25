@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Conservar en lugar fresco y seco
-- De distintos colores y sabores
-- Caramelos de goma
 - Deliciosas piezas con forma de peces payaso
+- Caramelos de goma
+- De distintos colores y sabores
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XAPDIPQ{{</world>}}

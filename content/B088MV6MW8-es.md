@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Prebióticos inulina > promueve el crecimiento de bacterias beneficiosas de la flora intestinal.
+- Inulina BIO > inulina ecológica, procedentes de cultivos ecológicos,
 - Inulina fibra > alto contenido en fibra alimentaria dietética: fibra para adelgazar.
 - Inulina vegetal sin gluten > de origen vegetal y apta para celíacos.
-- Inulina BIO > inulina ecológica, procedentes de cultivos ecológicos,
 - Inulina de Agave > fibra alimentaria soluble obtenida mediante un proceso de secado del agave.
-- Prebióticos inulina > promueve el crecimiento de bacterias beneficiosas de la flora intestinal.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B088MV6MW8{{</world>}}

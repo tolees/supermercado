@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tulipán Negro Gel de Baño Chocolate Praliné 650 ml'
-date: 2026-09-16 14:07:29
+date: 2026-09-24 16:41:08
 image: 'https://m.media-amazon.com/images/I/31L2ij1-AIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B017WK9KDS/?tag=tolees-21'
 descuento: '0.00'
-average: '2.07111111111111'
+average: '2.10181818181818'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

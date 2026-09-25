@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - IDEAL: para acompañar con tu desayuno o con tu snack favorito. Para compartir en familia o con amigos y disfrutar una buena leche de gran calidad.
-- PRÁCTICO: Fácil de usar. Tapón abre fácil ¨girar y servir¨ en un solo paso. Nuevo tamaño 1,5 L.
 - MODO DE EMPLEO: Una vez abierto, conservar el envase cerrado en nevera y consumir antes de tres días.
+- PRÁCTICO: Fácil de usar. Tapón abre fácil ¨girar y servir¨ en un solo paso. Nuevo tamaño 1,5 L.
 - SALUDABLE: leche bienestar animal tu leche de siempre en un nuevo formato. Cuenta con sabor delicioso. Envasada en formato familiar 1,5 L.
 - FORMATO: Formato práctico y más sostenible. Ya que esta botella está elaborada con 28% de origen vegetal. Consiguiendo reducir las emisiones de CO2 a la atmósfera.
 

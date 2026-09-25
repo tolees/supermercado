@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- shise.col.laquerink lipshine - 308 [shiseido]
-- shiseido
 - Paleta De Maquillaje
 - maquillaje
+- shiseido
+- shise.col.laquerink lipshine - 308 [shiseido]
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07FKPN1WV{{</world>}}

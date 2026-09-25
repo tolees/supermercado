@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- La fórmula nutritiva hidrata.
+- Ideal como protección contra el calor antes del secador o alisado.
 - Cuida el cabello largo y sedoso.
 - Aplicar sobre el cabello seco o mojado. No aclarar.
-- Ideal como protección contra el calor antes del secador o alisado.
 - La leche Dream Length No Spliss combate las puntas abiertas.
-- La fórmula nutritiva hidrata.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B082VNXZTY{{</world>}}

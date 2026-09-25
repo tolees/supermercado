@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La fórmula innovadora no es una transferencia y no deja manchas
-- La aplicación del producto es fácil gracias al aplicador de precisión y el resultado funciona
-- El color es brillante y dura hasta 16 horas
-- Color de labios de larga duración con efecto vinilo
 - El juego incluye: 2 tintas de vinilo Maybelline New York SuperStay
+- La fórmula innovadora no es una transferencia y no deja manchas
+- El color es brillante y dura hasta 16 horas
+- La aplicación del producto es fácil gracias al aplicador de precisión y el resultado funciona
+- Color de labios de larga duración con efecto vinilo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BW9P4X9W{{</world>}}

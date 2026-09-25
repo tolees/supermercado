@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Estupendo para compartir, este chocolate une a familia y amigos, convirtiéndose en el tentempié imperdible para cualquier ocasión
-- Presentadas en un formato práctico de 8 unidades, cada mini barrita viene envuelta individualmente, lo que las convierte en la opción imperdible para llevar en cualquier momento
 - Milka Milkinis, irresistibles barritas de chocolate que te encantará gracia a su tierno chocolate con leche de los Alpes y su delicioso relleno de crema láctea
+- Presentadas en un formato práctico de 8 unidades, cada mini barrita viene envuelta individualmente, lo que las convierte en la opción imperdible para llevar en cualquier momento
 - Sumérgete en la deliciosa experiencia de Milka, elaborada con cacao sostenible a través del programa Cocoa Life y utilizando solo leche de los Alpes asegurando calidad y responsabilidad
 - Elaboradas con chocolate de alta calidad, utilizando leche de la región de los Alpes y recubierto de chocolate con leche que satisface tus dulces antojos
 

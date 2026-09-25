@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pipas de girasol grandes aguasal saladas
 - Sin gluten
-- Apto para veganos
 - Fuente de fibra, hierro y proteinas
+- Pipas de girasol grandes aguasal saladas
+- Apto para veganos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08F8KKVK6{{</world>}}

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fórmula rica y aterciopelada que ayuda a nutrir tu piel
-- Fragancia exuberante y deliciosa
 - Protege la piel de la sequedad excesiva
+- Fragancia exuberante y deliciosa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B003U4YJ1O{{</world>}}

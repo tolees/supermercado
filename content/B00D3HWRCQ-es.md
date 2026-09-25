@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Neutrogena Fórmula Noruega Hand & Nail Crema de Manos y Uñas 1 x 75 ml crema de manos reparadora con pantenol crema para suavizar las cutículas y fortalecer las uñas'
-date: 2026-09-18 22:48:16
+date: 2026-09-22 21:08:53
 image: 'https://m.media-amazon.com/images/I/31KzOmH-uEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00D3HWRCQ/?tag=tolees-21'
 descuento: '40.60'
-average: '5.93012345679014'
+average: '5.90746987951809'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

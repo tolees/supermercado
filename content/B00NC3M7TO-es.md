@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- 🍸 DISEÑADA PARA LA MIXOLOGÍA: Martin Miller’s Westbourne es una versión más robusta de la clásica Martin Miller’s Gin, creada para aportar autenticidad y profundidad a los cócteles.
 - 💧 AGUA PURA DE ISLANDIA: Tras la destilación, el alcohol viaja más de 3,000 millas hasta Islandia, donde se mezcla con agua de glaciar filtrada por roca volcánica, considerada una de las más puras del mundo.
 - 🍹 EXPERIENCIA SENSORIAL ÚNICA: Notas iniciales de casia y mentol abren paso al enebro, mientras que en boca es fresca y ligeramente especiada, con un final sutil y elegante que deja una sensación vibrante en el paladar.
-- 🍸 DISEÑADA PARA LA MIXOLOGÍA: Martin Miller’s Westbourne es una versión más robusta de la clásica Martin Miller’s Gin, creada para aportar autenticidad y profundidad a los cócteles.
 - 🌿 PERFIL INTENSO Y ELEGANTE: Presenta notas especiadas más pronunciadas, con matices florales y una suavidad excepcional que la distingue como una ginebra super premium.
 - 🔥 DESTILACIÓN ARTESANAL EN PEQUEÑAS TANDAS: Se somete a 5 destilaciones en alambiques tradicionales, considerados el "Rolls-Royce" de la destilación, garantizando una pureza inigualable.
 

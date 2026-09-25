@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Corega Oxígeno Bio-Activo Tabletas Limpiadoras Para Prótesis Dentales Limpieza en Profundidad en 3 Minutos 30 Tabletas'
-date: 2026-09-19 14:58:30
+date: 2026-09-21 11:10:20
 image: 'https://m.media-amazon.com/images/I/31OJowBjweL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00GY2BDV8/?tag=tolees-21'
 descuento: '52.44'
-average: '4.649'
+average: '4.57181818181818'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 🎁 REGALA EXPERIENCIAS - Regalo ideal para los amantes del café, el tequila y los licores crema.
-- 😋 CALIDAD Y SABOR - Une a dos de los productos más codiciados del mercado, el tequila 100% mexicano y el café, en un chupito balanceado y único.
-- 💃 DIVERSIÓN GARANTIZADA - Tiene el ¡Punch! para convertir la fiesta en una Real Party y construir momentos inolvidables entre amigos y personas especiales.
 - 🍸 CHUPITO DE LOS NUEVOS HÉROES - Bébela como tú quieras, en un vaso con hielo, en un delicioso cóctel o desde la botella, pero definitivamente en chupitos o como parte de tu Espresso Martini son los top serve.
+- 💃 DIVERSIÓN GARANTIZADA - Tiene el ¡Punch! para convertir la fiesta en una Real Party y construir momentos inolvidables entre amigos y personas especiales.
+- 😋 CALIDAD Y SABOR - Une a dos de los productos más codiciados del mercado, el tequila 100% mexicano y el café, en un chupito balanceado y único.
 - ☕ CREMA SABOR CAFÉ CON TEQUILA - Lily Cafetón es la alternativa moderna y molona a los tradicionales licores de café.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

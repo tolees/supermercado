@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El bote resellable, hecho de materiales reciclados, protege el alimento de influencias nocivas como la luz solar, el aire y la humedad, preservando así sus nutrientes esenciales: 1 x 100 ml Tetra Wafer Mix
-- Alimento principal equilibrado y rico en nutrientes para peces de fondo como el pez gato moteado, el cascarudo, el botia yo-yo y los crustáceos, la mezcla de alimentos fomenta la salud, los colores vivos y la vitalidad
 - Las obleas de color naranja contienen gambas y favorecen un crecimiento saludable
+- El bote resellable, hecho de materiales reciclados, protege el alimento de influencias nocivas como la luz solar, el aire y la humedad, preservando así sus nutrientes esenciales: 1 x 100 ml Tetra Wafer Mix
 - Las obleas se hunden rápidamente hasta el fondo y se ablandan rápidamente sin disolverse, el alimento es fácilmente ingerido por los peces de fondo y altamente digestible, lo que contribuye a mantener el agua clara y mejorar su calidad
+- Alimento principal equilibrado y rico en nutrientes para peces de fondo como el pez gato moteado, el cascarudo, el botia yo-yo y los crustáceos, la mezcla de alimentos fomenta la salud, los colores vivos y la vitalidad
 - Las obleas verdes con alga spirulina refuerzan el sistema inmunitario de peces y crustáceos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

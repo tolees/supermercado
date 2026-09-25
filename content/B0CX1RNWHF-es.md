@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Algodón elástico: mezclilla con orillo expuesto en el bolsillo de monedas y bolsillos traseros
-- Pantalones vaqueros Red Bull Racing: eleva tu armario con nuestros pantalones de mezclilla Essential con actualizaciones de color de temporada, destinados a ser los favoritos de los clientes
 - Detalles de Pepe JEANS F1: logotipo de Pepe Jeans en la parte trasera
+- Pantalones vaqueros Red Bull Racing: eleva tu armario con nuestros pantalones de mezclilla Essential con actualizaciones de color de temporada, destinados a ser los favoritos de los clientes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CX1RNWHF{{</world>}}

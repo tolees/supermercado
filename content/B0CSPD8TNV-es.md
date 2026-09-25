@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maybelline New York Instant Anti-Age Corrector de Ojeras 2x 01Light'
-date: 2026-09-17 13:55:29
+date: 2026-09-21 05:21:01
 image: 'https://m.media-amazon.com/images/I/31JgC07oyLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'corrector','de','maybelline','ojeras','🇪🇸', ]
 actualPrice: 10.65 EUR
 currency: EUR
 price: 10.65
-comparePrice: 17.5 EUR
+comparePrice: 16.85 EUR
 prodname: 'Maybelline New York Instant Anti-Age Corrector de Ojeras 2x 01Light'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CSPD8TNV/?tag=tolees-21'
-descuento: '39.14'
-average: '10.94'
+descuento: '36.80'
+average: '10.90375'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

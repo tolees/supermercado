@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Formato de 150 gramos optimo para compartir con quien tu quieras
-- Conservar en lugar fresco y seco
-- Producto envasado en atmósfera protectora
-- Snack Lays gourmet patatas fritas con sabor a aceituna
 - Más crujiente gracias a su forma ondulada, con el mismo sabor de Lays Gourmet
+- Conservar en lugar fresco y seco
+- Formato de 150 gramos optimo para compartir con quien tu quieras
+- Snack Lays gourmet patatas fritas con sabor a aceituna
+- Producto envasado en atmósfera protectora
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DPKNW5P7{{</world>}}

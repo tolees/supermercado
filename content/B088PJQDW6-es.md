@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Puleva Peques 3 Cereales y Cacao Leche Crecimiento +12M 10x3x200ml'
-date: 2026-09-14 13:02:36
+date: 2026-09-22 12:35:25
 image: 'https://m.media-amazon.com/images/I/41sVrv5lq9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B088PJQDW6/?tag=tolees-21'
 descuento: '0.00'
-average: '9.6048275862069'
+average: '9.63032258064516'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

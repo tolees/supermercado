@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal como postre o snack
-- Con una textura crujiente
-- Conservar en un lugar fresco y seco
-- Galleta bañada con chocolate blanco
 - Con un práctico embalaje
+- Ideal como postre o snack
+- Conservar en un lugar fresco y seco
+- Con una textura crujiente
+- Galleta bañada con chocolate blanco
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DD45ZDJ5{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- GINEBRA PREMIUM DE ORIGEN GALLEGO – Nordés destaca por su base alcohólica que utiliza uva albariño También se elabora con 11 elementos botánicos, entre los que destacan 6 silvestres de tradición gallega que le otorgan su carácter fresco y balsámico botánicos naturales. 40% vol, 70 cl.
 - SABOR ÚNICO Y DIFERENTE – Un sabor equilibrado que la posiciona entre las mejores ginebras premium, un pequeño placer perfecto para disfrutar en buena compañía. Fresca, suave y sorprendentemente aromática.
 - GIN TONIC PERFECTO – Sírvela en copa ancha con abundante hielo, 5 cl de Nordés, 20 cl de tónica neutra y una brocheta de uva blanca. El maridaje ideal que realza sus aromas frutales y balsámicos.
-- GINEBRA PREMIUM DE ORIGEN GALLEGO – Nordés destaca por su base alcohólica que utiliza uva albariño También se elabora con 11 elementos botánicos, entre los que destacan 6 silvestres de tradición gallega que le otorgan su carácter fresco y balsámico botánicos naturales. 40% vol, 70 cl.
 - REGALO ESPECIAL PARA CUALQUIER OCASIÓN – Su icónica botella blanca, inspirada en la cerámica gallega, convierte cada botella de Nordés en un regalo premium memorable para cumpleaños, celebraciones, navidad o para los amantes de las ginebras especiales.
 - 11 BOTÁNICOS NATURALES – Salvia, salicornia, hierbaluisa, laurel, eucalipto y menta silvestres gallegos junto a enebro, cardamomo, jengibre, hibisco y té negro. Macerados por separado para un resultado equilibrado y de carácter propio.
 

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Caramelos grageados
-- Bolas de distintos colores en una misma bolsa
 - Mix de sabores frutales
+- Bolas de distintos colores en una misma bolsa
+- Caramelos grageados
 - Conservar en lugar fresco y seco
 
 [🛒 Aquí!!!]({{< param buyurl >}})

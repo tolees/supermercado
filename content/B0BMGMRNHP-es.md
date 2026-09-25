@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apoya la vitalidad: Gracias a la espirulina, proteínas, sustancias minerales y vitaminas que ayudan a apoyar la vitalidad del perro.
 - Fórmula con monoproteína animal: Formulado con una única fuente de proteína animal.
 - Ayuda a reducir los malos olores: gracias a yuca schidigera y prebióticos que favorecen la reducción del olor de las heces caninas.
 - Ayuda a la digestión: Su fórmula adaptada que contiene granos integrales, prebióticos y concentrado de piña 100% natural ayuda a la función digestiva. Está formulado con una única fuente de proteína animal (huevo) alternativa a las más comunes.
 - Sin gluten: Formulado sin ingredientes que contienen gluten
+- Apoya la vitalidad: Gracias a la espirulina, proteínas, sustancias minerales y vitaminas que ayudan a apoyar la vitalidad del perro.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BMGMRNHP{{</world>}}

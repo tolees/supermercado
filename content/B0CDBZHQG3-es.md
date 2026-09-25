@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- FÁCIL DE LIMPIAR – Todas las piezas del lunchpot son fáciles de limpiar y se pueden lavar en el lavavajillas. Además, no contienen BPA, por lo que son seguras para la salud.
 - SERVIR CALIENTE – La parte blanca del lunchpot se puede utilizar en el microondas sin la tapa para recalentar cómodamente la comida.
 - PRÁCTICO – Con tres compartimentos a prueba de derrames, el Lunchpot ofrece mucho espacio para una deliciosa comida sobre en el camino.
+- FÁCIL DE LIMPIAR – Todas las piezas del lunchpot son fáciles de limpiar y se pueden lavar en el lavavajillas. Además, no contienen BPA, por lo que son seguras para la salud.
 - ALMACENADO EN FRÍO – El recipiente se puede congelar fácilmente para mantener la comida fresca o disfrutarla más tarde.
 - VERSÁTIL – Utilícelo como sopera, taza de cereales o ensaladera portátil. El lunchpot es adecuado para muchas delicias culinarias.
 

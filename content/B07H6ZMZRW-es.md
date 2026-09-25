@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Listerine Mentol Enjuague Bucal con Flúor 1 L 2 uds'
-date: 2026-09-20 05:26:22
+date: 2026-09-25 12:33:41
 image: 'https://m.media-amazon.com/images/I/51O6vOc-FML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H6ZMZRW/?tag=tolees-21'
 descuento: '41.18'
-average: '9.99534722222222'
+average: '9.91553333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

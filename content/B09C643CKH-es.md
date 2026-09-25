@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Incluye: 20 vasos, 20 servilletas, 10 platos pequeños redondos, 10 platos grandes redondos y 10 platos grandes cuadrados
 - ECO Friendly: origen vegetal fabricado en papel con uso de poca agua, libre de BPA, con certificado FSC
 - Usos: adecuados para camping, cumpleaños, barbacoa, fiestas, comida al aire libre, comidas diarias, etc. No apto microondas ni horno
-- Desechable: se descomponen fácilmente, no dejan residuos tóxicos, apto para abono orgánico
 - Vajilla desechable biodegradable de un solo uso color blanco fabricada con materiales sostenibles y compuesta de 70 piezas, para 10 personas
-- Incluye: 20 vasos, 20 servilletas, 10 platos pequeños redondos, 10 platos grandes redondos y 10 platos grandes cuadrados
+- Desechable: se descomponen fácilmente, no dejan residuos tóxicos, apto para abono orgánico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09C643CKH{{</world>}}

@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Presentación compacta de alta calidad, fácil de usar y llevar contigo.
 - Disfruta de una experiencia de frescura con cada aplicación.
-- HERMS Terre DHerms Eau Intense Vétiver Edp Vapo 100 Ml – Other Beauty auténtico y reconocido.
 - Ideal para ocasiones especiales, aporta comodidad inmediata.
 - HERMS perfume premium con toque elegante.
+- HERMS Terre DHerms Eau Intense Vétiver Edp Vapo 100 Ml – Other Beauty auténtico y reconocido.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07FKPRV6T{{</world>}}

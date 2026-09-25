@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para un cabello suave y fácil de cortar.
 - Cuida construyendo y actúa en profundidad, dejando un efecto duradero.
-- Adecuado para el cuidado diario.
+- Para un cabello suave y fácil de cortar.
 - Fórmula con complejo hidratante que no daña el pelo.
+- Adecuado para el cuidado diario.
 - Fórmula 2 en 1 con champú y acondicionador.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

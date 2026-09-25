@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- La siguiente información se aplica a cada unidad del paquete
 - Contenido del envío: 1 aceite bronceador Garnier Ambre Solaire ideal con coco para pieles oscuras y precurtidas, 200 ml
-- Textura extra ligera y no grasa o pegajosa para una sensación agradable en la piel, aceite solar con un delicado y veraniego aroma de coco
 - Aplicación: aplicar sobre la piel seca, aplicar en combinación con la protección solar adecuada para evitar daños en la piel relacionados con el sol
 - Aceite bronceador con aceites vegetales para pieles oscuras o ya bronceadas, aceite bronceador nutritivo para un bronceado natural y fresco
-- La siguiente información se aplica a cada unidad del paquete
+- Textura extra ligera y no grasa o pegajosa para una sensación agradable en la piel, aceite solar con un delicado y veraniego aroma de coco
 - Resultado: Hidratación intensiva de la piel y más elasticidad y flexibilidad, bronceado rápido e intensivo en la piel prebronceada
 
 [🛒 Comprar!!!]({{< param buyurl >}})

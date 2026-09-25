@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal como snack, regalo o para acompañar momentos especiales.
 - Alérgenos: Pistacho, leche, trigo. Puede contener trazas de frutos secos de cáscara y cacahuetes.
 - Ofrece una experiencia gourmet y exótica en cada bocado.
+- Ideal como snack, regalo o para acompañar momentos especiales.
 - Barrita de Chocolate blanco con relleno de pistachos y kunafa, inspirado en el estilo de Dubái. Combinando la suavidad del chocolate con el sabor único de los pistachos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

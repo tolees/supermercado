@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Descubre la coloración permanente de cuidado Palette Intensive Creme Color con óptima cobertura de canas para un color duradero y brillo en tu cabello
-- La crema colorante con pigmentos de color altamente eficaces proporciona un color vivo, radiante y duradero hasta 8 semanas
-- Coloración permanente enriquecida con aceites naturales: el tratamiento de cuidado con Aceite Natural de Marula suaviza la superficie del cabello y proporciona brillo
-- Penetra profundamente en el núcleo del cabello sellando los altamente eficaces pigmentos de color
 - Tono 7.5 - Rubio Dorado Caramelo
+- Descubre la coloración permanente de cuidado Palette Intensive Creme Color con óptima cobertura de canas para un color duradero y brillo en tu cabello
+- Penetra profundamente en el núcleo del cabello sellando los altamente eficaces pigmentos de color
+- Coloración permanente enriquecida con aceites naturales: el tratamiento de cuidado con Aceite Natural de Marula suaviza la superficie del cabello y proporciona brillo
+- La crema colorante con pigmentos de color altamente eficaces proporciona un color vivo, radiante y duradero hasta 8 semanas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00X9VD4L4{{</world>}}

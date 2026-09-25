@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'MAYBELLINE Superstay 24H Pintalabios Mate de Larga Duración Tono 260 Wildberry 1 Unidad Paquete de 1'
-date: 2026-04-18 01:41:35
+title: 'Maybelline New York Superstay 24H Pintalabios Mate 260 Wildberry'
+date: 2026-09-23 07:54:46
 image: 'https://m.media-amazon.com/images/I/21rbzq6mssL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B004GXF01G-es MAYBELLINE Superstay 24H Pintalabios Mate de Larga...'
+slug: 'B004GXF01G-es Maybelline New York Superstay 24H Pintalabios Mate 260...'
 sku: 'B004GXF01G-es'
 tags: [ 'maybelline','🇪🇸', ]
-actualPrice: 8.99 EUR
+actualPrice: 9.49 EUR
 currency: EUR
-price: 8.99
+price: 9.49
 comparePrice: 15.46 EUR
-prodname: 'MAYBELLINE Superstay 24H Pintalabios Mate de Larga Duración Tono 260 Wildberry 1 Unidad Paquete de 1'
+prodname: 'Maybelline New York Superstay 24H Pintalabios Mate 260 Wildberry'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B004GXF01G/?tag=tolees-21'
-descuento: '41.85'
-average: '8.99'
+descuento: '38.62'
+average: '9.15666666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Verifique el símbolo PAO (Período después de la apertura) que indica el tiempo de caducidad del producto, después de abrir el paquete
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B004GXF01G{{</world>}}

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Rica y dulce con notas de peras maduras, caramelo de vainilla y canela
-- PERNOD RICARD EMEA, 5 COURS PAUL RICARD, 75008 PARIS FRANCE
-- Tono oscuro con un cálido brillo ámbar
-- Se puede usar para preparar cócteles
 - Un intenso y rico whisky escocés de 13 años madurado selectivamente en barricas de jerez oloroso de primer llenado
+- PERNOD RICARD EMEA, 5 COURS PAUL RICARD, 75008 PARIS FRANCE
+- Rica y dulce con notas de peras maduras, caramelo de vainilla y canela
 - Con un final prolongado y agradable
+- Se puede usar para preparar cócteles
+- Tono oscuro con un cálido brillo ámbar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B013H2TO4U{{</world>}}

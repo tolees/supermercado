@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Conservar en un lugar fresco y seco. Refrigerado una vez abierto.
-- Producto elaborado con las mejores frutas Ideal para untar sobre pan y enriquecer desayunos y meriendas
-- Sin conservantes, sin colorantes y libre de alérgenos
 - Endulzadas exclusivamente con fructosa, sin azúcar común, reduciendo el aporte calórico
+- Conservar en un lugar fresco y seco. Refrigerado una vez abierto.
+- Sin conservantes, sin colorantes y libre de alérgenos
+- Producto elaborado con las mejores frutas Ideal para untar sobre pan y enriquecer desayunos y meriendas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B093GV2M9Y{{</world>}}

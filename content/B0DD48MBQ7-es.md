@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Whisky Blended Escocia
 - Formato/Añada Comercializada actualmente por el productor
 - Producto de Escocia, Reino Unido
-- Whisky Blended Escocia
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DD48MBQ7{{</world>}}
