@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Gel de Ducha Sanex Neutro Hidratación Delicada Pack 12 x 600 ml | Con ingredientes esenciales | 0% sulfatos* 0% jabón y 0% colorantes | Gel de ducha para piel sensible | Hidratación duradera'
+date: 2026-09-07 19:42:25
+image: 'https://m.media-amazon.com/images/I/41TUGA5WvbL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0F44DLCJZ-es Gel de Ducha Sanex Neutro Hidratación Delicada Pack 12 x...'
+sku: 'B0F44DLCJZ-es'
+tags: [ 'de','ducha','gel','jabón','🇪🇸', ]
+actualPrice: 39.48 EUR
+currency: EUR
+price: 39.48
+comparePrice: 39.48 EUR
+prodname: 'Gel de Ducha Sanex Neutro Hidratación Delicada Pack 12 x 600 ml | Con ingredientes esenciales | 0% sulfatos* 0% jabón y 0% colorantes | Gel de ducha para piel sensible | Hidratación duradera'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0F44DLCJZ/?tag=tolees-21'
+descuento: '0.00'
+average: '35.28'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Con ingredientes esenciales
+- Contiene 0% sulfatos*, 0% jabón y 0% colorantes.
+- Gel de ducha para piel sensible
+- Gel de ducha para piel sensible
+- Con Tecnología Triple Acción Hidratante
+
+[🛒 Comprar!!!]({{< param buyurl >}})
+{{<world>}}B0F44DLCJZ{{</world>}}
