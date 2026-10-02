@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Revolucionaria sombra de ojos que da color de manera instantánea para utilizar en seco o húmedo
 - Una mezcla de polvos esféricos de última generación para conseguir un efecto de color excepcional que aúna cobertura extrema con luminosidad pura y una fijación de larga duración
-- Oftalmológicamente probada
 - Su textura suave y cremosa permite crear un maquillaje multidimensional, para un color con volúmenes "luminosos" y una pureza sorprendente
+- Oftalmológicamente probada
+- Revolucionaria sombra de ojos que da color de manera instantánea para utilizar en seco o húmedo
 - Enriquecida con ingredientes activos suavizantes e hidratantes, Water Eyeshadow permanece ligera e imperceptible en los párpados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

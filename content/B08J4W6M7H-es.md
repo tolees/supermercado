@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Old Spice Captain Desodorante en Barra para Hombre Sin Aluminio 4x50ml'
-date: 2026-09-23 08:16:18
+date: 2026-10-01 06:50:18
 image: 'https://m.media-amazon.com/images/I/41IlhyILKhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08J4W6M7H/?tag=tolees-21'
 descuento: '22.99'
-average: '10.3208490566038'
+average: '10.3332407407407'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

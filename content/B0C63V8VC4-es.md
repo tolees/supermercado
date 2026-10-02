@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Protector solar
 - Protección solar avanzada para la piel
+- Protector solar
 - Vida al aire libre
 
 [🛒 Comprar!!!]({{< param buyurl >}})

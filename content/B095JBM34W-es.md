@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los granos de café highland arábica (100 %), cuidadosamente seleccionados, proporcionan un tentador aroma y un ligero sabor afrutado, equilibrado por una acidez bien integrada
 - La opción perfecta para el espresso, el lungo o el cappucino
-- Tostado con toda la pasión y la experiencia de la tradición vienesa desde 1929, y con un sabor matizado y sutil gracias al largo tueste de tambor
 - Café tostado de granos enteros con 4/5 de intensidad, 3/5 de tueste y 2/5 de acidez
 - Espresso: 30 ml; lungo: 160 ml; cappucino: 180 ml
+- Los granos de café highland arábica (100 %), cuidadosamente seleccionados, proporcionan un tentador aroma y un ligero sabor afrutado, equilibrado por una acidez bien integrada
+- Tostado con toda la pasión y la experiencia de la tradición vienesa desde 1929, y con un sabor matizado y sutil gracias al largo tueste de tambor
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B095JBM34W{{</world>}}

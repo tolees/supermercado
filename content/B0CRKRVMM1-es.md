@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Se funde con la piel, resulta cómoda y suaviza el aspecto de las líneas de expresión del contorno de los ojos
 - El sérum corrector con color es antifatiga y transforma y contrarresta las ojeras; con resultados duraderos clínicamente probados
-- Sérum corrector con color antifatiga y iluminador y para ojeras
-- Fórmula vegana, ligera y modulable
 - Incluye Cafeína y Vitamina C
+- Fórmula vegana, ligera y modulable
+- Sérum corrector con color antifatiga y iluminador y para ojeras
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CRKRVMM1{{</world>}}

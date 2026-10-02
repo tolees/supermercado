@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Elimina el 99,9% de los virus, hongos y bacterias
 - Elimina el mal olor de raíz
 - Fácil de usar
-- Elimina el 99,9% de los virus, hongos y bacterias
 - Elaborado para el interior del calzado
 - Deja una agradable sensación de frescor
 

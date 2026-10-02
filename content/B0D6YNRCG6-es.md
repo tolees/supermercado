@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disfruta de un placer para todos los sentidos; Lindt EXCELLENCE un chocolate negro finísimo, pero intenso, con un alto contenido en cacao y un gusto sorprendentemente equilibrado
-- Detrás de cada creación de chocolate Lindt hay un Maestro Chocolatero; desde 1845, el chocolate Lindt encarna la pasión de sus Maestros Chocolateros siguiendo las mejores recetas tradicionales suizas y utilizando ingredientes de calidad
-- Una delicada combinación de chocolate con pistacho
 - Optima para los amantes del chocolate negro; optima para disfrutarlo con amigos o maridarlo con una taza de buen café, vino, coñac o cualquier clase de bebida intensa
+- Una delicada combinación de chocolate con pistacho
+- Disfruta de un placer para todos los sentidos; Lindt EXCELLENCE un chocolate negro finísimo, pero intenso, con un alto contenido en cacao y un gusto sorprendentemente equilibrado
 - Tableta Lindt EXCELLENCE con pistacho 100g
+- Detrás de cada creación de chocolate Lindt hay un Maestro Chocolatero; desde 1845, el chocolate Lindt encarna la pasión de sus Maestros Chocolateros siguiendo las mejores recetas tradicionales suizas y utilizando ingredientes de calidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6YNRCG6{{</world>}}

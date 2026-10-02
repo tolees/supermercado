@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bebida de reemplazo de comida
-- Complementa la alimentación habitual
 - Batido sabor chocolate
+- Complementa la alimentación habitual
+- Bebida de reemplazo de comida
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CXTMPN82{{</world>}}

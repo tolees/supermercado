@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Conservar en un lugar fresco y seco
 - Una mezcla de cereales con fruta deshidratada, chips de coco deshidratado con azúcar y avellanas
 - Envasado en Polonia
 - Este envase contiene 15 porciones
+- Conservar en un lugar fresco y seco
 - Apto para dietas vegetarianas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

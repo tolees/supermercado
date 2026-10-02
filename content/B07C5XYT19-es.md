@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CeraVe Cerave Loción Hidratante de Rostro Crema hidratante noche 52 ml'
-date: 2026-09-25 16:53:22
+date: 2026-09-29 23:45:56
 image: 'https://m.media-amazon.com/images/I/319MtGoTNrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C5XYT19/?tag=tolees-21'
 descuento: '32.14'
-average: '11.4236363636362'
+average: '11.4499999999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

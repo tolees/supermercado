@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - NO FRITAS: Snack horneado, no frito, con textura crujiente, ideal como aperitivo o para picar entre horas.
 - FORMATO MINI TORTITAS: Tamaño pequeño y práctico, fácil de consumir y compartir en cualquier momento del día.
-- RECETA MEDITERRÁNEA: Mini tortitas de cereales aromatizadas con sabor tomate y aceituna, inspiradas en la receta mediterránea.
 - A BASE DE CEREALES: Elaboradas con un 76 % de cereales (maíz y arroz), combinados con aceites vegetales y sazonador aromático.
+- RECETA MEDITERRÁNEA: Mini tortitas de cereales aromatizadas con sabor tomate y aceituna, inspiradas en la receta mediterránea.
 - FORMATO CARGA DE CAJA: Presentado en formato de carga de caja, ideal para mayor comodidad, reposición frecuente o consumo habitual.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Te permite disfrutar de una gin tonic clásico y de calidad, como si hubiese sido preparada por un bar tender experto
 - Bebida preparada elaborada con ginebra Tanqueray London Dry y tónica lista para disfrutar
-- Lista para servir con hielo, una rodaja de lima y a disfrutar
+- Te permite disfrutar de una gin tonic clásico y de calidad, como si hubiese sido preparada por un bar tender experto
 - Se destila con 4 botánicos de: enebro, cilantro, angélica y regaliz
 - Sólo 190 calorías por lata
+- Lista para servir con hielo, una rodaja de lima y a disfrutar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C4F8PZ6T{{</world>}}

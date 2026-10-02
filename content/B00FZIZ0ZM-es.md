@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ideales para combinar con estofados, sopas o ensaladas
-- País de origen: Italia
 - Sabrosas judías rojas en salmuera
+- País de origen: Italia
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00FZIZ0ZM{{</world>}}

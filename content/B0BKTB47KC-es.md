@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Para ayudar a tu bebé con un extra de cuidado y apoyo en su desarrollo, NESTLÉ ha desarrollado NANCARE Vitamina D
 - Un envase contiene aproximadamente 100 dosis - En formato líquido (botellita)
 - Producido con ingredientes testados clínicamente y especialmente desarrollado para bebés y niños
-- Para ayudar a tu bebé con un extra de cuidado y apoyo en su desarrollo, NESTLÉ ha desarrollado NANCARE Vitamina D
 - Dosis diaria recomendada: 2 gotas
 - Pregunta a tu profesional de la salud y déjate fascinar por la nueva gama de complementos infantiles Nestlé
 

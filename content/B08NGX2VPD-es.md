@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mahou 5 Estrellas Sin Gluten Cerveza Lager Dorada Pack 24 Botellas 33cl'
-date: 2026-09-26 09:42:29
+date: 2026-10-01 09:26:17
 image: 'https://m.media-amazon.com/images/I/31Cz6RsOZ-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08NGX2VPD/?tag=tolees-21'
 descuento: '21.36'
-average: '21.3817391304349'
+average: '21.4680000000001'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

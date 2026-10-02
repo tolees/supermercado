@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DYC 12 Años Whisky Single Malt 70cl'
-date: 2026-09-28 19:46:27
+date: 2026-10-01 00:09:48
 image: 'https://m.media-amazon.com/images/I/41pyX8x9PRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

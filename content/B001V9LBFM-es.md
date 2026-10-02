@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Alta cobertura, fácil de desmaquillar
-- Indicado para todo tipo de pieles
-- Stick que camufla las ojeras, granitos e imperfecciones
 - Dermatológicamente probado
+- Stick que camufla las ojeras, granitos e imperfecciones
+- Indicado para todo tipo de pieles
 - Corrector de ojeras e imperfecciones en barra
+- Alta cobertura, fácil de desmaquillar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B001V9LBFM{{</world>}}

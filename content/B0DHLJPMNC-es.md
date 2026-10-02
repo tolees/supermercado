@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ligera y confortable, la textura se funde con la piel del rostro y se absorbe rápidamente para dejarla lisa y aterciopelada
+- Las perlas reflectantes que contiene confieren a la piel una luminosidad intensa
 - Dermatológicamente testado, no comedogénico
 - Su fórmula está enriquecida con ácido hialurónico y un 30 % de agua de manzana reciclada
-- Las perlas reflectantes que contiene confieren a la piel una luminosidad intensa
+- Ligera y confortable, la textura se funde con la piel del rostro y se absorbe rápidamente para dejarla lisa y aterciopelada
 - La cobertura es media y fácilmente modulable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

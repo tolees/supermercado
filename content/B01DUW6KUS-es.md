@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Puleva Omega 3 Original con Proessentia® brik 1L - Caja 6 litros'
-date: 2026-09-28 16:38:09
+date: 2026-09-30 04:32:50
 image: 'https://m.media-amazon.com/images/I/413vmw6oHdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DUW6KUS/?tag=tolees-21'
 descuento: '37.89'
-average: '8.03538461538463'
+average: '7.89000000000001'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

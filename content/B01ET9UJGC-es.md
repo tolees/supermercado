@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Aroma: Perfil aromático complejo en el que aparece fruta madura y tonos tostados delicados, se aprecian notas a cacao y café
 - Tipo de uva: Elaborado a base de uva Tempranillo, permanece en barricas de roble americano durante doce meses y transcurrido este tiempo el vino es envasado y criado en botella
-- Maridaje: Este es un vino que combina bien con carnes rojas y asados
+- Gusto: En boca es neto, sabroso, estructurado y con buena intensidad
 - Consumo: Para disfrutar de sus cualidades óptimas, recomendamos servir entre 14ºC y 16ºC
 - Apariencia: Vino tinto de color granate con ligeros reflejos teja
-- Aroma: Perfil aromático complejo en el que aparece fruta madura y tonos tostados delicados, se aprecian notas a cacao y café
-- Gusto: En boca es neto, sabroso, estructurado y con buena intensidad
+- Maridaje: Este es un vino que combina bien con carnes rojas y asados
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01ET9UJGC{{</world>}}

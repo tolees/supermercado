@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tecnológia 3 en 1: base, color enriquecido y top coat glossy todo en uno
+- Secado en tan solo 60 segundos
 - Resistente, optimo brillo y duradero
 - Esmalte de secado rápido
-- Secado en tan solo 60 segundos
-- Tecnológia 3 en 1: base, color enriquecido y top coat glossy todo en uno
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BCGPZQJ5{{</world>}}

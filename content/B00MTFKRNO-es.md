@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Largo post gusto levemente amargo e intenso
-- Tiene un aroma intenso con notas herbáceas y especiadas
-- Se recomienda servir frío
-- De color caoba con reflejos anaranjados
 - Adecuado como aperitivo, con diferentes tipos de platos
+- De color caoba con reflejos anaranjados
+- Se recomienda servir frío
+- Tiene un aroma intenso con notas herbáceas y especiadas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00MTFKRNO{{</world>}}

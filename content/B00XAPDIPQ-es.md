@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Haribo - Peces Payaso - Caramelo de goma - 1 kg'
-date: 2026-09-05 07:08:41
+date: 2026-09-30 03:32:00
 image: 'https://m.media-amazon.com/images/I/51+jJb5mj7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAPDIPQ/?tag=tolees-21'
 descuento: '33.01'
-average: '5.67172413793103'
+average: '5.66064516129032'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De distintos colores y sabores
-- Caramelos de goma
-- Deliciosas piezas con forma de peces payaso
-- Conservar en lugar fresco y seco
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XAPDIPQ{{</world>}}

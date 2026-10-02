@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Es una ginebra premium obtenida a través de la destilación de grano 100% americano
-- Entre sus botánicos destacan: enebro de Italia, cilantro de la República Checa, raíz de angélica, nuez moscada, canela, cacao, piel de naranjas españolas dulces y amargas, cardamomo de Sri Lanka y varios aceites esenciales
-- Mantiene un sabor clásico que combina notas de enebro con toques herbáceos
-- Para saborear al máximo este gin especial, se recomienda servir con hielo, tónica y un twist de limón
-- Es un gin con un ligero color oro, y un aroma suave a cítricos, botánicos y hierbas de tocador
 - Seagrams Dry Gin nace de la mezcla y la doble destilación en frío de finos y exóticos botánicos, junto a los alcoholes más neutros en alambiques centenarios
+- Es una ginebra premium obtenida a través de la destilación de grano 100% americano
+- Mantiene un sabor clásico que combina notas de enebro con toques herbáceos
+- Es un gin con un ligero color oro, y un aroma suave a cítricos, botánicos y hierbas de tocador
+- Entre sus botánicos destacan: enebro de Italia, cilantro de la República Checa, raíz de angélica, nuez moscada, canela, cacao, piel de naranjas españolas dulces y amargas, cardamomo de Sri Lanka y varios aceites esenciales
+- Para saborear al máximo este gin especial, se recomienda servir con hielo, tónica y un twist de limón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B008HKLWAM{{</world>}}

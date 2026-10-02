@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Colorete en polvo de terciopelo
-- Con un pigmento de coral suave, dale a esas mejillas un toque dulce con Melocotón Bliss
 - Explora nuestra gama de productos
+- Con un pigmento de coral suave, dale a esas mejillas un toque dulce con Melocotón Bliss
+- Colorete en polvo de terciopelo
 - Perfecto para complementar cualquier look de maquillaje
 
 [🛒 Visítala!!!]({{< param buyurl >}})

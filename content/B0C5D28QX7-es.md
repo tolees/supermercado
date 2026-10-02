@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- COMPATIBLE: Paquete de 2 unidades de 1 kg para máquinas de café automáticas y molinillos de café
-- ORIGEN: Mezcla de granos de café creada a partir de los mejores cafés Arábica de América y Robusta Africanos
-- PERFIL SENSORIAL: Café espresso puro, lleno de vitalidad con un toque de miel y fruta madura, aroma 12/15, cuerpo 12/15, acidez 11/15, equilibrio 12/15 e intensidad 12/15
 - CAFÉ EN GRANO: Café en grano entero elaborado con un tueste natural y lento, otorgando un sabor único e intenso
+- PERFIL SENSORIAL: Café espresso puro, lleno de vitalidad con un toque de miel y fruta madura, aroma 12/15, cuerpo 12/15, acidez 11/15, equilibrio 12/15 e intensidad 12/15
+- ORIGEN: Mezcla de granos de café creada a partir de los mejores cafés Arábica de América y Robusta Africanos
+- COMPATIBLE: Paquete de 2 unidades de 1 kg para máquinas de café automáticas y molinillos de café
 - CALIDAD DELTA CAFÉS: La combinación perfecta de granos que provienen de las mejores regiones productoras de café del mundo y del arte del tostado
 
 [🛒 Visítala!!!]({{< param buyurl >}})

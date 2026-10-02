@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 📝 LO QUE NECESITAS TENER EN CASA: Dos ollas de unos siete litros, un colador, una cuchara de madera, termómetro, azúcar y trece botellas vacías.
 - 📦 CONTENIDO: El kit de elaboración Brew Monkey incluye un fermentador con válvula de aire, un paquete de ingredientes con malta, lúpulo y levadura y un manual de instrucciones.
+- 📝 LO QUE NECESITAS TENER EN CASA: Dos ollas de unos siete litros, un colador, una cuchara de madera, termómetro, azúcar y trece botellas vacías.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B085Q5MNZX{{</world>}}

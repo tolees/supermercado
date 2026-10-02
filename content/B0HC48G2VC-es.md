@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beurer SC 11 Aqua Blue Bob Esponja cepillo de dientes eléctrico para niños'
-date: 2026-09-25 06:40:48
+date: 2026-10-01 08:41:07
 image: 'https://m.media-amazon.com/images/I/41DcpM+DrNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

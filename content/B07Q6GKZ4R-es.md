@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El Biosaccharide gum-2 previene la adhesión bacteriana, ayudando a proteger la piel.
-- Ayuda a calmar la piel gracias a la acción de la niacinamida.
 - La glicerina hidrata la piel a diario, ayudando a evitar la sequedad.
+- El Biosaccharide gum-2 previene la adhesión bacteriana, ayudando a proteger la piel.
 - Favorece la restauración de la barrera cutánea gracias a las ceramidas y a la L-isoleucina.
+- Ayuda a calmar la piel gracias a la acción de la niacinamida.
 - Su contenido en laureth-9 ayuda a aliviar el picor asociado a la piel atópica.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

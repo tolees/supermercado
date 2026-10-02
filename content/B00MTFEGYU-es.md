@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - CONTENIDO DEL ENVÍO – NIVEA SUN Protege & Refresca Spray Bruma Solar FP30, con protección UVA/UVB, 1 x 200 ml, bruma.
 - APLICACIÓN SENCILLA – Con su válvula de 360º, este protector hidratante se puede aplicar fácilmente en zonas inaccesibles y funciona desde cualquier ángulo.
-- BRUMA REFRESCANTE – Este spray solar con mentol crea una sensación de miles de gotas minúsculas que refrescan la piel, dejándola hidratada, fresca y sedosa.
 - FÓRMULA TRANSPARENTE – La fórmula transparente de esta bruma con protección solar no deja manchas blancas en la piel y es resistente al agua.
+- BRUMA REFRESCANTE – Este spray solar con mentol crea una sensación de miles de gotas minúsculas que refrescan la piel, dejándola hidratada, fresca y sedosa.
 - RÁPIDA ABSORCIÓN – Este protector solar hidratante con factor de protección 30 tiene una textura no grasa que se absorbe rápidamente y no es pegajosa.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pestañas con una longitud y volumen extremos
 - Levanta, extiende y da volumen a tus pestañas
+- Pestañas con una longitud y volumen extremos
 - Aplicar desde la raíz de la pestaña y deslizar hasta la punta haciendo zig-zag
 - Formulada con parafina y ceras de salvado de arroz, su fórmula negro azabache construye y potencia las pestañas
 

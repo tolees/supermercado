@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pack de 24 latas 33cl.
-- Una cerveza de color ámbar claro brillante con una espuma persistente y pálida.
-- Alc. 4,6% vol.
 - Notas a levadura y lúpulo.
+- Una cerveza de color ámbar claro brillante con una espuma persistente y pálida.
+- Pack de 24 latas 33cl.
 - Muy refrescante, especial para las altas temperaturas del sur.
+- Alc. 4,6% vol.
 - Temperatura recomendada: 4 a 6º.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

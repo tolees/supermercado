@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Maridaje: Armoniza perfectamente con platos suaves como arroces, quesos, patés, guisos, verduras, pescados…
 - Varietales: Tempranillo 100%
 - Nota de cata (boca): Desarrolla todo su potencial como fresco y expresivo, mostrando un vino equilibrado y agradable.
 - Ecológico, D.O.Ca. Rioja
-- Maridaje: Armoniza perfectamente con platos suaves como arroces, quesos, patés, guisos, verduras, pescados…
 - Nota de cata (vista): Intensidad alta de color rojo rubí, limpio y brillante, con reflejos granate en el borde de la copa.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

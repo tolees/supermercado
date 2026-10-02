@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contiene 2% de ácido salicílico
 - Acción anti-marcas y anti-manchas
-- Con fibras ultra suaves
 - Extrae los puntos negros
+- Con fibras ultra suaves
 - Desobstruye los poros el profundidad
+- Contiene 2% de ácido salicílico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00X9TQEOA{{</world>}}

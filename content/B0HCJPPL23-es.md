@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Don Algodón Babylon Set Regalo Hombre Eau de Parfum 100ml + Eau de Toilette 30ml. Bergamota Pimienta Rosa y Vetiver.'
-date: 2026-09-28 17:46:42
+date: 2026-09-30 23:28:17
 image: 'https://m.media-amazon.com/images/I/411u-yq7ANL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

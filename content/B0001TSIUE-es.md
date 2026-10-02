@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- de la mano de las marcas pioneras en el mercado
+- de la mano de las marcas pioneras en el mercado
 - JABON EN PASTILLA menta 140gr.
-- de la mano de las marcas pioneras en el mercado
-- de la mano de las marcas pioneras en el mercado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0001TSIUE{{</world>}}

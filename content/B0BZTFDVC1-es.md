@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disfruta de una fórmula enriquecida con glicerina y aceite de oliva que hidrata tus rizos a la vez que los protege de la humedad para mantener tu peinado durante todo el día.
 - Logra una definición intensa con un bálsamo capilar ligero que aporta elasticidad y volumen sin rigidez, garantizando un aspecto suave y natural.
-- Consigue un brillo intenso y reduce el encrespamiento con nuestro potenciador de rizos, ideal para definir todo tipo de rizos. ¡Solo tienes que añadirlo!
+- Disfruta de una fórmula enriquecida con glicerina y aceite de oliva que hidrata tus rizos a la vez que los protege de la humedad para mantener tu peinado durante todo el día.
 - Este bálsamo hace maravillas en el cabello ondulado, rizado y muy rizado, proporcionándole una textura suave y permitiendo deshacer fácilmente los peinados para un acabado liso.
+- Consigue un brillo intenso y reduce el encrespamiento con nuestro potenciador de rizos, ideal para definir todo tipo de rizos. ¡Solo tienes que añadirlo!
 - Realza tus rizos con la crema para rizos OSiS Bounty Balm de Schwarzkopf Professional, diseñada para reducir el encrespamiento, controlar el cabello suelto y aportar brillo y suavidad para conseguir rizos y ondas perfectamente definidos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

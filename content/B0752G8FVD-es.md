@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - El color se desliza suavemente a través de los labios
-- Fórmula con proteínas de seda que ayuda a hidratar los labios
 - Color intenso, sensación aterciopelada
+- Fórmula con proteínas de seda que ayuda a hidratar los labios
 - Fácil de aplicar
 - Barra de labios con hidratación y acabado matte satinado
 

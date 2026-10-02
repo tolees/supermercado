@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Regalo Navidad,Regalo Dia del Padre, Regalo Cumpleaños
 - Ramon Bilbao Edición Limitada
+- Regalo Navidad,Regalo Dia del Padre, Regalo Cumpleaños
 - Estuche Exclusivo
 - Estuche con 2 botellas de 0.75 L de Ramón Bilbao Edición Limitada
 - Estuche Regalo Vino Edicion Limitada

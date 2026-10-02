@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Clinique es un nombre de marca reconocido
 - Marca Clinique
+- Clinique es un nombre de marca reconocido
 - Productos de belleza y el cuidado personal
 - Tipo de producto Lapiz de ojos
 

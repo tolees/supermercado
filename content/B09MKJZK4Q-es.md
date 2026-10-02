@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Fácil de aplicar
 - Para un maquillaje óptimo
 - Producto de calidad óptima
-- Fácil de aplicar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09MKJZK4Q{{</world>}}

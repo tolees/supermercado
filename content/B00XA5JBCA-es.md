@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Normales
 - Standard 80 gr
+- Normales
 - Producto que combina tradición e innovación
 - Es para toda la familia
 

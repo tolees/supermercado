@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CK One Essence ofrece el doble de concentración que la icónica CK One EDT
-- Provocadora
-- Fresca
-- Las notas de salida de bergamota italiana chispeante y naranja sanguina añaden una intensidad vibrante a la fragancia
 - Una fragancia intensa para todos
-- Sensación limpia y sensual
-- Sin complejos
 - Los acordes de té verde orgánico se empapan en una cálida base de sándalo natural y almizcle suprarreciclado
+- Sensación limpia y sensual
+- CK One Essence ofrece el doble de concentración que la icónica CK One EDT
+- Fresca
+- Provocadora
+- Sin complejos
+- Las notas de salida de bergamota italiana chispeante y naranja sanguina añaden una intensidad vibrante a la fragancia
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTKVGNXN{{</world>}}

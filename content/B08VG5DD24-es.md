@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Con todo el poder antimanchas de Vanish
 - Detergente para la lavadora en formato gel con poder quitamanchas
 - Ropa sin manchas, limpia y con un extra de luminosidad
-- Con todo el poder antimanchas de Vanish
 - Elimina las manchas más difíciles de tu ropa incluso en agua fría
 - Descubre el resto de detergentes y limpialavadoras de Colon para una colada buena
 

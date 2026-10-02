@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 24 rollos por paquete
-- Doble capa
 - Suave y absorbente
+- 24 rollos por paquete
 - Muy resistente
+- Doble capa
 - Muy suave
 
 [🛒 Aquí!!!]({{< param buyurl >}})

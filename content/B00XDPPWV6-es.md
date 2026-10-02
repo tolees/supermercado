@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gallina Blanca · Sopinstant Crema de Espárragos con Picatostes'
-date: 2026-09-26 10:15:25
+date: 2026-09-30 00:41:19
 image: 'https://m.media-amazon.com/images/I/41PHVoJgslL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XDPPWV6/?tag=tolees-21'
 descuento: '31.03'
-average: '1.074'
+average: '1.06166666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

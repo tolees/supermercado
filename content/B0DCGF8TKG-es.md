@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Este envase contiene aproximadamente 16 porciones
 - Tostados y crujientes
-- Apto para dietas vegetarianas
 - Envasado en Alemania
 - Copos de maíz tostados
+- Apto para dietas vegetarianas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DCGF8TKG{{</world>}}

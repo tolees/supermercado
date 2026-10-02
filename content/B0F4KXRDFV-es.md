@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🍃 Formato sólido eco-friendly y fabricado de forma artesanal, rinde más que un champú líquido y reduce el uso de plásticos. Una apuesta por el cuidado responsable del cabello y el medioambiente.
-- 💚 Antioxidantes y vitaminas para el cabello Rico en Vitamina E, B-carotenos y Ascorbyl Palmitate. Fortalece la fibra capilar, aporta brillo y previene el envejecimiento capilar.
 - 🍋 Frescor cítrico con notas especiadas Aroma natural a Lemongrass y Canela, con propiedades tonificantes, antibacterianas y sebo-reguladoras.
 - 🌿 Fórmula 100% natural y biológica Aceites vegetales de oliva, sésamo, karité, girasol y zanahoria para nutrir, suavizar y revitalizar el cuero cabelludo.
+- 🍃 Formato sólido eco-friendly y fabricado de forma artesanal, rinde más que un champú líquido y reduce el uso de plásticos. Una apuesta por el cuidado responsable del cabello y el medioambiente.
+- 💚 Antioxidantes y vitaminas para el cabello Rico en Vitamina E, B-carotenos y Ascorbyl Palmitate. Fortalece la fibra capilar, aporta brillo y previene el envejecimiento capilar.
 - 🧼 Limpieza profunda sin resecar Con Shikakai, el “fruto para el cabello”, limpia suavemente y regula el sebo sin irritar. Ideal para cabellos grasos y mixtos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

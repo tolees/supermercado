@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PIZ BUIN Allergy Sun Sensitive Skin Lotion FPS 30 200 ml protector solar corporal con FP30 protección solar alta para pieles sensibles loción corporal con filtros UVA/UVB'
-date: 2026-09-22 16:14:15
+date: 2026-10-01 10:12:51
 image: 'https://m.media-amazon.com/images/I/31+YB90wjML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NKPKB7S/?tag=tolees-21'
 descuento: '50.92'
-average: '9.90651162790697'
+average: '9.87545454545454'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

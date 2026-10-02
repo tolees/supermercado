@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para pieles normales y grasas
 - Fija la base de maquillaje a tu piel para una mayor duración
-- Luce un acabado mate por más de 12 horas
-- Verifique el símbolo PAO (Período después de la apertura) que indica el tiempo de caducidad del producto, después de abrir el paquete
 - Controlla brillos y borra poros
+- Para pieles normales y grasas
 - Matifica tu piel
+- Verifique el símbolo PAO (Período después de la apertura) que indica el tiempo de caducidad del producto, después de abrir el paquete
+- Luce un acabado mate por más de 12 horas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B06XGM135P{{</world>}}

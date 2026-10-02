@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Olor intenso y duradero
 - Aroma fresco amaderado-especiado
+- Olor intenso y duradero
 - Fragancia adecuada para uso diario
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Gracias al sensor automático no hay el necesidad de tocar el dispensador de bomba, evitando el lugar donde se depositen más bacterias
-- Limpia perfectamente y desinfecta las manos y elimina 99.9% de las bacterias
-- Esta recarga para su uso con la máquina expendedora Dettol, conveniente y de ocio, que entrega la dosis de jabón justa
 - Viene en paquete de 3 unidades de 250 ml cada una
+- Esta recarga para su uso con la máquina expendedora Dettol, conveniente y de ocio, que entrega la dosis de jabón justa
+- Limpia perfectamente y desinfecta las manos y elimina 99.9% de las bacterias
+- Gracias al sensor automático no hay el necesidad de tocar el dispensador de bomba, evitando el lugar donde se depositen más bacterias
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00NNTD19C{{</world>}}

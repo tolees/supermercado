@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 📦 FORMATO AHORRO DE 2,5 KG + BARRAS DE LUCES LED: Gran tamaño para un consumo prolongado, acompañado de unas exclusivas barras de luces LED para iluminar tu espacio con estilo.
 - 🔥 ELABORACIÓN TRADICIONAL: Siguiendo un proceso artesanal que conserva la esencia del cacao, desde su recolección manual hasta su tueste y prensado.
-- 🌍 COMPROMISO CON LA SOSTENIBILIDAD: Cacao con certificación UTZ, garantizando prácticas de cultivo responsables con el medio ambiente y las comunidades productoras.
+- 📦 FORMATO AHORRO DE 2,5 KG + BARRAS DE LUCES LED: Gran tamaño para un consumo prolongado, acompañado de unas exclusivas barras de luces LED para iluminar tu espacio con estilo.
 - ☕ TEXTURA ÚNICA CON GRUMITOS: Al ser cacao natural, conserva su característica textura con grumitos, aportando una experiencia auténtica y deliciosa en cada sorbo.
+- 🌍 COMPROMISO CON LA SOSTENIBILIDAD: Cacao con certificación UTZ, garantizando prácticas de cultivo responsables con el medio ambiente y las comunidades productoras.
 - 🍫 CACAO NATURAL Y SIN ADITIVOS: Elaborado con cacao 100% natural, sin conservantes ni aditivos, manteniendo su sabor original y su textura característica.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

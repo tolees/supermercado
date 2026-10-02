@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Delicioso chocolate
 - Las Chiquilín de siempre, ahora, ¡con chocolate!
 - ¡Llévatelas donde quieras!
-- Delicioso chocolate
 - En prácticas bolsitas, ideal para merendar.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100 % arábica
-- 6 paquetes: 6 x 227 g, total 1,36 kg
-- El café tiene una acidez suave, con un fuerte sabor base de frutos secos acompañado de otras notas como el chocolate y el perfil es suave y equilibrado en general
-- Adecuado para cafeteras de émbolo, de filtro o italianas
-- Café de Brasil. Tostado y envasado en Bélgica
-- Intensidad: 3/5
 - CERTIFICACIÓN RAINFOREST ALLIANCE: La procedencia del café utilizado para este producto goza de la certificación Rainforest Alliance, lo que significa que no solo sabe bien, sino que también tiene un impacto positivo. Con cada compra, ayuda a cientos de agricultores y sus familias en todo el mundo, además de aportar su granito a la selva tropical; beber mejor es hacerlo mejor
+- 6 paquetes: 6 x 227 g, total 1,36 kg
+- 100 % arábica
+- El café tiene una acidez suave, con un fuerte sabor base de frutos secos acompañado de otras notas como el chocolate y el perfil es suave y equilibrado en general
+- Intensidad: 3/5
+- Café de Brasil. Tostado y envasado en Bélgica
+- Adecuado para cafeteras de émbolo, de filtro o italianas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08FRSWNPQ{{</world>}}

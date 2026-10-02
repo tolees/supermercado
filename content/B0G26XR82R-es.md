@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Proporciona protección durante 72 horas contra el mal olor.
-- Sin aluminio y sin alcohol.
 - Desodorante en formato stick 50ml.
+- Sin aluminio y sin alcohol.
 - Fragancia exclusiva con notas de vainilla negra, naranja y sándalo, diseñada para destacar con elegancia y frescura.
 - Desodorante Axe Stick Vanilla.
 

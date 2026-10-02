@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Neutrogena Ultra Sheer Solar Fluido Invisible Hidratante SPF 50 50 ml'
-date: 2026-09-25 22:59:56
+date: 2026-10-01 20:51:32
 image: 'https://m.media-amazon.com/images/I/41PINk19mFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FX37Q44G/?tag=tolees-21'
 descuento: '62.71'
-average: '11.9659999999999'
+average: '11.6545454545453'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

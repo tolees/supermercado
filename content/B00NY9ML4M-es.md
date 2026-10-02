@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los productos de la marca Revlon están fabricados con ingredientes de primera calidad
 - Redescubre la belleza que hay en ti
+- Los productos de la marca Revlon están fabricados con ingredientes de primera calidad
 - Sombra de ojos Colorstay Looks Book de Revlon
 - Productos de Maquillaje para Mujer
 

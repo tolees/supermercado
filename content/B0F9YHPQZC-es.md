@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sanex Men Active Control Desodorante Antitransp. Roll-On Hombre 6x50ml'
-date: 2026-09-28 15:10:11
+date: 2026-10-01 05:53:47
 image: 'https://m.media-amazon.com/images/I/41gBGPlU84L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F9YHPQZC/?tag=tolees-21'
 descuento: '19.15'
-average: '10.7473333333332'
+average: '10.7881249999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

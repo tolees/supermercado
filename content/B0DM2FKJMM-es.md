@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Perfume para mujer
+- Las notas de salida son flores, geranio rosa y jazmín
 - Adecuado para uso personal y también para regalar
 - La siguiente información se aplica a cada unidad del paquete
 - Las notas medias son rosa y musgo del bosque
-- Las notas de salida son flores, geranio rosa y jazmín
-- Perfume para mujer
 - Las notas de fondo son sándalo, musgo de roble y almizcle
 
 [🛒 Visítala!!!]({{< param buyurl >}})

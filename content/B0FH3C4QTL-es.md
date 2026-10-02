@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fabricado según la farmacopea europea
-- Instrucciones de uso: 1) vierte una pequeña cantidad de líquido (agua micelar, aceite de limpieza, tónico...) en la almohadilla; 2) presiona suavemente la almohadilla sobre tu piel; 3) limpia tu maquillaje; 4) enjuaga e hidrata
-- Hipoalergénico y dermatológicamente probado
-- 100 % algodón, suave y agradable para la piel
 - Textura dual: dos lados, un lado a rayas para quitar mejor el maquillaje y un lado liso para mimar tu piel
+- 100 % algodón, suave y agradable para la piel
+- Hipoalergénico y dermatológicamente probado
+- Instrucciones de uso: 1) vierte una pequeña cantidad de líquido (agua micelar, aceite de limpieza, tónico...) en la almohadilla; 2) presiona suavemente la almohadilla sobre tu piel; 3) limpia tu maquillaje; 4) enjuaga e hidrata
+- Fabricado según la farmacopea europea
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FH3C4QTL{{</world>}}

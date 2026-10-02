@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sin lactosa, sin gluten, sin azúcar: Ideal para personas con estas intolerancias.
-- Compromiso con la seguridad: Producido bajo estrictos estándares de calidad farmacéutica en Italia.
 - El único con Inteli-Esporas: llega 100% vivo al intestino, se multiplica y sobrevive hasta 12 días, ayudando a cuidar el equilibrio intestinal durante un periodo prolongado. Toma los 10 viales de la caja durante 10 días, y prevalecerá en tu intestino hasta 12 días más.
-- Certificado B Corp: Opella Healthcare España es una empresa certificada B Corp. Nos comprometemos con el bienestar de las personas y del planeta.
+- Compromiso con la seguridad: Producido bajo estrictos estándares de calidad farmacéutica en Italia.
 - Fácil y cómodo para toda la familia: Formato líquido, sin sabor ni olor, apto para adultos y niños desde 3 años. Solo 1 vial al día, directamente o diluido en otra bebida. Agitar bien antes de usar. Durante tratamiento con antibióticos, tomar entre dos tomas del medicamento.
-- ENTEROGERMINA – El probiótico número 1 del mundo
-- Fórmula respaldada por estudios científicos: Cada vial contiene 4.000 millones de esporas de Bacillus clausii de la cepa SIN; recomendada hace más de 65 años para desequilibrios intestinales.
+- Certificado B Corp: Opella Healthcare España es una empresa certificada B Corp. Nos comprometemos con el bienestar de las personas y del planeta.
 - Nutre tu flora intestinal. Un intestino saludable ayuda en casos de: Uso de antibióticos, trastornos digestivos, estrés o cambios en la dieta.
+- Fórmula respaldada por estudios científicos: Cada vial contiene 4.000 millones de esporas de Bacillus clausii de la cepa SIN; recomendada hace más de 65 años para desequilibrios intestinales.
+- Sin lactosa, sin gluten, sin azúcar: Ideal para personas con estas intolerancias.
+- ENTEROGERMINA – El probiótico número 1 del mundo
 - Sin necesidad de nevera.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- STARBUCKS Single-Origin Colombia Café en Grano, balanceado con notas a frutos secos
-- Comprometidos con el abastecimiento ético de café al 100% en colaboración con Conservation International
-- STARBUCKS Pike Place Roast Café en Grano, suave y con un toque de chocolate
-- Café balanceado y de cuerpo redondo con notas florales y a frutos secos; disfruta del café Starbucks en casa; tu café favorito sin salir de casa
 - Café con cuerpo y suaves toques de cacao y frutos secos tostados que equilibran la suave sensación en boca
+- STARBUCKS Pike Place Roast Café en Grano, suave y con un toque de chocolate
+- Comprometidos con el abastecimiento ético de café al 100% en colaboración con Conservation International
+- STARBUCKS Single-Origin Colombia Café en Grano, balanceado con notas a frutos secos
+- Café balanceado y de cuerpo redondo con notas florales y a frutos secos; disfruta del café Starbucks en casa; tu café favorito sin salir de casa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CHB4FTFL{{</world>}}

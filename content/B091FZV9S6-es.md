@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conservar en lugar limpio, fresco y seco. Mantener alejado de la acción de la luz solar.
-- Ingredientes: Granito de ALMEDRA
-- Alérgenos: Contiene almendra. Puede contener trazas de cacahuetes, de otros frutos de cáscara, soja, leche y derivados.
 - País de Origen: España/USA
+- Ingredientes: Granito de ALMEDRA
+- Conservar en lugar limpio, fresco y seco. Mantener alejado de la acción de la luz solar.
+- Alérgenos: Contiene almendra. Puede contener trazas de cacahuetes, de otros frutos de cáscara, soja, leche y derivados.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B091FZV9S6{{</world>}}

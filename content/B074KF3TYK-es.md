@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CUMLAUDE Serotogyn - Complemento Alimenticio Para Disminuir Los Sofocos Durante La Menopausia - 60 Cápsulas One size 100 ml'
-date: 2026-09-24 13:40:18
+date: 2026-09-30 17:48:38
 image: 'https://m.media-amazon.com/images/I/21+mT6nuR5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B074KF3TYK/?tag=tolees-21'
 descuento: '65.80'
-average: '15.6957575757576'
+average: '15.4926470588236'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

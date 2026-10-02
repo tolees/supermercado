@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- SABOR AUTÉNTICO COCA-COLA: Incluye tres bálsamos labiales Coca-Cola Lip Smacker con el auténtico sabor, guardados en un práctico y elegante bolso, ideal para llevar siempre contigo
 - SONRISAS EN TODO EL MUNDO: Desde 1973, Lip Smacker lleva sonrisas a los labios de los niños de todo el mundo a través de auténticas colecciones de Coca-Cola, Disney Princess, Frozen, Marvel y mucho más
 - LIP SMACKER COLECCIÓN COCA-COLA: ¡Descubre la línea exclusiva Lip Smacker inspirada en las icónicas bebidas Coca-Cola, para unos labios siempre perfumados, hidratados y con un sabor irresistible!
+- SABOR AUTÉNTICO COCA-COLA: Incluye tres bálsamos labiales Coca-Cola Lip Smacker con el auténtico sabor, guardados en un práctico y elegante bolso, ideal para llevar siempre contigo
 - HIDRATACIÓN PROLONGADA: Fórmula exclusiva que mantiene los labios suaves e hidratados durante mucho tiempo, protegiéndolos de la sequedad y el agrietamiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})

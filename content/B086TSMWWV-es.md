@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El auténtico sabor de siempre
 - Mantener en un lugar fresco y seco
 - Realizada por un proceso tradicional de secado
+- El auténtico sabor de siempre
 - Con ingredientes seleccionados y deshidratados
 - Sin conservantes
 

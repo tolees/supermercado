@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Enjuagar la boca con 2 pulverizaciones de producto sin diluir durante aproximadamente 1 minuto por la mañana y por la noche después de las comidas y de la higiene bucal diaria normal.
-- Mantenimiento mensual tras tratamiento intensivo con Clorexin 0,20%.
-- Eficacia clínicamente probada. Sin alcohol, probado con níquel Vaso medidor graduado incluido.
 - Sabor a menta especialmente agradable
+- Eficacia clínicamente probada. Sin alcohol, probado con níquel Vaso medidor graduado incluido.
+- Mantenimiento mensual tras tratamiento intensivo con Clorexin 0,20%.
+- Enjuagar la boca con 2 pulverizaciones de producto sin diluir durante aproximadamente 1 minuto por la mañana y por la noche después de las comidas y de la higiene bucal diaria normal.
 - SPDD (Sistema de protección de discromia dental), que ayuda a proteger los dientes de la pigmentación.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

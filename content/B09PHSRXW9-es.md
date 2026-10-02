@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Protege la sudoración eficazmente durante 48h.
-- Babaria desodorante antimanchas.
-- Formulado con vitamina B3 que ayuda a reducir las manchas en la piel y la producción de sebo.
-- Agitar bien antes de usar. Vaporizar sobre la axila manteniendo el producto a una distancia de 15cm.
 - Antitranspirante, 0% Alcohol.
+- Babaria desodorante antimanchas.
+- Protege la sudoración eficazmente durante 48h.
+- Agitar bien antes de usar. Vaporizar sobre la axila manteniendo el producto a una distancia de 15cm.
+- Formulado con vitamina B3 que ayuda a reducir las manchas en la piel y la producción de sebo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09PHSRXW9{{</world>}}

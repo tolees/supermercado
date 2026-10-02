@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Erborian - CC Crème con Centella Asiática - Crema Facial Iluminadora de Alta Definición y Maquillaje - Protección Solar SPF 30 - Cosmética Coreana - Caramel 15ml'
-date: 2026-09-27 23:21:08
+date: 2026-09-29 18:13:07
 image: 'https://m.media-amazon.com/images/I/21ggVLhmE8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FHBRLQHJ/?tag=tolees-21'
 descuento: '33.10'
-average: '15.1484210526316'
+average: '15.2285714285714'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

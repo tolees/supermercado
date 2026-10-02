@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'El Aguila Dorada Cerveza Lager Especial Pack Lata 24 x 33cl'
-date: 2026-09-28 17:28:13
+date: 2026-10-01 10:22:42
 image: 'https://m.media-amazon.com/images/I/41zyP+naJGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08NCP8MFH/?tag=tolees-21'
 descuento: '33.75'
-average: '14.380459770115'
+average: '14.3431460674158'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

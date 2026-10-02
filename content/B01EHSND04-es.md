@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Efecto inmediato excelente.
+- Amplio espectro de acción.
 - Dermatológicamente testado.
 - Excelente dermotolerancia, incluso en utilización a largo plazo, ya que aumenta la hidratación de la piel en un 30% cuando se usa con regularidad debido al skin care factor.
 - Formato líquido.
-- Amplio espectro de acción.
+- Efecto inmediato excelente.
 - Sterillium es un antiséptico hidroalcohólico para piel sana para la antisepsia higiénica y quirúrgica de manos por frotación.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

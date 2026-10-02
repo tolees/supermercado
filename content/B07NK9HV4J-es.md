@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Piz Buin Allergy Sun Sensitive Skin Lotion FPS 50 Protector Solar 200 ml'
-date: 2026-09-19 16:51:58
+date: 2026-09-30 02:07:23
 image: 'https://m.media-amazon.com/images/I/31uAk47xMmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NK9HV4J/?tag=tolees-21'
 descuento: '55.64'
-average: '8.17951388888894'
+average: '8.17623287671238'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

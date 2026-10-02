@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Inspirado en arte vibrante y estilo lugar en Nueva York
-- Ideal para cualquier ocasión
-- Cuenta con notas de hoja de violeta, cáscara de mandarina, fresia
 - Mezclado con capullos de amapola roja, oris, madera de teca, almizcle, ámbar
+- Ideal para cualquier ocasión
+- Inspirado en arte vibrante y estilo lugar en Nueva York
+- Cuenta con notas de hoja de violeta, cáscara de mandarina, fresia
 - Una fragancia elegante para mujeres modernas y artísticas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Conservar en lugar fresco y seco
 - Disfrutar de ellos a todas horas y en cualquier lugar
 - Producto de aperitivo de maíz horneado
-- Conservar en lugar fresco y seco
 - Ideal como snack
 
 [🛒 Comprar!!!]({{< param buyurl >}})

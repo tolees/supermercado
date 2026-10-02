@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Define tus rizos sin renunciar a la hidratación.
-- -AS I AM- Gel definidor/smoothing -227gr- Fijación fuerte y brillo extra - Apto método curly -
-- Ideal para cabellos tipo 2 (ondulado), tipo 3 (rizado y tipo 4 (afro)
 - Gel de peinado ligero que proporciona fijación de larga duración con propiedades acondicionadoras.
-- Apto para el Método Curly
+- -AS I AM- Gel definidor/smoothing -227gr- Fijación fuerte y brillo extra - Apto método curly -
 - Acabado suave.
+- Apto para el Método Curly
 - Fortificado con Aloe Vera, azúcar de raíz de remolacha y proteína de trigo, el gel aumenta el brillo, conserva la humedad y mantiene su peinado en su lugar sin darle peso al cabello ni escamas antiestéticas o acumulación.
+- Define tus rizos sin renunciar a la hidratación.
+- Ideal para cabellos tipo 2 (ondulado), tipo 3 (rizado y tipo 4 (afro)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B007IVTA0U{{</world>}}

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La siguiente información se aplica a cada unidad del paquete
 - Ligeramente seco, con sabor a roble que evoca el aroma de la galleta y un toque de canela, además de notas de tofe y manzana
-- Whisky single malt de Speyside, Escocia, de la gama Cardhu con un sabor intenso y un equilibrio entre fruta dulce, chocolate negro, tofe y especias
-- En 1811, Helen Cumming fundó Cardhu, una destilería llevada por una mujer. A su nuera, Elizabeth, se la conocía como la Reina del whisky por sus dotes de comerciante
-- El maestro mezclador Matthew Crow ha seleccionado cuidadosamente las barricas para crear un whisky single malt dulce, rico y delicado
 - Servir en una copa balón, solo o con un poco de agua; al servirlo con hielo Cardhu Gold Reserve desvela también sabores afrutados desconocidos
+- En 1811, Helen Cumming fundó Cardhu, una destilería llevada por una mujer. A su nuera, Elizabeth, se la conocía como la Reina del whisky por sus dotes de comerciante
+- La siguiente información se aplica a cada unidad del paquete
+- Whisky single malt de Speyside, Escocia, de la gama Cardhu con un sabor intenso y un equilibrio entre fruta dulce, chocolate negro, tofe y especias
+- El maestro mezclador Matthew Crow ha seleccionado cuidadosamente las barricas para crear un whisky single malt dulce, rico y delicado
 - Graduación alcohólica: 40 %
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

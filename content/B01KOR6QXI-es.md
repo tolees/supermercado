@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Velocidad de plastificado: 200 mm/min.
-- Grosor de lámina útil: máx. 200 mic (2 x 100 mic).
-- Incluye: Juego de láminas de plastificado, 5 x A4.
 - Tiempo de calentamiento rápido: solo 2-4 min.
+- Incluye: Juego de láminas de plastificado, 5 x A4.
+- Grosor de lámina útil: máx. 200 mic (2 x 100 mic).
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01KOR6QXI{{</world>}}

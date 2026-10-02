@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Nenuco Classic Jabón De Manos Con Fragancia Original Nenuco
 - Estimula Tus Sentidos Gracias A Su Suave Textura Y Olor
+- Contiene Extracto De Aloe Vera
 - Dermatológicamente Testado
 - Envase Práctico: Formato Pump Para Lavarse Las Manos
-- Contiene Extracto De Aloe Vera
-- Nenuco Classic Jabón De Manos Con Fragancia Original Nenuco
 - La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Huesos y articulaciones fuertes: Contribuye a unos huesos y articulaciones fuertes gracias a minerales, vitamina D, antioxidantes (vitaminas C, E), magnesio, sulfato de condroitina y glucosamina
-- Con ingredientes de calidad adecuada: Con ingredientes seleccionados de calidad adecuada
 - Fácil de digerir: Pollo y arroz, fuentes de proteínas e hidratos de carbono de fácil digestión
 - Condición corporal: Nivel de proteínas y calorías adaptado a su nivel de actividad moderado
+- Con ingredientes de calidad adecuada: Con ingredientes seleccionados de calidad adecuada
 - Pienso para perros senior medianos y grandes (+10kg)
 - Ayuda a mantener la movilidad y la masa muscular: Proteínas de calidad adecuada, ácidos grasos omega-3, sulfato de condroitina y glucosamina
 

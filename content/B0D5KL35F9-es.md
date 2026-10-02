@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Nos oponemos a los experimentos con animales; cosnova aparece internacionalmente con essence y CATRICE tanto en PETA Alemania como en PETA
-- Tono azul eléctrico
+- Volumen extremo
 - Fácil aplicación para un acabado impresionante
 - De larga duración, curvar, volumen extremo, alargar, color intenso
-- Volumen extremo
+- Tono azul eléctrico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D5KL35F9{{</world>}}

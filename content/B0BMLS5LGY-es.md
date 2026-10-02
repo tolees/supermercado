@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Dale chispa a tus platos y saborea la vida disfrutando con los tuyos. Prima, Salseo del bueno.
-- Sabor intenso
-- Misma receta ahora envasada en botella 100% reciclada
 - Ideal para dar sabor a tus patatas
+- Misma receta ahora envasada en botella 100% reciclada
+- Sabor intenso
 - Atrévete con el sabor intenso de la Salsa Brava PRIMA y dale ese sabor tan especial a tus patatas. Sin gluten.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

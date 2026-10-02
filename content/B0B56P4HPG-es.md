@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Descubre todas las marcas de EMP!
-- Parka con las siguientes características:
-- Básicos, Ropa de Calle
-- Ajuste : Normal
 - Abrigo || Ajuste normal || Color intenso || Material duradero
+- Ajuste : Normal
+- Descubre todas las marcas de EMP!
+- Básicos, Ropa de Calle
+- Parka con las siguientes características:
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B56P4HPG{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Consumirla entre 2 y 4 grados C para obtener sus máximas cualidades
-- Ingredientes: agua, malta pilsen, CEBADA tostada, lúpulo y la exclusiva levadura de Guinness
-- Cerveza negra de tipo ale y estilo stout
 - Cerveza nitrogenada de color negro rubí con una espuma cremosa blanca marfil y aroma a café torrefacto
+- Consumirla entre 2 y 4 grados C para obtener sus máximas cualidades
+- Cerveza negra de tipo ale y estilo stout
+- Ingredientes: agua, malta pilsen, CEBADA tostada, lúpulo y la exclusiva levadura de Guinness
 - Con 4.2% de alcohol en volumen
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

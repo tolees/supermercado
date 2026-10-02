@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se trata de una ginebra elaborada artesanalmente, presentada en una elegante botella
 - Primera ginebra brasileña en ganar la Doble Medalla de Oro en la San Francisco World Spirits Competition en 2019
+- Contiene, además de los ingredientes de una ginebra clásica, nuevos nuevos ingredientes como Victoria Regia, nueces de brasil y cacao orgánico
 - Una ginebra con un 51% de alcohol
 - Sabor intenso a bayas de enebro y un toque de especias y hierba
-- Contiene, además de los ingredientes de una ginebra clásica, nuevos nuevos ingredientes como Victoria Regia, nueces de brasil y cacao orgánico
+- Se trata de una ginebra elaborada artesanalmente, presentada en una elegante botella
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FDL26MGM{{</world>}}

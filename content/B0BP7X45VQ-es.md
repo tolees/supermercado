@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Infinitamente reciclable
+- Fragancia Premium Azúcar Moreno y Pimienta
+- Aerosol hasta 72h para que te sientas fresco durante todo el día
 - Axe Desodorante Aerosol 72h Copper Santal para Hombre Fragancia Azúcar Moreno y Pimienta 150ml
 - No testado en animales (PETA Approved)
-- Aerosol hasta 72h para que te sientas fresco durante todo el día
-- Fragancia Premium Azúcar Moreno y Pimienta
-- Infinitamente reciclable
 - Libre de aluminio
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

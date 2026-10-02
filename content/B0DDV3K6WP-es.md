@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 2 gel de ducha de 500 ml
+- Dermatológicamente probado: apto para todo tipo de piel
 - Modo de empleo: aplicar gel en las palmas húmedas o una esponja, masajear y luego enjuagar
 - Leche y miel: gel de ducha hidratante y cuidado para uso diario
-- Dermatológicamente probado: apto para todo tipo de piel
+- 2 gel de ducha de 500 ml
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DDV3K6WP{{</world>}}

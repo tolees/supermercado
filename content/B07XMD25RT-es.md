@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Basics Molinillo de café eléctrico negro'
-date: 2026-09-28 13:50:53
+date: 2026-10-01 06:51:48
 image: 'https://m.media-amazon.com/images/I/311nRAA3K2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XMD25RT/?tag=tolees-21'
 descuento: '29.76'
-average: '13.0016666666666'
+average: '12.48375'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

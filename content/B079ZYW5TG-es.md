@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ingredientes 100% naturales, sin gluten, sin colorantes ni conservantes
 - Comida española fácil de preparar: al baño maria, en cazo o al microondas
+- Ingredientes 100% naturales, sin gluten, sin colorantes ni conservantes
 - Disfruta de un plato típico de la cocina casera española, con la calidad de LITORAL
-- Deliciosa receta ligera con legumbres y espinacas
 - Receta 100% vegetal, baja en grasa
+- Deliciosa receta ligera con legumbres y espinacas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B079ZYW5TG{{</world>}}

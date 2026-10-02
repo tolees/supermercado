@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pasa mágicamente los patrones de luz coloridos de la muñeca Crystalina al collar de amuleto portátil.
 - Tanto la muñeca como el amuleto tienen LED multicolor que cambian de color y patrones cuando se agita. Diferentes patrones de luz significan diferentes cosas (sé valiente, practica la bondad).
 - Incluye soporte místico de luna que muestra tu muñeca y amuleto para un espectáculo de luz mágico
+- Pasa mágicamente los patrones de luz coloridos de la muñeca Crystalina al collar de amuleto portátil.
 - Comparte colores y patrones de luz especiales con amigos al unir tus muñecas o amuletos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

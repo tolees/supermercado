@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Producto sin gluten
 - Se pueden consumir directamente o mezclada con leche
 - De agricultura ecológica
 - Copos gruesos de avena
+- Producto sin gluten
 - Ideal como desayuno o merienda
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Mahou 5 Estrellas Cerveza Lager Dorada Pack 12 Botellines x 25cl'
-date: 2026-09-21 09:30:04
+title: 'Mahou 5 Estrellas Cerveza Lager Dorada Pack 12 Botellas x 25cl'
+date: 2026-10-01 09:26:04
 image: 'https://m.media-amazon.com/images/I/31xJR06kImL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00XDNTRIM-es Mahou 5 Estrellas Cerveza Lager Dorada Pack 12 Botellines...'
+slug: 'B00XDNTRIM-es Mahou 5 Estrellas Cerveza Lager Dorada Pack 12 Botellas x...'
 sku: 'B00XDNTRIM-es'
 tags: [ '5','cerveza','estrellas','mahou','🇪🇸', ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0
 comparePrice: 8.04 EUR
-prodname: 'Mahou 5 Estrellas Cerveza Lager Dorada Pack 12 Botellines x 25cl'
+prodname: 'Mahou 5 Estrellas Cerveza Lager Dorada Pack 12 Botellas x 25cl'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XDNTRIM/?tag=tolees-21'
 descuento: '37.81'
-average: '5.78166666666667'
+average: '5.7504'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

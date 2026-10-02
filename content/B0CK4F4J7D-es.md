@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Varios bolsillos para el DNI y las tarjetas de crédito
 - Sistema de cierre magnético
 - Soporte multiusos. Perfecto para ver películas
 - Diseño en cuero elaborado a mano
+- Varios bolsillos para el DNI y las tarjetas de crédito
 - Producto Head Case Designs Licenciado Oficialmente Peanuts
 
 [🛒 Visítala!!!]({{< param buyurl >}})

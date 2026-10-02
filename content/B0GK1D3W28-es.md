@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'H&S DermaXPro Mascarilla Hidratante para Pelo y Cuero Cabelludo 300ml'
-date: 2026-09-27 22:48:33
+date: 2026-09-30 21:26:37
 image: 'https://m.media-amazon.com/images/I/41rzp1n530L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

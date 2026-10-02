@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 100% Verdejo ecológico de la D.O. Rueda
-- Servir frío, a una temperatura de 6-8ºC
 - Maridaje: pescados, mariscos, quesos suaves, carnes blancas y pasta
-- Vino fresco y afrutado, con aromas a fruta de hueso y un fondo cítrico
+- Servir frío, a una temperatura de 6-8ºC
 - Crianza sobre lías, que aportan mayor complejidad y estructura al vino
 - 🌿 Vino blanco ecológico y sostenible
+- Vino fresco y afrutado, con aromas a fruta de hueso y un fondo cítrico
+- 100% Verdejo ecológico de la D.O. Rueda
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08W3D1FF1{{</world>}}

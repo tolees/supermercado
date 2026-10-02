@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Pasta de dientes con flúor para manchas dentales
+- Tiene un refrescante sabor a menta
 - Ayuda a blanquear los dientes
 - Contenedor práctico y fácil de almacenar
-- Tiene un refrescante sabor a menta
-- Pasta de dientes con flúor para manchas dentales
 - Para una higiene dental profunda
 
 [🛒 Aquí!!!]({{< param buyurl >}})

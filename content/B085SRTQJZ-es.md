@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sanytol - Limpiador Desinfectante Suelos y Superfícies Pack 4 x 1200 ml'
-date: 2026-09-29 04:31:52
+date: 2026-10-01 01:18:42
 image: 'https://m.media-amazon.com/images/I/41mBIneJ5PL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B085SRTQJZ/?tag=tolees-21'
 descuento: '3.58'
-average: '11.2028571428572'
+average: '11.1892307692309'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

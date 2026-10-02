@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hellmann s Gran Mayonesa Tarro 825ml - Pack de 2'
-date: 2026-08-16 13:31:32
+date: 2026-10-01 06:14:19
 image: 'https://m.media-amazon.com/images/I/41UTEAT0PyS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B01LZRX3AK-es Hellmann s Gran Mayonesa Tarro 825ml - Pack de 2'
 sku: 'B01LZRX3AK-es'
 tags: [ 'mayonesa','🇪🇸', ]
-actualPrice: 7.74 EUR
+actualPrice: 10.3 EUR
 currency: EUR
-price: 7.74
-comparePrice: 8.9 EUR
+price: 10.3
+comparePrice: 10.3 EUR
 prodname: 'Hellmann s Gran Mayonesa Tarro 825ml - Pack de 2'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZRX3AK/?tag=tolees-21'
-descuento: '13.03'
-average: '7.67346153846154'
+descuento: '0.00'
+average: '7.84035714285714'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,12 +28,6 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gran Mayonesa Hellmanns 825ml
-- Una mayonesa hecha con huevos de calidad y vinagre de vino blanco
-- Nº1 del mundo en ventas (marca líder en volumen de ventas. Fuente: consultora externa, Septiembre 2018)
-- Con aceite sostenible
-- Ingredientes de gran calidad, sabor inconfundible
-- Apta para vegetarianos y sin gluten
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01LZRX3AK{{</world>}}

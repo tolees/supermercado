@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tenga en cuenta que el embalaje del artículo puede variar
 - 340 ml
+- Tenga en cuenta que el embalaje del artículo puede variar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01H5VNALC{{</world>}}

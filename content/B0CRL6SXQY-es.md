@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Puños ajustables
 - Bolsillo en el pecho
+- Puños ajustables
 - Pliegue con lazo suelto en la parte posterior
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

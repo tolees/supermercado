@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - No transfiere ni se corre.
-- Waterproof y a prueba de manchas.
 - Este perfilador de ojos líquido en formato rotulador proporciona un negro intenso que dura hasta 24 horas
 - Perfecto para líneas finas o gruesas
+- Waterproof y a prueba de manchas.
 - Su punta delgada y cónica permite mucha flexibilidad para trabajar la curva de la línea de las pestañas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

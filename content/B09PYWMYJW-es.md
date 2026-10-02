@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Deliciosa naturalmente: agua pura de manantial. Burbujas. Fruta Wonky*
 - Sabor a mango de agua: nuestra agua de manantial con gas está impregnada con mangos torcidos para un toque veraniego de sabor
 - CALORÍAS DE AGUA SIN AZÚCAR - SIN EDULCANTES
-- Alternativa saludable al agua: nuestra agua con gas es la alternativa saludable perfecta a las bebidas gaseosas tradicionales: tienen un sabor delicioso, pero no incluyen azúcar, edulcorantes o calorías. Por último, una bebida para sentirse bien
 - MISIÓN DE AGUA – DASH está a la vanguardia de la nueva ola de refrescos saludables. Al aceptar a los inadaptados, estamos ayudando a combatir el desperdicio de alimentos
-- Deliciosa naturalmente: agua pura de manantial. Burbujas. Fruta Wonky*
+- Alternativa saludable al agua: nuestra agua con gas es la alternativa saludable perfecta a las bebidas gaseosas tradicionales: tienen un sabor delicioso, pero no incluyen azúcar, edulcorantes o calorías. Por último, una bebida para sentirse bien
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09PYWMYJW{{</world>}}

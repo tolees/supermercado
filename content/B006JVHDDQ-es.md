@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Estos deliciosos Nachips son óptimos para compartirlos y disfrutarlos con amigos, compañeros y toda la familia; guárdalos en un lugar fresco y seco
+- Los Nachips de Old El Paso elaborados con granos de maíz enteros son extra crujientes y resultan óptimos como tentempié entre horas gracias a su sabor único; los Nachips son una opción como snack saludable, al no tener ningún aditivo en su receta
 - Una opción versátil y divertida para picar: simplemente ponlos en un bol, cúbrelas con queso o dales un toque cremoso con una salsa para dipear: los Nachips de maíz son siempre una delicia; los Nachips son mucho más que un Nacho cualquiera
 - Los Nachips de maíz, horneados dos veces con aceite de girasol y con sabor a chile, complementan cualquier velada mexicana y proporcionan momentos de disfrute, con un toque picante
-- Los Nachips de Old El Paso elaborados con granos de maíz enteros son extra crujientes y resultan óptimos como tentempié entre horas gracias a su sabor único; los Nachips son una opción como snack saludable, al no tener ningún aditivo en su receta
-- Estos deliciosos Nachips son óptimos para compartirlos y disfrutarlos con amigos, compañeros y toda la familia; guárdalos en un lugar fresco y seco
 - Sin gluten y aptas para vegetarianos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

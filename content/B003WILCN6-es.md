@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 750 ml
 - Viña Esmeralda
+- 750 ml
 - Vino Blanco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

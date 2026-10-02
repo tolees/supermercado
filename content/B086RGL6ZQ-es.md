@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin aceite de palma
 - Elaborado con ingredientes procedentes de agricultura ecológica
-- Contiene huevos. Puede contener trazas de soja.
+- Sin aceite de palma
 - Certificado gluten free, apto para dietas celiacas
 - Rellenas de crema de albaricoque
+- Contiene huevos. Puede contener trazas de soja.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B086RGL6ZQ{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sin Azúcar Añadido
-- Sin Gluten
-- Sin Edulcorantes
 - Tostado Artesanal
+- Sin Gluten
 - Crema Cacahuete 100%
+- Sin Azúcar Añadido
+- Sin Edulcorantes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BXM23DYC{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Larios Ginebra Mediterránea Dry Gin 70cl'
-date: 2026-09-25 18:06:19
+date: 2026-10-01 10:21:37
 image: 'https://m.media-amazon.com/images/I/314ecw7fvRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XUNT40Q/?tag=tolees-21'
 descuento: '16.60'
-average: '8.30363636363636'
+average: '8.34769230769231'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

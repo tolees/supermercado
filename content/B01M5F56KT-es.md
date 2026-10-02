@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Felix Purina Felix Party Mix Ocean Snack premio para Gato No Aplica 8 Bolsas de 60 g'
-date: 2026-09-24 12:14:41
+date: 2026-10-01 10:02:32
 image: 'https://m.media-amazon.com/images/I/51WwXiQPeXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M5F56KT/?tag=tolees-21'
 descuento: '42.86'
-average: '9.13'
+average: '8.8475'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

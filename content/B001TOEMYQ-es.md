@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Se puede servir solo o como base para cócteles
-- Apto como regalo para una ocasión especial
 - El color es ámbar claro
-- Conservar en un lugar fresco y seco
 - En la boca es ligero, agradable, dulce
+- Apto como regalo para una ocasión especial
+- Conservar en un lugar fresco y seco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B001TOEMYQ{{</world>}}

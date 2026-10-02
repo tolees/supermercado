@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Apto para el uso diario
-- La siguiente información se aplica a cada unidad del paquete
-- Contiene 1/4 de crema hidratante
 - Gel de ducha delicado
-- Apto para piel normal e seca
+- La siguiente información se aplica a cada unidad del paquete
 - Dermatológicamente comprobado
+- Contiene 1/4 de crema hidratante
+- Apto para piel normal e seca
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F13XXJTV{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pack mixto de Pollo y Salmon
-- Para perros que disfrutan combinar pollo con el toque del mar.
 - Alimento completo y equilibrado para perros adultos de tamaño mini (1-10 kg)
 - En prácticos packs de 24 un x 100g
 - Digestión fácil: con inulina prebiótica que puede favorecer la digestión
+- Para perros que disfrutan combinar pollo con el toque del mar.
+- Pack mixto de Pollo y Salmon
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0GTB2X8J7{{</world>}}

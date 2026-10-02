@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Disponible en 7 tonos, desde un brillo sutil hasta un acabado satinado-mate, adaptándose a todos los tonos de piel
-- Ofrece un color intenso que perdura todo el día con un acabado luminoso y satinado-mate
-- Elaborado con una fórmula vegana que respeta los principios del bienestar animal y del cuidado de la piel
 - Su textura ligera permite una aplicación fluida y su color es modulable para ajustar la intensidad según tus preferencias
+- Elaborado con una fórmula vegana que respeta los principios del bienestar animal y del cuidado de la piel
+- Ofrece un color intenso que perdura todo el día con un acabado luminoso y satinado-mate
 - Enriquecido con ácido hialurónico y escualano, proporciona una hidratación profunda y un resplandor saludable
 
 [🛒 Comprar!!!]({{< param buyurl >}})

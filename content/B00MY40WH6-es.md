@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Textura de bizcocho suave y esponjoso, con una cremosa cobertura de chocolate
 - Preparado en polvo para tarta de chocolate Milka, fácil y rápida de preparar
+- Textura de bizcocho suave y esponjoso, con una cremosa cobertura de chocolate
 - Sabor chocolate con leche Milka, una deliciosa combinación para tus postres diarios o para una ocasión especial
 - Alérgenos: Contiene leche, trigo y soja; puede contener frutos de cáscara y huevo
 - Conservar en lugar fresco y seco; una vez preparado, conservar refrigerado

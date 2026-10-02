@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- cuidado médico de la piel de alta calidad
+- Fabricante: Beiersdorf AG Eucerin, Deutschland
 - para la piel sensible
 - Crema para aplicar en la piel
-- Fabricante: Beiersdorf AG Eucerin, Deutschland
+- cuidado médico de la piel de alta calidad
 - Dermocosméticos de la Farmacia (PZN: 02398107)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

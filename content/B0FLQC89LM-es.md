@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- FORMATO AHORRO DE 5,9 KG – Gran envase ideal para disfrutar del auténtico sabor de ColaCao durante mucho tiempo, perfecto para familias grandes o para quienes buscan un suministro duradero.
-- TEXTURA ÚNICA CON GRUMITOS: Al ser cacao natural, conserva su característica textura con grumitos, aportando una experiencia auténtica y deliciosa en cada sorbo.
-- ELABORACIÓN TRADICIONAL: Siguiendo un proceso artesanal que conserva la esencia del cacao, desde su recolección manual hasta su tueste y prensado.
 - CACAO NATURAL Y SIN ADITIVOS: Elaborado con cacao 100% natural, sin conservantes ni aditivos, manteniendo su sabor original y su textura característica.
 - COMPROMISO CON LA SOSTENIBILIDAD: Cacao sostenible, garantizando prácticas de cultivo responsables con el medio ambiente y las comunidades productoras.
+- ELABORACIÓN TRADICIONAL: Siguiendo un proceso artesanal que conserva la esencia del cacao, desde su recolección manual hasta su tueste y prensado.
+- FORMATO AHORRO DE 5,9 KG – Gran envase ideal para disfrutar del auténtico sabor de ColaCao durante mucho tiempo, perfecto para familias grandes o para quienes buscan un suministro duradero.
+- TEXTURA ÚNICA CON GRUMITOS: Al ser cacao natural, conserva su característica textura con grumitos, aportando una experiencia auténtica y deliciosa en cada sorbo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FLQC89LM{{</world>}}

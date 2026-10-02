@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Revlon Magic Flash 10En1 200Ml'
-date: 2026-09-26 10:34:49
+date: 2026-10-01 05:48:45
 image: 'https://m.media-amazon.com/images/I/31I8dqLzfyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0B4252KGM/?tag=tolees-21'
 descuento: '42.18'
-average: '4.338'
+average: '4.21470588235294'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

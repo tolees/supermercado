@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Atún claro en aceite de oliva La Española
-- La combinación óptima, lo mejor del mar y lo mejor de la tierra
-- Pensado para los amantes del aceite de oliva
 - Se debe conservar en un lugar fresco y seco
+- Pensado para los amantes del aceite de oliva
+- La combinación óptima, lo mejor del mar y lo mejor de la tierra
 - Adecuado para toda la familia
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

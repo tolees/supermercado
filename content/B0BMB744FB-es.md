@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Deliciosas piezas en forma de ladrillos recubiertos de pica
 - Geles dulces sabor fresa
+- Deliciosas piezas en forma de ladrillos recubiertos de pica
 - Irresistible sabor a fresa-nata
 
 [🛒 Comprar!!!]({{< param buyurl >}})

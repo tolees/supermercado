@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pantene Pro-V Repara y Protege Champú Reparador para Pelo Seco y Dañado 1L'
-date: 2026-09-28 19:34:44
+date: 2026-09-30 04:38:16
 image: 'https://m.media-amazon.com/images/I/31tJBXV0nTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DH4TJ4PD/?tag=tolees-21'
 descuento: '23.40'
-average: '9.81103448275865'
+average: '9.82000000000003'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

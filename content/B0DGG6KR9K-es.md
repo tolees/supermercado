@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Olay Retinol 24 Crema de Noche y Olay Vitamin C+ SPF30 Crema de Día 2x50ml'
-date: 2026-09-22 06:44:56
+date: 2026-09-30 03:22:54
 image: 'https://m.media-amazon.com/images/I/31VwPXD3d2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DGG6KR9K/?tag=tolees-21'
 descuento: '47.34'
-average: '34.5566666666667'
+average: '34.4075'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

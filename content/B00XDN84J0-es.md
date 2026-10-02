@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conservar en lugar fresco y seco
-- Contiene lactosa
-- Aperitivo de maíz horneado
 - Puede contener trazas de gluten
+- Aperitivo de maíz horneado
+- Contiene lactosa
+- Conservar en lugar fresco y seco
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XDN84J0{{</world>}}

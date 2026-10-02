@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- NIVEA CREMA MANOS A.VERA 100 ml
+- Producto nuevo
 - NIVEA es un nombre de marca reconocido
 - Producto de alta calidad
-- Producto nuevo
-- NIVEA CREMA MANOS A.VERA 100 ml
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07HQ9PJZY{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- AGUA DE COLONIA NENUCO: fragancia original de siempre que no reseca la piel, presentada en una edición especial Bluey
-- CHAMPÚ SUAVE: fórmula sin lágrimas, adecuada para el uso diario infantil
 - JABÓN LÍQUIDO: apto para cuerpo y manos, limpia suavemente sin resecar la piel
+- AGUA DE COLONIA NENUCO: fragancia original de siempre que no reseca la piel, presentada en una edición especial Bluey
 - MOCHILA BLUEY EDICIÓN LIMITADA: práctica y reutilizable, diseñada para acompañar a los niños en su rutina diaria
 - PACK CUIDADO INFANTIL COMPLETO – EDICIÓN LIMITADA BLUEY: incluye una mochila infantil Bluey de edición limitada con Colonia Nenuco 240 ml, Champú Suave 200 ml y Jabón Líquido 200 ml
+- CHAMPÚ SUAVE: fórmula sin lágrimas, adecuada para el uso diario infantil
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GZQ3FJ5Q{{</world>}}

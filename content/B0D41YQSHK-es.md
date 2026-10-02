@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Tosta Rica Fibra 760g'
-date: 2026-08-13 09:04:26
-image: 'https://m.media-amazon.com/images/I/413hhtLIVhL._SL500_._SL400_.jpg'
+date: 2026-09-30 03:09:24
+image: 'https://m.media-amazon.com/images/I/51XrvFyznXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0D41YQSHK-es Tosta Rica Fibra 760g'
 sku: 'B0D41YQSHK-es'
 tags: [ 'rica','tosta','🇪🇸', ]
-actualPrice: 3.71 EUR
+actualPrice: 3.3 EUR
 currency: EUR
-price: 3.71
+price: 3.3
 comparePrice: 4.25 EUR
 prodname: 'Tosta Rica Fibra 760g'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D41YQSHK/?tag=tolees-21'
-descuento: '12.71'
-average: '3.71'
+descuento: '22.35'
+average: '3.505'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Galletas con dibujos de los personajes favoritos de los niños
-- Nutritivas y deliciosas, con fibra añadida
-- Ideal para desayuno o como snack
-- Enriquecidas con 6 vitaminas, hierro, calcio y cereales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D41YQSHK{{</world>}}

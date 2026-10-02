@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B iO 2 Cepillo de Dientes Eléctrico con 1 Cabezal Rosa Suave'
-date: 2026-09-27 09:31:07
+date: 2026-10-01 10:07:17
 image: 'https://m.media-amazon.com/images/I/41etf-EodNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DP1SJ555/?tag=tolees-21'
 descuento: '47.09'
-average: '50.5125'
+average: '49.4'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

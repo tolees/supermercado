@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sprite Refresco de Lima Limón Sin Azúcar, una opción refrescante para disfrutar en cualquier momento del día
-- Combina extractos naturales de lima y limón, sin azúcar y con edulcorantes, además contiene una fuente de fenilalanina
 - Este pack incluye 6 botellas de 2L de Sprite, adecuado para compartir en reuniones con amigos y familiares
+- Combina extractos naturales de lima y limón, sin azúcar y con edulcorantes, además contiene una fuente de fenilalanina
 - Este refresco viene en un envase 100% reciclable, contribuyendo a la preservación del medio ambiente
+- Sprite Refresco de Lima Limón Sin Azúcar, una opción refrescante para disfrutar en cualquier momento del día
 - Sprite Sin Azúcar apaga tu sed y es perfecta para mezclar o acompañar tus comidas ¡Disfruta su frescura en cualquier momento!
 
 [🛒 Aquí!!!]({{< param buyurl >}})

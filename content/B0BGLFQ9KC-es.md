@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Triple complejo proteico que contiene proteínas de soja, arroz y quinoa; las proteínas contribuyen al mantenimiento de la masa muscular; apto para vegetarianos (5); no contiene edulcorantes ni colorantes
 - FUERZA Y ENERGÍA: Las proteínas pueden ayudar a aumentar la masa muscular, el calcio y la vitamina D para ayudar al funcionamiento normal de los músculos y a mantener los huesos en condiciones normales y, las vitaminas B2, B6, B12 contribuyen a la reducción del cansancio, la fatiga y al metabolismo energético normal
 - HMB: cada toma de 230 ml contiene 0,74 g de CaHMB (4)
+- Triple complejo proteico que contiene proteínas de soja, arroz y quinoa; las proteínas contribuyen al mantenimiento de la masa muscular; apto para vegetarianos (5); no contiene edulcorantes ni colorantes
 - DEFENSAS: Vitamina C que contribuye a la función normal del sistema inmunitario
 - SABOR: Delicioso sabor a Almendra
 

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sin sabores sintéticos, apto para veganos, cuidado total, sin gluten y SLES
 - Los extractos de plátano y hojas de arce fomentan la salud de las encías, y la hidroxiapatita y la l-arginina fortalecen y restauran el esmalte
+- Sin sabores sintéticos, apto para veganos, cuidado total, sin gluten y SLES
 - 24 Ingredientes de origen natural. 3 tipos de carbón de bambú, activado y vegetal
 - El extracto de piña que contiene bromelaína, una enzima que deshace la placa y blanquea con suavidad
 - Adecuado para toda la familia, adultos y niños mayores de 6 años. El empaque puede ser diferente

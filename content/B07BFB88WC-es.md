@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Género: Unisex
 - Recomendación de utilidad: Peau sensible
 - Eau micellaire Skinactive Garnier (400 ml) est un produit de qualité conçu pour les personnes exigeantes i prennent soin de leur image et recherchent les meilleurs cosmétiques pour mettre en valeur leur beauté. Si vous êtes lune de ces personnes, les produce 100 % sont originaux faits pour vous.
-- Género: Unisex
 - Capacidad: 400 ml
 
 [🛒 Aquí!!!]({{< param buyurl >}})

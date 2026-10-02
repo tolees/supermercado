@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepsi zero Lima Refresco de cola con cero azúcar y cero calorías pack de 24 latas de 330 ml 7.92 litros en total'
-date: 2026-09-17 17:39:20
+date: 2026-10-01 10:15:18
 image: 'https://m.media-amazon.com/images/I/51fRASPqFRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09STXBRK5/?tag=tolees-21'
 descuento: '10.67'
-average: '13.7514912280707'
+average: '13.791637931035'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

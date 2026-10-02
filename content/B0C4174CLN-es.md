@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Botella con un diseño lineal y moderno
 - Con notas vibrantes que combinan mandarina, melocotón y lichi
+- Botella con un diseño lineal y moderno
 - Mezcla flores refinadas y notas orientales con néctar floral
 
 [🛒 Comprar!!!]({{< param buyurl >}})

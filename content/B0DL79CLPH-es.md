@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 1 LITRO DE CONCENTRADO ECO-JIN = 15 LITROS DE DISOLUCION
-- ECO-JIN no emite vapores tóxicos, no contiene sulfatos, ni compuestos de amonio, ni amoniacos, ni ftalatos, ni lejías…
 - Eco-Jin 1 LITRO AROMA A ELEGIR CON DIFUSOR
+- ECO-JIN no emite vapores tóxicos, no contiene sulfatos, ni compuestos de amonio, ni amoniacos, ni ftalatos, ni lejías…
 - EL DIFUSOR ES NECESARIO PARA HACER LA CORRECTA DISOLUCION CON AGUA PARA SU USO.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

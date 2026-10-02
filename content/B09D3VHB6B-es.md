@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Recortadora de barba Style Master de King C. Gillette inalámbrica con 45 minutos de autonomía tras 1 carga completa
 - La recortadora de barba Style Master, totalmente resistente al agua, presenta un mango estrecho de goma de fácil agarre para una precisión máxima
-- Para un afeitado, perfilado y recorte versátiles, tanto con movimientos hacia arriba como hacia abajo
 - Eficacia, afeitado apurado y comodidad de la piel gracias a la tecnología CenterCut
+- Para un afeitado, perfilado y recorte versátiles, tanto con movimientos hacia arriba como hacia abajo
 - Incluye 1 hoja 4D reemplazable de larga duración que se mantiene afilada hasta 6 meses y 3 peines intercambiables con diferentes longitudes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

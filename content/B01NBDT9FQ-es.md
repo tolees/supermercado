@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- De color rojo cereza
 - Conservar en un lugar fresco y seco
-- Ideal para acompañar embutidos, arroces, verduras, setas, carnes blancas y rojas
 - Limpio y brillante
+- Ideal para acompañar embutidos, arroces, verduras, setas, carnes blancas y rojas
+- De color rojo cereza
 - Notas de fruta, sobre un fondo de madera tostada y suaves aromas de vainilla, coco y especias
 
 [🛒 Comprar!!!]({{< param buyurl >}})

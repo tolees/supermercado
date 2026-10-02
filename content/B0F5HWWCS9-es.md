@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aromas florales frescos
 - Ideal con platos de ostras al estilo del sudoeste
-- Bebida de aspecto claro
 - Ideal para preparar cócteles
+- Bebida de aspecto claro
+- Aromas florales frescos
 - Die folgenden Informationen gelten für jede Einheit pro Packung
 - Con notas cítricas fuertes
 - La siguiente información se aplica a cada unidad del paquete

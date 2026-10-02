@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Envase 100% reciclable
+- Aplicar sobre cabello mojado después del champú, masajeando de largos a puntas. Dejar actuar de 2 a 3 minutos y luego aclarar
 - 340 ml
 - La Mascarilla Capilar de Oliva Mítica nutre intensamente sin apelmazar tu pelo dejándolo intensamente nutrido, ligero y suave
-- Aplicar sobre cabello mojado después del champú, masajeando de largos a puntas. Dejar actuar de 2 a 3 minutos y luego aclarar
 - Formulado con Aceite de Oliva rico en ácidos grasos y Vitamina E, se usa desde la antigüedad por sus propiedades altamente nutritivas, suavizantes y reparadoras
-- Envase 100% reciclable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00X9UBKAW{{</world>}}

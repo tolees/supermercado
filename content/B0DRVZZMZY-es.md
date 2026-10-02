@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chicco Sensitive Corazón de Talco Suavizante Concentrado Intensa Frescura y Suavidad 0+ Meses - 750 ml Paquete de 3'
-date: 2026-09-24 12:36:52
+date: 2026-09-30 00:24:35
 image: 'https://m.media-amazon.com/images/I/41Wws9d0kwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

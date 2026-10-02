@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🫒【SABOR VERDE Y ESTRUCTURADO】: Notas herbáceas, amargor medio y picante equilibrado característico del aceite picual; ideal para carnes, tostadas y cocina gourmet.
 - 🫒【PRENSADO EN FRÍO · PRIMERA EXTRACCIÓN】: Elaborado mediante prensado en frío para conservar antioxidantes, aromas naturales y todas sus propiedades esenciales.
 - 🫒【ORIGEN ESPAÑA · DOP LA MANCHA】: Aceite de oliva virgen extra español con denominación de origen; olive oil premium para uso diario exigente o como regalo.
 - 🫒【BOTELLA DE VIDRIO 500 ML】: Presentación premium en botella de vidrio de 500 ml, diseñada para preservar la calidad del aceite y ofrecer una experiencia elegante.
+- 🫒【SABOR VERDE Y ESTRUCTURADO】: Notas herbáceas, amargor medio y picante equilibrado característico del aceite picual; ideal para carnes, tostadas y cocina gourmet.
 - 🫒【AOVE PICUAL DE PERFIL INTENSO】: Aceite de oliva virgen extra variedad picual, con carácter marcado y personalidad; aove gourmet pensado para quienes buscan sabor potente y autenticidad.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

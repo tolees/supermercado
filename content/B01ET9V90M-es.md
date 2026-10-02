@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pata Negra Roble - Vino Tinto D.O. Toro - Caja de 6 Botellas x 750 ml'
-date: 2026-09-27 12:55:01
+date: 2026-10-01 01:23:12
 image: 'https://m.media-amazon.com/images/I/51TnOdrqzlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ET9V90M/?tag=tolees-21'
 descuento: '37.89'
-average: '25.704'
+average: '25.4562962962963'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

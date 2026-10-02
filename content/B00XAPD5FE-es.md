@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Deliciosas piezas en forma de botellas cola grandes
-- Conservar en lugar fresco y seco
 - Caramelos de goma
 - Intenso sabor a cola
+- Conservar en lugar fresco y seco
+- Deliciosas piezas en forma de botellas cola grandes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XAPD5FE{{</world>}}

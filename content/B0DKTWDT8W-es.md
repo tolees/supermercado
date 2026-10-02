@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Galletas tradicionales con pepitas de chocolate
 - Elaboración tradicional
+- Galletas tradicionales con pepitas de chocolate
 - Con una textura cremosa
 
 [🛒 Aquí!!!]({{< param buyurl >}})

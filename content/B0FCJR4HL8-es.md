@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuero martillado con asas largas y logotipo grabado.
 - Gran compartimento central con cremallera y bolsillos.
 - Bolso grande estructurado para el trabajo y el ocio.
+- Cuero martillado con asas largas y logotipo grabado.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FCJR4HL8{{</world>}}

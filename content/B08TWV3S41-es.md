@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Acondicionador hidratante que humecta, repara y fortalece
 - Es un regalo adecuado en cualquier momento
 - Fácil de usar
+- Acondicionador hidratante que humecta, repara y fortalece
 - Olaplex Bond Maintenance Acondicionador Nº-5 250 ml
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

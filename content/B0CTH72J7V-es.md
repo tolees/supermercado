@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Apto para dietas vegetarianas
-- Pasta sin gluten a base de harina de maiz y harina de arroz
-- Este envase contiene aproximadamente 6 porciones
-- Envasado en Italia
 - Conservar en un lugar fresco y seco
+- Envasado en Italia
+- Apto para dietas vegetarianas
+- Este envase contiene aproximadamente 6 porciones
+- Pasta sin gluten a base de harina de maiz y harina de arroz
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CTH72J7V{{</world>}}

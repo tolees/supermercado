@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Envasado en atmósfera protectora
-- Café soluble natural
 - Se disuelve en agua o leche
-- Una vez abierto conservar en un recipiente hermético
+- Café soluble natural
+- Envasado en atmósfera protectora
 - Fácil y rápido de preparar
+- Una vez abierto conservar en un recipiente hermético
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00XABHK04{{</world>}}

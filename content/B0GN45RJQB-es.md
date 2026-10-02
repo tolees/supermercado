@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 6 Packs de 4 latas de 25cl. Total: 24 Latas
 - Perfecta para refrescarse en cualquier momento del día. ¡Servir bien fría!
+- 6 Packs de 4 latas de 25cl. Total: 24 Latas
+- Una alternativa saludable a los refrescos. Bajo en calorías
 - Una combinación de intensas burbujas, zumo de frutas y sabores naturales para una experiencia única y sofisticada de cóctel sin alcohol. Inspirado en el cóctel Daiquiri red
 - Bebida refrescante aromatizada a base de agua con gas carbónico añadido y zumos de fresa y grosella negra. Inspirada en el cóctel Daiquiri Red.
-- Una alternativa saludable a los refrescos. Bajo en calorías
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GN45RJQB{{</world>}}

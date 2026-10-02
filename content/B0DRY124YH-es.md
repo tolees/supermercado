@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - La siguiente información se aplica a cada unidad del paquete
-- Rizos vivos y elásticos
-- Con activo hidratante
 - Espuma con cinco acciones
+- Con activo hidratante
+- Rizos vivos y elásticos
 - Extracto de bambú
 
 [🛒 Comprar!!!]({{< param buyurl >}})

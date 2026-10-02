@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Johnson s Baby bastoncillos para bebés niños y adultos 1 x 100 unidades bastoncillos para los oídos con puntas 100% de algodón puro y palitos 100% de papel'
-date: 2026-09-28 07:54:36
+date: 2026-10-01 07:28:07
 image: 'https://m.media-amazon.com/images/I/41MMWHSxEuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00P11GW0U/?tag=tolees-21'
 descuento: '58.16'
-average: '1.26058823529412'
+average: '1.24611111111111'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

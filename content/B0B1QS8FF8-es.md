@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Modo de uso: Usar diariamente con aclarado bajo la ducha, masajeando en la barba, cabello y rostro
-- Descubre nuestro 1º Champú 3 en 1 para Barba, Cabello y Rostro Barber Club.
-- Beneficios: En la barba: elimina restos de descamación, residuos y olores. En el cabello: limpia y suaviza el cabello. En el rostro: refresca y puriﬁca cuidadosamente la piel.
 - Fórmula enriquecida con Aceite Esencial de Madera de Cedro, para un cuidado experto de tu barba, cabello y rostro.
+- Modo de uso: Usar diariamente con aclarado bajo la ducha, masajeando en la barba, cabello y rostro
+- Beneficios: En la barba: elimina restos de descamación, residuos y olores. En el cabello: limpia y suaviza el cabello. En el rostro: refresca y puriﬁca cuidadosamente la piel.
+- Descubre nuestro 1º Champú 3 en 1 para Barba, Cabello y Rostro Barber Club.
 - Contenido: 1x LOréal Men Expert Barber Club Champú 3 en 1: Barba + Cabello + Rostro 400 ml.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

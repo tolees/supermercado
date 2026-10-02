@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate Max White Pincel Blanqueador Dental Nocturno 2 5ml'
-date: 2026-09-26 10:49:48
+date: 2026-09-30 02:06:31
 image: 'https://m.media-amazon.com/images/I/41dRCeh9-pL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -29,14 +29,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Puede contener ocasionalmente trozos de cáscara
-- Apto para dietas vegetarianas y veganas
-- La siguiente información se aplica a cada unidad del paquete
-- Alto contenido de fibra
-- Envasado en atmósfera protectora para mantener su frescura
-- Fuente de proteínas
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
-- Los niños pequeños se pueden atragantar con los frutos secos
 - No apto para alérgicos a otros frutos de cáscara y a los cacahuetes, debido al método de producción
+- Alto contenido de fibra
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
+- La siguiente información se aplica a cada unidad del paquete
+- Fuente de proteínas
+- Los niños pequeños se pueden atragantar con los frutos secos
+- Apto para dietas vegetarianas y veganas
+- Envasado en atmósfera protectora para mantener su frescura
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DX86CB7D{{</world>}}

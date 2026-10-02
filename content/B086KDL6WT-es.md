@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Listerine Cuidado Total Protección Dientes y Encías Enjuague Bucal 2 x1 L'
-date: 2026-09-27 13:17:03
+date: 2026-09-30 00:02:37
 image: 'https://m.media-amazon.com/images/I/51LGSJhtpzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B086KDL6WT/?tag=tolees-21'
 descuento: '19.26'
-average: '10.4162727272725'
+average: '10.4304504504502'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

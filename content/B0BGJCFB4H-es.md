@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Disfruta con alegría y diversión en cualquier momento
-- Clásicos caramelos de goma con forma de tajada de sandia
 - Combina una irresistible textura y un delicioso interior de gelatina de fresa.
+- Clásicos caramelos de goma con forma de tajada de sandia
+- Disfruta con alegría y diversión en cualquier momento
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BGJCFB4H{{</world>}}

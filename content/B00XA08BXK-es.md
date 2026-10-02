@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ricas en fibra
+- Mantener en lugar fresco y seco
 - Contiene trigo, soja, leche
+- Ricas en fibra
 - Con vitamina B6, B3 y ácido fólico
 - Sin aromas ni conservantes artificiales
-- Mantener en lugar fresco y seco
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00XA08BXK{{</world>}}

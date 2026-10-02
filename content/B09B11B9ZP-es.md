@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Apto para usuarios de lentes de contacto
-- Contiene hialuronato de sodio, una sustancia con elevadas propiedades viscoelásticas que aumenta la lubricación y aporta comodidad, especialmente a los ojos cansados
-- Envase de 60 toallitas
-- El embalaje puede variar de las imágenes mostradas. Este producto era anteriormente un producto de Amazon Basic Care. Ahora es parte de la marca Healthcare by Amazon. El producto tiene exactamente las mismas formulaciones, tamaño, calidad y el proveedor es el mismo.
-- Este es un dispositivo médico
 - Toallita húmeda desechable indicada para el tratamiento tópico diario de la zona periocular en adultos y niños. Se recomienda en la higiene diaria y la retirada del maquillaje
 - Para uso en personas que sufren blefaritis y conjuntivitis
+- Contiene hialuronato de sodio, una sustancia con elevadas propiedades viscoelásticas que aumenta la lubricación y aporta comodidad, especialmente a los ojos cansados
+- Este es un dispositivo médico
+- Envase de 60 toallitas
+- El embalaje puede variar de las imágenes mostradas. Este producto era anteriormente un producto de Amazon Basic Care. Ahora es parte de la marca Healthcare by Amazon. El producto tiene exactamente las mismas formulaciones, tamaño, calidad y el proveedor es el mismo.
+- Apto para usuarios de lentes de contacto
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09B11B9ZP{{</world>}}

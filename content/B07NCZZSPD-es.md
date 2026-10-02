@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Maquillaje: Bases, sombras, labiales y delineadores para realzar la belleza.
-- Fragancias: Perfumes y colonias que ofrecen aromas únicos y atractivos.
-- Cuidado de la piel: Hidratantes, limpiadores, exfoliantes y sérums para una piel saludable.
 - Accesorios de belleza: Brochas, esponjas y herramientas para la aplicación de maquillaje.
+- Cuidado de la piel: Hidratantes, limpiadores, exfoliantes y sérums para una piel saludable.
+- Fragancias: Perfumes y colonias que ofrecen aromas únicos y atractivos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07NCZZSPD{{</world>}}

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Ganador de la medalla de oro en la San Francisco World Spirits Competition de 2016
+- Dalwhinnie 15 años revela sus notas dulces de malta y miel cuando se sirve en un vaso de whisky o un vaso congelado
 - Carácter meloso y suaves notas de brezo
 - Dalwhinnie 15 Year Old es un whisky escocés single malt procedente de las Tierras Altas, de una de las destilería escocesas más frías y situada a mayor altitud
-- Dalwhinnie 15 años revela sus notas dulces de malta y miel cuando se sirve en un vaso de whisky o un vaso congelado
 - Dalwhinnie se destila en las salvajes Tierras Altas de Escocia, la región más fría del país; el agua se extrae de Allt-an-tsluic, un manantial a 600 m de altitud en la colina de Drumochter
 - El regalo idóneo para iniciarse en el mundo de Dalwhinnie y los whiskies single malt o puros de malta
 

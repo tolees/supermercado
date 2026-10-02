@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 90% de ingredientes de origen natural incluyendo agua
-- El champú Total Repair de Gliss es adecuado para cabello seco
-- Gama Reparación con keratina hidrolizada + néctar floral, protege la fibra capilar y embellece la superficie del cabello
 - Hasta un 85% menos de rotura del cabello. Cabello Suave y brillante
+- 90% de ingredientes de origen natural incluyendo agua
 - Aplicación: masajear sobre el cabello húmedo. Aclarar con abundante agua. Usar regularmente
+- Gama Reparación con keratina hidrolizada + néctar floral, protege la fibra capilar y embellece la superficie del cabello
+- El champú Total Repair de Gliss es adecuado para cabello seco
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B071SDY9ZG{{</world>}}

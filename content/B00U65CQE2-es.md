@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Temporizador digital programable de 24 horas y visor de nivel del agua
-- Dispone de placa calefactora automática y soporte de filtro lavable
 - Opción de preparación de 4 a 12 tazas, función de mantenimiento del calor, pausar y servir
-- Jarra de cristal con capacidad para 12 tazas (1,25 litros)
 - Molinillo incluído y selector digital de molienda: grueso o fino, filtro permanente con soporte de filtro extraíble
+- Jarra de cristal con capacidad para 12 tazas (1,25 litros)
+- Dispone de placa calefactora automática y soporte de filtro lavable
+- Temporizador digital programable de 24 horas y visor de nivel del agua
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00U65CQE2{{</world>}}

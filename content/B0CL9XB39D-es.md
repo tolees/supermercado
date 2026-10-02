@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mantener en un lugar fresco y seco
-- Ideal para compartir
-- La siguiente información se aplica a cada unidad del paquete
-- Cacahuetes seleccionados de alta calidad
 - Cubiertas con una cáscara crujiente
+- La siguiente información se aplica a cada unidad del paquete
+- Ideal para compartir
 - Con delicioso chocolate con leche
+- Cacahuetes seleccionados de alta calidad
+- Mantener en un lugar fresco y seco
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CL9XB39D{{</world>}}

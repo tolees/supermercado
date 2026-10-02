@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Milka se compromete con la sostenibilidad a través de su programa Cocoa Life, asegurando un cacao responsable con un futuro brillante para las comunidades productoras
-- Milka Sensations Galleta Cookie con Pepitas de Chocolate maxi es un dulce tentempié para disfrutar en cualquier momento
 - Disfruta de las galletas Milka Sensations en desayunos, meriendas o como un delicioso snack para compartir con familiares o amigos
+- Milka Sensations Galleta Cookie con Pepitas de Chocolate maxi es un dulce tentempié para disfrutar en cualquier momento
 - Presentadas en un paquete maxi de 312 g, contiene 12 galletas pensadas para compartir, llevar al trabajo o disfrutar en familia
+- Milka se compromete con la sostenibilidad a través de su programa Cocoa Life, asegurando un cacao responsable con un futuro brillante para las comunidades productoras
 - Estas galletas están rellenas de un cremoso chocolate con leche de los Alpes y cubiertas con pepitas de chocolate, proporcionando una textura y un sabor irresistible
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'essence Prebase de sombra de ojos jelly GRIP EYESHADOW Sombra ojos 4ml'
-date: 2026-09-19 12:14:51
+date: 2026-10-01 10:03:28
 image: 'https://m.media-amazon.com/images/I/31S4n8WZR5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FK5KM2ZZ/?tag=tolees-21'
 descuento: '44.57'
-average: '2.19333333333333'
+average: '2.1425'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

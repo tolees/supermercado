@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Sin gluten; Sin colorantes ni conservantes; Sin aceite de palma
 - Elaborado en Italia según la regla del «Buono Buonissimo» (ingredientes naturales, con menos azúcares y sin aditivos artificiales)
-- Se presentan en un elegante minilibro de metal con la imagen de la ciudad de Dante Alighieri
 - Selección de cremosos bombones Cremino, perfectos para los amantes del chocolate untuoso
 - El libro perfecto para que lo hojeen los más golosos: dulce poesía tan creativa y asombrosa como la ciudad de Florencia
+- Se presentan en un elegante minilibro de metal con la imagen de la ciudad de Dante Alighieri
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BQJNGJ82{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gallina Blanca Caldo Casero de Pollo 1L Paquete de 2'
-date: 2026-09-27 21:41:31
+date: 2026-10-01 23:15:56
 image: 'https://m.media-amazon.com/images/I/51Vzr7OmSsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B093RG99TP/?tag=tolees-21'
 descuento: '0.00'
-average: '4.28666666666667'
+average: '4.2775'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Despierta la vitalidad de tu cabello con los productos para el pelo para tu rutina de brillo Lamellar Shine.
 - Incluye un champú Lamellar Shine 400ml, un acondicionador Lamellar Shine 400ml, el sérum Lamellar Shine y el aceite Lamellar Shine 75ml, para un acabado de salón con Brillo Ultra Gloss.
-- Tecnología Lamellar Shine, envuelve las fibras capilares para corregir, suavizar y alinear tu cabello para un acabado ultra brillante.
-- DEFINE LA MEJOR VERSIÓN DE TU CABELLO CON TRESEMMÉ.
 - Tu rutina completa Lamellar Shine dentro de un pack neceser de productos para el pelo para conseguir 72h BRILLO ULTRA GLOSS*.
+- DEFINE LA MEJOR VERSIÓN DE TU CABELLO CON TRESEMMÉ.
+- Tecnología Lamellar Shine, envuelve las fibras capilares para corregir, suavizar y alinear tu cabello para un acabado ultra brillante.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FXH62PDW{{</world>}}

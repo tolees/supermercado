@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Snack para perros
 - En bolsa con autocierre
+- Snack para perros
 - Con pollo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

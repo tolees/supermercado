@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con un toque de aceite de oliva
 - Sin conservantes ni colorantes artificiales
-- Fuente de fibra, magnesio, vitamina E y fósforo
+- Con un toque de aceite de oliva
 - Pipas de girasol con sal marina
+- Fuente de fibra, magnesio, vitamina E y fósforo
 - Conservar en lugar fresco y seco
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- APTO PARA TODO TIPO DE CABELLO: Adecuado para todo tipo de cabello de niños, incluido el cabello rizado y grueso.
-- PERFECTO PARA EL CUIDADO DIARIO: Proporciona hidratación y protege contra la deshidratación.
-- ESPECIALMENTE PARA PIELES SENSIBLES: Todos los productos Naïf están elaborados con ingredientes naturales, están dermatológicamente probados y libres de SLES, microplásticos, parabenos y aceites minerales.
 - FRAGANCIA SUAVE: Huele celestial sin los 26 alérgenos más comunes.
+- ESPECIALMENTE PARA PIELES SENSIBLES: Todos los productos Naïf están elaborados con ingredientes naturales, están dermatológicamente probados y libres de SLES, microplásticos, parabenos y aceites minerales.
+- PERFECTO PARA EL CUIDADO DIARIO: Proporciona hidratación y protege contra la deshidratación.
+- APTO PARA TODO TIPO DE CABELLO: Adecuado para todo tipo de cabello de niños, incluido el cabello rizado y grueso.
 - PRÁCTICO: Champú suave y acondicionador suave en uno.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

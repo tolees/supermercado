@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Keratin es la nueva gama de Syoss para el cabello encrespado y seco
-- La fórmula del champú Keratin con tecnología AMINO COMPLEX y FLOR DE LOTO controla el encrespamiento
-- Repara en profundidad a la vez que recupera la keratina perdida; Suaviza y ayuda a alisar el cabello
 - Cabello como recién salido de la peluquería; Modo de empleo: masajear sobre el cabello mojado y aclarar con abundante agua
+- La fórmula del champú Keratin con tecnología AMINO COMPLEX y FLOR DE LOTO controla el encrespamiento
+- Keratin es la nueva gama de Syoss para el cabello encrespado y seco
+- Repara en profundidad a la vez que recupera la keratina perdida; Suaviza y ayuda a alisar el cabello
 - Las nuevas fórmulas de Syoss combinan ingredientes naturales inspirados en los principios de belleza japoneses con la tecnología AMINO COMPLEX, que refuerza el cabello desde el interior
 
 [🛒 Comprar!!!]({{< param buyurl >}})

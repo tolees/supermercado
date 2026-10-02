@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Probado dermatológicamente, no comedogénico
-- La textura fundente regala una aplicación sencilla y deslizante
 - La fórmula está enriquecida con ácido hialurónico y vitamina C
 - El color puro y luminoso disimula las imperfecciones, para una tez de aspecto homogéneo, liso y fresco
+- La textura fundente regala una aplicación sencilla y deslizante
 - Base de maquillaje compacta en crema emoliente e iluminadora con SPF 20, ideal para pieles de normales a secas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

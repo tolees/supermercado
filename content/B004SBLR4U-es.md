@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vichy Dercos Energy+ Champú estimulante anti-caída con Aminexil 400 ml'
-date: 2026-09-27 19:17:20
+date: 2026-09-30 04:46:31
 image: 'https://m.media-amazon.com/images/I/4134fUgdKaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B004SBLR4U/?tag=tolees-21'
 descuento: '38.96'
-average: '16.9175000000001'
+average: '16.9042424242425'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Caja de 12 botellas de 33cl
-- Cerveza negra y ligera; con gusto y aroma a café y cacao, y ligero amargor torrefacto
-- Procedencia: Spain
-- Como servir: Servir entre 3 y 6
 - Ingredientes: agua, malta de cebada, lúpulo y levadura. 100 ml: 351 kj / 84 kcal
+- Caja de 12 botellas de 33cl
+- Como servir: Servir entre 3 y 6
 - La Sagra Mulata. Cerveza estilo Porter Ale. - Alc. 5% Vol. - Caja con 12 botellas de 330 ml
+- Procedencia: Spain
+- Cerveza negra y ligera; con gusto y aroma a café y cacao, y ligero amargor torrefacto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08P4FJ85S{{</world>}}

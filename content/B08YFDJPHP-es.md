@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Producto de calidad óptima
-- Para un maquillaje óptimo
 - Fácil de aplicar
+- Para un maquillaje óptimo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08YFDJPHP{{</world>}}

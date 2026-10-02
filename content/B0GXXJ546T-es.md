@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Papel de triple capa con 23 metros
-- Testado dermatológicamente y ginecológicamente
 - Paquete 6 rollos
-- Perfumado y decorado
+- Testado dermatológicamente y ginecológicamente
+- Papel de triple capa con 23 metros
 - La siguiente información se aplica a cada unidad del paquete
+- Perfumado y decorado
 - Ultra suave y absorbente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

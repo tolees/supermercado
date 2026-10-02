@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Sin aditivos artificiales
 - Se presenta en PACK DE 3 MINIBRIKS DE 200 ml
 - Batido UHT de cacao, con LECHE SEMIDESNATADA baja en lactosa .
 - Con vitaminas A, D y E
-- Sin aditivos artificiales
 - Descubre nuestra gama completa de productos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

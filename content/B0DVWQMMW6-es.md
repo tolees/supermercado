@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Coral friendly
-- Fórmula de gel ultraligera
+- Con protección de 4 celdas
 - Resistente al agua
 - Para alergias al sol y acné de Mallorca
-- Con protección de 4 celdas
+- Coral friendly
+- Fórmula de gel ultraligera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DVWQMMW6{{</world>}}

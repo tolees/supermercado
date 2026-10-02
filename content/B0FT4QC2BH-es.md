@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B Pro 3D White Clinical Dentífrico Blanqueante 2x75ml'
-date: 2026-09-28 17:37:01
+date: 2026-10-01 05:37:06
 image: 'https://m.media-amazon.com/images/I/411GEUKef6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FT4QC2BH/?tag=tolees-21'
 descuento: '49.80'
-average: '5.30999999999999'
+average: '5.27555555555554'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

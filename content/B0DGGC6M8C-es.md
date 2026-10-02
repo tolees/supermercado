@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pantene Pro-V Repara y Protege Champú 1L +Acondicionador 800ml Pelo Dañado'
-date: 2026-09-23 15:31:39
+date: 2026-09-30 03:17:12
 image: 'https://m.media-amazon.com/images/I/41m9AE7O1NL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

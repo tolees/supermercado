@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate Total Prevención Activa Pastas Dentales y Cepillo Pack'
-date: 2026-09-28 16:54:15
+date: 2026-10-01 05:46:55
 image: 'https://m.media-amazon.com/images/I/41cecab8yFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

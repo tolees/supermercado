@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Finish Ultimate Infinity Shine Pastillas para lavavajillas - 80 cápsulas'
-date: 2026-09-29 05:12:12
+date: 2026-10-01 03:34:05
 image: 'https://m.media-amazon.com/images/I/51KSIZJc72L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08WK4F2W8/?tag=tolees-21'
 descuento: '31.52'
-average: '17.6246956521739'
+average: '17.5796581196581'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

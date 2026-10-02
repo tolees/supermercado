@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fuente de fibra
 - Ideal para el desayuno
+- Fuente de fibra
 - Crujientes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 🌿 Fórmula sin perfume – Ideal para pieles sensibles o reactivas.
+- 💄 Perfecto como base de maquillaje – Funciona como primer facial para una piel suave y unificada.
+- 🌞 Protección solar facial SPF50+ muy alta – Protege contra rayos UVA, UVB, luz visible e infrarrojos.
 - 🧴 Acabado matificante y alisador – Textura mousse que difumina poros e imperfecciones.
 - 💧 Resistente al agua, sudor y roce – Protección duradera en condiciones diarias exigentes.
-- 💄 Perfecto como base de maquillaje – Funciona como primer facial para una piel suave y unificada.
-- 🌿 Fórmula sin perfume – Ideal para pieles sensibles o reactivas.
-- 🌞 Protección solar facial SPF50+ muy alta – Protege contra rayos UVA, UVB, luz visible e infrarrojos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BTWPY5QJ{{</world>}}

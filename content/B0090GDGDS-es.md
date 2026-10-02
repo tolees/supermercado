@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal para compartir
-- Cubiertas con una cáscara crujiente
 - Cacahuetes seleccionados de alta calidad
 - Mantener en un lugar fresco y seco
+- Cubiertas con una cáscara crujiente
 - Con delicioso chocolate con leche
+- Ideal para compartir
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0090GDGDS{{</world>}}

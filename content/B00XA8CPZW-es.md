@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Knorr Pasta Rellena Tortellini de Queso 250g
-- Pasta rellena elaborada con los mejores ingredientes, cuidadosamente seleccionados
 - Pasta rellena con auténticos quesos italianos
 - Pasta con envase 100% reciclable
 - Pasta rellena ideal para acompañarla con cualquier salsa para pasta de Knorr
+- Knorr Pasta Rellena Tortellini de Queso 250g
+- Pasta rellena elaborada con los mejores ingredientes, cuidadosamente seleccionados
 - Pasta rellena lista en menos de 20 minutos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

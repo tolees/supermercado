@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Limpia como pasta de dientes + refrescante como enjuague bucal para una protección antibacteriana
-- Para dientes sanos, encías sanas, una higiene bucal profunda y un aliento fresco
 - contra caries, placa y sarro
 - Con flúor
+- Limpia como pasta de dientes + refrescante como enjuague bucal para una protección antibacteriana
+- Para dientes sanos, encías sanas, una higiene bucal profunda y un aliento fresco
 - Para una sensación de frescor 3 veces más duradera* (*en comparación con una pasta de dientes regular)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

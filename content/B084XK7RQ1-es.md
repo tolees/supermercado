@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Alto contenido en grasas omega, que aporta un extra de hidratación por su poder humectante
-- Posee antioxidantes que protegen frente a la radiación diaria y polución ambiental
-- Estabilizador del ph gracias a sus ácidos grasos
 - Contiene vitamina e, poderoso antioxidante que previene el envejecimiento
+- Estabilizador del ph gracias a sus ácidos grasos
+- Posee antioxidantes que protegen frente a la radiación diaria y polución ambiental
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B084XK7RQ1{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Scottex Original Papel higiénico 96 rollos 6 packs de 16 rollos dos capas que proporcionan el equilibro adecuado en suavidad y resistencia'
-date: 2026-09-18 22:20:38
+date: 2026-10-01 01:13:34
 image: 'https://m.media-amazon.com/images/I/41liYY4bf0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07L3DG8DK-es Scottex Original Papel higiénico 96 rollos 6 packs de 16...'
 sku: 'B07L3DG8DK-es'
 tags: [ 'scottex','🇪🇸', ]
-actualPrice: 25.8 EUR
+actualPrice: 24.68 EUR
 currency: EUR
-price: 25.8
-comparePrice: 25.8 EUR
+price: 24.68
+comparePrice: 25.99 EUR
 prodname: 'Scottex Original Papel higiénico 96 rollos 6 packs de 16 rollos dos capas que proporcionan el equilibro adecuado en suavidad y resistencia'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07L3DG8DK/?tag=tolees-21'
-descuento: '0.00'
-average: '24.6831735537194'
+descuento: '5.04'
+average: '24.6831630971998'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sérum facial bifásico de retinaldehído
 - Ayuda a acelerar la renovación de la piel de forma suave revelando una piel radiante y luminosa
+- Sérum facial bifásico de retinaldehído
 - Delicado con la piel
 
 [🛒 Visítala!!!]({{< param buyurl >}})

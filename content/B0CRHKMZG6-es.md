@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'H&S Pro-Expert 7 Champú Anticaspa Alivio del Picor 6x300ml'
-date: 2026-09-22 08:53:35
+date: 2026-10-01 10:37:44
 image: 'https://m.media-amazon.com/images/I/514of+nX21L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

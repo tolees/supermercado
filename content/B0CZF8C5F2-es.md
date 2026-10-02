@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La siguiente información se aplica a cada unidad del paquete
 - Diseño flexible
+- La siguiente información se aplica a cada unidad del paquete
 - Duradera
 - Te mantiene fresco y cómodo
 - Te trae una comodidad adicional

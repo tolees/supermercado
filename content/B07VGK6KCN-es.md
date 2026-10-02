@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto de calidad
 - Color: marrón oscuro
+- Producto de calidad
 - Sabor: almendras, café, canela
 - Adecuado como regalo
 

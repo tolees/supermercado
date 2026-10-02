@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bisglicinato de Zinc 550mg Drasanvi en 90 Comprimidos Diarios Sin Gluten'
-date: 2026-09-28 07:45:19
+date: 2026-09-30 03:00:43
 image: 'https://m.media-amazon.com/images/I/4193EKvqPBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CTHPSCN9/?tag=tolees-21'
 descuento: '43.49'
-average: '8.24'
+average: '8.15666666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

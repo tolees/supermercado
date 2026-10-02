@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Garantía de calidad
 - 430 gr - 900 gr
+- Garantía de calidad
+- Ideal para distintos platos como pastas, pizzas, sandwiches y más.
 - 2 meses de maduración
 - Con trufa negra Tuber Melanosporum
-- Ideal para distintos platos como pastas, pizzas, sandwiches y más.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D8YXWLBX{{</world>}}

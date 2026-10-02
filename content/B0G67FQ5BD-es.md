@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Deja el cabello más fuerte, nutrido e hidratado.* *Test instrumental después de usar el champú + mascarilla + sérum nocturno Chronologiste.
 - Aplicar sobre cabello húmedo y aclarar. Continuar con mascarilla y sérum nocturno. Evitar contacto con los ojos.
+- Deja el cabello más fuerte, nutrido e hidratado.* *Test instrumental después de usar el champú + mascarilla + sérum nocturno Chronologiste.
 - Champú revitalizante para cabello debilitado por los signos del envejecimiento capilar.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

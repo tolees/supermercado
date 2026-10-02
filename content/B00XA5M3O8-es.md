@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto útil y práctico
-- Tomate triturado enlatado
 - Mantener en lugar fresco y seco
-- Textura perfecta
+- Tomate triturado enlatado
+- Producto útil y práctico
 - Ideal para salsas
+- Textura perfecta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00XA5M3O8{{</world>}}

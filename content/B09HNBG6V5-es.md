@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conservar en un lugar fresco y seco
 - Envasado en Alemania
-- Apto para dietas vegetarianas
-- Este envase contiene aproximadamente 6 porciones
 - Patatas fritas saladas
+- Este envase contiene aproximadamente 6 porciones
+- Apto para dietas vegetarianas
+- Conservar en un lugar fresco y seco
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09HNBG6V5{{</world>}}

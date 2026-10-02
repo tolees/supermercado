@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Un estuche portátil con forma de panda que contiene todos los elementos esenciales para crear un maquillaje perfecto
 - Los maquillajes han sido probados y son seguros para los niños. Edad recomendada: +6 años
 - Gracias a su tamaño compacto, el estuche de maquillaje se puede llevar para transformar cada momento en una ocasión para jugar creativo y divertido en cualquier lugar
-- El estuche contiene: sombras de ojos, brillo de labios, esmaltes de uñas y un aplicador
 - Las niñas pueden divertirse mientras crean su look
+- El estuche contiene: sombras de ojos, brillo de labios, esmaltes de uñas y un aplicador
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CTMZ5ZQ9{{</world>}}

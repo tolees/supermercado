@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apto para veganos
-- Sin gluten
 - Fuente de fibra, hierro y proteinas
+- Sin gluten
+- Apto para veganos
 - Pipas de girasol grandes aguasal saladas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

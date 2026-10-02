@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cereales sin colorantes artificiales
 - Disfruta de una experiencia única de sabor en tu desayuno
 - Despierta tus sentidos con la deliciosa mezcla de cereales con sabor a frutas
-- Cereales sin colorantes artificiales
 - Cereales sin aromas artificiales
 
 [🛒 Comprar!!!]({{< param buyurl >}})

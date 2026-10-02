@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Formato: Bag in Box con 15 litros de capacidad (equivale a 20 botellas de 750ml)
-- Color amarillo pajizo con reflejos verdosos. En nariz es afrutado con aromas de hinojo.
 - Maridaje: pescado, marisco fresco y ensaladas templadas.
-- Vino blanco de mesa.
 - Variedad de uva: Verdejo de Castilla y León
+- Color amarillo pajizo con reflejos verdosos. En nariz es afrutado con aromas de hinojo.
+- Vino blanco de mesa.
+- Formato: Bag in Box con 15 litros de capacidad (equivale a 20 botellas de 750ml)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07S4TBV9B{{</world>}}

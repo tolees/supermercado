@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - 🛡 Selección premium y frescura garantizada – Solo las mejores pipas, elegidas en origen para asegurar su calidad superior y su color blanquecino distintivo .
 - 💪 Snack natural y nutritivo – Perfectas para cualquier momento del día : en casa, en el trabajo o mientras disfrutas de tu equipo favorito o de una buena serie 📺⚽.
-- 🌻 Tostado lento en hornos Facundo – Un proceso único que potencia su sabor, garantizando una textura perfecta en cada bocado .
 - 🔥 Doble crack, doble placer – Nuestras pipas Blanquillas ofrecen un crujido inigualable y un sabor suave y aromático.
+- 🌻 Tostado lento en hornos Facundo – Un proceso único que potencia su sabor, garantizando una textura perfecta en cada bocado .
 - ✅ FACUNDO TRADICIÓN Y SABOR DESDE 1944: Más de 80 años creando snacks crujientes y deliciosos, elaborados con ingredientes para un sabor inconfundible.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Durabilidad
 - Calidad ideal
+- Durabilidad
 - Fácil de usar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

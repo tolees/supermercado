@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- BLÉDINA TARRITOS DE TOMATE, PATATAS, ZANAHORIA Y POLLO: Los tarritos de tomate, patatas, zanahoria y pollo de Blédina contienen ingredientes naturalmente ricos en nutrientes.
+- BLÉDINA TARRITOS DE TOMATE, PATATAS, ZANAHORIA Y POLLO: Los tarritos de tomate, patatas, zanahoria y pollo de Blédina son fuente de omega 3, sin sal* ni azúcares añadidos** y sin gluten que hará que le siente bien. Contiene pequeños trozos blandos.
 - BLÉDINA TE ACOMPAÑA PASO A PASO EN EL DESARROLLO DE TU PEQUE: Los tarritos de tomate, patatas, zanahoria y pollo de bebé Blédina forman parte de la variada y deliciosa gama de alimentos infantiles de Blédina, ofreciéndo así una nutrición completa para acompañarlos en todas las fases de su desarrollo.​
 - BLÉDINA TARRITOS TE AYUDA EN LA ALIMENTACIÓN COMPLEMENTARIA: Blédina te ofrece distintos sabores para acostumbrar al paladar además de texturas evolutivas pensadas para adaptarlas al desarrollo del pequeño.
-- BLÉDINA TARRITOS DE TOMATE, PATATAS, ZANAHORIA Y POLLO: Los tarritos de tomate, patatas, zanahoria y pollo de Blédina son fuente de omega 3, sin sal* ni azúcares añadidos** y sin gluten que hará que le siente bien. Contiene pequeños trozos blandos.
-- BLÉDINA TARRITOS DE TOMATE, PATATAS, ZANAHORIA Y POLLO: Los tarritos de tomate, patatas, zanahoria y pollo de Blédina contienen ingredientes naturalmente ricos en nutrientes.
 - PREPARACIÓN SENCILLA DEL TARRITO DE TOMATE, PATATAS, ZANAHORIA Y POLLO: Comida lista para consumir tras calentarla a 37ºC. Cuando se caliente, con una cuchara remover bien el producto para verificar la temperatura antes de servir.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

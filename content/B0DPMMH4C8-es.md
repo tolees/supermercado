@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Galletas Gullón Mini Bites Quinoa y Chía 160g 4x40g'
-date: 2026-09-26 10:15:36
+date: 2026-09-29 21:24:34
 image: 'https://m.media-amazon.com/images/I/41c-uRL1lJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DPMMH4C8/?tag=tolees-21'
 descuento: '32.89'
-average: '1.08549999999998'
+average: '1.08142857142855'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Diseño exclusivo Emily in Paris Caja regalo con decoracion parisina, ventana frontal y detalles dorados. Ideal como regalo elegante o para uso diario.
-- Sin gluten ni aditivos artificiales Elaborada sin conservantes, colorantes ni aromas sintéticos. Perfecta para una alimentación natural y consciente.
 - 100% fruta, sin azúcar añadido Endulzada únicamente con concentrado de fruta. Sin azúcar de caña añadido, en cumplimiento con normativa europea.
+- Sin gluten ni aditivos artificiales Elaborada sin conservantes, colorantes ni aromas sintéticos. Perfecta para una alimentación natural y consciente.
 - Incluye cuchara para servir Set con cuchara decorativa para disfrutar directamente desde el tarro. Elegancia y funcionalidad en un solo gesto.
 - Tres sabores afrutados y equilibrados Maracuyá, Albaricoque y Arándanos – 3 tarros de 284g elaborados en Francia. Variedad tropical, clásica y silvestre.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bourjois Little Round Pot Colorete en Crema Highlighter 01 Baby Pink 8 5 g'
-date: 2026-09-14 07:36:51
+date: 2026-09-30 17:49:10
 image: 'https://m.media-amazon.com/images/I/21K4iUUF0kL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

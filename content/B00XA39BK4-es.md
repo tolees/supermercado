@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Un delicioso cereal elaborado con cereales integrales con vitaminas y minerales
-- Rico sabor a chocolate que les encanta a los niños
-- Con vitaminas del grupo B, calcio, hierro y ácido fólico
-- Sin aceite de palma, ni colorantes, ni aromas artificiales
 - Fuente de fibra
+- Un delicioso cereal elaborado con cereales integrales con vitaminas y minerales
+- Con vitaminas del grupo B, calcio, hierro y ácido fólico
+- Rico sabor a chocolate que les encanta a los niños
+- Sin aceite de palma, ni colorantes, ni aromas artificiales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00XA39BK4{{</world>}}

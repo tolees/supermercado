@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIVEA Crema Tube Cuidado Universal Crema Hidratante Clásica para todo tipo de pieles cuidado de la piel rico con Eucerit relacionado con la piel 100 ml'
-date: 2026-09-25 17:25:57
+date: 2026-10-01 05:43:32
 image: 'https://m.media-amazon.com/images/I/31c6eHOqZcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,13 +12,13 @@ tags: [ 'crema','hidratante','nivea','🇪🇸', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99
-comparePrice: 6.84 EUR
+comparePrice: 6.0 EUR
 prodname: 'NIVEA Crema Tube Cuidado Universal Crema Hidratante Clásica para todo tipo de pieles cuidado de la piel rico con Eucerit relacionado con la piel 100 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D7J2BSDX/?tag=tolees-21'
-descuento: '56.29'
+descuento: '50.17'
 average: '2.99'
 ---
 

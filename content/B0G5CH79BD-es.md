@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - La siguiente información se aplica a cada unidad del paquete
-- Proporciona protección contra la transpiración
-- Calma, protege y cuida la piel
 - Con olor de rosa
 - Con un práctico packaging que se puede llevar a cualquier parte
+- Proporciona protección contra la transpiración
+- Calma, protege y cuida la piel
 - Desodorante roll on para mujeres
 
 [🛒 Comprar!!!]({{< param buyurl >}})

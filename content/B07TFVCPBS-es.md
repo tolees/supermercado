@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Todo tipo de cabello
 - Suaviza y desenreda el pelo
 - Cabello más ligero y con más cuerpo
-- Acondicionador ligero
-- Todo tipo de cabello
-- Pelo hasta 3 veces más suave
 - Combínalo con el champú Dark Oil, la mascarilla Dark Oil y el aceite Dark Oil de Sebastian Professionals
+- Acondicionador ligero
 - Contiene aceites de jojoba y argán
+- Pelo hasta 3 veces más suave
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07TFVCPBS{{</world>}}

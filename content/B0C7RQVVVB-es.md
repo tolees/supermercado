@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Sabor a pollo, hígado y pavo
 - Una irresistible y colorida mezcla de jugosos snacks
-- Sin colorantes artificiales añadidos
 - Contiene proteínas, vitaminas y ácidos grasos Omega 6
 - Elaborado con ingredientes de calidad
+- Sin colorantes artificiales añadidos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C7RQVVVB{{</world>}}

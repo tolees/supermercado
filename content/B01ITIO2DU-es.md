@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sanytol - Spray Ambientador Elimina Olores Hogar y Tejidos Algodón 300 ml'
-date: 2026-09-21 18:43:02
+date: 2026-09-29 23:39:59
 image: 'https://m.media-amazon.com/images/I/31IzBbTq3bL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ITIO2DU/?tag=tolees-21'
 descuento: '0.00'
-average: '3.66062499999999'
+average: '3.69722222222221'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Neutrogena Fórmula Noruega Crema Manos Concentrada con Perfume 50 ml 2 ud'
-date: 2026-09-28 17:12:27
+date: 2026-10-01 12:33:38
 image: 'https://m.media-amazon.com/images/I/51lBh6yCW3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B015FIV2BW/?tag=tolees-21'
 descuento: '48.48'
-average: '6.54137931034479'
+average: '6.4933333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Jabón Líquido de manos para todo tipo de pieles​
 - La siguiente información se aplica a cada unidad del paquete
-- Ingredientes delicados para la piel​​; Jabón para las manos que te las deja suaves al instante y tersas​; Dermatológicamente testado​​; Globalmente Dove no testa en animales​
 - Fórmula especial enriquecida con una mezcla de 5 hidratantes.​
-- Innovador formato de recarga, con un 80% menos de plástico*​; *Comparado con el jabón líquido de manos Dove de 250 ml.​
-- 99% fórmula biodegradable ​
 - Descubre el jabón Dove Hidratación Profunda y consigue una piel más suave y cuidada​
+- Innovador formato de recarga, con un 80% menos de plástico*​; *Comparado con el jabón líquido de manos Dove de 250 ml.​
+- Jabón Líquido de manos para todo tipo de pieles​
+- Ingredientes delicados para la piel​​; Jabón para las manos que te las deja suaves al instante y tersas​; Dermatológicamente testado​​; Globalmente Dove no testa en animales​
+- 99% fórmula biodegradable ​
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CZF6NP3V{{</world>}}

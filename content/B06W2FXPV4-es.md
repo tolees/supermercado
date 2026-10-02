@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cerveza tipo lager y estilo rubia
 - Tiene un color dorado claro y una espuma blanca intensa, cremosa y persistente
-- Perfecta para acompañar algo que picar a mediodía y con cualquier tipo de ensaladas
-- Elaborada con ingredientes naturales
 - Con aroma ligero frutal, con cuerpo ligero y final amargo
+- Cerveza tipo lager y estilo rubia
+- Elaborada con ingredientes naturales
+- Perfecta para acompañar algo que picar a mediodía y con cualquier tipo de ensaladas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B06W2FXPV4{{</world>}}

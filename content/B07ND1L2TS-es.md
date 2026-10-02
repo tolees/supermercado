@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DR. OETKER Mousse de Chocolate Preparado para Mousse de Chocolate - Estuche con Mezcla Preparada para Mousse Sabor Chocolate 73g Cantidad 4 Raciones'
-date: 2026-09-28 17:37:30
+date: 2026-09-30 03:21:52
 image: 'https://m.media-amazon.com/images/I/51ll6++HIjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ND1L2TS/?tag=tolees-21'
 descuento: '45.95'
-average: '1.14833333333333'
+average: '1.12714285714285'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

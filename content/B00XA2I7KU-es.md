@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Sin gluten
 - Sabor neutro
+- Rápida cocción
 - Harina fina de maíz
 - Ideal para bizcochos, rebozados y salsas
-- Rápida cocción
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00XA2I7KU{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin colorantes ni conservantes
 - Mermelada de temporada de mango
-- Sin gluten
 - Fruta seleccionada en la última campaña
+- Sin gluten
+- Sin colorantes ni conservantes
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01AY9ZDLM{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hidratación intensa y cuidado suave
-- Certificado según el estricto estándar independiente COSMOS para cosméticos naturales y orgánicos; compatibilidad dermatológicamente probada; vegano y certificado según los criterios PETA
-- Gran manejabilidad; sensación irresistiblemente cuidada del cabello, sin siliconas
 - 75 % menos de residuos en comparación con el peso de dos botellas de champú de cuidado sensible lavera Basis para la humedad y el cuidado
+- Hidratación intensa y cuidado suave
 - Fórmula biodegradable
+- Gran manejabilidad; sensación irresistiblemente cuidada del cabello, sin siliconas
+- Certificado según el estricto estándar independiente COSMOS para cosméticos naturales y orgánicos; compatibilidad dermatológicamente probada; vegano y certificado según los criterios PETA
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJJQRYKP{{</world>}}

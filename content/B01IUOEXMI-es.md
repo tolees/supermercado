@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Chicles refrescantes sin azúcar
+- Conservar en lugar fresco y seco
 - Sabor intenso y refrescante
 - Para cuidar tu salud dental
-- Conservar en lugar fresco y seco
-- Chicles refrescantes sin azúcar
 - Consumir demasiados puede generar efectos laxantes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

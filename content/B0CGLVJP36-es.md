@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ESENCIAL EN LA VIDA COTIDIANA Tu aliado de belleza diario. Para una sensación de limpieza y frescura
 - DESODORANTE GREEN TEA Descubre todo el placer de la fragancia Green Tea de Elizabeth Arden en un desodorante en crema
+- ESENCIAL EN LA VIDA COTIDIANA Tu aliado de belleza diario. Para una sensación de limpieza y frescura
 - La siguiente información se aplica a cada unidad del paquete
 - MODO DE USO Utiliza el desodorante diariamente después de la ducha
 - DESCUBRE LA RUTINA GREEN TEA Para completar la experiencia Green Tea, combina el gel de ducha y la crema corporal de la línea Té Verde

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 🍰 Jabón de manos Fresa Nata en formato gel y con textura mousse de 250 ml.
-- 🍓 Descripción olfativa: Refrescante fresa, acordes lácteos cremosos y fondo a dulce vainilla y caramelo.
-- 🍰 Pack de 4 jabones de 250 ml cada uno
-- 🍓 Cremosidad, limpieza e hidratación con aloe vera.
 - 🍰 Lava tus manos en profundidad sin resecar.
+- 🍰 Pack de 4 jabones de 250 ml cada uno
+- 🍓 Descripción olfativa: Refrescante fresa, acordes lácteos cremosos y fondo a dulce vainilla y caramelo.
+- 🍓 Cremosidad, limpieza e hidratación con aloe vera.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09888LNVN{{</world>}}

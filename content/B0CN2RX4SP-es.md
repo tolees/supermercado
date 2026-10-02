@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 32x30cm
 - Servilletas Blancas
-- 200 unidades
 - La siguiente información se aplica a cada unidad del paquete
+- 200 unidades
 - Una capa
+- 32x30cm
 - Ideales para un uso cotidiano
 
 [🛒 Comprar!!!]({{< param buyurl >}})

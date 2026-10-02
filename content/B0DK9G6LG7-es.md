@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fairy Ultra Original Líquido Lavavajillas 1250ML'
-date: 2026-09-29 07:51:24
+date: 2026-10-01 06:16:09
 image: 'https://m.media-amazon.com/images/I/41GwWF4oUWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DK9G6LG7/?tag=tolees-21'
 descuento: '0.00'
-average: '5.84391304347828'
+average: '5.84617021276598'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

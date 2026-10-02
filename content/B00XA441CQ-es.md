@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cantidad de 9 kg
-- Para 134 lavados profesionales
 - Con agentes Vanish quitamanchas
 - En formato profesional
 - Es detergente liquido
+- Para 134 lavados profesionales
+- Cantidad de 9 kg
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XA441CQ{{</world>}}

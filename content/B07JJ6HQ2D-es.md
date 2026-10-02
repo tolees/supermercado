@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Probado dermato lógicamente. Sin alcohol.
-- Resultados: protección total 48h. Perfume fresco de larga duración.
 - Combate los 5 signos de la transpiración (humedad, olores, bacterias, huellas amarillas y blancas)
+- Resultados: protección total 48h. Perfume fresco de larga duración.
 - anti-transpirant bola Hombre carbono protêt 5-en-1
 - Consejo de uso: bien agiter antes de cada uso.
 

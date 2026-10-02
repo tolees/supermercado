@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Champú apto para veganos
+- Ayuda a suavizar y definir los rizos
 - Champú con aloe vera, agua de coco, aceite de coco, extracto de papaya y extracto de plumeria
 - Deja los rizos sin encrespamiento y llenos de elasticidad
-- Champú apto para veganos
-- Mascarilla capilar sin sulfatos y sin siliconas, tintes sintéticos ni aceites minerales
-- Ayuda a suavizar y definir los rizos
 - Champú hidratante para cabello rizado
+- Mascarilla capilar sin sulfatos y sin siliconas, tintes sintéticos ni aceites minerales
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07CVCTM3D{{</world>}}

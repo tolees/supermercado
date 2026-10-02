@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- NOTAS AROMÁTICAS: Qualità Oro es caracterizado por notas aromáticas de frutas y flores, para un café espresso con un sabor dulce y refinado
+- BLEND: Esta selección de café Lavazza está elaborada con café 100% Arábica procedente de Centro y Sudamérica
 - INTENSIDAD: La intensidad 5 y el tueste medio brindan un color cálido a este café, para un espresso con una espuma dorada
 - CAFÉ NATURAL: Todos los cafés en grano y molido de Lavazza son de tueste natural
-- BLEND: Esta selección de café Lavazza está elaborada con café 100% Arábica procedente de Centro y Sudamérica
+- NOTAS AROMÁTICAS: Qualità Oro es caracterizado por notas aromáticas de frutas y flores, para un café espresso con un sabor dulce y refinado
 - QUALITÀ ORO: La sinfonía perfecta para un sabor excepcional siempre, desde 1956. Este café molido natural Lavazza es ideal para cafetera Italiana, de filtro y francesa
 
 [🛒 Visítala!!!]({{< param buyurl >}})

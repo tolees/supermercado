@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Consumirla entre 2° y 4°C para obtener sus óptimas cualidades
-- La que reposa en tanques horizontales durante 28 días para proporcionar la presión óptima a la levadura
 - De color dorado, con una espuma blanca consistente; sabor afrutado con suaves notas de malta
-- Cerveza tipo y estilo Lager, con 0,0 percent de alcohol en volumen
+- La que reposa en tanques horizontales durante 28 días para proporcionar la presión óptima a la levadura
 - Ingredientes: Agua, malta de cebada, aroma natural, extracto de lúpulo
+- Cerveza tipo y estilo Lager, con 0,0 percent de alcohol en volumen
+- Consumirla entre 2° y 4°C para obtener sus óptimas cualidades
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B06XRR7NBQ{{</world>}}

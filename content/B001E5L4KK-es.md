@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Creatividad, pasión y talento combinados en deliciosos momentos de chocolate
-- Una selección de mini bombones surtidos
-- Adecuada para tener el detalle perfecto con tus seres queridos
-- A partir de cacao puro de la mejor calidad y los mejores ingredientes
 - Conservar en lugar fresco y seco
+- Creatividad, pasión y talento combinados en deliciosos momentos de chocolate
+- Adecuada para tener el detalle perfecto con tus seres queridos
+- Una selección de mini bombones surtidos
+- A partir de cacao puro de la mejor calidad y los mejores ingredientes
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B001E5L4KK{{</world>}}

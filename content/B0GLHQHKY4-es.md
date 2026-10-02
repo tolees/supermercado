@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Deliciosas piezas de chocolate con leche rellenas de avellana y crujiente galleta
-- Textura única: Combina cremosidad, crujido y el sabor icónico de KITKAT.
-- Cacao certificado Rainforest Alliance: Compromiso con la calidad y la sostenibilidad
 - Momentos especiales: Ideal para Pascua u otras ocasiones donde quieras un toque dulce.
+- Cacao certificado Rainforest Alliance: Compromiso con la calidad y la sostenibilidad
+- Textura única: Combina cremosidad, crujido y el sabor icónico de KITKAT.
+- Deliciosas piezas de chocolate con leche rellenas de avellana y crujiente galleta
 - Bolsa de 151g: Perfecta para compartir, regalar o disfrutar de celebraciones
 
 [🛒 Comprar!!!]({{< param buyurl >}})

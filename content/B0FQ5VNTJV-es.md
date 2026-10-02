@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- LIBRE DE MICROPLÁSTICOS: Producto libre de microplásticos.
+- DISFRUTAR: Momentos únicos de aroma y bienstar.
 - 3 VARIEDADES: Infusión de Cacao, Tarta de Queso con Fresas y Tarta de Manzana con Caramelo
 - MATERIAL: Bolsitas 100% celulosa. El cofre puede convertirse en caja expositora.
-- DISFRUTAR: Momentos únicos de aroma y bienstar.
-- LIBRE DE MICROPLÁSTICOS: Producto libre de microplásticos.
 - FORMATO: 60 Bolsitas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

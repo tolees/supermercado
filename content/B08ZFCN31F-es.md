@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Scottex Original Papel higiénico 128 rollos 4 packs de 32 rollos dos capas que proporcionan el equilibro adecuado en suavidad y resistencia'
-date: 2026-09-29 05:43:44
+date: 2026-10-01 18:37:10
 image: 'https://m.media-amazon.com/images/I/41RAMcd7oML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08ZFCN31F/?tag=tolees-21'
 descuento: '16.82'
-average: '32.8675999999998'
+average: '32.6459493670884'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Fórmula con ácido hialurónico, provitamina B5 y niacinamida para pieles propensas a imperfecciones
 - Reduce la decoloración
 - Calma e hidrata la piel
-- Fórmula con ácido hialurónico, provitamina B5 y niacinamida para pieles propensas a imperfecciones
 - Refuerza la barrera protectora de la piel
 - Piel notablemente más limpia en 7 días
 

@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - 🍯100% MIEL DE FLORES desde los primeros meses de primavera, esta miel es una sinfonía de todas las flores de manzana, cereza y melocotón, se combina perfectamente en un sabor armonioso y un regusto agradable.
 - 🍯El aroma se caracteriza por un notable olor floral.
-- 🍯 De textura clara, con un color ámbar claro y una consistencia densa
 - 🍯La miel natural puede cristalizarse con el tiempo. Se recomienda colocar el frasco en agua tibia para restaurar su fluidez original.
+- 🍯 De textura clara, con un color ámbar claro y una consistencia densa
 - 🍯El sabor es dulce, pero con notas ligeramente ácidas y amargas, pero con un regusto agradable.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

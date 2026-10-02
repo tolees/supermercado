@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Protección para 48 horas
 - Antitranspirante en aerosol Rexona Men
 - Tiene un aroma bien equilibrado de los cítricos y la energía de salvia y la albahaca
+- Protección para 48 horas
 - Protege de la sudoración y el olor
 
 [🛒 Comprar!!!]({{< param buyurl >}})

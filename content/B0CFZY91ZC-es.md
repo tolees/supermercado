@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hidrata el cabello
 - La siguiente información se aplica a cada unidad del paquete
+- Hidrata el cabello
 - Ofrece una fijación fuerte sin residuos
 - Previene la descamación
 - El cuero cabelludo no se reseca gracias a su nivel bajo de pH

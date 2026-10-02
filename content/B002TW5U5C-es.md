@@ -29,12 +29,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sabor: intenso, cremoso, sedoso. Caluroso, roble intenso y jerez dulce, redondo en boca con notas de pasas secas y frutas melosas, con unas notas picantes de duración media y un final seco
-- Whisky The Glendronach es puro malta extraordinario y generoso ha envejecido en las mejores barricas de Pedro Ximénez y Oloroso después de una primera etapa de envejecimiento en barricas de bourbon americanas
-- El Whisky Glendronach 12 Años es especialmente madurado en barricas finas de Pedro Ximénez y Oloroso de Andalucía (España), lo cual le aporta casi el 70% de su sabor. Embotellada al 43% y no se agregan colorantes artificiales
-- Aroma: Whisky con esencia de vainilla y ligeros toques de jengibre
-- Un Highland Single Malt Whisky rico, robusto y gratificante con matices de jerez y que tiene gran finura, gracia y elegancia
-- Sugerencia de preparación: Whisky The Glendronach Distillery se puede degustar sólo en una copa de whiskey tipo tulipán
 - Color: Whisky Glendronach 12 años tiene color ámbar profundo
+- Aroma: Whisky con esencia de vainilla y ligeros toques de jengibre
+- Whisky The Glendronach es puro malta extraordinario y generoso ha envejecido en las mejores barricas de Pedro Ximénez y Oloroso después de una primera etapa de envejecimiento en barricas de bourbon americanas
+- Un Highland Single Malt Whisky rico, robusto y gratificante con matices de jerez y que tiene gran finura, gracia y elegancia
+- El Whisky Glendronach 12 Años es especialmente madurado en barricas finas de Pedro Ximénez y Oloroso de Andalucía (España), lo cual le aporta casi el 70% de su sabor. Embotellada al 43% y no se agregan colorantes artificiales
+- Sugerencia de preparación: Whisky The Glendronach Distillery se puede degustar sólo en una copa de whiskey tipo tulipán
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B002TW5U5C{{</world>}}

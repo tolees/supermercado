@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El ambalaje puede variar
-- Color: Ámbar. Nariz: pura, noble, armoniosa, rosas, lichis, toques de romero y sándalo. Sabor: Dulce, miel, naranj
 - Perfecto como un regalo
+- Color: Ámbar. Nariz: pura, noble, armoniosa, rosas, lichis, toques de romero y sándalo. Sabor: Dulce, miel, naranj
+- El ambalaje puede variar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B012DC0OHQ{{</world>}}

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 5,6% de alcohol en volumen
-- Cerveza tipo Lager Especial
 - Ingredientes Naturales: Agua, malta de cebada, maiz, levadura, lúpulo y extracto de lúpulo.
-- De color rubio brillante y espuma blanca. Destaca por su suave amargor, el dulce anisado de la malta y por su aroma frutal a manzana.
 - Consumirla entre 0° y 3°C para obtener sus máximas cualidades
+- Cerveza tipo Lager Especial
+- De color rubio brillante y espuma blanca. Destaca por su suave amargor, el dulce anisado de la malta y por su aroma frutal a manzana.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B3RXLQH8{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ámbar
 - Cilantro, Menta
 - Lavanda
+- ámbar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0GVK789F4{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aumenta la firmeza y elasticidad de la piel
 - Reduce las arrugas y mejora la estructura de la piel
+- Aumenta la firmeza y elasticidad de la piel
 - La piel se vuelve lisa, elástica y brillante
 - Efecto calmante y regenerador
 

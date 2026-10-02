@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Comprometidos con el abastecimiento ético de café al 100% en colaboración con Conservation International
 - Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
+- Comprometidos con el abastecimiento ético de café al 100% en colaboración con Conservation International
 - Esta mezcla especial de granos de Latinoamérica se ha tostado cuidadosamente para obtener un resultado envolvente y vibrante
 - Con un sabor suave y ligero, se trata de nuestro tostado de café más delicado
 - Café de STARBUCKS de grano entero suave y envolvente

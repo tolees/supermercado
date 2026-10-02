@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lifelong by Amazon Comida Húmeda para Gatos Paté con Carne de Res 100g Paquete de 16'
-date: 2026-09-27 13:31:52
+date: 2026-09-30 03:09:46
 image: 'https://m.media-amazon.com/images/I/51xJtHXWiLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GD91J3K/?tag=tolees-21'
 descuento: '15.41'
-average: '6.80714285714285'
+average: '6.81888888888888'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

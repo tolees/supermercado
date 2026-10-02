@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tomatin Legacy Highland Single Malt Scotch Whisky 43% Vol 700 ml Paquete de 1 & Tomatin Single Malt Whisky 12 Años - 700 ml'
-date: 2026-09-24 13:17:59
+date: 2026-09-29 21:24:46
 image: 'https://m.media-amazon.com/images/I/41mgDSvAMEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0B7LZ6Q1K-es Tomatin Legacy Highland Single Malt Scotch Whisky 43% Vol...'
 sku: 'B0B7LZ6Q1K-es'
 tags: [ 'whisky','🇪🇸', ]
-actualPrice: 67.69 EUR
+actualPrice: 66.54 EUR
 currency: EUR
-price: 67.69
+price: 66.54
 comparePrice: 68.2 EUR
 prodname: 'Tomatin Legacy Highland Single Malt Scotch Whisky 43% Vol 700 ml Paquete de 1 & Tomatin Single Malt Whisky 12 Años - 700 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0B7LZ6Q1K/?tag=tolees-21'
-descuento: '0.75'
-average: '66.4687500000001'
+descuento: '2.43'
+average: '66.4716000000001'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

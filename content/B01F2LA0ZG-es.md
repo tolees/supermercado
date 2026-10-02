@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manzana
 - Notas sensuales amaderadas
+- Manzana
 - Geranio, Canela
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

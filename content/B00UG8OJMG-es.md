@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producto De Alta Calidad
-- Este Perfume Crea Alrededor De La Persona Que Lo Lleva Un Aire De Sensualidad
 - Marca Neutrogena
+- Este Perfume Crea Alrededor De La Persona Que Lo Lleva Un Aire De Sensualidad
+- Producto De Alta Calidad
 - Loción
 
 [🛒 Aquí!!!]({{< param buyurl >}})

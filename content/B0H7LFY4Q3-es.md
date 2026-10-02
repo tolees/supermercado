@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Galletas Gullón Hookies Tuestis 600g Paquete de 4'
-date: 2026-09-28 17:47:29
+date: 2026-09-29 20:15:57
 image: 'https://m.media-amazon.com/images/I/51EcZXy98FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0H7LFY4Q3/?tag=tolees-21'
 descuento: '0.00'
-average: '4.5'
+average: '4.33333333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

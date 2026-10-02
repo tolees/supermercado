@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - La siguiente información se aplica a cada unidad del paquete
-- Fórmula optimizada, ahora más clean y vegana
 - Dermatológicamente testado
+- Fórmula optimizada, ahora más clean y vegana
 - Aroma fresco y aromático para después del entreno
-- Botella reciclada
 - Gel de ducha con fórmula 3 en 1: para cuerpo, cabello y rostro
+- Botella reciclada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DP4XZ6ZC{{</world>}}

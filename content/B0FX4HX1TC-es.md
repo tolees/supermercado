@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 24/7 Spray Automático Active Fresh: nuestra nueva y mejor teconologia que combate sin esfuerzo los malos olores, con fragancias sin aerosol.
-- Libre de ftalatos, propulsores y colorantes.
 - Aparato con control de intensidad y botón boost para un impulso adicional de frescura.
 - Larga duración: cada recambio dura hasta 70 días (basado en la configuración más baja)
+- Libre de ftalatos, propulsores y colorantes.
 - Fragancia Lavanda. Infusionado con 2 veces más aceites esenciales naturales*(*vs Airwick Active Fresh Fragancias base)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

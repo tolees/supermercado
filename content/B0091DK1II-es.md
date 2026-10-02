@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 35 porcentaje en volumen de alcohol
+- En nariz tiene una intensidad aromática muy equilibrada
 - En boca es redondo, equilibrado, de toques tostados de dulcedumbre
 - Sabor profundo, persistente y equilibrado
 - Color ambarino dorado, con viva transparencia, brillante, luminoso
-- En nariz tiene una intensidad aromática muy equilibrada
+- 35 porcentaje en volumen de alcohol
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0091DK1II{{</world>}}

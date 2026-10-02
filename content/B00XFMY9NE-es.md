@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Nº1 del mundo en ventas (marca líder en volumen de ventas. Fuente: consultora externa, Septiembre 2018).
+- Elaborada con ingredientes de gran calidad.
+- Ingredientes de gran calidad, sabor inconfundible.
 - Apta para vegetarianos.
 - Sin gluten.
-- Ingredientes de gran calidad, sabor inconfundible.
-- Nº1 del mundo en ventas (marca líder en volumen de ventas. Fuente: consultora externa, Septiembre 2018).
 - Gran Mayonesa Hellmanns 450ml.
-- Elaborada con ingredientes de gran calidad.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00XFMY9NE{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Haribo Mega Torcidas Fresa Geles Dulces 200g'
-date: 2026-09-26 15:12:11
+date: 2026-09-30 03:09:02
 image: 'https://m.media-amazon.com/images/I/41eg+sL04OL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B082VTWWZZ/?tag=tolees-21'
 descuento: '33.73'
-average: '1.87076923076924'
+average: '1.84133333333334'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

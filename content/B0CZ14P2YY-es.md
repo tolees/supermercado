@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La textura se funde al contacto con la piel, aportando un trazo brillante e intenso
 - Una textura muy fundente con un efecto de delineador de ojos líquido para un lápiz de prestaciones sorprendentes
+- Oftalmológicamente testado, dermatológicamente testado = formulado para reducir al mínimo el riesgo de alergias
 - Lápiz para la parte externa del ojo con una mina intensa y deslizable de larga duración
 - Su fórmula especial resistente al agua permanece inalterada hasta 10 horas y se difumina inmediatamente después de la aplicación
-- Oftalmológicamente testado, dermatológicamente testado = formulado para reducir al mínimo el riesgo de alergias
+- La textura se funde al contacto con la piel, aportando un trazo brillante e intenso
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CZ14P2YY{{</world>}}

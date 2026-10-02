@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Conservar en un lugar fresco y seco
-- Hecho de maíz
 - De textura crujiente
+- Hecho de maíz
 - Ideal para compartir
 - Con sabor Original
 

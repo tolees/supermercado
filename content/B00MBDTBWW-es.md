@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Roll-on para contorno de ojos, diseñado para hombres, con bola helada para reducir la apariencia de ojeras y bolsillos, y aumentar tu mirada
 - Fórmula enriquecida con vitamina C y cafeína para disminuir visiblemente el color oscuro de las ojeras y desinflar la hinchazón, acabado no graso y no pegajoso, absorción rápida
-- Contenido del paquete: 1 rollo de bola antiojeras y antibolsillos LOréal Men Expert Hydra Energetic, 10 ml
 - Resultados: Mirada descansada y revivida, Ojeras atenuadas y bolsas desinfladas, Efecto hielo inmediato
+- Contenido del paquete: 1 rollo de bola antiojeras y antibolsillos LOréal Men Expert Hydra Energetic, 10 ml
 - Aplicación: Mañana y noche, desliza la bola sobre el párpado y debajo de los ojos masajeando ligeramente con movimientos circulares
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

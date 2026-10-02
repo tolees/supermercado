@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maybelline New York Lash Sensational Volumen y Longitud Cherry Sky'
-date: 2026-09-25 00:35:13
+date: 2026-10-01 17:21:25
 image: 'https://m.media-amazon.com/images/I/41IqN5Wfg2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DHCYMWG8/?tag=tolees-21'
 descuento: '48.81'
-average: '8.32200000000001'
+average: '8.11500000000001'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - El crujido de los Doritos combinado con su intenso sabor a queso, hacen que sea un snack muy atrevido
 - Esta bolsa de Doritos es la mejor forma de tener siempre un aperitivo listo para disfrutar allá donde quieras, y con quien quieras
-- Los Doritos sabor TEX MEX son un snack atrevido adecuado para picotear o dipear con forma triangular para acompañar con la salsa que prefieras
-- Prueba las Dippas de Doritos para una experiencia de dipeo deliciosa y divertida
 - La siguiente información se aplica a cada unidad del paquete
+- Prueba las Dippas de Doritos para una experiencia de dipeo deliciosa y divertida
+- Los Doritos sabor TEX MEX son un snack atrevido adecuado para picotear o dipear con forma triangular para acompañar con la salsa que prefieras
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FGK15GJD{{</world>}}

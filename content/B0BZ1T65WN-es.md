@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sin aceite de palma y sin conservantes ni colorantes artificiales
-- Fuente de fibra
 - Un snack para fiestas y cumpleaños
 - Elaborados con ajo y perejil
 - Snacks horneados con ingredientes naturales
+- Fuente de fibra
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BZ1T65WN{{</world>}}

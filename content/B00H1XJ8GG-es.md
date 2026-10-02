@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'CALVIN KLEIN Euphoria Eau de Parfum para mujer | Fragancia femenina con notas de granada  orquidea negra y madera de caoba | 160 ml'
-date: 2025-10-11 13:42:36
+title: 'CALVIN KLEIN Euphoria Eau de Parfum para mujer | Fragancia femenina con notas de granada orquidea negra y madera de caoba | 160 ml'
+date: 2026-10-01 09:14:16
 image: 'https://m.media-amazon.com/images/I/31nkwwQ4JHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B00H1XJ8GG-es CALVIN KLEIN Euphoria Eau de Parfum para mujer | Fragancia...'
 sku: 'B00H1XJ8GG-es'
-tags: [ 'Agua de perfume para mujeres','Belleza','Fragancias para mujeres','Perfumes y fragancias','calvin klein','de','eau','parfum','🇪🇸', ]
-actualPrice: 49.55 EUR
+tags: [ 'de','eau','parfum','🇪🇸', ]
+actualPrice: 54.94 EUR
 currency: EUR
-price: 49.55
-comparePrice: 59.96 EUR
-prodname: 'CALVIN KLEIN Euphoria Eau de Parfum para mujer | Fragancia femenina con notas de granada  orquidea negra y madera de caoba | 160 ml'
+price: 54.94
+comparePrice: 54.94 EUR
+prodname: 'CALVIN KLEIN Euphoria Eau de Parfum para mujer | Fragancia femenina con notas de granada orquidea negra y madera de caoba | 160 ml'
 country: 'es'
 flag: '🇪🇸'
-brand: 'Calvin Klein'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00H1XJ8GG/?tag=tolees-21'
-descuento: '17.36'
-average: '53.6666666666667'
+descuento: '0.00'
+average: '54.176'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,6 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Los mejores productos de higiene para tu día a día.
-- Cuidarse y sentirse bien nunca había sido tan fácil.
-- EUPHORIA edp vapo 160 ml
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00H1XJ8GG{{</world>}}

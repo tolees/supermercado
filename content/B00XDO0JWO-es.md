@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Carmencita Colorante Alimentario es perfecto para realzar el color de tus recetas, imprescindible que garantiza resultados coloridos
-- Presentado en un nuevo Bote Restaurante de 290 g y con tapón dosificador, este bote es ideal para quienes disfrutan cocinando
-- Fácil de usar, realza el color de tus asados con 1,4 g basta para 4 raciones, ideal para guisos, salsas y esencial en arroces y paellas
 - Disfruta de un producto que avivará el color de tus comidas, es la elección perfecta para dar vida a todos tus platos
-- 100 años dando sabor y color a tu vida. El diseño puede cambiar, pero el sabor y la calidad siguen siendo los mismos
+- Presentado en un nuevo Bote Restaurante de 290 g y con tapón dosificador, este bote es ideal para quienes disfrutan cocinando
 - Elaborado con ingredientes de alta calidad, sin gluten. Harina de maíz, colorante: tartracina E-102 (14 %) y sal. Puede contener trazas de soja.
+- Carmencita Colorante Alimentario es perfecto para realzar el color de tus recetas, imprescindible que garantiza resultados coloridos
+- Fácil de usar, realza el color de tus asados con 1,4 g basta para 4 raciones, ideal para guisos, salsas y esencial en arroces y paellas
+- 100 años dando sabor y color a tu vida. El diseño puede cambiar, pero el sabor y la calidad siguen siendo los mismos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XDO0JWO{{</world>}}

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Servir bien frío y agitar antes de servir
-- Mezcla de jugo de piña, manzana y uva
-- Producto a base de concentrado rico en vitamina C
 - Tras su apertura, conservar refrigerado
+- Mezcla de jugo de piña, manzana y uva
 - Realizado con azúcares y endulcorante
+- Producto a base de concentrado rico en vitamina C
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00MY3UXEE{{</world>}}

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Fabricado por Galletas Gullón.
-- Deliciosas galletas saladas con semillas de quinoa y chia.
+- Sin aceite de palma. Producto elaborado con aceite de girasol alto oleico.
 - De picoteo, con amigos, siempre que quieras disfrutar de mordiscos de sabor.
 - La perfecta combinación de semillas de chía, lino y quinoa.
-- Sin aceite de palma. Producto elaborado con aceite de girasol alto oleico.
+- Deliciosas galletas saladas con semillas de quinoa y chia.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0834BW7HM{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ayúdale con sus defensas gracias a su contenido en vitamina D (2).
 - Cookies & Cream: NUEVO sabor favorito*
-- Complementa su nutrición: PediaSure contiene nutrientes de los 5 grupos de alimentos como proteínas de alta calidad, 27 vitaminas y minerales.
 - Apoya su atención y memoria: el hierro ayuda al desarrollo cognitivo normal de los niños (3).
+- Complementa su nutrición: PediaSure contiene nutrientes de los 5 grupos de alimentos como proteínas de alta calidad, 27 vitaminas y minerales.
+- Ayúdale con sus defensas gracias a su contenido en vitamina D (2).
 - Complementa su dieta diaria para que crezca fuerte y sano cada día (1).
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Yatekomo Cup Curry 100% Natural'
-date: 2026-09-27 19:44:43
+date: 2026-09-29 20:53:42
 image: 'https://m.media-amazon.com/images/I/518oHK6D8DL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

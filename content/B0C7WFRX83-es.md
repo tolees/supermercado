@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contiene 4 packs de 6 botellas
-- Agua Mineral Natural con Gas
 - Agua premium S; pellegrino procedente del Manantial en Italia
 - Agua optima para acompañar tus comidas
+- Agua Mineral Natural con Gas
+- Contiene 4 packs de 6 botellas
 - Sabor elegante y sofisticado, un icono del estilo de vida italiano
 
 [🛒 Aquí!!!]({{< param buyurl >}})

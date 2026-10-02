@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- APTO PARA MICROONDAS Y LAVAVAJILLAS – Máxima practicidad: calienta tu café sin preocupaciones y límpialas cómodamente.
-- 6 COLORES VIVOS Y DIFERENTES – Cada taza tiene un color alegre y moderno, perfecto para dar un toque de personalidad a tu mesa o a tu local.
 - CAPACIDAD IDEAL DE 120 ML – Tamaño perfecto para espresso, ristretto o café corto. Ideal tanto para uso doméstico como profesional.
+- 6 COLORES VIVOS Y DIFERENTES – Cada taza tiene un color alegre y moderno, perfecto para dar un toque de personalidad a tu mesa o a tu local.
 - FABRICADAS EN GRES RESISTENTE – Material duradero, de alta calidad, con un acabado elegante y robusto que soporta el uso diario.
+- APTO PARA MICROONDAS Y LAVAVAJILLAS – Máxima practicidad: calienta tu café sin preocupaciones y límpialas cómodamente.
 - DISEÑO VERSÁTIL PARA CUALQUIER OCASIÓN – Perfectas para regalar, para usar en casa, en una cafetería o bar que quiera aportar color y estilo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

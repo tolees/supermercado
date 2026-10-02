@@ -29,12 +29,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - producto 1: Eficaz porque al ser 0% lactosa es más digestiva
-- producto 1: Leche semidesnatada de vaca
-- producto 1: Origen de España
-- producto 2: Fuente de potasio
-- producto 2: Leche de vaca semidesnatada conservando los valores nutricionales necesarios
 - producto 2: Fuente de calcio
+- producto 1: Origen de España
+- producto 1: Leche semidesnatada de vaca
 - producto 1: Contiene vitamina D
+- producto 2: Leche de vaca semidesnatada conservando los valores nutricionales necesarios
+- producto 2: Fuente de potasio
 - producto 2: Rico en vitamina D
 
 [🛒 Aquí!!!]({{< param buyurl >}})

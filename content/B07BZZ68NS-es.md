@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Art Couleurs Eyeshadow 160-Silicon Violet 2 Gr
 - Los mejores productos para tu cuidado personal
+- Art Couleurs Eyeshadow 160-Silicon Violet 2 Gr
 - Calidad y precio nunca antes tan irresistible
 
 [🛒 Aquí!!!]({{< param buyurl >}})
