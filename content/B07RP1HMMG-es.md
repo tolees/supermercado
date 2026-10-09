@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'Pantene Pro-V Crema de Peinar Rizos Sin Aclarado 270 ml'
+date: 2026-09-13 18:19:17
+image: 'https://m.media-amazon.com/images/I/31KAGTU0Y+L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07RP1HMMG-es Pantene Pro-V Crema de Peinar Rizos Sin Aclarado 270 ml'
+sku: 'B07RP1HMMG-es'
+tags: [ 'pantene','🇪🇸', ]
+actualPrice: 3.98 EUR
+currency: EUR
+price: 3.98
+comparePrice: 4.99 EUR
+prodname: 'Pantene Pro-V Crema de Peinar Rizos Sin Aclarado 270 ml'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B07RP1HMMG/?tag=tolees-21'
+descuento: '20.24'
+average: '3.98'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B07RP1HMMG{{</world>}}
