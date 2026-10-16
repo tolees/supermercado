@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cheetos Pandilla Producto de Aperitivo Frito Queso 75g Paquete de 2'
-date: 2026-10-10 19:18:16
+date: 2026-10-15 12:31:31
 image: 'https://m.media-amazon.com/images/I/51pLKRr0mnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CN2LV4VP/?tag=tolees-21'
 descuento: '26.67'
-average: '3.04'
+average: '3.03217391304348'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

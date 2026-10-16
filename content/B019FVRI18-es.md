@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Color amarillo pálido, con aspecto limpio, brillante,
-- DO: Rías Baixas
-- VARIEDADES: Albariño
 - Con aromas cítricos y frutas blancas y de hueso,
+- Color amarillo pálido, con aspecto limpio, brillante,
+- VARIEDADES: Albariño
+- DO: Rías Baixas
 - Grado alcohólico: 12,1 % vol
 
 [🛒 Aquí!!!]({{< param buyurl >}})

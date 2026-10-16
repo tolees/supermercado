@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fórmula extra ligera de absorción rápida.
 - Indicada para niños y adultos.
+- Fórmula extra ligera de absorción rápida.
 - Para la piel seca y sensible.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

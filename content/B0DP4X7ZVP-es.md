@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tiene un sabor casero
-- Elaborado con tomates cuidadosamente seleccionados y cosechados
-- Producto sin conservantes ni gluten
-- La siguiente información se aplica a cada unidad del paquete
 - No contiene sal ni azúcar añadido
+- La siguiente información se aplica a cada unidad del paquete
+- Producto sin conservantes ni gluten
+- Elaborado con tomates cuidadosamente seleccionados y cosechados
+- Tiene un sabor casero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DP4X7ZVP{{</world>}}

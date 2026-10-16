@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Champú voluminizador diseñado para cabellos finos y apelmazados, que transforma la melena aportando más cuerpo, ligereza y movimiento desde la raíz hasta las puntas.
-- Fórmula ligera con complejo de cafeína y péptidos, que limpia delicadamente mientras ayuda a conseguir hasta un 45 % más de volumen con un acabado natural y sin apelmazar.
-- Fórmula vegana sin siliconas, con fragancia AuraBoost de aroma estimulante que eleva la experiencia de lavado y aporta una sensación fresca y energizante.
 - Aporta suavidad y sensación de frescor lavado tras lavado, dejando el cabello suelto, flexible y con un aspecto más abundante y saludable.
+- Fórmula vegana sin siliconas, con fragancia AuraBoost de aroma estimulante que eleva la experiencia de lavado y aporta una sensación fresca y energizante.
+- Fórmula ligera con complejo de cafeína y péptidos, que limpia delicadamente mientras ayuda a conseguir hasta un 45 % más de volumen con un acabado natural y sin apelmazar.
 - Testado dermatológicamente y seguro para cabello teñido, ideal para el uso diario en cabellos finos que buscan volumen sin comprometer la salud capilar.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

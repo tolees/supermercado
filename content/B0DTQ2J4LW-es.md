@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- MODO DE USO: Humedecer la pastilla con agua y aplicar sobre la zona deseada
-- PROPIEDADES: Ideal para todo tipo de pieles
-- 以下の情報は単品あたりの情報です。
-- ETIQUETAS: Este producto es apto para veganos y celiácos y, además, está libre de alérgenos
-- HIGIENE PERSONAL. Están libres de grasa animal o industrial
 - La siguiente información se aplica a cada unidad del paquete
+- HIGIENE PERSONAL. Están libres de grasa animal o industrial
+- ETIQUETAS: Este producto es apto para veganos y celiácos y, además, está libre de alérgenos
+- PROPIEDADES: Ideal para todo tipo de pieles
+- MODO DE USO: Humedecer la pastilla con agua y aplicar sobre la zona deseada
 - Todas las propiedades regeneradoras, nutritivas, hidratantes, antiarrugas y cicatrizantes, tan características de la rosa mosqueta en jabón sólido para aplicar sobre la piel de rostro y cuerpo
 - BENEFICIOS: Hidratante y regenerador de la piel. Indicado para después de tomar el sol
+- 以下の情報は単品あたりの情報です。
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DTQ2J4LW{{</world>}}

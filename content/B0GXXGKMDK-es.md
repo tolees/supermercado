@@ -30,10 +30,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Fragancia Cítrica – Refresca tu cuerpo y mente y transporta a tus sentidos a un viaje lleno de adrenalina con la energizante fragancia a cítrico de este desodorante
 - Respetuoso con la piel - La fórmula dermatológicamente probada, hipoalergénica y antimanchas de este desodorante Fa lo hace ideal para el uso diario en pieles sensibles
+- Detalles del envío – Fa Sport Desodorante Roll-On, desodorante vegano* sin sales de aluminio, energizante fragancia cítrica, fórmula respetuosa con la piel, envase reciclable, 6 x 50 ml
 - La siguiente información se aplica a cada unidad del paquete
 - Fórmula Energizante – La fórmula del desodorante antitranspirante roll-on ofrece frescura intensa, con fragancia deportiva y protección duradera contra el mal olor
 - Protección Extra – Disfruta de 48 h de protección contra el sudor y el olor gracias al complejo activo del desodorante, que combate las bacterias que causan el mal olor
-- Detalles del envío – Fa Sport Desodorante Roll-On, desodorante vegano* sin sales de aluminio, energizante fragancia cítrica, fórmula respetuosa con la piel, envase reciclable, 6 x 50 ml
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GXXGKMDK{{</world>}}

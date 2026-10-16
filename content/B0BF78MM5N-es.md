@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Tipo de producto: SNACK FOOD BAR
 - Marca: BAREBELLS
 - Tamaño: 12 Unidad Paquete de 1
-- Tipo de producto: SNACK FOOD BAR
 - Barebells - Barritas Proteína - 20g Proteína x Barrita - Baja en azúcar - Baja en Calorías - Sin Aceite de Palma - Pack de 12 Barritas x 55g Soft Bar Salted Peanut Caramel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

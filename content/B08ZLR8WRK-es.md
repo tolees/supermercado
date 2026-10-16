@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Mezcla de semillas de calabaza, semillas de girasol, semillas de lino, piñones (linaza), semillas de cáñamo
-- Ácidos Grasos Omega-3, Omega-4 y Omega-6
 - Siempre fresco, empaquetado en una práctica bolsa con cierre hermético.
-- ALÉRGENOS: Semillas de calabaza, Semillas de girasol, Semillas de lino (linaza), Piñones, Semillas de cáñamo
 - Crudo, Vegano, Sin Gluten, Rico en vitaminas y minerales como Zinc, Magnesio, Selenio
+- Ácidos Grasos Omega-3, Omega-4 y Omega-6
+- ALÉRGENOS: Semillas de calabaza, Semillas de girasol, Semillas de lino (linaza), Piñones, Semillas de cáñamo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08ZLR8WRK{{</world>}}

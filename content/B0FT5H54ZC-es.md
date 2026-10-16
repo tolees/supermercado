@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Altos estándares durante el proceso de producción
-- Especialmente diseñado para cabellos dañados y decolorados o con tratamiento químico
-- Descubre el acondicionador Fusion de Wella Professionals y consigue un cabello renovado, suave y más resistente
 - La siguiente información se aplica a cada unidad del paquete
+- Altos estándares durante el proceso de producción
+- Descubre el acondicionador Fusion de Wella Professionals y consigue un cabello renovado, suave y más resistente
+- Especialmente diseñado para cabellos dañados y decolorados o con tratamiento químico
 - Explora nuestra gama de productos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

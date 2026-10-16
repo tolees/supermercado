@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Notas de fondo: sándalo, ámbar y almizcle
-- Notas de salida: iris, bergamota, flor de arroz y notas verdes
 - Es una fragancia de la familia olfativa Floral Verde para mujeres
+- Notas de fondo: sándalo, ámbar y almizcle
 - Notas de corazón: orquídea, jengibre, ruibarbo, flor de loto y azucena
+- Notas de salida: iris, bergamota, flor de arroz y notas verdes
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0009OAI2C{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los niños pequeños se pueden atragantar con las semillas
 - No apto para alérgicos a los frutos de cáscara, los cacahuetes, el sésamo y la soja, ni para celíacos, debido al método de producción
-- Conservar en un lugar fresco y seco. Una vez abierto, volver a cerrar herméticamente
 - Puede contener ocasionalmente trozos de cáscara
+- Conservar en un lugar fresco y seco. Una vez abierto, volver a cerrar herméticamente
 - Envasado en atmósfera protectora para mantener su frescura
+- Los niños pequeños se pueden atragantar con las semillas
 - Apto para dietas vegetarianas y veganas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

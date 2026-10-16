@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este producto está indicado para hSombras.
-- Las notas olfativas principales de este producto son amaderado, especiado y fresco naturaleza.
 - De la marca Jean Paul Gaultier.
 - Contiene 75 ml.
+- Este producto está indicado para hSombras.
+- Las notas olfativas principales de este producto son amaderado, especiado y fresco naturaleza.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B000E7WI6I{{</world>}}

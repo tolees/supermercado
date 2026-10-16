@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pack de 9 latas de 330 ml
 - Refresco sabor naranja
+- Pack de 9 latas de 330 ml
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D7HW1N11{{</world>}}

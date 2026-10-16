@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- English Breakfast Tea. Descafeinado. Desde 1706. Complejo & Balanceado
-- Formato: 25 bolsitas
+- Una mezcla tradicional de tés negros, que crea un sabor rico y satisfactorio.
 - Ingredientes: Té negro descafeinado
 - Intensidad media: 4 de 5
-- Una mezcla tradicional de tés negros, que crea un sabor rico y satisfactorio.
+- English Breakfast Tea. Descafeinado. Desde 1706. Complejo & Balanceado
+- Formato: 25 bolsitas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07VS6XTM3{{</world>}}

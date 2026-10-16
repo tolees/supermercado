@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Certificado Rainforest Alliance. Descubre más en ra.org.
-- Moler como se recomienda para tu tipo de máquina de café. Asegúrate siempre de seguir las instrucciones del fabricante de la máquina.
 - Adecuado para dietas vegetarianas y veganas
-- Granos de café tostados de inspiración italiana, fuerza 5, fuerte
 - Almacenar en un lugar fresco y seco. Una vez abierto, mantener refrigerado en un recipiente hermético, lejos de olores fuertes y consumir en 14 días. Para mejor antes, ver la parte posterior del paquete.
+- Granos de café tostados de inspiración italiana, fuerza 5, fuerte
+- Moler como se recomienda para tu tipo de máquina de café. Asegúrate siempre de seguir las instrucciones del fabricante de la máquina.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F1NG6ZNX{{</world>}}

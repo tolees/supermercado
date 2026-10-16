@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Certificado por RainForest Alliance
 - Cacao en polvo espeso, ideal para hosteleria
 - Preparado alimentico al cacao
 - Experimenta la cremosidad y el sabor de este Chocolate a la taza
 - Cacao procedente de cultivo responsable gracias al Cocoa Plan de NESTLÉ
+- Certificado por RainForest Alliance
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08XCYYGXW{{</world>}}

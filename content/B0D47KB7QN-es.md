@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lindt Chocolate con Leche chocolate Lindt tableta de chocolate cremoso Tableta 100 g'
-date: 2026-10-14 00:25:49
+date: 2026-10-16 00:47:35
 image: 'https://m.media-amazon.com/images/I/41VL3SfvrlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D47KB7QN/?tag=tolees-21'
 descuento: '33.44'
-average: '2.55666666666667'
+average: '2.47571428571429'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

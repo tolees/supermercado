@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tratamiento alisador – Este set con proteínas de queratina brasileña alisa las cutículas capilares y fortalece el cabello, dejando tu pelo suave y brillante
-- Detalles del envío – OGX Ever Straightening + Brazilian Keratin Smooth,champú reparador y acondicionador hidratante para un alisado impecable y un pelo más suave desde el primer uso*
 - Sin ingredientes nocivos – Formulado con tensioactivos sin sulfatos, esta rutina capilar con lípidos nutritivos hidrata el cabello y lo deja suave desde el primer uso*
 - Delicioso aroma – Disfruta de una experiencia sensorial bajo la ducha con el aroma de este champú y acondicionador alisador para cabello rizado, grueso y ondulado
 - Fórmula mejorada – El acondicionador y el champú OGX con tecnología Lipi Pro Shield limpian e hidratan el cabello, respetando la barrera de lípidos y proteínas
+- Detalles del envío – OGX Ever Straightening + Brazilian Keratin Smooth,champú reparador y acondicionador hidratante para un alisado impecable y un pelo más suave desde el primer uso*
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F1D7YNC6{{</world>}}

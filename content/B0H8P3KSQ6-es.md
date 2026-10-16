@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Moussel Gel de Ducha Clásico Viaje 60ml Apto Equipaje de Cabina'
-date: 2026-10-13 03:26:22
+title: 'Moussel Gel de Ducha Clásico Viaje 60ml Apto Equipaje de Cabina | Tamaño compacto apto para equipaje de cabina perfecto para viajes gimnasio piscina o escapadas.'
+date: 2026-10-16 03:55:48
 image: 'https://m.media-amazon.com/images/I/41AuvmGdZPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,7 +13,7 @@ actualPrice: 1.49 EUR
 currency: EUR
 price: 1.49
 comparePrice: 1.49 EUR
-prodname: 'Moussel Gel de Ducha Clásico Viaje 60ml Apto Equipaje de Cabina'
+prodname: 'Moussel Gel de Ducha Clásico Viaje 60ml Apto Equipaje de Cabina | Tamaño compacto apto para equipaje de cabina perfecto para viajes gimnasio piscina o escapadas.'
 country: 'es'
 flag: '🇪🇸'
 brand: ''

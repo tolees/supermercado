@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producido en la UE en instalaciones que cumplen con las Normas de Correcta Fabricación (NCF)
-- 37,5 mg de vitamina C
 - 1,6g de beta-alanina CarnoSyn
-- Sabores increíbles sin azúcar y con cero calorías
 - 150mg de cafeína por ración
+- 37,5 mg de vitamina C
+- Sabores increíbles sin azúcar y con cero calorías
+- Producido en la UE en instalaciones que cumplen con las Normas de Correcta Fabricación (NCF)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CGF5MPWX{{</world>}}

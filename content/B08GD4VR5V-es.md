@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Gracias a su fórmula con Clorofila proporciona un frescor natural y duradero que elimina el mal aliento dejando una prolongada sensación de limpieza
-- Aliento fresco con el sabor tradicional de la clorofila.
-- Su acción bacteriana actúa sobre los microorganismos dañinos, incluso donde no llega el cepillo.
 - Licor del Polo Clorofila con Flúor y Clorofila proporciona un triple efecto: antiséptico, anti-caries y frescor duradero.
+- Su acción bacteriana actúa sobre los microorganismos dañinos, incluso donde no llega el cepillo.
+- Aliento fresco con el sabor tradicional de la clorofila.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08GD4VR5V{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- De acero inoxidable de alta calidad.
-- Apto para lavavajillas.
-- Apta para todo tipo de fuegos: eléctrica, vitrocerámica, inducción y gas.
 - Capacidad: 1,2 L.
+- De acero inoxidable de alta calidad.
+- Apta para todo tipo de fuegos: eléctrica, vitrocerámica, inducción y gas.
+- Apto para lavavajillas.
 - Contenido del envío: hervidor de agua Hario Buono.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

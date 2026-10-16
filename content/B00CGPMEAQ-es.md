@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- producto de cuidado de alta calidad
-- Fabricante: oneteck, Italien
-- Cosméticos de marca de alta calidad de la farmacia (PZN: 08055845)
-- Champú para lavar el cabello
 - para el cuidado del cabello
+- producto de cuidado de alta calidad
+- Cosméticos de marca de alta calidad de la farmacia (PZN: 08055845)
+- Fabricante: oneteck, Italien
+- Champú para lavar el cabello
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00CGPMEAQ{{</world>}}

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Un aperitivo divertido para personas de todas las edades
-- Irresistible mix de sabores
 - Sin gluten
+- Irresistible mix de sabores
 - Deliciosas y esponjosas nubes
 - Espumas dulces
 

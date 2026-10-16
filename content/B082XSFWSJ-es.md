@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Respeta la luminosidad del color
-- Color intenso
 - Espejo incorporado para retoques durante todo el día
+- Color intenso
 - Nueva fórmula Best in class: formulación altamente avanzada
+- Respeta la luminosidad del color
 - Aplicación de tacto de seda creando una película fina y cómoda
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Granini Premium 100% Zumo de Melocotón y Uva - Pack 6 x 1 L'
-date: 2026-10-08 00:06:12
+date: 2026-10-16 03:25:40
 image: 'https://m.media-amazon.com/images/I/5142dgUvZHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08WL75VKG/?tag=tolees-21'
 descuento: '0.00'
-average: '17.9571428571429'
+average: '18.1666666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

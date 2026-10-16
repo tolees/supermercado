@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Colágeno y vitamina C: La vitamina C contribuye a la formación normal de colágeno para el funcionamiento normal del cartílago.
 - Primera bebida láctea de Puleva con colágeno: Leche desnatada con una innovadora fórmula que combina colágeno, vitaminas y minerales, dentro de una dieta equilibrada.
+- Colágeno y vitamina C: La vitamina C contribuye a la formación normal de colágeno para el funcionamiento normal del cartílago.
 - Con vitamina B12: Ayuda a reducir el cansancio y la fatiga, favoreciendo el bienestar general dentro de un estilo de vida saludable.
 - Con calcio, proteínas y magnesio: Contribuyen al mantenimiento normal de huesos y músculos, aportando nutrientes esenciales para tu día a día.
 

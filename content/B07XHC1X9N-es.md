@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Que tu mascota crezca sana y fuerte nunca había sido tan fácil
-- Los productos óptimos para tu mascota
 - Calidad adecuada de la comida garantizada por el fabricante
+- Los productos óptimos para tu mascota
 - Paquete de 24 latas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

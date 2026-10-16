@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aplicar sobre el cabello húmedo, repartiendo de forma uniforme. Emulsionar y aclarar. Repetir el mismo paso.Dos aplicaciones: primero para limpiar y la segunda para tratar
 - Para un cabello más largo, grueso y de mejor calidad. Protege el cabello dañado aportando nutrición, reparación, reducción de las puntas abiertas, tacto ligero y suavidad.
+- Aplicar sobre el cabello húmedo, repartiendo de forma uniforme. Emulsionar y aclarar. Repetir el mismo paso.Dos aplicaciones: primero para limpiar y la segunda para tratar
 - Champú renovador de puntas para cabello largo y con puntas afinadas. Su tecnología patentada FILLER A-100 y sus aminoácidos lo hacen el tratamiento ideal para el cabello con puntas afinadas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

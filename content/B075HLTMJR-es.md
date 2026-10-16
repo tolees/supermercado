@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Respeta el delicado equilibrio del cuero cabelludo
-- Limpia el cabello con suavidad
-- Apto para Recién Nacidos
-- No Pica en los Ojos
-- Especialmente Indicado para Piel Atópica
 - Testado pediátrica, dermatológica y oftalmológicamente en bebés y niños
+- Especialmente Indicado para Piel Atópica
+- Limpia el cabello con suavidad
+- No Pica en los Ojos
+- Respeta el delicado equilibrio del cuero cabelludo
+- Apto para Recién Nacidos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B075HLTMJR{{</world>}}

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Producto que combina tradición e innovación
 - Standard 80 gr
-- Normales
 - Es para toda la familia
+- Normales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XA5JBCA{{</world>}}

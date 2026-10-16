@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Ideal para combinar con pescado, marisco, queso, ensalada, pasta.
+- Color amarillo con tonos acerados, finísimo carbónico y brillante. flores blancas (acacia y azahar), frutas tropicales.
 - Origen: DO Rías Baixas
 - Graduación: 12.5% vol.
-- Ideal para combinar con pescado, marisco, queso, ensalada, pasta.
 - Puede disfrutarlo desde ahora, bien conservado aguantará 2 años.
-- Color amarillo con tonos acerados, finísimo carbónico y brillante. flores blancas (acacia y azahar), frutas tropicales.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08LFDSJPL{{</world>}}

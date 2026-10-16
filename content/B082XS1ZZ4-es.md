@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Respeta la luminosidad del color
 - Color intenso
-- Respeta la luminosidad del color
-- Nueva fórmula Best in class: formulación altamente avanzada
 - Espejo incorporado para retoques durante todo el día
+- Respeta la luminosidad del color
 - Aplicación de tacto de seda creando una película fina y cómoda
 - Aplicación de tacto de seda creando una película fina y cómoda
+- Respeta la luminosidad del color
 - Color intenso
+- Nueva fórmula Best in class: formulación altamente avanzada
 - Espejo incorporado para retoques durante todo el día
 - Nueva fórmula Best in class: formulación altamente avanzada
 

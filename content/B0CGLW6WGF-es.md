@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Usa el bálsamo top-coat durante el día para mantener los labios hidratados y brillantes
-- La siguiente información se aplica a cada unidad del paquete
-- 2 Pasos: una bálsamo con color inalterable y top-coat para dar brillo a los labios
-- Color seductor e irrestible hasta 24 horas
 - Aplicador en forma de curva para adaptarse a la forma del labio
+- 2 Pasos: una bálsamo con color inalterable y top-coat para dar brillo a los labios
+- Usa el bálsamo top-coat durante el día para mantener los labios hidratados y brillantes
 - Labial permante de larga duración en dos pasos
+- La siguiente información se aplica a cada unidad del paquete
+- Color seductor e irrestible hasta 24 horas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CGLW6WGF{{</world>}}

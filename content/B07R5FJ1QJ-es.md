@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ziaja Proteínas de Seda Champú Suavidad y Control del Frizz'
-date: 2026-10-12 15:40:54
+date: 2026-10-15 12:52:59
 image: 'https://m.media-amazon.com/images/I/21Yl3b84knL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R5FJ1QJ/?tag=tolees-21'
 descuento: '33.78'
-average: '2.01522727272729'
+average: '2.01369565217393'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

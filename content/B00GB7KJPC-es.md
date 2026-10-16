@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Proporciona un rápido impulso de energía
-- Es perfecto como bebida energética fresca y afrutada durante el entrenamiento
 - Una bebida deportiva baja en calorías y revitalizante
 - Mejorado con complejos vitamínicos y minerales
+- Proporciona un rápido impulso de energía
+- Es perfecto como bebida energética fresca y afrutada durante el entrenamiento
 - Evita la pérdida de líquidos durante el ejercicio
 
 [🛒 Visítala!!!]({{< param buyurl >}})

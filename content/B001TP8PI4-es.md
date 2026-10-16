@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Producto originario de Catalunya
-- Se recomienda servir a 17°C
 - Marida bien con carnes guisadas, paellas y quesos semicurados
+- Se recomienda servir a 17°C
 - Aroma a frutos rojos con una nota especiada
 - En boca es cálido, firme, con fina acidez
 

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Crema universal, ideal para la vida cotidiana en cualquier situación en la que la piel lo necesite
-- Crema hidratante para toda la familia
 - Crema corporal y facial sin conservantes
 - Cuidado intensivo y protección para todo tipo de pieles
+- Crema universal, ideal para la vida cotidiana en cualquier situación en la que la piel lo necesite
+- Crema hidratante para toda la familia
 - Compatibilidad con la piel dermatológicamente probada
 
 [🛒 Comprar!!!]({{< param buyurl >}})

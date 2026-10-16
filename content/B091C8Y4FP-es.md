@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Variedad: el Merlot italiano es una uva tinta de cuerpo medio, con una acidez fresca liderada por sabores de frutas rojas y notas vegetales y herbáceas
-- Aspecto: rojo rubí profundo con matices violeta
-- Canti, el estilo del vino italiano: difunde el carisma italiano en las mesas y en los bares de todo el mundo; desde cenas familiares hasta eventos extravagantes, hay un vino Canti para cualquier ocasión
 - Nota de cata: el aroma maduro a frutos rojos, con matices de ciruela y chocolate oscuro, da paso a un final medio y afrutado con notas de cerezas negras
+- Canti, el estilo del vino italiano: difunde el carisma italiano en las mesas y en los bares de todo el mundo; desde cenas familiares hasta eventos extravagantes, hay un vino Canti para cualquier ocasión
+- Aspecto: rojo rubí profundo con matices violeta
 - Características: vino tinto seco italiano, obtenido de uvas Merlot de Sicilia, excelente acompañado de platos de pasta con salsa de tomate y pizza
 
 [🛒 Comprar!!!]({{< param buyurl >}})

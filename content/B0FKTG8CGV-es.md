@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Mascarilla capilar de brillo instantáneo: la mascarilla TRESemmé Lamellar Shine aporta un brillo inmediato al cabello apagado o sin vida, dejándolo nutrido y con un aspecto saludable
+- Sérum capilar con tecnología PRO Style: el sérum sin aclarado TRESemmé Lamellar Shine actúa desde el interior, fortaleciendo y reparando el cabello dañado con cada uso
 - Set potenciador del brillo con tecnología Lamellar: nuestra gama Lamellar Shine ha sido diseñada para corregir imperfecciones y alinear las fibras capilares, logrando un acabado impecable y duradero
 - Rutina completa para un máximo efecto: utiliza estos productos para el cuidado del cabello TRESemmé juntos para obtener los mejores resultados
-- Sérum capilar con tecnología PRO Style: el sérum sin aclarado TRESemmé Lamellar Shine actúa desde el interior, fortaleciendo y reparando el cabello dañado con cada uso
-- Mascarilla capilar de brillo instantáneo: la mascarilla TRESemmé Lamellar Shine aporta un brillo inmediato al cabello apagado o sin vida, dejándolo nutrido y con un aspecto saludable
 - Realza tu look: descubre el pack de tratamiento capilar TRESemmé Lamellar Shine con mascarilla, sérum sin aclarado y aceite capilar, la clave para conseguir un efecto ultrabrillante de peluquería
 
 [🛒 Aquí!!!]({{< param buyurl >}})

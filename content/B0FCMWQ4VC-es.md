@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Apto para dietas vegetarianas y veganas.
-- Alto contenido de vitamina E
 - Envasado en atmósfera protectora.
+- Alto contenido de vitamina E
+- Apto para dietas vegetarianas y veganas.
 - Alto contenido de fibra
 
 [🛒 Comprar!!!]({{< param buyurl >}})

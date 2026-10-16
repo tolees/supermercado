@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin colorantes, conservantes ni aromas artificiales; ingredientes con trazabilidad garantizada desde el origen
 - Carne deshuesada de alta calidad como ingrediente principal
-- Comida completa y equilibrada para gatos adultos esterilizados
-- Sin cereales: con carbohidratos alternativos (patata, garbanzos y guisantes)
-- Pelaje brillate y piel sana: Omega 3 y 6 y zinc que contribuyen a un pelaje brillante y una piel cuidada
 - Embalaje reciclable
 - Control del peso: Con fibra y niveles moderados de grasas y calorías para ayudar a controlar el peso
+- Comida completa y equilibrada para gatos adultos esterilizados
+- Pelaje brillate y piel sana: Omega 3 y 6 y zinc que contribuyen a un pelaje brillante y una piel cuidada
+- Sin colorantes, conservantes ni aromas artificiales; ingredientes con trazabilidad garantizada desde el origen
+- Sin cereales: con carbohidratos alternativos (patata, garbanzos y guisantes)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08Y72NXR6{{</world>}}

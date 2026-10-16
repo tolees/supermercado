@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Pruebas de SPF y PA se realizaron en laboratorios de Corea y España
+- Los extractos de arroz y granos fermentados son ricos en vitaminas B, C, E, aminoácidos y minerales que ayudan a calmar e hidratar la piel seca.
 - [PA] Laboratorio Coreano: UVA PF 16.1±2.4 P++++ Laboratorio Español: UVA PF 19 P++++
 - Después de su absorción, proporciona un brillo natural sin dejar un tono blanco. Incluso si aplicas una cantidad abundante antes del maquillaje, no deja grumos ni se vuelve pastoso.
 - [SPF] Laboratorio Coreano: 52.5±5.8 Laboratorio Español: 63.1±0.6
-- Pruebas de SPF y PA se realizaron en laboratorios de Corea y España
-- Los extractos de arroz y granos fermentados son ricos en vitaminas B, C, E, aminoácidos y minerales que ayudan a calmar e hidratar la piel seca.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B5PJ41ZT{{</world>}}

@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Alérgenos: trigo
 - Instrucciones para su uso adecuado: 1; remojar las placas en agua caliente 10 minutos (20 con agua fria) hasta que queden semi-rigidas. 2; montar la lasaña vertiendo un poco de salsa en la bandeja y montando capas intercalando placas y relleno. 3; cubrir con salsa y queso rallado y hornear 10 minutos a 220°c (en microondas 5 min; a 900 w) y 5 minutos de gratinado
-- Advertencia de seguridad: conservar en lugar fresco, seco y aislado del suelo
 - País de origen: españa
 - Conservar en lugar fresco, seco y aislado del suelo
+- Advertencia de seguridad: conservar en lugar fresco, seco y aislado del suelo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00QYY2MB6{{</world>}}

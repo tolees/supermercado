@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Limpieza en profundidad
-- Eficaz en manchas difíciles de comida como carne picada, yema de huevo, zumos de fruta, vino
 - Pastillas para el lavavajillas para uso profesional
+- Limpieza en profundidad
 - Apto para ciclos cortos de 1-5 minutos
+- Eficaz en manchas difíciles de comida como carne picada, yema de huevo, zumos de fruta, vino
 - Eficaz contra la grasa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

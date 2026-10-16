@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hidrata intensamente la piel
 - Promueve la prolongación del bronceado.
-- Apto para todo tipo de pieles.
-- La siguiente información se aplica a cada unidad del paquete
 - Efecto calmante y refrescante: Calma, refresca y repara intensamente la piel tras la exposición solar devolviéndole su tersura y flexibilidad natural.
+- La siguiente información se aplica a cada unidad del paquete
+- Apto para todo tipo de pieles.
+- Hidrata intensamente la piel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FFW2MVC5{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIVEA MEN Hyaluron Bálsamo After Shave Antiedad con Ácido Hialurónico 1 x 100 ml bálsamo hidratante para calmar la piel tras el afeitado bálsamo facial refrescante'
-date: 2026-09-19 15:06:10
+date: 2026-10-15 01:08:35
 image: 'https://m.media-amazon.com/images/I/41ESzXKpNgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08SJNWL1P/?tag=tolees-21'
 descuento: '16.94'
-average: '5.86453125000001'
+average: '5.86803030303031'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

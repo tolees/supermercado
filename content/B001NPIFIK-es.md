@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Neutrogena Fórmula Noruega Crema de Pies Ultra Hidratante 100 ml crema para pies secos y ásperos crema hidratante con 40% de Glicerina y Bisabolol'
-date: 2026-10-10 22:29:56
+date: 2026-10-16 08:36:21
 image: 'https://m.media-amazon.com/images/I/31Kq7XMvQXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B001NPIFIK/?tag=tolees-21'
 descuento: '38.62'
-average: '6.02142857142857'
+average: '6.105'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Leche entera de Bienestar Animal
+- Fuente natural de calcio y vitaminas
 - Ideal para toda la familia
-- El Castillo, desde 1932
 - Brik UHT 1L con tapón atado (para evitar que acabe en la naturaleza)
 - Sin azúcar añadido ni gluten
-- Fuente natural de calcio y vitaminas
+- El Castillo, desde 1932
+- Leche entera de Bienestar Animal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01HTBVJMU{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Short sleeves
 - Crew neck
 - Slim fit
-- Short sleeves
 - Supima Jersey
 
 [🛒 Aquí!!!]({{< param buyurl >}})

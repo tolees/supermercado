@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ESTA DELICIOSA MEZCLA de lichi acuático y afrutado y lima refrescante será tu fragancia favorita de esta temporada.
-- UNA FRAGRANCIA ESTIMULANTE que te hará sonreír y despertará tus sentidos. Burbujeante. Animador. Fresco.
 - EN LA ANTIGUA CULTURA CHINA, el lichi es un símbolo mitológico de romance, belleza y felicidad.
+- UNA FRAGRANCIA ESTIMULANTE que te hará sonreír y despertará tus sentidos. Burbujeante. Animador. Fresco.
+- ESTA DELICIOSA MEZCLA de lichi acuático y afrutado y lima refrescante será tu fragancia favorita de esta temporada.
 - FRAGRANCIA FRESCA: con lima bañada por el sol, bergamota y notas de lichi
 - NOTAS: Absoluto de maté, Té verde, Geranio egipcio, Acorde de nenúfar, Magnolia, Lichi, Bergamota, Esencia de lima mexicana.
 

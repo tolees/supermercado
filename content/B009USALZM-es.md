@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Vichy Dercos Anticaspa Sensible Champú Cuero cabelludo sensible 200 ml'
-date: 2026-10-11 02:46:01
+title: 'Vichy Dercos Anticaspa Sensible Champú Cuero cabelludo sensible 200 ml | Doble eficacia que elimina partículas y calma molestias; acción anti-reaparición 6 semanas para confort duradero.'
+date: 2026-10-15 01:34:29
 image: 'https://m.media-amazon.com/images/I/31ii3LnjOrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,13 +13,13 @@ actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98
 comparePrice: 17.0 EUR
-prodname: 'Vichy Dercos Anticaspa Sensible Champú Cuero cabelludo sensible 200 ml'
+prodname: 'Vichy Dercos Anticaspa Sensible Champú Cuero cabelludo sensible 200 ml | Doble eficacia que elimina partículas y calma molestias; acción anti-reaparición 6 semanas para confort duradero.'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B009USALZM/?tag=tolees-21'
 descuento: '41.29'
-average: '9.63666666666667'
+average: '9.774'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

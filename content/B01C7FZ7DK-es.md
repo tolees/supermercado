@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tan ligera como el aire, hace que tu piel parezca más joven
-- Por fin, una crema hidratante antiarrugas ligera
-- Fórmula no grasa que no obstruye los poros
 - Ligera, combate los siete signos del envejecimiento
+- Tan ligera como el aire, hace que tu piel parezca más joven
 - Se absorbe rápida y completamente
+- Fórmula no grasa que no obstruye los poros
+- Por fin, una crema hidratante antiarrugas ligera
 - Suaviza tu piel y la deja respirar
 - Testada dermatológicamente
 

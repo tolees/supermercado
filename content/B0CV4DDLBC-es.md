@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Ingredientes: ATÚN CLARO, aceite de oliva virgen extra y sal.
-- Atún Claro capturado con las artes de pesca tradicionales y respetuosas con el medioambiente
-- Una cuidadosa limpieza manual y acompañado de aceite de oliva virgen extra para un sabor exquisito.
 - Garantía Cuca desde 1932
 - Elaborado con piezas enteras seleccionadas de atún claro, para conseguir una calidad premium.
+- Atún Claro capturado con las artes de pesca tradicionales y respetuosas con el medioambiente
+- Una cuidadosa limpieza manual y acompañado de aceite de oliva virgen extra para un sabor exquisito.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CV4DDLBC{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maltesers Snack en Bolitas de Leche Malteada recubiertas de Chocolate con Leche 300g'
-date: 2026-10-10 14:03:58
+date: 2026-10-15 02:32:35
 image: 'https://m.media-amazon.com/images/I/517GDrgPO8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CVRY2MYL/?tag=tolees-21'
 descuento: '7.28'
-average: '5.93153846153846'
+average: '6.01714285714285'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

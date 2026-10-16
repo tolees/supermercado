@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- con vitamina E para ayudar a mantener una buena función inmunitaria
 - Sin aromas artificiales, colorantes, conservantes ni antioxidantes añadidos.
+- con vitamina E para ayudar a mantener una buena función inmunitaria
 - Desarrollada por nutricionistas de mascotas y aprobada por veterinarios.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

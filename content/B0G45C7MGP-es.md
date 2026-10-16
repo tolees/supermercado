@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - INGREDIENTE NATURAL Y SABROSO: Elaborado con ingredientes tradicionales fermentados para conseguir un sabor profundo y característico. Perfecto para quienes buscan cocinar platos asiáticos con resultados profesionales.
 - TEXTURA ESPESA Y VERSÁTIL: Su consistencia cremosa permite usarlo en infinidad de recetas: salteados, sopas, salsas, marinados o como base para adobos y guisos con un toque profundo y aromático.
-- PERFECTO PARA RECETAS TÍPICAS: Ingrediente imprescindible para preparar bibimbap, tteokbokki, marinadas para carne, pollo o tofu, así como para potenciar platos asiáticos con un sabor auténtico.
 - SABOR COREANO AUTÉNTICO: Pasta de chile fermentado con guindilla, arroz glutinoso y soja, esencial en la cocina tradicional coreana. Aporta un equilibrio perfecto entre picante, dulzor y umami.
 - FORMATO PARA TODO TIPO DE USO: Disponible en 500 g y 1.000 g, ideal tanto para consumo doméstico como para cocinas profesionales que requieren mayores cantidades. Botella individual o pack de 2 unidades.
+- PERFECTO PARA RECETAS TÍPICAS: Ingrediente imprescindible para preparar bibimbap, tteokbokki, marinadas para carne, pollo o tofu, así como para potenciar platos asiáticos con un sabor auténtico.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0G45C7MGP{{</world>}}

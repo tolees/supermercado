@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dove Jabón original en pastilla para cara cuerpo y manos con 1/4 de crema hidratante 90 g'
-date: 2026-10-10 16:43:28
+date: 2026-10-16 02:34:39
 image: 'https://m.media-amazon.com/images/I/41nARRrgtrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0B1N5CLG8/?tag=tolees-21'
 descuento: '25.83'
-average: '1.458'
+average: '1.29571428571429'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

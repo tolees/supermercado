@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Fanta Limón Refresco de Limón Elaborado a partir de Zumo Bajo en Calorías - Pack de 9 Latas 330 ml'
-date: 2026-07-02 08:28:54
+title: 'Fanta Limón Refresco Bajo en Calorías Pack 9 x 330 ml | Bebida de limón bajo en calorías con zumo de fruta excelente para comidas fiestas y reuniones'
+date: 2026-10-16 05:37:00
 image: 'https://m.media-amazon.com/images/I/415ThkMRmzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00XDPLTAE-es Fanta Limón Refresco de Limón Elaborado a partir de Zumo...'
+slug: 'B00XDPLTAE-es Fanta Limón Refresco Bajo en Calorías Pack 9 x 330 ml |...'
 sku: 'B00XDPLTAE-es'
-tags: [ 'fanta','🇪🇸', ]
-actualPrice: 5.39 EUR
+tags: [ 'de','fanta','zumo','🇪🇸', ]
+actualPrice: 5.94 EUR
 currency: EUR
-price: 5.39
+price: 5.94
 comparePrice: 6.93 EUR
-prodname: 'Fanta Limón Refresco de Limón Elaborado a partir de Zumo Bajo en Calorías - Pack de 9 Latas 330 ml'
+prodname: 'Fanta Limón Refresco Bajo en Calorías Pack 9 x 330 ml | Bebida de limón bajo en calorías con zumo de fruta excelente para comidas fiestas y reuniones'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XDPLTAE/?tag=tolees-21'
-descuento: '22.22'
-average: '6.0284'
+descuento: '14.29'
+average: '6.01620689655172'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Joven, vibrante y siempre conectada con un sentimiento universal: la diversión con amigos; Fanta Limón, la icónica bebida con zumo de frutas que conquista a los jóvenes
-- Elaborado con todo su sabor, este refresco contiene un 6% de zumo de limón, está hecho con aromas naturales y es bajo en calorías
-- Viene en un práctico formato de 9 latas de 330 ml cada una, este pack es perfecto para compartir con amigos o para tener en casa y disfrutar cuando te apetezca
-- Disfruta de la bebida refrescante Fanta Limón, el acompañante perfecto para comidas, fiestas y reuniones con amigos o familiares
-- Fanta Limón te ofrece un sabor único y refrescante, gracias a su deliciosa esencia de limón que lo convierte en el refresco perfecto para disfrutar en cualquier momento
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XDPLTAE{{</world>}}

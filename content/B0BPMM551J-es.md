@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Lotus Biscoff Crema para Untar | Cremoso | Tarro PET | 400g'
-date: 2026-10-05 00:22:44
+title: 'Lotus Biscoff Crema para Untar | Cremoso | Tarro PET | 400g | Sabor a Galleta Caramelizada | Vegano | Sin Frutos Secos | Sin Colorantes ni Aromas Añadidos'
+date: 2026-10-16 08:26:14
 image: 'https://m.media-amazon.com/images/I/411cqfW6M2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0BPMM551J-es Lotus Biscoff Crema para Untar | Cremoso | Tarro PET | 400g'
+slug: 'B0BPMM551J-es Lotus Biscoff Crema para Untar | Cremoso | Tarro PET |...'
 sku: 'B0BPMM551J-es'
-tags: [ 'biscoff','🇪🇸', ]
-actualPrice: 3.58 EUR
+tags: [ 'biscoff','frutos','secos','🇪🇸', ]
+actualPrice: 3.68 EUR
 currency: EUR
-price: 3.58
+price: 3.68
 comparePrice: 3.79 EUR
-prodname: 'Lotus Biscoff Crema para Untar | Cremoso | Tarro PET | 400g'
+prodname: 'Lotus Biscoff Crema para Untar | Cremoso | Tarro PET | 400g | Sabor a Galleta Caramelizada | Vegano | Sin Frutos Secos | Sin Colorantes ni Aromas Añadidos'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BPMM551J/?tag=tolees-21'
-descuento: '5.54'
-average: '3.33831325301205'
+descuento: '2.90'
+average: '3.34635294117647'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

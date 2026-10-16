@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tiger Balm Rojo – Bálsamo Original para Masajes con Efecto Calor Alivio Muscular y Articular Fórmula Tradicional con Canela Clavo Mentol y Alcanfor – 19 g'
-date: 2026-09-25 11:52:32
+date: 2026-10-15 01:24:46
 image: 'https://m.media-amazon.com/images/I/41YdJhZAK4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00DN9N1YW-es Tiger Balm Rojo – Bálsamo Original para Masajes con Efecto...'
 sku: 'B00DN9N1YW-es'
 tags: [ 'canela','🇪🇸', ]
-actualPrice: 6.95 EUR
+actualPrice: 6.09 EUR
 currency: EUR
-price: 6.95
+price: 6.09
 comparePrice: 9.95 EUR
 prodname: 'Tiger Balm Rojo – Bálsamo Original para Masajes con Efecto Calor Alivio Muscular y Articular Fórmula Tradicional con Canela Clavo Mentol y Alcanfor – 19 g'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DN9N1YW/?tag=tolees-21'
-descuento: '30.15'
-average: '7.21617021276597'
+descuento: '38.79'
+average: '7.17020408163267'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

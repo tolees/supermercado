@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alta protección SPF 50 Full Spectrum frente a la radiación UVB,/UVA, luz azul, IR-A y la polución.
-- Es ideal para la piel grasa: matifica la piel, no deja residuo graso y es mineral oil free.
 - Con Water Drop Tech, incrementa la fluidez durante la aplicación para una absorción inmediata y una protección fresca y uniforme.
+- Es ideal para la piel grasa: matifica la piel, no deja residuo graso y es mineral oil free.
 - No provoca irritación en los ojos gracias a su tecnología Safe Eye Tech.
+- Alta protección SPF 50 Full Spectrum frente a la radiación UVB,/UVA, luz azul, IR-A y la polución.
 - Aporta hasta 12 horas de hidratación intensa gracias al ácido hialurónico, y acción antioxidante gracias al Mediterranean Alga Extract y a la vitamina E.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

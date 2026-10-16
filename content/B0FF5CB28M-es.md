@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La crema corporal de Orofluido hidratará la piel dejándola suave, radiante y delicadamente perfumada
 - Para una sensación de bienestar, termine su ritual holístico honrando su cuerpo y cuidando su piel
 - La siguiente información se aplica a cada unidad del paquete
+- La crema corporal de Orofluido hidratará la piel dejándola suave, radiante y delicadamente perfumada
 - Para todo tipo de cabello que busque una piel radiante y duradera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

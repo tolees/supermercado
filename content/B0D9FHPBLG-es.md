@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Color Rosa Palo
 - Perfume Mujer de la marca Aire Sevilla
+- Color Rosa Palo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D9FHPBLG{{</world>}}

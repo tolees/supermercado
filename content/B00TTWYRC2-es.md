@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Listerine Mentol Enjuague Bucal Sin Alcohol Sabor Menta Suave 500 ml'
-date: 2026-10-10 18:03:16
+date: 2026-10-15 05:54:34
 image: 'https://m.media-amazon.com/images/I/31pYrLihyJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TTWYRC2/?tag=tolees-21'
 descuento: '62.62'
-average: '3.06709090909091'
+average: '3.02964912280702'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Prepáralo en casa como a ti te gusta
 - Cápsulas hechas con al menos 80% de aluminio reciclado
-- Café 100% Arábica, de tueste suave e intenso
 - Cápsulas compatibles con máquina Nespresso
+- Café 100% Arábica, de tueste suave e intenso
 - STARBUCKS Explorer pack de cafés descafeinados by Nespresso, 60 cápsulas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Finish Sal para lavavajillas - función antical - 2 kg - Mayor rendimiento'
-date: 2026-09-29 01:58:21
+title: 'Finish Sal para lavavajillas - función antical - 2 kg - Mayor rendimiento | Sal para Lavavajillas Función Antical Mayor Rendimiento del Lavaplatos.'
+date: 2026-10-15 03:00:32
 image: 'https://m.media-amazon.com/images/I/51eakKcpVcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00FPLQTPO-es Finish Sal para lavavajillas - función antical - 2 kg -...'
 sku: 'B00FPLQTPO-es'
 tags: [ 'finish','🇪🇸', ]
-actualPrice: 4.99 EUR
+actualPrice: 5.09 EUR
 currency: EUR
-price: 4.99
+price: 5.09
 comparePrice: 6.6 EUR
-prodname: 'Finish Sal para lavavajillas - función antical - 2 kg - Mayor rendimiento'
+prodname: 'Finish Sal para lavavajillas - función antical - 2 kg - Mayor rendimiento | Sal para Lavavajillas Función Antical Mayor Rendimiento del Lavaplatos.'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FPLQTPO/?tag=tolees-21'
-descuento: '24.39'
-average: '4.85481481481481'
+descuento: '22.88'
+average: '4.86321428571428'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Aromas que seducen: Notas florales de azahar, manzana verde y frutas exóticas que invitan al primer sorbo
 - Brinda con estilo & sin complicaciones: Este pack de 3 botellas de Flor Innata Frizzante está diseñado para esos momentos espontáneos con amigos: cava ligera, refrescante y lista para disfrutar
-- Burbuja fina y elegante: Fermentación interrumpida de forma natural mediante frío que conserva parte del azúcar de la uva creando un perfil sedoso y ligeramente dulce
 - Elaboración consciente: Vinificado con uvas Verdejo y Gewürztraminer, la fermentación se interrumpe en frío para conservar una burbuja fina y una graduación moderada
 - Boca refrescante y divertida: Goloso, ligero y con chispa, un vino desenfadado sin perder calidad
+- Burbuja fina y elegante: Fermentación interrumpida de forma natural mediante frío que conserva parte del azúcar de la uva creando un perfil sedoso y ligeramente dulce
 - Pack práctico & listo para disfrutar: Al tener tres botellas de 75 cl, es adecuado para eventos, pequeños regalos o para tener en casa lista para cuando las ganas aprecien
 - Versátil para cualquier ocasión: Como aperitivo, para brunchs, picoteos o simplemente para compartir en casa con buena música
 

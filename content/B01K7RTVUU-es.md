@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- De agricultura sostenible
+- Knorr Crema de Calabacín con Queso de Cabra 500ml
 - Deliciosa crema de calabacín tradicional
 - Con verduras frescas
-- Knorr Crema de Calabacín con Queso de Cabra 500ml
-- De agricultura sostenible
 - Con ingredientes naturales
 
 [🛒 Visítala!!!]({{< param buyurl >}})

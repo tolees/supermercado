@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Conservar en lugar fresco y seco
 - Irresistible sabor a fresa
 - Ideales para compartir
-- Conservar en lugar fresco y seco
 - Regaliz rojo en forma de disco desenrrollable
 - Un snack para niños y adultos también
 

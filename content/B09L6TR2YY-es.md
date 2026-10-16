@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ideal para el desayuno o una pausa durante el día
-- Fácil y rápido de preparar
 - Conservar en lugar fresco y seco
+- Fácil y rápido de preparar
+- Ideal para el desayuno o una pausa durante el día
 - Tiene un sabor intenso
 - Se puede servir solo o con leche
 

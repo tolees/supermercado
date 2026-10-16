@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Color intenso y de larga duración
 - Formula duradera, no mancha ni transfiere el color
-- Aplicador único fino y preciso adecuado para perfilar
 - 21 tonos diferentes
+- Aplicador único fino y preciso adecuado para perfilar
 - Labial líquido con acabado mate
 
 [🛒 Visítala!!!]({{< param buyurl >}})

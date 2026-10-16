@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Deliciosas piezas redondeadas recubiertas de azúcar
 - Caramelos de goma
 - Irresistible sabor a nata-fresa
+- Deliciosas piezas redondeadas recubiertas de azúcar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0713WXGZM{{</world>}}

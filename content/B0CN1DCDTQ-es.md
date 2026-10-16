@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Producto sin gluten
+- Diferentes tamaños ( 16mm ) y (25 mm)
 - Con la garantia total de ichuches
 - En paquetes de 1 kg y 2 kg
-- Diferentes tamaños ( 16mm ) y (25 mm)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CN1DCDTQ{{</world>}}

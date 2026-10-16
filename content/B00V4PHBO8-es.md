@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gel de baño
 - Para piel sensible
+- Gel de baño
 - Envase: 400 ml
 
 [🛒 Aquí!!!]({{< param buyurl >}})

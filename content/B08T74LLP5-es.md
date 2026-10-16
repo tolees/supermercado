@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Testado dermatológicamente
 - Gel de ducha para pieles secas con hidratantes naturales
-- Mantiene la piel sana respetando el medio ambiente
 - Contiene sólo los ingredientes necesarios
 - Fórmulas únicas que combinan cuidado e higiene
-- Testado dermatológicamente
+- Mantiene la piel sana respetando el medio ambiente
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08T74LLP5{{</world>}}

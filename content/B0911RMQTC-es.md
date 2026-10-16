@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tostado con notas de vainilla y tabaco
 - En boca es rico y equilibrado
-- De color ámbar oscuro brillante
+- Tostado con notas de vainilla y tabaco
 - Ideal para preparar cócteles
 - Envejecido con el método tradicional solera
+- De color ámbar oscuro brillante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0911RMQTC{{</world>}}

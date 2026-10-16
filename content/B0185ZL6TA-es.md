@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Papel blanco
-- Muy suave
 - 4 capas
+- Muy suave
+- Papel blanco
 - 7 pañuelos por paquetito
 - 6 paquetitos por pack
 

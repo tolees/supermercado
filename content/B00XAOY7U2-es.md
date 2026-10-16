@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Suave efecto balsámico
 - Caramelo duro con azúcar de menta fresca
+- Suave efecto balsámico
 - Perfecto para inspirar y respirar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

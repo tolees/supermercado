@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Scottex Gigante Papel Higiénico Seco 18 rollos'
-date: 2026-09-27 17:20:13
+date: 2026-10-14 23:38:22
 image: 'https://m.media-amazon.com/images/I/41vW65AzQnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0DBQMHXVT-es Scottex Gigante Papel Higiénico Seco 18 rollos'
 sku: 'B0DBQMHXVT-es'
 tags: [ 'scottex','🇪🇸', ]
-actualPrice: 13.49 EUR
+actualPrice: 15.99 EUR
 currency: EUR
-price: 13.49
+price: 15.99
 comparePrice: 15.99 EUR
 prodname: 'Scottex Gigante Papel Higiénico Seco 18 rollos'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DBQMHXVT/?tag=tolees-21'
-descuento: '15.63'
-average: '12.0785714285713'
+descuento: '0.00'
+average: '12.2563636363635'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

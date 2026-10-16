@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ligeresa Salsa Bocabajo 60% menos de grasa Original Apta para vegetarianos 250 ml'
-date: 2026-10-13 10:05:12
+date: 2026-10-15 09:39:50
 image: 'https://m.media-amazon.com/images/I/41o0MTZpUTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DZCKS957/?tag=tolees-21'
 descuento: '45.95'
-average: '1.0448888888889'
+average: '1.04297872340426'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

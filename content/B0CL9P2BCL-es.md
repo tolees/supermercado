@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Renova - Maxiabsorption Rollos de cocina XXL Triple Blanco - 1 Rollo Paquete de 2'
-date: 2026-10-08 22:16:22
+date: 2026-10-14 23:24:42
 image: 'https://m.media-amazon.com/images/I/516P6kd36EL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CL9P2BCL/?tag=tolees-21'
 descuento: '45.95'
-average: '2.16571428571429'
+average: '2.145'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

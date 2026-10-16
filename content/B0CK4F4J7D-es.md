@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Producto Head Case Designs Licenciado Oficialmente Peanuts
 - Diseño en cuero elaborado a mano
-- Soporte multiusos. Perfecto para ver películas
 - Sistema de cierre magnético
+- Soporte multiusos. Perfecto para ver películas
 - Varios bolsillos para el DNI y las tarjetas de crédito
 
 [🛒 Visítala!!!]({{< param buyurl >}})

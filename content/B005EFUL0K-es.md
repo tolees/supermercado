@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Formato de 6 cómodos envases individuales para facilitar su consumo. Receta sin azúcar, colorantes ni saborizantes artificiales
-- Recomendación de empleo, como snack entre comidas o como complemento a la comida principal
-- Para gatos a partir de 3 meses de edad
 - Snack funcional textura líquida, de sabor pollo y enriquecido con taurina para apoyar la actividad del ojo y corazón
+- Recomendación de empleo, como snack entre comidas o como complemento a la comida principal
+- Formato de 6 cómodos envases individuales para facilitar su consumo. Receta sin azúcar, colorantes ni saborizantes artificiales
+- Para gatos a partir de 3 meses de edad
 - Su textura cremosa lo hace altamente palatable para los gatos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

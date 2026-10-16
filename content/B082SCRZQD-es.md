@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Gel de ducha purificante detox té matcha & pera con extractos naturales de pera y té matcha.
-- CrueltyFree
-- La pureza del té matcha antioxidante de japón junto con el frescor de la pera, aportan minerales y vitaminas a tu piel.
 - Extractos naturales: pera y té matcha
+- La pureza del té matcha antioxidante de japón junto con el frescor de la pera, aportan minerales y vitaminas a tu piel.
+- CrueltyFree
 - Descubre una piel con sensación suave, hidratada y purificada en cada ducha.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -32,8 +32,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - La siguiente información se aplica a cada unidad del paquete
 - Dale chispa a tus platos y saborea la vida disfrutando con los tuyos. Prima, Salseo del bueno.
 - Con la gama más amplia del mercado, Prima es Nº1 en salsas Cero sin azúcares añadidos.
-- Misma receta ahora envasada en botella 100% reciclada
 - Todo el sabor ahumado de nuestra salsa Barbacoa Prima ahora también sin azúcares añadidos y con un 70% menos de calorías. Sin gluten, sin lactosa y apta para veganos.
+- Misma receta ahora envasada en botella 100% reciclada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DP527LJN{{</world>}}

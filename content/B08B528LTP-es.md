@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contiene azúcares naturales y está enriquecido con ácido fólico
-- Alto contenido de grasas monoinsaturadas
 - Con chocolate y quinoa
-- Sin aceite de palma
-- 1 x Santiveri Quinua Chocolate Digestivo Galletas - 175g
+- Alto contenido de grasas monoinsaturadas
 - Casa Santiveri S.L Encuny 8 08038 Barcelona, Espana / Spain
+- 1 x Santiveri Quinua Chocolate Digestivo Galletas - 175g
+- Sin aceite de palma
+- Contiene azúcares naturales y está enriquecido con ácido fólico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08B528LTP{{</world>}}

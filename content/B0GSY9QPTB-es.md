@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Género; Masculino/Unisex. Adulto.
-- La siguiente información se aplica a cada unidad del paquete
 - Gel de baño y ducha revitalizante, proporcionará una sensación única y estimulante gracias al efecto Ginseng.
-- Libre de parabenos y colorantes. Dermatológicamente testado.
 - Gel muy perfumado y fresco. Fragancia exclusiva y Original.
+- Género; Masculino/Unisex. Adulto.
+- Libre de parabenos y colorantes. Dermatológicamente testado.
+- La siguiente información se aplica a cada unidad del paquete
 - No testado en animales. Vegano. Fabricación íntegra en España.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

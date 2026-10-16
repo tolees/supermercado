@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cruzantes, dorados y sabrosos copos de maíz
+- Conservar en un lugar fresco y seco
 - El maíz utilizado es variedades cultivadas por agricultores en Argentina
 - Con vitaminas añadidas
-- Conservar en un lugar fresco y seco
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B014WNE70O{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- SIN LACTOSA: No se utiliza leche en su elaboración, por lo que no contienen lactosa ni proteínas lácteas.
-- SIN GLUTEN: Apto para personas con intolerancia al gluten o para quienes deseen reducir su consumo, gracias a sus ingredientes y a un estricto control en todo el proceso de fabricación. Certificado por el Sistema de Licencia Europeo con el símbolo ELS de la espiga barrada.
 - SIN AZÚCAR REFINADO: Elaboradas con azúcar moreno de caña integral.
-- CONSERVACIÓN: Mantener en lugar fresco y seco. Cerrar bien la bolsa una vez abierta.
 - VEGANO: Producto apto para veganos, elaborado sin ingredientes de origen animal. Sus carbohidratos complejos proporcionan una reserva de energía duradera y constante. Elaboradas con aceites de girasol y oliva que proporcionan un alto contenido de grasas insaturadas.
+- SIN GLUTEN: Apto para personas con intolerancia al gluten o para quienes deseen reducir su consumo, gracias a sus ingredientes y a un estricto control en todo el proceso de fabricación. Certificado por el Sistema de Licencia Europeo con el símbolo ELS de la espiga barrada.
+- SIN LACTOSA: No se utiliza leche en su elaboración, por lo que no contienen lactosa ni proteínas lácteas.
+- CONSERVACIÓN: Mantener en lugar fresco y seco. Cerrar bien la bolsa una vez abierta.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00HZTHN4A{{</world>}}

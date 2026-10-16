@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Geles dulces sabor fresa
 - Irresistible sabor a fresa-nata
+- Geles dulces sabor fresa
 - Deliciosas piezas en forma de ladrillos recubiertos de pica
 
 [🛒 Comprar!!!]({{< param buyurl >}})

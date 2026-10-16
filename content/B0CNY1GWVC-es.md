@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cápsulas compatibles con máquina Nespresso
-- Descubre todas nuestras variedades, de diferentes tuestes (suave, medio e intenso), blends y orígenes
 - Café 100% Arábica
-- Cápsulas hechas con al menos 80% de aluminio reciclado
 - STARBUCKS Discovery Variety Pack by NESPRESSO, 60 cápsulas
+- Descubre todas nuestras variedades, de diferentes tuestes (suave, medio e intenso), blends y orígenes
+- Cápsulas hechas con al menos 80% de aluminio reciclado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CNY1GWVC{{</world>}}

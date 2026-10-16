@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Añade 2 cucharaditas de Nesquik Fresa en un vaso de 200 ml de leche semidesnatada, fría o caliente; remuévelo y disfruta
 - Instáneo tanto en leche fría como caliente
+- Añade 2 cucharaditas de Nesquik Fresa en un vaso de 200 ml de leche semidesnatada, fría o caliente; remuévelo y disfruta
+- Formato Bolsa de 350 g
 - Haz tu batido de fresa con Nesquik Fresa; una bebida óptima para cualquier momento
 - Sin Gluten
-- Formato Bolsa de 350 g
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DCFZ7SKL{{</world>}}

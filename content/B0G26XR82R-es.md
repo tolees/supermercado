@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Desodorante en formato stick 50ml.
-- Desodorante Axe Stick Vanilla.
 - Fragancia exclusiva con notas de vainilla negra, naranja y sándalo, diseñada para destacar con elegancia y frescura.
+- Desodorante Axe Stick Vanilla.
 - Sin aluminio y sin alcohol.
 - Proporciona protección durante 72 horas contra el mal olor.
 

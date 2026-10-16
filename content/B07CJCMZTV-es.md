@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Protege el cuero cabelludo
 - Para cabellos rubios
+- Protege el cuero cabelludo
 - Sin Parabenos, ni PEGs
 
 [🛒 Visítala!!!]({{< param buyurl >}})

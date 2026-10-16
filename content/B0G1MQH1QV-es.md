@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Seguro y bien diseñado: todos los materiales están probados, de alta calidad y diseñados para niños – para manualidades sin preocupaciones con un resultado radiante
-- Fortalecimiento de la motricidad fina: cortar, dar forma y enhebrar promueven la habilidad y la concentración. Diversión perfecta para manualidades para niños creativos a partir de 8 años
+- EXPERIENCIA MÁGICA: Sumérgete en el mundo submarino y crea tu propia medusa luminosa: flota en la oscuridad y convierte tu habitación en un mar de luz y brillo
 - LENA Tradición: durante décadas, LENA ha desarrollado conjuntos de manualidades pensados que combinan el aprendizaje y el juego, para padres que apuestan por la calidad comprobada
 - DESCUBRE LA CREATIVIDAD: con limpiapipas, cintas brillantes, hilo brillante y tul crean medusas mágicas que despiertan la imaginación y el deseo de diseñar
-- EXPERIENCIA MÁGICA: Sumérgete en el mundo submarino y crea tu propia medusa luminosa: flota en la oscuridad y convierte tu habitación en un mar de luz y brillo
+- Fortalecimiento de la motricidad fina: cortar, dar forma y enhebrar promueven la habilidad y la concentración. Diversión perfecta para manualidades para niños creativos a partir de 8 años
+- Seguro y bien diseñado: todos los materiales están probados, de alta calidad y diseñados para niños – para manualidades sin preocupaciones con un resultado radiante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G1MQH1QV{{</world>}}

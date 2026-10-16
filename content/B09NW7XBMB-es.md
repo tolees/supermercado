@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Limonada con zumo de limón con un contenido de fruta de 20%. Este es el contenido óptimo de fruta para que su sabor y textura sea así de buena
 - Granini - Limonada Bebida de Limón a partir de Zumo de limón Pack 6 x 1L Clásicos
-- Bebida con zumo de frutas concentrado en formato PET 1L. Agitar antes de usar, una vez abierto conservar en el frigorífico
 - Bebida de limón hecha a partir de zumo de limón Sin conservantes ni colorantes
+- Limonada con zumo de limón con un contenido de fruta de 20%. Este es el contenido óptimo de fruta para que su sabor y textura sea así de buena
+- Bebida con zumo de frutas concentrado en formato PET 1L. Agitar antes de usar, una vez abierto conservar en el frigorífico
 - Zumo de limón como principal ingrediente, hecha con los mejores limones madurados al sol
 
 [🛒 Visítala!!!]({{< param buyurl >}})

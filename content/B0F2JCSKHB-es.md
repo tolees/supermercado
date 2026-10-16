@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- INFUSIÓN DE MANZANILLA BIO: Relajación natural con manzanilla ecológica: Elaborada exclusivamente con flores de Matricaria Chamomilla cultivadas sin pesticidas ni químicos.
-- Ideal para momentos de calma: Perfecta para tomar por la noche o en pausas de relajación, gracias a sus propiedades suavemente sedantes.
-- Sin cafeína y 100% natural: Apta para toda la familia y para cualquier momento del día, incluso antes de dormir.
 - Sabor delicado y floral: Una infusión de color dorado y gusto suave, pensada para cuidar cuerpo y mente.
+- Ideal para momentos de calma: Perfecta para tomar por la noche o en pausas de relajación, gracias a sus propiedades suavemente sedantes.
+- INFUSIÓN DE MANZANILLA BIO: Relajación natural con manzanilla ecológica: Elaborada exclusivamente con flores de Matricaria Chamomilla cultivadas sin pesticidas ni químicos.
+- Sin cafeína y 100% natural: Apta para toda la familia y para cualquier momento del día, incluso antes de dormir.
 - SOBRE NOSOTROS: En Cupper combinamos la pasión inglesa por el té, con los beneficios de la producción natural. Somos empresa BCorp certificada y cumplimos con altos estándares de impacto social y ambiental. ¡Bueno para ti, bueno para el planeta!
 
 [🛒 Visítala!!!]({{< param buyurl >}})

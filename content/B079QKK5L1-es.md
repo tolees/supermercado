@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Aneto 100% Natural - Caldo de Pollo Ecológico - caja de 6 unidades de 1L'
-date: 2026-04-17 03:53:40
+date: 2026-10-16 06:58:09
 image: 'https://m.media-amazon.com/images/I/51GQWn3395L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'caldo','de','pollo','🇪🇸', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0
-comparePrice: 31.5 EUR
+comparePrice: 32.1 EUR
 prodname: 'Aneto 100% Natural - Caldo de Pollo Ecológico - caja de 6 unidades de 1L'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B079QKK5L1/?tag=tolees-21'
-descuento: '52.38'
-average: '20.025'
+descuento: '53.27'
+average: '19.875'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin lactosa, sin gluten y sin huevo.
-- Envase reciclado.
-- Cocido en olla a fuego lento durante 3 horas.
-- Solo ingredientes naturales.
-- Como lo harías en casa.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B079QKK5L1{{</world>}}

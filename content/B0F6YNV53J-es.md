@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Bebida refrescante de zumo de frutas sin colorantes ni aromas artificiales
+- Disfruta del sabor de Trina Naranja sin azúcar y con 10% zumo de naranja
 - Los refrescos sin burbujas de Trina son perfectos para cualquier momento del día
 - Trina Zero es el refresco sin gas de naranja sin azúcares añadidos
-- Disfruta del sabor de Trina Naranja sin azúcar y con 10% zumo de naranja
-- Bebida refrescante de zumo de frutas sin colorantes ni aromas artificiales
 - El refresco hecho con zumo de naranja y además sin azúcar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

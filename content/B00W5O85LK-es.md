@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fórmula infantil única que contiene PROTECT PLUS con Bífidus Lactis
-- Proceso exclusivo de calidad proteica
-- NESTLÉ experto en nutrición infantil
 - Leche de crecimiento NIDINA, fórmula infantil para bebés a partir de los 2 años
+- Fórmula infantil única que contiene PROTECT PLUS con Bífidus Lactis
+- NESTLÉ experto en nutrición infantil
+- Proceso exclusivo de calidad proteica
 - Leche para bebés con inmunonutrientes protectores (Hierro, Zinc, Vitaminas A, C y D) que contribuyen a la función normal del sistema inmunitario
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

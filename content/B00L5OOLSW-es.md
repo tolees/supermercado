@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Powerade Ice Storm Bebida Isotonica Sin Gluten Pack 12 x 500 ml'
-date: 2026-09-26 10:49:00
+date: 2026-10-15 02:18:46
 image: 'https://m.media-amazon.com/images/I/51ltqXgGzgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00L5OOLSW/?tag=tolees-21'
 descuento: '35.48'
-average: '11.9564285714286'
+average: '11.9618750000001'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

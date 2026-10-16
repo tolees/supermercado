@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Enriquecida con ácido hialurónico y escualeno.
 - Fórmula limpia y vegana.
 - Aplicador único XXL.
-- Textura rica y suave.
 - Efecto labios rellenos.
+- Textura rica y suave.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CXWSTT7K{{</world>}}

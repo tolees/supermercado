@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Apetitosos snacks para perros del tamaño de un sabroso bocadito que gustarán tanto a perros grandes como a pequeños
 - Deliciosos snacks de Pedigree para perro que no contienen colorantes ni saborizantes artificiales
 - Mimar a tu mascota con la mejor recompensa para perros
+- Apetitosos snacks para perros del tamaño de un sabroso bocadito que gustarán tanto a perros grandes como a pequeños
 - Omega 3 para darles vitalidad, vitaminas para nutrir sus defensas naturales y minerales como el calcio para fortalecer sus huesos, la mejor recompensa para tu perro
 
 [🛒 Aquí!!!]({{< param buyurl >}})

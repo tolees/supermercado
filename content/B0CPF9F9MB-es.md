@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con su óptima textura, las galletas Fontaneda son hechas para compartir en meriendas o disfrutar a solas
-- Descubre la tradición de Fontaneda, creando galletas desde 1881 con ingredientes de calidad y sabor excepcional
-- Estas galletas combina un 49% de cereales, trigo y cacao de calidad, garantizando un snack saludable
-- La siguiente información se aplica a cada unidad del paquete
 - Fontaneda Yayitas son galletas crujientes con pepitas de chocolate y cacao hechas para un desayuno delicioso
+- Descubre la tradición de Fontaneda, creando galletas desde 1881 con ingredientes de calidad y sabor excepcional
 - Presentadas en un formato de 250 g, son fáciles de llevar y disfrutar en cualquier momento del día
+- La siguiente información se aplica a cada unidad del paquete
+- Con su óptima textura, las galletas Fontaneda son hechas para compartir en meriendas o disfrutar a solas
+- Estas galletas combina un 49% de cereales, trigo y cacao de calidad, garantizando un snack saludable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CPF9F9MB{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Desodorante sin aluminio
-- Desodorante antitranspirante fragancia dark temptation con aroma a chocolate negro​
 - Huele irresistible durante 48 horas gracias al componente antiolor zinc complex​
+- Desodorante antitranspirante fragancia dark temptation con aroma a chocolate negro​
 - Aplicación: vaporizar manteniendo el spray a 15cm de tu piel​
+- Desodorante sin aluminio
 - Desodorante hombre antitranspirante bodyspray Axe con tecnología dual action: elimina el mal olor con fragancias irresistibles​
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

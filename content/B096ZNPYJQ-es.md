@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Versátil y fácil de utilizar.
-- Úsalo en recetas de pasta o en un sándwich.
 - Envase hermético fácil de almacenar y apilable.
 - Lomo de atún en aceite de oliva, delicioso con una patata asada con cebolleta.
+- Úsalo en recetas de pasta o en un sándwich.
+- Versátil y fácil de utilizar.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096ZNPYJQ{{</world>}}

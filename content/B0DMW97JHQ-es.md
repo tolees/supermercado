@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aplicador único XXL.
-- Efecto labios rellenos.
 - Textura rica y suave.
+- Efecto labios rellenos.
+- Aplicador único XXL.
 - Enriquecida con ácido hialurónico y escualeno.
 - Fórmula limpia y vegana.
 

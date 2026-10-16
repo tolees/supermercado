@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Vuelve la marca Matutano, para traer memorias y nuevos productos para toda la familia
 - Aperitivo de maíz
-- Formato de 90 gramos, optimo tanto para compartir como para comer de manera individual
 - Sabor a queso con forma de círculos
+- Formato de 90 gramos, optimo tanto para compartir como para comer de manera individual
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F1N3BCVG{{</world>}}

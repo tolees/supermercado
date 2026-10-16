@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - PERFIL SENSORIAL: Café espresso con cuerpo y muy intenso, con notas de nueces tostadas y una leve acidez; Aroma 3/10, cuerpo 9/10, acidez 3/10, Equilibrio 5/10, intensidad 14/15
-- INTENSIDAD: Cápsulas de café molido de tueste natural con intensidad 14, perfecto para los amantes del espresso
-- CALIDAD DELTA Q: La combinación perfecta de granos provenientes de las mejores regiones productoras de café del mundo y del arte del tostado
 - ORIGEN: Mezcla de granos de café procedentes de Costa de Marfil, Angola y Congo
+- INTENSIDAD: Cápsulas de café molido de tueste natural con intensidad 14, perfecto para los amantes del espresso
 - COMPATIBLE: Paquete de 40 cápsulas de café EpiQ (1 x 40 cápsulas de café) compatible con todas las cafeteras Delta Q
+- CALIDAD DELTA Q: La combinación perfecta de granos provenientes de las mejores regiones productoras de café del mundo y del arte del tostado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B086F6PVKW{{</world>}}

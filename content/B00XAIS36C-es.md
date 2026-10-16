@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Respeta el manto lipídico y limpia en profundidad
-- Gel de Baño con las proteínas de la Avena y la Leche
 - Sensación de Limpieza e Hidratación
+- Gel de Baño con las proteínas de la Avena y la Leche
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XAIS36C{{</world>}}

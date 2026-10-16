@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pack mixto de Pollo y Salmon
-- Digestión fácil: con inulina prebiótica que puede favorecer la digestión
 - En prácticos packs de 24 un x 100g
 - Alimento completo y equilibrado para perros adultos de tamaño mini (1-10 kg)
+- Pack mixto de Pollo y Salmon
+- Digestión fácil: con inulina prebiótica que puede favorecer la digestión
 - Para perros que disfrutan combinar pollo con el toque del mar.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Lactovit - Desodorante Roll-On Extra Eficaz ProLactic10 48H - 50 ml'
-date: 2026-09-20 18:06:48
-image: 'https://m.media-amazon.com/images/I/317zwm7i-4L._SL500_._SL400_.jpg'
+title: 'LACTOVIT roll on extra eficaz 72h 50ml. | Cuida las axilas desde el primer uso sin dejar manchas blancas en la ropa'
+date: 2026-10-16 03:26:52
+image: 'https://m.media-amazon.com/images/I/31OH2d8VPAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00LPLHN76-es Lactovit - Desodorante Roll-On Extra Eficaz ProLactic10...'
+slug: 'B00LPLHN76-es LACTOVIT roll on extra eficaz 72h 50ml. | Cuida las axilas...'
 sku: 'B00LPLHN76-es'
-tags: [ 'desodorante','lactovit','🇪🇸', ]
-actualPrice: 2.25 EUR
+tags: [ 'lactovit','🇪🇸', ]
+actualPrice: 2.15 EUR
 currency: EUR
-price: 2.25
+price: 2.15
 comparePrice: 2.25 EUR
-prodname: 'Lactovit - Desodorante Roll-On Extra Eficaz ProLactic10 48H - 50 ml'
+prodname: 'LACTOVIT roll on extra eficaz 72h 50ml. | Cuida las axilas desde el primer uso sin dejar manchas blancas en la ropa'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LPLHN76/?tag=tolees-21'
-descuento: '0.00'
-average: '2.16577777777779'
+descuento: '4.44'
+average: '2.16448979591838'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

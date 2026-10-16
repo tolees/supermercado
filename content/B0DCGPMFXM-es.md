@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ADIDAS Fragancia Eau de Toilette UEFA GOAL 100 ml'
-date: 2026-08-22 11:07:55
+date: 2026-10-16 04:11:29
 image: 'https://m.media-amazon.com/images/I/41QfqbISGDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0DCGPMFXM-es ADIDAS Fragancia Eau de Toilette UEFA GOAL 100 ml'
 sku: 'B0DCGPMFXM-es'
 tags: [ 'de','eau','toilette','🇪🇸', ]
-actualPrice: 5.9 EUR
+actualPrice: 10.45 EUR
 currency: EUR
-price: 5.9
-comparePrice: 6.95 EUR
+price: 10.45
+comparePrice: 10.45 EUR
 prodname: 'ADIDAS Fragancia Eau de Toilette UEFA GOAL 100 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DCGPMFXM/?tag=tolees-21'
-descuento: '15.11'
-average: '6.6'
+descuento: '0.00'
+average: '7.15'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para hombre
-- Eau de Toilette 100 ml
-- Fragancia inspirada para los amantes del fútbol
-- Fragancia Eau de Toilette UEFA GOAL 100 ml
-- Fragancia fougère verde
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DCGPMFXM{{</world>}}

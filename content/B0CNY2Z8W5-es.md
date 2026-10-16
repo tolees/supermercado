@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disfruta de una mezcla de cafés de tueste medio con granos de café arábica y robusta
 - Caja de diferentes variedades de cáspulas de café NESCAFÉ Farmers Origins. 6 estuches (60 cápsulas)
 - Todas las cápsulas NESCAFÉ Farmers Origins son de café de origen responsable al 100%, obtenido en colaboración con Conservation International
-- Compatible con máquinas NESPRESSO
+- Disfruta de una mezcla de cafés de tueste medio con granos de café arábica y robusta
 - Una variedad de sabores de todo el mundo
+- Compatible con máquinas NESPRESSO
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CNY2Z8W5{{</world>}}

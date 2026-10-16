@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contiene vitaminas, minerales y está una fuente de fibra
-- Se puede servir en el desayuno con fruta, leche o agua
 - Cada estuche contiene 6 barritas
 - Sin colorantes o aroma artificiales
+- Se puede servir en el desayuno con fruta, leche o agua
+- Contiene vitaminas, minerales y está una fuente de fibra
 - Barritas de cereales integrales con chocolate
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puede contener fragmentos del hueso de la fruta
-- No apto para alérgicos a los frutos de cáscara, los cacahuetes, el sésamo, la soja y los sulfitos, ni para celíacos, debido al método de producción
 - Apto para dietas vegetarianas y veganas
+- No apto para alérgicos a los frutos de cáscara, los cacahuetes, el sésamo, la soja y los sulfitos, ni para celíacos, debido al método de producción
+- Puede contener fragmentos del hueso de la fruta
 - Envasado en atmósfera protectora para mantener su frescura
 - Alto contenido de fibra
 - El embalaje puede variar

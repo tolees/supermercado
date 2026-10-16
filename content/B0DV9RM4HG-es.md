@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Medidas: 4 x 4 x 17 centímetros
-- Referencia: S05126495
-- Color: Multicolor
 - Crema de la marca Eucerin
+- Medidas: 4 x 4 x 17 centímetros
+- Color: Multicolor
+- Referencia: S05126495
 - ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Antaño Crianza Vino Tinto D.O. Rioja 750ml'
-date: 2026-09-07 14:06:42
+date: 2026-10-16 06:30:41
 image: 'https://m.media-amazon.com/images/I/31PZO6AFwSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B003ZZC9CY-es Antaño Crianza Vino Tinto D.O. Rioja 750ml'
 sku: 'B003ZZC9CY-es'
 tags: [ 'tinto','vino','🇪🇸', ]
-actualPrice: 3.35 EUR
+actualPrice: 3.49 EUR
 currency: EUR
-price: 3.35
+price: 3.49
 comparePrice: 5.0 EUR
 prodname: 'Antaño Crianza Vino Tinto D.O. Rioja 750ml'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B003ZZC9CY/?tag=tolees-21'
-descuento: '33.00'
-average: '3.2351724137931'
+descuento: '30.20'
+average: '3.2516129032258'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,12 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El embalaje puede variar
-- Vino tinto de color rubí intenso con capa media alta brillante
-- Adecuado para acompañar asados, parilladas, ahumados y quesos
-- Tiene toques frutales, de bayas rojas con perfumes de vainilla y especias
-- Con una textura tánica agradable
-- Con sabor suave y sabroso
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B003ZZC9CY{{</world>}}

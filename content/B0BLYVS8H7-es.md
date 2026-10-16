@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ricola - Arándano Rojo Caramelos Duros Refresca y Alivia la Garganta y las Vías Respiratorias 13 Hierbas Suizas y Aceites Esenciales Sin Azúcar con Edulcorante - Bolsa 70 g'
-date: 2026-10-11 11:52:58
+date: 2026-10-15 12:38:41
 image: 'https://m.media-amazon.com/images/I/41XRAkjJ4-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BLYVS8H7/?tag=tolees-21'
 descuento: '20.49'
-average: '1.98166666666667'
+average: '1.97571428571429'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

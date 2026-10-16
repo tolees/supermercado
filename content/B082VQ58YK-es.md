@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Johnson s Baby Comfort Touch Gel de Baño y Champú Aroma de Coco 500 ml'
-date: 2026-09-12 11:46:44
+date: 2026-10-15 01:19:07
 image: 'https://m.media-amazon.com/images/I/31Sv3NYvDBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B082VQ58YK/?tag=tolees-21'
 descuento: '0.00'
-average: '4.068'
+average: '4.15181818181818'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

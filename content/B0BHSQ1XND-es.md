@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin colorantes añadidos
 - Ayuda a la tolerancia del alimento
 - productos para mascotas
 - Se debe conservar en un lugar fresco y seco
 - Comida completa y equilibrada
+- Sin colorantes añadidos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BHSQ1XND{{</world>}}

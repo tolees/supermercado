@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Wilkinson Sword GmbH
 - 11.25
+- Wilkinson Sword GmbH
 - No
 
 [🛒 Aquí!!!]({{< param buyurl >}})

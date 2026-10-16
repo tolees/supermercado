@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Jabón de manos
-- Floral
 - Suave aroma
+- Floral
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01FFITJNU{{</world>}}

@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Buen tacto
 - Mitad color, mitad blanco decorado
 - 140 servilletas
-- Buen tacto
-- En rosa o verde
 - Servilletas de 1 capa
 - 32 cm x 30 cm
+- En rosa o verde
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01LCV2QPM{{</world>}}

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Disfruta de un plato típico de la cocina casera española, con la calidad de LITORAL
+- Selecto embutido elaborado en Asturias, embutido 100% local
 - Comida española fácil de preparar: al baño maria, en cazo o al microondas
 - Ingredientes 100% naturales, sin gluten, sin colorantes ni conservantes
 - Fuente de fibra
-- Selecto embutido elaborado en Asturias, embutido 100% local
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B098TVS1Q6{{</world>}}

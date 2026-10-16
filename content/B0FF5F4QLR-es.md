@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ABRIGO LARGO: el moderno abrigo de mezcla de lana brinda calidez y estilo a cualquier look
-- MEZCLA DE LANA CEPILLADA: melton suave y cepillado que ofrece una sensación lujosa y refinada
 - DETALLES: cierre frontal con botones cruzados, detalle clásico de solapa, forro completo, bolsillos ribeteados, ventilación trasera, detalle de botones en la parte posterior de la manga
+- MEZCLA DE LANA CEPILLADA: melton suave y cepillado que ofrece una sensación lujosa y refinada
+- ABRIGO LARGO: el moderno abrigo de mezcla de lana brinda calidez y estilo a cualquier look
 - CORTE HOLGADO: corte cómodo y holgado en los hombros, el pecho y la cintura
 
 [🛒 Comprar!!!]({{< param buyurl >}})

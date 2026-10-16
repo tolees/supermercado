@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Instrucciones para su uso adecuado: Abrir y consumir; información de alérgenos: cereals containing gluten; ingredientes: Ingredientes: Cereales 50,7 % (harina de TRIGO 35 %, harina de TRIGO integral 15,7 %), azúcar, grasa de palma, aceite de nabina, cacao magro en polvo 4,5 %, jarabe de glucosa, almidón de TRIGO, gasificantes (carbonato ácido de amonio, carbonato ácido de sodio, difosfato disódico), emulgentes (lecitina de SOJA, lecitina de girasol), sal, LECHE desnatada en polvo, lactosa y proteínas de LECHE, aromas; pUEDE CONTENER HUEVO
-- Práctico sistema de abre y cierra, que ayuda a una mejor conservación
 - Nueva fórmula mejorada. Disfruta aún más de la crujiente galleta de trigo y la crema de chocolate
 - Alérgenos: soja, huevos, leche, frutos de cáscara, harina de trigo.
 - Conservar en lugar fresco y seco
+- Práctico sistema de abre y cierra, que ayuda a una mejor conservación
 - Galleta tipo sándwich rellena de crema de chocolate con leche
 
 [🛒 Comprar!!!]({{< param buyurl >}})

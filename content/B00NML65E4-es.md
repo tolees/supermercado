@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Protege la flora cutánea natural con un pH neutro para la piel
-- Para ducharse y lavarse
-- Producto fabricado en Alemania por EUBOS, una empresa familiar fundada en 1930
 - Cuida la piel durante el lavado
 - Limpia delicadamente sin jabón
+- Producto fabricado en Alemania por EUBOS, una empresa familiar fundada en 1930
+- Para ducharse y lavarse
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00NML65E4{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Empaquetado en una caja de cartón ecológica con el logotipo de Sonic, ideal para exponer.
 - Añade un toque divertido al “jeep ducking” con estos originales patos coleccionables disfrazados.
+- Mide aproximadamente 9 cm de alto fuera del embalaje, ideal para decorar estanterías, escritorios o el salpicadero del coche.
+- Empaquetado en una caja de cartón ecológica con el logotipo de Sonic, ideal para exponer.
 - Colecciona personajes de películas, videojuegos, bandas y series de televisión, transformados en divertidos patos disfrazados.
 - Esta figura de pato de Dr Eggman es perfecta para fans de Sonic y amantes de los coleccionables de cultura pop.
-- Mide aproximadamente 9 cm de alto fuera del embalaje, ideal para decorar estanterías, escritorios o el salpicadero del coche.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CRS3CH48{{</world>}}

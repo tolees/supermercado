@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fuente de Vitamina D, Calcio y Fibra
 - 6 Barritas de 24g
+- Fuente de Vitamina D, Calcio y Fibra
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F1G5MX7Y{{</world>}}

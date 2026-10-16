@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene una fórmula enriquecida con aceite de argán para lucir unas pestañas suaves
-- Modulando las capas de aplicación, se puede conseguir un resultado a medida
-- Oftalmológicamente testado
 - Su minicepillo de Hytrel permite una definición extraordinaria
 - Su textura extracremosa envuelve las pestañas en un intenso color negro
+- Tiene una fórmula enriquecida con aceite de argán para lucir unas pestañas suaves
+- Oftalmológicamente testado
+- Modulando las capas de aplicación, se puede conseguir un resultado a medida
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CHYNMJGF{{</world>}}

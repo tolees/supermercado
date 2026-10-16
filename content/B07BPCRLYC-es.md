@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Fairy 5L con limón
 - Líquidos/lavavajillas.
 - Lavar líquidos
-- Fairy 5L con limón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07BPCRLYC{{</world>}}

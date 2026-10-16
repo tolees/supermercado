@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - El diseño “click-to-retract” (clic para retroceder) es seguro tanto dentro del bolsillo como en el avión
-- El agarre metalizado estriado antideslizante es cómodo para escribir y dibujar con frecuencia
-- Bolígrafo recargable de escritura fluida, duradera y precisa, cargado con tinta negra de alta calidad
 - El cuerpo hexagonal evita que el bolígrafo se deslice para que permanezca donde lo necesita
+- Bolígrafo recargable de escritura fluida, duradera y precisa, cargado con tinta negra de alta calidad
+- El agarre metalizado estriado antideslizante es cómodo para escribir y dibujar con frecuencia
 - El cuerpo completamente metálica ofrece un equilibrio perfecto entre peso y sensibilidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

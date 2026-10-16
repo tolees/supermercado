@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La fórmula está enriquecida con ácido hialurónico y vitamina C
+- Base de maquillaje compacta en crema emoliente e iluminadora con SPF 20, ideal para pieles de normales a secas
 - La textura fundente regala una aplicación sencilla y deslizante
 - El color puro y luminoso disimula las imperfecciones, para una tez de aspecto homogéneo, liso y fresco
 - Probado dermatológicamente, no comedogénico
-- Base de maquillaje compacta en crema emoliente e iluminadora con SPF 20, ideal para pieles de normales a secas
+- La fórmula está enriquecida con ácido hialurónico y vitamina C
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DV9FS2QK{{</world>}}

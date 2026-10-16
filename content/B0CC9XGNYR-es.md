@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Protección de calor para el cabello
-- Enriquecida con una combinación de vitamina Pro-V y aceite de coco
 - Nivel de fijación 5 para unos rizos definidos de larga duración
 - Espuma nutritiva Pantene Pro-V para unos rizos definidos, brillantes y duraderos
+- Enriquecida con una combinación de vitamina Pro-V y aceite de coco
+- Protección de calor para el cabello
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CC9XGNYR{{</world>}}

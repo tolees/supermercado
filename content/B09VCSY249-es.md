@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Crema hidratante anti-fatiga
 - Con SPF15
+- Crema hidratante anti-fatiga
 - Enriquecida con vitamina c
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El cepillo Volumazing estrecho y curvado por el centro, fija la fórmula hasta en las pestañas más cortas
 - Fórmula cremosa enriquecida con ceras de carnauba para un volumen y efecto abanico libre de grumos
 - Cepillo voluminizador, estrecho y curvado, diseñado para cubrir hasta las pestañas más cortas y aplicar la cantidad óptima de producto
+- El cepillo Volumazing estrecho y curvado por el centro, fija la fórmula hasta en las pestañas más cortas
 - Sube el volumen de tus pestañas durante horas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

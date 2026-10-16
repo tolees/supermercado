@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Leche de vaca semidesnatada conservando los valores nutricionales necesarios
-- Fuente de potasio
 - Fuente de calcio
+- Fuente de potasio
 - Almacenar en lugar fresco y seco
+- Leche de vaca semidesnatada conservando los valores nutricionales necesarios
 - Rico en vitamina D
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

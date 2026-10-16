@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Desodorante en Stick Axe 50ml.
 - Desodorante que proporciona protección durante 72 horas contra el mal olor.
 - Desodorante en formato stick 50 ml.
 - Desodorante sin aluminio y sin alcohol
-- Desodorante en Stick Axe 50ml.
 - Fragancia exclusiva con notas de menta y lavanda helada, combinadas con un fondo de ámbar cálido que crea un aroma adictivo y sensual.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

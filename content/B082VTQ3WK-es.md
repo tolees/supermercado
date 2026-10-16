@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- no tiene café
 - Contiene Pescado y/o productos a base de pescados
 - Pack 3 x 80 g
-- no tiene café
 - Alto contenido ácidos Grasos Omega3
 
 [🛒 Aquí!!!]({{< param buyurl >}})

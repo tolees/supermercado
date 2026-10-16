@@ -32,9 +32,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Whisky single malt de Speyside, Escocia, de la gama Cardhu con un sabor intenso y un equilibrio entre fruta dulce, chocolate negro, tofe y especias
 - Ligeramente seco, con sabor a roble que evoca el aroma de la galleta y un toque de canela, además de notas de tofe y manzana
 - La siguiente información se aplica a cada unidad del paquete
+- En 1811, Helen Cumming fundó Cardhu, una destilería llevada por una mujer. A su nuera, Elizabeth, se la conocía como la Reina del whisky por sus dotes de comerciante
 - Graduación alcohólica: 40 %
 - El maestro mezclador Matthew Crow ha seleccionado cuidadosamente las barricas para crear un whisky single malt dulce, rico y delicado
-- En 1811, Helen Cumming fundó Cardhu, una destilería llevada por una mujer. A su nuera, Elizabeth, se la conocía como la Reina del whisky por sus dotes de comerciante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJMT3D6W{{</world>}}

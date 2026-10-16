@@ -28,16 +28,16 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ayuda a la digestión: Con una selección de hierbas aromáticas naturales que ayudan a la digestión
-- 3kg
-- Vista y corazón saludables: Taurina y caléndula para favorecer una vista y corazón saludables
-- Receta premium con 55 % de salmón
 - Elaborado con ingredientes naturales*: Sin saborizantes, colorantes ni conservantes artificiales añadidos
-- La siguiente información se aplica a cada unidad del paquete
+- 3kg
 - Salmón fresco sin espinas: Delicioso para tu gato. Elaborado con salmón fresco sin espinas
 - Ayuda a las articulaciones: Glucosamina y condroitina para ayudar a las articulaciones
-- Hipoalergénico: Fuente única de proteína animal (salmón). Sin trigo, maíz, soja, huevo, lactosa ni gluten añadido
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
+- Hipoalergénico: Fuente única de proteína animal (salmón). Sin trigo, maíz, soja, huevo, lactosa ni gluten añadido
+- Receta premium con 55 % de salmón
+- Ayuda a la digestión: Con una selección de hierbas aromáticas naturales que ayudan a la digestión
+- Vista y corazón saludables: Taurina y caléndula para favorecer una vista y corazón saludables
+- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DZN86Z6H{{</world>}}

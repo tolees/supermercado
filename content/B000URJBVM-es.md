@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Maquillaje aqua profesional en color amarillo dorado
-- La lata de 20 ml es suficiente para aproximadamente 50 caras o un cuerpo y medio
 - Fácil de quitar con agua y jabón
+- La lata de 20 ml es suficiente para aproximadamente 50 caras o un cuerpo y medio
 - Vegano, sin gluten y sin aceites de frutos secos
 - A prueba de manchas y de secado rápido
+- Maquillaje aqua profesional en color amarillo dorado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000URJBVM{{</world>}}

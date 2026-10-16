@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L OR Espresso Café Onyx | 50 Cápsulas'
-date: 2026-10-08 07:20:28
+date: 2026-10-15 01:48:22
 image: 'https://m.media-amazon.com/images/I/41w+unPM42L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F4K9JW6Q/?tag=tolees-21'
 descuento: '3.00'
-average: '17.4857142857143'
+average: '17.48125'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

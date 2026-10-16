@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIVEA MEN Sensitive Bálsamo After Shave 1 x 100 ml para el cuidado de la piel sensible bálsamo anti irritaciones con 0% alcohol para calmar la piel al instante'
-date: 2026-10-10 13:41:52
+date: 2026-10-16 06:28:34
 image: 'https://m.media-amazon.com/images/I/41M-wP2eRYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAFFABQ/?tag=tolees-21'
 descuento: '6.50'
-average: '5.31759615384615'
+average: '5.32575471698113'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

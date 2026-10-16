@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Doble acción - Gracias al avanzado ingrediente LUMINOUS630, este sérum NIVEA actúa sobre la pigmentación existente y previene la aparición de nuevas manchas.
-- Sérum antimanchas - Este sérum iluminador reduce las manchas causadas por el sol, los factores hormonales, el envejecimiento y la inflamación de la piel.
-- Crema de noche - Gracias al ácido hialurónico, esta crema revitalizante aporta a tu rostro, cuello y escote una reparación completa cada noche.
 - Ácido hialurónico - Esta crema de día contiene ácido hialurónico activador celular* y vitamina E para mantener la piel hidratada, uniforme y luminosa.
+- Crema de noche - Gracias al ácido hialurónico, esta crema revitalizante aporta a tu rostro, cuello y escote una reparación completa cada noche.
+- Sérum antimanchas - Este sérum iluminador reduce las manchas causadas por el sol, los factores hormonales, el envejecimiento y la inflamación de la piel.
 - Crema antimanchas - Con el innovador ingrediente LUMINOUS630, esta crema facial reduce las manchas existentes y previene la aparición de manchas nuevas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

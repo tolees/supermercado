@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Air Wick Freshmatic - Recambios de ambientador spray automático Esencia para casa con aroma a Flor Ropa Limpia Azul 250 ml Paquete de 6'
-date: 2026-06-23 09:22:55
+title: 'Air Wick Freshmatic - 6 recambios de ambientador spray automático con aroma a Flor Ropa Limpia'
+date: 2026-10-15 01:19:20
 image: 'https://m.media-amazon.com/images/I/41IsF0+EnNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08YSVN2GS-es Air Wick Freshmatic - Recambios de ambientador spray...'
+slug: 'B08YSVN2GS-es Air Wick Freshmatic - 6 recambios de ambientador spray...'
 sku: 'B08YSVN2GS-es'
 tags: [ 'air','wick','🇪🇸', ]
-actualPrice: 11.99 EUR
+actualPrice: 19.71 EUR
 currency: EUR
-price: 11.99
-comparePrice: 26.17 EUR
-prodname: 'Air Wick Freshmatic - Recambios de ambientador spray automático Esencia para casa con aroma a Flor Ropa Limpia Azul 250 ml Paquete de 6'
+price: 19.71
+comparePrice: 24.92 EUR
+prodname: 'Air Wick Freshmatic - 6 recambios de ambientador spray automático con aroma a Flor Ropa Limpia'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08YSVN2GS/?tag=tolees-21'
-descuento: '54.18'
-average: '18.3858823529412'
+descuento: '20.91'
+average: '18.5252631578948'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pack de recambios para ambientador difusor Freshmatic Air Wick
-- Elimina olores y perfuma tu hogar de forma continua hasta 70 días con un diseño elegante y portable
-- El difusor libera automáticamente ráfagas de fragancia para un constante frescor en tu hogar
-- Aroma Flor Ropa limpia para una sensación de limpieza y frescura, como la de Flor en tu ropa
-- Descubre el resto de fragancias Air Wick Freshmatic
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08YSVN2GS{{</world>}}

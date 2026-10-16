@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ideal para repostería
 - Galleta suave y esponjosa
 - Da a tus postres una textura y cremosidad de pastelería
+- Ideal para repostería
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00XA2NF4I{{</world>}}

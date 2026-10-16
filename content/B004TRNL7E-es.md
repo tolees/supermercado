@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 3 unidades de Alfajores Negros Mardel
 - Ideales para el desayuno, la merienda o como postre.
+- 3 unidades de Alfajores Negros Mardel
 - Rellenos de dulce de leche
 
 [🛒 Visítala!!!]({{< param buyurl >}})

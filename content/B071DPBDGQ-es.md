@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mantienen su forma durante el uso.
 - 0 % de ingredientes de origen animal.
-- 85 % de fibras de lana de acero recicladas.
 - Jabón 100 % biodegradable*, sin conservantes peligrosos.
+- 85 % de fibras de lana de acero recicladas.
+- Mantienen su forma durante el uso.
 - Estropajos eficaces rellenos de jabón, eficaces contra la grasa y la suciedad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

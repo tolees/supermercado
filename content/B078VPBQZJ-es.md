@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Solo ingredientes naturales.
-- Sin lactosa, sin gluten y sin huevo.
 - Cocido en olla a fuego lento durante 3 horas.
+- Sin lactosa, sin gluten y sin huevo.
 - Envase reciclado.
+- Solo ingredientes naturales.
 - Como lo harías en casa.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

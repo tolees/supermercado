@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Un lado de la gasa
-- Aproximadamente 12.7 pulgadas de alto
 - Mantenga el fuego y objetos calientes de la tienda de campaña
-- Accesible desde los cuatro lados
+- Aproximadamente 12.7 pulgadas de alto
+- Un lado de la gasa
 - No apto para niños menores de 36 meses
+- Accesible desde los cuatro lados
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B008EGSK4K{{</world>}}

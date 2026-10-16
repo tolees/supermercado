@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin alcohol ni taurina: Fórmula limpia y funcional, perfecta para cualquier momento del día.
-- Formato práctico: Lata de 330 ml, fácil de llevar y disfrutar en cualquier ocasión.
-- Sabor tropical único: Deliciosa combinación de mango y piña que aporta frescura y energía
 - Baja en calorías: Ideal para quienes buscan vitalidad sin renunciar a un estilo de vida equilibrado
+- Sabor tropical único: Deliciosa combinación de mango y piña que aporta frescura y energía
+- Formato práctico: Lata de 330 ml, fácil de llevar y disfrutar en cualquier ocasión.
+- Sin alcohol ni taurina: Fórmula limpia y funcional, perfecta para cualquier momento del día.
 - Ingredientes 100% naturales: Elaborada sin aditivos artificiales, con cafeína de origen vegetal para un impulso saludable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

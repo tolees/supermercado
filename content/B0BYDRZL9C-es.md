@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Difunde un suave aroma floral
 - Hidrata
+- Difunde un suave aroma floral
 - Refina el aspecto de la piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})

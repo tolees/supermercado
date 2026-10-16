@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - No obstruye los poros
 - Sin aceite, sin fragancia
-- Base de maquillaje líquida
 - Sensación ligera
+- Base de maquillaje líquida
 - A prueba de roces, a prueba del día a día
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

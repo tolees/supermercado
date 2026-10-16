@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ColaCao Cacao Soluble Natural con 0% Azúcares Añadidos - 700g'
-date: 2026-10-08 11:29:07
+date: 2026-10-15 01:08:29
 image: 'https://m.media-amazon.com/images/I/41LUkhDC+qL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B316JSD/?tag=tolees-21'
 descuento: '0.00'
-average: '7.75578947368422'
+average: '7.86406779661018'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

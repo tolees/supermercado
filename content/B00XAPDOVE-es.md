@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Irresistible sabor a regaliz
-- Unidades: 1000.0
-- Dulces de regaliz
-- Deliciosas piezas en forma de rombos
-- Unidad de medida: gramo
 - Número de items: 1
+- Deliciosas piezas en forma de rombos
+- Irresistible sabor a regaliz
+- Unidad de medida: gramo
+- Dulces de regaliz
+- Unidades: 1000.0
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XAPDOVE{{</world>}}

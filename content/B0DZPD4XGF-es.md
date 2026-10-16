@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - La sensorialidad de un sérum combinada con el rendimiento alisador de una base de maquillaje para lucir una piel sublime. Ayuda a mejorar la firmeza y la elasticidad de la piel
 - 8 h de duración, hidratación inmediata
-- Acabado suave y luminoso, efecto segunda piel
 - Dermatológicamente testado No comedogénico
+- Acabado suave y luminoso, efecto segunda piel
 - Fórmula avanzada enriquecida con ácido hialurónico, niacinamida y agua de rosas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

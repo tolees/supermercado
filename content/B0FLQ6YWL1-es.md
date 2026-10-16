@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - El tono verde neutraliza las imperfecciones y equilibra la complexión
-- Con un efecto de frescura hidratante
 - Acabado natural gracias a su fórmula fluida y ligera que se funde con la piel
 - Prebase correctora del color para reducir visiblemente las rojeces y unificar el tono de la piel
 - Se puede usar sola o como base preparatoria bajo el maquillaje
+- Con un efecto de frescura hidratante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FLQ6YWL1{{</world>}}

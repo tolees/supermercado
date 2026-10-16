@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Contiene 0% sulfatos*, 0% jabón y 0% colorantes.
-- Con ingredientes esenciales
 - Con Tecnología Triple Acción Hidratante
+- Con ingredientes esenciales
 - Gel de ducha para todo tipo de piel
 - Gel de ducha para todo tipo de piel
 

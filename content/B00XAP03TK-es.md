@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Varias formas y sabores
-- Bolsa de 1 kg
 - Delicioso mix de diferentes piezas
+- Varias formas y sabores
 - Surtido de caramelos de goma
+- Bolsa de 1 kg
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00XAP03TK{{</world>}}

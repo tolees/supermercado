@@ -28,16 +28,16 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Siempre siga las instrucciones del fabricante de cafetera.
-- Grosor: 3/5
-- Senseo no está asociado con Amazon.
-- Rainforest Alliance Certified: el café que obtenemos para este producto es Rainforest Alliance Certificado, lo que significa que no solo sabe bien, sino que también es bueno. Con cada taza apoyarás a cientos de agricultores y sus familias en todo el mundo y también harás algo bueno para la selva tropical. Buen café para una buena causa.
-- Adecuado para una dieta vegetariana y vegana.
-- Embalado bajo atmósfera protectora.
 - Empaquetado en Bélgica.
 - 36 almohadillas
+- Rainforest Alliance Certified: el café que obtenemos para este producto es Rainforest Alliance Certificado, lo que significa que no solo sabe bien, sino que también es bueno. Con cada taza apoyarás a cientos de agricultores y sus familias en todo el mundo y también harás algo bueno para la selva tropical. Buen café para una buena causa.
+- Siempre siga las instrucciones del fabricante de cafetera.
+- Senseo no está asociado con Amazon.
 - Rico y suave, con finas notas afrutadas
+- Adecuado para una dieta vegetariana y vegana.
+- Grosor: 3/5
 - Vainas de café crema 100% arábica
+- Embalado bajo atmósfera protectora.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09G36VTDZ{{</world>}}

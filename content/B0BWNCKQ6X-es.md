@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - EXPERIENCIA BICENTURY: Bicentury ofrece snacks prácticos y sabrosos, pensados para el día a día, combinando calidad, sabor y formatos cómodos para toda la familia.
 - SNACK CRUJIENTE DE MAÍZ: Tortitas de maíz horneadas con textura ligera y crujiente, ideales como snack salado para disfrutar entre horas, en casa, en la oficina o como acompañamiento en comidas y aperitivos.
-- SABOR JAMÓN IBÉRICO: Sazonadas con sabor a jamón ibérico, aportan un perfil intenso y sabroso que convierte cada bocado en una experiencia apetecible para los amantes del snack salado.
 - IDEALES PARA PICAR O ACOMPAÑAR: Perfectas para consumir solas, como tentempié entre comidas, o como base para canapés y aperitivos, tanto en ocasiones informales como en reuniones.
+- SABOR JAMÓN IBÉRICO: Sazonadas con sabor a jamón ibérico, aportan un perfil intenso y sabroso que convierte cada bocado en una experiencia apetecible para los amantes del snack salado.
 - INGREDIENTES SELECCIONADOS: Elaboradas principalmente con maíz (80 %) y aceites vegetales. Contienen aromas y derivados de soja y leche. Pueden contener cereales con gluten.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

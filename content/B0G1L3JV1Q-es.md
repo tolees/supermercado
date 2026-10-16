@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ayuda a controlar el exceso de grasa para una piel sin brillos.
-- Con Full Blend Technology, proporciona una cobertura modulable para un acabado natural, ligero y uniforme.
 - Maquilla, protege y cuida en un solo gesto. Coverage SPF 50+ aporta una cobertura modulable y ayuda a prevenir los signos del envejecimiento causados por la exposición al sol.
 - Aporta una muy alta protección SPF 50+ y PA++++ frente a la radiación UVB y UVA, y protección adicional frente a la luz azul.
+- Ayuda a controlar el exceso de grasa para una piel sin brillos.
+- Con Full Blend Technology, proporciona una cobertura modulable para un acabado natural, ligero y uniforme.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G1L3JV1Q{{</world>}}

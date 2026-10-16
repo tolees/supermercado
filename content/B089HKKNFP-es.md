@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Champú de calidad profesional que ayuda al control del encrespamiento hasta 72h
 - Champú para cabellos secos y con tendencia a encresparse​; Botella 100% reciclable​
-- Desenredo fácil​ y acabado de peluquería
 - Cabello más suave, brillante y nutrido
+- Champú de calidad profesional que ayuda al control del encrespamiento hasta 72h
 - Champú formulado con aceite de marula y keratina​
 - Globalmente TRESemmé no testa en animales
+- Desenredo fácil​ y acabado de peluquería
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B089HKKNFP{{</world>}}

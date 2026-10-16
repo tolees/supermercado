@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Doble capa
-- Suave y absorbente
 - Muy suave
 - Muy resistente
 - 16 rollos por paquete
+- Suave y absorbente
+- Doble capa
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07B9DMYXF{{</world>}}

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Con un aroma que recuerda a las maltas y cereales empleados en la elaboración del mosto, es una cerveza ligeramente amarga pero refinada, apenas astringente
-- Volumen paquete: 7920.0 mililitros
-- Dulce, con recuerdos a caramelo, pero sin llegar a ser empalagosa, y con aromas sutilmente florales y lupulados
 - Color dorado claro, muy transparente, y con una espuma de burbuja fina muy blanca
+- Dulce, con recuerdos a caramelo, pero sin llegar a ser empalagosa, y con aromas sutilmente florales y lupulados
+- Volumen paquete: 7920.0 mililitros
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07CNRF5F9{{</world>}}

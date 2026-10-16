@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Una receta sabrosa con proteínas de alta calidad
+- Razas medianas y grandes
+- Prebióticos naturales para mejorar los sistemas digestivos sensibles
 - Carne y derivados de origen animal: aproximadamente el 30 % (los derivados de origen animal son aptos para el consumo humano)
 - Diseñado por nutricionistas de animales y revisado por veterinarios
-- Una receta sabrosa con proteínas de alta calidad
-- Sin aromas, colorantes ni conservantes artificiales. Sin soja, trigo ni cebada añadidos
-- Prebióticos naturales para mejorar los sistemas digestivos sensibles
 - Sistema resellable para asegurar la máxima frescura
-- Alimento para perros adultos: Una dieta equilibrada y completa al 100 %
+- Sin aromas, colorantes ni conservantes artificiales. Sin soja, trigo ni cebada añadidos
 - Biotina y zinc para una piel y pelo saludables. Vitamina D para unos huesos fuertes
-- Razas medianas y grandes
+- Alimento para perros adultos: Una dieta equilibrada y completa al 100 %
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07GFLKX76{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Composición 95% robusta, 5% arabica
 - Intensidad 12 SU13 - Aroma fuerte y vigorosa
-- Mezcla estudiada por los maestros tostadores desde 1870
+- Composición 95% robusta, 5% arabica
 - Paquete de 1 kg de granos de café Napoli
+- Mezcla estudiada por los maestros tostadores desde 1870
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B075QKHH7S{{</world>}}

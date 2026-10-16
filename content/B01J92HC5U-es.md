@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compostables y 100% biodegradables
 - Limpian y desinfectan sin lejía y de una sola pasada todo tipo de superficies, eliminando el 99,9% de gérmenes de forma rápida y cómoda
-- Eliminan los malos olores y dejan un agradable aroma a Eucaliptus
 - Este producto está destinado a un uso general: baños, cocinas, objetos bebé, objetos mascotas y zonas de alto contacto como teléfonos, teclados, pomos, etc. Ideales para el uso fuera de casa
+- Eliminan los malos olores y dejan un agradable aroma a Eucaliptus
+- Compostables y 100% biodegradables
 - Sin aclarado y dermatológicamente testadas. Neutralizan el 94% de alérgenos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

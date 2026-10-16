@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Natural Honey Gel de Ducha Nutritivo con Miel Natural Manteca de Karité y Hydradermal Complex Hidratación Intensa para una Piel Suave y Nutrida Fórmula Cremosa Línea Derma Care 650 ml'
-date: 2026-10-13 09:31:13
+date: 2026-10-16 02:33:56
 image: 'https://m.media-amazon.com/images/I/31IhtRP6PqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,13 +12,13 @@ tags: [ 'de','ducha','gel','🇪🇸', ]
 actualPrice: 2.65 EUR
 currency: EUR
 price: 2.65
-comparePrice: 2.89 EUR
+comparePrice: 2.65 EUR
 prodname: 'Natural Honey Gel de Ducha Nutritivo con Miel Natural Manteca de Karité y Hydradermal Complex Hidratación Intensa para una Piel Suave y Nutrida Fórmula Cremosa Línea Derma Care 650 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CC9Y1VSW/?tag=tolees-21'
-descuento: '8.30'
+descuento: '0.00'
 average: '2.65'
 ---
 

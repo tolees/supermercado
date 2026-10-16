@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Vino blanco D.O. Rueda
+- Vino aromático, afrutado y suave. Buena estructura y complejidad en boca.
 - Certificación Vino Vegano
 - Maridaje: carnes blancas, ensaladas y atún.
-- Variedad de uva: Verdejo
-- Vino aromático, afrutado y suave. Buena estructura y complejidad en boca.
+- Vino blanco D.O. Rueda
 - Servir frío, a una temperatura de 6-8ºC.
+- Variedad de uva: Verdejo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07S2RLBMF{{</world>}}

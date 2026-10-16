@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Recambio doble para ambientador eléctrico.
-- Doble duración, hasta 150 días de frescor en
-- Fragancia que cambia constantemente creando un ambiente más real y acogedor para tu hogar.
-- Formato de cada recambio: 19ml Total ml del pack: 38ml
 - Suave y fresco aroma.
+- Doble duración, hasta 150 días de frescor en
+- Formato de cada recambio: 19ml Total ml del pack: 38ml
+- Fragancia que cambia constantemente creando un ambiente más real y acogedor para tu hogar.
+- Recambio doble para ambientador eléctrico.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MSZF5OS{{</world>}}

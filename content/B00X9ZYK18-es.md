@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Se pueden servir solo o con leche
 - Barritas de de arroz tostado con cacao y leche
+- No contienen colorantes o conservantes artificiales
 - Ideal como snack
 - Es una fuente de calcio y de vitamina D
-- No contienen colorantes o conservantes artificiales
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00X9ZYK18{{</world>}}

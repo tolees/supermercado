@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- pH respetuoso con la piel
 - Aceite de ducha de cuidado intensivo, también adecuado para pieles secas
 - Aceite de limpieza corporal dermatológicamente probado
+- pH respetuoso con la piel
 - Fórmula de aceite de ducha sin microplásticos
 - La botella está hecha de plástico 100 % reciclado
 - Contiene un 55 % de aceites naturales de cuidado

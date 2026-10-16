@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Iluminación libre de imperfecciones
 - Polvos ligeros para un brillo saludable y radiante
-- Tono universal, apto para todo tipo de pieles
+- Iluminación libre de imperfecciones
 - Textura sedosa y ligera
+- Tono universal, apto para todo tipo de pieles
 - Adecuado para todo tipo de pieles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

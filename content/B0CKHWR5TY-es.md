@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Es uno de los pocos tequilas que incluyen el método Tahona en su proceso, una tradición de más de 500 años
 - Apariencia transparente
-- Ligero color oro
 - Aroma suave a cítricos, botánicos y hierbas de tocador
+- Es uno de los pocos tequilas que incluyen el método Tahona en su proceso, una tradición de más de 500 años
+- Ligero color oro
 - Es un tequila hecho Agave Azul sembrado en México en las tierras de Los Altos
 - Junto a la destilación de grano 100% americano, obtenemos una ginebra Premium
 

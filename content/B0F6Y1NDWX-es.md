@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con flúor
 - contra caries, placa y sarro
-- Para una sensación de frescor 3 veces más duradera* (*en comparación con una pasta de dientes regular)
 - Para dientes sanos, encías sanas, una higiene bucal profunda y un aliento fresco
+- Para una sensación de frescor 3 veces más duradera* (*en comparación con una pasta de dientes regular)
+- Con flúor
 - Limpia como pasta de dientes + refrescante como enjuague bucal para una protección antibacteriana
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

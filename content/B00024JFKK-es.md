@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Peso:136 g.
 - El azúcar se almacena higiénicamente y no se humedece.
 - Diámetro:6 cm.
-- Peso:136 g.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00024JFKK{{</world>}}

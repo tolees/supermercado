@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Marca:Calvin Klein
-- CK ONE, Agua de tocador para hombres
 - Pais de origen: Spain
+- CK ONE, Agua de tocador para hombres
+- Marca:Calvin Klein
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00S2WDIGG{{</world>}}

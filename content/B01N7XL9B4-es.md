@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🎉 Formato 1 kg ideal para fiestas, cumpleaños y eventos
-- 📦 Bolsa de Fini Little Mix Goma Pica de 1 kilo
 - 🍓 Sabores frutales variados: fresa, naranja, limón y manzana
+- 🎉 Formato 1 kg ideal para fiestas, cumpleaños y eventos
 - 🌈 Colores y formas divertidas que gustan a niños y adultos
+- 📦 Bolsa de Fini Little Mix Goma Pica de 1 kilo
 - 🍭 Mezcla de golosinas pica‑pica: diferentes formas y texturas en una sola bolsa
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dark Brown Hair Dye Shampoo 3 en 1 Cubre Canas Champú Tinte Castaño Oscuro'
-date: 2026-10-11 12:35:29
+date: 2026-10-15 03:09:11
 image: 'https://m.media-amazon.com/images/I/51cRky3eKDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

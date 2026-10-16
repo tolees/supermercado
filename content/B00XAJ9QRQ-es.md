@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Fórmula biodegradable y botella reciclable. Eficacia clínica probada
 - Gracias a su exclusiva fórmula con vitEox 80, protege contra las quemaduras solares y refuerza las defensas antioxidantes de la piel.
-- Colágeno y vitaminas.
-- Protección UVB + UVA y del efecto de los infrarrojos.
 - Ecran Sunnique Cara/Escote facial FPS 50+ 50ml.
+- Protección UVB + UVA y del efecto de los infrarrojos.
+- Colágeno y vitaminas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00XAJ9QRQ{{</world>}}

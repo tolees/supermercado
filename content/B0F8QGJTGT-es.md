@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lindt Caja de Bombones Chocolate con Leche y Pistacho 200g'
-date: 2026-10-13 14:04:55
+date: 2026-10-15 06:26:17
 image: 'https://m.media-amazon.com/images/I/21iVdpL6laL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F8QGJTGT/?tag=tolees-21'
 descuento: '3.00'
-average: '9.34'
+average: '9.41'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

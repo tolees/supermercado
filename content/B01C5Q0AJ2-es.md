@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- QUALITÀ ORO: La sinfonía perfecta para un sabor excepcional siempre, desde 1956. Este café molido natural Lavazza es ideal para cafetera Italiana, de filtro y francesa
 - BLEND: Esta selección de café Lavazza está elaborada con café 100% Arábica procedente de Centro y Sudamérica
 - INTENSIDAD: La intensidad 5 y el tueste medio brindan un color cálido a este café, para un espresso con una espuma dorada
-- CAFÉ NATURAL: Todos los cafés en grano y molido de Lavazza son de tueste natural
-- QUALITÀ ORO: La sinfonía perfecta para un sabor excepcional siempre, desde 1956. Este café molido natural Lavazza es ideal para cafetera Italiana, de filtro y francesa
 - NOTAS AROMÁTICAS: Qualità Oro es caracterizado por notas aromáticas de frutas y flores, para un café espresso con un sabor dulce y refinado
+- CAFÉ NATURAL: Todos los cafés en grano y molido de Lavazza son de tueste natural
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01C5Q0AJ2{{</world>}}

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Conservar en lugar fresco y seco
-- Deliciosas piezas de gelatina y espuma con forma de corazones de color rojo
 - Caramelos de goma
+- Deliciosas piezas de gelatina y espuma con forma de corazones de color rojo
 - Sabor a fresa
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maybelline New York Lash Sensational Sky High Volumen y Longitud Negro'
-date: 2026-10-09 15:32:02
+date: 2026-10-15 09:32:42
 image: 'https://m.media-amazon.com/images/I/31r5T-GLqlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08P4YPB8Q/?tag=tolees-21'
 descuento: '44.65'
-average: '7.32663716814158'
+average: '7.3242608695652'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

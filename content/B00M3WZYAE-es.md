@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'La Vieja Fábrica | Mermelada de piña TRADICIONAL | 350g'
-date: 2026-10-10 17:53:48
+date: 2026-10-14 23:49:37
 image: 'https://m.media-amazon.com/images/I/41hvMM93ZxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00M3WZYAE/?tag=tolees-21'
 descuento: '3.01'
-average: '2.86'
+average: '2.87'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

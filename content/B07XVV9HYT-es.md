@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Se funde en los labios
-- Color y brillo deslumbrante para los labios
 - Siente tu labios hidratados y brillo deslumbrante
+- Color y brillo deslumbrante para los labios
 - Fórmula hidratante, contiene aloe vera, esferas de relleno hialurónico
 
 [🛒 Comprar!!!]({{< param buyurl >}})

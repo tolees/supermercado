@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ingredientes: Agua, Habas de SOJA, Sal, Vinagre de alcohol
-- Kikkoman, líder mundial de salsa de soja japonesa con más de 300 años de tradición
-- Formato botella 1L
-- Realza el sabor de los platos de carne, pescado o verduras, así como sopas, aderezos para ensaladas y adobos
 - La salsa de soja Kikkoman es una opción natural, elaborada con ingredientes de alta calidad y sin azúcar añadido, perfecta para realzar el sabor de tus platos. Ahora SIN GLUTEN
+- Formato botella 1L
+- Kikkoman, líder mundial de salsa de soja japonesa con más de 300 años de tradición
+- Realza el sabor de los platos de carne, pescado o verduras, así como sopas, aderezos para ensaladas y adobos
+- Ingredientes: Agua, Habas de SOJA, Sal, Vinagre de alcohol
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07JQPCLCR{{</world>}}

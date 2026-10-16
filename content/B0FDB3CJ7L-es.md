@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - APARIENCIA INTENSA: Color caoba profundo con reflejos rubíes; atractivo visual que destaca en coctelería
-- ESTILO ÚNICO: Inspirado en el vermut de Torino; equilibrio entre vino base y sabores dulces con cáscara de cítricos amarga
 - PALADAR COMPLEJO: Fruta negra, naranja dulce y chocolate; final seco con presencia de botánicos como raíces y cortezas
+- ESTILO ÚNICO: Inspirado en el vermut de Torino; equilibrio entre vino base y sabores dulces con cáscara de cítricos amarga
 - AROMA VIBRANTE: Notas cítricas frescas con cáscara de naranja, cacao y especias sutiles; perfil olfativo sofisticado
 - BOTÁNICOS MEDITERRÁNEOS: Artemisa, camamilla, hibiscus, piel de naranja y sándalo; esencia de la costa mediterránea
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gullón Galletas Saladas Mini 350G - [PACK de 12] Total: 4 2 kg'
-date: 2026-10-01 07:45:32
+date: 2026-10-16 02:39:36
 image: 'https://m.media-amazon.com/images/I/51TEB0e4EHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08HW71MSY/?tag=tolees-21'
 descuento: '48.72'
-average: '12.4371428571427'
+average: '12.4079999999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

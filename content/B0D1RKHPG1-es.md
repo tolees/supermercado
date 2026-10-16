@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- NGREDIENTES: AGUA, MALTA DE CEBADA, LUPULO Y EXTRACTO DE LUPULO
-- 6,2% de alcohol en volumen
-- Elaborada con una cuidadosa mezcla de maltas, con diferentes niveles de tueste
-- Cerveza tipo laguer
 - De color rubio dorado oscuro y un particular aroma a malta tostada. Cerveza con cuerpo, cremosa espuma, sabor intenso y el punto justo de amargor.
+- Elaborada con una cuidadosa mezcla de maltas, con diferentes niveles de tueste
+- 6,2% de alcohol en volumen
+- Cerveza tipo laguer
+- NGREDIENTES: AGUA, MALTA DE CEBADA, LUPULO Y EXTRACTO DE LUPULO
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D1RKHPG1{{</world>}}

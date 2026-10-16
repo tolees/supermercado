@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- GRAN SABOR: Con su fresco sabor a eucalipto, nuesra pasta de dientes te dejará un gran sabor cada vez que te cepilles los dientes.
 - CIENCIA Y NATURALEZA: Esta pasta de dientes combina nuestra ciencia del cuidado bucal con algunas de las mejores hierbas de la naturaleza para ayudar a mantener tus dientes fuertes y tus encías sanas.
 - DIENTES FUERTES Y SANOS: Aprovecha el poder de la naturaleza para mantener tus dientes fuertes y sanos cuando te cepilles con la pasta de dientes Colgate Herbal.
-- GRAN SABOR: Con su fresco sabor a eucalipto, nuesra pasta de dientes te dejará un gran sabor cada vez que te cepilles los dientes.
 - AYUDA A COMBATIR LA CARIES: La pasta de dientes con flúor también ayuda a combatir la caries
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

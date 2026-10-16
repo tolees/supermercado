@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Realza tu mirada y alarga tus pestañas con este rimmel 💥
 - Apto para todo tipo de pieles
+- Realza tu mirada y alarga tus pestañas con este rimmel 💥
 - Pon esta máscara de pestañas y observa como tu mirada se agranda y se vuelve mucho más llamativa ✨
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

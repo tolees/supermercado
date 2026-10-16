@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sin azúcar añadido
 - Masa de trigo completa
+- Sin azúcar añadido
 - Sin conservantes
 
 [🛒 Visítala!!!]({{< param buyurl >}})

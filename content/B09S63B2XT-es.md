@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Marca del producto: Schwarzkopf
 - Para uso diario
 - Apto para un regalo
+- Marca del producto: Schwarzkopf
 - Hecho de ingredientes de calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

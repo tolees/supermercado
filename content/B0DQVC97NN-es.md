@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Gloss que rellena los labios y da brillo al instante
 - El aplicador acolchado que te ofrece una aplicación perfecta
-- Nuevos y deliciosos tonos que te harán la boca agua, con un color y un brillo para morderse los labios.
-- Labios hidratados y sin sensación pegajosa
 - Ácido hialurónico y un complejo antioxidante
+- Labios hidratados y sin sensación pegajosa
+- Gloss que rellena los labios y da brillo al instante
+- Nuevos y deliciosos tonos que te harán la boca agua, con un color y un brillo para morderse los labios.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DQVC97NN{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'De Longhi KG79 - Molinillo de Café Eléctrico de Muelas 16 Niveles de Molido'
-date: 2026-10-13 21:32:23
+title: 'De Longhi KG79 - Molinillo de Café Eléctrico de Muelas 16 Niveles de Molido | Controles Soft Touch Selector de Tazas Ajustable hasta 12 Tazas Sistema de Seguridad Negro KG79'
+date: 2026-10-15 02:49:47
 image: 'https://m.media-amazon.com/images/I/31ozJMC3A0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'café','🇪🇸', ]
 actualPrice: 50.9 EUR
 currency: EUR
 price: 50.9
-comparePrice: 82.99 EUR
-prodname: 'De Longhi KG79 - Molinillo de Café Eléctrico de Muelas 16 Niveles de Molido'
+comparePrice: 63.52 EUR
+prodname: 'De Longhi KG79 - Molinillo de Café Eléctrico de Muelas 16 Niveles de Molido | Controles Soft Touch Selector de Tazas Ajustable hasta 12 Tazas Sistema de Seguridad Negro KG79'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B002OHDBQC/?tag=tolees-21'
-descuento: '38.67'
-average: '46.2825'
+descuento: '19.87'
+average: '47.206'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Biotherm Aquasource Gel Crema hidratante piel normal y mixta 50 ml'
-date: 2026-10-01 09:53:37
+date: 2026-10-14 23:51:14
 image: 'https://m.media-amazon.com/images/I/31V8mrRcV3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00UGK2ILS-es Biotherm Aquasource Gel Crema hidratante piel normal y...'
 sku: 'B00UGK2ILS-es'
 tags: [ 'crema','hidratante','🇪🇸', ]
-actualPrice: 19.75 EUR
+actualPrice: 20.62 EUR
 currency: EUR
-price: 19.75
+price: 20.62
 comparePrice: 51.0 EUR
 prodname: 'Biotherm Aquasource Gel Crema hidratante piel normal y mixta 50 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UGK2ILS/?tag=tolees-21'
-descuento: '61.27'
-average: '23.7153333333332'
+descuento: '59.57'
+average: '23.3511764705881'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

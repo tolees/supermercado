@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Protección para las encías, clínicamente probada
 - Con sabor a menta fresca para disfrutar cada día
 - Proteger: Ayuda a prevenir la acumulación de placa bacteriana para mantener unas encías sanas
-- Protección para las encías, clínicamente probada
 - Ayuda a fortalecer la unión de las encías alrededor de los dientes para una protección duradera de las encías
 - Reforzar: Elimina las bacterias de la placa a lo largo de la línea de las encías para conseguir una unión más fuerte y firme entre encías y dientes.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Haribo - Calendario de Adviento para regalo con dulces de Navidad 2021'
-date: 2026-10-08 03:26:17
+date: 2026-10-14 23:50:22
 image: 'https://m.media-amazon.com/images/I/51AaRiXQsBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09FG28C5T/?tag=tolees-21'
 descuento: '4.62'
-average: '8.48'
+average: '8.684'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

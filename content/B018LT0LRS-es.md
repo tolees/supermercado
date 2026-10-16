@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Actúa para limpiar entre los dientes
 - Limpia y promueve los dientes blancos de forma natural
+- Actúa para limpiar entre los dientes
 - Copa de pulido que elimina las manchas superficiales
 - Incluye 4 cepillos
 - Compatible con todos los cepillos de dientes eléctricos de Oral-B

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ariel PODs Platinum Detergente Líquido En Cápsulas + Poder Quitamanchas Cápsulas 35 Lavados'
-date: 2026-10-11 18:55:20
+date: 2026-10-15 16:02:52
 image: 'https://m.media-amazon.com/images/I/51Qt-kKfgeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F1DDCJ1V/?tag=tolees-21'
 descuento: '38.11'
-average: '14.2833333333333'
+average: '14.0985714285714'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

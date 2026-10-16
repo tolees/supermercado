@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Fácil de difuminar con el aplicador multiusos: aplica como corrector con la punta precisa y como base con la cara ancha
-- LOréal Paris Infaillible Skin Ink: Base de maquillaje-corrector con un acabado mate ligero y cobertura modulable, Disponible en 14 tonos con subtonos fríos, cálidos y neutros
-- Contenido: LOréal Paris Base de Maquillaje-Corrector, Fórmula Semipermanente de Larga Duración, Acabado Mate Natural, Adecuado para Pieles Sensibles, Infaillible Skin Ink, Tono: Light Warm (140)
 - Aplicación: Agita para activar la fórmula, aplica con los dedos o una brocha, difumina por zonas
+- Contenido: LOréal Paris Base de Maquillaje-Corrector, Fórmula Semipermanente de Larga Duración, Acabado Mate Natural, Adecuado para Pieles Sensibles, Infaillible Skin Ink, Tono: Light Warm (140)
+- LOréal Paris Infaillible Skin Ink: Base de maquillaje-corrector con un acabado mate ligero y cobertura modulable, Disponible en 14 tonos con subtonos fríos, cálidos y neutros
 - Fórmula ligera de larga duración que no pesa en tu piel para 48 horas* de maquillaje semipermanente, Sin fragancia y no comedogénico *Test de consumidor en 161 mujeres
 
 [🛒 Visítala!!!]({{< param buyurl >}})

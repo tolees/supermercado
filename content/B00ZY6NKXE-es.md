@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- código de barras: 3504105035952
 - marca mustela
+- código de barras: 3504105035952
 - favorece la hidratación profunda y duradera de la piel protegiéndola de las agresiones externas
 - crema
 

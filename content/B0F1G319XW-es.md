@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Empaquetado en una caja de cartón ecológica con el logotipo de Space Odyssey, ideal para exponer.
-- Colecciona personajes de películas, videojuegos, bandas y series de televisión, transformados en divertidos patos disfrazados.
 - Mide aproximadamente 9 cm de alto fuera del embalaje, ideal para decorar estanterías, escritorios o el salpicadero del coche.
 - Esta figura de pato de Dr David Bowman es perfecta para fans de Stanley Kubrick y amantes de los coleccionables de cultura pop.
 - Añade un toque divertido al “jeep ducking” con estos originales patos coleccionables disfrazados.
+- Empaquetado en una caja de cartón ecológica con el logotipo de Space Odyssey, ideal para exponer.
+- Colecciona personajes de películas, videojuegos, bandas y series de televisión, transformados en divertidos patos disfrazados.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F1G319XW{{</world>}}

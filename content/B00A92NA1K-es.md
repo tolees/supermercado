@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Orlando Tomate Frito 0 0 Brik 350g'
-date: 2026-09-26 15:24:56
+date: 2026-10-15 16:44:13
 image: 'https://m.media-amazon.com/images/I/41gZXwn-q4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00A92NA1K/?tag=tolees-21'
 descuento: '28.06'
-average: '1.01571428571428'
+average: '1.01374999999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

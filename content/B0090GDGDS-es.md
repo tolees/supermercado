@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cacahuetes seleccionados de alta calidad
 - Ideal para compartir
-- Con delicioso chocolate con leche
 - Cubiertas con una cáscara crujiente
+- Cacahuetes seleccionados de alta calidad
+- Con delicioso chocolate con leche
 - Mantener en un lugar fresco y seco
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

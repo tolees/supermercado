@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pestañas de aspecto suave y acondicionadas
-- Infundido con 4 lujosos aceites, de argán, maracuja, marula y camelia
-- Duradero, a prueba de manchas, a prueba de escamas, fácil de limpiar
 - Brinda un volumen elevado: el 100% de 121 mujeres está de acuerdo
+- Pestañas de aspecto suave y acondicionadas
+- Duradero, a prueba de manchas, a prueba de escamas, fácil de limpiar
+- Infundido con 4 lujosos aceites, de argán, maracuja, marula y camelia
 - Dermatólogicamente y oftalmólogicamente testados
 
 [🛒 Visítala!!!]({{< param buyurl >}})

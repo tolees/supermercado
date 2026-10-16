@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con avena integrale y chocolate negro
-- Ideales con leche
-- Listos para consmuir
 - La siguiente información se aplica a cada unidad del paquete
 - Granolas crujientes vegetarianas
+- Listos para consmuir
 - Conservar en un lugar fresco y seco
+- Con avena integrale y chocolate negro
+- Ideales con leche
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FXNH11TH{{</world>}}

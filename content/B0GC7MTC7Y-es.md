@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- flor de ylang ylang
 - leche de coco
+- flor de ylang ylang
 - fruta de la pasión
 
 [🛒 Visítala!!!]({{< param buyurl >}})

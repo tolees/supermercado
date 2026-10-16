@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conservar en lugar fresco y seco
+- Más crujiente gracias a su forma ondulada, con el mismo sabor de Lays Gourmet
 - Formato de 150 gramos perfecto para compartir con quien tu quieras
 - Snack Lays gourmet patatas fritas onduladas
-- Más crujiente gracias a su forma ondulada, con el mismo sabor de Lays Gourmet
+- Conservar en lugar fresco y seco
 - Producto envasado en atmósfera protectora
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

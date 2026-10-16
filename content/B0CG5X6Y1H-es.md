@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - APORTA UNA HIDRATACIÓN INTENSA desde la primera aplicación con un efecto que dura hasta 4 lavados.* *Usando los pasos de ULTIMATE REPAIR: 1 (champú), 2 (acondicionador) y 3 (Miracle Hair Rescue).
-- PARA TODO TIPO DE CABELLO Y TEXTURAS: Medio, graso, fino, grueso, liso, ondulado, rizado, muy rizado, afro y asiático.
-- ACONDICIONADOR NUTRITIVO INTENSO: Repara visiblemente el cabello dañado.
 - REPARACIÓN CAPILAR PROFESIONAL: Fuerza e hidratación para todo tipo de cabello dañado.
 - FORMULADO CON AHA Y OMEGA 9: Fortalece y repara el cabello desde el interior.
+- ACONDICIONADOR NUTRITIVO INTENSO: Repara visiblemente el cabello dañado.
+- PARA TODO TIPO DE CABELLO Y TEXTURAS: Medio, graso, fino, grueso, liso, ondulado, rizado, muy rizado, afro y asiático.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CG5X6Y1H{{</world>}}

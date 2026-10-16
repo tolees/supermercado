@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Resultado: un volumen intenso que dura todo el día, Sin retoques: no se corre, no se descama, resiste al sudor, no transfiere y no apelmaza
-- Máscara de pestañas con fórmula sedosa y cupillón curvado para unas pestañas de volumen excepcional
 - Cupillón curvado único con cerdas en doble hélice que alarga las pestañas desde la raíz hasta la punta, ofreciendo un doble efecto moldeador.
+- Máscara de pestañas con fórmula sedosa y cupillón curvado para unas pestañas de volumen excepcional
+- Resultado: un volumen intenso que dura todo el día, Sin retoques: no se corre, no se descama, resiste al sudor, no transfiere y no apelmaza
 - Aplicación: Coloca el cupillón curvado en posición horizontal y aplica la máscara desde la raíz hasta la punta, Repite para obtener el efecto deseado, Se desmaquilla fácilmente.
 - Contenido: 1x Maybelline New York, Máscara de Pestañas Lash Sensational Body, Definición y Volumen hasta 24H*, Tono: Very Black , 9,75 ml
 

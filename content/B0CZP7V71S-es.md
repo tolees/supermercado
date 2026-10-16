@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de cabello: para todo tipo de cabello.
-- Dermatológicamente probado: indicado para todo tipo de pieles.
 - Fórmula vegana: no contiene ingredientes ni productos de desecho de origen animal.
 - Fortalecer: champú para una limpieza suave con extracto de bardana y niacinamida, que ayuda a nutrir y fortalecer el cabello.
+- Dermatológicamente probado: indicado para todo tipo de pieles.
+- Tipo de cabello: para todo tipo de cabello.
 - Cómo usarlo: aplicar en el cuero cabelludo y el cabello mojado para crear espuma esponjosa y aclarar con agua abundante.
 - by Amazon - Champú Fortifying Men, 2 x 400 ml
 - Fórmula sin: siliconas ni microplásticos.

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Con un cepillo 2 en 1 giratorio.
-- Consigue hasta un 139% más de longitud y 6 veces más volumen**.
-- Las pestañas se ven más gruesas y se sienten más fuertes*
-- Formulada con activo Lash Bonding que combina arginina, biotina y péptidos.
 - Bourjois Twist Up the Volume Bond Force Mascara, una máscara de pestañas que une y fortalece, proporcionando volumen instantáneo y cuidado duradero para las pestañas.
+- Las pestañas se ven más gruesas y se sienten más fuertes*
+- Consigue hasta un 139% más de longitud y 6 veces más volumen**.
+- Formulada con activo Lash Bonding que combina arginina, biotina y péptidos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DT7DVX96{{</world>}}

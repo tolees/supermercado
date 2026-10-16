@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Modo de empleo: agitar bien el frasco antes de usar, aplicar 2-3 gotas en las palmas, extender ligeramente con los dedos, como si estuvieras usando tu suero diario, alisando una pequeña cantidad sobre la piel limpia
-- El híbrido perfecto para el cuidado de la piel y el maquillaje: suero teñido con 1% de ácido hialurónico que hidrata como un suero y cubre como una base
+- Resultados: ilumina, unifica e hidrata la piel, deja tu piel con un acabado natural y brillante, combina con el 99% de los tonos de piel del Reino Unido* (*Prueba de consumo, 204 mujeres, 2021)
 - Contenido: 1 suero tintado LOréal Paris True Match, con 1% de ácido hialurónico, 30 ml, tono: 6-7 bronceado
 - Fórmula: con 1% de ácido hialurónico para hidratar y suavizar + pigmentos minerales luminosos para una tez más brillante, tonos transparentes y supermezclables, adecuado para todo tipo de piel, incluso pieles sensibles
-- Resultados: ilumina, unifica e hidrata la piel, deja tu piel con un acabado natural y brillante, combina con el 99% de los tonos de piel del Reino Unido* (*Prueba de consumo, 204 mujeres, 2021)
+- El híbrido perfecto para el cuidado de la piel y el maquillaje: suero teñido con 1% de ácido hialurónico que hidrata como un suero y cubre como una base
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09FF1MHHZ{{</world>}}

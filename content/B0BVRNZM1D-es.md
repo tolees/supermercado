@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color pigmentado de optimo impacto
-- Fabricados con madera certificada FSC
-- Larga duración, hasta 12 horas
-- Textura suave y cremosa
 - Fórmula vegana, clean y fabricado con ingredientes reciclados y reciclables
+- Color pigmentado de optimo impacto
+- Larga duración, hasta 12 horas
+- Fabricados con madera certificada FSC
+- Textura suave y cremosa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BVRNZM1D{{</world>}}

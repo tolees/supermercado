@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Comodidad
-- Textura cremosa y suave
 - Tecnología Color Protect para un color inalterable
+- Textura cremosa y suave
+- Comodidad
 - Color intenso
 - Larga duración, hasta 8h
 

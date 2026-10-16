@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Scottex Papel Higienico - Scottex Seda Acolchado Pack de 24 Rollos Grandes Papel Higienico 3 capas Textura acolchada Suave fragancia'
-date: 2026-10-09 00:12:00
+date: 2026-10-15 01:18:14
 image: 'https://m.media-amazon.com/images/I/41+BKHiF7EL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GTZS9JQK/?tag=tolees-21'
 descuento: '0.00'
-average: '14.152'
+average: '14.4583333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

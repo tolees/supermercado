@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Duration: 10.0 unknown_modifier
 - Product benefit: Delineador de ojos intenso y duradero probado oftalmológicamente
 - Special feature: Mezclable
-- Duration: 10.0 unknown_modifier
 - Material feature: Hipoalergénico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

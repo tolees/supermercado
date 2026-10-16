@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'La Roche-Posay Lipikar Gel Lavant Eco-Refill Gel de Ducha 400 ml'
-date: 2026-09-24 22:24:00
+title: 'La Roche-Posay Lipikar Gel Lavant Eco-Refill Gel de Ducha 400 ml | Gel corporal calmante protector para toda la familia; limpia y nutre la piel nada más salir de la ducha.'
+date: 2026-10-15 09:33:51
 image: 'https://m.media-amazon.com/images/I/41qULk-VSsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0F1G26TNK-es La Roche-Posay Lipikar Gel Lavant Eco-Refill Gel de Ducha...'
 sku: 'B0F1G26TNK-es'
 tags: [ 'de','ducha','gel','🇪🇸', ]
-actualPrice: 8.09 EUR
+actualPrice: 8.19 EUR
 currency: EUR
-price: 8.09
+price: 8.19
 comparePrice: 13.8 EUR
-prodname: 'La Roche-Posay Lipikar Gel Lavant Eco-Refill Gel de Ducha 400 ml'
+prodname: 'La Roche-Posay Lipikar Gel Lavant Eco-Refill Gel de Ducha 400 ml | Gel corporal calmante protector para toda la familia; limpia y nutre la piel nada más salir de la ducha.'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F1G26TNK/?tag=tolees-21'
-descuento: '41.38'
-average: '8.09'
+descuento: '40.65'
+average: '8.12333333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

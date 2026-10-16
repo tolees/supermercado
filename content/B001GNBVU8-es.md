@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- No obstruye los poros
-- Nombre de la fragancia: Aromatic
-- Tipo de piel: Sensible
-- A prueba de roces, a prueba del día a día
-- Base de maquillaje líquida
 - Sin aceite, sin fragancia
+- Tipo de piel: Sensible
+- No obstruye los poros
+- Base de maquillaje líquida
+- A prueba de roces, a prueba del día a día
 - Sensación ligera
+- Nombre de la fragancia: Aromatic
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B001GNBVU8{{</world>}}
