@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Productos para tu cuidado personal, para tu dieta, para tu salud y para la higiene personal
 - 75ml
+- Productos para tu cuidado personal, para tu dieta, para tu salud y para la higiene personal
 - Dentífrico Eucaliptus Urterkam
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

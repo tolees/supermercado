@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CERTIFICACIÓN RAINFOREST ALLIANCE: La procedencia del café utilizado para este producto goza de la certificación Rainforest Alliance, lo que significa que no solo sabe bien, sino que también tiene un impacto positivo. Con cada compra, ayuda a cientos de agricultores y sus familias en todo el mundo, además de aportar su granito a la selva tropical; beber mejor es hacerlo mejor
-- El café tiene una acidez suave, con un fuerte sabor base de frutos secos acompañado de otras notas como el chocolate y el perfil es suave y equilibrado en general
+- Café de Brasil. Tostado y envasado en Bélgica
 - Adecuado para todas las preparaciones dependiendo de la molienda. Expreso = fina. Filtro = media. Italiana = media. Émbolo = gruesa
 - 2 paquetes: 2 x 500 g, total 1 kg
+- El café tiene una acidez suave, con un fuerte sabor base de frutos secos acompañado de otras notas como el chocolate y el perfil es suave y equilibrado en general
+- CERTIFICACIÓN RAINFOREST ALLIANCE: La procedencia del café utilizado para este producto goza de la certificación Rainforest Alliance, lo que significa que no solo sabe bien, sino que también tiene un impacto positivo. Con cada compra, ayuda a cientos de agricultores y sus familias en todo el mundo, además de aportar su granito a la selva tropical; beber mejor es hacerlo mejor
 - Intensidad: 3/5
-- Café de Brasil. Tostado y envasado en Bélgica
 - 100 % arábica
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

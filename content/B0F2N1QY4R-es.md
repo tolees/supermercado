@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Usar después de la limpieza y antes del sérum, humedecer con un disco o aplicar directamente con los dedos en el rostro; evitar el contacto directo con los ojos
-- En una semana, la piel está más luminosa, uniforme y suave, estudio clínico en 76 voluntarios
 - Clínicamente probado y apto para pieles sensibles
-- El nuevo líquido iluminador combina vitamina C y glicerina + niacinamida + ácido salicílico para hidratar intensamente e iluminar la piel
 - Inmediatamente, la piel está hidratada
+- El nuevo líquido iluminador combina vitamina C y glicerina + niacinamida + ácido salicílico para hidratar intensamente e iluminar la piel
+- En una semana, la piel está más luminosa, uniforme y suave, estudio clínico en 76 voluntarios
+- Usar después de la limpieza y antes del sérum, humedecer con un disco o aplicar directamente con los dedos en el rostro; evitar el contacto directo con los ojos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F2N1QY4R{{</world>}}

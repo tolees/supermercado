@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cepillo de dientes de dureza media
 - Filamentos multi-dimensionales cruzados para una limpieza interdental profunda
-- Limpiador de lengua que elimina suavemente las bacterias que causan el mal aliento
 - Cuello flexible para un mayor confort y suavidad en tus encías
+- Limpiador de lengua que elimina suavemente las bacterias que causan el mal aliento
+- Cepillo de dientes de dureza media
 - Pack 2+1 gratis, multicolor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Aplicar sobre las axilas, una vez estén limpias y secas. Interrumpir el uso si aparecen irritaciones. Dejar secar antes de vestirse.
-- Protege la sudoración eficazmente durante 48h.
 - skin type: Normal
+- Protege la sudoración eficazmente durante 48h.
 - Antitranspirante, 0% Alcohol.
 - Activo Antibacteriano, Agente Desodorante y Clorohidrato de Aluminio.
 - Babaria desodorante Skin Protect +.

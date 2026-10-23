@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - INGREDIENTES:. Fórmula con Zinc-PCA, Ácido salicílico y Glicerina
-- CONSEJO EXPERTO: Humedecer cara y manos con agua. Extender el limpiador creando un poco de espuma. Masajear suavemente sobre todo en frente, nariz, barbilla. Enjuagar con abundante agua.
 - ¿QUÉ ES?: Acniben Limpiador Matificante es el Gel que limpia en Profundidad las Pieles Grasas o con Tendencia Acenica.
-- BENEFICIOS:Limpia los poros en profundidad, Exfolia suavemente la piel, Regula la producción de grasa , Disminuye la reaparición de imperfecciones y matifica la piel
 - TE PUEDE INTERESAR: Perfecto para rostro y cuerpo.
+- BENEFICIOS:Limpia los poros en profundidad, Exfolia suavemente la piel, Regula la producción de grasa , Disminuye la reaparición de imperfecciones y matifica la piel
+- CONSEJO EXPERTO: Humedecer cara y manos con agua. Extender el limpiador creando un poco de espuma. Masajear suavemente sobre todo en frente, nariz, barbilla. Enjuagar con abundante agua.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B1VHFH5J{{</world>}}

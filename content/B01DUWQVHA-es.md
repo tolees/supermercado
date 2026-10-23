@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pescado de carne blanca y suave textura
-- Preservado en aceite de oliva
 - Mantener en un lugar fresco y seco
-- Alto en proteínas y bajo en grasas y calorías
+- Preservado en aceite de oliva
+- Pescado de carne blanca y suave textura
 - Estuchado, fácil apertura
+- Alto en proteínas y bajo en grasas y calorías
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01DUWQVHA{{</world>}}

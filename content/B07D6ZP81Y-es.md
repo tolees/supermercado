@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Formato: Barrita de 40 g
 - Indicaciones: Indicado para sustituir una comida pero ha de acompañarse de una dieta hipocalórica que debe incluir otros alimentos
-- Barrita Sustitutiva Siken Sabor Yogur
 - Modo de empleo: 2 barritas = 1 comida. 1 barrita = 1 tentempié
+- Barrita Sustitutiva Siken Sabor Yogur
+- Formato: Barrita de 40 g
 - NO-VALUE
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Fairy Ultra Poder Original Líquido Lavavajillas 4 x 900ml'
-date: 2026-10-16 17:14:00
+title: 'Fairy Ultra Poder Original Líquido Lavavajillas 4 x 900ml | Fórmula Efectiva Que Deja Los Platos Relucientes Impresionante Poder Antigrasa'
+date: 2026-10-23 07:57:33
 image: 'https://m.media-amazon.com/images/I/51grrS5fujL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0DTTT2G36-es Fairy Ultra Poder Original Líquido Lavavajillas 4 x 900ml'
+slug: 'B0DTTT2G36-es Fairy Ultra Poder Original Líquido Lavavajillas 4 x 900ml...'
 sku: 'B0DTTT2G36-es'
 tags: [ 'fairy','🇪🇸', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99
 comparePrice: 19.99 EUR
-prodname: 'Fairy Ultra Poder Original Líquido Lavavajillas 4 x 900ml'
+prodname: 'Fairy Ultra Poder Original Líquido Lavavajillas 4 x 900ml | Fórmula Efectiva Que Deja Los Platos Relucientes Impresionante Poder Antigrasa'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DTTT2G36/?tag=tolees-21'
 descuento: '25.01'
-average: '15.040625'
+average: '15.0376470588235'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

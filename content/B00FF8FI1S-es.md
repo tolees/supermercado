@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'DYC 8 Años Whisky Blended Envejecido en Barricas de Roble Americano 70cl'
-date: 2026-06-18 18:53:25
+title: 'DYC 8 Años Whisky Blended 70cl'
+date: 2026-10-22 22:34:46
 image: 'https://m.media-amazon.com/images/I/31-rwHiE8gL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00FF8FI1S-es DYC 8 Años Whisky Blended Envejecido en Barricas de Roble...'
+slug: 'B00FF8FI1S-es DYC 8 Años Whisky Blended 70cl'
 sku: 'B00FF8FI1S-es'
 tags: [ 'whisky','🇪🇸', ]
-actualPrice: 10.79 EUR
+actualPrice: 10.61 EUR
 currency: EUR
-price: 10.79
+price: 10.61
 comparePrice: 13.4 EUR
-prodname: 'DYC 8 Años Whisky Blended Envejecido en Barricas de Roble Americano 70cl'
+prodname: 'DYC 8 Años Whisky Blended 70cl'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FF8FI1S/?tag=tolees-21'
-descuento: '19.48'
-average: '11.0385714285715'
+descuento: '20.82'
+average: '11.019090909091'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,15 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de alcohol: Whiskey
-- Sabor: robusto, dulce, notas de caramelo, vainilla, toques de miel
-- Color: oro
-- Nariz: ligera, dulce, notas de vainilla, toques de miel
-- Como servir: Serve at room temperature
-- Contenido de alcohol (alc/vol): 40.0 percent by volume
-- Acabado: larga duración
-- Perfecto como un regalo
-- Procedencia: Spain
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00FF8FI1S{{</world>}}

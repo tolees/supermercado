@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Recomendado para uso externo. Aclarar con agua después de usar. Dejar de usar si se produce irritación.
+- Suavidad clínicamente probada y testada dermatológicamente. Puede utilizarse diariamente en la ducha o baño como jabón líquido para la mucosa externa.
 - Contiene Lactoserum, Aqua, Magnesium Laureth Sulfate, Cocamidopropyl Betaine y otros ingredientes que evitan la proliferación de bacterias y hongos.
 - Enriquecido con Ácido LLáctico biológico y nutrientes esenciales, proporciona frescor y bienestar eliminando molestias durante el día a día.
-- Suavidad clínicamente probada y testada dermatológicamente. Puede utilizarse diariamente en la ducha o baño como jabón líquido para la mucosa externa.
+- Recomendado para uso externo. Aclarar con agua después de usar. Dejar de usar si se produce irritación.
 - Lactacyd ÍNTIMO Gel de Higiene Íntima Diario de 400 ml, diseñado para trabajar en armonía con el cuerpo y respeta el equilibrio natural de la zona íntima.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

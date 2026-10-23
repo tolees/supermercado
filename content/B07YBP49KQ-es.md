@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Práctico accesorio para complementar la zona de aguas
 - Diseño elegante y atemporal
+- Práctico accesorio para complementar la zona de aguas
 - Fácil de rellenar desde arriba
 - Disponible en acabado cromado, PVD steel y en la gama de colores de Silgranit, para poder combinar con los proyectos más actuales
 - Longitud y altura óptima para un cómodo manejo

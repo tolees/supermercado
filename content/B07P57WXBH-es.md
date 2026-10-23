@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- De agricultura ecológica
 - Copos gruesos de avena
 - Se pueden consumir directamente o mezclada con leche
-- De agricultura ecológica
 - Ideal como desayuno o merienda
 - Producto sin gluten
 

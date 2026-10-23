@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- FÓRMULA HIGIENE, ropa sin manchas, limpia y con un plus de luminosidad
-- Detergente para lavadora en formato gel líquido activo con poder de limpieza profunda
-- Extra luminosidad, apto para prendas blancas y de color
 - Profundo poder quitamanchas para tu ropa, incluso en agua fría y ciclos cortos
+- Detergente para lavadora en formato gel líquido activo con poder de limpieza profunda
+- FÓRMULA HIGIENE, ropa sin manchas, limpia y con un plus de luminosidad
 - Descubre el resto de detergentes y limpialavadoras de Colon para una colada óptima
+- Extra luminosidad, apto para prendas blancas y de color
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01IVKTEKM{{</world>}}

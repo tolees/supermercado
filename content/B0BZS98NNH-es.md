@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Referencia: S71004159
-- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
-- Recambio para Cepillo de Dientes Eléctrico de la marca Oral-B
 - Color: Multicolor
+- Recambio para Cepillo de Dientes Eléctrico de la marca Oral-B
+- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
+- Referencia: S71004159
 - Medidas: 21,84 x 5,84 x 1,78 centímetros
 
 [🛒 Aquí!!!]({{< param buyurl >}})

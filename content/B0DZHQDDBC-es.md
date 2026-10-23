@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elaborado con proceso uht
-- Caldo de pollo
-- Producto listo para el consumo
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - Advertencia de seguridad: Comprobar siempre la fecha de consumo preferente
-- La siguiente información se aplica a cada unidad del paquete
 - Instrucciones para su uso adecuado: Ideal para el consumo de niños y adultos
+- Caldo de pollo
+- La siguiente información se aplica a cada unidad del paquete
+- Producto listo para el consumo
+- Elaborado con proceso uht
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - Información de alérgenos: eggs
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

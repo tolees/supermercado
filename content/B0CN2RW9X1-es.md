@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Utilizar como un regalo o recompensa en cualquier momento o bien como parte de una dieta equilibrada
-- Cantidad: 100 gramos
-- La siguiente información se aplica a cada unidad del paquete
-- Alimento complementario para perros con un delicioso sabor
 - 100% Natural y Fresco
+- La siguiente información se aplica a cada unidad del paquete
+- Utilizar como un regalo o recompensa en cualquier momento o bien como parte de una dieta equilibrada
+- Alimento complementario para perros con un delicioso sabor
+- Cantidad: 100 gramos
 - Rico en proteína y bajo en grasa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

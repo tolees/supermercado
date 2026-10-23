@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El gel limpiador limpia la piel en profundidad, refresca y no seca la piel, adecuado para pieles normales y mixtas.
 - Sostenibilidad: envases 100% reciclables que se fabrican en la mayoría de materiales reciclados.
-- Certificado de cosmética ecológica: Cosmos Organic según el estándar Cosmos por Ecocert Greenlife certificado.
 - El aceite de citronela es conocido por sus propiedades purificantes e hidratantes y el agua de aciano orgánico calma la piel durante la limpieza.
+- Certificado de cosmética ecológica: Cosmos Organic según el estándar Cosmos por Ecocert Greenlife certificado.
 - Cosmética natural enriquecida con aceite esencial de citronela y agua de aciano de cultivo biológico.
+- El gel limpiador limpia la piel en profundidad, refresca y no seca la piel, adecuado para pieles normales y mixtas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07MN9KRFV{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Señorío de los Llanos Crianza - Vino Tinto D.O. Valdepeñas - Caja de 6 Botellas x 750 ml'
-date: 2026-09-27 10:30:30
+date: 2026-10-22 16:57:55
 image: 'https://m.media-amazon.com/images/I/51k2jcka1sL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B5G1V5S/?tag=tolees-21'
 descuento: '27.27'
-average: '12.1315662650602'
+average: '12.1284705882353'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

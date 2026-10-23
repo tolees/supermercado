@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Avena de cocción
 - Complementa la alimentación habitual
+- Avena de cocción
 - Cereales para el desayuno
 
 [🛒 Visítala!!!]({{< param buyurl >}})

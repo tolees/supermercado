@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Sardinillas tiernas con salsa y cebolla caramelizada
 - Sabor casero con un toque gourmet
 - Receta exclusiva de la Edición Limitada Luis Calvo
 - Pescado azul rico en Omega 3
-- Sardinillas tiernas con salsa y cebolla caramelizada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FQPKC22T{{</world>}}

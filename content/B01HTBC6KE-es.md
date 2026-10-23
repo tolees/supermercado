@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Leche con vitamina D, K y B12
 - Fuente de fósforo
 - Producto de España
+- Leche con vitamina D, K y B12
 - Ideal para cualquier edad
 - Una vez abierto se debe mantener refrigerado
 

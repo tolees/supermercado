@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Croqueta pequeña
-- Pienso para perros Yorkshire Terrier
-- Ayuda a reducir la formación de sarro: Gracias a una combinación de minerales
-- Sabor adecuado: Selección de ingredientes de alta palatabilidad
-- Contribuye al mantenimiento de las barreras y defensas naturales: Gracias a omega-6, biotina, zinc y vitaminas C, D y E
-- Fácil de digerir: Pollo y arroz, fuentes de proteínas e hidratos de carbono de fácil digestión
 - Pelo brillante y piel cuidada: Ácidos grasos omega-3 y omega-6, biotina y zinc
+- Sabor adecuado: Selección de ingredientes de alta palatabilidad
+- Ayuda a reducir la formación de sarro: Gracias a una combinación de minerales
+- Pienso para perros Yorkshire Terrier
+- Fácil de digerir: Pollo y arroz, fuentes de proteínas e hidratos de carbono de fácil digestión
+- Contribuye al mantenimiento de las barreras y defensas naturales: Gracias a omega-6, biotina, zinc y vitaminas C, D y E
+- Croqueta pequeña
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07VYY7V1N{{</world>}}

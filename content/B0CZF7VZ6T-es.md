@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuidado avanzado: Pasta de dientes con flúor que aporta un triple beneficio
+- Ayuda a prevenir la caries: Protección anticaries probada
 - Consigue un aliento fresco: Previene el mal aliento
 - La siguiente información se aplica a cada unidad del paquete
 - Ayuda a eliminar las manchas de la superficie: Consigue dientes más blancos
-- Ayuda a prevenir la caries: Protección anticaries probada
+- Cuidado avanzado: Pasta de dientes con flúor que aporta un triple beneficio
 - Disfruta de Colgate Triple Acción con sabor a menta
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

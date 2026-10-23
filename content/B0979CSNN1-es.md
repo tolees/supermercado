@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ENERGY: C4 contiene vitaminas como la niacina y la vitamina B12, que ayudan a reducir el cansancio y la fatiga, mientras contribuyen a un metabolismo energético normal
 - BEBIDA ENERGÉTICA C4: contiene 160 mg de cafeína por lata
-- INGREDIENTES INCREÍBLES: contiene vitaminas B y betaína (BetaPower)
+- ENERGY: C4 contiene vitaminas como la niacina y la vitamina B12, que ayudan a reducir el cansancio y la fatiga, mientras contribuyen a un metabolismo energético normal
 - SABORES INCONFUNDIBLES: C4 Frozen Bombsicle, C4 Twisted Limeade, C4 Cosmic Rainbow, C4 Orange Slice
+- INGREDIENTES INCREÍBLES: contiene vitaminas B y betaína (BetaPower)
 - BEBIDA SIN AZÚCAR PARA HOMBRES Y MUJERES: sin azúcares ni carbohidratos, y con muy pocas calorías en cada deliciosa ración
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

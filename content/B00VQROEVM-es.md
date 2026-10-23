@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Color topacio; cálidas notas de especias (canela, vainilla); al paladar es graso y rico en taninos
+- Graduación: 40% vol.
 - Recomendado con Cola, una combinación infalible en la que la Cola potencia las notas dulces de Torres 10
 - Destilación tradicional de vino blanco y posterior crianza en barricas de roble americano por el sistema tradicional de solera
-- Graduación: 40% vol.
 - Origen: España
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

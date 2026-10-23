@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apta para vegetarianos
-- Calienta las tortillas, pon en cada una dos cucharadas grandes de la mezcla cocinada y ¡a disfrutar!
 - Salsa original de tomate, pimientos y cebolla para fajitas
 - Suave
+- Apta para vegetarianos
+- Calienta las tortillas, pon en cada una dos cucharadas grandes de la mezcla cocinada y ¡a disfrutar!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01EG25JTY{{</world>}}

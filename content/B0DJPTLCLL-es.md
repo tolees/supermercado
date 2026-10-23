@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- TENDENCIA OLFATIVA: Con este perfume para mujer adéntrate en una perfecta armonía, gracias a su frescura y su dulzura.
+- PIRÁMIDE OLFATIVA: Notas de salida: banana, piña y notas verdes; Notas de corazón: mango y coco; Notas de fondo: vainilla y leche.
+- ESENCIA DURADERA: Una fragancia cuya esencia persiste en la piel, una colonia de larga duración para que te acompañe en tu día a día. ¡Échatela una sola vez y durará todo el día!
 - FRAGANCIA ÚNICA: Nike Reloaded Chic & Cool es un perfume femenino que te hace viajar al Trópico. Colonia con vaporizador.
 - FEMENINO Y EXÓTICO: un perfume para mujeres modernas que, gracias a su aroma afrutado, te transporta a un colorido y dinámico destino exótico. ¡Disfruta de las sensaciones más agradables que te da la naturaleza!
-- PIRÁMIDE OLFATIVA: Notas de salida: banana, piña y notas verdes; Notas de corazón: mango y coco; Notas de fondo: vainilla y leche.
-- TENDENCIA OLFATIVA: Con este perfume para mujer adéntrate en una perfecta armonía, gracias a su frescura y su dulzura.
-- ESENCIA DURADERA: Una fragancia cuya esencia persiste en la piel, una colonia de larga duración para que te acompañe en tu día a día. ¡Échatela una sola vez y durará todo el día!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJPTLCLL{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este envase contiene aproximadamente 6 porciones
+- Envasado en Alemania
 - Conservar en un lugar fresco y seco
 - Apto para dietas vegetarianas
-- Envasado en Alemania
+- Este envase contiene aproximadamente 6 porciones
 - Patatas fritas con sabor a pimentón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

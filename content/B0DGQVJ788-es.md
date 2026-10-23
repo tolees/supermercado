@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - De larga duración; definir; fácil de retirar; natural
+- Fórmula ligera y modulable
 - Acabado mate de larga duración
 - Para una tez cálida perfecta
-- Fórmula ligera y modulable
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DGQVJ788{{</world>}}

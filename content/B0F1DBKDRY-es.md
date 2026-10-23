@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ariel Detergente Lavadora Liquido 40 Lavados Jabon Frescor Sensaciones Limpieza Mejorada en Ciclos Mas Frios con la Exclusiva Tecnologia de Limpieza en Frio El embalaje puede variar'
-date: 2026-10-17 14:33:48
+date: 2026-10-23 07:49:26
 image: 'https://m.media-amazon.com/images/I/41V6036QxBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F1DBKDRY/?tag=tolees-21'
 descuento: '22.60'
-average: '12.3233333333334'
+average: '12.2757142857144'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

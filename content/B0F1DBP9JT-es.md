@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nestlé NATIVA 3 es una leche de crecimiento en polvo a partir de los 12 meses
-- Y Vitaminas A y C que favorecen la función normal del sistema inmunitario
 - Contiene Calcio y Vitamina D que favorecen el normal crecimiento de los huesos
-- Sin aceite de palma
+- Nestlé NATIVA 3 es una leche de crecimiento en polvo a partir de los 12 meses
 - Contiene Hierro que favorece el desarrollo cognitivo normal
+- Y Vitaminas A y C que favorecen la función normal del sistema inmunitario
+- Sin aceite de palma
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F1DBP9JT{{</world>}}

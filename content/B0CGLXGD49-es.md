@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contiene un sistema avanzado que elimina hasta el 100% de las manchas superficiales
-- El pack contiene 2 unidades
 - La siguiente información se aplica a cada unidad del paquete
+- Contiene un sistema avanzado que elimina hasta el 100% de las manchas superficiales
 - Clínicamente probado
 - Consigue un tono más blanco en una semana
+- El pack contiene 2 unidades
 - Contiene aceleradores de blanqueamiento
 
 [🛒 Comprar!!!]({{< param buyurl >}})

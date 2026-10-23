@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Una vez abierto el envase, conservar en el frigorífico
-- Zumo de naranja sin pulpa
 - Agitar antes de servir
 - Almacenar en un lugar fresco
+- Zumo de naranja sin pulpa
 - 100 % zumo de naranja
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

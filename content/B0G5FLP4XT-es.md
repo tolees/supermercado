@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LA ESPAÑOLA Aceite de Oliva Virgen Extra Selección Mediterránea Garrafa 5L AOVE de Sabor Equilibrado Ideal para Cocinar y en Crudo Paquete de 2'
-date: 2026-10-20 07:53:34
+date: 2026-10-22 17:27:58
 image: 'https://m.media-amazon.com/images/I/518j1k-CeyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0G5FLP4XT/?tag=tolees-21'
 descuento: '37.77'
-average: '40.9657142857143'
+average: '41.1027027027027'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

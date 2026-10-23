@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- No contiene gluten ni lactosa, por lo que es apto para personas celíacas e intolerantes al lácteo
-- Es fuente de fibra, calcio y vitamina D
 - Es 100% natural y vegetal, para contribuir a un planeta sostenible
+- Es fuente de fibra, calcio y vitamina D
 - Naturalmente baja en grasas saturadas
+- No contiene gluten ni lactosa, por lo que es apto para personas celíacas e intolerantes al lácteo
 - Bebida de coco con calcio y vitaminas añadidas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

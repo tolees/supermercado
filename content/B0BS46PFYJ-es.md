@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - En nariz: Inconfundible aroma a fresas naturales de Huelva
 - A la vista: Color brillante salmón
-- Nota de cata: inconfundible aroma a fresas naturales con amplios matices de fresa y enebro con ligeros toques cítricos.
 - La botella de Puerto de Indias celebra el Amor con esta edición ilimitada
+- Nota de cata: inconfundible aroma a fresas naturales con amplios matices de fresa y enebro con ligeros toques cítricos.
 - Sabor: Ginebra de fresas naturales, con un sabor suave y dulce
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

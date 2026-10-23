@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Sensodyne Multiprotección Pasta Dental Sensibilidad Menta Pack 4x75 ml'
-date: 2026-09-19 13:44:41
+title: 'Sensodyne Multiprotección Pasta Dental Sensibilidad Menta Pack 4x75 ml | Pasta dientes sensibilidad flúor acción blanqueante suave menta refrescante pack ahorro 4x75 ml'
+date: 2026-10-22 18:07:51
 image: 'https://m.media-amazon.com/images/I/51ER0+vh5TL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0CSFZQH59-es Sensodyne Multiprotección Pasta Dental Sensibilidad Menta...'
 sku: 'B0CSFZQH59-es'
 tags: [ 'sensodyne','🇪🇸', ]
-actualPrice: 11.09 EUR
+actualPrice: 11.98 EUR
 currency: EUR
-price: 11.09
+price: 11.98
 comparePrice: 18.91 EUR
-prodname: 'Sensodyne Multiprotección Pasta Dental Sensibilidad Menta Pack 4x75 ml'
+prodname: 'Sensodyne Multiprotección Pasta Dental Sensibilidad Menta Pack 4x75 ml | Pasta dientes sensibilidad flúor acción blanqueante suave menta refrescante pack ahorro 4x75 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CSFZQH59/?tag=tolees-21'
-descuento: '41.35'
-average: '12.77'
+descuento: '36.65'
+average: '12.6868421052631'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

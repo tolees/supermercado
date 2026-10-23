@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Como lo harías en casa.
 - Envase reciclado.
 - Sin lactosa, sin gluten y sin huevo.
+- Como lo harías en casa.
 - Cocido en olla a fuego lento durante 3 horas.
 - Solo ingredientes naturales.
 

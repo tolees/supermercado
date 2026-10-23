@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Formato: 3 envases de 16 cápsulas - 48 cápsulas
-- Hecho en Italia: GRUPO GIMOKA - PASIÓN POR EL CAFÉ DESDE LOS 80, si te comprometes activamente a desarrollar envases fácilmente reciclables, compostables y ecológicos
 - Contiene: Cafeína, producto sin gluten
+- Formato: 3 envases de 16 cápsulas - 48 cápsulas
 - Mezcla: una mezcla de café 100% arábica con la adición de leche
+- Hecho en Italia: GRUPO GIMOKA - PASIÓN POR EL CAFÉ DESDE LOS 80, si te comprometes activamente a desarrollar envases fácilmente reciclables, compostables y ecológicos
 - Perfil sensorial: capuchino que combina un café fuerte con el delicado placer de la leche para crear una espuma perfecta y consistente
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Avena tostada en crujientes granolas con fruta deshidratada y frutos secos
 - Con cereales integrales
-- La siguiente información se aplica a cada unidad del paquete
 - Sin colorantes ni aromas artificiales
+- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DP4XYP5B{{</world>}}

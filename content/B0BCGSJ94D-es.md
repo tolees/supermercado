@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Esmalte de uñas de alto impacto, color ultra brillante.
 - Aplicación precisa en solo una pasada.
-- Acabado impecable hasta 10 días
 - Secado rápido en solo 60 segundos para que puedas ir de la piscina a la ciudad en un abrir y cerrar de ojos
 - Tecnología 3 en 1: base, color y top coat.
+- Acabado impecable hasta 10 días
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BCGSJ94D{{</world>}}

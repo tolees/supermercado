@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Smileat Tarrito Ecológico de Verduras con Merluza Pack 12 x 220 g | Receta sin gluten huevo leche ni sal añadida recomendada a partir de 6 meses'
-date: 2026-10-17 02:49:46
+date: 2026-10-22 09:50:35
 image: 'https://m.media-amazon.com/images/I/41DJMIk3bML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

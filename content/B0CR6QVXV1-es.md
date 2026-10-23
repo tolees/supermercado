@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Resultados visibles y palpables
-- El 97% de los ingredientes son de origen natural
-- Cabello brillante y suave, con una fragancia afrutada
 - Con fragancia afrutada nutritiva
+- Cabello brillante y suave, con una fragancia afrutada
+- El 97% de los ingredientes son de origen natural
+- Resultados visibles y palpables
 - Este tratamiento capilar Gliss con HAPTIQ System crea microenlaces y refuerza la estructura del cabello
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

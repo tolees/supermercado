@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Ideales para fiestas, meriendas, aperitivos o cocktails
 - Doble capa
+- 30 unidades
 - Servilletas negras
 - 22 x 22 cm (servilleta abierta)
-- 30 unidades
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00N1UYDGI{{</world>}}

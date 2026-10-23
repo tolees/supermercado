@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto de alta calidad
-- Sin hidrogenadas
 - Sin grasas hidrogenadas
+- Sin hidrogenadas
+- Producto de alta calidad
 - Fácil de usar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

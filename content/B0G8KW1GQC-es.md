@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aplica una cantidad muy pequeña bajo cada ojo dando toquecitos desde dentro hacia fuera.
-- Agradable sensación en la piel
-- Disfruta de unos ojos más firmes y rejuvenecidos.
-- Hidratación intensa para la piel
-- Probado clínicamente que reduce la hinchazón y las arrugas.
 - Ofrece un acabado transparente efecto filtro.
-- Deshincha, Alisa y Suaviza las Bolsa de los Ojos en 15 minutos*
+- Probado clínicamente que reduce la hinchazón y las arrugas.
+- Agradable sensación en la piel
 - Humectante de piel
+- Hidratación intensa para la piel
+- Deshincha, Alisa y Suaviza las Bolsa de los Ojos en 15 minutos*
+- Disfruta de unos ojos más firmes y rejuvenecidos.
+- Aplica una cantidad muy pequeña bajo cada ojo dando toquecitos desde dentro hacia fuera.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G8KW1GQC{{</world>}}

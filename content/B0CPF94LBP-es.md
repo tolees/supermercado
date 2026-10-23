@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Pasta dental
 - Cepillándote los dientes dos veces al día
 - Fortalece tus dientes
 - Dentifrico
-- Protección anticaries
 - La siguiente información se aplica a cada unidad del paquete
-- Para toda la familia
-- Pasta dental
 - Con Flúor y Calcio
+- Para toda la familia
+- Protección anticaries
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CPF94LBP{{</world>}}

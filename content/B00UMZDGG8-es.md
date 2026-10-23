@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Marca: NaturGreen
+- Agricultura non UE
 - Ingredientes procedentes de la agricultura ecológica
 - Sin azúcares añadidos, gluten, lactosa, proteína láctea
-- Agricultura non UE
 - Ingredientes: 100% café instantáneo liofilizado (100% vegetal)
-- Marca: NaturGreen
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00UMZDGG8{{</world>}}

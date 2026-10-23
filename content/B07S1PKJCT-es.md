@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Maridaje: pescado, marisco fresco y ensaladas templadas.
-- Formato BAG IN BOX de capacidad: 5 litros (equivale a 6 botellas de 750ml)
-- Variedad de uva: VERDEJO de Castilla y León
 - Color amarillo pajizo con reflejos verdosos. En nariz es perfumado con aromas de hinojo.
 - VINO BLANCO DE MESA
+- Variedad de uva: VERDEJO de Castilla y León
+- Maridaje: pescado, marisco fresco y ensaladas templadas.
+- Formato BAG IN BOX de capacidad: 5 litros (equivale a 6 botellas de 750ml)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07S1PKJCT{{</world>}}

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene un sabor intenso
 - Apto para compartir con los amigos
+- Tiene un sabor intenso
 - Café tostado y molido
+- Envase inteligente para conserva el aroma
 - Se puede servir sola o can leche, azúcar o miel
 - La siguiente información se aplica a cada unidad del paquete
-- Envase inteligente para conserva el aroma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G5DMRK1M{{</world>}}

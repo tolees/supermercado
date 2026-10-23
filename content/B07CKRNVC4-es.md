@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - AFTER SUN CON ALOE VERA: El protector solar 50 alivia, hidrata y ayuda a regenerar la piel tras la exposición solar.
-- PROTECTOR SOLAR NIÑOS: Protección solar con formulación específica para la piel delicada de los niños.
-- FÓRMULA RESPETUOSA: Protector solar mineral niños sin filtros químicos, ideal para pieles sensibles e infantiles.
 - PACK PROTECTOR SOLAR NIÑOS: Seguridad, suavidad y eficacia en el cuidado de nuestra crema solar niños SPF 50 y el After Sun de Aloe Vera.
+- FÓRMULA RESPETUOSA: Protector solar mineral niños sin filtros químicos, ideal para pieles sensibles e infantiles.
+- PROTECTOR SOLAR NIÑOS: Protección solar con formulación específica para la piel delicada de los niños.
 - ALTA RESISTENCIA AL AGUA: Garantiza proteccion solar duradera durante el juego y el baño.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

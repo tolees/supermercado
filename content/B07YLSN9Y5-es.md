@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Color: ámbar brillante
 - Nariz: compleja, frutos secos, taninos de vino, roble
+- Color: ámbar brillante
 - Acabado de larga duración
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

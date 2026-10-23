@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Complemento alimenticio a base de extractos naturales entre los que destacan menta, alcaravea, hinojo, carbón vegetal y manzanilla. Está formulado con vitaminas del grupo B y enriquecido con fermentos lácticos. Apto para veganos
-- Está recomendado para personas que presenten hinchazón abdominal debido a la acumulación de gases intestinales o para aquellos con dificultad para expulsar gases
-- Caja de 30 comprimidos
 - Se recomienda tomar 1 ó 2 comprimidos después de las comidas principales, hasta un máximo de 4 comprimidos al día
+- Complemento alimenticio a base de extractos naturales entre los que destacan menta, alcaravea, hinojo, carbón vegetal y manzanilla. Está formulado con vitaminas del grupo B y enriquecido con fermentos lácticos. Apto para veganos
+- Caja de 30 comprimidos
+- Está recomendado para personas que presenten hinchazón abdominal debido a la acumulación de gases intestinales o para aquellos con dificultad para expulsar gases
 - Tomar EPAPLUS Digestcare Gases favorece la expulsión de los gases intestinales y su eliminación
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HARIBO CRAZY SKELETTIES 160G'
-date: 2026-10-19 23:14:12
+date: 2026-10-23 07:37:42
 image: 'https://m.media-amazon.com/images/I/51GKmgd-52L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

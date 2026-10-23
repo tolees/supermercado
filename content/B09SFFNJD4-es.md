@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- ECOREGALO - El turrón incluye un papel plantable de semillas de manzanilla para que puedas sembrarlas dónde quieras y con quién quieras.
+- BIO - Comprométete con el medio ambiente y disfruta de la calidad suprema del turrón El Lobo elaborado con ingredientes ecológicos.
 - RECICLADO - El cartón de nuestros turrones es 100% reciclado y la envuelta interior es 100% reciclable en el contenedor amarillo.
 - CALIDAD ECOLÓGICA - El Turrón de Jijona BIO de El Lobo se elabora con ingredientes que han recibido el sello de la UE de agricultura ecológica.
-- BIO - Comprométete con el medio ambiente y disfruta de la calidad suprema del turrón El Lobo elaborado con ingredientes ecológicos.
-- ECOREGALO - El turrón incluye un papel plantable de semillas de manzanilla para que puedas sembrarlas dónde quieras y con quién quieras.
 - RECOMENDADO - Para todos aquellos comprometidos con el medio ambiente que deseen disfrutar de un turrón de calidad suprema. Además, es apto para celíacos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

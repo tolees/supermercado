@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Se puede usar para preparar cócteles
-- De color dorado
 - Notas de mazapán y nueces
+- De color dorado
 - Aromas afrutados a naranja de naranja dulce y melocotón
 - Toques de rico y suave chocolate con naranja
 

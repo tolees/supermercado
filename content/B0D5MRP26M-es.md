@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Viene con una fórmula cremosa; es adecuado para cuidado diario
-- Fragancia masculina energizante de toques cítricos
 - Aplicar sobre la piel previamente mojada y masajear con las manos o con la ayuda de una esponja; aclarar con abundante agua
 - Magno te sorprenderá con su fragancia para hombres Magno Black
+- Fragancia masculina energizante de toques cítricos
+- Viene con una fórmula cremosa; es adecuado para cuidado diario
 - El gel de ducha Magno Black Energy cuenta con una combinación de toques silvestres y hierbas aromática
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

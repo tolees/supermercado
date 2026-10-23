@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Color intenso, sensación aterciopelada
+- Barra de labios con hidratación y acabado matte satinado
 - Fácil de aplicar
 - El color se desliza suavemente a través de los labios
-- Barra de labios con hidratación y acabado matte satinado
-- Color intenso, sensación aterciopelada
 - Fórmula con proteínas de seda que ayuda a hidratar los labios
 
 [🛒 Aquí!!!]({{< param buyurl >}})

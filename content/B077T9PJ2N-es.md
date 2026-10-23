@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Listo en 1 minuto
 - Sin conservantes ni gluten
-- Envase adecuado para microondas
 - Producto troceado sin huesos
+- Envase adecuado para microondas
 - Pollo al ajillo con patatas asadas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

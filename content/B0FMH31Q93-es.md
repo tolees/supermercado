@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - La frescura duradera que todos quieren
-- Dile adiós a los malos olores durante 48 horas
 - La fragancia a canela, vainilla y notas cítricas de Old Spice Original te hará inolvidable: te convertirás prácticamente en el centro del universo
+- Dile adiós a los malos olores durante 48 horas
 - Actúa como escudo protector contra las manchas blancas y amarillentas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

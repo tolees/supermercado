@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Conservar en lugar fresco y seco
-- Producto de aperitivo de maíz horneado
-- Disfrutar de ellos a todas horas y en cualquier lugar
 - Ideal como snack
+- Producto de aperitivo de maíz horneado
+- Conservar en lugar fresco y seco
+- Disfrutar de ellos a todas horas y en cualquier lugar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DT9RMYNK{{</world>}}

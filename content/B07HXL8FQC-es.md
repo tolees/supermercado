@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sin gluten
-- Ingredientes: Ingredientes: Agua, verduras, pesto verde, almidón de tapioca, almidón de maíz, sal marina y especias
-- Sin huevo
-- Advertencia de seguridad: No necesita refigeración
-- Sin azúcares añadidos
-- Ingredientes naturales y ecológicos
-- Instrucciones para su uso adecuado: Es apto para todas los grupos poblacionales, a excepción de aquellos con alergia o intolerancias que vienen registradas en la tabla de alérgenos; no existen pasos requeridos para su consumo
 - Sin proteína láctea
+- Instrucciones para su uso adecuado: Es apto para todas los grupos poblacionales, a excepción de aquellos con alergia o intolerancias que vienen registradas en la tabla de alérgenos; no existen pasos requeridos para su consumo
+- Sin azúcares añadidos
+- Advertencia de seguridad: No necesita refigeración
+- Ingredientes: Ingredientes: Agua, verduras, pesto verde, almidón de tapioca, almidón de maíz, sal marina y especias
+- Sin gluten
+- Ingredientes naturales y ecológicos
+- Sin huevo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07HXL8FQC{{</world>}}

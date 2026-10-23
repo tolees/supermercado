@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se puede servir como tal, con cereales o en café
 - Leche sin lactosa facil de digerir
 - Apta para niños y adultos intolerantes a la lactosa
 - Tiene un aporte de vitaminas
+- Se puede servir como tal, con cereales o en café
 - Contiene menos grasa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

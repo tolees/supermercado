@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Exfolia la superﬁcie de la piel, ayudando a suavizar su textura y a fomentar el proceso de renovación cutánea
 - Potencía la luminosidad de la piel
-- Tipo de piel: Combination
-- Gel facial formulado con un 15% de ácido glicólico parcialmente neutralizado (equivalente a un 6,1% de glicólico libre)
 - Su contenido en aloe vera proporciona una acción hidratante y ayuda a disminuir la irritación
+- Gel facial formulado con un 15% de ácido glicólico parcialmente neutralizado (equivalente a un 6,1% de glicólico libre)
+- Tipo de piel: Combination
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0849B6XKD{{</world>}}

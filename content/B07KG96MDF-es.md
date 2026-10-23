@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Temperatura óptima de servicio: 14-16 ºC
 - Nota de cata (nariz): Definido y persistente; sus notas a ciruela e higos se conjugan con la vainilla, proveniente de la madera, logrando de esta manera un vino amable y sutil
 - Nota de cata (boca): Combina densidad y dulzor con un atractivo dejo mineral; su final es largo y persistente, con un delicado sabor a fruto negro dulce
 - Nota de cata (vista): Color rojo rubí, brillante
-- Temperatura óptima de servicio: 14-16 ºC
 - Varietal: 100% Malbec
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

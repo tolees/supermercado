@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Maquillaje para el rostro
-- Fácil de aplicar
 - Para un maquillaje óptimo
+- Fácil de aplicar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZ5YYV46{{</world>}}

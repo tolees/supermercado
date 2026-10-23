@@ -30,12 +30,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Protección de la forma. Ayuda a evitar que se pierda la forma.
 - Si tienes alguna duda sobre la resistencia del color, lava a mano por separado la ropa nueva en agua fría. Si ves que pierde el color, no lo empapes y lávalo por separado.
-- Ingredientes: Cada Ingrediente se Indica con su Nombre Reconocido Internacionalmente: su INCI (Nomenclatura Internacional de Ingredientes Cosméticos). Consulta CosIng Haz Clic Aquí Si el Nombre INCI no Existe, este Ingrediente se Describe con su Nombre Común. Haz Clic Aquí para Ver la Lista Completa de Ingredientes.
-- Se puede lavar a mano o a máquina.
-- Protege las fibras delicadas. Mantiene suave tu ropa delicada mucho más tiempo.
-- Elige el ciclo específico para lana y prendas delicadas. No centrifugar. No utilizar el ciclo de prelavado.
-- Sigue las instrucciones de cuidado de la etiqueta. Al lavar los distintos tejidos, elije el lavado apropiado para el tejido más delicado.
 - 1 botellas de 3 litros (60 lavados)
+- Protege las fibras delicadas. Mantiene suave tu ropa delicada mucho más tiempo.
+- Sigue las instrucciones de cuidado de la etiqueta. Al lavar los distintos tejidos, elije el lavado apropiado para el tejido más delicado.
+- Ingredientes: Cada Ingrediente se Indica con su Nombre Reconocido Internacionalmente: su INCI (Nomenclatura Internacional de Ingredientes Cosméticos). Consulta CosIng Haz Clic Aquí Si el Nombre INCI no Existe, este Ingrediente se Describe con su Nombre Común. Haz Clic Aquí para Ver la Lista Completa de Ingredientes.
+- Elige el ciclo específico para lana y prendas delicadas. No centrifugar. No utilizar el ciclo de prelavado.
+- Se puede lavar a mano o a máquina.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CHYJP7HQ{{</world>}}

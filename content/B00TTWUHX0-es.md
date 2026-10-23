@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sativa colu-tex 250ml (8470001505880)
-- Enjuague bucal cuidado personal unisex adulto
 - Enjuague bucal sativa
+- Enjuague bucal cuidado personal unisex adulto
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00TTWUHX0{{</world>}}

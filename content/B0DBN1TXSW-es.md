@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fuente de proteínas
-- Alto contenido de fibra
 - Este envase contiene aproximadamente 12 porciones
 - 100% avena
+- Alto contenido de fibra
 - Envasado en Alemania
+- Fuente de proteínas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DBN1TXSW{{</world>}}

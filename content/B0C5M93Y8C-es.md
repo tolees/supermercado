@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sin conservantes ni colorantes artificiales
-- Fuente de fibra, magnesio, vitamina E y fósforo
 - Pipas de girasol con sal marina
+- Sin conservantes ni colorantes artificiales
 - Con un toque de aceite de oliva
+- Fuente de fibra, magnesio, vitamina E y fósforo
 - Conservar en lugar fresco y seco
 
 [🛒 Aquí!!!]({{< param buyurl >}})

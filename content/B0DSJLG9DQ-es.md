@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Instrucciones claras paso a paso que hacen que la artesanía sea simple y divertida.
-- Entra en un mundo mágico con la puerta de hadas, inspirada en la naturaleza
 - Perfecto para los amantes de la fantasía que disfrutan de proyectos creativos de manualidades.
 - Decora tu mini mundo con lápices, calcomanías y tu propio toque creativo.
+- Entra en un mundo mágico con la puerta de hadas, inspirada en la naturaleza
+- Instrucciones claras paso a paso que hacen que la artesanía sea simple y divertida.
 - Incluye una mini puerta de madera y accesorios a juego para un fácil montaje.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

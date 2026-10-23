@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Origen: DO Penedès, España;
 - Elaborado por: FAMILIA TORRES;
 - Graduación: 14 %;
-- Origen: DO Penedès, España;
 - Maridaje: Perfecto con la ternera, el cerdo o el pato salvaje;
 - Variedades: Merlot;
 

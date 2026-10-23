@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - CULTIVO ECOLÓGICO: El cuidado del cultivo ecológico otorga a Pellini Bio superioridad en aroma y sabor. Mezcla pensada para convertir un ritual diario en un Espresso de ensueño
 - PELLINI BIO: Café Pellini tostado en grano, especial e inconfundible, en un envase de 500g. Un auténtico Espresso, ¡como en una cafetería!
-- COMPOSICIÓN: Mezcla de calidades de Arabica 100% provenientes de agriculturas biológicas de la zona tropical. Un proyecto de bioética industrial para consumidores conscientes.
 - NOTAS AROMÁTICAS: Aroma perfumado y refinado con notas de pomelo, galleta y miel
 - TUESTE: Tueste medio, intensidad 5/9. El café se enfría naturalmente al aire, se deja reposar en silos especiales antes de ser envasado.
+- COMPOSICIÓN: Mezcla de calidades de Arabica 100% provenientes de agriculturas biológicas de la zona tropical. Un proyecto de bioética industrial para consumidores conscientes.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B087VG6DWY{{</world>}}

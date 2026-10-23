@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - La fórmula vegana es suave con la piel
-- mientras proporciona un efecto de piel fresca de larga duración.
 - combatiendo los olores causados por el sudor
+- mientras proporciona un efecto de piel fresca de larga duración.
 - Con un potente frescor, el desodorante adidas Sport Fresh se seca rápidamente y proporciona protección contra el sudor durante 72 horas.
 - y ayuda a mantenerte seco con ultra protección,
 

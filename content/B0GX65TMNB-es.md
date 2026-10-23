@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La siguiente información se aplica a cada unidad del paquete
-- Con un 30% menos de sal que la media de las salsas mayonesa y similares del mercado
-- Calvé Sabor Casero en Tarro 430ml
-- Conquistando las mesas de las familias españolas desde hace generaciones
 - Apta para vegetarianos
-- Elaborada con ingredientes de gran calidad que le aportan su sabor casero único
 - Sin conservantes ni colorantes
+- Elaborada con ingredientes de gran calidad que le aportan su sabor casero único
+- Con un 30% menos de sal que la media de las salsas mayonesa y similares del mercado
+- La siguiente información se aplica a cada unidad del paquete
+- Conquistando las mesas de las familias españolas desde hace generaciones
+- Calvé Sabor Casero en Tarro 430ml
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GX65TMNB{{</world>}}

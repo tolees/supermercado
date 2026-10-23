@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Se guarda en su propio bolsillo
 - Cremallera completa
+- Se guarda en su propio bolsillo
 - Chaqueta acolchada versátil y cálida
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con un delicado perfume de manzana madura y vainilla
-- Un excelente calvados elaborado con doble destilación y envejecido durante un mínimo de 10 años
-- Una exquisitez para los paladares más exigentes
 - El más alto de la gama Père Magloire (extra old)
+- Con un delicado perfume de manzana madura y vainilla
+- Una exquisitez para los paladares más exigentes
+- Un excelente calvados elaborado con doble destilación y envejecido durante un mínimo de 10 años
 - Notas de fruta roja
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

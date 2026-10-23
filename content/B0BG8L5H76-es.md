@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HARIBO CREAM KISS 1 x 1 Kg'
-date: 2026-10-21 22:39:24
+date: 2026-10-23 08:52:06
 image: 'https://m.media-amazon.com/images/I/51hJWL7nwRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BG8L5H76/?tag=tolees-21'
 descuento: '26.67'
-average: '6.68333333333333'
+average: '6.3875'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

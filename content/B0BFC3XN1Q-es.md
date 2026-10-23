@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Incorpora sal y ayuda al aclarado, también protege el cristal y la plata
 - Mantiene un aroma limpio y fresco en tu lavavajillas
 - Las cápsulas altamente solubles se disuelven rápido
 - Las cápsulas Fairy Platinum eliminan incluso la grasa más incrustada a la primera
-- Incorpora sal y ayuda al aclarado, también protege el cristal y la plata
 - Ayuda a evitar la acumulación de grasa en el lavavajillas y limpia la grasa del filtro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Libre de cafeína
-- Contiene bolsitas envueltas herméticas e individuales con triple capa
-- Conservar en lugar fresco y seco
 - Infusión de jengibre con cúrcuma
+- Conservar en lugar fresco y seco
+- Contiene bolsitas envueltas herméticas e individuales con triple capa
 - Elaborado con ingredientes naturales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

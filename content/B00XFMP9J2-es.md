@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Zumo de naranjas apartir de concentrado
-- Una vez abierto conservar en el frigorífico
 - Ideal en cualquier momento del día
-- Con un sabor dulce
 - Agitar antes de usar
+- Una vez abierto conservar en el frigorífico
+- Zumo de naranjas apartir de concentrado
+- Con un sabor dulce
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00XFMP9J2{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ORIGEN: Una mezcla única, procedente de la región de Sidamo en Etiopía, que da lugar a un café aromático en el que las notas florales y cítricas ponen de manifiesto la autenticidad de un país considerado la cuna del café.
-- COMPATIBLE: Blend de 220 gramos de café molido natural apto para cualquier cafetera de molido.
 - INTENSIDAD: Café molido de tueste natural con intensidad 11
+- COMPATIBLE: Blend de 220 gramos de café molido natural apto para cualquier cafetera de molido.
+- ORIGEN: Una mezcla única, procedente de la región de Sidamo en Etiopía, que da lugar a un café aromático en el que las notas florales y cítricas ponen de manifiesto la autenticidad de un país considerado la cuna del café.
 - CALIDAD DELTA: La combinación perfecta de granos provenientes de las mejores regiones productoras de café del mundo y del arte del tostado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

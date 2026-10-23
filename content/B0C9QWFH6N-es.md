@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mini galletas Príncipe con cereales y fibra y sabor a chocolate en su interior. Formato de bocado práctico para meriendas, snacks o desayunos, manteniendo el carácter clásico de Príncipe para disfrutar en cualquier momento
-- Galletas Príncipe Mini tipo sándwich, crujientes y rellenas de chocolate con leche. Incluyen 4 paquetes interiores y vienen en bolsa individual de bolsillo, práctica para llevar y disfrutar de Príncipe en cualquier momento del día
-- Príncipe se ha convertido en un clásico de las meriendas, y continúa compartiendo su pasión por el mundo, asegurando que cada bocado sea una combinación óptima de sabor y compromiso
-- Compromiso en seguir ofreciendo deliciosas galletas con la mejor calidad del trigo a la misma vez que garantizar el menor impacto en el planeta
 - Las galletas Mini Príncipe pueden disfrutarse solas, con leche o en reuniones, y también incorporarse a recetas como tartas, batidos o muffins. Una opción versátil para desayunos, meriendas o snacks, con su característico sabor a chocolate
+- Príncipe se ha convertido en un clásico de las meriendas, y continúa compartiendo su pasión por el mundo, asegurando que cada bocado sea una combinación óptima de sabor y compromiso
+- Mini galletas Príncipe con cereales y fibra y sabor a chocolate en su interior. Formato de bocado práctico para meriendas, snacks o desayunos, manteniendo el carácter clásico de Príncipe para disfrutar en cualquier momento
+- Compromiso en seguir ofreciendo deliciosas galletas con la mejor calidad del trigo a la misma vez que garantizar el menor impacto en el planeta
+- Galletas Príncipe Mini tipo sándwich, crujientes y rellenas de chocolate con leche. Incluyen 4 paquetes interiores y vienen en bolsa individual de bolsillo, práctica para llevar y disfrutar de Príncipe en cualquier momento del día
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C9QWFH6N{{</world>}}

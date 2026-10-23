@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - MjAMjAM - porque es sabroso
-- Composición: 52,5 % de carne y vísceras (carne, corazón, hígado y mollejas de pollo) 46,5 % de insectos, 0,5 % de cáscaras de huevo, 0,5 % de minerales
-- Pienso acuoso para perros. Proporción extraalta de carne. Vitaminas y minerales importantes. Congelado
 - Renunciamos a: Gluten y soja, Conservantes sintéticos, lactosa, azúcar
 - Para nuestras comidas, empleamos mayoritariamente ingredientes procedentes de granjas regionales; criados y cultivados con mucho amor
+- Composición: 52,5 % de carne y vísceras (carne, corazón, hígado y mollejas de pollo) 46,5 % de insectos, 0,5 % de cáscaras de huevo, 0,5 % de minerales
+- Pienso acuoso para perros. Proporción extraalta de carne. Vitaminas y minerales importantes. Congelado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B087ML9XNW{{</world>}}

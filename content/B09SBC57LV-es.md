@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mujer
 - Adolfo Dominguez
 - Perfumes
+- Mujer
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09SBC57LV{{</world>}}

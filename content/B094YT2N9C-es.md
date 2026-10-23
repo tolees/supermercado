@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tecnología ultra absorbente, limpieza mucho más eficiente que un rollo estándar
-- 75 hojas por rollo, el doble de metros que un rollo estándar
 - Papel blanco certificado con FSC, procedente de fuentes ecológicamente responsables
 - Papel de 3 capas en lugar de las 2 habituales, lo que le otorga una resistencia (en húmedo y seco) y una absorción extrema
+- 75 hojas por rollo, el doble de metros que un rollo estándar
+- Tecnología ultra absorbente, limpieza mucho más eficiente que un rollo estándar
 - 24 rollos (12 paquetes de 2 rollos cada uno)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

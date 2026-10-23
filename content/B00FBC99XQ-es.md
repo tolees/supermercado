@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Estas barricas imparten al whisky un sutil pero distintivo y especiado final
 - Su sabor es suave y rico, con la dulzura de la miel y un toque a avellana; el final de Mizunara es ligeramente picante
-- Este whiskey escocés premium de malta es adecuada para servir con agua gasificada y hielo, la manera tradicional de beber whisky en Japón
-- Las barricas de roble Mizunara son raras y renombradas por su distintiva naturaleza porosa
 - Chivas Regal Mizunara es un whisky escocés premium de color ámbar cálido y un rico aroma afrutado con toques de pera y naranja
+- Las barricas de roble Mizunara son raras y renombradas por su distintiva naturaleza porosa
 - Es el primer whisky escocés del mundo acabado de manera selectiva en barricas de roble Mizunara japonés
+- Estas barricas imparten al whisky un sutil pero distintivo y especiado final
+- Este whiskey escocés premium de malta es adecuada para servir con agua gasificada y hielo, la manera tradicional de beber whisky en Japón
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00FBC99XQ{{</world>}}

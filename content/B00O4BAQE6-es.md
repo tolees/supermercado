@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene un contenido de vitaminas
 - Con Omega 3 y 6
+- Tiene un contenido de vitaminas
 - Es bajo en grasas
 - Sin colorantes, aromatizantes o conservante artificiales
 - Con sabor a bacon y queso

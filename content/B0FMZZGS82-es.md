@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Looks de tendencia
-- Prácticos multipacks
 - Siempre fáciles de conjuntar y combinar
+- Prácticos multipacks
+- Looks de tendencia
 - NEXT - la marca inglesa para el hogar y la familia
 - Básicos encantadores
 

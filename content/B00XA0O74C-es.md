@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Netlé Caja Roja Bombones 398g | bombones de chocolate con leche ideal para compartir o regalar'
-date: 2026-10-20 19:26:19
+date: 2026-10-22 15:16:40
 image: 'https://m.media-amazon.com/images/I/31wrZvKq7fL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XA0O74C/?tag=tolees-21'
 descuento: '5.02'
-average: '10.9953846153846'
+average: '11.1693333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

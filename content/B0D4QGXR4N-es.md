@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Prepáralo en casa como a ti te gusta
 - Cápsulas de café compatibles con máquinas NESPRESSO, cápsulas no compatibles para las máquinas Nespresso Vertuo
+- Prepáralo en casa como a ti te gusta
+- Disfruta de las vibrantes notas de STARBUCKS BLONDE Espresso Roast Decaf by NESPRESSO
 - Elaborado con granos de café 100% Arábica
 - El Tueste SUAVE STARBUCKS con una intensidad ligera de 6
-- Disfruta de las vibrantes notas de STARBUCKS BLONDE Espresso Roast Decaf by NESPRESSO
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D4QGXR4N{{</world>}}

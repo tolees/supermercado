@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fuente natural de cálcio
-- Comida para bebés
-- Contienen 0% azúcares añadidos
 - Adecuado desde los 6 meses
+- Fuente natural de cálcio
+- Contienen 0% azúcares añadidos
+- Comida para bebés
 - Yogures con plátano y melocotón
 
 [🛒 Aquí!!!]({{< param buyurl >}})

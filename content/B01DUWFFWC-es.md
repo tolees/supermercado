@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Halls Respiral Caramelos refrescantes sin gluten es la elección para quienes buscan un delicioso sabor a regaliz negro
-- Presentados en una bolsa de 150 gramos, muy prácticos para llevar y disfrutar en casa, en la oficina o mientras viajas
 - Disfruta de los beneficios de Halls Respiral, brindando un momento de frescor en tu garganta en cualquier momento
 - Con ingredientes de calidad, Halls garantiza un sabor intenso y delicioso; la combinación de regaliz negro y mentol proporciona una experiencia refrescante
+- Presentados en una bolsa de 150 gramos, muy prácticos para llevar y disfrutar en casa, en la oficina o mientras viajas
+- Halls Respiral Caramelos refrescantes sin gluten es la elección para quienes buscan un delicioso sabor a regaliz negro
 - Respiral, marca con gran historia desde 1962, sigue fabricando sus caramelos de inigualable sabor con aroma de mentol
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

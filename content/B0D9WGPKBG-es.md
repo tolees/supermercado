@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Despierta la vitalidad de tu cabello con la rutina de brillo Lamellar Shine
 - Tecnología Lamellar Shine, envuelve las fibras capilares para corregir, suavizar y alinear tu cabello para un acabado ultra brillante
 - Sérum para cabello apagado o sin vida
+- Despierta la vitalidad de tu cabello con la rutina de brillo Lamellar Shine
 - Sérum sin aclarado Lamellar Shine, para un acabado de salón con Brillo Ultra Gloss
 - Sérum sin aclarado de calidad profesional, deja que tu peinado de salón brille con el poder mejorado de nuestra gama Lamellar Shine
 

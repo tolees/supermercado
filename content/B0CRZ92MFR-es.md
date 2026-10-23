@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Prebase, potenciador de brillo e iluminador 3 en 1
 - Viene con un gran aplicador de tacto suave para una aplicación fácil e impecable
-- Fórmula vegana
-- Con biopéptidos, vitaminas C y E, revitaliza y nutre la piel
 - Acabado radiante e impecable
+- Fórmula vegana
+- Prebase, potenciador de brillo e iluminador 3 en 1
+- Con biopéptidos, vitaminas C y E, revitaliza y nutre la piel
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CRZ92MFR{{</world>}}

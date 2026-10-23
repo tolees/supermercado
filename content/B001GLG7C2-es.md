@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sus 10 años de envejecimiento en barricas de roble previamente usadas en Bourbon, hacen de Laphroaig un whisky de Malta único
-- Whisky escocés de malta de color oro espumoso
 - En nariz encontramos tierra mojada y humo de turba con notas a iodo y aire marino; es fresco, con toques herbáceos y notas de pimienta negra
 - En paladar percibimos notas de tierra mojada, cebada malteada, turba, sal y un ligero toque de vainilla y miel; tiene un final largo y picante
+- Whisky escocés de malta de color oro espumoso
+- Sus 10 años de envejecimiento en barricas de roble previamente usadas en Bourbon, hacen de Laphroaig un whisky de Malta único
 - Recomendamos disfrutar con una pizca de agua, de forma que abre el paladar sin adulterar su sabor
 
 [🛒 Visítala!!!]({{< param buyurl >}})

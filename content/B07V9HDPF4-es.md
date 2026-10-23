@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Una vez abierto conservar en frigorífico
-- Sin gluten
 - Ideal para untar y cocinar
-- Ingredientes: agua, aceite de soja 36%, vinagre de vino, almidón modificado, huevo 4,1%, azúcar, sal, yema de huevo 1%, conservante (sorbato de potasio), regulador de acidez (ácido láctico), espesantes (goma xantana, goma guar), Antioxidante (EDTA de calcio y disodio), color (extracto de paprika)
-- Alérgenos: Huevo
 - Ideal para ensaladilla rusa, pasteles y huevos rellenos
 - Salsa mayonesa cremosa con sabor tradicional
+- Ingredientes: agua, aceite de soja 36%, vinagre de vino, almidón modificado, huevo 4,1%, azúcar, sal, yema de huevo 1%, conservante (sorbato de potasio), regulador de acidez (ácido láctico), espesantes (goma xantana, goma guar), Antioxidante (EDTA de calcio y disodio), color (extracto de paprika)
+- Alérgenos: Huevo
 - Apto para vegetarianos
+- Sin gluten
+- Una vez abierto conservar en frigorífico
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07V9HDPF4{{</world>}}

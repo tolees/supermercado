@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bion3 Gummies Defense Complemento Alimenticio Multivitamínico para Ayudar al Sistema Inmunitario¹ con Probióticos Vitamina C Vitamina B3 y Zinc 60 gummies para 1-2 meses de uso'
-date: 2026-10-16 16:00:46
+date: 2026-10-22 08:08:50
 image: 'https://m.media-amazon.com/images/I/41GpBgEMpRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DRKMPW6F/?tag=tolees-21'
 descuento: '42.08'
-average: '12.2'
+average: '12.5333333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

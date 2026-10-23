@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 100% cobertura de canas
-- Gel de coloración permanente color 6N Rubio Oscuro
 - Formulado con ingredientes vegetales activos
-- Sin amoníaco o parafinas
-- Fácil de aplicar
 - El paquete puede variar
+- Sin amoníaco o parafinas
+- Gel de coloración permanente color 6N Rubio Oscuro
+- Fácil de aplicar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00TTWU38Y{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate Max White Sérum Blanqueador Nocturno Dental 2 5ml | Sérum blanqueador dientes nocturno Revierte 15 años de manchas 3 Tonos de blanco Seguro para el esmalte'
-date: 2026-10-21 09:56:50
+date: 2026-10-23 11:18:46
 image: 'https://m.media-amazon.com/images/I/41lTF+LylLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D9245CKP/?tag=tolees-21'
 descuento: '50.03'
-average: '9.1022222222222'
+average: '9.26363636363634'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

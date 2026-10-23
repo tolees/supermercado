@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Su fórmula con pH 5.5 ha sido desarrollada para el cuidado y protección de la piel más delicada: limpia suavemente sin irritar la piel y respeta la barrera hidrolipídica.
 - Una base limpiadora suave apta para toda la familia elaborada a base de colágeno que ayuda a aumentar la sensación de suavidad.
 - Mussvital gel de baño dermatológico es una fórmula específica para la higiene diaria de la piel delicada.
+- Su fórmula con pH 5.5 ha sido desarrollada para el cuidado y protección de la piel más delicada: limpia suavemente sin irritar la piel y respeta la barrera hidrolipídica.
 - Humedecer la piel y aplicar el producto. Aclarar con abundante agua.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

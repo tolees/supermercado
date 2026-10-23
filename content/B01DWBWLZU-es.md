@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ligero, equilibrado y ácido, con un contraste al final, ligeramente amargo
 - Contiene dioxido de azúfre y sulfitos
+- Ligero, equilibrado y ácido, con un contraste al final, ligeramente amargo
 - Aromas frutales de manzana verde, frutas de hueso maduras y cítricos
 - Refrescante acidez con buen equilibrio, las notas afrutadas vuelven en el retrogusto
 - El vino blanco de mesa de toda la vida

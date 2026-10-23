@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Las compresas permanecen en su sitio cómodamente y son discretas, como si no las llevaras puestas
-- Gracias al OdourLock de Ausonia Discreet estarás protegida contra los malos olores
 - Las Compresas Para Pérdidas De Orina de Ausonia Discreet ofrecen una fuerte protección que apenas notarás
+- Gracias al OdourLock de Ausonia Discreet estarás protegida contra los malos olores
+- Las compresas permanecen en su sitio cómodamente y son discretas, como si no las llevaras puestas
 - Ausonia Discreet cuenta con un núcleo ultrafino RapidDry para ofrecer protección contra las pérdidas y con gran discreción
 - El núcleo de las Compresas Ausonia Discreet, con dos capas protectoras, convierte el líquido en gel y lo bloquea
 

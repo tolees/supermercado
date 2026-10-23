@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wella Professionals ULTIMATE COLOR Mascarilla Miracle Leave-in 30ml | Tratamiento Capilar Sin Aclarado - Fórmula Hidratante Anti-Rotura - Brillo y Color Vibrante - Para Cabello Coloreado'
-date: 2026-10-20 06:14:28
+date: 2026-10-22 09:27:29
 image: 'https://m.media-amazon.com/images/I/313L5kGtoZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

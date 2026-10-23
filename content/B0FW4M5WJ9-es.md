@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- POLO CLÁSICO: diseño versátil apto para entornos informales y semiformales
 - PIQUÉ DE ALGODÓN: el piqué de algodón 100% ofrece textura y transpirabilidad
+- POLO CLÁSICO: diseño versátil apto para entornos informales y semiformales
 - CORTE ESTÁNDAR: corte ajustado en los hombros, el pecho y la cintura
 - DETALLES: solapa de dos botones, cuello y puños acanalados, aberturas laterales y costuras de hombro reforzadas
 

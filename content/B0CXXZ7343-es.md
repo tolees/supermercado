@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Hasta 25 horas de uso y control de aceite durante todo el día
 - Cobertura completa mate con un efecto de enfoque suave
-- Acabado mate difuminado que se asemeja a la piel
 - Protección SPF 20 y escudo anticontaminación
+- Acabado mate difuminado que se asemeja a la piel
 - Textura de polvo a crema aterciopelada que absorbe el exceso de aceite y cubre imperfecciones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sabor intenso y refrescante que cuida tu aliento y tu salud dental
-- Conservar en lugar fresco y seco
-- Chicles refrescantes sin azúcar con sabor a fresa
-- Alérgenos: Sin azúcar, con edulcorantes. Contiene sorbitol y una fuente de fenilalanina
 - Formato pack de 24 envases de chicles sueltos tipo gragea rellena de powder
+- Alérgenos: Sin azúcar, con edulcorantes. Contiene sorbitol y una fuente de fenilalanina
+- Chicles refrescantes sin azúcar con sabor a fresa
+- Conservar en lugar fresco y seco
+- Sabor intenso y refrescante que cuida tu aliento y tu salud dental
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00DN9OEXY{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Carpoint Rascador de Hielo Vileda'
-date: 2026-10-21 14:42:54
+date: 2026-10-22 19:03:11
 image: 'https://m.media-amazon.com/images/I/31fSRzdeDqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B006GD9UWE/?tag=tolees-21'
 descuento: '32.76'
-average: '5.41'
+average: '5.17333333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

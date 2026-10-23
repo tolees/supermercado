@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Caramelos de goma
 - Sabor a Fresa-nata
-- Deliciosas piezas redondeadas de color rosa y recubiertas de azúcar
 - Conservar en lugar fresco y seco
+- Deliciosas piezas redondeadas de color rosa y recubiertas de azúcar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XAQRBXK{{</world>}}

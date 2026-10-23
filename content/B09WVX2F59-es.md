@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Devuelve la hidratación al mismo tiempo que fortalece tu pelo
-- Mascarilla que nutre el cabello seco y dañado​
 - Mascarilla Hidratante para cabellos secos y dañados TRESemme Intensa Hidratación que hidrata y fortalece 440ml
+- Devuelve la hidratación al mismo tiempo que fortalece tu pelo
 - Genera un aspecto saludable​; acabado de peluquería​ en tu cabello luego de la aplicación
+- Mascarilla que nutre el cabello seco y dañado​
 - Mascarilla hidratante con vitamina E, proporciona vitalidad y suavidad​
 
 [🛒 Comprar!!!]({{< param buyurl >}})

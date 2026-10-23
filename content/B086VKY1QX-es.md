@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gallina Blanca Sopa De Puchero Con Fideos Finos Sobre G 72 Gramo | 4 raciones'
-date: 2026-10-16 17:01:56
+date: 2026-10-22 10:17:58
 image: 'https://m.media-amazon.com/images/I/51B9yiICWGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B086VKY1QX/?tag=tolees-21'
 descuento: '0.00'
-average: '0.83'
+average: '0.836666666666667'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

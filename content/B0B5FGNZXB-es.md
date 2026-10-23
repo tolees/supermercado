@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B iO 4N Cepillo de Dientes Eléctrico con Mango Recargable 1 Cabezal y Estuche de Viaje Diseñado por Braun - Negro'
-date: 2026-10-20 17:36:43
+date: 2026-10-23 13:00:58
 image: 'https://m.media-amazon.com/images/I/41gIiqD8F3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0B5FGNZXB/?tag=tolees-21'
 descuento: '49.33'
-average: '99.2721052631584'
+average: '97.5366666666671'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

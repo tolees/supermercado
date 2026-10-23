@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Orlando Tomate Frito Clásico Brik 350g'
-date: 2026-09-16 09:23:32
+date: 2026-10-22 13:39:51
 image: 'https://m.media-amazon.com/images/I/41aI5L1akLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B007TY7GWU-es Orlando Tomate Frito Clásico Brik 350g'
 sku: 'B007TY7GWU-es'
 tags: [ 'orlando','🇪🇸', ]
-actualPrice: 0.84 EUR
+actualPrice: 0.94 EUR
 currency: EUR
-price: 0.84
-comparePrice: 0.92 EUR
+price: 0.94
+comparePrice: 0.94 EUR
 prodname: 'Orlando Tomate Frito Clásico Brik 350g'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B007TY7GWU/?tag=tolees-21'
-descuento: '8.70'
-average: '0.748888888888888'
+descuento: '0.00'
+average: '0.762068965517241'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

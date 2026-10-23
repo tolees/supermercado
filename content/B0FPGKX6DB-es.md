@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Consigue un cabello más brillante al instante con el Glycolic Gloss Sérum Glass Hair sin aclarado, enriquecido con ácido glicólico.
 - Envuelve la fibra capilar con una capa de brillo y lo protege del calor hasta 230ºC *Tests instrumentales.
 - Nuestro Sérum Glass Hair aporta x10 más suavidad* durante 72h sin apelmazar.
-- Consigue un cabello más brillante al instante con el Glycolic Gloss Sérum Glass Hair sin aclarado, enriquecido con ácido glicólico.
 - Con un 2% [Complejo con Ácido Hialurónico].
 - Consigue un cabello más brillante al instante con nuestro Sérum sin aclarado que envuelve la fibra capilar con una capa de brillo.
 

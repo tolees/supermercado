@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fácil encontrar tu tono y que haga match con tu labial
-- Perfilador de labios en forma de lápiz
 - La siguiente información se aplica a cada unidad del paquete
-- Textura deslizante
-- No transfiere
 - Hasta 8 h de color
+- Fácil encontrar tu tono y que haga match con tu labial
+- Textura deslizante
+- Perfilador de labios en forma de lápiz
+- No transfiere
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C4KBJ73W{{</world>}}

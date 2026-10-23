@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CHUPA CHUPS Mini Caramelo con Palo Sabores Variados Bolsa 30 uds'
-date: 2026-10-21 00:02:10
+date: 2026-10-22 09:32:50
 image: 'https://m.media-amazon.com/images/I/41BWcfmNLLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CHZ8LTQT/?tag=tolees-21'
 descuento: '20.00'
-average: '3.258'
+average: '3.08142857142857'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

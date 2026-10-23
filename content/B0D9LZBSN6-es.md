@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Doble acción: detergente concentrado y poder quitamanchas
-- Detergente para lavadora para ciclos cortos de 30 minutos
 - Detergente en Cápsulas Skip Active Clean Doble Líquido 46 lavados
-- Diseñado especialmente para quitar las manchas mientras cuida de tu ropa
+- Doble acción: detergente concentrado y poder quitamanchas
 - 1 cápsula - 1 lavado; rinde para 46 lavados
+- Detergente para lavadora para ciclos cortos de 30 minutos
+- Diseñado especialmente para quitar las manchas mientras cuida de tu ropa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D9LZBSN6{{</world>}}

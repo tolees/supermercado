@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Babaria - Champu Niños Sin Parabenos 700ml | Champu Arbol de Te con Vinagre | Previene Problemas Relacionados con Insectos que Pican el Cuero Cabelludo | Para Todo Tipo de Cabello | Vegano'
-date: 2026-10-20 12:03:28
+date: 2026-10-22 19:05:23
 image: 'https://m.media-amazon.com/images/I/31rULNmWYlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LPQ2DBG/?tag=tolees-21'
 descuento: '30.36'
-average: '2.35'
+average: '2.37'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

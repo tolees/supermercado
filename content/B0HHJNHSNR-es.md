@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Revivia Base de Maquillaje Coreana Base Maquillaje Coreana SPF15 30ml | Revivia Maquillaje Tono Adaptable y Cobertura Media Duración de Más de 16 horas Antiedad Aspecto más Joven'
-date: 2026-10-18 21:12:49
+date: 2026-10-22 08:23:55
 image: 'https://m.media-amazon.com/images/I/41WDY6y4iuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

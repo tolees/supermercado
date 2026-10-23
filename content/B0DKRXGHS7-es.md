@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- [Luminosidad e hidratación] Pantenol, glicerina y alantoína calman e hidratan al instante (temporal).
-- [Control de sebo] Ayuda a equilibrar exceso de grasa sin obstruir poros.
-- [Cuidado de barrera] ANUA RICE CERA-PROTEIN ayuda a reforzar la barrera cutánea.
-- [Apto para todo tipo de piel] Ideal para uso diario AM & PM.
 - [Tónico ligero] Con 70% agua de arroz, niacinamida y ceramidas para hidratación intensa con acabado fresco no pegajoso.
+- [Apto para todo tipo de piel] Ideal para uso diario AM & PM.
+- [Cuidado de barrera] ANUA RICE CERA-PROTEIN ayuda a reforzar la barrera cutánea.
+- [Control de sebo] Ayuda a equilibrar exceso de grasa sin obstruir poros.
+- [Luminosidad e hidratación] Pantenol, glicerina y alantoína calman e hidratan al instante (temporal).
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DKRXGHS7{{</world>}}

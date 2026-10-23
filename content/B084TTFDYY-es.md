@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nākd. Peanut Delight | Barritas Raw de Fruta y Frutos Secos | 18x35g 630g | Vegano | Sin Gluten | 100% Ingredientes Naturales | Sin Azúcar Añadido'
-date: 2026-10-21 11:19:43
+date: 2026-10-22 17:05:19
 image: 'https://m.media-amazon.com/images/I/51P1Uh-4HWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B084TTFDYY/?tag=tolees-21'
 descuento: '0.00'
-average: '12.47875'
+average: '12.5894117647059'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

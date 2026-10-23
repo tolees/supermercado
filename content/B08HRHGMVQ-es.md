@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Cada paquete contiene 4 envases de 32 g, diseñados para su fácil transporte, permitiendo degustarlos en cualquier ocasión, ya sea en el trabajo, en casa o mientras viajáis
 - Disfruta de los beneficios de Halls, brindando un momento de frescor en tu garganta en cualquier momento
-- Halls Caramelos Refrescantes es la elección para quienes buscan un delicioso sabor a miel y limón
 - Halls llegó a España en los años 70 convirtiéndose a día de hoy en el número uno de caramelos refrescantes en España
+- Halls Caramelos Refrescantes es la elección para quienes buscan un delicioso sabor a miel y limón
 - Con ingredientes de calidad, Halls garantiza un sabor intenso y delicioso; la combinación de miel y limón sin azúcar proporciona una doble experiencia refrescante
 
 [🛒 Aquí!!!]({{< param buyurl >}})

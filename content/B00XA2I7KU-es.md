@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ideal para bizcochos, rebozados y salsas
 - Sabor neutro
 - Sin gluten
 - Rápida cocción
+- Ideal para bizcochos, rebozados y salsas
 - Harina fina de maíz
 
 [🛒 Visítala!!!]({{< param buyurl >}})

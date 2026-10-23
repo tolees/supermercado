@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
-- Color: multicolor
 - Referencia: S0452865
-- Medidas: 16,02 x 12,66 x 15,9 centímetros
+- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
 - Cepillo de Dientes Eléctrico de la marca Oral-B
+- Color: multicolor
+- Medidas: 16,02 x 12,66 x 15,9 centímetros
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CP63F89S{{</world>}}

@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Trident 60 Minutos Menta - Chicles sin Azúcar con Sabor a Menta - Paquete de 16 Envases 22 g'
-date: 2026-08-22 10:02:32
+title: 'TRIDENT 60 minutos Chicles Sabor Menta Sin Azúcar Pack 16 uds'
+date: 2026-10-22 10:01:56
 image: 'https://m.media-amazon.com/images/I/51-OBBb1fAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B01CP8A2LG-es Trident 60 Minutos Menta - Chicles sin Azúcar con Sabor a...'
+slug: 'B01CP8A2LG-es TRIDENT 60 minutos Chicles Sabor Menta Sin Azúcar Pack 16 uds'
 sku: 'B01CP8A2LG-es'
 tags: [ 'azúcar','🇪🇸', ]
-actualPrice: 10.8 EUR
+actualPrice: 10.59 EUR
 currency: EUR
-price: 10.8
-comparePrice: 20.0 EUR
-prodname: 'Trident 60 Minutos Menta - Chicles sin Azúcar con Sabor a Menta - Paquete de 16 Envases 22 g'
+price: 10.59
+comparePrice: 13.51 EUR
+prodname: 'TRIDENT 60 minutos Chicles Sabor Menta Sin Azúcar Pack 16 uds'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CP8A2LG/?tag=tolees-21'
-descuento: '46.00'
-average: '11.5936065573772'
+descuento: '21.61'
+average: '11.5617460317462'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Único chicle sin azúcar que consigue que aguante el frescor en tu boca durante 60 minutos, sabor menta
-- 60 minutos de frescor en tu boca, para un aliento a hierbabuena fresco y duradero
-- Conservar en lugar fresco y seco
-- Alérgenos: Sin azúcar, con edulcorantes. Contiene sorbitol y una fuente de fenilalanina
-- Formato pack de 16 envases individuales de chicles sueltos tipo gragea rellena de powder
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01CP8A2LG{{</world>}}

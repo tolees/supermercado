@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El esmalte de gel Fabuleux Gel de Bourjois tiene un acabado efecto gel brillante
 - Enriquecido con un aroma dulce de hibiscus
-- Apto para uñas frágiles. Acabado autonivelante y brillo 3D
 - Con un pincel panorámico para conseguir precisión y un acabado perfecto en una sola pasada
+- El esmalte de gel Fabuleux Gel de Bourjois tiene un acabado efecto gel brillante
+- Apto para uñas frágiles. Acabado autonivelante y brillo 3D
 - Larga duración hasta 10 días de resistencia y brillo lustroso
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Instrucciones simples: vacíe el delicioso o en la taza, agregue 8 onzas de agua caliente (para un sabor más rico que agregar leche), mezcla, soja, bajada. Te lo mereces
-- Hecho de material auténtico
 - Fabricado en EE. UU
+- Hecho de material auténtico
+- Instrucciones simples: vacíe el delicioso o en la taza, agregue 8 onzas de agua caliente (para un sabor más rico que agregar leche), mezcla, soja, bajada. Te lo mereces
 - Sabor nuevo y mejorado
 - Sin artificiales: suavizantes, conservantes, sabores o colores
 

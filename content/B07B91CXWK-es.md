@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MADE IN SPAIN: Nuestras pastillas a base de regaliz de toda la vida son producidas de forma tradicional desde 1906. Pastillas Juanola no contiene conservantes. Sin gluten.
-- FORMATO ICÓNICO: Pequeñas, negras y en forma de rombo. Emblemático envase Juanola. No encontrarás dos pastillas exactamente iguales. Ideal para llevar siempre contigo y para cualquier ocasión.
 - CON JUANOLA, VOZ CLARA Y FRESCA: Con su forma rómbica inconfundible, su peculiar color de regaliz negro y sabor único. Ayudan a aclarar la voz y refrescar la boca.
+- MADE IN SPAIN: Nuestras pastillas a base de regaliz de toda la vida son producidas de forma tradicional desde 1906. Pastillas Juanola no contiene conservantes. Sin gluten.
 - SABOR CLÁSICO, EL REGALIZ DE TODA LA VIDA: Gracias a su formulación, que ha permanecido inalterada hasta nuestros días tiene un sabor intenso y duradero que evoca el clásico frescor de siempre.
 - SON PEQUEÑAS PERO MUY REFRESCANTES: En situaciones en las que tienes picor de garganta y necesitas cierto frescor, Juanola está contigo. Estrena una sonrisa fresca!
+- FORMATO ICÓNICO: Pequeñas, negras y en forma de rombo. Emblemático envase Juanola. No encontrarás dos pastillas exactamente iguales. Ideal para llevar siempre contigo y para cualquier ocasión.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07B91CXWK{{</world>}}

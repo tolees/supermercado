@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Con vitamina C y Ácido fólico que contribuyen al funcionamiento normal del sistema inmunitario
-- Destinado a la nutrición de las personas mayores con dificultad para tragar y/o masticar.
 - Con vitamina D y Calcio que contribuyen al mantenimiento normal de los huesos
+- Destinado a la nutrición de las personas mayores con dificultad para tragar y/o masticar.
 - Rico en proteínas que contribuyen a conservar la masa muscular
 - Meritene Nutrición Reforzada Puré es un plato principal altamente nutritivo de fácil ingesta. El puré de atún con verduras está adaptado para las personas mayores con dificultades para tragar y/o masticar
 

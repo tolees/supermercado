@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Puede contener trazas de pescado, huevos, crustáceos, apio, moluscos, mostaza, sésamo
-- Sencillo y sabroso
-- Conservar en lugar fresco y seco, protegido de la luz
-- Plato de inspiración asiática
 - Listo en 3 minutos
+- Conservar en lugar fresco y seco, protegido de la luz
+- Sencillo y sabroso
+- Plato de inspiración asiática
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B071ZMQ7QN{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Es Un Desodorante
 - Es Sin Aluminio
+- Es Un Desodorante
 - Es De Gran Calidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})

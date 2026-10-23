@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ingredientes naturales
-- Comida española fácil de preparar
-- Pais de origen: España
 - Fuente natural de fibra
+- Ingredientes naturales
+- Pais de origen: España
 - ‎Almacenar en un sitio seco y oscuro
+- Comida española fácil de preparar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00XA3ZOV4{{</world>}}

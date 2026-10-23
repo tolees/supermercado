@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ultima Pequeño Adult Pollo Comida seca para perros Pack de 3 x 3kg Total 9kg'
-date: 2026-10-21 12:03:10
+date: 2026-10-22 17:29:29
 image: 'https://m.media-amazon.com/images/I/41FT+sMSTQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0947JPF2K/?tag=tolees-21'
 descuento: '46.61'
-average: '31.27375'
+average: '29.789'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - sólo unidades de embalaje completas
-- ristra de salchichas, deshidratado natural
-- en caja expositora
 - contenido mínimo en carne 94 %
+- en caja expositora
+- ristra de salchichas, deshidratado natural
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B003TOKSAQ{{</world>}}

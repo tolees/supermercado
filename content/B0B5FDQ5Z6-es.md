@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B iO 9 Cepillo de Dientes Eléctrico con 1 Cabezal Aqua Marine | Cepillo Dental con Estuche Cargador de Viaje Sensor de Presión 7 Modos de Cepillado con Blanqueamiento Dental Carga Rápida'
-date: 2026-10-20 15:02:11
+date: 2026-10-22 07:41:45
 image: 'https://m.media-amazon.com/images/I/51sFkgsP0xL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0B5FDQ5Z6/?tag=tolees-21'
 descuento: '39.69'
-average: '242.863333333333'
+average: '239.489230769231'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

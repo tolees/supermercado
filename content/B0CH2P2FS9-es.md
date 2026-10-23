@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La siguiente información se aplica a cada unidad del paquete
-- Calma la irritación local gracias al bisabolol
-- Reparador labial con textura fluida con ácido hialurónico
-- Ayuda a la regeneración de la piel y reestablece la función barrera
 - Hidratación y nutrición en profundidad para unos labios suaves y cuidados
+- La siguiente información se aplica a cada unidad del paquete
 - Protege y repara los labios, la nariz y la zona perioral
+- Reparador labial con textura fluida con ácido hialurónico
+- Calma la irritación local gracias al bisabolol
+- Ayuda a la regeneración de la piel y reestablece la función barrera
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CH2P2FS9{{</world>}}

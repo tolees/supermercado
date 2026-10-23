@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Gel de ducha para piel sensible
-- Con ingredientes esenciales
 - Contiene 0% sulfatos*, 0% jabón y 0% colorantes.
+- Con ingredientes esenciales
 - Con Tecnología Triple Acción Hidratante
 - Gel de ducha para piel sensible
 

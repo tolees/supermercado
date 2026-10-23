@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Especialmente suave para la piel, sin perfume ni alcohol
 - Adecuado para el uso diario
 - Fórmula con ingredientes de origen 100% natural
-- Limpia, refresca e hidrata
 - Elimina el maquillaje impermeable y el rimel, y limpia la piel
+- Limpia, refresca e hidrata
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09W8XML7Y{{</world>}}

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - CUIDA Y RESPETA a la MASCOTA: Las colonias de Menforsan respetan la piel y las propiedades olfativas del animal.
-- Rango de edad: todas las etapas de la vida
-- MODO DE EMPLEO: Aplicar la colonia pulverizando sobre las manos y realizando un masaje sobre el pelaje o aplicándola al cepillo y repartiéndolo por todo el cuerpo del animal. También se puede pulverizar a contrapelo a unos 15 cm. del animal.
-- FRAGANCIA: Rico e intenso aroma a melocotón
 - PACK DE 3 AGUA DE COLONIA MELOCOTÓN: Aguas de colonia para perros con fragancias frutales naturales creadas para proporcionar después del baño un olor fresco y un intenso efecto desodorante muy agradable.
+- MODO DE EMPLEO: Aplicar la colonia pulverizando sobre las manos y realizando un masaje sobre el pelaje o aplicándola al cepillo y repartiéndolo por todo el cuerpo del animal. También se puede pulverizar a contrapelo a unos 15 cm. del animal.
+- Rango de edad: todas las etapas de la vida
+- FRAGANCIA: Rico e intenso aroma a melocotón
 - SIN ALCOHOL Y pH NEUTRO: No contienen alcohol y tienen pH neutro, careciendo de efectos irritantes y evitando que el perro estornude después de su aplicación.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

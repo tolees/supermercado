@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Tecnología 3 en 1: base, color y top coat glossy
 - Esmalte de uñas de secado rápido
+- Alto impacto de color y acabado ultra brillante
 - Cada pasada proporciona una base de color y un acabado protector brillante
 - Con cepillo diseñado para una aplicación rápida y uniforme
-- Alto impacto de color y acabado ultra brillante
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00UYJHLEK{{</world>}}

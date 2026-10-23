@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mejor absorción (vs. con Ausonia Ultrafina)
 - Su núcleo central neutraliza el olor con un aroma muy agradable
+- Mejor absorción (vs. con Ausonia Ultrafina)
 - Las compresas Ausonia Ultrafina Plus son más suaves con la piel para una protección increíblemente cómoda
 - Compresas con alas que se adaptan a tu cuerpo y no se mueven
 - Las compresas Ausonia Ultrafina Plus ofrecen protección todo en uno

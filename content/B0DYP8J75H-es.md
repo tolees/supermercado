@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto Local: Elaborado en Cantabria, con ingredientes naturales y de alta calidad.
 - Sabor Único al Ajillo: Condimentado con sal marina y ajo, resaltando sabores tradicionales.
 - Producción Artesanal: Proceso a baja temperatura y sazonado manual.
+- Producto Local: Elaborado en Cantabria, con ingredientes naturales y de alta calidad.
 - Elaboración Saludable: Fritas en aceite alto oleico, beneficioso para el corazón.
 - Origen Valderredible: Patatas de calidad controlada, variedad cultivada en la región de Valderredible.
 

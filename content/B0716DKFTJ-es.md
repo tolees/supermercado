@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Textura cremosa y densa que combina especialmente bien con tortitas y postres similares
-- Sabor a delicioso chocolate Milka que puedes combinar con tus recetas de repostería favoritas
 - Conservar en lugar fresco y seco
 - Alérgenos: Contiene leche y soja; puede contener trigo
+- Sabor a delicioso chocolate Milka que puedes combinar con tus recetas de repostería favoritas
+- Textura cremosa y densa que combina especialmente bien con tortitas y postres similares
 - Sirope de chocolate Milka para acompañar cualquier postre, en un bote práctico y preciso
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

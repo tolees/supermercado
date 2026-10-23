@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Se debe conservar en un lugar fresco y seco
 - Ideal para toda la familia
+- Se debe conservar en un lugar fresco y seco
 - Ensalada de pasta, atún, quinoa, aceituna y vegetales
 - Un plato completo con el equilibrio nutricional perfecto
 - Perfecta para todas aquellas personas que siguen unos hábitos de vida saludables

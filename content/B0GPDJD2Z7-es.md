@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pack especial de Pascua: Incluye un adorable peluche conejito y una selección de chocolates Nestlé Extrafino.
 - Cacao certificado Rainforest Alliance: Compromiso con la calidad y la sostenibilidad
+- Pack especial de Pascua: Incluye un adorable peluche conejito y una selección de chocolates Nestlé Extrafino.
 - Contenido variado: Cremosositos, barritas y Filipinos para disfrutar diferentes texturas y sabores
 - Presentación atractiva: Listo para regalar y sorprender en Pascua
 - Peluche suave y achuchable: Conejito en colores blanco y gris, ideal como recuerdo de Pascua.

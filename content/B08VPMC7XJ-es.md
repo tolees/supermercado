@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La combinación óptima, lo mejor del mar y lo mejor de la tierra
-- Lomos seleccionados y elaborados con aceite de oliva virgen extra La Española
-- Se debe conservar en un lugar fresco y seco
 - Atún claro en aceite de oliva virgen extra
+- La combinación óptima, lo mejor del mar y lo mejor de la tierra
+- Se debe conservar en un lugar fresco y seco
 - Adecuado para toda la familia
+- Lomos seleccionados y elaborados con aceite de oliva virgen extra La Española
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08VPMC7XJ{{</world>}}

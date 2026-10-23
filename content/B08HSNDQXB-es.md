@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Un sabor sublime que conquista paladares exigentes, Queso de Ocaña elaborado con leche cruda de oveja y cabra curado en aceite de oliva.
 - La combinación perfecta entre textura y sabor, con un toque de maduración en aceite de oliva que potencia su aroma y sabor.
+- Disfrute de una amplia variedad de curas, desde suaves hasta añejas, para satisfacer todos los gustos y necesidades culinarias.
 - 100 ingredientes naturales y sin conservantes artificiales, cuidadosamente seleccionados para ofrecerte un queso sano y sabroso.
 - Un queso artesanal, elaborado con técnicas tradicionales por la familia Romero en Ocaña Toledo
-- Disfrute de una amplia variedad de curas, desde suaves hasta añejas, para satisfacer todos los gustos y necesidades culinarias.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08HSNDQXB{{</world>}}

@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Hasta 24 horas
+- Punta angular para colorear y esculpir cejas
+- Waterproof
+- Color intenso
 - Recomendado para cejas delgadas o poco pobladas
 - Cepillo en espiral para difuminar el color y definir tus cejas
-- Waterproof
-- Punta angular para colorear y esculpir cejas
-- Color intenso
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MSVOJED{{</world>}}

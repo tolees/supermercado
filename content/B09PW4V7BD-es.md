@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Especialmente diseñado para cabellos dañados y decolorados o con tratamiento químico
 - Altos estándares durante el proceso de producción
 - Descubre el acondicionador Fusion de Wella Professionals y consigue un cabello renovado, suave y más resistente
+- Especialmente diseñado para cabellos dañados y decolorados o con tratamiento químico
 - Explora nuestra gama de productos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

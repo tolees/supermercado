@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Isabel elabora cuidadosamente cada una de sus latas de sardinillas, garantizando la calidad en todas ellas.
-- Las sardinillas son una fuente natural de Omega3, recomendadas en una dieta equilibrada
 - Separamos las sardinas más pequeñas para ofrecerte una conserva que podrás disfrutar en cualquier ocasión. Todo el sabor del pescado azul, concentrado en un formato más pequeño.
+- Las sardinillas son una fuente natural de Omega3, recomendadas en una dieta equilibrada
 - Producto en línea con el compromiso de sostenibilidad de Isabel que cuenta con el sello de calidad responsable.
 - Ingredientes: SARDINILLAS, aceite de oliva y sal.
 

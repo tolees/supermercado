@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- DI HOLA A UN PELO INCREÍBLEMENTE HIDRATADO Y CON BRILLO. El cabello rubio, gris y con mechas quedará revitalizado, luminoso y súper brillante
-- CHAMPÚ: RUBIO E HIDRATADO: El champú morado de Aussie neutraliza las tonalidades amarillentas mientras hidrata el pelo rubio, gris y con mechas
-- ACONDICIONADOR: ¡Estás en buenas manos! Los productos Aussie dejarán tu pelo increíblemente hidratado
 - MASCARILLA CAPILAR: PELO CON BRILLO E INTENSAMENTE NUTRIDO: proporciona brillo y luminosidad al cabello seco y teñido en solo un minuto
+- CHAMPÚ: RUBIO E HIDRATADO: El champú morado de Aussie neutraliza las tonalidades amarillentas mientras hidrata el pelo rubio, gris y con mechas
+- DI HOLA A UN PELO INCREÍBLEMENTE HIDRATADO Y CON BRILLO. El cabello rubio, gris y con mechas quedará revitalizado, luminoso y súper brillante
 - FÓRMULA VEGANA ENRIQUECIDA CON SUPERALIMENTOS AUSTRALIANOS: Nuestra línea Aussie SOS es vegana, sin ingredientes o subproductos derivados de animales
+- ACONDICIONADOR: ¡Estás en buenas manos! Los productos Aussie dejarán tu pelo increíblemente hidratado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJ968DXW{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- ON) Los condones son una marca de R&S Consumer Goods GmbH, Munich
 - 7 condones diferentes para una gran variedad en tu vida amorosa
 - Relación precio / rendimiento superior
-- ON) Los condones son una marca de R&S Consumer Goods GmbH, Munich
 - Siempre productos de la última producción
 - 7 condones diferentes para una gran variedad en tu vida amorosa
 

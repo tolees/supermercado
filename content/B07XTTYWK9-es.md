@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Adecuado para el maquillaje de día y de noche
-- Proporciona un color mate y de larga duración
-- Hidrata y cuida los labios
 - Color intenso en una sola pasada
+- Proporciona un color mate y de larga duración
+- Adecuado para el maquillaje de día y de noche
+- Hidrata y cuida los labios
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07XTTYWK9{{</world>}}

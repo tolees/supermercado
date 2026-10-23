@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Puede contener trazas de leche, huevo
-- Conservar a temperatura ambiente, en un lugar fresco y seco
-- Sin conservantes
 - Bajo en grasa
+- Conservar a temperatura ambiente, en un lugar fresco y seco
 - Agitar antes de abrir
+- Sin conservantes
+- Puede contener trazas de leche, huevo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09GPMV2GF{{</world>}}

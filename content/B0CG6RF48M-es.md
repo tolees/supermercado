@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Avena de cocción
 - Cereales para el desayuno
 - Complementa la alimentación habitual
+- Avena de cocción
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CG6RF48M{{</world>}}

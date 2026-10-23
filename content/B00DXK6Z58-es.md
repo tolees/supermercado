@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Snack para perros
 - Rico en proteínas
+- Snack para perros
 - Sabroso y saludable
 
 [🛒 Aquí!!!]({{< param buyurl >}})

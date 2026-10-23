@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fragancia con aceites esenciales con aroma a flor de naranjo y hojas cítricas
-- 97% de ingredientes de origen botánico; 0% colorantes y abrillantadores artificiales
-- Contiene la etiqueta ecológica europea Ecolabel
 - La siguiente información se aplica a cada unidad del paquete
 - Tan efectivo como el detergente más vendido; elimina las manchas más difíciles incluso con agua fría
-- Pack 100% reciclable
 - Apto para pieles sensibles; no deja químicos abrasivos en la ropa que puedan causar una reacción adversa en pieles sensibles
+- Fragancia con aceites esenciales con aroma a flor de naranjo y hojas cítricas
+- Contiene la etiqueta ecológica europea Ecolabel
+- 97% de ingredientes de origen botánico; 0% colorantes y abrillantadores artificiales
+- Pack 100% reciclable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G5FTPJVY{{</world>}}

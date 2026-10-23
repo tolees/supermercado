@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- un producto practico
 - clinique even better concealer 05 cn 52
+- un producto practico
 - Producto de alta calidad
 - fácil de usar
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HARIBO CALAVERAS 150g'
-date: 2026-10-20 14:33:18
+date: 2026-10-22 20:45:15
 image: 'https://m.media-amazon.com/images/I/51tcIb4VwvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0HC7L5L15/?tag=tolees-21'
 descuento: '34.00'
-average: '1.245'
+average: '1.16'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

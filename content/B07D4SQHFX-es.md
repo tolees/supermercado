@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Pienso acuoso para gatos. Proporción extraalta de carne. Vitaminas y minerales importantes. Sin cereales
 - Composición: 99 % de carne y vísceras (carne, corazón, hígado y mollejas de pollo), 0,5 % de minerales, 0,5 % de cáscaras de huevo
-- MjAMjAM - porque es sabroso
 - Para nuestras comidas, empleamos mayoritariamente ingredientes procedentes de granjas regionales; criados y cultivados con mucho amor
+- MjAMjAM - porque es sabroso
 - Renunciamos a: Gluten y soja, Conservantes sintéticos, lactosa, azúcar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

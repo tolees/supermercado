@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Deliciosas piezas de gelatina y espuma con forma de corazones de color rojo
-- Caramelos de goma
 - Conservar en lugar fresco y seco
-- Sabor a fresa
+- Caramelos de goma
 - La siguiente información se aplica a cada unidad del paquete
+- Sabor a fresa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0GSYLGK77{{</world>}}

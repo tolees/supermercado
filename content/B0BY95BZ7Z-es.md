@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cerveza Ale 0% de alcohol en volumen
-- Cerveza nitrogenada de color negro rubí con una espuma cremosa blanca marfil y aroma a café torrefacto
 - Cerveza de tipo ale y estilo stout elaborada con ingredientes naturales;
+- Cerveza nitrogenada de color negro rubí con una espuma cremosa blanca marfil y aroma a café torrefacto
 - Consumirla entre 2° y 4°C para obtener sus máximas cualidades
 
 [🛒 Visítala!!!]({{< param buyurl >}})

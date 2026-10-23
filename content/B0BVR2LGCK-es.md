@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Este café de Colombia tiene un cuerpo redondo, sabor jugoso y un característico final con notas de frutos secos
-- Los cafés de tueste medio de Starbucks son suaves y balanceados
 - Disfruta del café Starbucks en casa; tu café favorito sin salir de casa
+- Los cafés de tueste medio de Starbucks son suaves y balanceados
+- Este café de Colombia tiene un cuerpo redondo, sabor jugoso y un característico final con notas de frutos secos
 - Starbucks café en grano, balanceado con notas a frutos secos; café balanceado y de cuerpo redondo con notas florales y a frutos secos
 - Comprometidos con el abastecimiento ético de café al 100% en colaboración con Conservation International
 

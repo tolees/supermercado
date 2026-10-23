@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Hecho de 100% algodón orgánico
+- Sudadera de corte regular
+- Tejido de punto diagonal de 350 g/m²
 - Costilla con textura en mangas, cuello y dobladillo
 - Impresión de pantalla a base de agua
-- Sudadera de corte regular
-- Hecho de 100% algodón orgánico
-- Tejido de punto diagonal de 350 g/m²
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DP14QKK5{{</world>}}

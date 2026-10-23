@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Haribo Happy Cola 1 x 1 Kg'
-date: 2026-05-14 15:31:52
+date: 2026-10-23 10:25:40
 image: 'https://m.media-amazon.com/images/I/51qIKPfZAeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0C13T6FHX-es Haribo Happy Cola 1 x 1 Kg'
 sku: 'B0C13T6FHX-es'
 tags: [ 'haribo','🇪🇸', ]
-actualPrice: 8.2 EUR
+actualPrice: 5.99 EUR
 currency: EUR
-price: 8.2
-comparePrice: 10.81 EUR
+price: 5.99
+comparePrice: 10.93 EUR
 prodname: 'Haribo Happy Cola 1 x 1 Kg'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0C13T6FHX/?tag=tolees-21'
-descuento: '24.14'
-average: '7.2625'
+descuento: '45.20'
+average: '6.83833333333334'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Deliciosas piezas en forma de mini cola
-- Caramelos de goma
-- Irresistible sabor a cola
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C13T6FHX{{</world>}}

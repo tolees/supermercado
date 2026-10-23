@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Se elimina en el inodoro: es biodegradable y se puede tirar en el inodoro o en el mojado/compost casero
+- Antiolor: la arena Tofu Clean inhibe la formación de amoníaco, responsable del mal olor
+- Segura y natural: está fabricada exclusivamente con elementos naturales, a base de soja, por lo que es ecológica y segura para el medio ambiente y para tus animales
 - Contenido del paquete: arena para gatos Tofu Clean, tamaño 20 kg – 45 litros, formato conveniente
 - AGGLOMERANTE: La acción aglomerante de las fibras vegetales retiene los líquidos creando una bola compacta, fácilmente extraíble
-- Segura y natural: está fabricada exclusivamente con elementos naturales, a base de soja, por lo que es ecológica y segura para el medio ambiente y para tus animales
-- Antiolor: la arena Tofu Clean inhibe la formación de amoníaco, responsable del mal olor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CXQ49GY1{{</world>}}

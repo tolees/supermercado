@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - La crema tiene una textura no grasa y no pegajosa
-- Protege contra los rayos UVA/UVB
-- Hidrata intensamente la piel
-- Se absorbe rápidamente
 - Sin alcohol etílico
+- Protege contra los rayos UVA/UVB
+- Se absorbe rápidamente
+- Hidrata intensamente la piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C3RHGKVV{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sabor chocolate con leche Milka, una deliciosa combinación para tus postres diarios o para una ocasión especial
+- Alérgenos: Contiene leche, trigo y soja; puede contener frutos de cáscara y huevo
+- Textura de bizcocho suave y esponjoso, con una cremosa cobertura de chocolate
 - Conservar en lugar fresco y seco; una vez preparado, conservar refrigerado
 - Preparado en polvo para tarta de chocolate Milka, fácil y rápida de preparar
-- Textura de bizcocho suave y esponjoso, con una cremosa cobertura de chocolate
-- Alérgenos: Contiene leche, trigo y soja; puede contener frutos de cáscara y huevo
+- Sabor chocolate con leche Milka, una deliciosa combinación para tus postres diarios o para una ocasión especial
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00MY40WH6{{</world>}}

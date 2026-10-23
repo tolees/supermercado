@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Adultos y adolescentes
 - Previene infecciones
 - Para uso diario de la zona íntima
-- Adultos y adolescentes
-- Testado dermatológicamente
 - Respeta el ph natural
+- Testado dermatológicamente
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0194NAG4I{{</world>}}

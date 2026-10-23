@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- APTO PARA LAVAVAJILLAS: diseño que facilita la limpieza y el mantenimiento
-- DISEÑO CLÁSICO: ideal para comidas diarias u ocasiones especiales
 - 6 COPAS DE VINO: juego de copas con tallo de 568ml para vino tinto
 - PRESENTACIÓN NÍTIDA DEL VINO: el cristal transparente refleja el brillo natural del vino, lo que mejora la apreciación visual y la experiencia de degustación
+- APTO PARA LAVAVAJILLAS: diseño que facilita la limpieza y el mantenimiento
+- DISEÑO CLÁSICO: ideal para comidas diarias u ocasiones especiales
 - CRISTAL RESISTENTE: cristal liso, resistente y transparente para mayor durabilidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

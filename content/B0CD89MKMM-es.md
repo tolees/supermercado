@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - NOTAS DE CORAZÓN: Flor de Tiare, Flor de Champaca Amarilla, Ciruela Morada, Lirio Casablanca, Rosa Búlgara, Pétalos de Azahar
-- Empaquetado en una botella de vidrio reciclable y una caja de cartón hecha de material certificado FSC. 92,7 % biodegradable
+- Notas de base: musgo de liquen, ámbar negro sensual, almizcle, madera cremosa de guayaco.
 - NOTAS DE CABEZA: Orquídea Coral Verde, Peonía Rosa, Orquídea Mackay
 - Rocíe sobre la piel desde 12 – 18 cm de distancia, o rocíe en el aire y pase por la fragancia, o dé palmaditas en los puntos de pulso
-- Notas de base: musgo de liquen, ámbar negro sensual, almizcle, madera cremosa de guayaco.
+- Empaquetado en una botella de vidrio reciclable y una caja de cartón hecha de material certificado FSC. 92,7 % biodegradable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CD89MKMM{{</world>}}

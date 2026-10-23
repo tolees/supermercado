@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Conservar en lugar fresco y seco
 - Sin colorantes artificiales
 - Caramelos masticables con sabor de frutas
-- Conservar en lugar fresco y seco
 - No contienen gluten
 - Elaborados con zumo fruta concentrado
 

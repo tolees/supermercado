@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XAVIERMOR – Granola de Avena Crujiente con Frutos Rojos 400g – Desayuno Saludable con Alto Contenido en Proteínas y Fibra – Snack Fitness Nutritivo Energía Sostenida y Saciedad Duradera'
-date: 2026-10-20 13:40:58
+date: 2026-10-22 20:09:41
 image: 'https://m.media-amazon.com/images/I/410pQrUBt7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

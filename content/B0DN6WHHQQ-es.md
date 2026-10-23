@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin aditivos artificiales ni conservantes.
-- Presentación de 284 gramos, ideal para disfrutar en cualquier momento.
 - Hecha al 100% con frutas y canela, endulzada solo con zumo de uvas y otras frutas.
+- Sin aditivos artificiales ni conservantes.
 - St Dalfour es auténtica tradición francesa desde 1984: Elabora sus mermeladas y productos gourmet en el suroeste de Francia, siguiendo recetas artesanales con frutas cuidadosamente seleccionadas, para ofrecer un sabor único y natural.
+- Presentación de 284 gramos, ideal para disfrutar en cualquier momento.
 - Cocinada lentamente para preservar el sabor natural de los ingredientes.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

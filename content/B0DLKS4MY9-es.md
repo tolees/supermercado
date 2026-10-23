@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tubo reciclable; más información en el sitio web de Oral-B
-- Elimina hasta el 100% de las manchas superficiales
 - Pasta dentífrica blanqueadora avanzada
 - Pasta dentífrica con sabor a hierbabuena fresca
+- Tubo reciclable; más información en el sitio web de Oral-B
 - Probada clínicamente y diseñada profesionalmente
+- Elimina hasta el 100% de las manchas superficiales
 - 24 horas de prevención contra manchas superficiales con dos cepillados al día
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- FÓRMULA SUAVE Y VEGANA: pH neutro, limpiadores vegetales delicados, adecuados para piel sensible y uso diario.
-- TREHALOSA: Alivia y protege la piel deshidratada, restaurando suavidad y confort.
 - HIDROBIÓTICOS: Refuerzan la barrera cutánea y apoyan un microbioma saludable de la piel.
+- TREHALOSA: Alivia y protege la piel deshidratada, restaurando suavidad y confort.
 - ÁCIDO HIALURÓNICO: Aporta hidratación intensa, alisando y suavizando la epidermis.
+- FÓRMULA SUAVE Y VEGANA: pH neutro, limpiadores vegetales delicados, adecuados para piel sensible y uso diario.
 - HIDRATANTE INTENSIVO: Hidrata profundamente y suaviza la piel seca, dejándola tersa y confortable.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto de calidad
-- Sabor: almendras, café, canela
 - Color: marrón oscuro
+- Producto de calidad
 - Adecuado como regalo
+- Sabor: almendras, café, canela
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07VGK6KCN{{</world>}}

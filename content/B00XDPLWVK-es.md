@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fanta Naranja Refresco Bajo en Calorías Pack 9 x 330 ml | Bebida de naranja bajo en calorías con zumo de fruta excelente para comidas fiestas y reuniones'
-date: 2026-10-21 08:43:35
+date: 2026-10-22 08:46:33
 image: 'https://m.media-amazon.com/images/I/41fDiEP2gaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XDPLWVK/?tag=tolees-21'
 descuento: '14.29'
-average: '6.75533333333334'
+average: '6.704375'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - VARIEDAD: Elaborado con 100% uva tempranillo seleccionada de las parcelas más antiguas de la bodega
-- AROMA: Complejo bouquet con notas de fruta negra y roja madura, perfectamente integrado con matices torrefactos de la barrica
 - SABOR: Textura aterciopelada con intensos sabores frutales y nobles notas de madera, proporcionando una experiencia equilibrada
 - VISUAL: Color rojo picota intenso con elegante ribete granate que denota su calidad superior
 - PRESENTACIÓN: Estuche regalo Protos Serie Privada , incluye descorchador
+- AROMA: Complejo bouquet con notas de fruta negra y roja madura, perfectamente integrado con matices torrefactos de la barrica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FT427GSF{{</world>}}

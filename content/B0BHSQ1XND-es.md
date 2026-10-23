@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - productos para mascotas
 - Comida completa y equilibrada
 - Sin colorantes añadidos
-- Ayuda a la tolerancia del alimento
 - Se debe conservar en un lugar fresco y seco
+- Ayuda a la tolerancia del alimento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BHSQ1XND{{</world>}}

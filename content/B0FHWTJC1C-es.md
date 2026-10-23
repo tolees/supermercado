@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apto para compartir
-- Con patatas de cultivos sostenibles
 - Para llevar de picnic
-- Sabpr a queso y cebolla
 - Snack de patatas
+- Con patatas de cultivos sostenibles
+- Apto para compartir
+- Sabpr a queso y cebolla
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FHWTJC1C{{</world>}}

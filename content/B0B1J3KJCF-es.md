@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Agradable sensación en la piel
-- Fragancia personal
 - Que tu aroma sea memorable
+- Fragancia personal
+- Agradable sensación en la piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B1J3KJCF{{</world>}}

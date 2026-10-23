@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'H&S DermaXPro Champú Anticaspa Anticaída con Cafeína 800ml'
-date: 2026-10-19 06:02:46
+title: 'H&S DermaXPro Champú Anticaspa Anticaída con Cafeína 800ml | Complejo de Ceramidas Hidrata el Cuero Cabelludo Seco Ayuda a Reforzar la Barrera Cutánea'
+date: 2026-10-22 10:01:39
 image: 'https://m.media-amazon.com/images/I/31nNpZ--oEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0G393XW1Q-es H&S DermaXPro Champú Anticaspa Anticaída con Cafeína 800ml'
+slug: 'B0G393XW1Q-es H&S DermaXPro Champú Anticaspa Anticaída con Cafeína 800ml...'
 sku: 'B0G393XW1Q-es'
 tags: [ 'champú','h&s','🇪🇸', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99
 comparePrice: 12.99 EUR
-prodname: 'H&S DermaXPro Champú Anticaspa Anticaída con Cafeína 800ml'
+prodname: 'H&S DermaXPro Champú Anticaspa Anticaída con Cafeína 800ml | Complejo de Ceramidas Hidrata el Cuero Cabelludo Seco Ayuda a Reforzar la Barrera Cutánea'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0G393XW1Q/?tag=tolees-21'
 descuento: '23.09'
-average: '9.89'
+average: '9.89909090909092'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

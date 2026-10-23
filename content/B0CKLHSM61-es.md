@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ☕ Café soluble con leche y azúcar
 - 🥛 Se disuelve en agua o leche
 - ⏱️ Fácil y rápido de preparar
 - ✨ Ideal para el desayuno o una pausa durante el día
+- ☕ Café soluble con leche y azúcar
 - 📦 Conservar en lugar fresco y seco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - NOTA: El paquete puede variar
 - SPF 50: la crema solar SPF 50 ofrece un alto nivel de protección solar que reduce el riesgo de alergias inducidas por el sol y de daños en la piel inducidos por los rayos UV
-- Protección hidratante: NIVEA la crema solar hidrata suavemente, dejando una sensación de piel suave y sedosa a la vez que protege contra los daños del sol
 - Crema solar 50 - NIVEA La crema solar de factor 50 ofrece una protección UVA/UVB inmediata y altamente eficaz contra la cobertura solar. Aprobado oftalmológicamente
 - Fórmula Q10: la potente crema antiarrugas contiene la enzima Q10 que previene la aparición de líneas finas, arrugas y manchas de pigmento inducidas por el sol
+- Protección hidratante: NIVEA la crema solar hidrata suavemente, dejando una sensación de piel suave y sedosa a la vez que protege contra los daños del sol
 - Protección solar: NIVEA crema hidratante: la crema solar facial ofrece una protección eficaz contra la exposición al sol con su filtro UVA/UVB altamente eficaz
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 6 Gigarrollos equivalen a más de 50 rollos estándar
-- Certificado Ecolabel
 - Optima Absorción
+- Certificado Ecolabel
+- 6 Gigarrollos equivalen a más de 50 rollos estándar
 - Papel de 2 capas elaborado con papel reciclado
 - Multipack de 6 Gigarrollos
 

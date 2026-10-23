@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Perfecta para realzar la mirada con colores intensos y crear un sinfín de looks glamurosos
 - La increíble textura, suave y sedosa, garantiza una pigmentación brillante, intensa y modulable, para ofrecer un maquillaje diferente en cada ocasión
-- Los dos fantásticos tonos de la polvera pueden utilizarse solos o combinados, para lucir look un completo e impactante
 - Sombra de ojos dúo con una pigmentación rica e intensa
+- Los dos fantásticos tonos de la polvera pueden utilizarse solos o combinados, para lucir look un completo e impactante
+- Perfecta para realzar la mirada con colores intensos y crear un sinfín de looks glamurosos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CMPDP38G{{</world>}}
