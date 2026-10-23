@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'Rexona Invisible Desodorante Aerosol Antitranspirante para hombre Ice Pack Ahorro 2 X 200ml El empaque puede variar'
+date: 2026-09-24 16:46:39
+image: 'https://m.media-amazon.com/images/I/41WjYuY3pOL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07RT5FPSH-es Rexona Invisible Desodorante Aerosol Antitranspirante para...'
+sku: 'B07RT5FPSH-es'
+tags: [ 'desodorante','rexona','🇪🇸', ]
+actualPrice: 4.5 EUR
+currency: EUR
+price: 4.5
+comparePrice: 4.5 EUR
+prodname: 'Rexona Invisible Desodorante Aerosol Antitranspirante para hombre Ice Pack Ahorro 2 X 200ml El empaque puede variar'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B07RT5FPSH/?tag=tolees-21'
+descuento: '0.00'
+average: '4.30499999999999'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B07RT5FPSH{{</world>}}
