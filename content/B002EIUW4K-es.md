@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wilkinson Sword Xtreme 3 Sensitive - Maquinillas de Afeitar Desechables con 3 Hojas Flexibles y Banda Lubricante de Aloe Vera y Vitamina E Pack Promocional 4 + 2 Unidades'
-date: 2026-10-28 07:29:18
+date: 2026-10-29 19:32:27
 image: 'https://m.media-amazon.com/images/I/41XtYty79iL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B002EIUW4K/?tag=tolees-21'
 descuento: '12.37'
-average: '6.22'
+average: '6.13'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

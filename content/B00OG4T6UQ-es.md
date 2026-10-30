@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Utilice los biocidas de forma segura. Lea siempre la etiqueta y la información sobre el biocida antes de usarlo
 - Limpia, elimina la cal y desinfecta sin lejía de una sola pasada todo tipo de superficies
 - Ideal para una limpieza en profundidad de bañeras, lavabos, sanitarios, griferías, juntas y azulejos
+- Utilice los biocidas de forma segura. Lea siempre la etiqueta y la información sobre el biocida antes de usarlo
 - Elimina los malos olores y deja un agradable aroma a Eucaliptus
 - Limpiador Desinfectante Baños eficaz contra bacterias, hongos, como los responsables de la formación del moho, y virus envueltos
 

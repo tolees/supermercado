@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cada paquete contiene 4 Sobres con 2 Tortitas en cada uno
 - Cada caja contiene 14 paquetes
+- Cada paquete contiene 4 Sobres con 2 Tortitas en cada uno
 - 78kcal por Tortita
 - Tortitas de arroz con Chocolate Blanco y trocitos de Frutos Rojos (14unidades)
 

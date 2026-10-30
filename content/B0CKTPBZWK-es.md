@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lindt Dulces Deseos Caja de bombones de chocolate surtidos chocolate con leche chocolate negro chocolate blanco bombones para regalar caja de bombones 337 g'
-date: 2026-10-14 19:13:26
+date: 2026-10-30 11:46:26
 image: 'https://m.media-amazon.com/images/I/41Bw4TstlAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0CKTPBZWK-es Lindt Dulces Deseos Caja de bombones de chocolate surtidos...'
 sku: 'B0CKTPBZWK-es'
 tags: [ 'bombones','chocolate','lindt','🇪🇸', ]
-actualPrice: 17.45 EUR
+actualPrice: 12.99 EUR
 currency: EUR
-price: 17.45
+price: 12.99
 comparePrice: 19.99 EUR
 prodname: 'Lindt Dulces Deseos Caja de bombones de chocolate surtidos chocolate con leche chocolate negro chocolate blanco bombones para regalar caja de bombones 337 g'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CKTPBZWK/?tag=tolees-21'
-descuento: '12.71'
-average: '14.1713333333333'
+descuento: '35.02'
+average: '14.0323529411765'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

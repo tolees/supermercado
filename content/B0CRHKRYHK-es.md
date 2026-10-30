@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'H&S Pro-Expert 7 Champú Anticaspa Anticaída con Cafeína 6x300ml | Combate 7 Problemas del Cuero Cabelludo Protección Completa contra la Caspa Ayuda a Mejorar la Retención'
-date: 2026-10-28 16:16:42
+date: 2026-10-30 00:41:39
 image: 'https://m.media-amazon.com/images/I/51-EH2sMkOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CRHKRYHK/?tag=tolees-21'
 descuento: '0.00'
-average: '21.3343137254899'
+average: '21.28358490566'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

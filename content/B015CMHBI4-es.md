@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- SPF 20
 - Complejo Hidratante 24HR
 - Con tecnología smart tone para obtener un acabado luminoso y natural
 - Reduce el aspecto de las imperfecciones y de los poros
+- SPF 20
 - Iguala el cutis mientras imita el tono y la textura de la piel
 
 [🛒 Comprar!!!]({{< param buyurl >}})

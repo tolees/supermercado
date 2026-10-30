@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Es el resultado de la combinación de malta, arroz y lúpulo, ingredientes 100% naturales que descubren una cerveza versátil, ligera, refrescante y con un aroma limpio y respetuoso con la cebada.
 - El origen de Estrella se remonta 140 años atrás, cuando el joven maestro cervecero August K. Damm emigró de Alsacia hacia la costa Mediterránea.
+- Es el resultado de la combinación de malta, arroz y lúpulo, ingredientes 100% naturales que descubren una cerveza versátil, ligera, refrescante y con un aroma limpio y respetuoso con la cebada.
 - Consumirla a unos 4-6 grados, para poder disfrutar de su sabor y su carácter refrescante.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

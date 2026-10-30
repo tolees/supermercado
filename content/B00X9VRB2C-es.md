@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sabor fresa suave
 - Pasta de dientes para niños
+- Sabor fresa suave
 - Con extracto natural
 - Contiene flúor para proteger contra la aparición de caries y placa y fortalecer el esmalte dental
 - Para dientes de leche

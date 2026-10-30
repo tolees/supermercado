@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dove - Recarga En Bolsa De Gel De Ducha 500 Mililitro'
-date: 2026-10-26 08:39:10
+date: 2026-10-30 17:28:48
 image: 'https://m.media-amazon.com/images/I/31j+ppSryVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B000ORU7OS/?tag=tolees-21'
 descuento: '29.82'
-average: '2.7968085106383'
+average: '2.7969387755102'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

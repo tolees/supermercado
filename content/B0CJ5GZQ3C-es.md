@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maybelline Lash Senstaional Sky High rímel Pink Air 795 0.24 onzas líquidas paquete de 1 color borgoña Haze'
-date: 2026-10-28 00:50:30
+date: 2026-10-30 06:50:29
 image: 'https://m.media-amazon.com/images/I/314DYTpZguL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CJ5GZQ3C/?tag=tolees-21'
 descuento: '40.78'
-average: '8.83666666666667'
+average: '8.71909090909091'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

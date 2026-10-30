@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto para el rostro
-- Cuida tu piel
 - De alta calidad
+- Cuida tu piel
+- Producto para el rostro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B005DBMKKY{{</world>}}

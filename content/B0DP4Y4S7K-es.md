@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con un agradable aroma
 - Eficaz contra bacterias, hongos y virus envueltos como el de la gripe
 - No desprende vapores, no mancha la ropa, no daña las superficies
-- Limpia y desinfecta de una pasada todas las superficies
-- La siguiente información se aplica a cada unidad del paquete
+- Con un agradable aroma
 - Sin lejía
+- La siguiente información se aplica a cada unidad del paquete
+- Limpia y desinfecta de una pasada todas las superficies
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DP4Y4S7K{{</world>}}

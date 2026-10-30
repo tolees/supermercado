@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mide aproximadamente 9 cm de alto fuera del embalaje, ideal para decorar estanterías, escritorios o el salpicadero del coche.
-- Empaquetado en una caja de cartón ecológica con el logotipo de Lord of the Rings, ideal para exponer.
 - Colecciona personajes de películas, videojuegos, bandas y series de televisión, transformados en divertidos patos disfrazados.
+- Empaquetado en una caja de cartón ecológica con el logotipo de Lord of the Rings, ideal para exponer.
+- Mide aproximadamente 9 cm de alto fuera del embalaje, ideal para decorar estanterías, escritorios o el salpicadero del coche.
 - Esta figura de pato de Frodo Baggins es perfecta para fans de Lord of the Rings y amantes de los coleccionables de cultura pop.
 - Añade un toque divertido al “jeep ducking” con estos originales patos coleccionables disfrazados.
 

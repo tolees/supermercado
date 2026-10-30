@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Mas fácil de coger, abrir y servir
 - Leche facil de digerir
 - Apta para niños y adultos intolerantes a la lactosa
-- Fuente de vitaminas
 - Sin lactosa
+- Fuente de vitaminas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01HTBCTF6{{</world>}}

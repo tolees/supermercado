@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Color de labios mate de larga duración
-- color líquido mate intenso de 12 horas
 - aplicador de flecha distintivo ideal para una aplicación precisa para una apariencia de lápiz labial fácil
+- color líquido mate intenso de 12 horas
 - fórmula que no seca para labios mate que no se ven ni se sienten secos
 - se adapta a todos los tonos de piel
 

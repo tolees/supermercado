@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - El primer detergente de Skip diseñado para tus ciclos más cortos.
-- Mayor frescor: fórmula con x2 duración del frescor
 - Más rápido que nunca*: Presentamos el detergente Skip Ciclos Cortos Eficacia Express.
+- Mayor frescor: fórmula con x2 duración del frescor
 - Extra-fragancia: Mimosín Sueño de Jazmín aporta a la ropa una óptima fragancia duradera con notas florales y frutales, con una sofisticada base de ámbar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

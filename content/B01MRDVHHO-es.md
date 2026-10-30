@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Extractos vegetales
 - País de origen: España
+- Extractos vegetales
 - Surtido de caramelos de goma
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

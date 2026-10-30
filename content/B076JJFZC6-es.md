@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - ACONDICIONADOR LUMINOSO INSTANTÁNEO: Aporta suavidad y brillo a todo tipo de cabello.
 - FIJA LA HIDRATACIÓN: Para un cabello más brillante y luminoso.
-- FRAGANCIA DELICADA: Un aroma envolvente para el cabello que te transporta a las dunas de arena blanca de Oriente.
 - FÓRMULA PARA UN CABELLO SUAVE: Con aceite de camelia y extracto de té blanco.
+- FRAGANCIA DELICADA: Un aroma envolvente para el cabello que te transporta a las dunas de arena blanca de Oriente.
 - CUIDADO CAPILAR: Transforma el cabello seco y apagado en un cabello brillante y radiante. El regalo perfecto para el cuidado del cabello.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

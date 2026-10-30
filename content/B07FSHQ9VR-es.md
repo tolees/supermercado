@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- No solo te las comes, sino que juegas con ellas
 - Bueno para casa o fuera
+- No solo te las comes, sino que juegas con ellas
 - Sabor en cada bocado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

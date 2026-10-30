@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Envejecimiento en barricas de roble con el método solera
 - Notas de nogal y frutos pasificados
-- Notas aromáticas e intenso
-- De color topacio, con reflejos caoba y oro viejo
+- Envejecimiento en barricas de roble con el método solera
 - Ideal como regalo
+- De color topacio, con reflejos caoba y oro viejo
+- Notas aromáticas e intenso
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00AATCZPE{{</world>}}

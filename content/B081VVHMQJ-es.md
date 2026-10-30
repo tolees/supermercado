@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Producto de calidad óptima
-- Dulce de chocolate
 - Con trocitos de galleta, una parte recubiertos con chocolate con leche KIT KAT
+- Dulce de chocolate
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B081VVHMQJ{{</world>}}

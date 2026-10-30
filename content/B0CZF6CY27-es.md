@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Controlla brillos y borra poros
-- Para pieles normales y grasas
-- Fija la base de maquillaje a tu piel para una mayor duración
-- La siguiente información se aplica a cada unidad del paquete
 - Matifica tu piel
-- Luce un acabado mate por más de 12 horas
 - Verifique el símbolo PAO (Período después de la apertura) que indica el tiempo de caducidad del producto, después de abrir el paquete
+- Luce un acabado mate por más de 12 horas
+- Para pieles normales y grasas
+- La siguiente información se aplica a cada unidad del paquete
+- Controlla brillos y borra poros
+- Fija la base de maquillaje a tu piel para una mayor duración
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CZF6CY27{{</world>}}

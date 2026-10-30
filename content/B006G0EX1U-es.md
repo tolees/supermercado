@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Schwiizer Schüümli Granos de café enteros suaves, 1 kg, intensidad 1/5, certificado UTZ
-- Tamaño recomendado: 40 ml de espresso para enfatizar el carácter y el aroma del café
 - Detalles: café tostado en grano entero 100 % arábica - paquete de 1 kg - intensidad 2 por 5 - ácido 2 por 5
+- Tamaño recomendado: 40 ml de espresso para enfatizar el carácter y el aroma del café
+- Schwiizer Schüümli Granos de café enteros suaves, 1 kg, intensidad 1/5, certificado UTZ
 - Compatibilidad: ideal para máquinas totalmente automáticas con mecanismo de molienda incorporado y cafetera de pistón
 - Respetuoso con el medio ambiente: nuestro grano de café está certificado UTZ. Nos comprometemos a producir café de forma responsable y respetuosa con el medio ambiente
 

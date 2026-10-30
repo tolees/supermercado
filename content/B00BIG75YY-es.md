@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- LUNCHBOX SNACK PERFECTO; contiene 18 paquetes con 2 rollos en cada paquete
 - SOLO FRUTA en un delicioso roll-up que contiene todo lo bueno de la fruta
 - INGREDIENTES 100% NATURALES; hecho con fruta entera real y absolutamente nada más
+- LUNCHBOX SNACK PERFECTO; contiene 18 paquetes con 2 rollos en cada paquete
 - Snack DELICIOSAMENTE divertido para niños y adultos
 - SIN AZÚCARES AÑADIDOS; fuente de fibra; sin conservantes
 

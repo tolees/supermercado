@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Ya sea en la habitación de los niños o en el jardín, los niños se divertirán enormemente.
-- Dimensiones: aprox. 120 x 120 x 150 cm.
 - Las cuatro barras de madera aseguran que la tienda esté segura y se pueda conectar fácilmente.
 - La puerta se puede mantener abierta gracias a los cordones.
+- Dimensiones: aprox. 120 x 120 x 150 cm.
 - Este tipi de knorrtoys trae a los pequeños una verdadera aventura a casa
 
 [🛒 Visítala!!!]({{< param buyurl >}})

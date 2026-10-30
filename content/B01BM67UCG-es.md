@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Adecuado para los recién nacidos
 - Limpie suavemente sin irritar o dañar la piel
 - Sin parabenos y con PH neutró
-- Adecuado para los recién nacidos
 - El producto viene en una botella de 200 ml
 
 [🛒 Visítala!!!]({{< param buyurl >}})

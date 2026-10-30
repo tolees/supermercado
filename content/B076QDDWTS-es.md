@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La marca del producto es American Crew
-- Ofrece un nivel de brillo suave
-- Tiene una cantidad de 100 ml
 - El producto representa una crema de fijación
+- Tiene una cantidad de 100 ml
+- Ofrece un nivel de brillo suave
+- La marca del producto es American Crew
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B076QDDWTS{{</world>}}

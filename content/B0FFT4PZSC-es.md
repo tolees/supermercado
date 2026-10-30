@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cereales de arroz, avena integral y maíz enriquecidos con vitaminas y minerales
 - La siguiente información se aplica a cada unidad del paquete
+- Cereales de arroz, avena integral y maíz enriquecidos con vitaminas y minerales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FFT4PZSC{{</world>}}

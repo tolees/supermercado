@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Polvos fijadores y matificantes para el rostro, que eliminan los brillos de la piel
+- Dermatológicamente testado, no comedogénico
 - La textura crea una capa transparente con un acabado mate
 - Durante la aplicación, se adhiere a la perfección a la piel y proporciona al rostro un delicado efecto "segunda piel" imperceptible al tacto
-- Dermatológicamente testado, no comedogénico
-- Polvos fijadores y matificantes para el rostro, que eliminan los brillos de la piel
 - Los polvos se aplican con facilidad, gracias a la suave esponja, integrada en la base
 
 [🛒 Comprar!!!]({{< param buyurl >}})

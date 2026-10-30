@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Axe Dark Temptation Desodorante - 150 ml - Pack de 6 El embalaje puede variar'
-date: 2026-10-23 20:13:10
+date: 2026-10-30 20:50:29
 image: 'https://m.media-amazon.com/images/I/410SXZ-9xbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08R9NZ65K/?tag=tolees-21'
 descuento: '11.83'
-average: '15.5742500000001'
+average: '15.5943902439025'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

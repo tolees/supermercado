@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nivea – Crema – Maceta 200 ml – juego de 2'
-date: 2026-10-22 17:34:45
+date: 2026-10-30 21:02:55
 image: 'https://m.media-amazon.com/images/I/41uVsWc33jL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B007KFTEEQ-es Nivea – Crema – Maceta 200 ml – juego de 2'
 sku: 'B007KFTEEQ-es'
 tags: [ 'nivea','🇪🇸', ]
-actualPrice: 6.31 EUR
+actualPrice: 11.13 EUR
 currency: EUR
-price: 6.31
-comparePrice: 9.02 EUR
+price: 11.13
+comparePrice: 11.13 EUR
 prodname: 'Nivea – Crema – Maceta 200 ml – juego de 2'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B007KFTEEQ/?tag=tolees-21'
-descuento: '30.04'
-average: '6.31'
+descuento: '0.00'
+average: '8.72'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

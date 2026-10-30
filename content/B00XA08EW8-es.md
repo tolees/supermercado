@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cereales de trigo integral
-- Ricos en fibra
-- Con una textura crujiente
 - Ideal con leche fría o caliente
+- Ricos en fibra
+- Cereales de trigo integral
+- Con una textura crujiente
 - Contienen vitaminas y minerales
 
 [🛒 Aquí!!!]({{< param buyurl >}})

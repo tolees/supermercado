@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Incorporación de piel de naranja y semillas de cilantro
-- Caja de 24 botellas de 33cl
 - Sabor afrutado y toques cítricos
 - Final refrescante y floral
 - Cuerpo suave y cremoso
+- Caja de 24 botellas de 33cl
 - Cerveza de estilo Blanca de Trigo. Alc. 5,2% vol.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

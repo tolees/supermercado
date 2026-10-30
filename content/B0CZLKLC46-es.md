@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Boca: Envolvente y sabroso, equilibrado, con finura y grata madurez. Final de boca con recuerdos de fruta madura.
+- Vino Tinto Ribera del Duero
 - Nariz: Alta intensidad aromática, con aromas de frutos maduros bien ensamblados con la madera que aporta aromas de especiales dulces y agradables tostados.
+- Boca: Envolvente y sabroso, equilibrado, con finura y grata madurez. Final de boca con recuerdos de fruta madura.
 - Maridaje: Carne roja, embutidos, aves de caza, caza menor, guisos de carne y estofados ligeros, quesos semicurados.
 - 100% elaborado con uva variedad Tempranillo
-- Vino Tinto Ribera del Duero
 - Crianza de al menos 12 meses en barrica y mínimo 12 meses en botella
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

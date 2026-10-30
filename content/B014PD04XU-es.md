@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Están pensados para todo tipo de personas que desean cuidar y mantener una dieta saludable.
 - Alimentos saludables.
+- Están pensados para todo tipo de personas que desean cuidar y mantener una dieta saludable.
 - Ayudan a mantener nuestro organismo en un estado óptimo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

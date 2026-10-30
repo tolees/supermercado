@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Este pack neceser incluye diferentes productos Axe para la higiene y cuidado personal del hombre. Axe Body Spray Aqua Bergamot 150ml. Axe Shower Aqua Bergamot 225ml.
 - 72 horas de protección.
-- ¡Prueba toda la gama de productos masculinos Axe Fine Fragance Collection!
 - Tiene una fragancia cristalina y clásica con un toque frutal.
+- ¡Prueba toda la gama de productos masculinos Axe Fine Fragance Collection!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FNRNQBK1{{</world>}}

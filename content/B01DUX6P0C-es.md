@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Granolas que se mantienen deliciosamente crujientes incluso con leche caliente
 - Cereales sin colorantes ni aromas artificiales
 - Despierta tus sentidos con la deliciosa combinación de crujientes granolas de avena, irresistibles pepitas de chocolate y avellanas tostadas
-- Con cereales integrales
 - Cereales sin colorantes ni aromas artificiales
+- Con cereales integrales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01DUX6P0C{{</world>}}

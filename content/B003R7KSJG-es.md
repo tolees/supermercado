@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Listo en sólo 3 minutos
-- schmeckt Locker de fácil y cremoso
 - Stracciatella
+- schmeckt Locker de fácil y cremoso
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B003R7KSJG{{</world>}}

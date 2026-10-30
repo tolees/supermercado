@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HARIBO Chispa Cola 1 x 1 Kg'
-date: 2026-10-23 14:55:23
+date: 2026-10-29 12:58:19
 image: 'https://m.media-amazon.com/images/I/61cMh+c76uL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0C1HH1KPM/?tag=tolees-21'
 descuento: '26.67'
-average: '6.69499999999999'
+average: '6.45599999999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

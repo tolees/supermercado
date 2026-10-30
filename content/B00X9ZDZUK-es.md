@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - FÓRMULA INVISIBLE – La fórmula 100% transparente de esta crema en spray con factor de protección 50 no deja manchas blancas en la piel y es resistente al agua.
 - CONTENIDO DEL ENVÍO – NIVEA SUN Protege & Refresca Spray Solar FP50, con protección UVA/UVB, 1 x 200 ml, spray.
 - CUIDADO REFRESCANTE – Este protector solar en spray con mentol proporciona una sensación de frescor y suavidad frente a las altas temperaturas.
-- SOSTENIBLE – Estos protectores solares son respetuosos con los océanos: sin filtros UV octinoxato, oxibenzona ni octocrileno, microplásticos, 80% biodegradable.
 - FÁCIL APLICACIÓN – El práctico formato en spray de este protector solar 50 con protección UVA/UVB permite una aplicación sencilla incluso boca abajo.
+- SOSTENIBLE – Estos protectores solares son respetuosos con los océanos: sin filtros UV octinoxato, oxibenzona ni octocrileno, microplásticos, 80% biodegradable.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00X9ZDZUK{{</world>}}

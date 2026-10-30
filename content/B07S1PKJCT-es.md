@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Variedad de uva: VERDEJO de Castilla y León
-- Color amarillo pajizo con reflejos verdosos. En nariz es perfumado con aromas de hinojo.
 - Maridaje: pescado, marisco fresco y ensaladas templadas.
+- Color amarillo pajizo con reflejos verdosos. En nariz es perfumado con aromas de hinojo.
+- Variedad de uva: VERDEJO de Castilla y León
 - Formato BAG IN BOX de capacidad: 5 litros (equivale a 6 botellas de 750ml)
 - VINO BLANCO DE MESA
 

@@ -31,8 +31,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 - Bálsamo hidratante indicado para zonas localizadas con sequedad extrema o con tendencia a la hiperqueratosis
 - Formulado con lactato sódico al 18%
 - Reduce los engrosamientos anómalos de la epidermis, devolviendo la elasticidad fisiológica de la piel
-- Clínicamente testado. No comedogénico, hipoalergénico, sin sulfatos ni parabenos ni derivados del trigo. Desarrollado y fabricado en Milano. Excelencia dermatológica italiana desde 1972
 - Tratamiento en crema suavizante y alisante, se puede utilizar para la hiperqueratosis folicular y plantar
+- Clínicamente testado. No comedogénico, hipoalergénico, sin sulfatos ni parabenos ni derivados del trigo. Desarrollado y fabricado en Milano. Excelencia dermatológica italiana desde 1972
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00VXD753I{{</world>}}

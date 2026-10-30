@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Maridaje: pescados, mariscos y risottos
-- 🍇 Variedad: Sauvignon Blanc
 - Vino blanco D.O. Rueda
 - Capacidad: 6 botellas de 750 ml
 - Nota de cata: En nariz es amplio y sugerente, con aromas cítricos. En boca es equilibrado y fresco, con notas afrutadas de piña.
+- 🍇 Variedad: Sauvignon Blanc
+- Maridaje: pescados, mariscos y risottos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07S551MLW{{</world>}}

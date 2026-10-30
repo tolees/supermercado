@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- pH ADAPTADO: Reduce la grasa de la piel del perro o cachorro y deja su piel suave y brillante.
-- CONCENTRADO: Champú concentrado, es decir, con una poca cantidad de producto se consigue mucha espuma.
-- CON INGREDIENTES 100% BIODEGRADABLES: Champú ecológico para perros y cachorros con ingredientes 100% biodegradables que no dañan el medio ambiente.
-- INGREDIENTES NATURALES: No contiene parabenos, siliconas, perfumes ni colorantes por lo que se recomienda para perros y cachorros con pieles sensibles.
 - ECOLÓGICO: Su fórmula contiene ingredientes seleccionados de alta calidad que reducen los residuos no biodegradables y que respetan el planeta.
+- CON INGREDIENTES 100% BIODEGRADABLES: Champú ecológico para perros y cachorros con ingredientes 100% biodegradables que no dañan el medio ambiente.
+- CONCENTRADO: Champú concentrado, es decir, con una poca cantidad de producto se consigue mucha espuma.
+- pH ADAPTADO: Reduce la grasa de la piel del perro o cachorro y deja su piel suave y brillante.
+- INGREDIENTES NATURALES: No contiene parabenos, siliconas, perfumes ni colorantes por lo que se recomienda para perros y cachorros con pieles sensibles.
 - PRODUCTO VEGANO: Este producto no contiene ingredientes de origen animal y durante ninguno de los procesos de fabricación y desarrollo del producto se emplearon productos animales, subproductos o derivados.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

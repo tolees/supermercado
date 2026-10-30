@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aplicar sobre cabello húmedo. Distribuir en forma de estrella en el cuero cabelludo, masajeando para generar espuma y liberar las notas aromáticas, mientras se distribuye al resto del cabello. Emulsionar y aclarar.
 - Champú hidratante iluminador para todo tipo de cabello rubio. Este champú con ácido hialurónico es una ligera fórmula ideal para pelo decolorado, con mechas y grises. Su suave fórmula repara e hidrata el cabello de la raíz a las puntas, con un acabado ligero e iluminando los tonos rubios. Detoxifica el cabello de la contaminación. Enriquecido con ácido hialurónico y flor de edelweiss
+- Aplicar sobre cabello húmedo. Distribuir en forma de estrella en el cuero cabelludo, masajeando para generar espuma y liberar las notas aromáticas, mientras se distribuye al resto del cabello. Emulsionar y aclarar.
 - Repara e hidrata la fibra capilar para evitar la rotura, dejando una sensación ligera e iluminando los tonos rubios
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

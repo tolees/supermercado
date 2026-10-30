@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El bálsamo de cuidado integrado garantiza unos labios suaves sin resecarlos y hace que tus labios brillen.
-- La fórmula del lápiz labial le da a tus labios un gran acabado sin desmoronarse, sangrar, decolorarse, manchar o secarse.
-- El lápiz labial líquido Super Stay 24H Smile Bright proporciona un color intenso con hasta 24 horas de fijación.
 - El tono azul del lápiz labial hace que los dientes se vean más brillantes y proporciona una sonrisa radiante.
+- El lápiz labial líquido Super Stay 24H Smile Bright proporciona un color intenso con hasta 24 horas de fijación.
+- La fórmula del lápiz labial le da a tus labios un gran acabado sin desmoronarse, sangrar, decolorarse, manchar o secarse.
+- El bálsamo de cuidado integrado garantiza unos labios suaves sin resecarlos y hace que tus labios brillen.
 - Se adapta a los labios gracias a la fórmula patentada Micro-Flex para un ajuste especialmente cómodo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Blanco
 - Papel higiénico
+- Blanco
 - Rollos Más que Dobles
-- Formato XXL
 - 24 Rollos equivalentes a 60 rollos estándar
+- Formato XXL
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0746R2KVM{{</world>}}

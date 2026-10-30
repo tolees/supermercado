@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fórmula con aceleradores de lavados que hace al detergente más eficaz contra las manchas, sobre todo con las de grasa
-- Eficacia y ahorro, acción quitamanchas y fragancia fresca
 - Detergente en Polvo Pack Ahorro Skip Active Clean Promo Descuentazo 114 lavados
 - Detergente en polvo óptimo para lavados para ciclos cortos de 30 minutos a baja temperatura
+- Eficacia y ahorro, acción quitamanchas y fragancia fresca
+- Fórmula con aceleradores de lavados que hace al detergente más eficaz contra las manchas, sobre todo con las de grasa
 - Frescura y sensación de lavado que perdura: sensación de recién lavado
 - Pack ahorro que rinde para 114 lavados en envase 100% reciclable
 

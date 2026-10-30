@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Crema multifuncional con color: protege, perfecciona e hidrata la piel
-- Dermatológicamente testado, no comedogénico
-- Una vez aplicada, su textura se vuelve fresca y suave como si se tratase de una segunda piel, con una cobertura modulable de ligera a media y con un acabado terso y natural
 - Contiene factor de protección SPF 30, para proteger la piel de los rayos UVB
 - Fórmula enriquecida con extracto de Crambé marítima, con propiedades energizantes y protectoras
+- Dermatológicamente testado, no comedogénico
+- Una vez aplicada, su textura se vuelve fresca y suave como si se tratase de una segunda piel, con una cobertura modulable de ligera a media y con un acabado terso y natural
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DSJSC9B3{{</world>}}

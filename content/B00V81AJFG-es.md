@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tipo: fresco y con encanto
-- Familia olfativa: floral oriental
-- Para: ella
 - Notas de corazón: flor de osmanthus, jazmín y gardenia
+- Para: ella
+- Familia olfativa: floral oriental
 - Notas de salida: cítricos frescos, mandarina italiana y manzana verde
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Eukanuba alimento para Perros con Pollo Fresco para Razas Medianas - Alimento seco Premium para Perros Adultos 15 kg'
-date: 2026-09-16 09:17:32
+date: 2026-10-29 21:22:27
 image: 'https://m.media-amazon.com/images/I/61egHBfME0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FDL9VPVB/?tag=tolees-21'
 descuento: '23.15'
-average: '40.1566666666667'
+average: '40.49'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

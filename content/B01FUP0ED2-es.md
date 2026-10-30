@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Crema reparadora Extra Hidratante
-- Nueva fórmula 10% urea
-- Piel seca o áspera
-- Fórmula no grasa de rápida absorción
 - Tarro de 40 ml
+- Piel seca o áspera
+- Nueva fórmula 10% urea
+- Fórmula no grasa de rápida absorción
+- Crema reparadora Extra Hidratante
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01FUP0ED2{{</world>}}

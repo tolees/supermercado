@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compromiso sostenible con una fórmula vegana y un envase fabricado con plástico 100% reciclado en fábricas neutras en carbono.
-- Formato spray con tecnología de micro-difusión para una aplicación fácil, uniforme y rápida en cualquier momento del día.
-- Acción hidratante que ayuda a prevenir la sequedad cutánea vinculada al contacto con el cloro o el agua salada.
-- Protección muy alta FPS50+ especialmente formulada para las pieles más claras, sensibles e intolerantes al sol.
-- Enriquecida con Ceramide Protect para proporcionar una protección y reparación inmediata de la barrera cutánea.
 - Fórmula muy resistente al agua diseñada para proteger eficazmente contra la exposición a la sal, la arena y el sudor.
 - Textura ultraligera de rápida penetración que no deja acabado graso ni sensación pegajosa en la piel.
+- Protección muy alta FPS50+ especialmente formulada para las pieles más claras, sensibles e intolerantes al sol.
+- Acción hidratante que ayuda a prevenir la sequedad cutánea vinculada al contacto con el cloro o el agua salada.
+- Formato spray con tecnología de micro-difusión para una aplicación fácil, uniforme y rápida en cualquier momento del día.
+- Compromiso sostenible con una fórmula vegana y un envase fabricado con plástico 100% reciclado en fábricas neutras en carbono.
+- Enriquecida con Ceramide Protect para proporcionar una protección y reparación inmediata de la barrera cutánea.
 - Fórmula hipoalergénica testada bajo estricto control dermatológico para garantizar la máxima tolerancia en pieles frágiles.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

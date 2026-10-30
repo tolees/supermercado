@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asevi Detergente Líquido para Lavadora Rosa Mosqueta Pack 5 Uds. | Fórmula concentrada con aroma floral para aportar suavidad a todas tus prendas tanto blancas como de color'
-date: 2026-10-27 20:24:03
+date: 2026-10-29 23:24:39
 image: 'https://m.media-amazon.com/images/I/41nFwlYKvwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

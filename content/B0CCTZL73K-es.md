@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- No apto para alérgicos a los frutos de cáscara, los cacahuetes, el sésamo, la soja y los sulfitos, ni para celíacos, debido al método de producción
-- Conservar en un lugar fresco y seco. Una vez abierto, volver a cerrar herméticamente y conservar refrigerado
 - Envasado en atmósfera protectora para mantener su frescura
-- Alto contenido de fibra
-- El embalaje puede variar
-- Puede contener fragmentos del hueso de la fruta
+- No apto para alérgicos a los frutos de cáscara, los cacahuetes, el sésamo, la soja y los sulfitos, ni para celíacos, debido al método de producción
 - Apto para dietas vegetarianas y veganas
+- Puede contener fragmentos del hueso de la fruta
+- Conservar en un lugar fresco y seco. Una vez abierto, volver a cerrar herméticamente y conservar refrigerado
+- El embalaje puede variar
+- Alto contenido de fibra
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CCTZL73K{{</world>}}

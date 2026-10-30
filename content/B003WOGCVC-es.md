@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Sin gluten
 - Producto gourmet
 - Sin ingredientes artificiales
 - Poco en la vida es tan glorioso como el fuerte sabor del queso cheddar maduro en concierto con el maravillosamente tañido en cebolla de la más susceptible de hierbas, el cebollino.
-- Sin gluten
 - Totalmente natural
 
 [🛒 Aquí!!!]({{< param buyurl >}})

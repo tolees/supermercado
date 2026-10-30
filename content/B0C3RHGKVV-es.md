@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hidrata intensamente la piel
-- La crema tiene una textura no grasa y no pegajosa
-- Sin alcohol etílico
 - Protege contra los rayos UVA/UVB
+- Sin alcohol etílico
+- La crema tiene una textura no grasa y no pegajosa
+- Hidrata intensamente la piel
 - Se absorbe rápidamente
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- EROGACIÓN SUGERIDA: Idóneo para el típico desayuno italiano
 - COMPOSICIÓN: Mezcla clásica compuesta por una armonía equilibrada y selecta de Arabica y Robusta, cuidadosamente seleccionadas y tostadas para potencia su aroma y sabor
+- EROGACIÓN SUGERIDA: Idóneo para el típico desayuno italiano
 - TUESTE: Tueste intenso, intensidad 8/9. El café se enfría naturalmente al aire, se deja reposar en silos especiales antes de ser envasado.
 - PELLINI N.42 TRADIZIONALE: Café molido para Moka, un Espresso vigoroso y de carácter en 3 paquetes de 250g cada uno
 - NOTAS AROMÁTICAS: Aroma y carácter del tradicional Espresso italiano con notas de regaliz y pan tostado fragante. Mezcla perfeccionada y pensada para un ritual diario en un Espresso de ensueño

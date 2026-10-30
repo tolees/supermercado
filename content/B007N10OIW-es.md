@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cada pieza mide aproximadamente 2 mm de grosor
-- Madera natural, se puede pintar o entintar
-- Tamaño de la caja: 10,5 x 10,5 cm que contiene 45 adornos de madera
-- Tamaño del adorno individual: 2,8 cm de diámetro
 - Adecuado para proyectos de manualidades y papel de regalo, se puede pintar o entintar
+- Tamaño de la caja: 10,5 x 10,5 cm que contiene 45 adornos de madera
+- Madera natural, se puede pintar o entintar
+- Tamaño del adorno individual: 2,8 cm de diámetro
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B007N10OIW{{</world>}}

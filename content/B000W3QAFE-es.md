@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Base de maquillaje líquida
-- A prueba de roces, a prueba del día a día
-- Sin aceite, sin fragancia
 - No obstruye los poros
+- A prueba de roces, a prueba del día a día
+- Base de maquillaje líquida
+- Sin aceite, sin fragancia
 - Sensación ligera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

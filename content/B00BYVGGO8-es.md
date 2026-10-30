@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puede disfrutarlo desde ahora, bien conservado aguantará 8-10 años.
-- Intensamente afrutado, con notas especiadas y balsámicas. Bien estructurado y redondeado por la crianza en buen roble.
-- Origen: DO Penedès
 - Graduación: 14% vol.
+- Origen: DO Penedès
+- Puede disfrutarlo desde ahora, bien conservado aguantará 8-10 años.
 - Perfecto con carnes y quesos.
+- Intensamente afrutado, con notas especiadas y balsámicas. Bien estructurado y redondeado por la crianza en buen roble.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00BYVGGO8{{</world>}}

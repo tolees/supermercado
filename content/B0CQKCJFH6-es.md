@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fácil de digerir: Gracias a sus ingredientes muy digestibles
-- Pelo brillante y piel cuidada: Ácidos grasos omega-3 y omega-6, biotina y zinc
 - Pienso para gatos adultos
 - Sabor adecuado: Selección de ingredientes de alta palatabilidad
+- Pelo brillante y piel cuidada: Ácidos grasos omega-3 y omega-6, biotina y zinc
 - Dientes y huesos fuertes: Contribuye a unos dientes y huesos fuertes gracias a minerales y la vitamina D
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

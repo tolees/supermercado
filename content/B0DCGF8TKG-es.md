@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Copos de maíz tostados
 - Tostados y crujientes
+- Copos de maíz tostados
 - Envasado en Alemania
 - Este envase contiene aproximadamente 16 porciones
 - Apto para dietas vegetarianas

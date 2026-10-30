@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Adecuado para preparar postres
-- Edulcorante de mesa a base de eritritol ecológico
-- Es un producto vegano
-- Fácil de usar
 - Se pueden endulzar bebidas frías o calientes
+- Adecuado para preparar postres
+- Fácil de usar
+- Es un producto vegano
+- Edulcorante de mesa a base de eritritol ecológico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BGHXLPV3{{</world>}}

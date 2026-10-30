@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para blancos y colores
-- Aporta luminosidad a tus prenda
 - Detergente en polvo con poder quitamanchas
-- Su fórmula penetra en profundidad y elimina las manchas resecas
+- Aporta luminosidad a tus prenda
 - Poder anti manchas incluso en frío
+- Su fórmula penetra en profundidad y elimina las manchas resecas
+- Para blancos y colores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CP81QPCT{{</world>}}

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Prebase correctora del color para reducir visiblemente las rojeces y unificar el tono de la piel
-- El tono verde neutraliza las imperfecciones y equilibra la complexión
 - Acabado natural gracias a su fórmula fluida y ligera que se funde con la piel
+- El tono verde neutraliza las imperfecciones y equilibra la complexión
 - Se puede usar sola o como base preparatoria bajo el maquillaje
 - Con un efecto de frescura hidratante
 

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Descubre la sistema Liso y Sedoso, con Proteína de Seda y Aceite de Argán
-- Acondicionador Liso & SEDOSO, 2X cabello más suave y manejable
-- Acondicionador de calidad que doma el encrespamiento y deja el cabello sedoso, suave y liso
-- Acondicionador para cabello seco o encrespado
 - Acondicionador TRESemmé diseñado con la PROSTYLE TECH que contiene aminoácidos y ceramidas para cabello seco o encrespado
+- Acondicionador para cabello seco o encrespado
+- Descubre la sistema Liso y Sedoso, con Proteína de Seda y Aceite de Argán
+- Acondicionador de calidad que doma el encrespamiento y deja el cabello sedoso, suave y liso
+- Acondicionador Liso & SEDOSO, 2X cabello más suave y manejable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CTKJ6DYQ{{</world>}}

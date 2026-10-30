@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Sin gluten y sin lactosa
 - Indicada en adultos y niños mayores de 14 años
-- Con vitaminas B1, B3, B6 y B12
 - Aporta energía extra y favorece el rendimiento físico e intelectual
 - Con ingredientes de origen natural
-- Sin gluten y sin lactosa
+- Con vitaminas B1, B3, B6 y B12
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07KXBSD4H{{</world>}}

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Larga duración
-- Resistente al agua y no transfiere
-- Rimmel London Multitasker, el corrector que corrige, esculpe e inlumina
 - Fórmula de alta cobertua, modulable
+- Rimmel London Multitasker, el corrector que corrige, esculpe e inlumina
+- Resistente al agua y no transfiere
 - Suave aplicador
 
 [🛒 Visítala!!!]({{< param buyurl >}})

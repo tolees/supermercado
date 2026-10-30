@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 💊 PARA 1 MES: Tomar las 2 cápsulas juntas antes del desayuno o la comida, según se adapte mejor a la rutina de cada persona. Contiene 120 cápsulas, por lo que Cúrcuma Complex tiene una duración de 2 meses.
 - 💚 NUTRALIE PARA TU DÍA A DÍA: Descubre todos los productos de Nutralie, tenemos más de 40 referencias para acompañarte en tu día a día.
 - 💪CURCUMINA Y PIPERINA: Fórmula con Cúrcuma, que contiene Curcumina. Además, la concentración de pimienta negra de la fórmula también contiene piperina.
+- 💊 PARA 1 MES: Tomar las 2 cápsulas juntas antes del desayuno o la comida, según se adapte mejor a la rutina de cada persona. Contiene 120 cápsulas, por lo que Cúrcuma Complex tiene una duración de 2 meses.
 - 🔝 CÚRCUMA ORGÁNICA CON JENGIBRE Y PIMIENTA NEGRA 1420MG: Cada dosis de 2 cápsulas contiene 1300mg de Cúrcuma, 100mg de Jengibre y 20mg de Pimienta Negra.
 - ⚡️3 ACTIVOS: Cúrcuma Complex, además de contener Cúrcuma, también incluye Jengibre y Pimienta Negra.
 

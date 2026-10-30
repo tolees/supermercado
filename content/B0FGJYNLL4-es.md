@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Patatas fritas
 - Bolsa de 160gr
-- Sabor Jamon
 - La siguiente información se aplica a cada unidad del paquete
+- Sabor Jamon
+- Patatas fritas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FGJYNLL4{{</world>}}

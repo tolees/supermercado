@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Liposan Soft Rosé 1 x 4 8 g bálsamo labial rosa cacao de labios para un brillo suave y luminoso bálsamo hidratante para unos labios sedosos e hidratados'
-date: 2026-09-15 14:21:10
+title: 'Liposan Soft Rosé bálsamo labial 4 8 g | Bálsamo labial rosa ceramidas potenciador de colágeno nutritivo ingredientes naturales vegano*'
+date: 2026-10-30 12:46:33
 image: 'https://m.media-amazon.com/images/I/41DaFqOYqiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0CP48FK9P-es Liposan Soft Rosé 1 x 4 8 g bálsamo labial rosa cacao de...'
+slug: 'B0CP48FK9P-es Liposan Soft Rosé bálsamo labial 4 8 g | Bálsamo labial...'
 sku: 'B0CP48FK9P-es'
 tags: [ 'liposan','🇪🇸', ]
-actualPrice: 1.4 EUR
+actualPrice: 2.74 EUR
 currency: EUR
-price: 1.4
-comparePrice: 2.75 EUR
-prodname: 'Liposan Soft Rosé 1 x 4 8 g bálsamo labial rosa cacao de labios para un brillo suave y luminoso bálsamo hidratante para unos labios sedosos e hidratados'
+price: 2.74
+comparePrice: 2.74 EUR
+prodname: 'Liposan Soft Rosé bálsamo labial 4 8 g | Bálsamo labial rosa ceramidas potenciador de colágeno nutritivo ingredientes naturales vegano*'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CP48FK9P/?tag=tolees-21'
-descuento: '49.09'
-average: '2.156'
+descuento: '0.00'
+average: '2.32285714285714'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ARIEL Detergente Lavadora Líquido Brisa Limpia 125 Lavados Paquete de 5'
-date: 2026-10-03 00:04:00
+date: 2026-10-30 18:06:21
 image: 'https://m.media-amazon.com/images/I/41AsZZs8QsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FC2C36FH/?tag=tolees-21'
 descuento: '43.44'
-average: '26.3471428571428'
+average: '26.3024999999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

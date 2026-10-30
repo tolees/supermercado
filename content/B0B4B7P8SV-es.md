@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Se crea para representar el espíritu de Madrid
 - Cerveza rubia de color dorado claro. Fresca, limpia y refrescante.
 - Caja de 24 botellas de 33cl
+- Se crea para representar el espíritu de Madrid
 - El Alma de Madrid está en sus barrios, sus gentes, sus colores, sus aromas y sabores
 - Madrí Excepcional. Cerveza Lager. Alc. 4,6 % vol.
 

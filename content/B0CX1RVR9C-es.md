@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Un ajuste delgado se complementa con cordones tonales con extremos de cordón de marca
-- El estilo viene en algodón elástico para una sensación deportiva limpia
 - Logotipo del equipo RBR impreso
+- El estilo viene en algodón elástico para una sensación deportiva limpia
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CX1RVR9C{{</world>}}

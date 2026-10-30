@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Formulado con ingredientes vegetales activos
-- Fácil de aplicar
-- 100% cobertura de canas
-- Gel de coloración permanente color 5M Castaño Claro Caoba
 - Sin amoníaco o parafinas
+- Fácil de aplicar
+- Gel de coloración permanente color 5M Castaño Claro Caoba
+- 100% cobertura de canas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00TTWTVOG{{</world>}}

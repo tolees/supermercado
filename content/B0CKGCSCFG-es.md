@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Sin colorantes ni conservantes
+- Fácil de digerir
+- Alimento completo y equilibrado para perros pequeños
 - Paté en tarrinas sabor salmón
 - Alimento completo y equilibrado para perros pequeños
 - Indicado para perros adultos (1-10 años) pequeños (1-8 años)
 - Indicado para perros adultos (1-10 años) pequeños (1-8 años)
-- Alimento completo y equilibrado para perros pequeños
-- Fácil de digerir
-- Sin colorantes ni conservantes
 - Paté en tarrinas sabor salmón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

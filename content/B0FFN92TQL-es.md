@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Es la receta preferida por los consumidores
 - Salsa con un toque picante para un auténtico plato de curry
+- Es la receta preferida por los consumidores
 - Disfruta del auténtico sabor asiático con MAGGI Tikka Masala
 - Rápidas, fáciles de preparar y con auténtico sabor asiático
 

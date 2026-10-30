@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Damm S. L.. Rosseló 015 08025 Barcelona
 - Es el resultado de la combinación de malta, arroz y lúpulo, ingredientes 100% naturales que descubren una cerveza versátil, ligera, refrescante y con un aroma limpio y respetuoso con la cebada. El origen de Estrella se remonta 140 años atrás, cuando el joven maestro cervecero August K. Damm emigró de Alsacia hacia la costa Mediterránea. Consumirla a unos 4-6 grados, para poder disfrutar de su sabor y su carácter refrescante.
+- Damm S. L.. Rosseló 015 08025 Barcelona
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01B1FHV2C{{</world>}}

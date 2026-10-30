@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Varias formas y sabores
+- Ideal para fiestas de cumpleaños y para compartir entre amigos
 - Multipack con una selección de productos Haribo
 - Surtido de golosinas
 - Mantener en un lugar fresco y seco
-- Ideal para fiestas de cumpleaños y para compartir entre amigos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07WNX47FZ{{</world>}}

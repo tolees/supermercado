@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Old Spice Deep Sea Gel De Ducha Y Champú Para Hombres 2x1000ml Gel Para Cara Cuerpo Y Pelo 3 En 1 Multiusos Frescura Duradera Fragancia Excepcional Limpieza Profunda'
-date: 2026-10-28 09:19:41
+date: 2026-10-29 17:07:52
 image: 'https://m.media-amazon.com/images/I/41cRhByYWTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08F7SQ34C/?tag=tolees-21'
 descuento: '29.87'
-average: '11.0214285714288'
+average: '11.0203448275864'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

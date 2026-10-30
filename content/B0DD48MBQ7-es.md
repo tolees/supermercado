@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Formato/Añada Comercializada actualmente por el productor
 - Whisky Blended Escocia
+- Formato/Añada Comercializada actualmente por el productor
 - Producto de Escocia, Reino Unido
 
 [🛒 Visítala!!!]({{< param buyurl >}})

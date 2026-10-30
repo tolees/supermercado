@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - El cuero cabelludo no se reseca gracias a su nivel bajo de pH
-- La siguiente información se aplica a cada unidad del paquete
-- Hidrata el cabello
 - Ofrece una fijación fuerte sin residuos
 - Previene la descamación
+- La siguiente información se aplica a cada unidad del paquete
+- Hidrata el cabello
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CFZY91ZC{{</world>}}

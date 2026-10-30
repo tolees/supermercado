@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BOSS Bottled Eau de Toilette para hombre 100 ml | Fragancia masculina con notas amaderadas y canela | larga duración'
-date: 2026-05-24 12:13:29
+date: 2026-10-30 22:10:48
 image: 'https://m.media-amazon.com/images/I/21psm456SiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B01F2LA0ZG-es BOSS Bottled Eau de Toilette para hombre 100 ml |...'
 sku: 'B01F2LA0ZG-es'
 tags: [ 'canela','de','eau','toilette','🇪🇸', ]
-actualPrice: 44.41 EUR
+actualPrice: 40.18 EUR
 currency: EUR
-price: 44.41
-comparePrice: 49.73 EUR
+price: 40.18
+comparePrice: 44.6 EUR
 prodname: 'BOSS Bottled Eau de Toilette para hombre 100 ml | Fragancia masculina con notas amaderadas y canela | larga duración'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01F2LA0ZG/?tag=tolees-21'
-descuento: '10.70'
-average: '45.9166666666667'
+descuento: '9.91'
+average: '43.622'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Geranio, Canela
-- Notas sensuales amaderadas
-- Manzana
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01F2LA0ZG{{</world>}}

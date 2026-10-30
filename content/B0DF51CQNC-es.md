@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VARTA Pilas AA Pack de 12 8+4 Longlife Power alcalinas 1 5 V | pila LR6 Made in Germany conservación hasta 10 años para consola de juegos cepillo de dientes PC-ratón o mando'
-date: 2026-10-28 11:29:50
+date: 2026-10-29 12:41:18
 image: 'https://m.media-amazon.com/images/I/51QyGpCyyWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

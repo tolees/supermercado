@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bolsa de 1 kg
-- Varias formas y sabores
-- La siguiente información se aplica a cada unidad del paquete
 - Delicioso mix de diferentes piezas
 - Surtido de caramelos de goma
+- La siguiente información se aplica a cada unidad del paquete
+- Bolsa de 1 kg
+- Varias formas y sabores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DP4Y6YHD{{</world>}}

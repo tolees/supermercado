@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 3 deliciosas barritas con 3 obleas crujientes, 2 capas de relleno cremoso y un delicioso topping Jungly
 - Barritas de Chocolate con Leche, con un topping de galleta Jungly
 - Un producto delicioso, un formato adecuado al consumo de merienda, tanto para casa como para compartir
-- 3 deliciosas barritas con 3 obleas crujientes, 2 capas de relleno cremoso y un delicioso topping Jungly
 - La caja contiene 22 packs de 3 unidades de Nestlé Jungly
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

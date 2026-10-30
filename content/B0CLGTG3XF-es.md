@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incorpora una esponja y espejo para una aplicación sencilla
-- Descubre la base compacta Facefinity Compact Foundation
 - Optima hidratación y cobertura en una sola aplicación
 - Disponible en distintos tonos
 - Fórmula antioxidante y vegana que funciona como un escudo para proteger la piel de la contaminación y de los rayos UVA UVB, gracias a su SPF 20
+- Descubre la base compacta Facefinity Compact Foundation
+- Incorpora una esponja y espejo para una aplicación sencilla
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CLGTG3XF{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ingredientes: ATÚN CLARO, aceite de girasol y sal
-- Transparencia en la procedencia de todos nuestros atunes; Descubre su origen desde el mar hasta tu mesa a través de nuestra página de trazabilidad; Mas información en nuestros packs
 - Atún certificado bajo el sello APR (Atún de pesca responsable) por AENOR: Utilizamos practicas pesqueras responsables que cuidan de los océanos y sus recursos y garantizamos las mejores condiciones para los pescadores de nuestra flota
 - Pack con papel reciclado 100%, para proteger nuestros bosques, contribuyendo a la sostenibilidad
+- Ingredientes: ATÚN CLARO, aceite de girasol y sal
+- Transparencia en la procedencia de todos nuestros atunes; Descubre su origen desde el mar hasta tu mesa a través de nuestra página de trazabilidad; Mas información en nuestros packs
 - Nuestro atún cuenta con garantia HALAL
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

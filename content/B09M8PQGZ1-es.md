@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Elegante tarro de vidrio, ideal para regalar
+- Textura cremosa con un ligero aroma
 - El color del producto puede volverse casi caramelizado bajo la influencia de la temperatura. Este es un proceso normal. Conservar a una temperatura que no exceda los 20 grados.
+- Miel 100% natural de calidad premium
 - Procesamiento final en Andorra, cumpliendo con estrictos estándares medioambientales y emisiones casi nulas
 - Recolectada en el corazón de la floración de la esparceta silvestre
-- Miel 100% natural de calidad premium
-- Textura cremosa con un ligero aroma
-- Elegante tarro de vidrio, ideal para regalar
 - Sabor suave y delicadamente dulce
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

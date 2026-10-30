@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Delicioso mix de diferentes piezas
-- La siguiente información se aplica a cada unidad del paquete
 - Irresistible mix de sabores
+- La siguiente información se aplica a cada unidad del paquete
+- Delicioso mix de diferentes piezas
 - Surtido de golosinas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

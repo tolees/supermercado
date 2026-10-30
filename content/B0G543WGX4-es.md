@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Se puede utilizar solo o sobre el lápiz labial para un acabado brillante que realza cualquier look.
-- El extracto de jengibre y las vitaminas proporcionan hidratación intensa y suavidad a los labios.
-- La siguiente información se aplica a cada unidad del paquete
 - Contiene una rica mezcla de aceite de aguacate, cáñamo y macadamia para una hidratación profunda.
 - Logra unos labios visiblemente más llenos en solo 5 minutos con nuestra avanzada tecnología VOLUME MAXIMIZE.
+- La siguiente información se aplica a cada unidad del paquete
+- Se puede utilizar solo o sobre el lápiz labial para un acabado brillante que realza cualquier look.
+- El extracto de jengibre y las vitaminas proporcionan hidratación intensa y suavidad a los labios.
 - Enriquecido con veneno de abeja para mejorar la microcirculación y la plenitud natural.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

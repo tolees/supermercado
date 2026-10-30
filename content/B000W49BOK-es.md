@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ganador de la prueba en una prueba de producto base y dinero
 - Gracias a sus importantes vitaminas y minerales muy digeribles y de fácil digestión.
 - El clásico suizo del chocolate fino Genuss
+- Ganador de la prueba en una prueba de producto base y dinero
 - Bebida en polvo de cacao Haltiges con auténtico chocolate suizo y 7 vitaminas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- De larga duración, curvar, volumen extremo, alargar, color intenso
-- Nos oponemos a los experimentos con animales; cosnova aparece internacionalmente con essence y CATRICE tanto en PETA Alemania como en PETA
+- Volumen extremo
 - Tono azul eléctrico
 - Fácil aplicación para un acabado impresionante
-- Volumen extremo
+- Nos oponemos a los experimentos con animales; cosnova aparece internacionalmente con essence y CATRICE tanto en PETA Alemania como en PETA
+- De larga duración, curvar, volumen extremo, alargar, color intenso
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D5KL35F9{{</world>}}

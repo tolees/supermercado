@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Ideal para cualquier ocasión y evento, para compartir y regalar
 - Bolsa de caramelos con palo de sabores surtidos
 - La siguiente información se aplica a cada unidad del paquete
 - No contiene gluten
-- Ideal para cualquier ocasión y evento, para compartir y regalar
 - Práctico e higiénico
 - Con ingredientes de la mejor calidad
 

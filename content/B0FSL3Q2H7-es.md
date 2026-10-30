@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Versatilidad: Excelente para cócteles creativos o para disfrutar solo con hielo.
 - Sabor Único: Gran Malo combina tequila blanco con sabores auténticos mejicanos, creando una experiencia excepcional llena de nostalgia.
-- Presentación: Botella de 700 ml con diseño distintivo que refleja la esencia mejicana.
-- Experiencia sensorial: Combinación equilibrada de dulce, picante y cítrico que despierta los sentidos.
 - Espíritu Aventurero: Una bebida para aquellos que buscan nuevas experiencias y son curiosos por naturaleza.
 - Mezcla Distintiva: Fusión de tamarindo tropical con un toque picante y la fuerza del tequila blanco.
 - Origen: Elaborado con tequila blanco auténtico siguiendo las tradiciones mexicanas.
+- Presentación: Botella de 700 ml con diseño distintivo que refleja la esencia mejicana.
+- Versatilidad: Excelente para cócteles creativos o para disfrutar solo con hielo.
+- Experiencia sensorial: Combinación equilibrada de dulce, picante y cítrico que despierta los sentidos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FSL3Q2H7{{</world>}}

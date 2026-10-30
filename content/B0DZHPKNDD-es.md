@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Indicado para piel seca o mixta
-- La siguiente información se aplica a cada unidad del paquete
-- Hidrata y oculta las imperciones, poros y ojeras
 - Aplica la base de maquillaje con los dedos o una brocha des del centro hasta el exterior para mezclarla con el tono de tu piel
+- La siguiente información se aplica a cada unidad del paquete
+- Cobertura media para un acabado natural
+- Hidrata y oculta las imperciones, poros y ojeras
+- Indicado para piel seca o mixta
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
 - Piel perfecta, cobertura media
-- Cobertura media para un acabado natural
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DZHPKNDD{{</world>}}

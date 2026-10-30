@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conservar en lugar fresco y seco
-- Ideales para compartir
-- Regaliz rojo en forma de disco desenrrollable
-- Irresistible sabor a fresa
 - Un snack para niños y adultos también
+- Regaliz rojo en forma de disco desenrrollable
+- Ideales para compartir
+- Conservar en lugar fresco y seco
+- Irresistible sabor a fresa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XAP1IR6{{</world>}}

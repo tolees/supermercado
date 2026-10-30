@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Surtido de golosinas
-- Irresistible mix de sabores
 - Delicioso mix de diferentes piezas
+- Irresistible mix de sabores
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08M1F69SL{{</world>}}

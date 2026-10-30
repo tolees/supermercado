@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fragancia con notas frutales de mandarina y membrillo con aromas frescos.
 - Descubre las irresistibles fragancias de Axe.
+- Fragancia con notas frutales de mandarina y membrillo con aromas frescos.
 - Este pack neceser incluye diferentes productos Axe para la higiene y cuidado personal del hombre. Axe Body Spray Dark Temptation 150ml. After Shave Axe Dark Temptation 75ml.
 - ¡Prueba toda la gama de productos masculinos Axe!
 

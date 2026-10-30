@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- En prácticas bolsitas, ideal para merendar.
 - Las Chiquilín de siempre, ahora, ¡con chocolate!
+- En prácticas bolsitas, ideal para merendar.
 - Delicioso chocolate
 - ¡Llévatelas donde quieras!
 

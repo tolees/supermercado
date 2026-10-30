@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Apto para todo tipo de pieles
 - Óptima para retoques diarios, para llevar en el bolso
 - Colorete de cobertura media-baja y acabado mate
 - Se puede usar directamente sobre la piel o encima de una base
-- Apto para todo tipo de pieles
 - Su fórmula absorbe el exceso de aceites
 
 [🛒 Comprar!!!]({{< param buyurl >}})

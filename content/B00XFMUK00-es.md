@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- País de origen España
-- Agitar antes de servir
 - Contenido de fruta de mínimo 50%
-- Mantener en lugar fresco, oscuro y seco
 - Bebida de naranja a partir de concentrado
+- País de origen España
+- Mantener en lugar fresco, oscuro y seco
+- Agitar antes de servir
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XFMUK00{{</world>}}

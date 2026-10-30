@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Prueba el resto de nuestros sabores para continuar con la aventura del sabor
 - Perfecto para hamburgesas y perritos calientes
+- Prueba el resto de nuestros sabores para continuar con la aventura del sabor
 - Contiene alergenos: Mostaza, Huevo
 - Contiene gluten
 

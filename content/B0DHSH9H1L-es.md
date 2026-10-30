@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Regusto fresco y floral que crea un brillo redondeado
 - Pack de dos botellas de Ballantines Finest y 6 vasos Ballantines de regalo
 - Tiene un aroma ligeramente dulce con un toque a vainilla
 - Color dorado claro, notas dulces y sutiles de chocolate con leche, vainilla y manzana roja
-- Regusto fresco y floral que crea un brillo redondeado
 - Un sabor equilibrado de sabores dulces
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

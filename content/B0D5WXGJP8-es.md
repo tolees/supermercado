@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - SISTEMA DE CRECIMIENTO DEL CABELLO PARA MUJER Y HOMBRE: Tratamiento para el cuero cabelludo y para dar más volumen al cabello ligeramente debilitado formado por: champú, acondicionador pelo y tratamiento para el cuero cabelludo
 - PRODUCTOS PARA DAR VOLUMEN AL CABELLO NATURAL: Clínicamente probados para dar más cuerpo, volumen y resistencia a las fibras capilares para reducir la rotura
+- TRATAMIENTO PARA EL CUERO CABELLUDO: Elimina impurezas y exceso de sebo dejando el cuero cabelludo natural más saludable; además, lo nutre con cafeína, aceite de menta y niacinamida para mantenerlo hidratado
 - RUTINA NIOXIN: Para unos mejores resultados, usa el kit cada día y los productos de peinado de Nioxin que prefieras; añádelo a tu rutina de cuidado personal o regala un detalle de belleza perfecto a quien más quieras
 - CÓMO SE UTILIZA: Aplica el champú y luego, el acondicionador; por último, aplica el tratamiento para el cuero cabelludo sin aclarado, de raíces a puntas; disfruta de resultados visibles en solo 30 días*
-- TRATAMIENTO PARA EL CUERO CABELLUDO: Elimina impurezas y exceso de sebo dejando el cuero cabelludo natural más saludable; además, lo nutre con cafeína, aceite de menta y niacinamida para mantenerlo hidratado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D5WXGJP8{{</world>}}

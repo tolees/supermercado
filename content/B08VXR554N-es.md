@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Viñedos muy viejos situados en laderas con orientación Sur. Mayores de 50 años.
+- Color rojo cereza oscuro, con destellos granates. Intensa, fruta negra, regaliz, ligeros tostados, vainillas, especiados, tonos minerales y balsámicos
 - Vendimia manual. 18 meses en barricas Americanas y Francesas. 50% barricas nuevas de roble francés, 30% barricas Francesas de un año, 20% barricas Americanas de un año. 24 meses en botella.
 - Cosecha puede variar
 - Buena acidez, con gran equilibrio fruta madera y un final persistente y armónico.
-- Color rojo cereza oscuro, con destellos granates. Intensa, fruta negra, regaliz, ligeros tostados, vainillas, especiados, tonos minerales y balsámicos
+- Viñedos muy viejos situados en laderas con orientación Sur. Mayores de 50 años.
 - Marida con carnes rojas, platos con trufa, carnes y pescados ahumados, platos con salsas cremosas, quesos curados
 
 [🛒 Comprar!!!]({{< param buyurl >}})

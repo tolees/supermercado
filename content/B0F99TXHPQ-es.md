@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pack de 12 unidades (120 gramos cada una)
-- Mantener en lugar fresco y seco
-- Galletas crujientes cubiertas de chocolate . Una combinación de textura y chocolate que crean una explosión de sabor en cada bocado.
 - Con auténtico chocolate con leche
+- Pack de 12 unidades (120 gramos cada una)
+- Galletas crujientes cubiertas de chocolate . Una combinación de textura y chocolate que crean una explosión de sabor en cada bocado.
+- Mantener en lugar fresco y seco
 - En cómodas bandejas, ideal para compartir entre amigos o en familia.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

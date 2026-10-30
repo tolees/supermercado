@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'by Amazon Leche Entera 6x1L'
-date: 2026-05-07 09:28:44
+date: 2026-10-30 09:11:29
 image: 'https://m.media-amazon.com/images/I/41QUYBRguUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Este envase contiene 5 porciones
-- Producto de Francia
-- Leche entera UHT
-- Apto para dietas vegetarianas
-- Conservar en un lugar fresco y seco
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D81L5K5T{{</world>}}

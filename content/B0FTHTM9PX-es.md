@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - FRESCO Y FRUTAL: Suave aroma a lima y grosella negra. Especialmente desarrollado para la piel de los niños.
+- SUAVE PARA LOS OJOS: 0% SLES y 0% MICROPLÁSTICO.
+- ESPECIALMENTE PARA PIELES SENSIBLES: Todos los productos Naïf están elaborados con ingredientes naturales, están dermatológicamente probados y libres de SLES, microplásticos, parabenos y aceites minerales.
 - DERMATOLÓGICAMENTE PROBADO: Muy suave, especialmente desarrollado para la piel sensible de los niños.
 - AHORRO DE TIEMPO: Limpia y cuida el cabello y el cuerpo en un instante.
-- ESPECIALMENTE PARA PIELES SENSIBLES: Todos los productos Naïf están elaborados con ingredientes naturales, están dermatológicamente probados y libres de SLES, microplásticos, parabenos y aceites minerales.
-- SUAVE PARA LOS OJOS: 0% SLES y 0% MICROPLÁSTICO.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FTHTM9PX{{</world>}}

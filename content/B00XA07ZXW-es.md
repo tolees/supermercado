@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Scholl Crema de Pies para Talones Agrietados con Urea y Keratina Blanco 60 Mililitros 6'
-date: 2026-10-10 22:43:05
+date: 2026-10-30 19:30:39
 image: 'https://m.media-amazon.com/images/I/51mZ0+aMFNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XA07ZXW/?tag=tolees-21'
 descuento: '30.25'
-average: '5.83329268292684'
+average: '5.84535714285716'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

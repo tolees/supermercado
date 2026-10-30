@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- piel sensible
 - Suaviza y cuida tu ropa
+- piel sensible
 - fácil de usar
 - Base de Plantas y minerales ingredientes
 

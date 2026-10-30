@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Conservar en lugar fresco y seco
-- Una vez preparado, conservar refrigerado
-- Deliciosa tarta de queso muy fácil y rápida de preparar
 - Óptima para disfrutar en tus postres, meriendas y fiestas de cumpleaños
+- Deliciosa tarta de queso muy fácil y rápida de preparar
+- Una vez preparado, conservar refrigerado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00A6TJ09W{{</world>}}

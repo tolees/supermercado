@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fanta Limón Refresco Bajo en Calorías Pack 9 x 330 ml | Bebida de limón bajo en calorías con zumo de fruta excelente para comidas fiestas y reuniones'
-date: 2026-10-29 08:52:18
+date: 2026-10-30 13:54:40
 image: 'https://m.media-amazon.com/images/I/41DicOZFTqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XDPLTAE/?tag=tolees-21'
 descuento: '14.29'
-average: '6.0069696969697'
+average: '6.00314285714286'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

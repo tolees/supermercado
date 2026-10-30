@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Acondicionador capilar de coco y naranja
+- Vegano
 - Capacidad 100 ml
 - 97% de ingredientes de origen natural
-- Vegano
-- Acondicionador capilar de coco y naranja
 - recomendado a partir de los 17 años
 
 [🛒 Visítala!!!]({{< param buyurl >}})

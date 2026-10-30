@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Paleta de sombras de ojos con una combinación de tonos mate, satinados y metálicos de gran calidad
+- Nos oponemos a los experimentos con animales; cosnova aparece internacionalmente con essence y CATRICE tanto en PETA Alemania como en PETA
+- Compacta e ideal para viajar
 - Perfecta para uso diario y ocasiones especiales
 - Reluciente; escarchado; metalizado; mate
-- Compacta e ideal para viajar
-- Nos oponemos a los experimentos con animales; cosnova aparece internacionalmente con essence y CATRICE tanto en PETA Alemania como en PETA
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FGJVHM7X{{</world>}}

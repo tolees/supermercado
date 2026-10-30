@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tostado con notas de vainilla y tabaco
 - Envejecido con el método tradicional solera
-- En boca es rico y equilibrado
 - De color ámbar oscuro brillante
+- En boca es rico y equilibrado
+- Tostado con notas de vainilla y tabaco
 - Ideal para preparar cócteles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

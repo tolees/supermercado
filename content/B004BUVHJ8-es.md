@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'American Crew - Boost Powder Polvo Voluminizador para el Pelo Aporta Volumen Cuerpo y Textura Acabado Natural y Mate Sin Brillo Apto para Todo Tipo de Cabellos - 10 g'
-date: 2026-10-25 16:01:16
+date: 2026-10-30 14:11:50
 image: 'https://m.media-amazon.com/images/I/41IH1MxEqCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B004BUVHJ8/?tag=tolees-21'
 descuento: '22.69'
-average: '8.47259259259259'
+average: '8.36758620689655'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

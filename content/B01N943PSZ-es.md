@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sólo añadir leche y agitar
 - Fácil preparación
 - Bases perfectas
+- Sólo añadir leche y agitar
 - 215g
 
 [🛒 Aquí!!!]({{< param buyurl >}})

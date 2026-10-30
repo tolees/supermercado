@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'San Miguel Especial Cerveza Lager Premium Pack 24 Latas x 33cl'
-date: 2026-10-28 22:45:26
+date: 2026-10-29 23:23:48
 image: 'https://m.media-amazon.com/images/I/31ylx6d8oGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0090ISZY6/?tag=tolees-21'
 descuento: '39.19'
-average: '11.7357861635222'
+average: '11.7299375000002'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

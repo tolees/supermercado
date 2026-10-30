@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de producto: Mascara de pestañas
 - Marca: Clinique
+- Tipo de producto: Mascara de pestañas
 - Productos de belleza y el cuidado personal
 
 [🛒 Visítala!!!]({{< param buyurl >}})

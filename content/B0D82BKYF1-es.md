@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PROTEGE - Cuida tu piel seca o muy seca con esta loción hidratante corporal que nutre e hidrata la piel, aliviando al instante la sensación de tirantez o picor
-- HIDRATA - La fórmula de rápida absorción de esta crema Nivea hidrata profundamente la piel, ofreciendo un cuidado intensivo durante 72 h y calmando la piel seca
 - INGREDIENTES ACTIVOS - Enriquecida con un 10% de glicerina, niacinamida y provitamina B5, la crema corporal hidrata, regenera y recupera la barrera de la piel
 - CONTENIDO DEL ENVÍO - Nivea Repara & Cuida Body Milk, crema de cuerpo hidratante con glicerina, niacinamida y provitamina B5, leche corporal reparadora para pieles secas o muy secas, 1 x 400 ml
+- PROTEGE - Cuida tu piel seca o muy seca con esta loción hidratante corporal que nutre e hidrata la piel, aliviando al instante la sensación de tirantez o picor
+- HIDRATA - La fórmula de rápida absorción de esta crema Nivea hidrata profundamente la piel, ofreciendo un cuidado intensivo durante 72 h y calmando la piel seca
 - REPARA - Esta crema corporal hidratante para pieles secas, con fórmula mejorada y sin textura grasa, refuerza la barrera de la piel y previene la deshidratación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

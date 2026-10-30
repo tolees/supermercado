@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- La Glicerina es un producto que retiene la humedad de la piel manteniéndola tersa y suave.
 - Formato 300 ml
 - Especial pieles sensibles
-- El Aloe Vera disminuye las irritaciones provocadas por el afeitado, mejorando la hidratación de la piel.
 - Espuma de afeitar con aloe vera
-- La Glicerina es un producto que retiene la humedad de la piel manteniéndola tersa y suave.
+- El Aloe Vera disminuye las irritaciones provocadas por el afeitado, mejorando la hidratación de la piel.
 - Tipo de piel: Sensitivo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

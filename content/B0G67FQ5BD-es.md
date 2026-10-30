@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aplicar sobre cabello húmedo y aclarar. Continuar con mascarilla y sérum nocturno. Evitar contacto con los ojos.
 - Deja el cabello más fuerte, nutrido e hidratado.* *Test instrumental después de usar el champú + mascarilla + sérum nocturno Chronologiste.
 - Champú revitalizante para cabello debilitado por los signos del envejecimiento capilar.
+- Aplicar sobre cabello húmedo y aclarar. Continuar con mascarilla y sérum nocturno. Evitar contacto con los ojos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G67FQ5BD{{</world>}}

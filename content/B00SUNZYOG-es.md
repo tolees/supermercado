@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Reduce el riesgo de alergias inducidas por el sol
-- Adecuado para la piel sensible de los niños
 - Libre de perfume, colorantes y conservantes
+- Adecuado para la piel sensible de los niños
 - Proporciona protección UVA-UVB inmediata
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

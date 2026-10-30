@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ajuste cómodo
 - Versátil básico de roble
+- Ajuste cómodo
 - Estilo clásico de mezclilla
 
 [🛒 Visítala!!!]({{< param buyurl >}})

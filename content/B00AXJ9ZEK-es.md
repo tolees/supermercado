@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Este maquillaje corrector de cobertura total minimiza la apariencia de las ojeras.
 - High quality cosmetics recommended by professionals
+- Este maquillaje corrector de cobertura total minimiza la apariencia de las ojeras.
 - Crea un rostro impecable con nuestro líquido de larga duración.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

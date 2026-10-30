@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NAD Resveratrol Puro 1000 mg 60 Cápsulas Veganas NAD+ y Trans-Resveratrol | 500mg NAD 500 mg Trans-Resveratrol Energía Celular Sin Gluten Sin OGM Apoyo Mitocondrial Cognición Antiedad Pack de 2'
-date: 2026-10-26 16:29:26
+date: 2026-10-29 17:37:14
 image: 'https://m.media-amazon.com/images/I/51PXCh2oHnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GSRJ3SRB/?tag=tolees-21'
 descuento: '43.01'
-average: '30.7266666666667'
+average: '30.1675'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

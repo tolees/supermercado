@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Bajo en grasa
 - Conservar a temperatura ambiente, en un lugar fresco y seco
 - Puede contener trazas de leche, huevo
 - Sin conservantes
-- Bajo en grasa
 - Agitar antes de abrir
 
 [🛒 Visítala!!!]({{< param buyurl >}})

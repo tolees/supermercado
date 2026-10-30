@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Viene en pequeñas croquetas para adaptarse al tamaño de los perros pequeños
-- Mantiene la vitalidad del perro con el contenido de omega 3 y 6
-- Elaborado sin azúcares añadidos, conservantes ni colorantes
 - Mantiene la buena digestión y tiene efecto prebiótico
+- Elaborado sin azúcares añadidos, conservantes ni colorantes
+- Mantiene la vitalidad del perro con el contenido de omega 3 y 6
 - Contiene proteínas y vitaminas para sostener la actividad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

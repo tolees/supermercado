@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Complejo inmunitario de mananos y glucanos para estabilizar la flora intestinal y las defensas inmunitarias (fortalecimiento del sistema inmunológico)
+- Comida seca para perros adultos de razas pequeños
 - Suave para el estómago y bien digerible
+- Complejo inmunitario de mananos y glucanos para estabilizar la flora intestinal y las defensas inmunitarias (fortalecimiento del sistema inmunológico)
 - Sin gluten & sin azúcar
 - Extractos de mejillones para fortalecer cartílagos, articulaciones y huesos
-- Comida seca para perros adultos de razas pequeños
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01EQZB1ES{{</world>}}

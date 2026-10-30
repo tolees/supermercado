@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aporta volumen a tus labios. Larga duración de 16 horas.
-- Contenido: 1 x LOréal Paris Color Riche Volume Matte pintalabios 635 WORTH IT MEDIUM
 - Fórmula con aceite de Argán y Ácido Hialurónico que hidrata tus labios.
+- Aporta volumen a tus labios. Larga duración de 16 horas.
 - Modo de uso: Aplicar desde el centro de tus labios e ir extendiendo hacia los lados.
 - Descubre el icónico labial Color Riche en acabado mate empolvado
+- Contenido: 1 x LOréal Paris Color Riche Volume Matte pintalabios 635 WORTH IT MEDIUM
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DGQS62WV{{</world>}}

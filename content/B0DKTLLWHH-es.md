@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ingredientes: Té verde descafeinado.
 - Envasado en España
+- Ingredientes: Té verde descafeinado.
 - Mantener en un lugar fresco y seco
 - La siguiente información se aplica a cada unidad del paquete
 - Procedente de la agricultura ecológica

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Contiene avena tostada, miel de abeja, frutos secos y pasas, proporcionando fibra, proteínas y energía.
-- Ideal para yogures, batidos, postres y como topping en ensaladas, aportando textura y dulzura natural.
 - Granola Crujiente Clásica con Miel 1Kg
+- Ideal para yogures, batidos, postres y como topping en ensaladas, aportando textura y dulzura natural.
+- Contiene avena tostada, miel de abeja, frutos secos y pasas, proporcionando fibra, proteínas y energía.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F38DCZN1{{</world>}}

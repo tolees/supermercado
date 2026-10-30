@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Sopa de pollo y maravilla pack 3 sobre 85 g'
-date: 2026-10-10 20:30:30
-image: 'https://m.media-amazon.com/images/I/51t5OnBgXEL._SL500_._SL400_.jpg'
+date: 2026-10-30 08:43:26
+image: 'https://m.media-amazon.com/images/I/41PmS8jcfIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B086V1BSSH/?tag=tolees-21'
 descuento: '0.00'
-average: '2.39'
+average: '2.41'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

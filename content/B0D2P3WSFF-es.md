@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Reduce los poros e ilumina la piel
+- Para todas los tipos de pieles
 - Sencillo de aplicar
 - Potenciado con Vitamona C y ácido salicílico
-- Para todas los tipos de pieles
+- Reduce los poros e ilumina la piel
 - Crema hidratante para la cuidado del piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})

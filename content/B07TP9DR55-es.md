@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Corrector de imperfecciones líquido
-- Larga duración
-- Formula vegana
 - Cobertura completa y uniforme
 - Corrector de ojeras e imperfecciones acabado natural
+- Formula vegana
+- Larga duración
+- Corrector de imperfecciones líquido
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07TP9DR55{{</world>}}

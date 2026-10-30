@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - La cobertura es media y fácilmente modulable
-- Ligera y confortable, la textura se funde con la piel del rostro y se absorbe rápidamente para dejarla lisa y aterciopelada
 - Su fórmula está enriquecida con ácido hialurónico y un 30 % de agua de manzana reciclada
+- Ligera y confortable, la textura se funde con la piel del rostro y se absorbe rápidamente para dejarla lisa y aterciopelada
 - Dermatológicamente testado, no comedogénico
 - Las perlas reflectantes que contiene confieren a la piel una luminosidad intensa
 

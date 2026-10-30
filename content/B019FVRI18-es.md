@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Grado alcohólico: 12,1 % vol
-- VARIEDADES: Albariño
-- Color amarillo pálido, con aspecto limpio, brillante,
-- DO: Rías Baixas
 - Con aromas cítricos y frutas blancas y de hueso,
+- Color amarillo pálido, con aspecto limpio, brillante,
+- VARIEDADES: Albariño
+- DO: Rías Baixas
+- Grado alcohólico: 12,1 % vol
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B019FVRI18{{</world>}}

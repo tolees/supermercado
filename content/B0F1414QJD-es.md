@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ofrece una nube rica e indulgente de burbujas suaves
-- La fórmula del gel de baño Dove con 1/4 de crema hidratante ayuda a cuidar tu piel
-- La siguiente información se aplica a cada unidad del paquete
 - Disfruta de la sensación renovada de una piel suave y tersa
-- Llena tu bañera con una fragancia suave y relajante
 - Una gel de baño que te brinda una piel suave, tersa y limpia
+- La fórmula del gel de baño Dove con 1/4 de crema hidratante ayuda a cuidar tu piel
+- Ofrece una nube rica e indulgente de burbujas suaves
+- La siguiente información se aplica a cada unidad del paquete
+- Llena tu bañera con una fragancia suave y relajante
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F1414QJD{{</world>}}

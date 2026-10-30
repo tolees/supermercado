@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Los productos de la marca Revlon están fabricados con ingredientes de la mejor calidad.
-- Productos de Cuidado del cabello para Unisex adulto
 - Cuidado del cabello REVLON COLORSILK PERMANENT HAIR COLOUR MEDIUM RED BROWN 44 de Revlon
+- Productos de Cuidado del cabello para Unisex adulto
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B000OVCYK4{{</world>}}

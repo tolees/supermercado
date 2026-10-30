@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incluye llaveros y etiquetas
 - Cuadro clave para las llaves almacenar 80
+- Incluye llaveros y etiquetas
 - Calidad Profesional
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El sabor miel, vainilla, caramelo
-- Listo para servir
-- Aroma de flores
 - De color marrón dorado ​
+- El sabor miel, vainilla, caramelo
+- Aroma de flores
 - Ideal como regalo
+- Listo para servir
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00E0EV3DU{{</world>}}

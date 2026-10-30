@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Envase 100% reciclable
-- Aplicar sobre cabello mojado, masajear suavemente el cuero cabelludo y después aclarar
-- Formulado con: Miel, néctar milenario conocido por sus propiedades nutritivas; Propoleo, utilizado en las colmenas por sus virtudes selladoras; Jalea Real, reconocido por reforzar el cabello desde la raíz hasta las puntas
 - Champú reconstituyente que repara, refuerza y protege, dejando un pelo fuerte y brillante
+- Envase 100% reciclable
+- Formulado con: Miel, néctar milenario conocido por sus propiedades nutritivas; Propoleo, utilizado en las colmenas por sus virtudes selladoras; Jalea Real, reconocido por reforzar el cabello desde la raíz hasta las puntas
+- Aplicar sobre cabello mojado, masajear suavemente el cuero cabelludo y después aclarar
 - 600 ml
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Amazon Basics Bolsas de basura para perros con dispensador y clip para correa Sin fragancia 900 bolsas 60 paquetes de 15'
-date: 2026-10-28 09:03:36
-image: 'https://m.media-amazon.com/images/I/41yGIXyFWnL._SL500_._SL400_.jpg'
+date: 2026-10-29 20:48:48
+image: 'https://m.media-amazon.com/images/I/41pJC5R3TLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NABTGY2/?tag=tolees-21'
 descuento: '19.58'
-average: '15.9017708333332'
+average: '15.8454081632651'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

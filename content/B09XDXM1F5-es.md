@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rexona Desodorante Aerosol Protección Avanzada 72h Invisible Black & White Antitranspirante para hombre 200ml - Pack de 6'
-date: 2026-10-29 06:19:21
+date: 2026-10-30 08:16:07
 image: 'https://m.media-amazon.com/images/I/41iBG0tB7lL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09XDXM1F5/?tag=tolees-21'
 descuento: '3.17'
-average: '16.1382352941176'
+average: '16.2710526315789'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

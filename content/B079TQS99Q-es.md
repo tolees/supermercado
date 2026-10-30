@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto de la marca Dior
 - Tipo de producto: agua de perfume
+- Producto de la marca Dior
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B079TQS99Q{{</world>}}

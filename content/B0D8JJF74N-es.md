@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maybelline New York Super Stay Lumi-Matte Base de Maquillaje Tono 115 | Efecto Mate Luminoso Cobertura Modulable Sensación Ligera en la Piel Sin Brillos y Resistente al Sudor Stay Lumi-Matte'
-date: 2026-10-29 08:14:03
+date: 2026-10-30 20:55:49
 image: 'https://m.media-amazon.com/images/I/31GI62T5UfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D8JJF74N/?tag=tolees-21'
 descuento: '32.17'
-average: '8.695'
+average: '8.96'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

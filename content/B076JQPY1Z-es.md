@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Tipo de producto, gel fijador
 - Marca, wella
-- Género, mujer
 - Producto de alta calidad
+- Género, mujer
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B076JQPY1Z{{</world>}}

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - El lápiz de ojos Bourjois Contour Clubbing realza tu mirada con un color vibrante y duradero.
-- Un lápiz de ojos kohl con hasta 24 horas de duración intensa y resistente al agua que se mantiene en su sitio y es a prueba de sudor, calor y transferencias.
 - Se desliza fácilmente para una aplicación ultrasuave gracias a los aceites de macadamia y jojoba orgánica.
 - Su fórmula limpia, vegana y oftalmológicamente testada es segura para los ojos, se seca rápidamente y no se emborrona.
+- Un lápiz de ojos kohl con hasta 24 horas de duración intensa y resistente al agua que se mantiene en su sitio y es a prueba de sudor, calor y transferencias.
 - ¿Acabado mate, metalizado o satinado? Elige uno de los 15 vibrantes colores disponibles.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

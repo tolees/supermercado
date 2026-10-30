@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Una forma diferente de disfrutar el atún y su característico sabor
+- Se debe conservar en un lugar fresco y seco
 - Es la opción perfecta para elaborar comidas o cenas sencillas
 - Atún en aceite de oliva
 - Ideal para toda la familia
-- Se debe conservar en un lugar fresco y seco
-- Una forma diferente de disfrutar el atún y su característico sabor
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DZHLH13C{{</world>}}

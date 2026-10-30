@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Atún claro con suave salsa de aguacate y lima, fresca y cremosa
-- Ideal para ensaladas, bowls o comidas ligeras
-- Sabor equilibrado con toque cítrico refrescante
 - Alto contenido en proteínas para una alimentación equilibrada
+- Sabor equilibrado con toque cítrico refrescante
+- Ideal para ensaladas, bowls o comidas ligeras
+- Atún claro con suave salsa de aguacate y lima, fresca y cremosa
 - Solución rápida y saludable lista para consumir
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

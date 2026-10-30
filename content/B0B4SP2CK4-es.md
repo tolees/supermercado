@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Brillo restaurado
 - Volumen y suavidad etéreos
+- Brillo restaurado
 - Vibrante claridad del color
 
 [🛒 Comprar!!!]({{< param buyurl >}})

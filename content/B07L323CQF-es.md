@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Producido en la UE en instalaciones que cumplen con las Normas de Correcta Fabricación (NCF) Producido en la UE en instalaciones que cumplen con las Normas de Correcta Fabricación (NCF) 150mg de cafeína por ración 1,6g de beta-alanina CarnoSyn 37,5 mg de vitamina C Sabores increíbles sin azúcar y con cero calorías
 - NUTRITIONAL INFORMATION Serving Size: 6.6 g (1 level scoop) Servings Per Container: 60 Per 6.6g Vitamin C 38mg 47% RI Niacin 2,4mg 15% RI Vitamin B6 0.50mg 36%RI Folic Acid 100 μg 50%RI Vitamin B12 1.3μg 50 %RI CarnoSyn Beta-Alanine 1600mg Creatine Monohydrate 1500mg Creatine 1319mg Arginine Hydrochloride 1000mg N-Acetyl-L-Tyrosine 200mg Caffeine 150mg Reference Intake **Reference Intake not established
+- Producido en la UE en instalaciones que cumplen con las Normas de Correcta Fabricación (NCF) Producido en la UE en instalaciones que cumplen con las Normas de Correcta Fabricación (NCF) 150mg de cafeína por ración 1,6g de beta-alanina CarnoSyn 37,5 mg de vitamina C Sabores increíbles sin azúcar y con cero calorías
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07L323CQF{{</world>}}

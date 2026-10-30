@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Los mejores productos para tu cuidado personal
 - Calidad y precio nunca antes tan irresistible
+- Los mejores productos para tu cuidado personal
 - Art Couleurs Eyeshadow 160-Silicon Violet 2 Gr
 
 [🛒 Aquí!!!]({{< param buyurl >}})

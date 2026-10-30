@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Protección imparable contra el sudor y el mal olor​.
-- Desodorante roll-on con fórmula que brinda 72 horas de protección​.
-- Rexona Advanced Protection desodorante antitranspirante roll-on Quantum Dry para hombre 50ml​
-- Desodorante antitranspirante con tecnología Motionsense que se activa con el movimiento​.
-- Rexona desodorante hombre antitranspirante con Nonstop Protection​.
 - Elige tu protección en cada momento; Rexona no te abandona​.
+- Desodorante antitranspirante con tecnología Motionsense que se activa con el movimiento​.
+- Rexona Advanced Protection desodorante antitranspirante roll-on Quantum Dry para hombre 50ml​
+- Protección imparable contra el sudor y el mal olor​.
+- Rexona desodorante hombre antitranspirante con Nonstop Protection​.
+- Desodorante roll-on con fórmula que brinda 72 horas de protección​.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CH1LGRQ8{{</world>}}

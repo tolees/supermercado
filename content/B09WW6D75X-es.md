@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El embalaje puede variar de las imágenes mostradas. Este producto era anteriormente un producto de Amazon Basic Care. Ahora es parte de la marca Healthcare by Amazon. El producto tiene exactamente las mismas formulaciones, tamaño, calidad y el proveedor es el mismo.
-- Eficacia probada clínicamente
-- Este es un dispositivo médico
-- Para el tratamiento de infecciones fúngicas del pie (pie de atleta/tinea pedis)
 - Para prevenir el olor desagradable de los pies
-- Por lo general, se puede ver una mejoría después de pocos días. Continuar el tratamiento durante una semana después de que el pie de atleta haya desaparecido por completo
-- Se debe tener en cuenta que el uso irregular o la interrupción prematura del tratamiento aumentará la probabilidad de que los síntomas reaparezcan
 - Reduce el picor y la irritación
+- Eficacia probada clínicamente
+- Se debe tener en cuenta que el uso irregular o la interrupción prematura del tratamiento aumentará la probabilidad de que los síntomas reaparezcan
+- Para el tratamiento de infecciones fúngicas del pie (pie de atleta/tinea pedis)
+- Por lo general, se puede ver una mejoría después de pocos días. Continuar el tratamiento durante una semana después de que el pie de atleta haya desaparecido por completo
+- El embalaje puede variar de las imágenes mostradas. Este producto era anteriormente un producto de Amazon Basic Care. Ahora es parte de la marca Healthcare by Amazon. El producto tiene exactamente las mismas formulaciones, tamaño, calidad y el proveedor es el mismo.
+- Este es un dispositivo médico
 - Cumple una función de protección al crear una barrera física que aporta un entorno desfavorable para la proliferación de hongos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

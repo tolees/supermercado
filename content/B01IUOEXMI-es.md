@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Para cuidar tu salud dental
+- Conservar en lugar fresco y seco
 - Chicles refrescantes sin azúcar
 - Consumir demasiados puede generar efectos laxantes
-- Para cuidar tu salud dental
 - Sabor intenso y refrescante
-- Conservar en lugar fresco y seco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01IUOEXMI{{</world>}}

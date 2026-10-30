@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'dekora - Calendario de Adviento de Chocolate para Niños Elfo Travieso 50 g | 24 chocolatinas de chocolate con leche 50 g aptas para vegetarianos ideal para Navidad'
-date: 2026-10-26 12:26:32
+date: 2026-10-29 18:12:38
 image: 'https://m.media-amazon.com/images/I/51eHaIZzlbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

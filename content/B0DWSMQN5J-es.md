@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Esta pasta de dientes Colgate Total Original con flúor también reduce el sarro, protege los dientes sensibles y los blanquea para una sonrisa que deslumbra.
 - La tapa se mueve sobre el cabezal del cepillo doblado para mantener las cerdas limpias y secas donde vaya
+- Esta pasta de dientes Colgate Total Original con flúor también reduce el sarro, protege los dientes sensibles y los blanquea para una sonrisa que deslumbra.
 - Este kit Incluye un cepillo dental suave de viaje y una pasta de 20ml
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

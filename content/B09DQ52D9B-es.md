@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Combina el aceite de Marula y la Keratina en 1 sistema con 5 beneficios
-- Este sistema controla el encrespamiento hasta 72 horas para un cabello más suave, brillante y nutrido
 - Desenredo fácil, Nutrición, Suavidad, Brillo deslumbrante
 - Alisado de peluquería
+- Combina el aceite de Marula y la Keratina en 1 sistema con 5 beneficios
+- Este sistema controla el encrespamiento hasta 72 horas para un cabello más suave, brillante y nutrido
 - Apto después de hacerte un tratamiento de alisado de peluquería
 
 [🛒 Comprar!!!]({{< param buyurl >}})

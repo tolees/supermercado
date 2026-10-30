@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Las nuevas fórmulas de Syoss combinan ingredientes naturales inspirados en los principios de belleza japoneses con la tecnología AMINO COMPLEX, que refuerza el cabello desde el interior
+- Cabello como recién salido de la peluquería; Modo de empleo: aplicar sobre el cabello mojado y aclarar con abundante agua
 - Cabello disciplinado; Efecto anti-encrespamiento duradero sin uso del secador
 - El champú Rizos Pro de Syoss es adecuado para cabellos rizados
-- Cabello como recién salido de la peluquería; Modo de empleo: aplicar sobre el cabello mojado y aclarar con abundante agua
+- Las nuevas fórmulas de Syoss combinan ingredientes naturales inspirados en los principios de belleza japoneses con la tecnología AMINO COMPLEX, que refuerza el cabello desde el interior
 - Champú para una definición e hidratación adecuada; Desarrollado para obtener ondas y rizos naturales sin esfuerzo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

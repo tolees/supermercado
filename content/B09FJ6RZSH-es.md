@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Papel Blanco
-- Certificado con la Etiqueta Ecológica Europea
 - Tamaño estándar (30 x 29cm)
+- Certificado con la Etiqueta Ecológica Europea
 - 200 Servilletas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

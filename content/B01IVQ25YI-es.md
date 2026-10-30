@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Seguir las instrucciones de uso
-- Tomar 2 gominolas al día.
-- Número de modelo del producto: WGU.102100
 - Suplemento alimenticio
+- Número de modelo del producto: WGU.102100
+- Tomar 2 gominolas al día.
+- Seguir las instrucciones de uso
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01IVQ25YI{{</world>}}

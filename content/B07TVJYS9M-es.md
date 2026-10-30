@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Paquete de 4 rollos
 - 4 capas, para mayor resistencia y confort
+- Paquete de 4 rollos
 - Papel Higiénico envuelto en papel en vez de plástico, dermatológicamente testado
 - Con certificado FSC (papel procedente de bosques gestionados de forma responsable y sostenible)
 

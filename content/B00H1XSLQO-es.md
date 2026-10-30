@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Fórmula de doble función con D-Panthenol y agentes limpiadores suaves, que mantienen equilibrada la hidratación natural de la piel y del cuero cabelludo.
+- Champú y gel de baño con aroma a helado de vanilla y galleta Apto para niños mayores de 3 años.
 - Limpia de una forma muy suave, hidrata y protege el cabello y la piel de los niños, creando mucha espuma sin resecar la piel.
 - Ayuda a desenredar el cabello y lo deja suave y fácil de peinar.
-- Champú y gel de baño con aroma a helado de vanilla y galleta Apto para niños mayores de 3 años.
 - Elaborado con ingredientes vegetales de la mayor calidad. Producto apto para veganos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

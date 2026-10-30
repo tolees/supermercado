@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Elizabeth Arden Ceramide Aceite Limpiador Desmaquillante 195 ml | Aceite limpiador con ceramidas y vitamina E que elimina maquillaje e impurezas sin resecar.'
-date: 2026-10-16 06:29:05
+date: 2026-10-30 12:54:08
 image: 'https://m.media-amazon.com/images/I/31oydVkrQDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B017IZGN50/?tag=tolees-21'
 descuento: '31.24'
-average: '18.2964705882355'
+average: '18.387777777778'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

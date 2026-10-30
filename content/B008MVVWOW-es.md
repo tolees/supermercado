@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Modelo en acabado mate
 - Elegante portarrollos de papel de cocina
-- Medidas (ancho x altura x profundidad): 21 x 9 x 6 cm
 - Tornillos y espigas incluidos para el montaje mural
 - De acero fino inoxidable de alta calidad
+- Medidas (ancho x altura x profundidad): 21 x 9 x 6 cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B008MVVWOW{{</world>}}

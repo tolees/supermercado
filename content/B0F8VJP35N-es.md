@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aparato con control de intensidad y botón boost para un impulso adicional de frescura.
 - 24/7 Spray Automático Active Fresh: nuestra nueva y mejor teconologia que combate sin esfuerzo los malos olores, con fragancias sin aerosol.
 - Fragancia Flor de Cerezo y Frambuesa. Infusionado con 2 veces más aceites esenciales naturales vs Airwick Active Fresh Fragancias base
+- Aparato con control de intensidad y botón boost para un impulso adicional de frescura.
 - Libre de ftalatos, propulsores y colorantes.
 - Larga duración: cada recambio dura hasta 70 días (basado en la configuración más baja)
 

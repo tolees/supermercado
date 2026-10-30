@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Blusa De Manga Larga
 - Blusa Con Volantes
+- Blusa De Manga Larga
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FCMR5QD2{{</world>}}

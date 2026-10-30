@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sirope de chocolate Milka para acompañar cualquier postre, en un bote práctico y preciso
 - Textura cremosa y densa que combina especialmente bien con tortitas y postres similares
 - Sabor a delicioso chocolate Milka que puedes combinar con tus recetas de repostería favoritas
+- Sirope de chocolate Milka para acompañar cualquier postre, en un bote práctico y preciso
 - Conservar en lugar fresco y seco
 - Alérgenos: Contiene leche y soja; puede contener trigo
 

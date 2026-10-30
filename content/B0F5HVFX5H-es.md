@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ENVASADO PRÁCTICO: Presentado en monodosis de fácil uso, garantizando frescura y control de porciones.
-- La siguiente información se aplica a cada unidad del paquete
-- VERSATILIDAD EN LA COCINA: Perfecto para aderezos, cocinar, o rociar sobre platos frescos como ensaladas y tapas.
 - SABOR: Aceite de oliva virgen extra
 - NUTRICIÓN EQUILIBRADA: Rico en ácidos grasos saludables y antioxidantes, ideal para una dieta equilibrada.
+- La siguiente información se aplica a cada unidad del paquete
+- VERSATILIDAD EN LA COCINA: Perfecto para aderezos, cocinar, o rociar sobre platos frescos como ensaladas y tapas.
 - ORIGEN: Elaborado solo con aceitunas de origen español.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Calma e hidrata la piel
 - Reduce la decoloración
-- Piel notablemente más limpia en 7 días
 - Refuerza la barrera protectora de la piel
+- Piel notablemente más limpia en 7 días
+- Calma e hidrata la piel
 - Fórmula con ácido hialurónico, provitamina B5 y niacinamida para pieles propensas a imperfecciones
 
 [🛒 Aquí!!!]({{< param buyurl >}})

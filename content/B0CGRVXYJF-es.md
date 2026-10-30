@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- INGREDIENTES 100% NATURALES - hechos con fruta entera real y absolutamente nada más
 - PACK VARIADO - que contiene una mezcla de fresa, frambuesa y mango - 8 packs de cada sabor
 - SIN AZÚCARES AÑADIDOS, alto en fibra, sin concentrados
+- INGREDIENTES 100% NATURALES - hechos con fruta entera real y absolutamente nada más
 - Snack DELICIOSAMENTE divertido para niños y adultos: snack perfecto para la mochila de almuerzo
 - SOLO FRUTA en un delicioso rollito que contiene todo lo bueno de la fruta
 

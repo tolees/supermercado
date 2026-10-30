@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Sin azúcares añadidos** y sin espesantes, como lo haces en casa
+- Sin aceite de palma y sin gluten
+- Alimento para bebés a partir de 6 meses
+- Alimento infantil elaborado 100% con hortalizas naturales listo para tomar
 - Sin colorantes y sin conservantes, de acuerdo con la legislación vigente
 - Bolsita de puré de frutas para bebés a partir de 6 meses 100% natural con vitamina C
-- Sin aceite de palma y sin gluten
-- Alimento infantil elaborado 100% con hortalizas naturales listo para tomar
-- Alimento para bebés a partir de 6 meses
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B079ZYKBYV{{</world>}}

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La siguiente información se aplica a cada unidad del paquete
-- Cereales fuente de vitaminas del grupo B y hierro
 - Deliciosos cereales de trigo con sabor a chocolate que harán tus desayunos más divertidos
 - Cereales sin colorantes ni aromas artificiales
 - Cereales ricos en vitamina D
 - Cereales sin aceite de palma
+- La siguiente información se aplica a cada unidad del paquete
+- Cereales fuente de vitaminas del grupo B y hierro
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FXNHJ4DN{{</world>}}

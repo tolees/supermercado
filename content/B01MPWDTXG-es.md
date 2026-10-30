@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sabor a pollo, hígado y pavo
-- Ayuda a tu gato a vivir saludable y feliz
 - Elaborado con ingredientes de calidad
-- Una colorida mezcla de jugosos snacks
+- Ayuda a tu gato a vivir saludable y feliz
 - Alimento complementario
+- Sabor a pollo, hígado y pavo
+- Una colorida mezcla de jugosos snacks
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MPWDTXG{{</world>}}

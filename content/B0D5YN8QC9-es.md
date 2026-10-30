@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nuevo aspecto, mismo olor
 - Fórmula vegana
-- Eau de toilette negro de MEXX es el regalo ideal para ti o para tus seres queridos
 - Paquete pequeño con certificado FSC
+- Nuevo aspecto, mismo olor
+- Eau de toilette negro de MEXX es el regalo ideal para ti o para tus seres queridos
 - Eau de toilette para hombre, ideal para diferentes ocasiones, oficina, salidas nocturnas o momentos en casa
 
 [🛒 Comprar!!!]({{< param buyurl >}})

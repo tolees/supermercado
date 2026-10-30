@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Verdejo sobre lías procedente de viñas viejas
-- Alcohol: 12,5%-13,5% dependiendo de añada y lote
 - NOTA DE CATA: Color amarillo pajizo verdoso, brillante. Tiene un aroma fresco, equilibrado, muy característico de esta variedad. En boca es sabroso y muy persistente.
-- Denominación de Origen Rueda
+- Alcohol: 12,5%-13,5% dependiendo de añada y lote
+- Verdejo sobre lías procedente de viñas viejas
 - Maridaje: Pescados, mariscos, arroces y pasta
+- Denominación de Origen Rueda
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08YCWBMBX{{</world>}}

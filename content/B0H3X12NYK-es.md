@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Santiveri - Tortitas de Arroz con Chocolate Negro y Topings de Arándano BIO - Sin Gluten - Con Fibra Con Ingredientes Ecológicos - 3x37g Paquete de 5'
-date: 2026-10-10 23:11:46
+date: 2026-10-30 13:35:10
 image: 'https://m.media-amazon.com/images/I/51LyWs2eUAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

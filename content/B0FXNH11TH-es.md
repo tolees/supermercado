@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Listos para consmuir
+- Conservar en un lugar fresco y seco
 - Ideales con leche
 - Granolas crujientes vegetarianas
 - La siguiente información se aplica a cada unidad del paquete
-- Conservar en un lugar fresco y seco
 - Con avena integrale y chocolate negro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

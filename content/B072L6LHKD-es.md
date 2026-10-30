@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conservar en lugar fresco y seco
-- Mix de sabores y colores
 - Delicioso mix de diferentes piezas: Huevos, Corazón, Anillos, Happy cola y Ositos de Oro
 - Caramelos de goma
+- Conservar en lugar fresco y seco
+- Mix de sabores y colores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B072L6LHKD{{</world>}}

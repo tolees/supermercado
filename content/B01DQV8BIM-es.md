@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Himalaya Stress Wellness Extracto de Raíz de Ashwagandha 500mg 60 Tabletas 30 Días – Complemento Alimenticio Adaptógeno para Estrés Energía y Relajación – Fórmula Herbal Ayurvédica Vegana'
-date: 2026-10-27 12:27:18
+date: 2026-10-29 21:56:13
 image: 'https://m.media-amazon.com/images/I/51Qy8H2KgDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

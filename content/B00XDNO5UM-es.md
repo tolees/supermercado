@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gallina Blanca Avecrem Caldo de Pollo 24 Pastillas | Enriquece todos tus platos sin gluten'
-date: 2026-10-28 09:40:19
+date: 2026-10-29 15:18:17
 image: 'https://m.media-amazon.com/images/I/41Xcqq+-z2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XDNO5UM/?tag=tolees-21'
 descuento: '0.00'
-average: '2.85571428571429'
+average: '2.865'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

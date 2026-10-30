@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Envase Resellable
-- Cacahuetes, Almendras, Avellanas, Anacardos y Nueces Pecanas Tostados y Salados
 - Apto para dietas vegetarianas y veganas.
-- Alto en Fibra y Fuente de Proteína
-- Envasado en atmósfera protectora para mantener su frescura.
+- Envase Resellable
 - Perfecto para picar
+- Envasado en atmósfera protectora para mantener su frescura.
+- Cacahuetes, Almendras, Avellanas, Anacardos y Nueces Pecanas Tostados y Salados
+- Alto en Fibra y Fuente de Proteína
 - Información sobre Reciclaje (ver Reverso del Envase)
 
 [🛒 Comprar!!!]({{< param buyurl >}})

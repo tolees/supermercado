@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hecho con granos de café 100% Arábica
-- Un Starbucks de tueste intenso de intensidad 11
 - Prepáralo en casa como a ti te gusta
 - Cápsulas de café hechas con al menos un 80% de aluminio reciclado
+- Un Starbucks de tueste intenso de intensidad 11
 - 100 cápsulas de Starbucks Ristretto Shot by Nespresso
+- Hecho con granos de café 100% Arábica
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DX2HTB4Q{{</world>}}

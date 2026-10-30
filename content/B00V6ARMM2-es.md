@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- MODO DE USO: Humedecer la pastilla con agua y aplicar sobre la zona deseada
-- BENEFICIOS: Ayuda a desinfectar, efecto antiseborréico
-- PROPIEDADES: Indicado para pieles con acné
 - ETIQUETAS: Este producto es apto para veganos y celíacos y, además, está libre de alérgenos
 - HIGIENE PERSONAL. Están libres de grasa animal o industrial
+- PROPIEDADES: Indicado para pieles con acné
+- MODO DE USO: Humedecer la pastilla con agua y aplicar sobre la zona deseada
 - Jabón en formato sólido con propiedades antisépticas y reguladoras del exceso de grasa, por lo que es una muy buena opción para ayudar en el secado del acné y puntos negros de rostro y cuerpo
+- BENEFICIOS: Ayuda a desinfectar, efecto antiseborréico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00V6ARMM2{{</world>}}

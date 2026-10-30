@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tostado y envasado en Bélgica
 - Adecuado para todas las preparaciones dependiendo de la molienda
-- 100 por ciento arábica
-- Intensidad, 35
-- Puede variar el color del embalaje del producto
 - 2 paquetes, 2 x 1 kg, total 2 kg
-- Suave y delicado, este café es reconocido sus sabores armonizados y la acidez sutil
 - La procedencia del café utilizado para este producto goza de la certificación Rainforest Alliance
+- Tostado y envasado en Bélgica
+- Suave y delicado, este café es reconocido sus sabores armonizados y la acidez sutil
+- 100 por ciento arábica
+- Puede variar el color del embalaje del producto
+- Intensidad, 35
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08Y1HYPG9{{</world>}}

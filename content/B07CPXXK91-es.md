@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Somat Excellence Duo Gel Frescor Anti-Olor Detergente Lavavajillas 2x35D | Fórmula 5 en 1 Combate Mal Olor Doble Cámara con Power & Pearls Limpieza Profunda Apto para Ciclos Eco 140 lavados'
-date: 2026-10-29 07:38:37
+date: 2026-10-30 12:32:36
 image: 'https://m.media-amazon.com/images/I/417Gde68ZrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CPXXK91/?tag=tolees-21'
 descuento: '32.79'
-average: '9.48476923076922'
+average: '9.48492537313432'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

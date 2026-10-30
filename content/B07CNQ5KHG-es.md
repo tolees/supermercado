@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amstel Cerveza Lager Pack Lata 24 x 33cl'
-date: 2026-10-29 09:04:17
+date: 2026-10-30 22:41:32
 image: 'https://m.media-amazon.com/images/I/41RWlw0Q-oL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CNQ5KHG/?tag=tolees-21'
 descuento: '32.04'
-average: '12.5026548672566'
+average: '12.4895652173913'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

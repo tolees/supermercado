@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BIODANCE Sérum Facial de Colágeno y Péptidos – Minimiza Poros y Reafirma la Piel – Prebase de Maquillaje Primer Hidratante y Corrector de Brillo – Cosmética Coreana K-Beauty 30ml'
-date: 2026-10-25 16:02:14
+date: 2026-10-30 21:47:50
 image: 'https://m.media-amazon.com/images/I/416UbMC4y0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

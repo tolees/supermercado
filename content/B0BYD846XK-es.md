@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'bayfree Lip Tint Stain Set Tinte de Labios Mini Barra de Labios Líquida Larga Duración Maquillaje de Labios para Mejillas y Ojos Made into Jam'
-date: 2026-10-28 15:29:23
+date: 2026-10-30 06:58:25
 image: 'https://m.media-amazon.com/images/I/41Oyyzot9xL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BYD846XK/?tag=tolees-21'
 descuento: '49.12'
-average: '10.4818181818182'
+average: '9.80769230769234'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

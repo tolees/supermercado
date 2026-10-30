@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Servir a temperatura ambiente
-- Almacenar en un sitio seco y oscuro
 - Realizado con endulcolantes
 - Bebida de vino y zumo de uva
+- Almacenar en un sitio seco y oscuro
 - Contiene sulfitos
+- Servir a temperatura ambiente
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00XA9ATVI{{</world>}}

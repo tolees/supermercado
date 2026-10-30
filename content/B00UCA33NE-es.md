@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tejido resinado ultra resistente
-- Su especial composición le aporta una mayor duración que tu fregona tradicional, manteniendo sus propiedades incluso con el uso de detergentes agresivos
 - Lavable a máquina temperatura máxima 60°C
+- Su especial composición le aporta una mayor duración que tu fregona tradicional, manteniendo sus propiedades incluso con el uso de detergentes agresivos
 - Muy manejables, las tiras son ideales para una limpieza eficaz de todo tipo suelos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sin azúcares añadidos y sin espesantes, como lo haces en casa
+- Sin aceite de palma y sin gluten; sin colorantes ni conservantes, según la legislación vigente
 - Alimento para bebés a partir de 4 meses
 - 100% natural con vitamina C
 - Alimento infantil elaborado 100% con fruta natural madurada en el árbol lista para tomar
-- Sin aceite de palma y sin gluten; sin colorantes ni conservantes, según la legislación vigente
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BWYHKHHZ{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mezcla de cafés robustas de tueste natural (50%) y torrefacto (50%)
 - Estimulante de intenso aroma
-- Envasado al vacío
-- Sabor matizado por el azúcar caramelizado de café torrefacto
 - Persistente en boca, con cuerpo y carácter
+- Mezcla de cafés robustas de tueste natural (50%) y torrefacto (50%)
+- Sabor matizado por el azúcar caramelizado de café torrefacto
+- Envasado al vacío
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01M8QG3O1{{</world>}}

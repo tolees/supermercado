@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sin colorantes artificales ni conservantes; bajo en grasas
 - Ideal en cualquier momento de la preparación
-- Auténtico sabor a pollo y aroma de romero, que complementa perfectamente con cualquier receta
-- Ideal para sazonar o potenciar el sabor de pollo en caldos y guisos
+- Sin colorantes artificales ni conservantes; bajo en grasas
 - Caldo de pollo elegido No.1 por chefs*
+- Ideal para sazonar o potenciar el sabor de pollo en caldos y guisos
+- Auténtico sabor a pollo y aroma de romero, que complementa perfectamente con cualquier receta
 - Disolución sin grumos en cualquier momento de la preparación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

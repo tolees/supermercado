@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Air Wick Freshmatic - Aparato y Recambio de Ambientador Spray Automático Esencia para Casa con Aroma a Nenuco Multicolor 1 Aparato + 1 Recambio'
-date: 2026-10-18 14:21:18
-image: 'https://m.media-amazon.com/images/I/51Uzo7LBTRL._SL500_._SL400_.jpg'
+date: 2026-10-30 20:04:30
+image: 'https://m.media-amazon.com/images/I/41nWJYzjbjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MT3R0OR/?tag=tolees-21'
 descuento: '0.00'
-average: '6.69306122448978'
+average: '6.78313725490194'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

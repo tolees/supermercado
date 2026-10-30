@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvo Atún Claro en Aceite de Girasol Pack6 x 65g'
-date: 2026-10-25 16:00:24
+date: 2026-10-30 00:37:24
 image: 'https://m.media-amazon.com/images/I/41a3eES0c9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09H8DRS3F/?tag=tolees-21'
 descuento: '26.83'
-average: '6.18723684210527'
+average: '6.14397435897436'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

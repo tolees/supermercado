@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hidrata la piel y, gracias a su contenido en vitamina E, aporta acción antioxidante.
 - Su fórmula ligera se absorbe de forma inmediata, favoreciendo un acabado natural con un tacto agradable.
+- Hidrata la piel y, gracias a su contenido en vitamina E, aporta acción antioxidante.
 - Proporciona una alta protección UVB/UVA con SPF 50 y protege contra la polución.
 - Compact Medium SPF 50 protege la piel a la vez que cubre imperfecciones, unificando el tono para un acabado natural e impecable.
 - Unifica el tono de la piel aportando una cobertura mate de larga duración.

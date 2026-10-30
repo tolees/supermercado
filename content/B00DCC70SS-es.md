@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ELEMIS Salt Glow Body Scrub Exfoliante Corporal Suavizante de Sal 490g | Exfoliante corporal con sal hibisco monoi y frangipani para exfoliar hidratar y dejar la piel lisa y flexible'
-date: 2026-10-28 16:15:38
+date: 2026-10-30 07:44:14
 image: 'https://m.media-amazon.com/images/I/41OY77C+9zL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DCC70SS/?tag=tolees-21'
 descuento: '46.08'
-average: '38.68'
+average: '37.7533333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

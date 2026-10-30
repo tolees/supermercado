@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DR. OETKER Bizcocho sin gluten 10 en 1 364 g preparado de repostería para bizcocho gluten free ideal como base para tartas y pasteles 12 raciones'
-date: 2026-10-28 08:47:06
+date: 2026-10-29 12:30:23
 image: 'https://m.media-amazon.com/images/I/51NgudwscQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

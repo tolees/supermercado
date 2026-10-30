@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ultra suave y absorbente
-- La siguiente información se aplica a cada unidad del paquete
-- Papel de triple capa con 23 metros
-- Testado dermatológicamente y ginecológicamente
-- Perfumado y decorado
 - Paquete 6 rollos
+- Perfumado y decorado
+- Testado dermatológicamente y ginecológicamente
+- Ultra suave y absorbente
+- Papel de triple capa con 23 metros
+- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GXXJ546T{{</world>}}

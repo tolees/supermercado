@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Finish Ultimate Infinity Shine Pastillas para lavavajillas aroma Limón - 80 | Combaten las manchas resecas otorgan limpieza profunda y eficaz. Protegen tu cristalería Detergente para lavavajillas'
-date: 2026-10-29 08:15:56
+date: 2026-10-30 22:23:38
 image: 'https://m.media-amazon.com/images/I/51PCigplraL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09HV4V2NM/?tag=tolees-21'
 descuento: '34.99'
-average: '17.129381443299'
+average: '17.0708080808081'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

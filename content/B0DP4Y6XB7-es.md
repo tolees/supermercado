@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - La siguiente información se aplica a cada unidad del paquete
-- 2 rollos
+- 1 rollo XXL : 3 rollos estándar
 - Doble Capa
 - Rollo de Cocina Blancos
 - Con extra absorción, para una mayor eficacia en cada uso
-- 1 rollo XXL : 3 rollos estándar
+- 2 rollos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DP4Y6XB7{{</world>}}

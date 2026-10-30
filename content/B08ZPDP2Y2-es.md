@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Perfilador de labios firme que se siente suave en su aplicación
+- Los tonos combinan con las barras de labios Colour Elixir
 - Formato en lápiz fácil de aplicar
 - Para el cabello: Normal; Nombre de la fragancia: Otros; Tipo de piel: Normal
-- Consigue unos labios suaves y flexibles
 - Moldea y define tus labios
-- Los tonos combinan con las barras de labios Colour Elixir
+- Consigue unos labios suaves y flexibles
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08ZPDP2Y2{{</world>}}

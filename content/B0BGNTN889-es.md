@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fuente de chocolate decorativa
 - Producto de calidad
+- Fuente de chocolate decorativa
 - Puedes derretir chocolate y sumergir fresas, plátanos, galletas y más
 
 [🛒 Comprar!!!]({{< param buyurl >}})

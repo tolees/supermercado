@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Producto sin gluten
+- Ideal como desayuno o merienda
 - Se pueden consumir directamente o mezclada con leche
 - Copos gruesos de avena
-- Ideal como desayuno o merienda
 - De agricultura ecológica
 
 [🛒 Visítala!!!]({{< param buyurl >}})
