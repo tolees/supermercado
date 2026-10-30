@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'Vanish Oxi Action Multipoder - Quitamanchas multibeneficio para la ropa En Polvo Sin Lejía 400gr El emabalaje puede variar'
+date: 2026-10-03 05:48:53
+image: 'https://m.media-amazon.com/images/I/51gWJfvhDJL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B08C89QKCH-es Vanish Oxi Action Multipoder - Quitamanchas multibeneficio...'
+sku: 'B08C89QKCH-es'
+tags: [ 'lejía','vanish','🇪🇸', ]
+actualPrice: 5.29 EUR
+currency: EUR
+price: 5.29
+comparePrice: 5.99 EUR
+prodname: 'Vanish Oxi Action Multipoder - Quitamanchas multibeneficio para la ropa En Polvo Sin Lejía 400gr El emabalaje puede variar'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B08C89QKCH/?tag=tolees-21'
+descuento: '11.69'
+average: '5.01676923076922'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+
+[🛒 Comprar!!!]({{< param buyurl >}})
+{{<world>}}B08C89QKCH{{</world>}}
