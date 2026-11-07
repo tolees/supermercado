@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'Isabel Atún en Aceite Vegetal 400g'
+date: 2026-10-07 11:06:10
+image: 'https://m.media-amazon.com/images/I/5141Gw5PDEL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B00XDNCNPG-es Isabel Atún en Aceite Vegetal 400g'
+sku: 'B00XDNCNPG-es'
+tags: [ 'atún','🇪🇸', ]
+actualPrice: 4.95 EUR
+currency: EUR
+price: 4.95
+comparePrice: 5.99 EUR
+prodname: 'Isabel Atún en Aceite Vegetal 400g'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B00XDNCNPG/?tag=tolees-21'
+descuento: '17.36'
+average: '5.51842105263159'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B00XDNCNPG{{</world>}}
