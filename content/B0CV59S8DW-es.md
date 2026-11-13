@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'Doritos Flamin Hot Snack de Maíz Picante bolsa individual de aperitivo 75 gr'
+date: 2026-07-01 09:39:49
+image: 'https://m.media-amazon.com/images/I/41mxAFzFH9L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0CV59S8DW-es Doritos Flamin Hot Snack de Maíz Picante bolsa individual...'
+sku: 'B0CV59S8DW-es'
+tags: [ 'maíz','🇪🇸', ]
+actualPrice: 1.5 EUR
+currency: EUR
+price: 1.5
+comparePrice: 1.5 EUR
+prodname: 'Doritos Flamin Hot Snack de Maíz Picante bolsa individual de aperitivo 75 gr'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0CV59S8DW/?tag=tolees-21'
+descuento: '0.00'
+average: '1.29'
+---
+
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Ofrece un resultado óptimo y adecuado
+- Sencillo de usar
+- Material de calidad
+
+[🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B0CV59S8DW{{</world>}}

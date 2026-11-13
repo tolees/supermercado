@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'OGX Champú nutritivo + leche de coco 3 fl oz'
+date: 2026-10-24 09:56:05
+image: 'https://m.media-amazon.com/images/I/31JVFawZCUL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B01JH11C7W-es OGX Champú nutritivo + leche de coco 3 fl oz'
+sku: 'B01JH11C7W-es'
+tags: [ 'champú','🇪🇸', ]
+actualPrice: 1.5 EUR
+currency: EUR
+price: 1.5
+comparePrice: 1.9 EUR
+prodname: 'OGX Champú nutritivo + leche de coco 3 fl oz'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B01JH11C7W/?tag=tolees-21'
+descuento: '21.05'
+average: '1.7'
+---
+
+Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+
+[🛒 Visítala!!!]({{< param buyurl >}})
+{{<world>}}B01JH11C7W{{</world>}}

@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'NESTLÉ Extrafino Turrón de chocolate blanco con relleno Galleta Filipinos 232g'
+date: 2026-11-08 10:05:37
+image: 'https://m.media-amazon.com/images/I/41eh73YjDwL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0D94VDJLW-es NESTLÉ Extrafino Turrón de chocolate blanco con relleno...'
+sku: 'B0D94VDJLW-es'
+tags: [ 'chocolate','nestlé','🇪🇸', ]
+actualPrice: 2.99 EUR
+currency: EUR
+price: 2.99
+comparePrice: 3.99 EUR
+prodname: 'NESTLÉ Extrafino Turrón de chocolate blanco con relleno Galleta Filipinos 232g'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0D94VDJLW/?tag=tolees-21'
+descuento: '25.06'
+average: '2.8216666666666663'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+
+[🛒 Comprar!!!]({{< param buyurl >}})
+{{<world>}}B0D94VDJLW{{</world>}}
