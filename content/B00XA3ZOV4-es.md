@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pais de origen: España
 - Comida española fácil de preparar
+- Pais de origen: España
 - Fuente natural de fibra
 - Ingredientes naturales
 - ‎Almacenar en un sitio seco y oscuro

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Referencia: S0594610
-- Color: multicolor
 - Medidas: 4 x 7.5 x 20 centímetros
+- Color: multicolor
 - Salud y Bienestar de la marca LOreal Make Up
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

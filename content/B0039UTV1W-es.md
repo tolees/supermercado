@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Hecho específicamente para pieles mixtas o grasas para controlar la absorción de aceite y brillo
-- Contenido de 30 ml
 - La fórmula libre de aceite da una cobertura total de hasta 24 horas
 - Acabado sin brillo, cómodo todo el día, proporciona una sensación ligera
+- Contenido de 30 ml
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0039UTV1W{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tejido duradero con un tacto suave
 - Tejido resistente al cloro para mayor durabilidad
+- Tejido duradero con un tacto suave
 - Totalmente forrado con copas extraíbles
 - Confeccionado con nailon reciclado
 - Protección UV 50+

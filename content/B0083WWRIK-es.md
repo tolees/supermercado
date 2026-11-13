@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Contiene 100ml
-- Este producto está indicado para hSombras
 - De la marca Dior
+- Este producto está indicado para hSombras
+- Contiene 100ml
 - Las notas olfativas principales de este producto son cítrico, floral y afrutado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

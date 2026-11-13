@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elimina los tonos cobrizos
-- Con una suave fragancia floral
 - Resalta los tonos rubios
+- Con una suave fragancia floral
+- Elimina los tonos cobrizos
 - Una fórmula energizante enriquecida con pigmentos morados y vitamina E
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

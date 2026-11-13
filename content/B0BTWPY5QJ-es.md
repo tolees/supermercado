@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 🧴 Acabado matificante y alisador – Textura mousse que difumina poros e imperfecciones.
+- 💧 Resistente al agua, sudor y roce – Protección duradera en condiciones diarias exigentes.
 - 🌞 Protección solar facial SPF50+ muy alta – Protege contra rayos UVA, UVB, luz visible e infrarrojos.
 - 🌿 Fórmula sin perfume – Ideal para pieles sensibles o reactivas.
-- 💧 Resistente al agua, sudor y roce – Protección duradera en condiciones diarias exigentes.
 - 💄 Perfecto como base de maquillaje – Funciona como primer facial para una piel suave y unificada.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

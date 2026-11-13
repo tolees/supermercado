@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Se recomienda aplicar justo antes de la exposición solar y reaplicar con frecuencia, especialmente después de haberse bañado, haber transpirado o haberse secado con una toalla.
+- Previene las manchas solares e hidrata durante 24 Horas.
 - Apto para todo tipo de pieles.
 - Su textura es ligera y refrescante y de fácil absorción.
-- Previene las manchas solares e hidrata durante 24 Horas.
 - Una leche solar de alta protección FPS50 que protege la piel de los rayos UVA y UBV. Su fórmula está enriquecida con Vitamina Cg.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

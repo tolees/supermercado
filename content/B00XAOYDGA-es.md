@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Suave efecto balsámico
 - Caramelos balsámicos sin azúcar
 - Conservar en un lugar fresco y seco
 - Perfecto para inspirar y respirar
 - Caramelo duro sin azúcar de limón y melisa
-- Suave efecto balsámico
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XAOYDGA{{</world>}}

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ayuda a levantar el cabello desde las raíces aumentando el volumen hasta un 80 % sin peso durante 72 h*. *Prueba instrumental después de usar champú y acondicionador.
-- 2 veces más suaves** Hasta 72H volumen. **Prueba instrumental después de usar champú y acondicionador.
-- Champú de volumen
-- Fragancia de hasta 72 H***. ***Prueba sensorial después de usar champú y acondicionador.
 - Nutrición instantánea del cabello/ hasta 72H**. **Prueba instrumental después de usar champú y acondicionador.
 - Control inmediato del encrespamiento del cabello/hasta 72H**. **Prueba instrumental después de usar champú y acondicionador.
+- Fragancia de hasta 72 H***. ***Prueba sensorial después de usar champú y acondicionador.
+- Ayuda a levantar el cabello desde las raíces aumentando el volumen hasta un 80 % sin peso durante 72 h*. *Prueba instrumental después de usar champú y acondicionador.
+- Champú de volumen
+- 2 veces más suaves** Hasta 72H volumen. **Prueba instrumental después de usar champú y acondicionador.
 - Con una fórmula enriquecida con péptidos de colágeno.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

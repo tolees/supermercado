@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Color del champú: transparente
 - Para el cabello: Todos
+- Color del champú: transparente
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07TT7VMFD{{</world>}}

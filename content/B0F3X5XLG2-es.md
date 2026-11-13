@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Puleva Leche con Calcio y Colágeno Desnatada Vitamina D Pack 6x1L | Leche desnatada enriquecida con calcio colágeno y vitamina D. Cuida huesos y articulaciones. Pack 6 briks de 1 litro.'
-date: 2026-11-11 19:24:20
+date: 2026-11-13 20:37:45
 image: 'https://m.media-amazon.com/images/I/51cI3DzD6rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F3X5XLG2/?tag=tolees-21'
 descuento: '37.28'
-average: '6.4019047619047678'
+average: '6.398260869565223'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

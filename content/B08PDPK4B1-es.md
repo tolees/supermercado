@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Resistente al agua
 - Proporciona un alto impacto de color
 - Crea una película elástica
 - Delineador deslizante para un look de duración
 - Para definir y exaltar los ojos
+- Resistente al agua
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08PDPK4B1{{</world>}}

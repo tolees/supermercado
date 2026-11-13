@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Consigue gradualmente un tono de piel bronceado de aspecto natural y luminoso con esta Loción Autobronceadora de Dove.
-- Fórmula con Cell-Moisturisers: tecnología avanzada de cuidado facial de Dove, que ayuda a mantener una hidratación natural
-- Aplicar en el cuerpo sobre la piel limpia y seca.
 - Loción Autobronceadora Facial de Dove para pieles de tono medio a oscuro.
 - Loción Dove para piel de tono medio a oscuro.
+- Aplicar en el cuerpo sobre la piel limpia y seca.
+- Fórmula con Cell-Moisturisers: tecnología avanzada de cuidado facial de Dove, que ayuda a mantener una hidratación natural
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DCG94C1W{{</world>}}

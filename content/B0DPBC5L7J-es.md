@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hechas en España
-- Sin Gluten
 - 10g de proteína por barrita
 - Sin colorantes ni conservantes ni aromas artificiales
 - Cada pack contiene 12 barritas individuales de 40g
 - Ingredientes deliciosos, cuidadosamente seleccionados
+- Hechas en España
+- Sin Gluten
 - Aptas para vegetarianos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

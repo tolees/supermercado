@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gillette Fusion5 Maquinilla de Afeitar para Hombre con 12 Recambios | 1 Mango + 12 Cuchillas de Afeitar con 5 Hojas Banda de Gel Lubricante Y Recortadora de Precisión Afeitado Apurado'
-date: 2026-11-12 11:08:19
+date: 2026-11-13 12:00:42
 image: 'https://m.media-amazon.com/images/I/51560eYiFQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DT47D1B5/?tag=tolees-21'
 descuento: '40.01'
-average: '36.989000000000004'
+average: '36.352727272727279'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

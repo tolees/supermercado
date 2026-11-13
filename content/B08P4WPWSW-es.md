@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Verifique el símbolo PAO (Período después de la apertura) que indica el tiempo de caducidad del producto, después de abrir el paquete
+- Apto para pieles sensibles
 - Base de maquillaje que lo da todo: larga duración, textura ligera y alta cobertura, hasta 30 horas
 - Su acabado mate deja un aspecto natural sin efecto máscara ni sensación de pesadez
-- Apto para pieles sensibles
 - Tono 20 Cameo
+- Verifique el símbolo PAO (Período después de la apertura) que indica el tiempo de caducidad del producto, después de abrir el paquete
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08P4WPWSW{{</world>}}

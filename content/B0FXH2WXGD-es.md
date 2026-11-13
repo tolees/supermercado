@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Embalaje reciclable
-- Pelaje brillate y piel sana: Omega 3 y 6 y zinc que contribuyen a un pelaje brillante y una piel cuidada
-- Proteína de calidad
-- Comida completa y equilibrada para gatos adultos esterilizados
-- Elaborado con ingredientes naturales
-- Sin cereales: con carbohidratos alternativos (boniato, garbanzos y guisantes)
 - Cajita multisabor con 12 bolsitas de 85 g
+- Embalaje reciclable
+- Elaborado con ingredientes naturales
+- Proteína de calidad
 - Sin colorantes, conservantes ni aromas artificiales; ingredientes con trazabilidad garantizada desde el origen
+- Pelaje brillate y piel sana: Omega 3 y 6 y zinc que contribuyen a un pelaje brillante y una piel cuidada
+- Comida completa y equilibrada para gatos adultos esterilizados
+- Sin cereales: con carbohidratos alternativos (boniato, garbanzos y guisantes)
 - Alimento húmedo completo para gatos adultos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

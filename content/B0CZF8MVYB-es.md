@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con DHA, que contribuye al desarrollo visual y cerebral normal
 - Con 2’-FL, un HMO también presente en la leche materna, que alimenta las bacterias buenas para una microbiota sana
-- Con el probiótico L.reuteri, naturalmente presente en la leche materna
+- Con DHA, que contribuye al desarrollo visual y cerebral normal
 - NAN OPTIpro 2 tiene la calidad de proteína que tu hijo necesita para un óptimo desarrollo
+- Con el probiótico L.reuteri, naturalmente presente en la leche materna
 - 100% lactosa y sin azúcares añadidos, solo contiene azúcares procedentes de la leche (lactosa)
 - La siguiente información se aplica a cada unidad del paquete
 

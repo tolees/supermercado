@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Un clásico italiano ahora en una cápsula
 - Las cápsulas solo son adecuadas para cafeteras Lavazza A Modo Mio
+- 16 cápsulas/120 g
 - Sabor equilibrado, completo y persistente
 - Intensidad: 10/tostado medio
-- 16 cápsulas/120 g
+- Un clásico italiano ahora en una cápsula
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B06XYLVV2K{{</world>}}

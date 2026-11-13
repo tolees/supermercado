@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fairy Platinum Cápsulas Lavavajillas Para Máquina Limón 126 Cápsulas | Potente Incluso Con Los Restos De Comida Más Difíciles Platos Limpios Lavavajillas Brillante Filtro Limpio Sin Grasa'
-date: 2026-11-12 11:00:57
+date: 2026-11-13 13:22:30
 image: 'https://m.media-amazon.com/images/I/51B0JkVa6aL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CZ7GFP9C/?tag=tolees-21'
 descuento: '42.87'
-average: '24.117857142857218'
+average: '23.975517241379382'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

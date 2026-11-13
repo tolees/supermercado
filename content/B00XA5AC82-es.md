@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Con taninos sedosos que le confieren cuerpo y persistencia
 - Un perfecto equilibrio entre acidez, estructura y tanino
-- De color rojo cereza intenso, sabor afrutado intenso a bayas rojas
 - Con sabor afrutado intenso a bayas rojas
+- De color rojo cereza intenso, sabor afrutado intenso a bayas rojas
 - Tiene un aroma fresco, equilibrado y frutal
 
 [🛒 Visítala!!!]({{< param buyurl >}})

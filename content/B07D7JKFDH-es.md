@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Fórmula ligera
+- Larga duración
 - Efecto recién aplicado durante todo el día
 - Colorete pigmentado para marcar el pómulo
-- Larga duración
 - Textura suave que se funde fácilmente con la piel
 
 [🛒 Visítala!!!]({{< param buyurl >}})

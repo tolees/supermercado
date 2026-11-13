@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Proporciona una sensación fresca
 - Fórmula MAXXTECH con aroma energizante
 - pH óptimo para la piel
-- Proporciona una sensación fresca
 - Fórmula biodegradable al 99 % (según la OCDE o métodos similares)
 - Compatibilidad con la piel dermatológicamente testada
 

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Medidas: 21,84 x 5,84 x 1,78 centímetros
 - ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
 - Recambio para Cepillo de Dientes Eléctrico de la marca Oral-B
 - Color: Multicolor
+- Medidas: 21,84 x 5,84 x 1,78 centímetros
 - Referencia: S71004159
 
 [🛒 Aquí!!!]({{< param buyurl >}})

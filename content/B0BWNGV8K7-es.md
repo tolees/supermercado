@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Mini Tortitas de maíz sabor setas, trufa & queso (7unidades)
-- No frito
-- No hay nada mejor que picotear con Bicentury
 - Cada caja contiene 7 bolsas
+- No hay nada mejor que picotear con Bicentury
+- No frito
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BWNGV8K7{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- (C) SHIFT UP CORP.
 - El producto real puede variar ligeramente de la imagen mostrada
 - Altura total: aprox. 160 mm
+- (C) SHIFT UP CORP.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DNJTXKCR{{</world>}}

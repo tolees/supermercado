@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Define y alarga con el lado curvo
+- Libera tu wow
 - Volumen al instante con el lado en forma de ala
 - Fórmula ultra ligera para construir volumen capa tras capa
-- Libera tu wow
-- Define y alarga con el lado curvo
 - Eleva tus pestañas de lado a lado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

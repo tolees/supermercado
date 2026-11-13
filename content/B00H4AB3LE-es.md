@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Instituto Español Gel Higiene Femenina Íntima para Piel Atópica - 300 ML'
-date: 2026-11-04 19:33:49
+date: 2026-11-13 13:06:33
 image: 'https://m.media-amazon.com/images/I/41J5bBoKoyS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00H4AB3LE/?tag=tolees-21'
 descuento: '2.96'
-average: '3.8590476190476091'
+average: '3.8652173913043386'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con 0% aluminio
+- Nuevos Desodorantes Para Todo El Cuerpo Rexona
 - Fragancia energizante
 - La tecnología Odor Adapt te ofrece una protección de 72h frente al mal olor
-- Nuevos Desodorantes Para Todo El Cuerpo Rexona
+- Con 0% aluminio
 - Huelas dónde huelas, hay un desodorante Rexona para ayudarte
 
 [🛒 Comprar!!!]({{< param buyurl >}})

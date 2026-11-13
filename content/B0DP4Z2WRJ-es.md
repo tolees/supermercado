@@ -29,11 +29,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - La siguiente información se aplica a cada unidad del paquete
-- Ideales para compartir con amigos
-- No contienen gluten
-- Sin conservantes
 - Tortillas redondas hechas de harina de maíz
+- Sin conservantes
+- No contienen gluten
 - Con una textura crujiente
+- Ideales para compartir con amigos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DP4Z2WRJ{{</world>}}

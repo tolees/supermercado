@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dermatológicamente testado incluso en pieles delicadas No comedogénico
 - Adecuado para todo tipo de pieles, incluidas las delicadas
-- Fórmula mejorada y funcional enriquecida con ácido hialurónico, extracto de granada italiana de origen sostenible, polvo de arroz y partículas de piedra pómez
 - Una textura en gel que ayuda a eliminar con delicadeza las impurezas y los restos de maquillaje de la piel. Un ritual de cuidado y belleza para el rostro
+- Dermatológicamente testado incluso en pieles delicadas No comedogénico
+- Fórmula mejorada y funcional enriquecida con ácido hialurónico, extracto de granada italiana de origen sostenible, polvo de arroz y partículas de piedra pómez
 - Limpia y exfolia delicadamente la piel, para dejarla suave, tersa y purificada
 
 [🛒 Comprar!!!]({{< param buyurl >}})

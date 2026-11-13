@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hasta 5 horas de duración
-- Acabado mate sin brillos
 - Polvo compacto matificante con minerales naturales
 - Dermatológicamente testado
+- Hasta 5 horas de duración
+- Acabado mate sin brillos
 - Ayuda a minimizar la apariencia de los poros.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Tus doritos ahora con sabor picante
-- Los Doritos más picantes ahora enrollados
 - Bolsa individual
 - Crujido más explosivo
+- Los Doritos más picantes ahora enrollados
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DVC1C8FT{{</world>}}

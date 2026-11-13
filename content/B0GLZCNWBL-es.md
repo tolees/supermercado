@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate Max White Blanquea y Protege Pasta de Dientes 4x75ml | Dientes 1 Tono Más Blancos en 1 Semana'
-date: 2026-11-11 18:50:34
+date: 2026-11-13 14:04:23
 image: 'https://m.media-amazon.com/images/I/51ez4hcMD5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GLZCNWBL/?tag=tolees-21'
 descuento: '27.78'
-average: '6.8800000000000106'
+average: '6.8806666666666771'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

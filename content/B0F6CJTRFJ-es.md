@@ -30,10 +30,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Sabor con historia: Criado en la histórica finca Real Sitio de Ventosilla, lugar emblemático por su calidad y tradición vinícola.
 - Autenticidad y tradición: Elaborado con métodos tradicionales en tinajas de barro centenarias, aportando un toque único a su perfil.
-- Variedades de uvas seleccionadas: Principalmente Tempranillo (97%), con un toque de Albillo Mayor y Merlot para un sabor redondo y graso.
-- Ideal para maridajes: Perfecto para acompañar embutidos, setas, pizzas y quesos suaves, destacando en cualquier ocasión
-- Apto para veganos: Sin componentes de origen animal, ideal para consumidores veganos que buscan un vino equilibrado y de calidad.
 - Notas de cata únicas: Frescas frutas rojas y negras con un postgusto especiado, que combinan moras, cerezas y un toque balsámico de vainilla.
+- Variedades de uvas seleccionadas: Principalmente Tempranillo (97%), con un toque de Albillo Mayor y Merlot para un sabor redondo y graso.
+- Apto para veganos: Sin componentes de origen animal, ideal para consumidores veganos que buscan un vino equilibrado y de calidad.
+- Ideal para maridajes: Perfecto para acompañar embutidos, setas, pizzas y quesos suaves, destacando en cualquier ocasión
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F6CJTRFJ{{</world>}}

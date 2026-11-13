@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nota de cata: En nariz es amplio y sugerente, con aromas cítricos. En boca es equilibrado y fresco, con notas afrutadas de piña.
-- Vino blanco D.O. Rueda
-- 🍇 Variedad: Sauvignon Blanc
 - Maridaje: pescados, mariscos y risottos
+- Nota de cata: En nariz es amplio y sugerente, con aromas cítricos. En boca es equilibrado y fresco, con notas afrutadas de piña.
+- 🍇 Variedad: Sauvignon Blanc
+- Vino blanco D.O. Rueda
 - Capacidad: 6 botellas de 750 ml
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

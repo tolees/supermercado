@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Óptima protección FPS 50+; test consumidor: 55 individuos
 - Resistente al agua; no deja marcas blancas
+- Óptima protección FPS 50+; test consumidor: 55 individuos
 - Textura fluida que se extiende fácilmente; 2x más concentración de ceramida
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

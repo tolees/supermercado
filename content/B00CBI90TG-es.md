@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Viene envasado en tubo de 30 ml
-- Hidrata hasta cinco capas de profundidad
 - Corrige manchas y difuminas pequeñas arruguitas mientas que alisa e ilumina la piel
+- Hidrata hasta cinco capas de profundidad
 - Adecuado para todo tipo de piel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

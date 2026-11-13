@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - De color amarillo pálido y muy brillante
-- Conservar en lugar fresco y seco
+- Se puede usar para cocinar diferentes platos
 - Combina bien con platos comunes de carne blanca
 - Con aroma joven, fresco y afrutado
-- Se puede usar para cocinar diferentes platos
+- Conservar en lugar fresco y seco
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00KQX1CN0{{</world>}}

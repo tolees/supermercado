@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ventresca de atún de textura suave y sabor delicado
-- Ideal para ensaladas, tapas o degustaciones
-- Edición limitada exclusiva de Luis Calvo
 - Escabeche ligero con vinagre natural y especias
+- Edición limitada exclusiva de Luis Calvo
+- Ideal para ensaladas, tapas o degustaciones
+- Ventresca de atún de textura suave y sabor delicado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FQPPN29P{{</world>}}

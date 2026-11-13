@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mahou 0 0 Rubia Cerveza Lager Dorada Sin Alcohol Pack 12 Latas x 33cl'
-date: 2026-10-07 05:41:44
+date: 2026-11-13 09:25:02
 image: 'https://m.media-amazon.com/images/I/41zfDF5vNWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GX2KM89Y/?tag=tolees-21'
 descuento: '34.16'
-average: '7.4'
+average: '7.2000000000000011'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

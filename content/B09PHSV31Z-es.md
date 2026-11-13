@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Antitranspirante, 0% Alcohol.
-- Aplicar sobre las axilas, una vez estén limpias y secas. Interrumpir el uso si aparecen irritaciones. Dejar secar antes de vestirse.
 - Babaria desodorante doble efecto: piel sedosa y retardador del vello.
 - Protege la sudoración eficazmente durante 48h.
 - Formulado con vitamina e y retardador del crecimiento del vello. 0% alochol
+- Antitranspirante, 0% Alcohol.
+- Aplicar sobre las axilas, una vez estén limpias y secas. Interrumpir el uso si aparecen irritaciones. Dejar secar antes de vestirse.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09PHSV31Z{{</world>}}

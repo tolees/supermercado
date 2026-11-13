@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- EXCELENTE PERFIL NUTRICIONAL: Rica de proteína, vitaminas B, Zinc, calcio, magnesio, hierro, cobre y baja en grasas.
 - INGREDIENTES: extracto de levadura nutricional en polvo 100%, extraído de Saccharomyces cerevisiae.
 - USOS: Puedes usarla en batidos de proteína, en postres, espolvoreados sobre yogur, ensaladas, para preparar quesos veganos...
 - ALTO % PROTEÍNA: Contiene 82% de proteína vegetal (uno de los alimentos más proteicos).
-- EXCELENTE PERFIL NUTRICIONAL: Rica de proteína, vitaminas B, Zinc, calcio, magnesio, hierro, cobre y baja en grasas.
 - PROTEÍNA VEGANA SIN SABOR: Apta para ganancia y mantenimiento de la masa muscular.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

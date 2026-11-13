@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Con un delicioso sabor y textura cremosa
 - Lácteo infantil con fresa adaptado para bebés a partir de los 8 meses
-- Sin aceite de palma; sin colorantes, ni conservantes, de acuerdo con la legislación vigente
 - Es fuente natural de Calcio, que contribuye al crecimiento y desarrollo normal de los huesos de los bebés
+- Sin aceite de palma; sin colorantes, ni conservantes, de acuerdo con la legislación vigente
 - No necesita frío; Puede guardarse y consumirse a temperatura ambiente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

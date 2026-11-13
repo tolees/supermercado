@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sanicat - Arena para gatos Aglomerate con aroma a jabón de Marsella| Con control de olor garantizado | Absorbe la humedad y facilita la limpieza de la bandeja | 10 L de capacidad'
-date: 2026-11-11 18:25:25
+date: 2026-11-13 16:55:47
 image: 'https://m.media-amazon.com/images/I/41uUSAFMkwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EOONP3M/?tag=tolees-21'
 descuento: '13.35'
-average: '6.5214285714285758'
+average: '6.5790909090909127'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

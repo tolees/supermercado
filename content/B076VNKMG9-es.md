@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Entrepierna: 26,7 cm
-- Bolsillos laterales cargo y bolsillo para el móvil
 - Tejido de lino elástico
+- Bolsillos laterales cargo y bolsillo para el móvil
 - Corte holgado. Rodilleras
 - Con una cintura elástica que se mueve contigo
 

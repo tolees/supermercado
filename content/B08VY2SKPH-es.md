@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sin conservantes
-- Con aromas delicados para piel íntima sensible
 - Sensación de frescor y limpieza sin agua.
+- Con aromas delicados para piel íntima sensible
+- Sin conservantes
 - Frescor al instante en cualquier momento
 
 [🛒 Visítala!!!]({{< param buyurl >}})

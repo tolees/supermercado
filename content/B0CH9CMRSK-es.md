@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- FÓRMULA ENERGIZANTE: Con extracto de algodón, pantenol y provitamina B5 para un cabello profundamente cuidado.
 - MASCARILLA CAPILAR: Mascarilla voluminizadora que aporta cuerpo y mejora la manejabilidad del cabello.
 - CUIDADO CAPILAR: Mascarilla capilar ligera con grandes resultados. El regalo perfecto para el cuidado del cabello.
 - POLÍMEROS ELÁSTICOS: Rodean las fibras capilares para estabilizar y dar volumen durante el secado con secador.
+- FÓRMULA ENERGIZANTE: Con extracto de algodón, pantenol y provitamina B5 para un cabello profundamente cuidado.
 - APORTA VOLUMEN: Para un cabello con más cuerpo, brillo y ligereza.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

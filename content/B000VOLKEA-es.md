@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CALVIN KLEIN IN2U Eau de Toilette para hombres | Fragancia masculina cítrica con notas amaderadas orientales y gin de lima | Larga duración | 100 ml'
-date: 2026-11-11 23:20:06
+date: 2026-11-13 08:04:38
 image: 'https://m.media-amazon.com/images/I/21nnU-Tx35L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B000VOLKEA/?tag=tolees-21'
 descuento: '0.00'
-average: '17.533729729729465'
+average: '17.554759358288507'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

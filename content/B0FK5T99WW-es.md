@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Resultado: Cobertura ligera y duradera, Para un look natural con cobertura total, Para retocar sobre la marcha
-- Aplicación: Aplicar la base de maquillaje líquida sobre el rostro con la esponja de maquillaje incluida y extender con toquecitos
 - Contenido: 1x LOréal Paris feat. Mugler Base de Maquillaje Cushion Illusion, Tono: 7, 23 ml
+- Aplicación: Aplicar la base de maquillaje líquida sobre el rostro con la esponja de maquillaje incluida y extender con toquecitos
 - LOréal Paris feat. Mugler Base de Maquillaje Cushion Illusion para una cobertura impecable hasta 24H* (*Test instrumental), Con esponja de maquillaje integrada
 - Fórmula transpirable con sensación de ligereza para una comodidad óptima, Hasta 24H de fijación* (*Test instrumental)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenor Aire Fresco Suavizante para Ropa Flores Tropical Pack de 8x700ml'
-date: 2026-11-11 17:34:32
+date: 2026-11-13 19:24:06
 image: 'https://m.media-amazon.com/images/I/51uh5r3ZoWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FDQRPQHF/?tag=tolees-21'
 descuento: '48.73'
-average: '20.656666666666624'
+average: '20.589999999999961'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

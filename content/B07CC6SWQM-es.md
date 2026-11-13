@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Foxy Seda | Papel higiénico 30 rollos | 173 servicios por cada rollo | Neutro para la piel | Certificación FSC | 100% Energía eléctrica renovable | Paquete reciclable producido con plástico reciclado'
-date: 2026-11-12 10:37:31
+date: 2026-11-13 14:13:00
 image: 'https://m.media-amazon.com/images/I/41OzQ1iuuiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CC6SWQM/?tag=tolees-21'
 descuento: '39.83'
-average: '15.463013698630292'
+average: '15.427733333333485'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

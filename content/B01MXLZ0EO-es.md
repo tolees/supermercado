@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Don Simón Caldo de Pollo 1L'
-date: 2026-11-09 09:34:01
+date: 2026-11-13 20:41:56
 image: 'https://m.media-amazon.com/images/I/41EWXUBRspL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

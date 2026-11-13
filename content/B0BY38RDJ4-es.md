@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - CALIDAD: Todos nuestros preparados están hechos con ingredientes naturales, sin conservantes ni aditivos.
 - RÁPIDO: Con este pack, podrás disfrutar de un auténtico arroz al horno para 2 personas en tan solo 25 minutos.
 - ARTESANAL: Somos los únicos en cocinar todos nuestros productos a leña, aportando un aroma y sabor inconfundibles que diferencian nuestras paellas y arroces.
-- SOSTENIBLE: Nuestros packs de paella están diseñados para ser 100% reciclables. Te recomendamos darles una segunda vida usándolos como salvamanteles donde apoyar la cazuela de barro.
 - CONTENIDO: El pack incluye una lata con caldo cocinado a leña y los ingredientes necesarios, incluyendo patata, costilla de cerdo, garbanzos, tomate y morcilla, para poder cocinar en casa un auténtico arroz al horno.
+- SOSTENIBLE: Nuestros packs de paella están diseñados para ser 100% reciclables. Te recomendamos darles una segunda vida usándolos como salvamanteles donde apoyar la cazuela de barro.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BY38RDJ4{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tomar conciencia de la importancia de una buena higiene bucal des de bien pequeño
 - Para una limpieza delicada de los primerosdientes. Con anillo protector
+- Tomar conciencia de la importancia de una buena higiene bucal des de bien pequeño
 - Dentales Starter
 
 [🛒 Visítala!!!]({{< param buyurl >}})

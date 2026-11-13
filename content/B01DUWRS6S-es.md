@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Adecuado para compartir con amigos y familiares
-- Sin sal añadida para un sabor natural
 - Conservar en lugar fresco y seco
+- Sin sal añadida para un sabor natural
 - Producto que no contiene gluten
 - La textura es crujiente y tostada
 

@@ -28,16 +28,16 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Líquido antipinchazos.
 - Bayeta, cepillo y cesta porta productos.
-- Cera para cadena.
+- Desengrasante.
+- Lubricante para cadena húmedo.
+- Líquido antipinchazos.
 - Abrillantador.
-- Limpiador de bicicleta.
 - Limpiador de frenos de disco.
 - Limpiador de bicicleta en seco.
 - Kit de limpieza de bicicletas y mantenimiento completo..
-- Lubricante para cadena húmedo.
-- Desengrasante.
+- Cera para cadena.
+- Limpiador de bicicleta.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CLY95PY7{{</world>}}

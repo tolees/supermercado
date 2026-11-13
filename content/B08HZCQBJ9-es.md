@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Fritos en aceite de oliva y acompañados de una salsa escabeche exquisita ideal para el aperitivo más gourmet
-- Elaborados de forma artesanal, cuidadosa limpieza manual uno a uno y colocados en la lata
 - Garantía Cuca desde 1932
+- Elaborados de forma artesanal, cuidadosa limpieza manual uno a uno y colocados en la lata
 - Ingredientes: Mejillones, aceite de oliva (27%), vinagre, especias y aroma natural del pimentón.
+- Fritos en aceite de oliva y acompañados de una salsa escabeche exquisita ideal para el aperitivo más gourmet
 - Mejillones recogidos en las mejores bateas de las rías gallegas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

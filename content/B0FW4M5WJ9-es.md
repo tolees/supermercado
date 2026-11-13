@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- DETALLES: solapa de dos botones, cuello y puños acanalados, aberturas laterales y costuras de hombro reforzadas
 - POLO CLÁSICO: diseño versátil apto para entornos informales y semiformales
 - CORTE ESTÁNDAR: corte ajustado en los hombros, el pecho y la cintura
-- DETALLES: solapa de dos botones, cuello y puños acanalados, aberturas laterales y costuras de hombro reforzadas
 - PIQUÉ DE ALGODÓN: el piqué de algodón 100% ofrece textura y transpirabilidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})

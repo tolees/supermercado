@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L Oréal Paris Elvive Aceite Extraordinario Sérum Nutritivo Multiusos 100ml | Sérum Enriquecido Con Aceites de Camellia y Marula para Pelo Seco Aporta Brillo Hidratación Profunda Nutre sin Apelmazar'
-date: 2026-11-12 19:50:34
+date: 2026-11-13 20:06:15
 image: 'https://m.media-amazon.com/images/I/31hC4Yq8FcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00X9WCH9S/?tag=tolees-21'
 descuento: '35.23'
-average: '6.4554901960784052'
+average: '6.4564285714285452'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

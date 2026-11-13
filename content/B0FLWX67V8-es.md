@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Aussie 3 Minute Miracle Acondicionador Reconstructor Pelo Dañado 250ml | Tratamiento Profundo para Revitalizar el Cabello Seco con Aceite de Macadamia Vegano y Cruelty-Free'
-date: 2026-11-09 16:25:13
+date: 2026-11-13 14:24:17
 image: 'https://m.media-amazon.com/images/I/314KGyS2nOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

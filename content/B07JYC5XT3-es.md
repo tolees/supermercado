@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CHUPA CHUPS Caramelo con Palo Sabores Variados Pack Ahorro 120 Piruletas'
-date: 2026-11-12 12:06:09
+date: 2026-11-13 18:51:44
 image: 'https://m.media-amazon.com/images/I/41Uo33vafkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JYC5XT3/?tag=tolees-21'
 descuento: '42.61'
-average: '15.428421052631386'
+average: '15.316999999999817'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

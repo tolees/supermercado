@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuidarse y sentirse bien nunca había sido tan fácil.
 - COLORSILK tinte #11-negro suave
+- Cuidarse y sentirse bien nunca había sido tan fácil.
 - Los mejores productos de higiene para tu día a día.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

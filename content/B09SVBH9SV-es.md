@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Apariencia: Cerveza dorada, brillante y con una espuma cremosa y consistente
-- Inspiración Alhambra: Inspirada en recetas clásicas alemanas, esta cerveza ofrece matices únicos gracias a su proceso de fermentación lenta
-- Aroma: La fragancia aromática tiene un perfil seco con suaves notas afrutadas y un reflejo a levadura; los aromas de lúpulo son leves aunque florales y se intensifican al tragar
 - Sabor: Balance óptimo entre amargor suave pero con sensación de cuerpo y muy equilibrada; la persistencia es fina, ligeramente dulce con acabado seco, que la hace refrescante
+- Inspiración Alhambra: Inspirada en recetas clásicas alemanas, esta cerveza ofrece matices únicos gracias a su proceso de fermentación lenta
+- Apariencia: Cerveza dorada, brillante y con una espuma cremosa y consistente
+- Aroma: La fragancia aromática tiene un perfil seco con suaves notas afrutadas y un reflejo a levadura; los aromas de lúpulo son leves aunque florales y se intensifican al tragar
 - Pack de 24 botellas de 20 cl de cerveza Alhambra lager especial, lupulación y sabor equilibrados
 
 [🛒 Comprar!!!]({{< param buyurl >}})

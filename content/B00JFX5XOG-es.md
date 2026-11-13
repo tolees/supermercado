@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- De Ruijter Streusel no sólo son perfectos como revestimiento de pan
 - Desde 1860, la empresa holandesa produce deliciosas gotas de chocolate y azúcar
+- De Ruijter Streusel no sólo son perfectos como revestimiento de pan
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00JFX5XOG{{</world>}}

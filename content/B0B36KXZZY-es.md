@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Reduce la apariencia de arrugas e ilumina la piel
 - Óptima hidratación para un acabado suave y visiblemente radiante
-- Corrector que disimula y cuida la piel
+- Reduce la apariencia de arrugas e ilumina la piel
 - Disponible en 5 tonos diferentes
+- Corrector que disimula y cuida la piel
 - Fórmula con péptidos, Vitamina C y ácido hialurónico para un cuidado espectacular
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

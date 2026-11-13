@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Protege de la sudoración y el olor
 - Tiene un aroma bien equilibrado de los cítricos y la energía de salvia y la albahaca
+- La siguiente información se aplica a cada unidad del paquete
 - Protección para 48 horas
 - Antitranspirante en aerosol Rexona Men
-- Protege de la sudoración y el olor
-- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0GSYGYT8X{{</world>}}

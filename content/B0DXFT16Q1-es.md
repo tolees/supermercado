@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Aperitivo sin gluten con ingredientes botánicos superiores, como artemesia y la bergamota italiana
-- Una botella de 75 cl de MARTINI Vibrante Aperitivo Sin Alcohol
-- Acompáñalo con pequeños platos y aperitivos salados ligeros para realzar el momento
-- Mejor servido en cócteles sin alcohol como un delicioso spritz
 - El vino desalcoholizado se utiliza como base, conservando sus auténticas características
+- Una botella de 75 cl de MARTINI Vibrante Aperitivo Sin Alcohol
+- Mejor servido en cócteles sin alcohol como un delicioso spritz
+- Acompáñalo con pequeños platos y aperitivos salados ligeros para realzar el momento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DXFT16Q1{{</world>}}

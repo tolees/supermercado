@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El producto representa una crema de fijación
 - La marca del producto es American Crew
+- El producto representa una crema de fijación
 - Ofrece un nivel de brillo suave
 - Tiene una cantidad de 100 ml
 

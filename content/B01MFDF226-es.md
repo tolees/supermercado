@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Alimento 100% completo y equilibrado
 - Elaborado con ingredientes de alta calidad
 - Una experiencia culinaria única
-- Alimento 100% completo y equilibrado
 - Gourmet es una importante fuente de hidratación para tu gato. Además, le estarás dando una alimentación variada en sabores y texturas para su disfrute!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

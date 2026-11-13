@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Prueba a preparar la tortilla de patatas con Lays cebolla, para una receta rápida y sencilla
+- Lays cebolla son las patatas optimas para disfrutar en cualquier momento en familia
+- Aperitivo de patatas fritas
 - Las patatas crujientes de siempre ahora con sabor a cebolla
 - Formato de 150 gramos, optimo tanto para compartir como para comer de manera individual
-- Aperitivo de patatas fritas
-- Lays cebolla son las patatas optimas para disfrutar en cualquier momento en familia
+- Prueba a preparar la tortilla de patatas con Lays cebolla, para una receta rápida y sencilla
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F1N365FN{{</world>}}

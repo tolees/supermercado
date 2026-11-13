@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Un aperitivo divertido para personas de todas las edades
-- Sin gluten
 - La siguiente información se aplica a cada unidad del paquete
-- Deliciosas y esponjosas nubes
+- Un aperitivo divertido para personas de todas las edades
 - Espumas dulces
+- Sin gluten
 - Irresistible mix de sabores
+- Deliciosas y esponjosas nubes
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DP4YYKMZ{{</world>}}

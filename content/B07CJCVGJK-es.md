@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Pack con 24 botellas x 0.5 l
-- De pureza de las cumbres de Sierra Nevada, desde hace 200 años
 - Agua mineral natural de mineralización débil
+- De pureza de las cumbres de Sierra Nevada, desde hace 200 años
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07CJCVGJK{{</world>}}

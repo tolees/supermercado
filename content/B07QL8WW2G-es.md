@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rexona Invisible Desodorante Aerosol Antitranspirante para hombre Ice 200ml - Pack de 6 El embalaje puede variar'
-date: 2026-11-12 07:45:32
+date: 2026-11-13 14:21:43
 image: 'https://m.media-amazon.com/images/I/41HF+viwcbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QL8WW2G/?tag=tolees-21'
 descuento: '40.41'
-average: '12.656369426751443'
+average: '12.631635220125638'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

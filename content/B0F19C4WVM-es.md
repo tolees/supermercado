@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- En un formato lata multiusos con diseño vintage. La lata contiene una bolsa de 1,5kg de Nesquik
-- Con vitamina D, un nutriente esencial que ayuda al sistema inmunológico y aumenta la absorción de calcio, para unos huesos sanos y fuertes
-- Cacao natural obtenido de forma sostenible, certificado por Rainforest Alliance
 - Disfruta con el delicioso sabor a chocolate NESQUIK Instantáneo
+- Cacao natural obtenido de forma sostenible, certificado por Rainforest Alliance
+- Con vitamina D, un nutriente esencial que ayuda al sistema inmunológico y aumenta la absorción de calcio, para unos huesos sanos y fuertes
+- En un formato lata multiusos con diseño vintage. La lata contiene una bolsa de 1,5kg de Nesquik
 - Pensamos en los consumidores celíacos, por eso apostamos por un producto sin gluten
 
 [🛒 Comprar!!!]({{< param buyurl >}})

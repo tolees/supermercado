@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Finish Quantum Infinity Shine Pastillas para lavavajillas - 166 cápsulas | Pastillas eficaces contra la grasa incrustada ofrecen disolución rápida. Detergente para lavavajillas Finish'
-date: 2026-11-11 14:24:31
+date: 2026-11-13 11:06:05
 image: 'https://m.media-amazon.com/images/I/51Kq8iDs8eL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09PYP9L4T/?tag=tolees-21'
 descuento: '37.85'
-average: '25.101111111111099'
+average: '24.88999999999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

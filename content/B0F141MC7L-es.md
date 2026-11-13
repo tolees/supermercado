@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Llena tu bañera con una fragancia suave y relajante
 - La siguiente información se aplica a cada unidad del paquete
+- Llena tu bañera con una fragancia suave y relajante
 - La fórmula del gel de baño Dove con ¼ de crema hidratante ayuda a cuidar tu piel
 - Una gel de baño que te brinda una piel suave, tersa y limpia
 

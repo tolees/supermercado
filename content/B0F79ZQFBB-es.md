@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Bebida refrescante con cero azúcares y cero calorías
-- Sabor ácido, muy refrescante y con la genuina burbuja Schweppes. Un refresco lleno de matices con un sabor equilibrado
 - El refresco de limón Schweppes contiene 100% de aromas naturales
-- Ideal para consumirla sola o mezclada con alcohol con mucho hielo y una rodaja de limón. Perfecta para cualquier momento del día. En tu aperitivo en el bar, con los amigos después del trabajo y con tu copa los fines de semana
 - Refresco cítrico con un sabor intenso a limón y muy refrescante
+- Sabor ácido, muy refrescante y con la genuina burbuja Schweppes. Un refresco lleno de matices con un sabor equilibrado
+- Ideal para consumirla sola o mezclada con alcohol con mucho hielo y una rodaja de limón. Perfecta para cualquier momento del día. En tu aperitivo en el bar, con los amigos después del trabajo y con tu copa los fines de semana
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F79ZQFBB{{</world>}}

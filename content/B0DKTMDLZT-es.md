@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Producto que combina tradición e innovación
-- La siguiente información se aplica a cada unidad del paquete
 - Diseño elegante
 - Producto de calidad óptima
+- Producto que combina tradición e innovación
+- La siguiente información se aplica a cada unidad del paquete
 - Hecho de material de calidad
 - Producto útil y práctico
 

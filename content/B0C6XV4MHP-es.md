@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¡No necesita frío! Puede guardarse y consumirse a temperatura ambiente.
 - Sin colorantes ni conservantes, según la legislación vigente. Sin aceite de palma.
 - Con un delicioso sabor y textura cremosa.
+- ¡No necesita frío! Puede guardarse y consumirse a temperatura ambiente.
 - Lácteo infantil con cacao adaptado para bebés a partir de los 8 meses.
 - Es fuente natural de Calcio, que contribuye al crecimiento y desarrollo normal de los huesos de los bebés.
 

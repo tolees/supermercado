@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Cepillo de aplicación redondeado para una aplicación precisa
 - Dispone de una paleta de colores variada
-- Con tonos clásicos y en tendencia
 - Fórmula de gel de larga duración
+- Con tonos clásicos y en tendencia
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00E39Z5SG{{</world>}}

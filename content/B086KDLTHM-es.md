@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Listerine Mentol Enjuague Bucal Sin Alcohol Menta Suave Pack de 2 x 1 L | Colutorio sin alcohol Para un aliento fresco duradero Protección completa para tu salud oral diaria Para uso diario'
-date: 2026-11-11 18:52:13
+date: 2026-11-13 11:21:47
 image: 'https://m.media-amazon.com/images/I/519J2J9b3CL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B086KDLTHM/?tag=tolees-21'
 descuento: '41.62'
-average: '10.373719806763001'
+average: '10.350430622009288'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

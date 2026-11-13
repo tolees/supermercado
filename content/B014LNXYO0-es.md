@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Acabado ultra mate; efecto "empolvado"
-- Sin necesidad de imprimación en la mayoría de las superficies
 - Pintura base agua sin olor
 - Gran poder cubriente en una sola capa
+- Sin necesidad de imprimación en la mayoría de las superficies
+- Acabado ultra mate; efecto "empolvado"
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B014LNXYO0{{</world>}}

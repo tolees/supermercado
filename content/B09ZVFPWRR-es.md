@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Moussel Gel de Ducha Revitalizante con Lima y Menta 650 ml'
-date: 2026-11-11 13:31:15
+date: 2026-11-13 15:51:40
 image: 'https://m.media-amazon.com/images/I/41Hva3P7PVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09ZVFPWRR/?tag=tolees-21'
 descuento: '44.41'
-average: '6.1795833333333361'
+average: '5.8650000000000029'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

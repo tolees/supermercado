@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin aditivos, ni conservantes y sin gluten
 - El tomate Solís está elaborado con tomates de cultivo local
 - Producto de calidad
+- Sin aditivos, ni conservantes y sin gluten
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CYHD9VTK{{</world>}}

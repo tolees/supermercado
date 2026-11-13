@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate Max White Purple Reveal Pasta de Dientes 4x75ml | Corrige Tonos Amarillos al Instante'
-date: 2026-11-11 17:49:52
+date: 2026-11-13 21:27:15
 image: 'https://m.media-amazon.com/images/I/51QPKucQ5FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BNPLSDWN/?tag=tolees-21'
 descuento: '40.09'
-average: '9.6811428571428255'
+average: '9.6247222222221911'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

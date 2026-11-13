@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VAHDAM Matcha Vainilla En Polvo | 100g Matcha Uji Y Vainilla | Té verde matcha japonés de Uji con vainilla de Madagascar ideal para matcha latte batidos y repostería'
-date: 2026-11-12 11:51:44
+date: 2026-11-13 15:44:16
 image: 'https://m.media-amazon.com/images/I/51FNDYeo22L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0H5BZLZQZ/?tag=tolees-21'
 descuento: '35.04'
-average: '8.24'
+average: '7.6566666666666672'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

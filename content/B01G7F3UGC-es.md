@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Red Bull Bebida Energética Regular - 24 latas de 250 ml - Total 6000 ml | contiene cafeína taurina vitaminas B azúcar y agua 250 ml pack de 24 latas'
-date: 2026-11-12 08:30:46
+date: 2026-11-13 12:14:52
 image: 'https://m.media-amazon.com/images/I/51fwfakT0rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01G7F3UGC/?tag=tolees-21'
 descuento: '20.03'
-average: '25.335000000000168'
+average: '25.312950819672295'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

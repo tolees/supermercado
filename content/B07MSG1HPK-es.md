@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aplicar tantas veces como sea necesario.
 - Bálsamo reparador que calma, protege y reconstruye los labios agrietados e irritados. Su fórmula filmogénica, reconfortante y protectora contiene pantenol, MP-lípidos y activos relipidizantes.
+- Aplicar tantas veces como sea necesario.
 - Calma, protege y reconstruye la piel de los labios agrietados e irritados, con efecto barrera.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

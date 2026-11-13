@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sin azúcares
+- Ingredientes naturales y ecológicos
 - Rico en omega 3
 - Apto para celiacos
 - Apto para veganos
-- Ingredientes naturales y ecológicos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01FHNEBSQ{{</world>}}

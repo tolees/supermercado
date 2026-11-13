@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Enriquecidas con vitaminas y minerales, una opción más saludable
-- Alérgenos: huevos, leche, harina de trigo, soja
 - Cómodo formato en bolsa de 250 g para disfrutar de su dulce e irresistible sabor
+- Alérgenos: huevos, leche, harina de trigo, soja
 - Conservar en lugar fresco y seco
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

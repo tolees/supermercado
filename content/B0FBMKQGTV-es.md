@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Apto para ojos sensibles, para lentes de contacto y con fórmula vegana.
 - Larga duración: hasta 24 h, waterproof y a prueba de borrones.
-- Delineador en gel multicromo con destellos y acabado prismático.
-- Aplicación fácil, mina afilable y suave deslizamiento.
 - Disponible en 5 tonos que cambian según la luz.
+- Aplicación fácil, mina afilable y suave deslizamiento.
+- Delineador en gel multicromo con destellos y acabado prismático.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FBMKQGTV{{</world>}}

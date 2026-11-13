@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Marca: Garnier
 - Hidrata y broncea la piel de manera natural
 - La bruma autobronceadora proporciona una capa ultra fina para una cobertura optima y uniforme
+- Marca: Garnier
 - Enriquecida con aceite albaricoque nutritivo, te aporta en 1H un bronceado dorado y uniforme sin marcas que dura hasta una semana
 
 [🛒 Aquí!!!]({{< param buyurl >}})

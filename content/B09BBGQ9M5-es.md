@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- BENEFICIOS: Ayuda a disminuir rápidamente el enrojecimiento y volumen del grano, promueve su desaparición y alisa visiblemente la piel
-- QUÉ ES: Acniben On The Spot es un gel de secado rápido para granos localizados en pieles con tendencia acnéica; es invisible debajo del maquillaje
-- CONSEJO EXPERTO: Aplicar directamente sobre el grano una o varias veces al día hasta su completa desaparición; uso sencillo y rápido
 - INGREDIENTES: Fórmula con ácido salicílico, niacinamida, ácido mandélico y prebióticos
 - TE PUEDE INTERESAR: No comedogénico y oil free; transparente
+- QUÉ ES: Acniben On The Spot es un gel de secado rápido para granos localizados en pieles con tendencia acnéica; es invisible debajo del maquillaje
+- CONSEJO EXPERTO: Aplicar directamente sobre el grano una o varias veces al día hasta su completa desaparición; uso sencillo y rápido
+- BENEFICIOS: Ayuda a disminuir rápidamente el enrojecimiento y volumen del grano, promueve su desaparición y alisa visiblemente la piel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09BBGQ9M5{{</world>}}

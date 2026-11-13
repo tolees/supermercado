@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nicky Limón 2 Rollos de Papel de Cocina 2 Capas | 100 Hojas por Rollo Papel Extra Absorbente Perfumado al Limón Certificación FSC'
-date: 2026-11-12 08:22:03
+date: 2026-11-13 20:02:43
 image: 'https://m.media-amazon.com/images/I/41eCdFL2qTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XA18GVG/?tag=tolees-21'
 descuento: '37.12'
-average: '2.7187394957983186'
+average: '2.7048760330578507'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

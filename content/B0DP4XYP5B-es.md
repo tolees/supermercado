@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - La siguiente información se aplica a cada unidad del paquete
-- Con cereales integrales
 - Sin colorantes ni aromas artificiales
+- Con cereales integrales
 - Avena tostada en crujientes granolas con fruta deshidratada y frutos secos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

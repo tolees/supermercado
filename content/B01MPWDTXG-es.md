@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sabor a pollo, hígado y pavo
 - Ayuda a tu gato a vivir saludable y feliz
+- Sabor a pollo, hígado y pavo
 - Elaborado con ingredientes de calidad
 - Alimento complementario
 - Una colorida mezcla de jugosos snacks

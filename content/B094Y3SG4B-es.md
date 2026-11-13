@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ERITRITOL ECOLÓGICO > Eritritol (E-968) con certificado ecológico, sin aditivos ni colorantes.
-- DIETAS E INTOLERANCIAS > edulcorante Eritritol apto para veganos, celíacos o intolerantes al gluten
 - EDULCORANTE ACALÓRICO > edulcorante natural bajo en calorías (apenas 0,24 calorías por gramo).
-- 100% ERITRITOL > contiene solo Eritritol en polvo fino granulado cristalino de color blanco.
+- DIETAS E INTOLERANCIAS > edulcorante Eritritol apto para veganos, celíacos o intolerantes al gluten
+- ERITRITOL ECOLÓGICO > Eritritol (E-968) con certificado ecológico, sin aditivos ni colorantes.
 - MULTIUSOS > edulcorante para repostería (panificados y bollería) y para bebidas e infusiones.
+- 100% ERITRITOL > contiene solo Eritritol en polvo fino granulado cristalino de color blanco.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B094Y3SG4B{{</world>}}

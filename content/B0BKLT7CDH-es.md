@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Este pack incluye los siguientes productos
 - Axe Desodorante Bodyspray Dark Temptation 200ml
 - Productos para la higiene y cuidado personal del hombre
-- Este pack incluye los siguientes productos
 - Axe Gel de Ducha Dark Temptation 250ml
 - Neceser; prueba toda la gama de productos masculinos Axe
 

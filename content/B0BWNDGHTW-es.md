@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 44Kcal por Tortita
 - Cada caja contiene 8 packs
 - Cada pack contiene aproximadamente 13 tortitas
+- 44Kcal por Tortita
 - Tortitas de maíz sabor queso (8unidades)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- - Preparado con ingredientes de calidad
-- - sin colorantes, conservantes y sin aromas artificiales añadidos
-- - Sopa en bolsa
 - - FELIX Sopa Suculenta para gatos adultos
-- - Alimento complementario para gatos adultos
-- - en el Pescado
+- - Preparado con ingredientes de calidad
+- - Sopa en bolsa
 - Ver más detalles
+- - Alimento complementario para gatos adultos
+- - sin colorantes, conservantes y sin aromas artificiales añadidos
+- - en el Pescado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C3MLHHS2{{</world>}}

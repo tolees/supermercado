@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - DESCUBRE LA RUTINA GREEN TEA Para completar la experiencia Green Tea, combina el gel de ducha y la crema corporal de la línea Té Verde
-- FORMULADA CON TÉ VERDE La fórmula de la Crema Desodorante al Té Verde de Elizabeth Arden ha sido creada como una experiencia de autoindulgencia definitiva, infusionada con té verde
-- MODO DE USO Utiliza el desodorante diariamente después de la ducha
 - La siguiente información se aplica a cada unidad del paquete
 - ESENCIAL EN LA VIDA COTIDIANA Tu aliado de belleza diario. Para una sensación de limpieza y frescura
+- MODO DE USO Utiliza el desodorante diariamente después de la ducha
 - DESODORANTE GREEN TEA Descubre todo el placer de la fragancia Green Tea de Elizabeth Arden en un desodorante en crema
+- FORMULADA CON TÉ VERDE La fórmula de la Crema Desodorante al Té Verde de Elizabeth Arden ha sido creada como una experiencia de autoindulgencia definitiva, infusionada con té verde
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CGLVJP36{{</world>}}

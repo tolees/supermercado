@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gel de ducha 3 en 1
 - adidas Dynamic Pulse Gel de ducha con aroma a madera fresca que contiene aceite esencial natural de romero y limón
+- Gel de ducha 3 en 1
 - Para el cuidado diario
 
 [🛒 Aquí!!!]({{< param buyurl >}})

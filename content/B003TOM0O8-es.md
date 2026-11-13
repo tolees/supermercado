@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Snacks que mejoran la limpieza dental de tu mascota
 - Consistencia dura, para mejorar la higiene oral de los perros
 - Reducen la placa dental y el tártaro
-- Snacks que mejoran la limpieza dental de tu mascota
 - sabroso y sano
 
 [🛒 Aquí!!!]({{< param buyurl >}})

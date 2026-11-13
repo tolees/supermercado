@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Capacidad: 70 cl
 - Ron 12 años, color caoba con reflejos dorados, de densa lágrima y rico en aromas
+- Capacidad: 70 cl
 - Graduación: 40º
 
 [🛒 Visítala!!!]({{< param buyurl >}})

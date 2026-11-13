@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño transpirable
 - Ajuste atlético
+- Diseño transpirable
 - Tejido de alto rendimiento
 
 [🛒 Aquí!!!]({{< param buyurl >}})

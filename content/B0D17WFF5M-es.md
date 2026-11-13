@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Solo ingredientes naturales de proximidad y sostenibles.
 - Sin Gluten, sin harina de carne, sin colorantes ni sabores artificiales.
 - 75% de Carne y pescados Frescos. 25% de verduras, frutas y hierbas medicinales. Alimento completo para todo tipo de perros adultos. Altisima apetencia. Los perros siempre eligen Fresh frente a otros alimentos.
-- Alta digestibilidad. Menos cantidad de heces.
+- Solo ingredientes naturales de proximidad y sostenibles.
 - Cocinado al vapor. Prensado en frío. No extrusionado.
+- Alta digestibilidad. Menos cantidad de heces.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D17WFF5M{{</world>}}

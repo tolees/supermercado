@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Especialmente formulado para limpiar tu barba dejándola suave, fresca, nutrida y acondicionada
+- Limpia, suaviza y desenreda el vello facial e hidrata la piel debajo de este
+- Fórmula Original con Aloe Vera, aceite de Camelia y Té Verde
 - Todos nuestros productos están certificados por Cruelty Free International y son ideales para vegetarianos y veganos
 - Champú y Acondicionador para Barba 2 en 1
-- Especialmente formulado para limpiar tu barba dejándola suave, fresca, nutrida y acondicionada
-- Fórmula Original con Aloe Vera, aceite de Camelia y Té Verde
-- Limpia, suaviza y desenreda el vello facial e hidrata la piel debajo de este
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07BHZ21GY{{</world>}}

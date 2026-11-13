@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tejido de secado rápido
 - Diseño elegante
+- Tejido de secado rápido
 - Diseño funcional
 
 [🛒 Aquí!!!]({{< param buyurl >}})

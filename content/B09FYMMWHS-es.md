@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nylon Cordura de 500 deniers
 - Hebilla de apertura lateral
+- Nylon Cordura de 500 deniers
 - Cordura 100% nailon
 - TOTALMENTE AJUSTABLE CON AJUSTADORES DE CORREA
 

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Merci Finest Selection Gran variedad Black&white es el disfrute del chocolate en 4 exquisitas especialidades
+- Su surtido de 4 Especialidades de chocolate; crema de almendras, cookies & cream, mousse de chocolate, almendra crujiente
 - Porque agradecer simplemente te hace feliz: con merci puedes expresar aún más aprecio
 - Los deliciosos bombones son optimos para el consumo propio o como regalo y son la forma adecuada de simplemente decir gracias a tus seres queridos, amigos o colegas
-- Su surtido de 4 Especialidades de chocolate; crema de almendras, cookies & cream, mousse de chocolate, almendra crujiente
 - Seleccionado con mimo pieza a pieza, con chocolate de calidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

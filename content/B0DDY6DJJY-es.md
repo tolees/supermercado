@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Envasado en Italia
-- Conservar en un lugar fresco y seco
 - Bebida de soja UHT con azúcar, calcio, riboflavina, vitamina B12 y vitamina D añadidos
+- Envasado en Italia
 - Apto para dietas vegetarianas y veganas
+- Conservar en un lugar fresco y seco
 - Este envase contiene 26 porciones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

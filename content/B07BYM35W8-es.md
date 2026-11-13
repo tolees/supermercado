@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El producto es para el cuidado del pelo y del cuero cabelludo
-- Marca: Garnier Fructis
 - Volumen del producto: 400 ml
+- Marca: Garnier Fructis
+- El producto es para el cuidado del pelo y del cuero cabelludo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07BYM35W8{{</world>}}

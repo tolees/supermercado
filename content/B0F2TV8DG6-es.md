@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Envasado en España.
 - Una infusión de manzanilla suave elaborada a partir de Matricaria recutita que aporta un sabor agradable y delicado.
-- Conservar en un lugar fresco y seco. Una vez abierto, conservar en un recipiente hermético. Consumir preferentemente antes del: ver parte superior del envase.
 - Bolsitas de doble cámara.
 - Naturalmente sin cafeína.
+- Conservar en un lugar fresco y seco. Una vez abierto, conservar en un recipiente hermético. Consumir preferentemente antes del: ver parte superior del envase.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F2TV8DG6{{</world>}}

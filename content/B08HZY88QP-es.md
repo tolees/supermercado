@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- A prueba de arrugas y a prueba de manchas
-- Los pigmentos sublimemente saturados que dan como resultado un color intenso dan resultados
-- Fórmula sensorial de polvo a crema que se mezcla fácilmente con solo la punta del dedo
 - Tonos complementario y diferentes combinaciones de acabados en una paleta para crear looks interminables de día a noche
+- A prueba de arrugas y a prueba de manchas
 - Colores intensos que se mantienen divinamente suaves
+- Fórmula sensorial de polvo a crema que se mezcla fácilmente con solo la punta del dedo
+- Los pigmentos sublimemente saturados que dan como resultado un color intenso dan resultados
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08HZY88QP{{</world>}}

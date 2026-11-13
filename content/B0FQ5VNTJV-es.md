@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- MATERIAL: Bolsitas 100% celulosa. El cofre puede convertirse en caja expositora.
+- 3 VARIEDADES: Infusión de Cacao, Tarta de Queso con Fresas y Tarta de Manzana con Caramelo
 - DISFRUTAR: Momentos únicos de aroma y bienstar.
 - FORMATO: 60 Bolsitas
-- 3 VARIEDADES: Infusión de Cacao, Tarta de Queso con Fresas y Tarta de Manzana con Caramelo
 - LIBRE DE MICROPLÁSTICOS: Producto libre de microplásticos.
-- MATERIAL: Bolsitas 100% celulosa. El cofre puede convertirse en caja expositora.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FQ5VNTJV{{</world>}}

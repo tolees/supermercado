@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rexona Advanced Protection Desodorante antitranspirante Roll-On para Mujer INVISIBLE AQUA 72h 50 ML x6'
-date: 2026-11-10 09:00:38
+date: 2026-11-13 17:56:55
 image: 'https://m.media-amazon.com/images/I/41fBWjcnOTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0C6QKZBJ5/?tag=tolees-21'
 descuento: '59.65'
-average: '5.7351999999999928'
+average: '5.7318518518518449'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

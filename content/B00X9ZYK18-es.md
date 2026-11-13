@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Es una fuente de calcio y de vitamina D
 - Ideal como snack
+- Es una fuente de calcio y de vitamina D
+- Se pueden servir solo o con leche
 - No contienen colorantes o conservantes artificiales
 - Barritas de de arroz tostado con cacao y leche
-- Se pueden servir solo o con leche
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00X9ZYK18{{</world>}}

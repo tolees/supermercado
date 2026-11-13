@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sustitutivo de una comida para control del peso
-- Barrita de chocolate negro con granillo de cacao (6%)
 - Dos barritas sustituyen una comida
+- Barrita de chocolate negro con granillo de cacao (6%)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00V6ARM0E{{</world>}}

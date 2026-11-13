@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Apto para dietas vegetarianas y veganas
 - Los niños pequeños se pueden atragantar con las semillas
 - Conservar en un lugar fresco y seco. Una vez abierto, volver a cerrar herméticamente
-- Apto para dietas vegetarianas y veganas
-- Envasado en atmósfera protectora para mantener su frescura
-- Puede contener ocasionalmente trozos de cáscara
 - No apto para alérgicos a los frutos de cáscara, los cacahuetes, el sésamo y la soja, ni para celíacos, debido al método de producción
+- Puede contener ocasionalmente trozos de cáscara
+- Envasado en atmósfera protectora para mantener su frescura
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CCV5Z5R4{{</world>}}

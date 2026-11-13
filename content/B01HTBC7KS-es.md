@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Leche semidesnatada con calcio
 - Contiene vitamina D, K y B12
-- Ideal para cualquier edad
+- Leche semidesnatada con calcio
 - Una vez abierto se debe mantener refrigerado
+- Ideal para cualquier edad
 - Producto de España
 
 [🛒 Visítala!!!]({{< param buyurl >}})

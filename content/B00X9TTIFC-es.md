@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 200 ml
-- Fijación óptima y duración 24 h para un Look Invencible
 - Formulado con vitaminas
 - Aplicar una avellana de producto sobre el pelo húmedo
+- Fijación óptima y duración 24 h para un Look Invencible
+- 200 ml
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00X9TTIFC{{</world>}}

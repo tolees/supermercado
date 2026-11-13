@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Bebida láctea elaborada con leche parcialmente desnatada
 - Baja en grasa
+- Favorece el tránsito intestinal
 - Con ﬁbra de planta de achicoria
 - Contine en un vaso el 50% de la fibra diaria que necesitas
-- Favorece el tránsito intestinal
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0757Q7JXB{{</world>}}

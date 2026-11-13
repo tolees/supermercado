@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skol Cerveza | Receta Internacional | Máxima Satisfacción | Refrescante | Paquete 24 Latas x 330 ml | Total 7920 ml'
-date: 2026-11-09 12:34:05
+date: 2026-11-13 09:26:04
 image: 'https://m.media-amazon.com/images/I/41dS9ndlanL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01B1FID5G/?tag=tolees-21'
 descuento: '0.00'
-average: '8.9957894736842263'
+average: '9.0203389830508627'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

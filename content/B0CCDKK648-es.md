@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Protección 72h.​
 - Desodorante Antitranspirante con nuestra fórmula Advanced Care y Tecnología Triple Hidratante.​
-- Fragancia fresca, limpia y delicada.​
-- Dove no testa en animales en ningún lugar del mundo​
-- Pack ahorro x3 desodorante Antitranspirante Aerosol Dove Advanced Care Original 150ml.​
+- Protección 72h.​
 - Ayuda a reparar la piel de la irritación, incluso después del depilado. 0% alcohol.​
+- Fragancia fresca, limpia y delicada.​
+- Pack ahorro x3 desodorante Antitranspirante Aerosol Dove Advanced Care Original 150ml.​
+- Dove no testa en animales en ningún lugar del mundo​
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CCDKK648{{</world>}}

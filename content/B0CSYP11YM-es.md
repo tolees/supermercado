@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PARA TODO TIPO DE CABELLO Y TEXTURAS: Incluye cabello fino, medio, grueso, liso, ondulado, rizado, muy rizado, con ondas marcadas, grueso y graso.
 - 6 VECES MÁS FÁCIL DE DESENREDAR* *En cabello mojado vs. champú sin acondicionador.
 - SUAVIDAD LIGERA Y VISIBLE para el cabello.
 - TECNOLOGÍA PATENTADA: Con AHA y Omega 9 para reparar el cabello desde el interior.
+- PARA TODO TIPO DE CABELLO Y TEXTURAS: Incluye cabello fino, medio, grueso, liso, ondulado, rizado, muy rizado, con ondas marcadas, grueso y graso.
 - REDUCE EL ENCRESPAMIENTO del cabello al instante.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

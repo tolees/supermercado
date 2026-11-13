@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Embalado con al menos 24 g de proteína vegetal
-- Deliciosa fórmula mejorada hecha con una mezcla de proteína de soja, proteína de guisante, semillas de calabaza, harina de quinua y polvo de linaza
-- El embalaje puede variar
 - Este batido a base de plantas es un simple cambio de la proteína de suero de leche
+- Deliciosa fórmula mejorada hecha con una mezcla de proteína de soja, proteína de guisante, semillas de calabaza, harina de quinua y polvo de linaza
+- Embalado con al menos 24 g de proteína vegetal
+- El embalaje puede variar
 - Con DigeZyme añadido para ayudar al cuerpo a descomponer las proteínas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

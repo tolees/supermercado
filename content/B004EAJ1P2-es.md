@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BAILEYS Original Irish Cream licor de crema de whisky irlandesa con certificación B-Corp 1500 ml'
-date: 2026-11-12 12:44:25
+date: 2026-11-13 20:50:12
 image: 'https://m.media-amazon.com/images/I/31eAgnYVifL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B004EAJ1P2/?tag=tolees-21'
 descuento: '34.27'
-average: '25.31613636363636'
+average: '25.166739130434781'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Producto para el cuidado personal
 - Para todo tipo de cabellos
 - Sistema de cuidado que protege el pelo
-- Producto para el cuidado personal
 - Producto de la colección Revlon Flex
 - Cantidad por paquete: 1 pieza
 

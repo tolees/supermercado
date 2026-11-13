@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Está fortificado con SPF 15
-- Proporciona cobertura media a completa
-- Esta base de maquillaje líquida se usa hasta por 24 horas
-- Libre de fragancia y aceites
 - Mantiene la piel libre de brillo, no se agrieta, no corre, no obstruye los poros
+- Está fortificado con SPF 15
+- Libre de fragancia y aceites
+- Esta base de maquillaje líquida se usa hasta por 24 horas
+- Proporciona cobertura media a completa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01CD8Z0XI{{</world>}}

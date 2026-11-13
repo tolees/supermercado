@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ARIEL PODS Todo en 1 Detergente Lavadora Liquido en Capsulas/Pastillas 76 Lavados 4x19 Jabon Limpieza Profunda Mas Frescor Sensaciones El embalaje puede variar'
-date: 2026-11-11 12:35:49
+date: 2026-11-13 12:29:59
 image: 'https://m.media-amazon.com/images/I/51-nPFVNzvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BK1N7B9B/?tag=tolees-21'
 descuento: '36.12'
-average: '30.175272727272944'
+average: '29.923157894737052'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

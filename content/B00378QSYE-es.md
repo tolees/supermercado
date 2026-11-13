@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Cobertura muy alta acabado suave e hidratado
 - Suaviza las líneas finas y las arrugas
-- Ayuda a ocultar pigmentaciones, capilares rotos, manchas y pequeñas imperfecciones
 - Formato barra para una aplicación más rápida
+- Ayuda a ocultar pigmentaciones, capilares rotos, manchas y pequeñas imperfecciones
 - Ideal para todo tipo de pieles
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Secado rápido para tus axilas
-- La siguiente información se aplica a cada unidad del paquete
-- Tecnología antimanchas
-- El ambalaje exterior puede variar
-- Desodorante Antitranspirante Duplo Rexona Men Invisible Ice 200ml 2x
-- 0% alcohol
 - Protección antitranspirante por hasta 48 horas
+- Tecnología antimanchas
+- 0% alcohol
+- La siguiente información se aplica a cada unidad del paquete
+- El ambalaje exterior puede variar
+- Secado rápido para tus axilas
+- Desodorante Antitranspirante Duplo Rexona Men Invisible Ice 200ml 2x
 - Tecnología motionsense que se activa con el movimiento
 
 [🛒 Aquí!!!]({{< param buyurl >}})

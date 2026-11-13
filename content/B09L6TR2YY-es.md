@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fácil y rápido de preparar
-- Tiene un sabor intenso
 - Se puede servir solo o con leche
 - Ideal para el desayuno o una pausa durante el día
+- Fácil y rápido de preparar
+- Tiene un sabor intenso
 - Conservar en lugar fresco y seco
 
 [🛒 Visítala!!!]({{< param buyurl >}})

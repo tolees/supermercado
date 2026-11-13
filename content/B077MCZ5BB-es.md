@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Fácil y rápido de preparar
+- Ideal para el desayuno o una pausa durante el día
+- Café soluble con leche en cápsulas
 - Tiene un sabor intenso
 - Conservar en lugar fresco y seco
-- Fácil y rápido de preparar
-- Café soluble con leche en cápsulas
-- Ideal para el desayuno o una pausa durante el día
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B077MCZ5BB{{</world>}}

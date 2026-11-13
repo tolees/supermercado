@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Protección SPF 20 y escudo anticontaminación
 - Textura de polvo a crema aterciopelada que absorbe el exceso de aceite y cubre imperfecciones
 - Cobertura completa mate con un efecto de enfoque suave
-- Acabado mate difuminado que se asemeja a la piel
 - Hasta 25 horas de uso y control de aceite durante todo el día
-- Protección SPF 20 y escudo anticontaminación
+- Acabado mate difuminado que se asemeja a la piel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CXXXV71V{{</world>}}

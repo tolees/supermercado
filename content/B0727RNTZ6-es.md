@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Textura cómoda durante el día; no reseca y se aplica uniformenmente sobre el rostro
 - La paleta ideal para conseguir el efecto de rostro iluminado con un acabado natural durante todo el día
+- Textura cómoda durante el día; no reseca y se aplica uniformenmente sobre el rostro
 - 6 tonos alto pigmentado que se mezclan fácilmente para un acabado uniforme
 - Acabado radiante y natural; crea looks de diario para cada día y consigue un rostro iluminado y de "buena cara" rápidamente
 - Aplicación uniforme y fácil

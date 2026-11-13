@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Meregalli Vino, via del Carroccio, 14, 20853 Biassono MB, Italia
 - Elaborada mezclando ginebra chase con ruibarbo recién exprimido y jugo de manzana bra mley. Ácida y fresca proceso totalmente artesanal, de la semilla a la botella. facil de usar
+- Meregalli Vino, via del Carroccio, 14, 20853 Biassono MB, Italia
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07HFDSP4P{{</world>}}

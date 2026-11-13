@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nesquik Cacao Soluble 2 5kg | Cacao soluble en polvo formato ahorro ideal para consumo frecuente en el hogar fácil disolución en leche'
-date: 2026-11-11 15:50:51
+date: 2026-11-13 13:29:54
 image: 'https://m.media-amazon.com/images/I/51etw-whXAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GXVV4X4H/?tag=tolees-21'
 descuento: '24.21'
-average: '12.707058823529417'
+average: '12.65789473684211'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- De acero inoxidable de alta calidad.
 - Contenido del envío: hervidor de agua Hario Buono.
-- Apta para todo tipo de fuegos: eléctrica, vitrocerámica, inducción y gas.
 - Capacidad: 1,2 L.
+- Apta para todo tipo de fuegos: eléctrica, vitrocerámica, inducción y gas.
+- De acero inoxidable de alta calidad.
 - Apto para lavavajillas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

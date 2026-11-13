@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Labial líquido para un intenso acabado mate aterciopelado
 - Textura suave y fundente que proporciona unos labios aterciopelados
 - Fórmula enriquecida con un 25% de pigmentos lacados que proporcionan color e intensidad
 - Contiene aceites esenciales que dan a los labios una sensación natural y saludable
-- Labial líquido para un intenso acabado mate aterciopelado
 - Hasta 24 horas de duración, sin sensación de sequedad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

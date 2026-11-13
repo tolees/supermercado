@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Paqueteage Dimensiones: 6.0 L x 15.8 H x 9.0 W (centimeters)
 - Los mejores productos para el hogar.
+- Paqueteage Dimensiones: 6.0 L x 15.8 H x 9.0 W (centimeters)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01H050ZUW{{</world>}}

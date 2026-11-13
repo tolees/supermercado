@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Nivel de fijación 5 para unos rizos definidos de larga duración
 - Enriquecida con una combinación de vitamina Pro-V y aceite de coco
 - Protección de calor para el cabello
-- Nivel de fijación 5 para unos rizos definidos de larga duración
 - Espuma nutritiva Pantene Pro-V para unos rizos definidos, brillantes y duraderos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

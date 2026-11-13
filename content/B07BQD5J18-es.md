@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Scottex Papel Higiénico Sensitive 42 rollos con 3 capas cuidado delicado gracias al toque de leche de almendras 7 packs de 6 rollos'
-date: 2026-11-12 11:53:16
+date: 2026-11-13 12:46:18
 image: 'https://m.media-amazon.com/images/I/41QG7PuktlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BQD5J18/?tag=tolees-21'
 descuento: '29.11'
-average: '17.478187500000008'
+average: '17.440061728395069'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

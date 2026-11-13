@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NESCAFÉ Espresso Concentrate Caramelo 500 ml | Café concentrado líquido sabor caramelo ideal para iced coffee y lattes con preparación rápida'
-date: 2026-11-12 18:09:13
+date: 2026-11-13 21:04:18
 image: 'https://m.media-amazon.com/images/I/41T7axU+4tL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GLYN6VV2/?tag=tolees-21'
 descuento: '39.08'
-average: '4.0366666666666644'
+average: '3.9815384615384599'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

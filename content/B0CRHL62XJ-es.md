@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'H&S Classic Champú Anticaspa Todo Tipo de Pelo y Cuero Cabelludo 2x1L | Con Dispensador Hasta 100% de Protección contra la Caspa Sensación de Frescor Clínicamente Probado Apto para Uso Diario'
-date: 2026-11-11 12:31:17
+date: 2026-11-13 12:22:34
 image: 'https://m.media-amazon.com/images/I/41ssCmHH89L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CRHL62XJ/?tag=tolees-21'
 descuento: '39.99'
-average: '17.715853658536549'
+average: '17.589069767441824'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

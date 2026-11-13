@@ -32,8 +32,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Práctica caja de 96 unidades
 - Visite nuestra BRAND STORE para descubrir toda la selección NOTE DESPRESSO: enlace directo debajo del título del producto
 - Un expreso italiano tradicional en una pequeña cápsula de 7 gramos
-- Dosis recomendada de agua 40 ml
 - Exclusivamente Compatibles con cafeteras de cápsulas NESCAFÉ* DOLCE GUSTO* (* No registrado en Amazon EU S.a.r.l.)
+- Dosis recomendada de agua 40 ml
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07WTCTMGL{{</world>}}

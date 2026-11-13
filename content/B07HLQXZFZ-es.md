@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Contiene un alto nivel de antioxidantes, arginina, ácidos grasos omega 3 y 6 y prebióticos para apoyar las funciones vitales clave (inmune, renal, digestión)
+- Nutrición basada en la ciencia desarrollada con veterinarios de Purina
 - Formulación especialmente diseñada para apoyar la salud cerebral
 - Ingrediente de salmón n°1
-- Nutrición basada en la ciencia desarrollada con veterinarios de Purina
 - La fórmula ha sido equilibrada por expertos para apoyar el envejecimiento saludable en gatos mayores.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

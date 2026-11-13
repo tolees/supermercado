@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Halls Eucalipto Caramelo Sin Azúcar Caja de 20 Sticks de 32g | Caramelos sin azúcar con sabor a eucalipto y efecto refrescante perfectos para disfrutar de frescor en cualquier momento'
-date: 2026-11-12 08:44:09
+date: 2026-11-13 19:02:52
 image: 'https://m.media-amazon.com/images/I/51rLPrQWszL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01EHSODE4/?tag=tolees-21'
 descuento: '30.35'
-average: '11.321632653061224'
+average: '11.283529411764706'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

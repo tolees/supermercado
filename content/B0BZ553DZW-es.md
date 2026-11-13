@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dixan Trio Caps Total 4 en 1 Detergente en Cápsulas para Lavadora 52D'
-date: 2026-11-12 09:50:19
+date: 2026-11-13 19:31:36
 image: 'https://m.media-amazon.com/images/I/51aGf6k2GBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BZ553DZW/?tag=tolees-21'
 descuento: '51.77'
-average: '12.790377358490563'
+average: '12.646363636363633'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

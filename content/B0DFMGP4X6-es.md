@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nutrición diaria equilibrada y completa
-- Prebióticos para el bienestar de la microbiota intestinal
 - Formato de croqueta ideal para perros de todos los tamaños
+- Nutrición diaria equilibrada y completa
 - Glucosamina y condroitina para el apoyo de las articulaciones
+- Prebióticos para el bienestar de la microbiota intestinal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DFMGP4X6{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Bpa free
 - Ideas para un menú semanal, incluido en el pack
+- Bpa free
 - Válvula para el uso en el microondas. Para calentar, se debe abrir la tapita de silicona.
-- Incluye: dos recipientes con sus tapas, una tapa extra y una banda para unir los dos recipientes
 - Cubiertos no incluidos
+- Incluye: dos recipientes con sus tapas, una tapa extra y una banda para unir los dos recipientes
 - Espacio para colocar los cubiertos de lékué. + servilleta o lo que se desee
 
 [🛒 Comprar!!!]({{< param buyurl >}})

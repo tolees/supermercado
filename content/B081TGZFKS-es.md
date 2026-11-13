@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Conservar en un lugar fresco y seco
-- Ideal para compartir
 - Con pepitas de chocolate
 - Vienen envueltos individualmente
+- Ideal para compartir
 - Producto de textura fina
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

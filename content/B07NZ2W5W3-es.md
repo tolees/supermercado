@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Embellece y unifica la tez, como una segunda piel
 - Cobertura ultraligera, no grasa, se absorbe óptimamente y sin efecto máscara
 - BB cream infusionada con extracto de higo y cocktail de vitaminas para 24 H de hidratación
+- Embellece y unifica la tez, como una segunda piel
 - Se transforma en maquillaje al entrar en contacto con la piel consiguiendo una textura nude óptima
 
 [🛒 Aquí!!!]({{< param buyurl >}})

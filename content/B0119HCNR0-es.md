@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Atún en aceite de oliva
 - El mas jugoso atún
 - Certificación APR de pesca responsable por AENOR
 - País de origen: España
-- Atún en aceite de oliva
 - Calidad desde 1887
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

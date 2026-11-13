@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Notas de fruta, sobre un fondo de madera tostada y suaves aromas de vainilla, coco y especias
-- Ideal para acompañar embutidos, arroces, verduras, setas, carnes blancas y rojas
-- Limpio y brillante
 - Conservar en un lugar fresco y seco
 - De color rojo cereza
+- Ideal para acompañar embutidos, arroces, verduras, setas, carnes blancas y rojas
+- Notas de fruta, sobre un fondo de madera tostada y suaves aromas de vainilla, coco y especias
+- Limpio y brillante
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01NBDT9FQ{{</world>}}

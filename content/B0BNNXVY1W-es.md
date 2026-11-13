@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate Max White Carbón Pasta de Dientes 4x75ml | Blanqueador Natural para Eliminar Manchas Superficiales'
-date: 2026-11-11 14:53:32
+date: 2026-11-13 19:28:06
 image: 'https://m.media-amazon.com/images/I/51A8RjFxcAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BNNXVY1W/?tag=tolees-21'
 descuento: '39.15'
-average: '9.3802521008403392'
+average: '9.3536363636363653'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

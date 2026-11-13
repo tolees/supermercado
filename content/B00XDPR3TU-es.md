@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Se debe conservar en un lugar fresco y seco
 - Listo en 3 minutos
+- Se debe conservar en un lugar fresco y seco
 - Advertencia alergénica: contiene trigo, soja, leche
 
 [🛒 Aquí!!!]({{< param buyurl >}})

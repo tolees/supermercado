@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fragancia duradera con sólo un tapón
-- APTO PARA PIELES SENSIBLES Y PRENDAS DELICADAS: medias, ropa interior, prendas de baño, ropita de bebé, etc
-- SAN ESENCIA PARA DISFRUTAR PACK DE 8: Proporciona a tus prendas un perfume intenso y duradero, manteniendo el frescor durante más tiempo.
-- Ingredientes: suavizante, perfumes
 - FRESCOR Y FRAGANCIA: duradera de hasta 20 días en tu ropa, gracias a la selección exhaustiva de las mejores flores
+- Ingredientes: suavizante, perfumes
+- APTO PARA PIELES SENSIBLES Y PRENDAS DELICADAS: medias, ropa interior, prendas de baño, ropita de bebé, etc
+- Fragancia duradera con sólo un tapón
+- SAN ESENCIA PARA DISFRUTAR PACK DE 8: Proporciona a tus prendas un perfume intenso y duradero, manteniendo el frescor durante más tiempo.
 - MANTIENE Y PROTEGE: la ropa blanca y de color aportando la máxima suavidad en tus prendas y evitando la electricidad estática y el daño que ocasiona el lavado
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

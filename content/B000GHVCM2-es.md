@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dermatológicamente Comprobado.
-- Limpia la piel delicada.
 - Hidratante
 - El empaque puede variar.
+- Limpia la piel delicada.
+- Dermatológicamente Comprobado.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B000GHVCM2{{</world>}}

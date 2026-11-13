@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Isabel Atún claro en aceite de oliva pack de 5 estuches con 3 latas de 65gr'
-date: 2026-11-11 17:46:18
+date: 2026-11-13 13:57:33
 image: 'https://m.media-amazon.com/images/I/41mAB2--nYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09TBGSRXT/?tag=tolees-21'
 descuento: '43.05'
-average: '14.819444444444445'
+average: '14.6615'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

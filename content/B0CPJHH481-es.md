@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- A BASE DE CEREALES Y LEGUMBRES: Elaboradas con cereales (74 %) de arroz y maíz, y legumbres como guisante verde (9 %) y judía, combinadas con aceites vegetales.
-- 7 UNIDADES: Presentado en formato de carga de caja, ideal para mayor comodidad, reposición frecuente o consumo habitual.
-- EXTRA CRUJIENTES Y NO FRITAS: Snack horneado, no frito, con textura extra crujiente, pensado para disfrutar como aperitivo o entre horas.
 - FORMATO PRÁCTICO: Formato práctico y fácil de consumir, ideal para compartir o disfrutar individualmente.
+- EXTRA CRUJIENTES Y NO FRITAS: Snack horneado, no frito, con textura extra crujiente, pensado para disfrutar como aperitivo o entre horas.
+- 7 UNIDADES: Presentado en formato de carga de caja, ideal para mayor comodidad, reposición frecuente o consumo habitual.
+- A BASE DE CEREALES Y LEGUMBRES: Elaboradas con cereales (74 %) de arroz y maíz, y legumbres como guisante verde (9 %) y judía, combinadas con aceites vegetales.
 - TORTITAS CON LEGUMBRES: Tortitas de cereales con legumbres, aromatizadas con tomate y aceituna negra, ideales como snack salado para cualquier momento del día.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

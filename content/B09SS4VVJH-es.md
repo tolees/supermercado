@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Formato Ahorro
 - Una gran fuente de vitamina D óptimo para el crecimiento
 - Nesquik el instantáneo
-- Formato Ahorro
 - Prepara el óptimo vaso de leche con Nesquik y ¡Dale un Like a la leche!
 
 [🛒 Comprar!!!]({{< param buyurl >}})

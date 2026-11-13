@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conservar en lugar fresco y seco
 - Mix de sabores frutales
+- Conservar en lugar fresco y seco
 - Deliciosas piezas en forma de estrellitas
 - Caramelos de goma
 

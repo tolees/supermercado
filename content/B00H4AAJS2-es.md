@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sin Alcohol, Alérgenos ni ningún tipo de agresión
-- Acción desodorante fresca y duradera
 - Para Pieles Atópicas y Sensibles
 - No contiene Aluminio
+- Sin Alcohol, Alérgenos ni ningún tipo de agresión
+- Acción desodorante fresca y duradera
 - Evita la irritación y el picor gracias a su elevada tolerabilidad
 
 [🛒 Visítala!!!]({{< param buyurl >}})
