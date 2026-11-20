@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'Weider Collagen 300g Sabor Neutro Colágeno Hidrolizado en Polvo tipo I Péptidos de Colágeno 100% Peptan Ácido Hialurónico Magnesio Vitamina C Sin Azúcar Para Piel Cartílago Huesos y Cabello'
+date: 2026-09-14 12:37:29
+image: 'https://m.media-amazon.com/images/I/31n3c1zseoL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B01LNQAYLO-es Weider Collagen 300g Sabor Neutro Colágeno Hidrolizado en...'
+sku: 'B01LNQAYLO-es'
+tags: [ 'azúcar','🇪🇸', ]
+actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
+comparePrice: 19.49 EUR
+prodname: 'Weider Collagen 300g Sabor Neutro Colágeno Hidrolizado en Polvo tipo I Péptidos de Colágeno 100% Peptan Ácido Hialurónico Magnesio Vitamina C Sin Azúcar Para Piel Cartílago Huesos y Cabello'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B01LNQAYLO/?tag=tolees-21'
+descuento: '23.09'
+average: '13.9080952380953'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B01LNQAYLO{{</world>}}
