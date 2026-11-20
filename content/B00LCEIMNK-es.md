@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Neutrogena T/Gel Champú Anticaspa para Cabello Graso 250 ml 2 uds | Con Ácido Salicílico y Picotrona Olamina Alivia la Descamación y la Caspa Hidrata el Cuero Cabelludo De Uso Diario'
-date: 2026-11-18 08:37:12
+date: 2026-11-20 15:24:54
 image: 'https://m.media-amazon.com/images/I/41IOEHX8ZGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LCEIMNK/?tag=tolees-21'
 descuento: '45.26'
-average: '11.457812499999987'
+average: '11.340882352941163'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Para el cabello: Normal
+- Productos de belleza y el cuidado personal
+- Marca Dolce Gabbana
 - Dolce & Gabbana es un nombre de marca reconocido
 - Tipo de producto Agua de perfume
-- Marca Dolce Gabbana
-- Productos de belleza y el cuidado personal
-- Para el cabello: Normal
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0096BQKVM{{</world>}}

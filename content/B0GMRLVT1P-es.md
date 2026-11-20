@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuidado INTENSIVO
-- RESULTADO en solo 15 minutos
 - AYUDA A reducir los poros visibles y el sebo
 - Enriquecido con ácido azílico
+- RESULTADO en solo 15 minutos
+- Cuidado INTENSIVO
 - Enriquecido con 1/2 vial de suero
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

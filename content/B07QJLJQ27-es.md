@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Graduación: 14 %;
+- Origen: DO Rioja, España;
 - Variedades: Tempranillo;
 - Elaborado por: FAMILIA TORRES;
-- Origen: DO Rioja, España;
-- Graduación: 14 %;
 - Maridaje: Ideal con carnes rojas a la brasa y guisos mediterráneos;
 
 [🛒 Visítala!!!]({{< param buyurl >}})

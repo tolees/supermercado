@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ralph Lauren Polo 67 Eau de Parfum fragancia para hombre 125 ml | Forjado desde la ambición una fusión explosiva de frescura vigorizante y sensualidad ardiente'
-date: 2026-11-10 11:44:37
+date: 2026-11-20 07:33:33
 image: 'https://m.media-amazon.com/images/I/31IMb4scIIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DSJW8TYF/?tag=tolees-21'
 descuento: '5.01'
-average: '49.036666666666662'
+average: '48.61999999999999'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Pack de 240 gramos
 - Semillas de girasol con sabor a auténtica salsa Tijuana
-- Sin conservantes ni colorantes artificiales
+- Pack de 240 gramos
 - Fuente natural de vitamina E, Magnesio y Fósforo
+- Sin conservantes ni colorantes artificiales
 - Alto contenido de fibra
 - Máxima frescura garantizada
 

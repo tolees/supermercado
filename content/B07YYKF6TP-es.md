@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Perfecto para coberturas, rellenos de chocolate y chocolate a la taza.
-- perfecto para coberturas, rellenos de chocolate y chocolate a la taza.
 - Producto de alta calidad
+- perfecto para coberturas, rellenos de chocolate y chocolate a la taza.
+- Perfecto para coberturas, rellenos de chocolate y chocolate a la taza.
 - fácil de usar
 - un producto practico
 

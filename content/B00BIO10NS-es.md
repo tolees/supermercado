@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HUGO Man Eau de Toilette para hombres |Fragancia masculina aromática afrutada con notas de manzana verde | 75 ml'
-date: 2026-11-12 11:47:31
+date: 2026-11-20 05:45:52
 image: 'https://m.media-amazon.com/images/I/31lKC7zfPDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BIO10NS/?tag=tolees-21'
 descuento: '33.68'
-average: '40.591428571428573'
+average: '38.94'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

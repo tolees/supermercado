@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sanex Zero% Extra Control Desodorante Spray Pack 6 Uds x 200ml Protección 48H 0% Alcohol y 0% Sales de Aluminio Ingredientes Antibacterianos Inhibe la Formación de Olores Corporales'
-date: 2026-10-09 03:41:13
+date: 2026-11-20 15:56:53
 image: 'https://m.media-amazon.com/images/I/41Jb-ut58CL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BRN9K8NZ/?tag=tolees-21'
 descuento: '15.93'
-average: '16.0704000000001'
+average: '16.110000000000095'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

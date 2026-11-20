@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con un 5% de escualano y péptidos
-- Dulce aroma a vainilla que querrás reaplicar 24/7
-- Bálsamo labial ultrahidratante y cremoso
 - Su aplicador envuelve los labios y proporciona un efecto calamante
+- Con un 5% de escualano y péptidos
+- Bálsamo labial ultrahidratante y cremoso
+- Dulce aroma a vainilla que querrás reaplicar 24/7
 - Deja los labios suaves reparados y rellenos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

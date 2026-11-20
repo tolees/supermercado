@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El dispositivo médico de la farmacia (PZN: 07610693)
-- Yeso para pegar en la piel
-- en el caso de las ampollas
 - producto de atención médica de alta calidad
+- Yeso para pegar en la piel
+- El dispositivo médico de la farmacia (PZN: 07610693)
 - Fabricante: HRA Pharma Deutschland GmbH, Deutschland
+- en el caso de las ampollas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004UNFNSC{{</world>}}

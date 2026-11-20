@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- La energía en viales para todos sin cafeína de 9 a 99 años
 - 10 viales de 10 ml
 - Sin gluten, Apto para veganos, Sabor cítrico
 - Con Schisandra, Espinaca, Cordyceps, Jugo de Noni, Calcio contra el cansancio y la fatiga
-- La energía en viales para todos sin cafeína de 9 a 99 años
 - Tomar 1 vial al día
 
 [🛒 Aquí!!!]({{< param buyurl >}})

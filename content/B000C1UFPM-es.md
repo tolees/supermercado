@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Guy Laroche Fidji Eau de Toilette Perfume para Mujer Fragancia Floral Refrescante y Vibrante Con Ylang-Ylang Jazmín y Sándalo 100ml'
-date: 2026-05-18 15:18:08
+title: 'Guy Laroche Fidji Eau de Toilette fragancia floral refrescante 100ml | Ylang-ylang jazmín y sándalo fragancia floral refrescante y vibrante perfume para mujer'
+date: 2026-11-20 05:34:03
 image: 'https://m.media-amazon.com/images/I/31i2ZsPKeQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B000C1UFPM-es Guy Laroche Fidji Eau de Toilette Perfume para Mujer...'
+slug: 'B000C1UFPM-es Guy Laroche Fidji Eau de Toilette fragancia floral...'
 sku: 'B000C1UFPM-es'
 tags: [ 'de','eau','toilette','🇪🇸', ]
-actualPrice: 23.81 EUR
+actualPrice: 21.94 EUR
 currency: EUR
-price: 23.81
+price: 21.94
 comparePrice: 35.99 EUR
-prodname: 'Guy Laroche Fidji Eau de Toilette Perfume para Mujer Fragancia Floral Refrescante y Vibrante Con Ylang-Ylang Jazmín y Sándalo 100ml'
+prodname: 'Guy Laroche Fidji Eau de Toilette fragancia floral refrescante 100ml | Ylang-ylang jazmín y sándalo fragancia floral refrescante y vibrante perfume para mujer'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B000C1UFPM/?tag=tolees-21'
-descuento: '33.84'
-average: '27.71'
+descuento: '39.04'
+average: '26.556'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fidji es una icónica fragancia femenina inspirada en las islas del Pacífico. Presenta una mezcla de acordes bellos y sensuales que evocan la armonía natural de la tierra, el aire y el mar. Un delicado equilibrio de esencias frescas y florales.
-- Pulverizar la fragancia desde al menos 15-20 centímetros sobre los puntos de pulsión para un efecto más seductor y duradero.
-- Una fragancia refrescante, limpia y vibrante para abrazar la maravilla y el encanto de la feminidad, a la vez misteriosa y seductora.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B000C1UFPM{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Maridaje: Perfecto con la ternera, el cerdo o el pato salvaje;
 - Origen: DO Penedès, España;
-- Graduación: 14 %;
 - Variedades: Merlot;
 - Elaborado por: FAMILIA TORRES;
+- Graduación: 14 %;
+- Maridaje: Perfecto con la ternera, el cerdo o el pato salvaje;
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08LFFDZ1X{{</world>}}

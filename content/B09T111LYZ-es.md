@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Alpro Bebida Vegetal de Almendras sin Ázucar - Pack de 6 x 1L'
-date: 2026-11-19 00:07:39
+date: 2026-11-20 01:57:25
 image: 'https://m.media-amazon.com/images/I/41u6SnopOBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09T111LYZ/?tag=tolees-21'
 descuento: '45.97'
-average: '9.4550769230769518'
+average: '9.3847761194030142'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

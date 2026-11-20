@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Batido UHT de cacao, con LECHE SEMIDESNATADA baja en lactosa .
+- Descubre nuestra gama completa de productos.
 - Con vitaminas A, D y E
 - Sin aditivos artificiales
-- Descubre nuestra gama completa de productos.
 - Se presenta en PACK DE 3 MINIBRIKS DE 200 ml
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

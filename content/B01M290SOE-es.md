@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 90% de leche, 30% menos de azúcar y sin edulcorantes
-- Batidos puleva, ningún batido es más saludable y divertido
-- Fuente de calcio, vitaminas d y proteínas
-- Para disfrutarlo en cualquier lugar gracias a su envase especial
 - Con un sabor sensacional
+- Batidos puleva, ningún batido es más saludable y divertido
+- Para disfrutarlo en cualquier lugar gracias a su envase especial
+- 90% de leche, 30% menos de azúcar y sin edulcorantes
+- Fuente de calcio, vitaminas d y proteínas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01M290SOE{{</world>}}

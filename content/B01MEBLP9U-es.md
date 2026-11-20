@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Loción para aplicar sobre la piel
-- cuidado médico de la piel de alta calidad
 - Dermocosméticos de la Farmacia (PZN: 11678159)
-- Fabricante: Beiersdorf AG Eucerin, Deutschland
 - para la piel seca a muy seca
+- Fabricante: Beiersdorf AG Eucerin, Deutschland
+- cuidado médico de la piel de alta calidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01MEBLP9U{{</world>}}

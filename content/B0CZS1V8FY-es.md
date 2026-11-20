@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skip Ultimate Limpieza profunda Detergente líquido 45+45 lavados'
-date: 2026-11-10 21:45:26
+date: 2026-11-20 09:06:38
 image: 'https://m.media-amazon.com/images/I/41gfqiNrX2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CZS1V8FY/?tag=tolees-21'
 descuento: '26.94'
-average: '11.566666666666626'
+average: '11.406923076923039'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

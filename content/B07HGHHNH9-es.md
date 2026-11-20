@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Listerine Cuidado Total Enjuague Bucal con Flúor 1 L 2 uds | 10 Beneficios en 1 12 h de Protección Fortalece el Esmalte Protege las Encías Reduce Placa y Sarro Aliento Fresco'
-date: 2026-11-17 09:50:22
+date: 2026-11-20 15:40:29
 image: 'https://m.media-amazon.com/images/I/51Mzduh1z2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HGHHNH9/?tag=tolees-21'
 descuento: '39.53'
-average: '10.714612244897966'
+average: '10.70056680161944'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colon Gel Activo - Detergente Lavadora para ropa blanca y de color 170 lavados - 5 x 1530ml'
-date: 2026-11-11 22:10:57
+date: 2026-11-20 08:49:03
 image: 'https://m.media-amazon.com/images/I/51PkDBkrb7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VB4XWY1/?tag=tolees-21'
 descuento: '36.17'
-average: '27.801755952380994'
+average: '27.785118343195308'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

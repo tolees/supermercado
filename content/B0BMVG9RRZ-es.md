@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- HIGIENE PERSONAL. Está libre de grasa animal o industrial
 - MODO DE USO: Mojar con agua tibia y, seguidamente, frotar suavemente el jabón para crear espuma. Aplicar por cara y cuerpo
 - ETIQUETAS: Este producto es apto para veganos y celíacos y, además, está libre de alérgenos
-- PROPIEDADES: Ideal para todo tipo de pieles, especialmente útil para casos de acné
-- HIGIENE PERSONAL. Está libre de grasa animal o industrial
 - El carbón activo es un gran limpiador, que ayuda a eliminar impurezas y restos de suciedad de la piel, además de controlar el exceso de grasa por su efecto seborregulador y limpiador. Además, está libre de grasas animales e industriales
+- PROPIEDADES: Ideal para todo tipo de pieles, especialmente útil para casos de acné
 - BENEFICIOS: Ayuda a limpiar nuestra piel, además, tiene un efecto seborregulador
 
 [🛒 Comprar!!!]({{< param buyurl >}})

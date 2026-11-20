@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'GARNIER Fructis Hair Food Banana Mascarilla 3 en 1 Nutritiva 400 ml para Cabello Seco'
-date: 2026-08-02 10:05:20
-image: 'https://m.media-amazon.com/images/I/41IZvcHD4nL._SL500_._SL400_.jpg'
+title: 'Garnier Fructis Hair Food Banana Mascarilla 3 en 1 Nutritiva 400ml | Con Extracto de Banana Cabello Seco Tratamiento 3 en 1 Textura Cremosa que Nutre en Profundidad Fructis'
+date: 2026-11-20 15:38:36
+image: 'https://m.media-amazon.com/images/I/41EZoEw0GbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07BS1DYHS-es GARNIER Fructis Hair Food Banana Mascarilla 3 en 1...'
+slug: 'B07BS1DYHS-es Garnier Fructis Hair Food Banana Mascarilla 3 en 1...'
 sku: 'B07BS1DYHS-es'
 tags: [ 'garnier','🇪🇸', ]
-actualPrice: 5.95 EUR
+actualPrice: 5.06 EUR
 currency: EUR
-price: 5.95
+price: 5.06
 comparePrice: 5.95 EUR
-prodname: 'GARNIER Fructis Hair Food Banana Mascarilla 3 en 1 Nutritiva 400 ml para Cabello Seco'
+prodname: 'Garnier Fructis Hair Food Banana Mascarilla 3 en 1 Nutritiva 400ml | Con Extracto de Banana Cabello Seco Tratamiento 3 en 1 Textura Cremosa que Nutre en Profundidad Fructis'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BS1DYHS/?tag=tolees-21'
-descuento: '0.00'
-average: '5.46'
+descuento: '14.96'
+average: '5.3933333333333335'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para cabello seco
-- Testadas dermatológicamente
-- Sin parabenos
-- Puedes usarlo como tratamiento sin aclarado, como mascarilla o como acondicionador
-- Con 98 % ingredientes de origen natural
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07BS1DYHS{{</world>}}

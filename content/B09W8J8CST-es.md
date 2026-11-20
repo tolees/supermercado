@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gálbano / Madera de Cedro / Vetiver
-- "Dicen que sólo se vive una vez. Pero nunca dicen cuántas veces puedes renacer". Davidoff Cool Water renace. Descubre COOL WATER REBORN Eau De Parfum para él, una fragancia fougère donde la aromática madera de cedro se funde con el gálbano y el seductor aroma del vetiver.
 - Aplicar la fragancia Davidoff para hombre en los puntos de pulso: en las muñecas, la parte interior de los codos, los bíceps y el pecho para obtener un magnífico aroma de larga duracion e ideal para cualquier ocasión.
+- "Dicen que sólo se vive una vez. Pero nunca dicen cuántas veces puedes renacer". Davidoff Cool Water renace. Descubre COOL WATER REBORN Eau De Parfum para él, una fragancia fougère donde la aromática madera de cedro se funde con el gálbano y el seductor aroma del vetiver.
+- Gálbano / Madera de Cedro / Vetiver
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09W8J8CST{{</world>}}

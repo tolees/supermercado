@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tejido de lino elástico
-- Bolsillos laterales cargo y bolsillo para el móvil
 - Entrepierna: 26,7 cm
+- Tejido de lino elástico
 - Con una cintura elástica que se mueve contigo
 - Corte holgado. Rodilleras
+- Bolsillos laterales cargo y bolsillo para el móvil
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B076VNKMG9{{</world>}}

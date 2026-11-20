@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BOSS Bottled Eau de Parfum para hombres 50 ml | Fragancia amaderada ambarina y especiada | Atemporal y de larga duración'
-date: 2026-11-11 15:22:56
+date: 2026-11-20 06:25:57
 image: 'https://m.media-amazon.com/images/I/21ocOrW0-rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FFHGYRP/?tag=tolees-21'
 descuento: '9.62'
-average: '38.95'
+average: '38.616666666666667'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

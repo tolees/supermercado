@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Geles dulces
 - Con recubrimiento ácido
+- Geles dulces
 - Apto para vegetarianos
 - Piezas largas en forma de espaguetis rojos sabor fresa
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Boss The Scent Magnetic Eau de Parfum para Hombre | Perfume ambarino y afrutado con notas de maninka salvado de trigo absoluto y extracto de vainilla negra larga duración.'
-date: 2026-11-12 12:23:26
+date: 2026-11-20 07:52:36
 image: 'https://m.media-amazon.com/images/I/21aN8PzaDLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BNNSYYY5/?tag=tolees-21'
 descuento: '5.10'
-average: '41.947142857142858'
+average: '45.267777777777774'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

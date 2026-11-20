@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L OR Espresso Classique Café Grano Natural | 200g | Intensidad 6 100% Natural'
-date: 2026-11-17 08:48:32
+date: 2026-11-20 08:08:46
 image: 'https://m.media-amazon.com/images/I/41Z0HEx6XUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

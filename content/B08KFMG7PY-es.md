@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Combinación de piezas de diferentes texturas y sabores
-- Mix de caramelos de goma
-- Con recubrimiento de azúcar
 - ‎Conservar en lugar fresco y seco
 - Incluye ositos de oro, corazón-melocotón, fresa-nata, platanito, besito
+- Con recubrimiento de azúcar
+- Mix de caramelos de goma
+- Combinación de piezas de diferentes texturas y sabores
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08KFMG7PY{{</world>}}

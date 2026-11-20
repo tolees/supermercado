@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Región: vino blanco de Languedoc-Rosellón, IGP Pays dOc
-- Atractivo color amarillo intenso con reflejos brillantes. Nariz: delicados aromas de flores blancas y frutas exóticas. Paladar: ataque vivo, equilibrado y fino, lleno de frescura
-- Variedad de uva: 100 % Sauvignon. Certificación Terra vitis
 - Maridaje clásico: ensaladas con espárragos; maridaje dinámico: ensalada de frutas; maridaje atrevido: sushi
+- Variedad de uva: 100 % Sauvignon. Certificación Terra vitis
+- Atractivo color amarillo intenso con reflejos brillantes. Nariz: delicados aromas de flores blancas y frutas exóticas. Paladar: ataque vivo, equilibrado y fino, lleno de frescura
 - Medalla de oro en el concurso gilbert et gaillard 2021 para la añada 2020
 
 [🛒 Aquí!!!]({{< param buyurl >}})

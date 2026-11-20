@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIVEA MEN Crema hidratante antiedad FPS 30 50 ml | Crema facial masculina ácido hialurónico y coenzima Q10 mayor producción de colágeno hidratación 48 h todo tipo de piel'
-date: 2026-11-19 06:01:04
+date: 2026-11-20 15:32:56
 image: 'https://m.media-amazon.com/images/I/51bVB54tr1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAFF386/?tag=tolees-21'
 descuento: '31.88'
-average: '10.484161073825646'
+average: '10.471523178808088'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

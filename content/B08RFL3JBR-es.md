@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- No contiene colorantes artificiales ni ingredientes de origen animal
-- Embalaje 100 % plástico reciclado
-- Incluye notas de bergamota, limón y lima
-- Aromas 100% naturales
 - Limpia suavemente la piel sin secarla
-- Tiene un efecto estimulante y vitalizante
 - Fragancia ligera y refrescante
+- Incluye notas de bergamota, limón y lima
+- Embalaje 100 % plástico reciclado
 - Embalaje ecológico de 500 ml para reducir los residuos plásticos
+- Aromas 100% naturales
+- Tiene un efecto estimulante y vitalizante
+- No contiene colorantes artificiales ni ingredientes de origen animal
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08RFL3JBR{{</world>}}

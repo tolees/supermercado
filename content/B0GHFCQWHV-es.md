@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Nescafe DOLCE GUSTO cafe Espresso Palermo - Cápsulas de Café 42 Cápsulas 3x14 - Originales para cafeteras Dolce Gusto'
-date: 2026-08-28 18:00:38
-image: 'https://m.media-amazon.com/images/I/41EPDgqLFgL._SL500_._SL400_.jpg'
+title: 'NESCAFÉ Dolce Gusto Nesquik 48 cápsulas 3x16 768 g | Bebida a base de leche y cacao Nesquik'
+date: 2026-11-20 07:39:31
+image: 'https://m.media-amazon.com/images/I/41uYWJi8OWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0GHFCQWHV-es Nescafe DOLCE GUSTO cafe Espresso Palermo - Cápsulas de...'
+slug: 'B0GHFCQWHV-es NESCAFÉ Dolce Gusto Nesquik 48 cápsulas 3x16 768 g |...'
 sku: 'B0GHFCQWHV-es'
-tags: [ 'café','cápsulas','de','dolce','gusto','🇪🇸', ]
-actualPrice: 11.97 EUR
+tags: [ 'dolce','gusto','nescafé','nesquik','🇪🇸', ]
+actualPrice: 11.12 EUR
 currency: EUR
-price: 11.97
+price: 11.12
 comparePrice: 11.97 EUR
-prodname: 'Nescafe DOLCE GUSTO cafe Espresso Palermo - Cápsulas de Café 42 Cápsulas 3x14 - Originales para cafeteras Dolce Gusto'
+prodname: 'NESCAFÉ Dolce Gusto Nesquik 48 cápsulas 3x16 768 g | Bebida a base de leche y cacao Nesquik'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GHFCQWHV/?tag=tolees-21'
-descuento: '0.00'
-average: '10.62'
+descuento: '7.10'
+average: '10.719999999999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un espresso corto, intenso y con carácter. Las cápsulas Palermo de Dolce Gusto ofrecen un café de tueste oscuro, con notas profundas y un sabor potente que despierta los sentidos. Ideal para quienes disfrutan de un café fuerte, sin rodeos. Compatible con máquinas Dolce Gusto.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GHFCQWHV{{</world>}}

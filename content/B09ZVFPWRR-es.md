@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Moussel Gel de Ducha Revitalizante con Lima y Menta 650 ml'
-date: 2026-11-16 17:30:36
+date: 2026-11-20 15:50:36
 image: 'https://m.media-amazon.com/images/I/41Hva3P7PVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09ZVFPWRR-es Moussel Gel de Ducha Revitalizante con Lima y Menta 650 ml'
 sku: 'B09ZVFPWRR-es'
 tags: [ 'de','ducha','gel','moussel','🇪🇸', ]
-actualPrice: 2.09 EUR
+actualPrice: 2.99 EUR
 currency: EUR
-price: 2.09
+price: 2.99
 comparePrice: 3.76 EUR
 prodname: 'Moussel Gel de Ducha Revitalizante con Lima y Menta 650 ml'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09ZVFPWRR/?tag=tolees-21'
-descuento: '44.41'
-average: '5.5953571428571456'
+descuento: '20.48'
+average: '5.4216666666666695'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

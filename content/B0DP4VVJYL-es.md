@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Se pueden llevar a cualquier parte
 - Ideal para el desayuno
+- Conservar en lugar fresco y seco
 - La siguiente información se aplica a cada unidad del paquete
 - Cereales variados en raciones individuales
-- Conservar en lugar fresco y seco
 - Un producto especial para niños
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'H&S Citrus Fresh Champú Anticaspa para Pelo Graso Aroma a Cítricos 2x1L | Con Dispensador Hasta 100% de Protección contra la Caspa Clínicamente Probado Apto para Uso Diario'
-date: 2026-11-11 08:51:43
+date: 2026-11-20 13:06:29
 image: 'https://m.media-amazon.com/images/I/41RlGVvJmuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CRHKNQRB/?tag=tolees-21'
 descuento: '41.11'
-average: '18.591851851852038'
+average: '18.324137931034656'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Limpiatapicerías Multiusos Conga CarpetClean 20000 Advance | 7 Accesorios 900W 20 kPa de succión Depósitos de gran capacidad y dosificador de detergente'
-date: 2026-11-16 18:38:35
+date: 2026-11-20 10:40:30
 image: 'https://m.media-amazon.com/images/I/41vo71HHZIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 140 monodosis repartidas en 5 paquetes de 28 monodosis cada uno. Peso neto de 1 paquete: 194 g. Total 5 paquetes = 1970gr
 - Café Fuerte
+- 140 monodosis repartidas en 5 paquetes de 28 monodosis cada uno. Peso neto de 1 paquete: 194 g. Total 5 paquetes = 1970gr
 - Monodosis compatibles con las máquinas de café SENSEO
 
 [🛒 Comprar!!!]({{< param buyurl >}})

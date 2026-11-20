@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Infusionado con Aceites Esenciales Naturales
-- Libre de ftalatos, propulsores y colorantes
-- Con control de intensidad y botón boost para un impulso adicional de frescura Botella del recambio está fabricada con un 50% de plático reciclado. Botella reciclable.
 - Hasta 70 días de frescor
+- Con control de intensidad y botón boost para un impulso adicional de frescura Botella del recambio está fabricada con un 50% de plático reciclado. Botella reciclable.
+- Libre de ftalatos, propulsores y colorantes
 - Spray Automático Active Fresh: nuestra nueva y mejor teconologia sin aerosol
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Protección controla los efectos de la humedad ambiental, brindando acción antifrizz.
 - Keraliss Complex: complejo exclusivo con keratina vegetal y ácido hialurónico, que actúa en la fibra capilar aportando la dosis necesaria de hidratación y nutrientes para restaurarla y fortalecerla
-- Nueva formulación que prolonga un 50% el efecto del alisado, en lugar de 12 semanas, alarga y disfruta de tu alisado durante 18 semanas.
-- Tratamiento de mantenimiento de uso diario, con los esenciales para mantener y prolongar tu alisado.
 - Champú y acondicionador de 225 ml
+- Tratamiento de mantenimiento de uso diario, con los esenciales para mantener y prolongar tu alisado.
+- Nueva formulación que prolonga un 50% el efecto del alisado, en lugar de 12 semanas, alarga y disfruta de tu alisado durante 18 semanas.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6W7V95J{{</world>}}

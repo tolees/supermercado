@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Es adecuado para 12 tortitas
-- Conservar en un lugar fresco y seco
 - Ofrece una fácil preparación
 - Con práctico embalaje
+- Conservar en un lugar fresco y seco
 - Ideal para toda la familia
 
 [🛒 Aquí!!!]({{< param buyurl >}})

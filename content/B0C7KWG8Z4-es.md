@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Estrella Galicia - Especial Mini Cerveza Lager 24 Latas x 25 cl | Maltas Pilsen y Tostada Lúpulos Nugget y Perle Formato Mini Lata Ideal Compartir 5 5% Volumen de Alcohol'
-date: 2026-11-18 08:21:52
+date: 2026-11-19 20:39:02
 image: 'https://m.media-amazon.com/images/I/51G0hzvr0rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0C7KWG8Z4/?tag=tolees-21'
 descuento: '31.58'
-average: '12.515294117647207'
+average: '12.375000000000139'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

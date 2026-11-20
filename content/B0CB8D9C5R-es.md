@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nestlé Extrafino Turrón Chocolate y Dulce de Leche 215g | Turrón de chocolate con leche relleno cremoso de dulce de leche sabor suave ideal para Navidad'
-date: 2026-11-18 22:20:28
+date: 2026-11-20 02:35:35
 image: 'https://m.media-amazon.com/images/I/41zIhjxhmVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

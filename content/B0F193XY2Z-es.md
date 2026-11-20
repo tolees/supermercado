@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ligeresa Salsa Bocabajo Original 430 ml'
-date: 2026-11-18 19:13:08
+date: 2026-11-20 01:45:40
 image: 'https://m.media-amazon.com/images/I/41OAXjn7SDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F193XY2Z/?tag=tolees-21'
 descuento: '50.94'
-average: '1.7476470588235225'
+average: '1.7227777777777711'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

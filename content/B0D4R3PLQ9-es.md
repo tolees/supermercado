@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DKNY 24/7 Eau de Parfum para Mujer Perfume Floral Amaderado 50 ml'
-date: 2026-11-11 15:11:16
+date: 2026-11-20 08:08:36
 image: 'https://m.media-amazon.com/images/I/41wLYHNIgOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D4R3PLQ9/?tag=tolees-21'
 descuento: '14.36'
-average: '23.69090909090913'
+average: '23.438695652173951'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

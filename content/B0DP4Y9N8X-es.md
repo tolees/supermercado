@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ideal para bebes de 12 a 36 meses
-- La siguiente información se aplica a cada unidad del paquete
-- Es listo para tomar
-- Leche con cereales y cacao
-- Contiene Omega 3, Calcio, Hierro y vitaminas
 - Sin aceite de palma
+- Ideal para bebes de 12 a 36 meses
+- Contiene Omega 3, Calcio, Hierro y vitaminas
+- Leche con cereales y cacao
+- Es listo para tomar
+- La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DP4Y9N8X{{</world>}}

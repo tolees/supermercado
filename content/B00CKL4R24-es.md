@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - El roble americano le aporta toques de vainilla que le otorgan su particular sabor
 - Sabor con un equilibrio delicado y fuertes notas de piña
 - Aroma es afrutado con un toque veraniego
-- Se recomienda servir solo o con hielo en un vaso de cristal ancho
 - De color oro brillante
+- Se recomienda servir solo o con hielo en un vaso de cristal ancho
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00CKL4R24{{</world>}}

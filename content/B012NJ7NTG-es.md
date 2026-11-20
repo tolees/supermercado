@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Britney Spears Fantasy Intimate Edition 100 ml Eau de Parfum para Mujer | Fragancia Floral Ambarina Gourmand Notas de Lichi Azúcar Moreno y Jazmín Botella Blanca'
-date: 2026-11-12 18:02:25
+date: 2026-11-20 05:50:28
 image: 'https://m.media-amazon.com/images/I/21vFbV4KL2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B012NJ7NTG/?tag=tolees-21'
 descuento: '25.83'
-average: '20.5075'
+average: '20.335'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

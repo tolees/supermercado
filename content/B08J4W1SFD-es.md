@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Old Spice Original Desodorante en Barra para Hombre Sin Aluminio 4x50ml'
-date: 2026-09-10 16:11:14
-image: 'https://m.media-amazon.com/images/I/41TvRUIfyfL._SL500_._SL400_.jpg'
+title: 'Old Spice Original Desodorante En Barra Para Hombres 4x50 ml Fresco 24 Horas Todos Los Días Con Uso Diario Perfume Duradero Fragancia Excepcional Protección Contra El Mal Olor'
+date: 2026-11-20 15:57:08
+image: 'https://m.media-amazon.com/images/I/41mrA53ebrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08J4W1SFD-es Old Spice Original Desodorante en Barra para Hombre Sin...'
+slug: 'B08J4W1SFD-es Old Spice Original Desodorante En Barra Para Hombres 4x50...'
 sku: 'B08J4W1SFD-es'
 tags: [ 'desodorante','🇪🇸', ]
-actualPrice: 11.96 EUR
+actualPrice: 9.31 EUR
 currency: EUR
-price: 11.96
-comparePrice: 11.96 EUR
-prodname: 'Old Spice Original Desodorante en Barra para Hombre Sin Aluminio 4x50ml'
+price: 9.31
+comparePrice: 14.27 EUR
+prodname: 'Old Spice Original Desodorante En Barra Para Hombres 4x50 ml Fresco 24 Horas Todos Los Días Con Uso Diario Perfume Duradero Fragancia Excepcional Protección Contra El Mal Olor'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08J4W1SFD/?tag=tolees-21'
-descuento: '0.00'
-average: '9.38529411764705'
+descuento: '34.76'
+average: '9.3831428571428486'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Desayuno ideal para los niños
 - Con vitaminas y calcio
+- Desayuno ideal para los niños
 - Forma de los personajes del mar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

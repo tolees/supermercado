@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L Oréal Paris Accord Parfait Sérum con Color Light 2 - 3 30ml | Ácido Hialurónico* Glicerina Piel más Lisa y Luminosa Acabado Natural Accord Parfait Serúm'
-date: 2026-11-18 12:51:43
+date: 2026-11-20 02:25:51
 image: 'https://m.media-amazon.com/images/I/31HAy0SwV+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B097WL6QWT/?tag=tolees-21'
 descuento: '49.00'
-average: '12.148295454545423'
+average: '12.100333333333301'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

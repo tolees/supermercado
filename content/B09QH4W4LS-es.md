@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Caffè Borbone Don Carlo Cápsulas Compostables Mezcla de Café Oro - 100 Cápsulas - Compatibles con Máquinas de Café Lavazza®* A Modo Mio®* para uso doméstico'
-date: 2026-11-15 17:13:51
+date: 2026-11-20 06:39:16
 image: 'https://m.media-amazon.com/images/I/41sISkfHgwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene una textura crujiente
 - Es un postre adecuado a cualquier hora del día
 - Barritas de chocolate rellenas de caramelo
 - Con un fino aroma a chocolate y caramelo
 - Ideal para compartir con amigos
+- Tiene una textura crujiente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00JA8MRD6{{</world>}}

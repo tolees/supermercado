@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Corega Max Fijación + Sellado Crema Prótesis Dentales 70 g | Crema fijadora para prótesis dentales hasta 12 horas de fijación ayuda a sellar frente a restos de comida sin colorantes'
-date: 2026-11-11 17:44:23
+date: 2026-11-20 15:39:06
 image: 'https://m.media-amazon.com/images/I/4131of3jsxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CVH8DL6/?tag=tolees-21'
 descuento: '43.34'
-average: '10.124285714285715'
+average: '9.887777777777778'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

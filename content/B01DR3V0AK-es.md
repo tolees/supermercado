@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Edulcorante natural vegano sin azúcar, carbohidratos o grasa I sin colorantes y libre de OGM
 - Gotas de azúcar de stevia pura original sin otros edulcorantes, la dulzura se obtiene de las hojas de Stavia puras
-- Alternativa líquida a los cubos de azúcar, pastillas, jarabe de azúcar, dulces y polvos
 - Sostenible en frasco de vidrio de farmacéutico con pipeta como ayuda dosificadora
+- Edulcorante natural vegano sin azúcar, carbohidratos o grasa I sin colorantes y libre de OGM
+- Alternativa líquida a los cubos de azúcar, pastillas, jarabe de azúcar, dulces y polvos
 - Sustituto de azúcar para cocinar y hornear, adecuado para: algodón de azúcar, requesón, yogur, café, batidos, leche, batidos, helados, platos dietéticos, cereales o agua
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

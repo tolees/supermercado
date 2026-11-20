@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lotus Biscoff Crema para Untar | Cremoso | Tarro PET | 400g | Sabor a Galleta Caramelizada | Vegano | Sin Frutos Secos | Sin Colorantes ni Aromas Añadidos'
-date: 2026-11-18 11:59:22
+date: 2026-11-19 18:48:41
 image: 'https://m.media-amazon.com/images/I/41B3uVe5IXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BPMM551J/?tag=tolees-21'
 descuento: '34.30'
-average: '3.292621359223296'
+average: '3.2773333333333286'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

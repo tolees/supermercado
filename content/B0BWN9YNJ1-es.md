@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- FORMATO CARGA DE CAJA: Presentado en formato de carga de caja, ideal para mayor comodidad, reposición frecuente o consumo habitual.
 - NO FRITAS: Snack horneado, no frito, con textura crujiente, ideal como aperitivo o para picar entre horas.
 - A BASE DE CEREALES: Elaboradas con un 76 % de cereales (maíz y arroz), combinados con aceites vegetales y sazonador aromático.
 - FORMATO MINI TORTITAS: Tamaño pequeño y práctico, fácil de consumir y compartir en cualquier momento del día.
-- FORMATO CARGA DE CAJA: Presentado en formato de carga de caja, ideal para mayor comodidad, reposición frecuente o consumo habitual.
 - RECETA MEDITERRÁNEA: Mini tortitas de cereales aromatizadas con sabor tomate y aceituna, inspiradas en la receta mediterránea.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

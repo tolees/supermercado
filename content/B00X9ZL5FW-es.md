@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sabor menta limpia
 - Con complejo de fluoruro de estaño
+- Sabor menta limpia
 - Protección 3 veces más efectiva (frente a la erosión del esmalte y la sensibilidad en comparación con el dentífrico Oral-B 3DW Brilliance)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

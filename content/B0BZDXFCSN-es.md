@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - 12 sobres de 85g
 - Desarrollo óseo y muscular
+- Bocaditos en salsa para gatitos con Pavo
 - Contribuye a un crecimiento saludable
 - Apto para gatitos de 2 a 12 meses de edad
-- Bocaditos en salsa para gatitos con Pavo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BZDXFCSN{{</world>}}

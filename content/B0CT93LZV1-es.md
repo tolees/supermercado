@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Delicadas y refinadas mousse con una deliciosa cascada de salsa
-- Elaborado con ingredientes de alta calidad
 - Reciclable Por favor separe la tapa de la pirámide
+- Delicadas y refinadas mousse con una deliciosa cascada de salsa
 - Alimento 100% completo y equilibrado
+- Elaborado con ingredientes de alta calidad
 - Con una forma perfecta para ofrecer una exquisita experiencia culinaria
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 6 Packs de 4 latas de 25cl. Total: 24 Latas
-- Bebida refrescante aromatizada a base de agua con gas carbónico añadido y zumo de piña. Inspirada en el cóctel Piña colada.
 - Una combinación de intensas burbujas, zumo de frutas y sabores naturales para una experiencia única y sofisticada de cóctel sin alcohol. Inspirado en el cóctel Piña colada
 - Una alternativa saludable a los refrescos. Bajo en calorías
+- 6 Packs de 4 latas de 25cl. Total: 24 Latas
+- Bebida refrescante aromatizada a base de agua con gas carbónico añadido y zumo de piña. Inspirada en el cóctel Piña colada.
 - Perfecta para refrescarse en cualquier momento del día. ¡Servir bien fría!
 
 [🛒 Aquí!!!]({{< param buyurl >}})

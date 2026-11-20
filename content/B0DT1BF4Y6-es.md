@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Contiene zumo de naranja
-- Formato de botella individual de 2 litros
-- Kas con sabor naranja
 - Proteger de la luz solar y olores agresivos
+- Formato de botella individual de 2 litros
 - No congelar; conservar en lugar limpio, fresco seco
+- Kas con sabor naranja
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DT1BF4Y6{{</world>}}

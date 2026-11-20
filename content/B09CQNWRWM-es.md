@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Proteína animal de alta calidad para ayudar a mantener músculos fuertes
-- Con atún, arenque y verduras
-- Con prebióticos naturales para ayudar a una digestión saludable.
-- Desarrollado por nutricionistas de mascotas y revisado por veterinarios
-- Receta deliciosa con proteínas de calidad
 - Sin aromatizantes, colorantes ni conservantes artificiales añadidos. Sin soja, trigo ni cebada añadidos.
+- Proteína animal de alta calidad para ayudar a mantener músculos fuertes
 - Alimento completo para gatos adultos: 100% nutrición completa y equilibrada
+- Receta deliciosa con proteínas de calidad
+- Con atún, arenque y verduras
 - Biotina y zinc para ayudar a mantener un pelo y piel sanos
+- Desarrollado por nutricionistas de mascotas y revisado por veterinarios
+- Con prebióticos naturales para ayudar a una digestión saludable.
 - Vitamina D para ayudar a mantener los huesos fuertes
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Incorpora un botón para cuando necesites un boost extra de fragancia
-- Elige entre 5 niveles de intensidad de fragancia para conseguir tu nivel de fragancia
 - Aroma Ropa Limpia; infusionado con 2 veces más aceites esenciales vs los anteriores recambios de Air wick Eléctricos
 - Con indicador de recarga baja
+- Elige entre 5 niveles de intensidad de fragancia para conseguir tu nivel de fragancia
 - Difusor inteligente con tecnología Anti-Fading que libera la fragancia de forma continua para disfrutar de una fragancia siempre perceptible
 
 [🛒 Visítala!!!]({{< param buyurl >}})

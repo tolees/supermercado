@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Se debe conservar en un lugar fresco y seco
+- Adecuado para toda la familia
 - Disfrútala sola, o como guarnición
 - Ensalada rusa con atún
-- Adecuado para toda la familia
-- Se debe conservar en un lugar fresco y seco
-- óptima para aquellas personas con un ritmo de vida dinámico
 - La siguiente información se aplica a cada unidad del paquete
+- óptima para aquellas personas con un ritmo de vida dinámico
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CN2LTJQF{{</world>}}

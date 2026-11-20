@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Tono: 3 Marrón Oscuro
 - Color rico y radiante
 - Con ácido hialurónico y proteína de soja
 - Cantidad: 60 ml
-- Tono: 3 Marrón Oscuro
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07FPJXBD9{{</world>}}

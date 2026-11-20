@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tipo de producto: Desodorante
-- Marca: Dr. Hauschka
 - Género: Mujer
+- Marca: Dr. Hauschka
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B010ODHMDK{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sutiles notas tostadas y ahumadas
-- En boca da paso a sabores dulces y notas sutiles de cacao, fusionados con matices de madera
-- En nariz una primera sensación a fruta madura como melocotón y albaricoque
 - Se puede servir solo, con hielo o en una gama de bebidas y cócteles
+- En boca da paso a sabores dulces y notas sutiles de cacao, fusionados con matices de madera
+- Sutiles notas tostadas y ahumadas
+- En nariz una primera sensación a fruta madura como melocotón y albaricoque
 - Color ámbar y oro profundo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

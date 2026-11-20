@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Tipo: fresco y con encanto
 - Familia olfativa: floral afrutado
-- Para: ella
 - Notas de corazón: azahar, jazmín, haba tonka y cacao
+- Para: ella
 - Notas de salida: pomelo, manzana roja, grosella negra y pimienta rosa
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

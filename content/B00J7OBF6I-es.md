@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Óptimo con arroz, carnes rojas y pastas con carne
-- Volumen: 0.75 liters
+- Color granate cereza
+- Aromas a frutas rojas, bayas silvestres y un toque vegetal
 - Un predominio de fresas y frambuesas y un final dulce
 - Volumen paquete: 750.0 mililitros
-- Aromas a frutas rojas, bayas silvestres y un toque vegetal
-- Color granate cereza
 - Contenido de alcohol (alc/vol.): 13.5 porcentaje por volumen
 - En boca es sabroso, equilibrado, muy afrutado
+- Volumen: 0.75 liters
+- Óptimo con arroz, carnes rojas y pastas con carne
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00J7OBF6I{{</world>}}

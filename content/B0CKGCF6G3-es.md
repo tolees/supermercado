@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Paté en tarrinas sabor pollo
-- Alimento completo y equilibrado para perros pequeños
-- Paté en tarrinas sabor pollo
-- Alimento completo y equilibrado para perros pequeños
 - Indicado para perros adultos (1-10 años) pequeños (1-8 años)
-- Indicado para perros adultos (1-10 años) pequeños (1-8 años)
-- Sin colorantes ni conservantes
 - Fácil de digerir
+- Sin colorantes ni conservantes
+- Paté en tarrinas sabor pollo
+- Alimento completo y equilibrado para perros pequeños
+- Alimento completo y equilibrado para perros pequeños
+- Indicado para perros adultos (1-10 años) pequeños (1-8 años)
+- Paté en tarrinas sabor pollo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CKGCF6G3{{</world>}}

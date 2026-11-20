@@ -28,16 +28,16 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fórmula no grasa, no obstruye los poros
-- Fragancia tropical y sensación ligera
-- 12 horas de hidratación y protección intensa
-- Protección eficaz UVA / UVB con SPF 30
-- Envase inspirado en productos cosméticos: 50 ml
 - Loción solar protectora con lazos hidratantes adaptada a la sensibilidad de la cara
-- Con la garantía de calidad de Hawaiian Tropic
-- Muy resistente al agua
 - Recomendado por la Asociación contra el Cancer de Piel
+- Envase inspirado en productos cosméticos: 50 ml
+- Fragancia tropical y sensación ligera
+- Muy resistente al agua
+- Protección eficaz UVA / UVB con SPF 30
+- Fórmula no grasa, no obstruye los poros
+- Con la garantía de calidad de Hawaiian Tropic
 - Diseñada para actuar debajo del maquillaje
+- 12 horas de hidratación y protección intensa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B071VGZWPB{{</world>}}

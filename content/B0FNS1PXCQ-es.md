@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Tommy New York 100 ml Eau de Toilette para Hombre | Fragancia Fougère Especiada Notas Especiadas y Amaderadas Frasco de Vidrio Azul'
-date: 2026-11-17 12:05:20
+date: 2026-11-20 08:05:01
 image: 'https://m.media-amazon.com/images/I/41tMFbYNRWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FNS1PXCQ/?tag=tolees-21'
 descuento: '5.01'
-average: '29.391052631578969'
+average: '28.866190476190493'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

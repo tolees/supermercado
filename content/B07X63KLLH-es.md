@@ -30,10 +30,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
 - Café molido de STARBUCKS equilibrado y con notas a frutos secos
-- Con un toque de flores y frutos secos, un buen equilibrio y una gran complejidad
-- Este café 100 % Colombia tiene un sabor intenso, un sabor espléndido y un regusto único de frutos secos
 - Comprometidos con el abastecimiento ético de café al 100% en colaboración con Conservation International
+- Con un toque de flores y frutos secos, un buen equilibrio y una gran complejidad
 - Los cafés de tostado medio de STARBUCKS son suaves y equilibrados
+- Este café 100 % Colombia tiene un sabor intenso, un sabor espléndido y un regusto único de frutos secos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07X63KLLH{{</world>}}

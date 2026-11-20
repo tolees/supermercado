@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WC Net - Lejía Gel Mountain Fresh para Wc Limpia Higieniza y Blanquea Inmediatamente 800ml El embalaje puede variar'
-date: 2026-11-06 09:52:37
+date: 2026-11-20 08:48:34
 image: 'https://m.media-amazon.com/images/I/417IrhAxWhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07SCWY78Y-es WC Net - Lejía Gel Mountain Fresh para Wc Limpia Higieniza...'
 sku: 'B07SCWY78Y-es'
 tags: [ 'lejía','🇪🇸', ]
-actualPrice: 2.86 EUR
+actualPrice: 2.45 EUR
 currency: EUR
-price: 2.86
+price: 2.45
 comparePrice: 2.95 EUR
 prodname: 'WC Net - Lejía Gel Mountain Fresh para Wc Limpia Higieniza y Blanquea Inmediatamente 800ml El embalaje puede variar'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SCWY78Y/?tag=tolees-21'
-descuento: '3.05'
-average: '2.8019999999999974'
+descuento: '16.95'
+average: '2.7605882352941156'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Finish Limpiamáquinas líquido para lavavajillas - Pack 4'
-date: 2026-11-17 11:50:05
+date: 2026-11-20 04:06:16
 image: 'https://m.media-amazon.com/images/I/51rfflsB+FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QBQH8GD/?tag=tolees-21'
 descuento: '15.43'
-average: '12.434245524296719'
+average: '12.422569974554751'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

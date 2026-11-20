@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Coloración permanente de larga duración
 - Revlon Powder Blush 001 Oh Baby Pink Róż do policzków, hochwertiger Rouge
+- Coloración permanente de larga duración
 - Powder Blush 001 Oh Baby Pink
 
 [🛒 Visítala!!!]({{< param buyurl >}})

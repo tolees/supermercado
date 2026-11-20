@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L Oréal Paris Men Expert Thermic Resist Desodorante en Spray Pack 6 x150ml | Tecnología Heat-Rush Protección hasta 45°c Eficacia 72H Control de la Transpiración Men Expert'
-date: 2026-11-18 23:54:08
+date: 2026-11-20 01:53:56
 image: 'https://m.media-amazon.com/images/I/51JY8kM3LlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GZWFZ1JH/?tag=tolees-21'
 descuento: '27.81'
-average: '16.125714285714288'
+average: '15.728750000000002'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

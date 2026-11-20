@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Elaborado con ingredientes naturales y de alta calidad para una dieta equilibrada
-- Comida húmeda de alta calidad que proporciona a tu gato todos los nutrientes
 - Pienso completo para gatos adultos
+- Comida húmeda de alta calidad que proporciona a tu gato todos los nutrientes
 - Se sirve en una bolsa de porciones de 85 g
 
 [🛒 Visítala!!!]({{< param buyurl >}})

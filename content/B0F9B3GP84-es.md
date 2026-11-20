@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Más rápido que nunca*: Presentamos el detergente Skip Ciclos Cortos Eficacia Express.
 - El primer detergente de Skip diseñado para tus ciclos más cortos.
 - HIPOALERGÉNICO: Fórmula hipoalergénica y dermatológicamente testada; es un producto que respeta las pieles sensibles y es óptimo para bebés
+- Más rápido que nunca*: Presentamos el detergente Skip Ciclos Cortos Eficacia Express.
 - Suave y delicado: Mimosín Caricias proporciona suavidad en cada lavado
 
 [🛒 Comprar!!!]({{< param buyurl >}})

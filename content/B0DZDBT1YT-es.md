@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Puños : Puños acanalados
+- Artículo : Jersey de punto
 - Corte : Corte regular
 - Cuello : Cuello redondo
-- Puños : Puños acanalados
 - Manga : Manga larga
-- Artículo : Jersey de punto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DZDBT1YT{{</world>}}

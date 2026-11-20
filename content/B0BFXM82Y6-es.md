@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- A la vista: apariencia translúcida
-- La violeta aporta a esta ginebra Premium de Puerto de Indias inconfundibles notas florales, suaves y aterciopeladas junto a la canela, que aparece en esta composición para dar un sabor fragante y cálido con detalles dulces y toques amargos
 - Una ginebra en la que se mezclan la esencia de las moras y una cuidadosa selección de ingredientes que completan y perfilan el producto
+- A la vista: apariencia translúcida
 - En nariz: destacan las notas frutales de la mora subrayadas por finos recuerdos a caramelo de violeta, sobre un fondo fresco y cítrico
+- La violeta aporta a esta ginebra Premium de Puerto de Indias inconfundibles notas florales, suaves y aterciopeladas junto a la canela, que aparece en esta composición para dar un sabor fragante y cálido con detalles dulces y toques amargos
 - En boca: tras una entrada fina y aterciopelada, las notas complejas de los frutos negros silvestres se abren paso con sus matices suaves, intensos, agridulces, culminando con el ligerísimo toque característico de la canela
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

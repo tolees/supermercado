@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Delineado intenso y duradero.
-- Delineador de ojos con punta de fieltro.
-- Fácil de desmaquillar.
-- Punta flexible que facilita la aplicación.
-- La siguiente información se aplica a cada unidad del paquete
 - Liner de punta de flitro preciso y modulable.
+- Delineado intenso y duradero.
+- Fácil de desmaquillar.
+- La siguiente información se aplica a cada unidad del paquete
+- Delineador de ojos con punta de fieltro.
+- Punta flexible que facilita la aplicación.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FV8DZ8SY{{</world>}}

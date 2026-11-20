@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GUESS Seductive Red Eau de Toilette para Mujer Perfume Gourmand 50 ml'
-date: 2026-11-11 15:28:20
+date: 2026-11-20 07:07:58
 image: 'https://m.media-amazon.com/images/I/416OH-SySvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09KR33VN3/?tag=tolees-21'
 descuento: '21.15'
-average: '18.603333333333335'
+average: '18.3'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HARIBO Golosinas Ositos de Oro 250g'
-date: 2026-10-25 21:49:21
+date: 2026-11-20 12:01:24
 image: 'https://m.media-amazon.com/images/I/51NG2XuyGbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08L9FP79H/?tag=tolees-21'
 descuento: '43.69'
-average: '1.8272'
+average: '1.814074074074074'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

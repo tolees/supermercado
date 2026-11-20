@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Perfumes
-- Hombre
 - Marca: estee lauder
+- Hombre
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01DPURYGY{{</world>}}

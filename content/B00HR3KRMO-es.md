@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oraldine Enjuague Bucal Antiséptico Uso Diario 400 ml y 200 ml 2 uds | Colutorio Antisético y Antifúngico Elimina la Placa Anti Periodontitis Gingivitis y Halitosis Con Hexeditina'
-date: 2026-11-15 08:47:49
+date: 2026-11-20 05:31:43
 image: 'https://m.media-amazon.com/images/I/5124i7kyVgS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HR3KRMO/?tag=tolees-21'
 descuento: '41.95'
-average: '6.0308695652173752'
+average: '6.0138297872340267'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

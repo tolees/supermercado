@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'by Amazon Café Molido House Blend Tostado Medio 1 36kg 6 Paquetes de 227g Certificado por Rainforest Alliance'
-date: 2026-09-07 13:35:39
+date: 2026-11-20 05:58:48
 image: 'https://m.media-amazon.com/images/I/418BXHYrheL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07C79Y6KQ-es by Amazon Café Molido House Blend Tostado Medio 1 36kg 6...'
 sku: 'B07C79Y6KQ-es'
 tags: [ 'café','molido','🇪🇸', ]
-actualPrice: 13.45 EUR
+actualPrice: 15.73 EUR
 currency: EUR
-price: 13.45
-comparePrice: 14.05 EUR
+price: 15.73
+comparePrice: 18.28 EUR
 prodname: 'by Amazon Café Molido House Blend Tostado Medio 1 36kg 6 Paquetes de 227g Certificado por Rainforest Alliance'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C79Y6KQ/?tag=tolees-21'
-descuento: '4.27'
-average: '11.51'
+descuento: '13.95'
+average: '12.565'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,15 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tostado: velocidad media, color medio
-- SUAVE Y DELICADO: Suave y redondeado con una acidez fresca
-- Una mezcla de granos de café molido arábica y robusta
-- Apto para dietas vegetarianas y veganas
-- Tostado y envasado en Bélgica
-- CERTIFICACIÓN RAINFOREST ALLIANCE: La procedencia del café utilizado para este producto goza de la certificación Rainforest Alliance, lo que significa que no solo sabe bien, sino que también tiene un impacto positivo. Con cada compra, ayuda a cientos de agricultores y sus familias en todo el mundo, además de aportar su granito a la selva tropical; beber mejor es hacerlo mejor
-- Intensidad 3/5
-- Apto para cafeteras de émbolo, filtro o moka (italianas)
-- Envasado en atmósfera protectora para mantener su frescura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07C79Y6KQ{{</world>}}

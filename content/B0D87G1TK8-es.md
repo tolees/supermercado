@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tejido de alto rendimiento
-- Diseño transpirable
 - Ajuste atlético
+- Diseño transpirable
+- Tejido de alto rendimiento
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D87G1TK8{{</world>}}

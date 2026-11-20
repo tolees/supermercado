@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Irresistible mix de sabores
+- Surtido de caramelos de goma
 - HARIBO ESPAÑA, S.A.U., Ctra. Girona - Banyoles km.14, 17844 Cornella del Terri (Girona) España
 - Delicioso mix de diferentes piezas
-- Surtido de caramelos de goma
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BM48CXC8{{</world>}}

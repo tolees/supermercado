@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tortitas de maíz sabor olivas y cebollino (8unidades)
-- Cada pack contiene aproximadamente 13 tortitas
 - 44kcal por Tortita
+- Tortitas de maíz sabor olivas y cebollino (8unidades)
 - Cada caja contiene 8 packs
+- Cada pack contiene aproximadamente 13 tortitas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BWNG9XVN{{</world>}}

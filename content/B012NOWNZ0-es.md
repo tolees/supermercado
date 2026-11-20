@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Boss The Scent Eau de Toilette para Hombre | Fragancia amaderada y ambarina con notas de extracto de jengibre acordes de fruta de maninka y cuero larga duración.'
-date: 2026-11-11 23:39:19
+date: 2026-11-20 05:50:41
 image: 'https://m.media-amazon.com/images/I/31caExp18jL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B012NOWNZ0/?tag=tolees-21'
 descuento: '5.09'
-average: '33.108780487804829'
+average: '33.217674418604609'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

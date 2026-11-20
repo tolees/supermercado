@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'by Amazon Capuchino Chocolate Instantáneo 300g'
-date: 2026-11-12 10:53:22
+date: 2026-11-20 06:57:40
 image: 'https://m.media-amazon.com/images/I/41o8TU4UjRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D1RGTY2H/?tag=tolees-21'
 descuento: '14.88'
-average: '3.5375000000000028'
+average: '3.4480000000000022'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

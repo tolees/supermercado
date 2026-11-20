@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Tienen un alto contenido de fibra
-- Ideal como snack
-- Es un producto apto para vegetarianos
 - Galletas rellenas de crema de chocolate
+- Es un producto apto para vegetarianos
+- Ideal como snack
 - No contienen gluten
+- Tienen un alto contenido de fibra
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09WVFZWNJ{{</world>}}

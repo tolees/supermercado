@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ariel Detergente Lavadora Líquido Brisa Limpia 150 Lavados Paquete de 6'
-date: 2026-11-16 12:49:53
+date: 2026-11-20 09:07:11
 image: 'https://m.media-amazon.com/images/I/41ihAHOMDCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FC2DWLY5/?tag=tolees-21'
 descuento: '38.60'
-average: '30.489999999999949'
+average: '30.444545454545406'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

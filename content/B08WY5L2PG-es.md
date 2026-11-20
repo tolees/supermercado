@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Axe Desodorante Bodyspray Apollo 150ml pack de 6 unidades'
-date: 2026-11-18 12:42:44
+date: 2026-11-20 15:56:25
 image: 'https://m.media-amazon.com/images/I/41dVjazRZYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08WY5L2PG/?tag=tolees-21'
 descuento: '33.68'
-average: '16.519285714285715'
+average: '16.182000000000002'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

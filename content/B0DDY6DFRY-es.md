@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bebida de almendra UHT sin azúcares añadidos
-- Este envase contiene 26 porciones
 - Con calcio, riboflavina, vitamina B12 y vitamina D añadidos
 - Apto para dietas vegetarianas y veganas
+- Bebida de almendra UHT sin azúcares añadidos
+- Este envase contiene 26 porciones
 - Conservar en un lugar fresco y seco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

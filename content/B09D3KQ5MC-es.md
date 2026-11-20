@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SPAGNOLO - Sport 150 ml Colonia Hombre Perfume Formato Spray Eau de Toilette Natural y Masculina Aroma Amaderado Especiado Fragancia Fresca Enérgica y de Larga Duración'
-date: 2026-06-19 21:19:26
+date: 2026-11-20 06:42:16
 image: 'https://m.media-amazon.com/images/I/41eSGuB+wsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09D3KQ5MC-es SPAGNOLO - Sport 150 ml Colonia Hombre Perfume Formato...'
 sku: 'B09D3KQ5MC-es'
 tags: [ 'de','eau','toilette','🇪🇸', ]
-actualPrice: 10.95 EUR
+actualPrice: 12.75 EUR
 currency: EUR
-price: 10.95
-comparePrice: 13.85 EUR
+price: 12.75
+comparePrice: 13.5 EUR
 prodname: 'SPAGNOLO - Sport 150 ml Colonia Hombre Perfume Formato Spray Eau de Toilette Natural y Masculina Aroma Amaderado Especiado Fragancia Fresca Enérgica y de Larga Duración'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09D3KQ5MC/?tag=tolees-21'
-descuento: '20.94'
-average: '10.45'
+descuento: '5.56'
+average: '11.37'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PIRÁMIDE OLFATIVA: Notas de salida: aldehído, mandarina, naranja dulce y notas acuosas; Notas de corazón: madera de cedro, neroli y pimienta; Notas de fondo: almizcle, haba tonka, vetiver y ámbar
-- ENÉRGICO Y MASCULINO: Un agua de colonia para hombres con estilos de vida activos que te empujará a brillar por tu buen gusto y energía. Es la verdadera esencia de la masculinidad moderna.
-- FRAGANCIA ÚNICA: Spagnolo Sport es un perfume masculino para hombres desenfadados y dinámicos que captura a la perfección la esencia de la masculinidad. Viene un frasco vaporizador de 150 mililitros.
-- TENDENCIA OLFATIVA: Este perfume de hombre tiene una tendencia amaderada especiada que rinde homenaje a la mezcla de estilos y tendencias, lo clásico con lo actual. Ideal para hombre amantes del deporte y del aire libre.
-- DE LARGA DURACIÓN: Es una fragancia cuya esencia se mantiene en la piel con el paso de las horas. Para que disfrutes de su olor durante todo el día, sin preocuparte por nada más
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09D3KQ5MC{{</world>}}

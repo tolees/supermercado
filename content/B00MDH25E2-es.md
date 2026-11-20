@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Larga duración: el delineador de ojos proporciona un aspecto duradero y sin manchas.
-- Sin fragancia: el delineador de ojos no tiene fragancia para pieles sensibles.
 - Para todos los tipos de piel: el delineador de ojos es adecuado para todos los tipos y tonos de piel.
 - Cobertura completa: el delineador de ojos proporciona una cobertura completa para un aspecto dramático.
+- Larga duración: el delineador de ojos proporciona un aspecto duradero y sin manchas.
+- Sin fragancia: el delineador de ojos no tiene fragancia para pieles sensibles.
 - Delineador de ojos impermeable: el delineador de ojos es impermeable para un uso a prueba de manchas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

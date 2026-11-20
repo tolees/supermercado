@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'La Estrella Café en Grano Torrefacto 500g'
-date: 2026-05-13 11:57:25
-image: 'https://m.media-amazon.com/images/I/415i--YZ4wL._SL500_._SL400_.jpg'
+title: 'La Estrella Café Grano Torrefacto 500g | Café en grano torrefacto con sabor intenso y carácter fuerte ideal para los amantes del café tradicional'
+date: 2026-11-20 06:12:38
+image: 'https://m.media-amazon.com/images/I/415SDdGHQKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07W6G6DTP-es La Estrella Café en Grano Torrefacto 500g'
+slug: 'B07W6G6DTP-es La Estrella Café Grano Torrefacto 500g | Café en grano...'
 sku: 'B07W6G6DTP-es'
 tags: [ 'café','🇪🇸', ]
-actualPrice: 5.02 EUR
+actualPrice: 6.78 EUR
 currency: EUR
-price: 5.02
-comparePrice: 5.9 EUR
-prodname: 'La Estrella Café en Grano Torrefacto 500g'
+price: 6.78
+comparePrice: 8.25 EUR
+prodname: 'La Estrella Café Grano Torrefacto 500g | Café en grano torrefacto con sabor intenso y carácter fuerte ideal para los amantes del café tradicional'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W6G6DTP/?tag=tolees-21'
-descuento: '14.92'
-average: '5.02'
+descuento: '17.82'
+average: '5.6066666666666665'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Café en grano torrefacto
-- Se puede servir solo o con leche
-- Una vez abierto conservar en un recipiente hermético
-- Ideal para el desayuno o una pausa durante el día
-- Fácil y rápido de preparar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07W6G6DTP{{</world>}}

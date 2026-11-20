@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Caffè Borbone Mezcla de Café "Mia Napoli" - 100 Cápsulas - Compatibles con Máquinas de Café Nespresso®* para uso doméstico'
-date: 2026-11-17 23:31:48
+date: 2026-11-20 07:31:30
 image: 'https://m.media-amazon.com/images/I/41sY1dcO1PL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09YMR4DV3/?tag=tolees-21'
 descuento: '18.59'
-average: '19.064444444444455'
+average: '18.592727272727281'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

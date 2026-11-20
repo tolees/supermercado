@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sabor amargo y dulce a la vez, con matices cítricos y muy versátil.
-- La tónica Schweppes Selection Pomelo sigue un proceso único de maceración artesanal de los mejores botánicos naturales
 - Ideal para consumirla mezclada con ginebra con mucho hielo. Disfruta de un gin tonic especial
-- Refresco adulto que combina el frescor y amargor de la tónica con un toque cítrico a pomelo
+- La tónica Schweppes Selection Pomelo sigue un proceso único de maceración artesanal de los mejores botánicos naturales
 - Bebida refrescante elaborada con ingredientes seleccionados cuidadosamente con aromas naturales
+- Refresco adulto que combina el frescor y amargor de la tónica con un toque cítrico a pomelo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C9F1NLPY{{</world>}}

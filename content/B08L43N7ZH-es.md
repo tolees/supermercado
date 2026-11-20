@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ideal para compartir
 - Conservar en un lugar fresco y seco
-- Con sabor Original
 - De textura crujiente
+- Ideal para compartir
+- Con sabor Original
 - Hecho de maíz
 
 [🛒 Visítala!!!]({{< param buyurl >}})

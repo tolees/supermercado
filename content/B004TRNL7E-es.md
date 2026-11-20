@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Rellenos de dulce de leche
 - Ideales para el desayuno, la merienda o como postre.
+- Rellenos de dulce de leche
 - 3 unidades de Alfajores Negros Mardel
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Harimsa Harina de Almendra 100% Sin Gluten 250g - Apta para Repostería Keto'
-date: 2026-11-17 21:17:58
+date: 2026-11-20 03:44:57
 image: 'https://m.media-amazon.com/images/I/51CSqlXOVDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0C69CJK93/?tag=tolees-21'
 descuento: '4.52'
-average: '2.3072727272727271'
+average: '2.273333333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

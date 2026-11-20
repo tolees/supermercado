@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colon Polvo Activo - Detergente para lavadora adecuado para ropa blanca y de color formato polvo - 135 dosis 7.037 kg'
-date: 2026-11-13 13:03:54
+date: 2026-11-20 08:44:52
 image: 'https://m.media-amazon.com/images/I/41HBtTFGjmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAEBRPK/?tag=tolees-21'
 descuento: '26.33'
-average: '16.056666666666825'
+average: '15.978679245283169'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

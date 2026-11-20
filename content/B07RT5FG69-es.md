@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rexona Desodorante Aerosol Antitranspirante para hombre Cobalt Dry Pack Ahorro 2x 200ml El embalaje puede variar'
-date: 2026-10-10 10:44:51
+date: 2026-11-20 15:45:53
 image: 'https://m.media-amazon.com/images/I/41Sd9gRvJgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07RT5FG69-es Rexona Desodorante Aerosol Antitranspirante para hombre...'
 sku: 'B07RT5FG69-es'
 tags: [ 'desodorante','rexona','🇪🇸', ]
-actualPrice: 5.78 EUR
+actualPrice: 4.99 EUR
 currency: EUR
-price: 5.78
+price: 4.99
 comparePrice: 5.78 EUR
 prodname: 'Rexona Desodorante Aerosol Antitranspirante para hombre Cobalt Dry Pack Ahorro 2x 200ml El embalaje puede variar'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RT5FG69/?tag=tolees-21'
-descuento: '0.00'
-average: '5.31199999999999'
+descuento: '13.67'
+average: '5.2982978723404157'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jersey Supersuave con Cuello en V Oatmeal Heathe'
-date: 2026-11-13 17:04:40
+date: 2026-11-20 11:36:08
 image: 'https://m.media-amazon.com/images/I/316hQ7ND2TL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

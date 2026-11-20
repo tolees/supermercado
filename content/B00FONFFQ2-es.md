@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rexona Desodorante Stick Antitranspirante para hombre Cobalt Dry 50ml - Pack de 6'
-date: 2026-11-10 14:56:51
+date: 2026-11-20 15:30:51
 image: 'https://m.media-amazon.com/images/I/41pvRbfDSKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FONFFQ2/?tag=tolees-21'
 descuento: '46.99'
-average: '12.098421052631483'
+average: '12.017999999999908'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

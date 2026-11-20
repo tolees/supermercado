@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Las Chiquilín de siempre, ahora, ¡con chocolate!
 - En prácticas bolsitas, ideal para merendar.
 - Delicioso chocolate
-- Las Chiquilín de siempre, ahora, ¡con chocolate!
 - ¡Llévatelas donde quieras!
 
 [🛒 Aquí!!!]({{< param buyurl >}})

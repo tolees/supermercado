@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pantene Suave y Liso Mascarilla de Keratina para Pelo Encrespado 3x300ml | Para el Cabello Seco Brillo Hasta 72 Horas Resultados Visibles Tras una Aplicación'
-date: 2026-11-15 18:19:42
+date: 2026-11-20 00:02:16
 image: 'https://m.media-amazon.com/images/I/51QqhhNKLWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DGGB67QG/?tag=tolees-21'
 descuento: '40.03'
-average: '9.5960606060605898'
+average: '9.578235294117631'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

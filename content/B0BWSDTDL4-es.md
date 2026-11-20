@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ayuda a matificar la piel y a reducir imperfecciones, granos y puntos negros.
+- Elimina impurezas, dejando una sensación de suavidad en la piel.
 - Ayuda a disminuir las rojeces. No comedogénico y mineral oil free.
+- Ayuda a matificar la piel y a reducir imperfecciones, granos y puntos negros.
 - Limpia en profundidad y ayuda a disminuir los brillos y el exceso de sebo de forma inmediata.
 - Proporciona un extra de higiene a la piel grasa o con tendencia acneica.
-- Elimina impurezas, dejando una sensación de suavidad en la piel.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BWSDTDL4{{</world>}}

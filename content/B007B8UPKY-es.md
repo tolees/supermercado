@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cobertura uniforme, tono iluminado; acabado mate
-- Aplícalo en forma de triangulo bajo la ojera y difumina a toquecitos con el dedo hasta que quede fundido con la piel y después aplica tu base de maquillaje habitual
 - Su textura ultra ligera no grasa deja respirar tu piel y atenúa los signos de fatiga
-- Color natural, aporta un resultado natural que cubre imperfecciones y disimula ojeras a la vez que ilumina tu mirada
 - Se adapta al tono de tu piel gracias a su fórmula con base transparente
+- Aplícalo en forma de triangulo bajo la ojera y difumina a toquecitos con el dedo hasta que quede fundido con la piel y después aplica tu base de maquillaje habitual
+- Cobertura uniforme, tono iluminado; acabado mate
+- Color natural, aporta un resultado natural que cubre imperfecciones y disimula ojeras a la vez que ilumina tu mirada
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B007B8UPKY{{</world>}}

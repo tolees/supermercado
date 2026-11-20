@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¡No renuncies al sabor!
 - Las Campurrianas de siempre, ahora en tamaño Mini con chocolate y 0% azúcares
 - Un placer en pequeñas dosis
+- ¡No renuncies al sabor!
 - También para compartir en familia
 - Delicosas en leche
 

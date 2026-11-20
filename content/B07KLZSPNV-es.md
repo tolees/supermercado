@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Impact Intense 100 ml Eau de Parfum para Hombre | Fragrancia Amaderada Ámbar Botella de Cristal con Degradado Azul'
-date: 2026-11-14 22:56:36
+date: 2026-11-20 06:23:25
 image: 'https://m.media-amazon.com/images/I/3142jKVfqNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KLZSPNV/?tag=tolees-21'
 descuento: '11.87'
-average: '37.919999999999995'
+average: '38.719999999999992'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

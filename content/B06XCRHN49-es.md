@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Conservar entre +2°C y +6°C
-- Ingredientes: Leche de oveja, Sal, Conservador E- 252, Cuajo de origen animal (cordero), Fermentos lácticos.
 - Corteza no comestible
+- Ingredientes: Leche de oveja, Sal, Conservador E- 252, Cuajo de origen animal (cordero), Fermentos lácticos.
 - País de origen: España
+- Conservar entre +2°C y +6°C
 - Listo para consumir
 
 [🛒 Comprar!!!]({{< param buyurl >}})

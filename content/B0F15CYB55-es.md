@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Fragancia indulgente de Lavanda y Camomila
 - Di Adiós Al Olor Corporal; el Aerosol invisible para la protección contra el olor durante todo el día
 - Nuevos Desodorantes Para Todo El Cuerpo Dove
-- Fórmula dermatológicamente testada, con 0% aluminio y enriquecido con ingredientes hidratantes
 - Adecuado para las axilas, pecho, muslos y mucho más
+- Fórmula dermatológicamente testada, con 0% aluminio y enriquecido con ingredientes hidratantes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F15CYB55{{</world>}}

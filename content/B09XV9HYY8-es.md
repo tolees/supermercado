@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ideal para recetas tradicionales
-- Adecuado para toda la familia
-- Las lentejas son pequeñas
 - Tienen una piel fina que no se desprende tras su cocción, con un sabor suave y cremosas al paladar
+- Adecuado para toda la familia
 - Lentejas ideales para recetas rápidas ya que no necesitan remojo y su tiempo de cocción es de unos 20 minutos
+- Las lentejas son pequeñas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09XV9HYY8{{</world>}}

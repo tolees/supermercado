@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Perfecto para inspirar y respirar
-- Caramelo duro con azúcar de menta fresca
 - Suave efecto balsámico
+- Caramelo duro con azúcar de menta fresca
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00XAOY7U2{{</world>}}

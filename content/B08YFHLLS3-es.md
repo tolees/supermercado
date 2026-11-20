@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tiene las dimensiones de 20.5 x 25 x 46 cm
 - Tipo del producto: peluche Canela Animal Crossing
 - De la marca Simba
+- Tiene las dimensiones de 20.5 x 25 x 46 cm
 - Es recomendado para todas las edades
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Conservar en un lugar fresco, seco y protegido del sol
-- Una vez abierto se debe mantener refrigerado
 - Tomar bien frío con hielo
 - Presenta un color rojo brillante
 - En boca es refrescante, dulce y equilibrado
+- Una vez abierto se debe mantener refrigerado
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00XDP487U{{</world>}}

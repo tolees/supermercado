@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ColaCao Cero Cacao Soluble sin Azúcares Añadidos 1 3 kg 92 Raciones'
-date: 2026-11-18 23:32:01
+date: 2026-11-20 01:40:21
 image: 'https://m.media-amazon.com/images/I/41XWuSgpNuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FLQCVCFY/?tag=tolees-21'
 descuento: '38.54'
-average: '8.3775000000000013'
+average: '8.7020000000000017'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

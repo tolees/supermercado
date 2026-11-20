@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cereales fuente de vitaminas del grupo B y hierro
-- Cereales sin aromas ni colorantes artificiales
 - Cereales de delicioso trigo inflado azucarado
+- Cereales sin aromas ni colorantes artificiales
 - Cereales ricos en vitamina D
 - La siguiente información se aplica a cada unidad del paquete
 - Convierte tus desayunos en la parte más divertida del día con Smacks
+- Cereales fuente de vitaminas del grupo B y hierro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FXNHZN1W{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Utilizado como casual
 - No es resistente al agua
+- Utilizado como casual
 - Corte regular
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ralph Lauren 2706 - Agua De Colonia 75 ml | Explosión chispeante de mandarina limón bergamota y jugosa piña con un corazón de acorde marino'
-date: 2026-11-15 23:03:52
+date: 2026-11-20 05:33:27
 image: 'https://m.media-amazon.com/images/I/31M3frzoyUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0009OAGX8/?tag=tolees-21'
 descuento: '21.53'
-average: '33.995999999999995'
+average: '31.051428571428566'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

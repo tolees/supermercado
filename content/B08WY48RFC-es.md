@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Axe Desodorante en Aerosol para Hombre Bodyspray Ice Chill 150ml - Pack de 6'
-date: 2026-11-19 05:43:20
+date: 2026-11-20 15:56:04
 image: 'https://m.media-amazon.com/images/I/41q8O3EznWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08WY48RFC/?tag=tolees-21'
 descuento: '23.76'
-average: '15.979285714285787'
+average: '15.937441860465187'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

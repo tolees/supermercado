@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Listerine Cuidado Total Protección Dientes y Encías Enjuague Bucal 2 x1 L | 24 h de Protección Triple Acción Sabor Menta Fresca Previene Caries Protege Encías Reduce Placa y Sarro Aliento Fresco'
-date: 2026-11-15 07:26:43
+date: 2026-11-20 15:47:58
 image: 'https://m.media-amazon.com/images/I/51wzLUq3UwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B086KDL6WT/?tag=tolees-21'
 descuento: '18.29'
-average: '10.40626086956506'
+average: '10.393965517241224'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

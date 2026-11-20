@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B Sensitive Clean Recambios Originales Blancos Pack de 10 | Cabezales de Recambio para Cepillo de Dientes Eléctrico Oral B Pro Filamentos Ultrasuaves para Encías Sensibles'
-date: 2026-11-10 10:10:42
+date: 2026-11-20 15:49:23
 image: 'https://m.media-amazon.com/images/I/51AW7DrQ43L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BWNTF2YF/?tag=tolees-21'
 descuento: '25.25'
-average: '27.96307692307693'
+average: '27.561333333333341'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

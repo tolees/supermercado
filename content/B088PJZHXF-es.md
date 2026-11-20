@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- VEGANA, SIN LACTOSA, SIN GLUTEN, NI ALÉRGENOS Ideal para personas con intolerancias alimentarias
 - Ideal para disfrutar bien fría y lista para consumir en cualquier momento del día
+- VEGANA, SIN LACTOSA, SIN GLUTEN, NI ALÉRGENOS Ideal para personas con intolerancias alimentarias
 - Presentada en botella de 1 litro con tapón de rosca para mejor conservación
 - Sabor auténtico de horchata, ahora sin azúcares añadidos: todo el sabor de siempre con menos calorías
 - CHUFI NACE EN 1979 EN ALBORAYA, VALENCIA Elaborada exclusivamente con chufa de calidad

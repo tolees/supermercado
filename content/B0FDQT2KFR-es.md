@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenor Aire Fresco Suavizante Ropa Brisa Limpia Pack 8x50 Lavados 400 | Suavizante con frescor resistente al secado en ambientes húmedos o bajo el sol directo. Pack de 8 unidades.'
-date: 2026-11-18 11:38:29
+date: 2026-11-20 09:20:53
 image: 'https://m.media-amazon.com/images/I/51aeQ6EnoBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FDQT2KFR/?tag=tolees-21'
 descuento: '49.13'
-average: '22.240624999999977'
+average: '22.108235294117627'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para: el
 - Cuando: para todos los días
-- Recomendaciones de uso: rociar ligeramente en los puntos de pulso: pecho, bíceps y muñecas
 - Tipo: fresca y versátil
+- Para: el
+- Recomendaciones de uso: rociar ligeramente en los puntos de pulso: pecho, bíceps y muñecas
 - Autentica fragancia de UNITED COLORS OF BENETTON Perfumes
 
 [🛒 Comprar!!!]({{< param buyurl >}})

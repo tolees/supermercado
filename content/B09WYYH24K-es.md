@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Elaboradas con aceite vegetal de girasol alto oleico
-- Ideal como snack
-- Galletas con copos de avena
 - Tienen un alto contenido de fibra
+- Elaboradas con aceite vegetal de girasol alto oleico
+- Galletas con copos de avena
+- Ideal como snack
 - Están aptos para vegetarianos
 
 [🛒 Comprar!!!]({{< param buyurl >}})

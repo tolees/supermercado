@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Calma, protege y cuida la piel
-- Con un práctico packaging que se puede llevar a cualquier parte
-- Desodorante roll on para mujeres
 - Con olor de rosa
+- Desodorante roll on para mujeres
+- Con un práctico packaging que se puede llevar a cualquier parte
+- Calma, protege y cuida la piel
 - La siguiente información se aplica a cada unidad del paquete
 - Proporciona protección contra la transpiración
 

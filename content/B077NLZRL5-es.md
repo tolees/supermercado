@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conservar en lugar fresco y seco
 - Infusión de jengibre con cúrcuma
+- Conservar en lugar fresco y seco
 - Libre de cafeína
 - Elaborado con ingredientes naturales
 - Contiene bolsitas envueltas herméticas e individuales con triple capa

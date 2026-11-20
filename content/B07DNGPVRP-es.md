@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Yves Rocher Perfume COMME UNE EVIDENCE Eau de Parfum para Mujeres 100ml | Perfumes para Mujer - Rosa y Bergamota - Fragancia Floral Verde y Notas de Chipre - Fabricado en Francia - Idea de Regalo'
-date: 2026-11-18 19:12:28
+date: 2026-11-20 06:04:12
 image: 'https://m.media-amazon.com/images/I/31l7LkQ2VFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DNGPVRP/?tag=tolees-21'
 descuento: '30.79'
-average: '28.99'
+average: '28.49'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

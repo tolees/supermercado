@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Maíz frito crujiente y sabroso
 - Sin conservantes ni aromas artificiales
-- Apto para compartir
 - Fuente de fibra
+- Apto para compartir
+- Maíz frito crujiente y sabroso
 - Sin aceite de palma
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

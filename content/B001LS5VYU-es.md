@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Alimento
 - Muesli crujiente
+- Alimento
 - Hámster
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

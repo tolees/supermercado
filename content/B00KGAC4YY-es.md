@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- En equilibrio con el pH de la piel
 - Ingredientes y fragancia únicos
 - Convierte tu ducha diaria en un momento lleno de placer y cuidado
-- En equilibrio con el pH de la piel
 - Dermatológicamente comprobado
 - Su fórmula con Pro-vitamina y valiosos aceites nutritivos envuelve tu piel proporcionando sensación de hidratación y suavidad
 

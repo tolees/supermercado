@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Este dentífrico contiene flúor para proporcionar protección contra la caries
 - Mantén un aliento fresco con esta pasta de dientes con sabor a menta
-- Formato: Pack de 12 unidades de 75 mililitros cada una
-- Esta pasta de dientes se trata de un agradable gel de menta refrescante
 - Manten unos dientes fuertes y un esmalte sano con Colgate Fresh Gel
+- Esta pasta de dientes se trata de un agradable gel de menta refrescante
+- Formato: Pack de 12 unidades de 75 mililitros cada una
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08L5V4RKG{{</world>}}

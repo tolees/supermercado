@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Diesel Loverdose Eau de Parfum perfume de mujer divertido 75 ml | Aroma adictivo y excesivo irresistible y único para quien vive el amor de forma dulce y transgresora'
-date: 2026-11-18 19:17:04
-image: 'https://m.media-amazon.com/images/I/31l6h9EVyvL._SL500_._SL400_.jpg'
+date: 2026-11-20 05:44:16
+image: 'https://m.media-amazon.com/images/I/31YILnQthmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B005GWRNQQ/?tag=tolees-21'
 descuento: '51.54'
-average: '50.15499999999998'
+average: '48.620833333333316'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

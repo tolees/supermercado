@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Sin azúcar pero con el sabor de siempre
 - Fresa, cola y cereza.
 - Sin Gluten
-- Sin azúcar pero con el sabor de siempre
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01IUQPXAW{{</world>}}

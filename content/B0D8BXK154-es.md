@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Garnier Fructis Pure Non-Stop Coconut Water Champú limpiador para pieles grasas y puntas secas, 250 ml
 - Garnier
+- Garnier Fructis Pure Non-Stop Coconut Water Champú limpiador para pieles grasas y puntas secas, 250 ml
 - Champú
 
 [🛒 Comprar!!!]({{< param buyurl >}})

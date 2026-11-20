@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- El Tueste SUAVE STARBUCKS con una intensidad ligera de 6
 - Prepáralo en casa como a ti te gusta
 - Elaborado con granos de café 100% Arábica
 - Disfruta de las vibrantes notas de STARBUCKS BLONDE Espresso Roast Decaf by NESPRESSO
-- El Tueste SUAVE STARBUCKS con una intensidad ligera de 6
 - Cápsulas de café compatibles con máquinas NESPRESSO, cápsulas no compatibles para las máquinas Nespresso Vertuo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

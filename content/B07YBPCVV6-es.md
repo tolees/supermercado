@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Práctico accesorio para complementar la zona de aguas
 - Fácil de rellenar desde arriba
 - Superficie en acabado negro mate para combinar con los proyectos más actuales
+- Práctico accesorio para complementar la zona de aguas
 - Longitud y altura óptima para un cómodo manejo
 - Diseño elegante y atemporal
 

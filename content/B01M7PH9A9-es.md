@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colon original profesional detergente líquido lavadora pack de 2 9.8L | 146 lavados Smartpack 8 5 meses de limpieza y frescor'
-date: 2026-11-17 13:11:31
+date: 2026-11-20 08:45:36
 image: 'https://m.media-amazon.com/images/I/419kWk9d3kL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M7PH9A9/?tag=tolees-21'
 descuento: '26.14'
-average: '14.830416666666601'
+average: '14.76576923076917'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

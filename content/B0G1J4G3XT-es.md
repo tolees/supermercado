@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 🍽️ Perfectas para tapas, ensaladas o platos creativos, las aceitunas A Mar Espectacular ofrecen una experiencia gastronómica fresca, moderna y sorprendente.
-- 🌊 Pack de 3 botes de 370 g de aceitunas gordal A Mar Espectacular, ideales para compartir en aperitivos o disfrutar en casa con todo su sabor mediterráneo.
-- 🍋 Sabor equilibrado y elegante, con notas yodadas y sutiles toques cítricos que evocan la brisa del mar y elevan cualquier momento gourmet.
 - 👨‍🍳 Marinadas con la exclusiva salsa A Mar d’Amunt creada por el chef Paco Pérez, que aporta matices marinos y un carácter único a cada aceituna.
+- 🍋 Sabor equilibrado y elegante, con notas yodadas y sutiles toques cítricos que evocan la brisa del mar y elevan cualquier momento gourmet.
+- 🌊 Pack de 3 botes de 370 g de aceitunas gordal A Mar Espectacular, ideales para compartir en aperitivos o disfrutar en casa con todo su sabor mediterráneo.
+- 🍽️ Perfectas para tapas, ensaladas o platos creativos, las aceitunas A Mar Espectacular ofrecen una experiencia gastronómica fresca, moderna y sorprendente.
 - 🫒 Aceitunas gordal A Mar Espectacular seleccionadas por su color verde brillante, textura firme y sabor intenso, con un toque de aceite de oliva virgen extra.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

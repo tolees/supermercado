@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Perfecto con carnes rojas, asados y quesos curados.
-- Aromas intensos a frutas negras, especias y tostados.
+- Botella de 75 cl.
 - Vino tinto D.O. Empordà, elaborado con Garnacha y Cariñena.
 - Boca sedosa, estructurada y con final persistente.
-- Botella de 75 cl.
+- Aromas intensos a frutas negras, especias y tostados.
+- Perfecto con carnes rojas, asados y quesos curados.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G1T11DQR{{</world>}}

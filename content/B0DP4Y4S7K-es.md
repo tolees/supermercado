@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Limpia y desinfecta de una pasada todas las superficies
-- No desprende vapores, no mancha la ropa, no daña las superficies
 - La siguiente información se aplica a cada unidad del paquete
 - Con un agradable aroma
+- Limpia y desinfecta de una pasada todas las superficies
+- No desprende vapores, no mancha la ropa, no daña las superficies
 - Eficaz contra bacterias, hongos y virus envueltos como el de la gripe
 - Sin lejía
 

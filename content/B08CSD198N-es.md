@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Segafredo Zanetti Café en Grano Espresso Casa Paquete de 1 Kg - Apto para la Moka - Línea Le Classiche Granos de Café Tostado Medio Sabor Completo y Cremoso'
-date: 2026-11-12 08:09:09
+date: 2026-11-20 06:33:01
 image: 'https://m.media-amazon.com/images/I/31euC+ljOqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

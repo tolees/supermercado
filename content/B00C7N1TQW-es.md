@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 100% Café asado y molido
 - Compatible con máquina café expreso Nescafé Dolce Gusto
 - Aroma fuerte y tostado, sabor italiano
-- 100% Café asado y molido
 - Mezcla de Arábica y Robusta.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un producto de calidad marca ROYAL ORIENT
 - Sabor asiático
+- Un producto de calidad marca ROYAL ORIENT
 - Cocina oriental en tu hogar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

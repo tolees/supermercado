@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rexona Desodorante Aerosol Advance Protection Bright Bouquet 72 h para mujer 200 ml - Pack de 6 Packaging may vary'
-date: 2026-11-13 14:30:46
+date: 2026-11-20 15:49:14
 image: 'https://m.media-amazon.com/images/I/41BixRv8teL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09XDWHCKJ/?tag=tolees-21'
 descuento: '24.97'
-average: '15.958235294117648'
+average: '15.774444444444445'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bonka café tostado en grano para hostelería mezcla - 1 paquete x 1 kg'
-date: 2026-11-18 17:38:34
+date: 2026-11-20 05:49:55
 image: 'https://m.media-amazon.com/images/I/4127Pl6c2fL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Café con cuerpo y suaves toques de cacao y frutos secos tostados que equilibran la suave sensación en boca
 - Con un sabor suave y ligero, se trata del tostado de café delicado; disfruta del café Starbucks en casa; tu café favorito sin salir de casa
+- Comprometidos con el abastecimiento ético de café al 100% en colaboración con Conservation International
 - STARBUCKS Pike Place Roast Café en Grano, suave y con un toque de chocolate
 - STARBUCKS Blonde Espresso Roast Café en Grano, suave y envolvente
-- Comprometidos con el abastecimiento ético de café al 100% en colaboración con Conservation International
-- Café con cuerpo y suaves toques de cacao y frutos secos tostados que equilibran la suave sensación en boca
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CHB6RT8K{{</world>}}

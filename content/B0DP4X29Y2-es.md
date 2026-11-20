@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sopa elaborada con ingredientes procedentes de agricultura sostenible
-- Sopa sin glutamato
-- Es una deliciosa sopa deshidratada de fideos, setas y coco con auténtico sabor oriental
-- Sopa Deshidratada Thai 69g
-- La siguiente información se aplica a cada unidad del paquete
-- Sopa elaborada sin colorantes
 - Sopa sin conservantes
+- La siguiente información se aplica a cada unidad del paquete
+- Sopa Deshidratada Thai 69g
+- Es una deliciosa sopa deshidratada de fideos, setas y coco con auténtico sabor oriental
+- Sopa elaborada con ingredientes procedentes de agricultura sostenible
+- Sopa elaborada sin colorantes
+- Sopa sin glutamato
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DP4X29Y2{{</world>}}

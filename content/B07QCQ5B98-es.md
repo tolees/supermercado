@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Finish All in 1 Max Power Gel para lavavajillas - 210 lavados - Aroma limón'
-date: 2026-11-14 23:28:25
+date: 2026-11-19 16:37:45
 image: 'https://m.media-amazon.com/images/I/51tshp3qiZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QCQ5B98/?tag=tolees-21'
 descuento: '36.60'
-average: '30.698011695906381'
+average: '30.654913294797638'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

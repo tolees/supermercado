@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ARIEL PODS Platinum Detergente Lavadora Liquido 76 Capsulas/Pastillas Jabon Frescor de Abril Limpieza Profunda Incluso en Ciclos Mas Frios'
-date: 2026-11-18 19:01:32
+date: 2026-11-20 09:31:56
 image: 'https://m.media-amazon.com/images/I/41-jxH3iFhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FFTHZ48S/?tag=tolees-21'
 descuento: '30.35'
-average: '21.457333333333359'
+average: '21.63764705882355'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

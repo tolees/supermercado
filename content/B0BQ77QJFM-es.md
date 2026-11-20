@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dove Men +Care Aerosol Para Hombre Clean Comfort 72 h 150 ML pack de 6 Unidades'
-date: 2026-11-17 18:04:50
+date: 2026-11-20 03:46:42
 image: 'https://m.media-amazon.com/images/I/41dS3REBCHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BQ77QJFM/?tag=tolees-21'
 descuento: '45.18'
-average: '10.291304347826083'
+average: '10.227199999999996'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

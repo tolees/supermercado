@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ARIEL PODS Platinum Detergente Lavadora Liquido 76 Capsulas/Pastillas Jabon Extra Poder Quitamanchas Limpieza Profunda'
-date: 2026-11-12 10:59:54
+date: 2026-11-20 09:31:01
 image: 'https://m.media-amazon.com/images/I/41ZKnoZfvUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FFTHTYX8/?tag=tolees-21'
 descuento: '18.13'
-average: '24.322857142857146'
+average: '24.234'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

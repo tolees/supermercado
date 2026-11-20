@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Para el cabello: Todos
 - Color del champú: transparente
 - La siguiente información se aplica a cada unidad del paquete
+- Para el cabello: Todos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DZNGK7LP{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ventilación para un secado rápido
 - Se desmonta para facilitar la limpieza
+- Ventilación para un secado rápido
 - Separador para guardar las cosas de manera organizada
 - Base antideslizante
 - Adecuado para almacenar cepillos de dientes eléctricos, tubos de pasta de dientes e hilo dental

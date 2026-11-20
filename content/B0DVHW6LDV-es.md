@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'MUGLER Alien Extraintense Eau de Parfum Perfume para Mujer Fragancia Floral Amaderada Gourmand y Refinada Audaz y Sensual Toque Dramático Recargable 90 ml'
-date: 2026-04-13 04:36:51
-image: 'https://m.media-amazon.com/images/I/317VxmlqEyL._SL500_._SL400_.jpg'
+title: 'Mugler Alien Extraintense Eau de Parfum floral amaderado 90 ml | Nueva versión del icono que celebra lo extraño que habita en cada mujer como su mayor poder'
+date: 2026-11-20 08:11:16
+image: 'https://m.media-amazon.com/images/I/31uVS23-L+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0DVHW6LDV-es MUGLER Alien Extraintense Eau de Parfum Perfume para Mujer...'
+slug: 'B0DVHW6LDV-es Mugler Alien Extraintense Eau de Parfum floral amaderado...'
 sku: 'B0DVHW6LDV-es'
 tags: [ 'de','eau','parfum','🇪🇸', ]
-actualPrice: 74.1 EUR
+actualPrice: 84.13 EUR
 currency: EUR
-price: 74.1
-comparePrice: 219.01 EUR
-prodname: 'MUGLER Alien Extraintense Eau de Parfum Perfume para Mujer Fragancia Floral Amaderada Gourmand y Refinada Audaz y Sensual Toque Dramático Recargable 90 ml'
+price: 84.13
+comparePrice: 97.18 EUR
+prodname: 'Mugler Alien Extraintense Eau de Parfum floral amaderado 90 ml | Nueva versión del icono que celebra lo extraño que habita en cada mujer como su mayor poder'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DVHW6LDV/?tag=tolees-21'
-descuento: '66.17'
-average: '32.2'
+descuento: '13.43'
+average: '43.74'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una nueva versión mucho más intensa del perfume para mujer Alien Eau de Parfum de Mugler. Esta reinterpretación lleva al límite los ingredientes del original, creando un aroma floral amaderado sólo apto para las mujeres más atrevidas, aquellas que no tienen miedo en sacar a relucir su lado más enigmático y sensual.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DVHW6LDV{{</world>}}

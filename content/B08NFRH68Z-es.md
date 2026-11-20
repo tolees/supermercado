@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'L OR Espresso Colombia Café en Grano 100% Arábica| 4x500g | Amazon Exclusive'
-date: 2026-09-15 18:29:58
-image: 'https://m.media-amazon.com/images/I/414f1LpOD7L._SL500_._SL400_.jpg'
+title: 'L OR Espresso Colombia Café en Grano | 4x500g | Amazon Exclusive | Intensidad 8 Pack 4 unidades 100% Natural'
+date: 2026-11-20 06:43:49
+image: 'https://m.media-amazon.com/images/I/31OVdKwpZ8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08NFRH68Z-es L OR Espresso Colombia Café en Grano 100% Arábica| 4x500g...'
+slug: 'B08NFRH68Z-es L OR Espresso Colombia Café en Grano | 4x500g | Amazon...'
 sku: 'B08NFRH68Z-es'
 tags: [ 'café','🇪🇸', ]
-actualPrice: 59.96 EUR
+actualPrice: 47.97 EUR
 currency: EUR
-price: 59.96
-comparePrice: 63.8 EUR
-prodname: 'L OR Espresso Colombia Café en Grano 100% Arábica| 4x500g | Amazon Exclusive'
+price: 47.97
+comparePrice: 59.96 EUR
+prodname: 'L OR Espresso Colombia Café en Grano | 4x500g | Amazon Exclusive | Intensidad 8 Pack 4 unidades 100% Natural'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08NFRH68Z/?tag=tolees-21'
-descuento: '6.02'
-average: '41.8068421052632'
+descuento: '20.00'
+average: '42.393809523809559'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

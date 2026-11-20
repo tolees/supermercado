@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Para pieles grasas o con imperfecciones.
-- Se puede utilizar de 3 formas diferentes.
 - Purifica, exfolia y da un acabado mate.
+- Se puede utilizar de 3 formas diferentes.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00S191VNW{{</world>}}

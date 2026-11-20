@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pellini N.42 Vivace Café Molido Tradicional para Moka 3 x 250 g | Sabor Intenso y Vigoroso Mezcla de Arábica y Robusta Tostado Fuerte 3 Paquetes de 250 g'
-date: 2026-11-16 18:46:51
+date: 2026-11-20 05:56:34
 image: 'https://m.media-amazon.com/images/I/41I+bOA5xXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01G1RXVA6/?tag=tolees-21'
 descuento: '16.68'
-average: '10.870000000000001'
+average: '10.890000000000002'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

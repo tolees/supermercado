@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cafè Corsini Espresso en grano 1kg. Selección de granos de café para una mezcla de sabor intenso y cremoso'
-date: 2026-11-12 11:09:19
+date: 2026-11-20 06:59:43
 image: 'https://m.media-amazon.com/images/I/31FMnd5aLVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W59G4PV/?tag=tolees-21'
 descuento: '39.79'
-average: '13.713333333333333'
+average: '13.595'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

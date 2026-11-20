@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colon Limpialavadoras - Limpia la lavadora y elimina malos olores Megapack de 3 usos 250 ml Paquete de 3 3 Unidades'
-date: 2026-11-14 08:22:13
+date: 2026-11-20 08:48:53
 image: 'https://m.media-amazon.com/images/I/51CLN+ccNQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V9NVL52/?tag=tolees-21'
 descuento: '44.81'
-average: '10.603282442748474'
+average: '10.579022556391354'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

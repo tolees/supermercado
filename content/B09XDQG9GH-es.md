@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Magnesio 56.3mg 15% Niacina 16mg 100% Vit B6 1,4mg 100% Vit D 5ug 100%
 - Epaplus Sleepcare Melatonina Retard Balance es un complemento alimenticio a base de melatonina (1,98 mg), ashwagandha, triptófano, vitaminas y minerales Su innovadora fórmula en comprimidos RETARD facilita la liberación prolongada y sostenida de ashwagandha y melatonina durante toda la noche (8 horas) según el estudio de disolución realizado por el Instituto Universitario de Ciencia y Tecnología de Barcelona. Para el estrés del día y sueño de noche. La ashwagandha, puede contribuir a mantener el balance emocional y ayudar al organismo a lidiar con el estrés del día
+- Magnesio 56.3mg 15% Niacina 16mg 100% Vit B6 1,4mg 100% Vit D 5ug 100%
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09XDQG9GH{{</world>}}

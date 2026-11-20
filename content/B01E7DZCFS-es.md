@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pellini Café Molido para Moka Originale 100% Arábica 250 g | Aroma Intenso y Envolvente Mezcla 100% Arábica Tostado Suave'
-date: 2026-11-18 16:12:31
+date: 2026-11-20 05:55:58
 image: 'https://m.media-amazon.com/images/I/31PfTy2E0BL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

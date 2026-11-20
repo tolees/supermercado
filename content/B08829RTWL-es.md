@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Perspirex ® | Original | Desodorante Antitranspirante Axilas Roll On para una protección y frescura anti sudor de hasta 5 días | 20 ml'
-date: 2026-11-17 11:16:51
+date: 2026-11-20 15:56:02
 image: 'https://m.media-amazon.com/images/I/21bN9qvU3oL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08829RTWL/?tag=tolees-21'
 descuento: '31.95'
-average: '12.523488372092888'
+average: '12.500227272727141'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

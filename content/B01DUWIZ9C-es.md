@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Conservar en lugar fresco y seco
-- Elaborada con ingredientes naturales
 - Sin conservantes
-- Pais de origen: España
+- Elaborada con ingredientes naturales
 - Puede contener trazas de leche, pescado, crustáceos y moluscos
+- Pais de origen: España
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01DUWIZ9C{{</world>}}

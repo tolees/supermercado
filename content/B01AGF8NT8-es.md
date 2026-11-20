@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Voll-Damm Cerveza Doble Malta 7 2% Caja de 24 Latas 33 cl | Märzenbier doble malta con lúpulos Nugget Magnum y Taurus. Toque cítrico y afrutado. De Damm desde 1876.'
-date: 2026-11-16 07:01:51
+date: 2026-11-19 22:14:52
 image: 'https://m.media-amazon.com/images/I/41r7HaBmCZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AGF8NT8/?tag=tolees-21'
 descuento: '36.91'
-average: '17.063629032258341'
+average: '17.047040000000276'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

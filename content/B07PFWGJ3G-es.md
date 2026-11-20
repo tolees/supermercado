@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cerveza de estilo Red Ale; Malt Beers
 - Elaborada con 7 maltas de cebada
+- Cerveza de estilo Red Ale; Malt Beers
 - De color rojo cobrizo
 - Cuerpo denso. Notas caramelizadas
 - Gusto y aroma a frutas

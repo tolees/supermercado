@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CALVIN KLEIN CK One Essence Parfum Intense Unisex | Fragancia fresca unisex con notas de bergamota italiana y té verde orgánico | Intensidad alta | 50ml'
-date: 2026-11-11 15:17:51
+date: 2026-11-20 06:52:08
 image: 'https://m.media-amazon.com/images/I/21ASZv4AUcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D8J5CVPK/?tag=tolees-21'
 descuento: '19.87'
-average: '20.571428571428545'
+average: '20.202499999999976'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

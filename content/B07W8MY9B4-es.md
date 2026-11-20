@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'La Estrella Café Grano Natural 500g | Café en grano natural ideal para moler al momento con aroma intenso y sabor equilibrado'
-date: 2026-11-10 01:11:30
+date: 2026-11-20 06:13:23
 image: 'https://m.media-amazon.com/images/I/3179t7rMIaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W8MY9B4/?tag=tolees-21'
 descuento: '16.71'
-average: '6.0931578947368568'
+average: '6.1100000000000136'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

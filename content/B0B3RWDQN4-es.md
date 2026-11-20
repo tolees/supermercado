@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vanish Oxi Action - Quitamanchas del día a día para ropa en spray sin lejía - Pack de 3 x 750 ml El embalaje puede variar'
-date: 2026-11-13 22:27:42
+date: 2026-11-20 08:59:26
 image: 'https://m.media-amazon.com/images/I/51zjtUL+9lL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0B3RWDQN4/?tag=tolees-21'
 descuento: '37.02'
-average: '11.43153846153877'
+average: '11.370597014925671'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Libre de ftalatos, propulsores y colorantes.
-- Hasta 70 días de frescor.
-- El packaging puede variar
 - Spray Automático Active Fresh: nuestra nueva y mejor teconologia sin aerosol.
+- Hasta 70 días de frescor.
+- Libre de ftalatos, propulsores y colorantes.
+- El packaging puede variar
 - Infusionado con Aceites Esenciales Naturales.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

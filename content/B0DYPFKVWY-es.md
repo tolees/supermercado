@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maybelline New York Corrector Borrador de Ojeras e Imperfecciones Rosa | Corrección del Tono Disimula Ojeras Ilumina la Mirada Aplicación Precisa Corrector Borrador'
-date: 2026-11-17 03:50:54
+date: 2026-11-20 12:03:28
 image: 'https://m.media-amazon.com/images/I/213shBX6RXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DYPFKVWY/?tag=tolees-21'
 descuento: '21.02'
-average: '9.120000000000001'
+average: '9.1214285714285737'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

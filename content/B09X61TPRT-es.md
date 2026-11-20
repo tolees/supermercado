@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'TOUS Your Powers 90 ml Eau de Toilette frutal floral gourmand para mujer'
-date: 2026-09-18 11:28:13
+title: 'TOUS Your Powers 90 ml Eau de Toilette frutal floral gourmand para mujer | Fragancia con vaporizador.'
+date: 2026-11-20 07:13:14
 image: 'https://m.media-amazon.com/images/I/31qd5ZkyXAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09X61TPRT-es TOUS Your Powers 90 ml Eau de Toilette frutal floral...'
 sku: 'B09X61TPRT-es'
 tags: [ 'de','eau','toilette','🇪🇸', ]
-actualPrice: 37.12 EUR
+actualPrice: 32.99 EUR
 currency: EUR
-price: 37.12
-comparePrice: 45.08 EUR
-prodname: 'TOUS Your Powers 90 ml Eau de Toilette frutal floral gourmand para mujer'
+price: 32.99
+comparePrice: 37.1 EUR
+prodname: 'TOUS Your Powers 90 ml Eau de Toilette frutal floral gourmand para mujer | Fragancia con vaporizador.'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09X61TPRT/?tag=tolees-21'
-descuento: '17.66'
-average: '37.12'
+descuento: '11.08'
+average: '35.055'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

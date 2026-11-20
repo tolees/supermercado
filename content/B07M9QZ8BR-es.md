@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Old Spice Captain Desodorante en Barra para Hombre Antiolor 24 h 6x50ml | Fragancia Duradera Apto para Uso Diario Invisible en Ropa Blanca y Negra'
-date: 2026-11-19 04:08:08
+date: 2026-11-20 15:44:56
 image: 'https://m.media-amazon.com/images/I/41mfyxbZpsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M9QZ8BR/?tag=tolees-21'
 descuento: '39.36'
-average: '14.677142857142981'
+average: '14.600454545454662'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nota de base de iris, vainilla de Tahití y sándalo blanco
 - Notas altas de bergamota y lavanda provenzal
-- Notas de corazón de jazmín sambac y cumarina
-- Guerlain mon guerlain edp w100; referencia 3346470131408
 - Es una fragancia oriental amaderada
 - Agua de perfume perfumería mujer
 - Agua de perfume eau de toilette
+- Guerlain mon guerlain edp w100; referencia 3346470131408
+- Nota de base de iris, vainilla de Tahití y sándalo blanco
+- Notas de corazón de jazmín sambac y cumarina
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01N6XHMNE{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CALVIN KLEIN CK Everyone Eau de Toilette unisex |Fragancia cítrica unisex de ingredientes de origen natural con notas de naranja jengibre y madera de cedro | 100 ml'
-date: 2026-11-17 20:27:38
+date: 2026-11-20 06:26:39
 image: 'https://m.media-amazon.com/images/I/21AnLvQZEdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B083P5K7BN/?tag=tolees-21'
 descuento: '17.64'
-average: '25.512857142857158'
+average: '25.323333333333345'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

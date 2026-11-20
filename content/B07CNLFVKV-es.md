@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Diesel Only The Brave Eau de Toilette de hombre valiente 125 ml | Aroma fuerte y determinado que encapsula la energía para buscar el éxito y superarse cada día'
-date: 2026-11-15 22:26:47
-image: 'https://m.media-amazon.com/images/I/41bMX90lwyL._SL500_._SL400_.jpg'
+date: 2026-11-20 05:59:50
+image: 'https://m.media-amazon.com/images/I/31lF5RYFMfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CNLFVKV/?tag=tolees-21'
 descuento: '61.59'
-average: '40.559999999999839'
+average: '40.150303030302879'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

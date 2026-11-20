@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Red Bull Bebida Energética Caja Mixta Sabores 24 x 250 ml | contiene cafeína taurina vitaminas B azúcar y agua sabores coco sandía melocotón y baya de junio pack de 24 latas'
-date: 2026-11-14 19:51:02
+date: 2026-11-20 13:15:06
 image: 'https://m.media-amazon.com/images/I/41betMvWSOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DTYTQV1S/?tag=tolees-21'
 descuento: '31.50'
-average: '24.323333333333331'
+average: '24.24'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

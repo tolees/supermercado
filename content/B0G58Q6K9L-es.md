@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye proteínas de alta calidad, ácidos grasos, vitaminas y minerales
 - La siguiente información se aplica a cada unidad del paquete
 - Elaborado con ingredientes de calidad seleccionados
+- Incluye proteínas de alta calidad, ácidos grasos, vitaminas y minerales
 - Nutrición 100% completa y equilibrada
 - Contribuye en la salud, la vitalidad y la felicidad de tu gato
 

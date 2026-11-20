@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BONKA Café Tostado Grano Colombia 500g | Café en grano de Colombia con sabor intenso y aroma característico ideal para café de origen'
-date: 2026-11-11 16:32:30
+date: 2026-11-19 16:29:11
 image: 'https://m.media-amazon.com/images/I/41gHpRQ2n5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09ZVPP3DN-es BONKA Café Tostado Grano Colombia 500g | Café en grano de...'
 sku: 'B09ZVPP3DN-es'
 tags: [ 'café','🇪🇸', ]
-actualPrice: 8.57 EUR
+actualPrice: 8.26 EUR
 currency: EUR
-price: 8.57
+price: 8.26
 comparePrice: 11.5 EUR
 prodname: 'BONKA Café Tostado Grano Colombia 500g | Café en grano de Colombia con sabor intenso y aroma característico ideal para café de origen'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09ZVPP3DN/?tag=tolees-21'
-descuento: '25.48'
-average: '8.9466666666666672'
+descuento: '28.17'
+average: '8.775'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

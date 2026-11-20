@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Papel Cocina Jumbo COLHOGAR Paratodo con Media hoja paquete 1 rollo'
-date: 2026-11-19 10:52:50
+date: 2026-11-20 12:02:58
 image: 'https://m.media-amazon.com/images/I/51IFlzwV5lL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SD5F8V0/?tag=tolees-21'
 descuento: '7.57'
-average: '3.0823809523809529'
+average: '3.1752173913043484'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Conservar en un lugar fresco y seco
 - Aceite de sésamo tostado
+- Conservar en un lugar fresco y seco
 - Envasado en Lituania
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El producto es fabricado con ingredientes de calidad
-- Marca: Revlon
 - Producto para el cuidado del cabello
+- Marca: Revlon
+- El producto es fabricado con ingredientes de calidad
 - Apto para el uso diario
 
 [🛒 Aquí!!!]({{< param buyurl >}})

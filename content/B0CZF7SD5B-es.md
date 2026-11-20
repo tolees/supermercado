@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - La siguiente información se aplica a cada unidad del paquete
-- Le informazioni seguenti si applicano a ciascuna unità della confezione
-- Fija la base de maquillaje a tu piel para una mayor duración
-- Matifica tu piel
 - Luce un acabado mate por más de 12 horas
+- Fija la base de maquillaje a tu piel para una mayor duración
 - Controlla brillos y borra poros
+- Matifica tu piel
+- Le informazioni seguenti si applicano a ciascuna unità della confezione
 - Para pieles normales y grasas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

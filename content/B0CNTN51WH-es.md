@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Resalta los tonos rubios
 - Con una suave fragancia floral
 - Elimina los tonos cobrizos
 - Una fórmula energizante enriquecida con pigmentos morados y vitamina E
-- Resalta los tonos rubios
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CNTN51WH{{</world>}}

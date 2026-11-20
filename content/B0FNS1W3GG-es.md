@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Tommy Girl New York 100 ml Eau de Toilette para Mujer | Fragancia Floral Afrutada Notas Florales y Frutales Frasco de Vidrio Rosa'
-date: 2026-11-16 12:01:22
+date: 2026-11-20 08:09:18
 image: 'https://m.media-amazon.com/images/I/41fywi8YjUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FNS1W3GG/?tag=tolees-21'
 descuento: '43.50'
-average: '28.154'
+average: '27.705000000000002'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

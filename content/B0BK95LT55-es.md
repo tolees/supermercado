@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'NIVEA Cellular Luminous630 - Pack de Regalo Tratamiento Completo Antimanchas - Día 40 ml Noche 50 ml Sérum 30 ml Contorno de Ojos 15 ml y Manos 50 ml - Todo Tipo de Piel'
-date: 2026-11-12 14:03:22
-image: 'https://m.media-amazon.com/images/I/41pBpKFL0qL._SL500_._SL400_.jpg'
+date: 2026-11-20 15:53:21
+image: 'https://m.media-amazon.com/images/I/41lfqDe-BwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BK95LT55/?tag=tolees-21'
 descuento: '38.00'
-average: '46.25266666666667'
+average: '45.515882352941183'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

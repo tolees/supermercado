@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B Dentífrico Pro-Expert Sensibilidad y Blanqueamiento Pack 12x75 ml | Pasta de Dientes para Dientes Sensibles con Fluoruro de Estaño Protege contra La Placa Sabor a Menta'
-date: 2026-11-11 10:39:19
+date: 2026-11-20 08:58:29
 image: 'https://m.media-amazon.com/images/I/41X8hoC-MvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09KY2RDBR/?tag=tolees-21'
 descuento: '43.34'
-average: '27.669545454545542'
+average: '27.029583333333413'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

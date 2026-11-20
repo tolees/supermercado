@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Las notas olfativas principales de este producto son cítrico, floral y afrutado
-- Contiene 100ml
 - Este producto está indicado para hSombras
 - De la marca Dior
+- Las notas olfativas principales de este producto son cítrico, floral y afrutado
+- Contiene 100ml
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0083WWRIK{{</world>}}

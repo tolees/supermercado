@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Powerade Blood Orange Bebida Isotónica Sin Gluten Pack 12 x 500 ml | Refrescante e hidratante con vitamina B6 y electrolitos sabor naranja entrenamiento y recuperación'
-date: 2026-11-11 19:17:30
+date: 2026-11-19 16:33:04
 image: 'https://m.media-amazon.com/images/I/51ExH1j4eML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CLPJFC12/?tag=tolees-21'
 descuento: '42.47'
-average: '11.918666666666667'
+average: '11.856470588235295'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Temperatura recomendada: 4 a 6º.
-- Muy refrescante, especial para las altas temperaturas del sur.
-- Pack de 24 latas 33cl.
 - Notas a levadura y lúpulo.
-- Alc. 4,6% vol.
+- Pack de 24 latas 33cl.
+- Temperatura recomendada: 4 a 6º.
 - Una cerveza de color ámbar claro brillante con una espuma persistente y pálida.
+- Muy refrescante, especial para las altas temperaturas del sur.
+- Alc. 4,6% vol.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07CZQR3HN{{</world>}}

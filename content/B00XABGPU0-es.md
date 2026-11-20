@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Nescafé Gold Natural Café Soluble 100g'
-date: 2026-09-14 12:10:19
+title: 'Nescafé Gold Café Soluble Natural 100g | Café soluble natural en frasco de vidrio con aroma intenso y sabor equilibrado ideal para disfrutar a diario'
+date: 2026-11-20 05:50:12
 image: 'https://m.media-amazon.com/images/I/41e8xmFOwUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00XABGPU0-es Nescafé Gold Natural Café Soluble 100g'
+slug: 'B00XABGPU0-es Nescafé Gold Café Soluble Natural 100g | Café soluble...'
 sku: 'B00XABGPU0-es'
 tags: [ 'café','nescafé','🇪🇸', ]
-actualPrice: 7.36 EUR
+actualPrice: 6.84 EUR
 currency: EUR
-price: 7.36
-comparePrice: 7.6 EUR
-prodname: 'Nescafé Gold Natural Café Soluble 100g'
+price: 6.84
+comparePrice: 7.37 EUR
+prodname: 'Nescafé Gold Café Soluble Natural 100g | Café soluble natural en frasco de vidrio con aroma intenso y sabor equilibrado ideal para disfrutar a diario'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XABGPU0/?tag=tolees-21'
-descuento: '3.16'
-average: '7.03272727272727'
+descuento: '7.19'
+average: '7.0030769230769208'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
