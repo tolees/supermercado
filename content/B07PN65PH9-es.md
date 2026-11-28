@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Consumirla entre 0° y 3°C para obtener sus máximas cualidades
+- De color dorado brillante, con una espuma blanca poco persistente, con aromas cítricos, amargor suave y sabor dulce de limón fresco
 - Cerveza de tipo lager aromatizada con limonada
 - 0.9% de alcohol en volumen
-- De color dorado brillante, con una espuma blanca poco persistente, con aromas cítricos, amargor suave y sabor dulce de limón fresco
-- Consumirla entre 0° y 3°C para obtener sus máximas cualidades
 - Ingredientes Naturales: Agua, malta Pilsen, lúpulo, azúcar líquido y aroma de limón y la exclusiva levadura Cruzcampo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

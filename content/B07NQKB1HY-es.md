@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Colección harry potter
-- Licencia oficial
+- Caja ilustrada con ventana
 - Alta calidad
 - Réplica exacta
-- Caja ilustrada con ventana
+- Licencia oficial
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07NQKB1HY{{</world>}}

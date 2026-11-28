@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fairy MaxPower Líquido Lavavajillas 8 x 450ml | Limpieza Fácil Y Sin Esfuerzo Incluso En Las Ollas Y Sartenes Más Grasientas'
-date: 2026-11-26 06:38:26
+date: 2026-11-27 14:41:40
 image: 'https://m.media-amazon.com/images/I/51vRIVaRdQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DK9HXNMP/?tag=tolees-21'
 descuento: '37.52'
-average: '16.999642857142771'
+average: '16.930344827586126'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

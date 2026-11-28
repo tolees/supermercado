@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate Triple Acción Xtra Fresh Pasta de Dientes Pack 12x75 ml | Dentífrico con flúor Triple acción: anticaries blanqueante y frescura extra con banda refrescante de menta'
-date: 2026-11-08 20:01:40
+date: 2026-11-27 20:41:58
 image: 'https://m.media-amazon.com/images/I/51SunV5DV3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0C5Y4T2YB/?tag=tolees-21'
 descuento: '49.03'
-average: '20.52074074074082'
+average: '20.197931034482835'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

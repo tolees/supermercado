@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Botanical Origin Detergente para lavadora apto para pieles sensibles 70 lavados Fragancia Jazmín Fresco y Lavanda Silvestre 2 unidades'
-date: 2026-11-20 08:49:43
+date: 2026-11-27 18:56:34
 image: 'https://m.media-amazon.com/images/I/41BWAaoupxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B081CVWMDX/?tag=tolees-21'
 descuento: '40.01'
-average: '18.30799999999989'
+average: '18.296126126126019'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

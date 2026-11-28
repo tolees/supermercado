@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Garnier Vitamina C Fresh & Bright Sorbete Crema Hidratante AntiManchas 85ml | Textura Sorbete Ultraligera con Vitamina C y Niacinamida Piel Sensible 48h Hidratación Ilumina y Reduce Manchas en 7 Días'
-date: 2026-10-30 21:11:16
+date: 2026-11-28 14:36:44
 image: 'https://m.media-amazon.com/images/I/41vgkiiS8TL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0G6KDLWKQ/?tag=tolees-21'
 descuento: '27.05'
-average: '3.89733333333333'
+average: '3.9529411764705853'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

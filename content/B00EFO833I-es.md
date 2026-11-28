@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Fabricante: HRA Pharma Deutschland GmbH, Deutschland
 - producto de atención médica de alta calidad
-- Yeso para pegar en la piel
 - para la prevención de las ampollas
 - El dispositivo médico de la farmacia (PZN: 00474778)
-- Fabricante: HRA Pharma Deutschland GmbH, Deutschland
+- Yeso para pegar en la piel
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00EFO833I{{</world>}}

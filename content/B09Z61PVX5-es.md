@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Alpro Bebida Vegetal de Avellana 8x1L'
-date: 2026-11-24 13:22:38
+date: 2026-11-28 09:44:11
 image: 'https://m.media-amazon.com/images/I/41L82gWB1JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09Z61PVX5/?tag=tolees-21'
 descuento: '34.84'
-average: '14.45384615384617'
+average: '14.257333333333348'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

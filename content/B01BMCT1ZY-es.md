@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colon - Detergente para lavadora profesional adecuado para ropa blanca y de color formato gel - 9 kg 134 Dosis'
-date: 2026-11-27 09:53:35
+date: 2026-11-28 10:47:17
 image: 'https://m.media-amazon.com/images/I/41J3w0RdW1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'detergente','🇪🇸', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99
-comparePrice: 39.01 EUR
+comparePrice: 38.99 EUR
 prodname: 'Colon - Detergente para lavadora profesional adecuado para ropa blanca y de color formato gel - 9 kg 134 Dosis'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BMCT1ZY/?tag=tolees-21'
-descuento: '61.57'
-average: '18.459599999999831'
+descuento: '61.55'
+average: '18.326153846153684'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

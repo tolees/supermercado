@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Neutrogena Hidratación Profunda Loción Hipoalergénica 750 ml 2 uds | Para el Cuerpo Con Glicerina y Pro-Ceramida 72h de Hidratación Absorción Rápida Sin Perfume Piel Seca y Sensible'
-date: 2026-11-19 19:19:45
+date: 2026-11-27 13:46:21
 image: 'https://m.media-amazon.com/images/I/41ga0lLp0LL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CD1ZEOQ/?tag=tolees-21'
 descuento: '55.95'
-average: '13.586065573770586'
+average: '13.503650793650886'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

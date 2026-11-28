@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hugo Deep Red Eau de Parfum para Mujer | Perfume floral y especiado con clementina naranja sanguina flor de jengibre y vainilla fragancia sensual y atrevida.'
-date: 2026-11-25 12:12:03
+date: 2026-11-27 17:36:22
 image: 'https://m.media-amazon.com/images/I/31IiDofz9QL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FQCNKYW4-es Hugo Deep Red Eau de Parfum para Mujer | Perfume floral y...'
 sku: 'B0FQCNKYW4-es'
 tags: [ 'de','eau','jengibre','parfum','🇪🇸', ]
-actualPrice: 18.67 EUR
+actualPrice: 18.37 EUR
 currency: EUR
-price: 18.67
+price: 18.37
 comparePrice: 28.9 EUR
 prodname: 'Hugo Deep Red Eau de Parfum para Mujer | Perfume floral y especiado con clementina naranja sanguina flor de jengibre y vainilla fragancia sensual y atrevida.'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FQCNKYW4/?tag=tolees-21'
-descuento: '35.40'
-average: '23.285000000000022'
+descuento: '36.44'
+average: '22.875416666666688'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

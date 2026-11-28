@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lavazza Qualità Oro 100 Cápsulas de Café Compatibles con las Máquinas Nespresso* Original con Notas Aromáticas Florales y Afrutadas 100% Arábica Intensidad 8 Tueste Ligero'
-date: 2026-11-26 11:37:36
+date: 2026-11-27 17:27:44
 image: 'https://m.media-amazon.com/images/I/41HGk1LXhgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09BFG8NQQ/?tag=tolees-21'
 descuento: '38.26'
-average: '31.331764705882382'
+average: '31.10000000000003'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

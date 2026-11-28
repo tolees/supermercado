@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIVEA Q10 Crema de noche regeneradora antiarrugas 50 ml | Crema hidratante facial de noche con Q10 creatina y ácido hialurónico crema facial con potenciador de colágeno doble acción'
-date: 2026-11-25 13:14:20
+date: 2026-11-27 22:16:41
 image: 'https://m.media-amazon.com/images/I/41u1WiFzxzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B001CL82XI/?tag=tolees-21'
 descuento: '36.76'
-average: '8.7130769230769243'
+average: '8.6270731707317072'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

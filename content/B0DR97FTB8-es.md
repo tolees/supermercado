@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Gel de ducha Dove Men+Care Clean Comfort 55 ml
-- Champú Tresemmé Hidratación Intensa 100 ml
-- Antitranspirante Roll-on Dove Men+Care Clean Comfort 50 ml
-- Dentífrico Signal White Now 14 ml
 - Cepillo de dientes plegable Signal
+- Antitranspirante Roll-on Dove Men+Care Clean Comfort 50 ml
+- Champú Tresemmé Hidratación Intensa 100 ml
+- Dentífrico Signal White Now 14 ml
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DR97FTB8{{</world>}}

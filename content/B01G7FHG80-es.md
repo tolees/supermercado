@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Red Bull Bebida Energética Sugarfree Sin Azúcar 24 x 250ml Single | contiene cafeína taurina vitaminas B edulcorantes y agua 250 ml pack de 24 latas'
-date: 2026-11-25 00:30:29
+date: 2026-11-27 12:38:02
 image: 'https://m.media-amazon.com/images/I/515FC8lbtbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01G7FHG80/?tag=tolees-21'
 descuento: '20.03'
-average: '24.775681818181774'
+average: '24.741521739130395'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

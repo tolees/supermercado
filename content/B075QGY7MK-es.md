@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Descubre Ibiza Psicodelic, la fragancia masculina que evoca recuerdos de la noche más increíble de tu vida, con noches interminables, en las que no bailar y disfrutar ni siquiera es una opción; el perfume que te llevará a un viaje inolvidable
 - Para: él
-- TIPO: atrevida y provocativa
+- Descubre Ibiza Psicodelic, la fragancia masculina que evoca recuerdos de la noche más increíble de tu vida, con noches interminables, en las que no bailar y disfrutar ni siquiera es una opción; el perfume que te llevará a un viaje inolvidable
 - AUTÉNTICA fragancia de Perfumes Pacha Ibiza
 - CUÁNDO: vida nocturna
+- TIPO: atrevida y provocativa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B075QGY7MK{{</world>}}

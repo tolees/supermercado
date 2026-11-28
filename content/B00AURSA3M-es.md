@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Sin azúcar y con un alto contenido en fibra, la combinación perfecta para disfrutar
-- Fabricado por galletas gullón
 - Las galletas perfectas para darte un capricho entre horas
-- Sin aceite de palma; producto elaborado con aceite de girasol alto oleico
 - Galletas digestive con cobertura de chocolate negro
+- Fabricado por galletas gullón
+- Sin aceite de palma; producto elaborado con aceite de girasol alto oleico
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00AURSA3M{{</world>}}

@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Die folgenden Informationen gelten für jede Einheit pro Packung
-- La siguiente información se aplica a cada unidad del paquete
 - Hecho en Italia: Grupo Gimoka - Pasión por el café desde los 80s, se compromete activamente a desarrollar envases fácilmente reciclables, compostables y ecológicos
-- Intensidad: 12
-- Mezcla: Robusta, rica y completa
 - Formato: 100 cápsulas de aluminio que preservan el aroma para conservar toda la frescura del café
 - Perfil sensorial: café espresso con sabor fuerte y notas de madera premium gracias al tueste prolongado. Caracterizado por notas envolventes que resultan en una combinación de matices de cacao amargo y frutos secos
+- La siguiente información se aplica a cada unidad del paquete
+- Die folgenden Informationen gelten für jede Einheit pro Packung
+- Mezcla: Robusta, rica y completa
+- Intensidad: 12
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F54QSRR1{{</world>}}

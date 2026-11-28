@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Forma de los personajes del mar
 - Se puede combinar con la mayoría de las bebidas calientes
 - Apto para cualquier hora del día
 - Conservar en un lugar fresco y seco
+- Forma de los personajes del mar
 - Con vitaminas y calcio
 
 [🛒 Visítala!!!]({{< param buyurl >}})

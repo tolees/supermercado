@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Punta del aplicador suave y afilable con un sacapuntas con apertura para lápices gruesos
+- Lápiz de ojos multiusos para conseguir cualquier look, Utilízalo como sombra de ojos, eyeliner o primer
+- Amplia gama de tonos que aporta versatilidad a tus looks de maquillaje, Aplícalo como base para una mirada impactante o delinea el párpado para aportar un toque de color
 - Textura ultra-cremosa que se desliza sin esfuerzo para una fácil aplicación, Fórmula vegana* y cruelty free *sin ingredientes ni derivados de origen animal
 - Contenido: 1x NYX Professional Makeup Jumbo Lápiz de ojos, Tono: Frosting
-- Amplia gama de tonos que aporta versatilidad a tus looks de maquillaje, Aplícalo como base para una mirada impactante o delinea el párpado para aportar un toque de color
-- Lápiz de ojos multiusos para conseguir cualquier look, Utilízalo como sombra de ojos, eyeliner o primer
-- Punta del aplicador suave y afilable con un sacapuntas con apertura para lápices gruesos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B002QI2V0Q{{</world>}}

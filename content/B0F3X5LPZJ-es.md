@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Batido de la marca Puleva
 - Sabor dulce
+- Batido de la marca Puleva
 - Cantidad: 1 L
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

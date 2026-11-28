@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Coloración permanente enriquecida con aceites naturales: el tratamiento de cuidado con Aceite Natural de Marula suaviza la superficie del cabello y proporciona brillo
 - Descubre la coloración permanente de cuidado Palette Intensive Creme Color con óptima cobertura de canas para un color duradero y brillo en tu cabello
-- Penetra profundamente en el núcleo del cabello sellando los altamente eficaces pigmentos de color
 - La crema colorante con pigmentos de color altamente eficaces proporciona un color vivo, radiante y duradero hasta 8 semanas
+- Penetra profundamente en el núcleo del cabello sellando los altamente eficaces pigmentos de color
 - Tono 7.5 - Rubio Dorado Caramelo
 
 [🛒 Comprar!!!]({{< param buyurl >}})

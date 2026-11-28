@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - La siguiente información se aplica a cada unidad del paquete
-- Apto como regalo para una ocasión especial
-- En la boca es con cuerpo y toques de humo de madera dulce
 - Conservar en un lugar fresco y seco
-- El color es ámbar
+- En la boca es con cuerpo y toques de humo de madera dulce
+- Apto como regalo para una ocasión especial
 - Se puede servir solo o como base para cócteles
+- El color es ámbar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJMRHYQQ{{</world>}}

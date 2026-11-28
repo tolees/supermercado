@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Old Spice Original Desodorante En Barra Para Hombres 4x50 ml Fresco 24 Horas Todos Los Días Con Uso Diario Perfume Duradero Fragancia Excepcional Protección Contra El Mal Olor'
-date: 2026-11-27 00:57:44
+date: 2026-11-28 12:03:31
 image: 'https://m.media-amazon.com/images/I/41mrA53ebrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08J4W1SFD/?tag=tolees-21'
 descuento: '38.61'
-average: '9.3484210526315721'
+average: '9.3189999999999937'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

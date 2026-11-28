@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EUKANUBA Alimento Seco para Perros Adultos de Razas Pequeñas Pollo 3kg | Alimento seco premium | Favorece una digestión saludable | Pollo fresco'
-date: 2026-11-25 16:12:05
+date: 2026-11-27 19:08:27
 image: 'https://m.media-amazon.com/images/I/61gmZveF19L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FDLB9G1L/?tag=tolees-21'
 descuento: '36.19'
-average: '12.4'
+average: '12.09'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Neutrogena Hydro Boost Contorno de Ojos Hidratante Antiojeras 15 ml | Con Ácido Hialurónico Aminoácidos y Vitamina E 72 h Hidratación Reduce Ojeras y Bolsas Oil-Free y No Comedogénico'
-date: 2026-11-20 15:37:11
+date: 2026-11-27 20:44:31
 image: 'https://m.media-amazon.com/images/I/31Fh-lVq62L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B075RH6PSZ/?tag=tolees-21'
 descuento: '62.26'
-average: '10.312941176470721'
+average: '10.228571428571557'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

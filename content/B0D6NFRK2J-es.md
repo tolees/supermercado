@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fácil aplicación gracias a su esponja integrada
 - Acabado natural
+- Fácil aplicación gracias a su esponja integrada
 - Textura ligera
 
 [🛒 Visítala!!!]({{< param buyurl >}})

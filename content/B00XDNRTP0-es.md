@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Genial para el desayuno o en cualquier momento
 - Recomendado para una dieta equilibrada
-- Merienda dulce, sana y rápida
 - Conservar en lugar fresco y seco
+- Merienda dulce, sana y rápida
 - Producto rico en fibra de salvado de trigo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

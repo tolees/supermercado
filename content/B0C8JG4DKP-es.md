@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Gel de baño sin sulfatos Nature con polifenoles naturales
-- Características Gel de baño Nature: - Sin sulfatos. - Con prebióticos. - Sin jabón. - Testado médicamente. - Sin conservantes químicos.
 - Contiene 750 ml.
+- Características Gel de baño Nature: - Sin sulfatos. - Con prebióticos. - Sin jabón. - Testado médicamente. - Sin conservantes químicos.
 - Nutrición natural para todo tipo de piel
+- Gel de baño sin sulfatos Nature con polifenoles naturales
 - Gel de baño corporal sin sulfatos que limpia suave y eficientemente la piel, reequilibrando y nutriendo su microbiota gracias a su alto contenido en polifenoles naturales, aceites de Coco y Lino
 
 [🛒 Comprar!!!]({{< param buyurl >}})

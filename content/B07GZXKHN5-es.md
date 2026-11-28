@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 600 ml
-- Un auténtico remedio que hidrata, da brillo y calma el cuero cabelludo protegiendo y reduciendo la sensación de picor en tu pelo
-- Envase 100% reciclable
 - Formulado con Leche de Avena, conocida por sus virtudes de ciudado y protección del cabello; y con Crema de Arroz, utilizada en el cuidado de las pieles delicadas y conocida por calmar y suavizar el cuero cabelludo sensible
 - Aplicar sobre cabello mojado, masajear suavemente el cuero cabelludo y después aclarar
+- Envase 100% reciclable
+- Un auténtico remedio que hidrata, da brillo y calma el cuero cabelludo protegiendo y reduciendo la sensación de picor en tu pelo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07GZXKHN5{{</world>}}

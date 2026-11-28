@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La siguiente información se aplica a cada unidad del paquete
-- Snacks horneados con ingredientes naturales
-- Sin aceite de palma y sin conservantes ni colorantes artificiales
-- Elaborados con jamón y tomate
 - Fuente de fibra
+- Snacks horneados con ingredientes naturales
+- La siguiente información se aplica a cada unidad del paquete
 - Un snack para fiestas y cumpleaños
+- Elaborados con jamón y tomate
+- Sin aceite de palma y sin conservantes ni colorantes artificiales
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DP4XLPR7{{</world>}}

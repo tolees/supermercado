@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Productos de Cuidado de la piel para Mujer
 - Los productos de la marca Garnier están fabricados con ingredientes de la mejor calidad.
+- Productos de Cuidado de la piel para Mujer
 - Cuidado de la piel RENO GARNIER EE T.MASK HYAL ALOE SA32G de Garnier
 
 [🛒 Aquí!!!]({{< param buyurl >}})

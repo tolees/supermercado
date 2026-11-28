@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mantenga el fuego y objetos calientes de la tienda de campaña
-- No apto para niños menores de 36 meses
 - Un lado de la gasa
-- Accesible desde los cuatro lados
 - Aproximadamente 12.7 pulgadas de alto
+- Accesible desde los cuatro lados
+- No apto para niños menores de 36 meses
+- Mantenga el fuego y objetos calientes de la tienda de campaña
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B008EGSK4K{{</world>}}

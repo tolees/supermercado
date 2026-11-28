@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pata Negra Crianza Vino Tinto D.O Valdepeñas Volumen de Alcohol 12.5% - Pack de 6 Botellas x 75 cl'
-date: 2026-11-27 01:10:39
+date: 2026-11-28 07:50:35
 image: 'https://m.media-amazon.com/images/I/51KLdIQb-1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O224XBO/?tag=tolees-21'
 descuento: '24.09'
-average: '15.38233333333336'
+average: '15.175312500000025'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

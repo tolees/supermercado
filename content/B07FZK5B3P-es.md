@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Makeup Revolution | Paleta de sombras de ojos Reloaded | Valvet Rose | 15 sombras | 16 5 g'
-date: 2026-11-20 10:35:07
+date: 2026-11-27 13:44:34
 image: 'https://m.media-amazon.com/images/I/41tEvtJUqjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FZK5B3P/?tag=tolees-21'
 descuento: '33.89'
-average: '4.45125'
+average: '4.353'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

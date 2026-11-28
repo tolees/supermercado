@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Textura ligera, de rápida absorción y sin efecto graso.
-- Nutrición y suavidad gracias al aceite de oliva.
-- Hidratación prolongada y sensación de confort inmediato.
 - Mejora la elasticidad y el aspecto saludable de la piel.
+- Nutrición y suavidad gracias al aceite de oliva.
+- Textura ligera, de rápida absorción y sin efecto graso.
+- Hidratación prolongada y sensación de confort inmediato.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FXB4QBCR{{</world>}}

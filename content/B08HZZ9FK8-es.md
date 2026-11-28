@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Volumen 150 ml
 - Un impulso extra de reparación que trata el cabello intensamente
+- Volumen 150 ml
 - Revlon Professional ProYou Boosters Reparador
 
 [🛒 Aquí!!!]({{< param buyurl >}})

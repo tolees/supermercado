@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DYC 12 Años Whisky Single Malt 70cl'
-date: 2026-11-27 12:08:32
+date: 2026-11-27 12:13:34
 image: 'https://m.media-amazon.com/images/I/41pyX8x9PRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FQPCDW61/?tag=tolees-21'
 descuento: '25.82'
-average: '19.05'
+average: '19.083333333333336'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

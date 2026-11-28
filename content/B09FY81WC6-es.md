@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Resistente al agua
-- Envase fabricado con materiales reciclados
 - Cepillo de base biológica fabricado con fibras 100% biológicas
 - Sin perfumes
+- Envase fabricado con materiales reciclados
 - Fabricado con un 99% de ingredientes de origen natural
+- Resistente al agua
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09FY81WC6{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Elaborado con ingredientes naturales
 - Contiene bolsitas envueltas herméticas e individuales con triple capa
 - Libre de cafeína
-- Conservar en lugar fresco y seco
 - Infusión de jengibre con cúrcuma
-- Elaborado con ingredientes naturales
+- Conservar en lugar fresco y seco
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B077NLZRL5{{</world>}}

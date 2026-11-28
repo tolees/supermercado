@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Protege la piel de la sequedad
-- Fórmula biodegradable (ingredientes orgánicos)
-- Especialmente suave a los ojos
 - Compatibilidad dermatológicamente probada
 - También es adecuado para pieles propensas a la irritación
+- Protege la piel de la sequedad
+- Especialmente suave a los ojos
+- Fórmula biodegradable (ingredientes orgánicos)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DP56CMFX{{</world>}}

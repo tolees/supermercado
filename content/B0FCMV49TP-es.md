@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Blusa Estampada
 - Blusa Con Volantes
+- Blusa Estampada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FCMV49TP{{</world>}}

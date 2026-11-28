@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIVEA Q10 Antiarrugas Expert Sérum Doble Acción 30 ml - Sérum Facial Antiedad Tecnología Antiglicación Bloquea Daños por Azúcares - Piel Seca Mixta Normal - 30 ml'
-date: 2026-11-26 17:25:06
+date: 2026-11-28 08:29:22
 image: 'https://m.media-amazon.com/images/I/41T2MpsvhnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CZLFR5LQ/?tag=tolees-21'
 descuento: '48.77'
-average: '10.322000000000061'
+average: '10.081818181818237'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

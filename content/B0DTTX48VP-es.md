@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fairy Poder Sin Remojo Spray Pretratamiento Limón Pack de 4 x 500ml | Antigrasa para Vajilla y Cocina Desengrasante Limpieza Rápida y sin Esfuerzo'
-date: 2026-11-22 13:04:54
+date: 2026-11-28 12:27:48
 image: 'https://m.media-amazon.com/images/I/51+DHhZZnHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DTTX48VP/?tag=tolees-21'
 descuento: '25.52'
-average: '14.018749999999924'
+average: '13.977599999999928'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 100% Arabica
-- Für diese Röstung verwenden wir die besten Bohnen aus Südarmerika & Asien; schonendes Langzeitröstverfahren
 - Erlebe Café Creme, wie er sein sollte. Mild und vollmundig im Geschmack. Ideal für puren Kaffeegenuss oder verfeinert als Café au Lait..
+- Für diese Röstung verwenden wir die besten Bohnen aus Südarmerika & Asien; schonendes Langzeitröstverfahren
 - Vollmundig, milder Genuss.
 - Bestens geeignet für Kaffeevollautomaten & Kaffeefilter
 

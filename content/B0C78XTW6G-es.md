@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El delineador Kajal se adapta perfectamente a la mano, mientras que la textura de gel a polvo permite una aplicación precisa
-- El lápiz de gel Smokey se puede mezclar fácilmente con la ayuda de la batidora en el extremo del delineador
 - No destiñe, resistente al agua y a las manchas, hasta 36 horas
+- El lápiz de gel Smokey se puede mezclar fácilmente con la ayuda de la batidora en el extremo del delineador
+- El delineador Kajal se adapta perfectamente a la mano, mientras que la textura de gel a polvo permite una aplicación precisa
 - Gracias a la suave textura de gel del delineador de ojos, se crea una aplicación uniforme y opaca
 - Colores intensos para un aspecto intensopara un aspecto ahumado intenso
 

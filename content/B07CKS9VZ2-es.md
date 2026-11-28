@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- PACK COMPLETO DE CUIDADO SOLAR: Incluye protector solar corporal SPF 30 y After Sun con Aloe Vera.
-- CUIDADO POST-SOLAR: El After Sun con Aloe Vera calma e hidrata la piel tras la exposición solar.
 - FORMATO IDEAL PARA VERANO: Dos productos esenciales para disfrutar del sol con protección solar.
 - PROTECCIÓN EFICAZ: La crema solar cuerpo ofrece protección media-alta contra los rayos UVA/UVB.
+- CUIDADO POST-SOLAR: El After Sun con Aloe Vera calma e hidrata la piel tras la exposición solar.
+- PACK COMPLETO DE CUIDADO SOLAR: Incluye protector solar corporal SPF 30 y After Sun con Aloe Vera.
 - MARCA BABARIA: Fórmula dermatológicamente testada y reconocida por su calidad como protector solar cuerpo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

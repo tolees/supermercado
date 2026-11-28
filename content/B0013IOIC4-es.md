@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Para pelo Cabello ausgetrocknetes, fuerte strapaziertes, cabello apagado
 - Con de frutas concentrado de activo y reparador de micro fruchtölen
-- profundidades de Repair de cuidado
 - Tres veces más brillante
+- profundidades de Repair de cuidado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0013IOIC4{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rexona Aerosol All Over Body Ocean Rush 150 ml'
-date: 2026-11-26 16:11:55
+date: 2026-11-27 21:43:41
 image: 'https://m.media-amazon.com/images/I/31Ly8ZDOmPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F14X81KY/?tag=tolees-21'
 descuento: '51.70'
-average: '2.74'
+average: '2.59'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

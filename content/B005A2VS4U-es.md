@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Derretir y Verter Jabón Base Leche de Cabra - 1Kg
-- Base Vegetal
-- Biodegradable
 - Libre de parabeno
+- Base Vegetal
 - Ideal para agregar su propio aroma favorito, como regalo para otras personas, etc.
+- Biodegradable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B005A2VS4U{{</world>}}

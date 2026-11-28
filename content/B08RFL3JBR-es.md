@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Embalaje ecológico de 500 ml para reducir los residuos plásticos
-- Tiene un efecto estimulante y vitalizante
-- Incluye notas de bergamota, limón y lima
-- Limpia suavemente la piel sin secarla
-- Embalaje 100 % plástico reciclado
 - Aromas 100% naturales
-- Fragancia ligera y refrescante
 - No contiene colorantes artificiales ni ingredientes de origen animal
+- Tiene un efecto estimulante y vitalizante
+- Embalaje ecológico de 500 ml para reducir los residuos plásticos
+- Embalaje 100 % plástico reciclado
+- Limpia suavemente la piel sin secarla
+- Fragancia ligera y refrescante
+- Incluye notas de bergamota, limón y lima
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08RFL3JBR{{</world>}}

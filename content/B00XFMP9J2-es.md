@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ideal en cualquier momento del día
 - Agitar antes de usar
 - Con un sabor dulce
+- Ideal en cualquier momento del día
 - Zumo de naranjas apartir de concentrado
 - Una vez abierto conservar en el frigorífico
 

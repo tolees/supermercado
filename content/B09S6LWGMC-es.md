@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fórmula translúcida que se mezcla con la mayoría de los tonos de piel y no obstruye los poros.
-- Se puede aplicar debajo o sobre el maquillaje o solo.​ Absorbe el exceso de grasa y proporciona un acabado mate.
-- Con el icónico aroma tropical de Hawaiian Tropic.​
-- No contiene filtros químico,s ni parabenos. No Oxybenzone. ​
-- Hawaiian Tropic Mineral Brush proporciona protección Mineral UVA/UVB al mismo tiempo que mima y da color a tu piel.
-- No Contiene ingredientes testados en animales.
 - Fórmula ligera hecha con minerales marinos de origen natural. Absorbe el exceso de grasa y proporciona un acabado mate.​
 - Perfecto para llevarlo siempre contigo.
+- Con el icónico aroma tropical de Hawaiian Tropic.​
+- No contiene filtros químico,s ni parabenos. No Oxybenzone. ​
+- Fórmula translúcida que se mezcla con la mayoría de los tonos de piel y no obstruye los poros.
+- No Contiene ingredientes testados en animales.
 - 100% filtro mineral. Con una fórmula ligera
+- Se puede aplicar debajo o sobre el maquillaje o solo.​ Absorbe el exceso de grasa y proporciona un acabado mate.
+- Hawaiian Tropic Mineral Brush proporciona protección Mineral UVA/UVB al mismo tiempo que mima y da color a tu piel.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09S6LWGMC{{</world>}}

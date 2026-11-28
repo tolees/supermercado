@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Ensalada rusa con atún
-- óptima para aquellas personas con un ritmo de vida dinámico
 - Adecuado para toda la familia
 - Se debe conservar en un lugar fresco y seco
+- óptima para aquellas personas con un ritmo de vida dinámico
 - Disfrútala sola, o como guarnición
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

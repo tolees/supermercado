@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B iO 9 Cepillo de Dientes Eléctrico con 2 Cabezales Negro | Cepillo Dental con Sensor de Presión 7 Modos de Cepillado Estuche Cargador de Viaje Y Funda Magnética Carga Rápida'
-date: 2026-11-20 09:08:15
+date: 2026-11-27 15:12:38
 image: 'https://m.media-amazon.com/images/I/51E3Y829ilL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F1G7NT7D/?tag=tolees-21'
 descuento: '39.40'
-average: '203.61'
+average: '203.08714285714285'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

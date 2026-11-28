@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Neutrogena Hydro Boost Gel de Agua Crema Hidratante Facial ligera 50 ml | Con Ácido Hialurónico y Aminoácidos 72h de Hidratación Oil-Free No Comedogénico Piel Normal/ Mixta y Sensible'
-date: 2026-11-23 12:58:45
+date: 2026-11-28 10:32:34
 image: 'https://m.media-amazon.com/images/I/41HmBcEZ9NL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MF9YDQN/?tag=tolees-21'
 descuento: '63.42'
-average: '11.364700000000074'
+average: '11.333663366336708'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

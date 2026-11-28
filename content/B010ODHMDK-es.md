@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca: Dr. Hauschka
 - Género: Mujer
+- Marca: Dr. Hauschka
 - Tipo de producto: Desodorante
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

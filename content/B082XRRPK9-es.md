@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aplicador de precisión para dar forma y delinear los labios con facilidad
 - Efecto hidratante y nutritivo
+- Aplicador de precisión para dar forma y delinear los labios con facilidad
 - Labios rellenos sin retoques
 - Con ácido hialurónico
 

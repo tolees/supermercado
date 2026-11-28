@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apta para vegetarianos.
-- Ideal para tus ensaladas.
 - Con ingredientes de alta calidad.
-- La siguiente información se aplica a cada unidad del paquete
-- Mismo sabor, extra cremosidad.
 - Sin gluten, sin lactosa y sin conservantes.
+- Apta para vegetarianos.
 - Todo el sabor -75% de grasa en Ligeresa Mayonesa Bocabajo.
+- La siguiente información se aplica a cada unidad del paquete
+- Ideal para tus ensaladas.
+- Mismo sabor, extra cremosidad.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GDWJWJDY{{</world>}}

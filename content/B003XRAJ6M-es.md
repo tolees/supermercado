@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manos suaves y protegidas
-- Un aroma limpio y refrescante
 - Testado dermatológicamente
 - Para todo tipo de pieles
+- Manos suaves y protegidas
 - Formato:500ml
+- Un aroma limpio y refrescante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B003XRAJ6M{{</world>}}

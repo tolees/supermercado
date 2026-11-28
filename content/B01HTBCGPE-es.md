@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sabor único y natural de nueces
 - Conservar en lugar fresco y seco
 - Con alto contenido en vitaminas
 - Recomendado en el desayuno
+- Sabor único y natural de nueces
 - Fuente de ácidos grasos omega 3
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

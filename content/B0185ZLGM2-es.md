@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pañuelo: 22.5 x 21 cm
+- Triple Capa
 - Capa exterior azul
+- Pañuelo: 22.5 x 21 cm
 - Sin perfume
 - 80 pañuelos/caja
-- Triple Capa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0185ZLGM2{{</world>}}

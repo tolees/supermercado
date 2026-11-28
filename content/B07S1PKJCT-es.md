@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Color amarillo pajizo con reflejos verdosos. En nariz es perfumado con aromas de hinojo.
+- Formato BAG IN BOX de capacidad: 5 litros (equivale a 6 botellas de 750ml)
 - Maridaje: pescado, marisco fresco y ensaladas templadas.
 - VINO BLANCO DE MESA
-- Formato BAG IN BOX de capacidad: 5 litros (equivale a 6 botellas de 750ml)
 - Variedad de uva: VERDEJO de Castilla y León
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

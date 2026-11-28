@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sensación de frescura y limpieza sin agua. Frescor al instante en cualquier momento.
-- Aroma afrutado y ligero, respetuoso con la piel íntima sensible. No deja residuos blancos, no mancha.
 - Sin parabenos ni conservantes. Hipoalergénico, clínica y ginecológicamente testado.
 - Ideal para la piel íntima. Úsalo allá donde estés. También disponible en aroma White Jasmine.
+- Sensación de frescura y limpieza sin agua. Frescor al instante en cualquier momento.
+- Aroma afrutado y ligero, respetuoso con la piel íntima sensible. No deja residuos blancos, no mancha.
 - Spray íntimo femenino 125ml Peach Blossom de la gama de Scentsitive Scents de Vagisil.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

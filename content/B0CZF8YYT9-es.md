@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Elimina las ojeras al instante
-- La siguiente información se aplica a cada unidad del paquete
-- Enmascara los ojos hinchados y oculta las líneas finas de expresión
-- Tiene una textura ligera que no resalta las arrugas
 - Se aplica con facilidad gracias a su esponja
+- Enmascara los ojos hinchados y oculta las líneas finas de expresión
+- La siguiente información se aplica a cada unidad del paquete
+- Elimina las ojeras al instante
+- Tiene una textura ligera que no resalta las arrugas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZF8YYT9{{</world>}}

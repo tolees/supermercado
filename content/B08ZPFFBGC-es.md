@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rimmel London Natural Bronzer Bronceador Tono 1 Sunlight - 14 g'
-date: 2026-10-24 11:50:33
+date: 2026-11-27 12:30:59
 image: 'https://m.media-amazon.com/images/I/510C6TUhpIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08ZPFFBGC/?tag=tolees-21'
 descuento: '54.80'
-average: '4.75407407407407'
+average: '4.757241379310341'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con un 98% de ingredientes de origen natural, es el primer champú con fórmula vegana, sin siliconas, para una sensación totalmente pura
-- Comprometidos desde 1989 en no realizar test en animales, está dermatológicamente testado
-- Champú alisador con el poder ultra nutritivo de la Nuez de Macadamia de Guatemala, que nutre en profundidad el pelo seco y rebelde sin apelmazar
 - Su espuma suave te ayuda a limpiar, alisar y domar el encrespamiento del cabello mientras lo nutres en profundidad sin engrasarlo
+- Con un 98% de ingredientes de origen natural, es el primer champú con fórmula vegana, sin siliconas, para una sensación totalmente pura
+- Champú alisador con el poder ultra nutritivo de la Nuez de Macadamia de Guatemala, que nutre en profundidad el pelo seco y rebelde sin apelmazar
+- Comprometidos desde 1989 en no realizar test en animales, está dermatológicamente testado
 - Ayudamos al medio ambiente apostando por un envase reciclable y la utilización de un 95% de material biodegradable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

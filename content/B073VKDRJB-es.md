@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Para cabello rizado u ondulado, sin parabenos
 - Con extracto de bambú y filloxane
 - Rizos definidos y elásticos, anti-encrespamiento y anti-humedad
-- Para cabello rizado u ondulado, sin parabenos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B073VKDRJB{{</world>}}

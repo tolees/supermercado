@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Sabor equilibrado: Notas de enebro, cítricos y el sabor característico del Pomelo Rosa dulce
+- Espíritu mediterráneo: Ginebra con un toque refrescante de pomelo rosa
 - Color evocador: Tono pálido-rosáceo que recuerda los atardeceres mediterráneos
-- Calidad artesanal: Redestilada en alambiques tradicionales con ingredientes naturales
 - Contenido del envase: Botella de 70cl de ginebra premium con sabor a pomelo rosa mediterráneo
 - Aroma fresco y limpio: Destaca por su fragancia cítrica natural y revitalizante
-- Sabor equilibrado: Notas de enebro, cítricos y el sabor característico del Pomelo Rosa dulce
 - Nacida en Málaga: Con la herencia y maestría de Larios desde 1866
-- Espíritu mediterráneo: Ginebra con un toque refrescante de pomelo rosa
+- Calidad artesanal: Redestilada en alambiques tradicionales con ingredientes naturales
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GS1FVNWM{{</world>}}

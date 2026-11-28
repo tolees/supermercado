@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con Omega 3 y 6
-- Con sabor a bacon y queso
 - Sin colorantes, aromatizantes o conservante artificiales
+- Con sabor a bacon y queso
+- Con Omega 3 y 6
 - Tiene un contenido de vitaminas
 - Es bajo en grasas
 

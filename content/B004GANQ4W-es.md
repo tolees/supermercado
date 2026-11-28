@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Ideal para los amantes del café
+- Tiene una aroma intenso
 - Café de especialidad 100% arábica procedente de cultivos ecológicos
 - Tostado y molido artesabalmente
-- Tiene una aroma intenso
 - Es un producto vegano
-- Ideal para los amantes del café
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004GANQ4W{{</world>}}

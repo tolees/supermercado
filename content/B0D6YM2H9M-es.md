@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Una textura en gel que ayuda a eliminar con delicadeza las impurezas y los restos de maquillaje de la piel. Un ritual de cuidado y belleza para el rostro
 - Adecuado para todo tipo de pieles, incluidas las delicadas
-- Limpia y exfolia delicadamente la piel, para dejarla suave, tersa y purificada
 - Dermatológicamente testado incluso en pieles delicadas No comedogénico
+- Una textura en gel que ayuda a eliminar con delicadeza las impurezas y los restos de maquillaje de la piel. Un ritual de cuidado y belleza para el rostro
+- Limpia y exfolia delicadamente la piel, para dejarla suave, tersa y purificada
 - Fórmula mejorada y funcional enriquecida con ácido hialurónico, extracto de granada italiana de origen sostenible, polvo de arroz y partículas de piedra pómez
 
 [🛒 Comprar!!!]({{< param buyurl >}})

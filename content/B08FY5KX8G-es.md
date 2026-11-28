@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Servilletas blancas
-- 90 unidades
+- 22 x 22 cm
 - Suavidad
 - Doble capa
-- 22 x 22 cm
+- Servilletas blancas
+- 90 unidades
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08FY5KX8G{{</world>}}

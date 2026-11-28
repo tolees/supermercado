@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fairy Poder Sin Remojo Limón Spray Recambio Vajilla y Cocina Antigrasa 500ml Paquete de 4'
-date: 2026-11-18 09:20:17
+date: 2026-11-28 06:56:23
 image: 'https://m.media-amazon.com/images/I/41uZ+bzBsBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0H17ZSKRY/?tag=tolees-21'
 descuento: '39.93'
-average: '12.19'
+average: '12.14'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

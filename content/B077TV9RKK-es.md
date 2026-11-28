@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GOURMET Gold Terrine Comida Húmeda para Gato Adulto Paté de Pollo Pack de 24 Latas de 85 g'
-date: 2026-11-15 20:51:53
+date: 2026-11-28 12:18:55
 image: 'https://m.media-amazon.com/images/I/41GFrWTWE3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

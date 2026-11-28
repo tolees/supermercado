@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Dermatológicamente testado.
+- Envase de aluminio ligero; hecho con un 73% de plástico reciclado.
 - Desodorante antitranspirante ultra protección y cuidado de la piel.
 - Protección contra el sudor de hasta 48 horas.
 - Fórmula mejorada, ahora más clean y vegana.
-- Dermatológicamente testado.
-- Envase de aluminio ligero; hecho con un 73% de plástico reciclado.
 - 0% alcohol.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

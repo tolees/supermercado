@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ginebra Premium Nordés Atlantic Galician Gin - 1 Botella de 70 cl'
-date: 2026-11-17 21:25:38
+date: 2026-11-28 13:02:00
 image: 'https://m.media-amazon.com/images/I/41yNElFvGnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AGDRY0Y/?tag=tolees-21'
 descuento: '36.20'
-average: '21.75417721518977'
+average: '21.673580246913481'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

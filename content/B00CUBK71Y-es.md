@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cubre las imperfecciones de la piel y unifica su tono
 - Contiene finas microesferas que regulan la visibilidad de las imperfecciones de la piel
+- Cubre las imperfecciones de la piel y unifica su tono
 - Contiene polvos de diamante que reflejan la luz e iluminan la piel
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

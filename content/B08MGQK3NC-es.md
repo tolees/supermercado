@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tulipán Negro Gel de Baño Fresa y Nata 650 ml Pack 6 | Gel de Ducha Nutritivo e Hidratante con Fragancia Dulce de Fresa y Nata para una Piel Suave y Perfumada'
-date: 2026-10-16 19:00:57
+date: 2026-11-27 23:06:13
 image: 'https://m.media-amazon.com/images/I/510f-+cmr2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08MGQK3NC/?tag=tolees-21'
 descuento: '5.67'
-average: '9.96947368421054'
+average: '9.9857142857142982'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

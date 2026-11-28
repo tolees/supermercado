@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CALVIN KLEIN CK Be Eau de Toilette unisex | Perfume unisex con notas de bergamota lavanda especias blancas y sándalo | Fragancia duradera |200 ml'
-date: 2026-11-25 19:56:18
+date: 2026-11-27 21:23:01
 image: 'https://m.media-amazon.com/images/I/21IxkOrv+QL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B000Q6KKSA/?tag=tolees-21'
 descuento: '18.92'
-average: '25.018706896551763'
+average: '24.936864406779698'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Excellence, Crema Color Triple Cuidado Efecto anti anaranjado; protege el cabello antes, durante y después de la coloración con un 100 percent de cobertura de canas
-- 100 percent cobertura de canas, color rico y cuidado
 - Triple cuidado, color, cabello, cuero cabelludo
+- 100 percent cobertura de canas, color rico y cuidado
 - Color cuidado y duradero con tecnología violeta
+- Excellence, Crema Color Triple Cuidado Efecto anti anaranjado; protege el cabello antes, durante y después de la coloración con un 100 percent de cobertura de canas
 - Aplicar la mezcla colorante en todo el cabello, dejar actuar durante 30 minutos, aclarar con abundante agua tibia y aplicar champú y mascarilla Violeta
 
 [🛒 Visítala!!!]({{< param buyurl >}})

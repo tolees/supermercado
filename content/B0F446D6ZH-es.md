@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 70 days hassle free
+- Potencia de succión doble* with carpet boost * frente a XU2100/20
 - Personalización con la aplicación HomeRun
 - Vacuum and mop in one go
-- Potencia de succión doble* with carpet boost * frente a XU2100/20
-- 70 days hassle free
 - Maximum coverage of your floor with LDS radar navigation
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

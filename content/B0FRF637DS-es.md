@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Davidoff Cool Water Eau de Toilette para Hombre | Fragancia fougère aromática icónica para hombre con cilantro menta lavanda y ámbar colonia fresca con un toque marino.'
-date: 2026-11-25 08:48:36
+date: 2026-11-27 18:07:40
 image: 'https://m.media-amazon.com/images/I/31XgLG9hFpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FRF637DS/?tag=tolees-21'
 descuento: '6.71'
-average: '29.056666666666665'
+average: '28.944999999999997'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

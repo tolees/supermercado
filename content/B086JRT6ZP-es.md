@@ -29,13 +29,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 6 tazas 9cl y 6 platos
-- Liso
+- Fácil de limpiar
 - Apto lavavajillas
+- Liso
 - Reciclable
 - Apto Microondas
 - Fácil de limpiar
 - Liso
-- Fácil de limpiar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B086JRT6ZP{{</world>}}

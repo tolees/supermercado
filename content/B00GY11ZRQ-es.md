@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fecha Lanzamiento: 2013
-- Familias Olfativas: Floral, Frutal
-- Familia olfativa: Floral Frutal Gourmand.
 - Para el cabello: Natural
+- Familia olfativa: Floral Frutal Gourmand.
+- Familias Olfativas: Floral, Frutal
+- Fecha Lanzamiento: 2013
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00GY11ZRQ{{</world>}}

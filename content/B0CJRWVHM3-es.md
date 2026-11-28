@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dove Desodorante Roll-On Protección 48 horas Cuidado Esencial Classic 50ml x6'
-date: 2026-11-26 05:35:31
+date: 2026-11-27 13:11:35
 image: 'https://m.media-amazon.com/images/I/41v5RLnsaqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CJRWVHM3/?tag=tolees-21'
 descuento: '57.74'
-average: '6.6461538461538456'
+average: '6.4919999999999991'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

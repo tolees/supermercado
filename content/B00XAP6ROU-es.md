@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Haribo Chamallows SoftKiss Espumas Dulces 400g'
-date: 2026-11-25 00:47:29
+date: 2026-11-27 17:32:21
 image: 'https://m.media-amazon.com/images/I/41X+WVDRopL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XAP6ROU/?tag=tolees-21'
 descuento: '39.39'
-average: '4.0899999999999963'
+average: '3.9170370370370335'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

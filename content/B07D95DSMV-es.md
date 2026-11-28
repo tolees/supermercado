@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nākd. Blueberry Muffin | Barritas Raw de Fruta y Frutos Secos | 18 x 35g | Vegano | Sin Gluten | 100% Ingredientes Naturales | Sin Azúcar Añadido | 630g'
-date: 2026-11-24 22:31:11
+date: 2026-11-28 12:25:18
 image: 'https://m.media-amazon.com/images/I/519wV+Z859L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D95DSMV/?tag=tolees-21'
 descuento: '23.59'
-average: '12.783783783783841'
+average: '12.676410256410311'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

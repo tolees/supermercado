@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sabor suave y sedoso, refrescante cítrico de piel naranja y algo de violeta y salvia
-- color: cristalino y brillante
-- Perfecto para mezclar
 - 0
 - Con aroma ligero, limpio y cítrico, con notas de cilantro y pomelo
+- Perfecto para mezclar
+- Sabor suave y sedoso, refrescante cítrico de piel naranja y algo de violeta y salvia
+- color: cristalino y brillante
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0H2YS6HFD{{</world>}}

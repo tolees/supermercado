@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kérastase Genesis Hydra-Fortifiant Champú Anticaída Profesional 250ml | Champú Profesional Hidratante que refuerza la fibra capilar reduce la Caída del cabello y lo hace más resistente.'
-date: 2026-11-20 19:23:43
+date: 2026-11-28 06:57:09
 image: 'https://m.media-amazon.com/images/I/31oDG6fYy0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B083JJHLT4/?tag=tolees-21'
 descuento: '42.06'
-average: '19.303333333333331'
+average: '19.2225'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

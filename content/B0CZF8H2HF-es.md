@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Finish es la marca recomendada por los principales fabricantes de lavavajillas
-- Llena el depósito de sal siguiendo las instrucciones del fabricante, comprobando el nivel de sal y manteniéndolo lleno
-- Mejora el rendimiento del lavavajillas y lo protege de los efectos negativos que provoca el agua dura
-- 99% de pureza, protección 100% mejor contra los depósitos de cal vs no usar la sal Finish
 - Finish Sal para el lavavajillas previene las marcas de cal y ablanda el agua
+- Mejora el rendimiento del lavavajillas y lo protege de los efectos negativos que provoca el agua dura
+- Finish es la marca recomendada por los principales fabricantes de lavavajillas
+- 99% de pureza, protección 100% mejor contra los depósitos de cal vs no usar la sal Finish
+- Llena el depósito de sal siguiendo las instrucciones del fabricante, comprobando el nivel de sal y manteniéndolo lleno
 - La siguiente información se aplica a cada unidad del paquete
 
 [🛒 Visítala!!!]({{< param buyurl >}})

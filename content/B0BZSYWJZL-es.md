@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Oftalmológicamente testado
+- Perfecta para realzar la mirada creando un look de ojos duradero con unos sencillos gestos
 - Brinda una larga duración, hasta 24 horas y no-transfer
 - Su fórmula enriquecida con aceite de argán se adhiere perfectamente a los párpados
+- Oftalmológicamente testado
 - La textura cremosa y supercómoda se aplica y difumina con la máxima facilidad
-- Perfecta para realzar la mirada creando un look de ojos duradero con unos sencillos gestos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BZSYWJZL{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Fácil de utilizar
-- Para parasol de diámetro de tubo de 10mm hasta 26 mm
 - Pie de parasol redondo rellenable de agua o arena de 18 litros aproximados de capacidad fabricado en polietileno de alta calidad
+- Para parasol de diámetro de tubo de 10mm hasta 26 mm
 - Una vez relleno el pie de parasol peso aproximado unos 18-19 kilos
 - Ideal para fijar un parasol de mástil central con total comodidad
 

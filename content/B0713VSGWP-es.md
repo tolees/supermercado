@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Edulcorante liquido
-- sustituto del azúcar con sabor
 - sabor agradable
+- sustituto del azúcar con sabor
+- Edulcorante liquido
 - Edulcorante natural
 - Stevia Gotas de chocolate blanco, galleta de mantequilla, pastel de manzana y canela, Sabor a galletas de chocolate y mantequilla de maní, tarta de queso
 

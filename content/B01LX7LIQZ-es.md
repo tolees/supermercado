@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Este producto está indicado tanto para mujeres como hombres
-- Contiene 400 ml
 - De la marca Lactovit
+- Contiene 400 ml
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01LX7LIQZ{{</world>}}

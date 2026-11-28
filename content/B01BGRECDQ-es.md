@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- producto de calidad: alta calidad, «designed in berlin»
 - práctica y sólida: de cerámica resistente, apta para el lavavajillas, con volumen de 330 ml
+- producto de calidad: alta calidad, «designed in berlin»
 - llamativa e ideal como regalo: taza con forma redondeada y asa grande para beber con comodidad
 - we love retro: taza de café con diseño nostálgico, impresión de alta calidad en el interior y el exterior
 - regalo retro: para los aficionados a lo retro, stampa particolarmente pregiata e colorata della migliore qualità

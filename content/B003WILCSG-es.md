@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Graduación: 13 %;
-- Maridaje: Excelente con pescados, paellas y pavo;
 - Origen: DO Penedès, España;
 - Elaborado por: FAMILIA TORRES;
+- Maridaje: Excelente con pescados, paellas y pavo;
 - Variedades: Chardonnay;
+- Graduación: 13 %;
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B003WILCSG{{</world>}}

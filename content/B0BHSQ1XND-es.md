@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Se debe conservar en un lugar fresco y seco
+- productos para mascotas
 - Comida completa y equilibrada
 - Sin colorantes añadidos
 - Ayuda a la tolerancia del alimento
-- productos para mascotas
-- Se debe conservar en un lugar fresco y seco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BHSQ1XND{{</world>}}

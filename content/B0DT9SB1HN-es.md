@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Formato familiar
 - Envasado en atmósfera protectora
-- Snack de patatas
-- Crujiente y salado
 - Ideal para llevar de picnic
+- Crujiente y salado
+- Formato familiar
+- Snack de patatas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DT9SB1HN{{</world>}}

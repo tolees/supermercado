@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L Oréal Paris Máscara de Pestañas Telescopic Extensionist Negro | Cepillo de Precisión Alarga y Separa las Pestañas Efecto Extensión Hasta +5 mm Telescopic Extensionist'
-date: 2026-11-20 01:40:45
+date: 2026-11-27 15:48:44
 image: 'https://m.media-amazon.com/images/I/41utP1CusxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FPX87BRC/?tag=tolees-21'
 descuento: '42.51'
-average: '10.545555555555467'
+average: '10.38499999999992'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

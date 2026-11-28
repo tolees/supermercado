@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - La siguiente información se aplica a cada unidad del paquete
+- Cereales variados en raciones individuales
+- Un producto especial para niños
 - Se pueden llevar a cualquier parte
 - Ideal para el desayuno
-- Un producto especial para niños
-- Cereales variados en raciones individuales
 - Conservar en lugar fresco y seco
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Sin azúcares
 - Apto para veganos
 - Rico en omega 3
-- Sin azúcares
 - Apto para celiacos
 - Ingredientes naturales y ecológicos
 

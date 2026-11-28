@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Vermouth con un perfil equilibrado entre lo dulce y lo salado
 - Beber con moderación
 - Bebida de vino
-- Vermouth con un perfil equilibrado entre lo dulce y lo salado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CBK4QQFJ{{</world>}}

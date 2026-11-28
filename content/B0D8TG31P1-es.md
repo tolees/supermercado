@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NYK1 Champú y Acondicionador Sin Sulfatos | Kit Iniciación - 100ml x2 | Limpia Acondiciona y Protege Suavemente Cabello Teñido y con Keratina - Sin Parabenos No Reseca y Previene la Rotura'
-date: 2026-11-21 15:22:02
+date: 2026-11-27 19:43:43
 image: 'https://m.media-amazon.com/images/I/41bLoGra+tL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

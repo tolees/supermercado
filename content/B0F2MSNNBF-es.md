@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tecnología activada por el calor corporal trabaja duro cuando hace calor; a medida que aumenta el calor corporal, la barrera protectora del desodorante en Aerosol Rexona se activa para formar una barrera más fuerte contra el sudor
-- La tecnología Rexona Body Heat Activated te ofrece una protección antitranspirante de 72H frente al mal olor y al sudor
 - Conoce todos los antitranspirantes de la gama Rexona Advanced Protection 72 horas para hombre; elige tu fragancia favorita en cada momento
+- La tecnología Rexona Body Heat Activated te ofrece una protección antitranspirante de 72H frente al mal olor y al sudor
+- Tecnología activada por el calor corporal trabaja duro cuando hace calor; a medida que aumenta el calor corporal, la barrera protectora del desodorante en Aerosol Rexona se activa para formar una barrera más fuerte contra el sudor
 - Frescor duradero: huele genial todo el día con este antitranspirante
 - Con los desodorantes Rexona queremos inspirar confianza a todo el mundo para que se mueva más y vaya más lejos
 

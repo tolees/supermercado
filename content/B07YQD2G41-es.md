@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elaborado con ingredientes naturales
 - Aromática y ligeramente picante
-- Libre de cafeína
+- Elaborado con ingredientes naturales
 - Infusión de jengibre y limón
+- Libre de cafeína
 - Los sobres vienen individualmente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

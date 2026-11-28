@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cuidado y limpieza del hogar DETERGENTE LIQUIDO ROPA NEGRA de Kiriko
 - Productos de Cuidado y limpieza del hogar para Unisex Adulto
+- Cuidado y limpieza del hogar DETERGENTE LIQUIDO ROPA NEGRA de Kiriko
 - Los productos de la marca Kiriko están fabricados con ingredientes de la mejor calidad.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

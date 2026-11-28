@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tiene una textura ligera y apetitosa
-- Alimento 100% completo y equilibrado para gatos
 - Ayuda a mantener tu gato saludable
+- Alimento 100% completo y equilibrado para gatos
+- Tiene una textura ligera y apetitosa
 - Comida húmeda sin la adición de colorantes, conservantes ni saborizantes artificiales
 
 [🛒 Aquí!!!]({{< param buyurl >}})

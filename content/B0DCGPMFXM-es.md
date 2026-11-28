@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ADIDAS Fragancia Eau de Toilette UEFA GOAL 100 ml'
-date: 2026-11-25 17:32:36
+date: 2026-11-27 20:34:11
 image: 'https://m.media-amazon.com/images/I/41QfqbISGDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DCGPMFXM/?tag=tolees-21'
 descuento: '30.94'
-average: '6.7488888888888896'
+average: '6.5540000000000012'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

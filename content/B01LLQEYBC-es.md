@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Apto lavavajillas
-- Liso
 - 30,5X21X1CM
+- Liso
 - 100% higiénico , Libre de bpa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

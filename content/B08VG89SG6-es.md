@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rimmel London Loción PIEL CORRECTOR THE MULTI-TASKER 20 FAIR W-3'
-date: 2026-11-16 18:59:25
+date: 2026-11-27 12:31:36
 image: 'https://m.media-amazon.com/images/I/31A4Cc9kzVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08VG89SG6/?tag=tolees-21'
 descuento: '48.24'
-average: '6.8587096774193697'
+average: '6.7642424242424388'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

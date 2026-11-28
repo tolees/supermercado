@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Olay Set Rutina Hidratante Regenerist : Crema Día SPF30 + Serum'
-date: 2026-11-26 18:18:07
+date: 2026-11-28 08:06:16
 image: 'https://m.media-amazon.com/images/I/410uy4WZnBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B094K5VKL9/?tag=tolees-21'
 descuento: '55.05'
-average: '33.579999999999991'
+average: '32.561538461538454'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

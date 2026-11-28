@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Refuerza la barrera cutánea, reduce las manchas, uniformiza, protege del sol, hidrata y corrige las arrugas gracias a su fórmula con Vitamina E, Niacinamida y Ácido Hialurónico.
 - Modo de empleo: Aplicar de 1 a 2 dosis sobre la piel limpia del rostro, cuello y escote, y difuminar con la brocha Heavenly Luxe Complexion Perfection #7 para un acabado natural y una hidratación de hasta 24 horas. También puede usarse como crema hidratante diaria y sérum antiedad.
 - La base de maquillaje 3 en 1 ofrece una cobertura total para un aspecto natural mientras cuida la piel con un tratamiento antiedad e hidratante y la protege con su filtro solar de amplio espectro SPF 50+ contra los rayos UVA/UVB.
+- Refuerza la barrera cutánea, reduce las manchas, uniformiza, protege del sol, hidrata y corrige las arrugas gracias a su fórmula con Vitamina E, Niacinamida y Ácido Hialurónico.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07HYJZLZ7{{</world>}}

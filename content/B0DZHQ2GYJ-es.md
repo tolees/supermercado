@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CON ALOE VERA: contiene aloe vera
-- CONSEJOS DE USO: enjabona a tu bebé desde el cuello hasta los pies con un delicado masaje; aclara cuidadosamente su cuerpecito, dejando el cabello en último lugar para evitar que coja frío
 - PARA CUERPO Y CABELLO: adecuado tanto para cuerpo como para cabello
-- HIGIENE DIARIA: suavidad y respeto por la higiene diaria de la delicada piel de tu bebé
+- CONSEJOS DE USO: enjabona a tu bebé desde el cuello hasta los pies con un delicado masaje; aclara cuidadosamente su cuerpecito, dejando el cabello en último lugar para evitar que coja frío
 - La siguiente información se aplica a cada unidad del paquete
 - ESTIMULACIÓN DE SUS SENTIDOS: gracias a su suave textura, olor y a tus mimos que tanto le gustan
+- HIGIENE DIARIA: suavidad y respeto por la higiene diaria de la delicada piel de tu bebé
+- CON ALOE VERA: contiene aloe vera
 - Le informazioni seguenti si applicano a ciascuna unità della confezione
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIVEA Q10 Loción Corporal Reafirmante + Autobronceadora 400 ml crema hidratante corporal con coenzima Q10 crema bronceadora para tono de piel claro a medio'
-date: 2026-11-26 15:26:37
+date: 2026-11-27 16:16:06
 image: 'https://m.media-amazon.com/images/I/31sxa088-xL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DJ9KR5WC/?tag=tolees-21'
 descuento: '34.17'
-average: '7.0438888888888966'
+average: '6.9500000000000073'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

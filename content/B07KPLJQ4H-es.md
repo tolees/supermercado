@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ideas para un menú semanal, incluido en el pack
 - Cubiertos no incluidos
+- Ideas para un menú semanal, incluido en el pack
+- Válvula para el uso en el microondas. Para calentar, se debe abrir la tapita de silicona.
+- Incluye: dos recipientes con sus tapas, una tapa extra y una banda para unir los dos recipientes
 - Bpa free
 - Espacio para colocar los cubiertos de lékué. + servilleta o lo que se desee
-- Incluye: dos recipientes con sus tapas, una tapa extra y una banda para unir los dos recipientes
-- Válvula para el uso en el microondas. Para calentar, se debe abrir la tapita de silicona.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07KPLJQ4H{{</world>}}

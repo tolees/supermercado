@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rexona Maximum Protection Desodorante en Crema Antitranspirante para Mujer Soft Solid Confidence 45ml'
-date: 2026-11-26 16:07:47
+date: 2026-11-27 16:58:19
 image: 'https://m.media-amazon.com/images/I/313aLrE+FOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00763ABGC/?tag=tolees-21'
 descuento: '17.84'
-average: '4.38'
+average: '4.3266666666666671'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

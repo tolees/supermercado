@@ -30,10 +30,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Ideal para llevar de picnic
 - La siguiente información se aplica a cada unidad del paquete
+- Crujiente y salado
+- Apto para compartir
 - Snack de patatas
 - Envasado en atmósfera protectora
-- Apto para compartir
-- Crujiente y salado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FGK3G623{{</world>}}

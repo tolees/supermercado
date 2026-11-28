@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Omino Bianco Detergente Líquido Marsella 45 Dosis + 45% Gratis 2640ml'
-date: 2026-11-26 07:39:19
+date: 2026-11-27 21:08:28
 image: 'https://m.media-amazon.com/images/I/415eo05ZQzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CDLR5XMH/?tag=tolees-21'
 descuento: '25.39'
-average: '7.1644444444444329'
+average: '7.1368421052631472'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

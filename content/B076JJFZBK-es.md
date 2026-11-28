@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aplicar sobre el cabello húmedo, enrollar los mechones en el cepillo y secar con secador
 - Proporciona protección frente al calor
+- Aplicar sobre el cabello húmedo, enrollar los mechones en el cepillo y secar con secador
 - Proporciona un brillo óptimo y añadiendo cuerpo al peinado
 - Fijación nivel 2
 

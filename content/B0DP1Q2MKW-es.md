@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B iO 2 Cepillo de Dientes Eléctrico con 1 Cabezal Azul Mar | Cepillo Dental con 3 Niveles de Intensidad Sensor de Presión Y Temporizador Estuche de Viaje Suave con Encías'
-date: 2026-11-25 09:13:30
+date: 2026-11-27 14:17:26
 image: 'https://m.media-amazon.com/images/I/512ukqLzbfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DP1Q2MKW/?tag=tolees-21'
 descuento: '43.78'
-average: '49.777586206896721'
+average: '49.616666666666831'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

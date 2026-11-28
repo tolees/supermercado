@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Viene en botellas de 1 litro
-- Tiene un sabor agradable y aromático
 - Café con leche listo para beber
+- Tiene un sabor agradable y aromático
 - Se puede servir frío o caliente
+- Viene en botellas de 1 litro
 - Contiene mezcla de café arábica y robusta
 
 [🛒 Aquí!!!]({{< param buyurl >}})

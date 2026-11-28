@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'medicube Jelly Cream with Hyaluronic Acid | Crema Hidratante de Uso Diario Hidratación de Larga Duración Ácido Hialurónico y Péptidos para una Piel Equilibrada 50ml'
-date: 2026-11-23 14:59:57
+date: 2026-11-28 11:25:23
 image: 'https://m.media-amazon.com/images/I/41P-wzDZUUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FPQ3Z16S/?tag=tolees-21'
 descuento: '38.78'
-average: '9.0771428571428565'
+average: '9.18'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

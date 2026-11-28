@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Estrella Damm Cerveza - 24 Botellas'
-date: 2026-02-25 21:57:00
-image: 'https://m.media-amazon.com/images/I/41XP7R+UBwL._SL500_._SL400_.jpg'
+title: 'Estrella Damm Cerveza 5 4% Caja de 24 Botellas 33 cl | Receta original de 1876. 100% ingredientes naturales: agua malta de cebada arroz y lúpulo. Sin aditivos.'
+date: 2026-11-27 17:27:31
+image: 'https://m.media-amazon.com/images/I/41QRlj9ar4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07CZP3G6H-es Estrella Damm Cerveza - 24 Botellas'
+slug: 'B07CZP3G6H-es Estrella Damm Cerveza 5 4% Caja de 24 Botellas 33 cl |...'
 sku: 'B07CZP3G6H-es'
-tags: [ 'cerveza','🇪🇸', ]
-actualPrice: 22.23 EUR
+tags: [ 'arroz','cerveza','🇪🇸', ]
+actualPrice: 22.65 EUR
 currency: EUR
-price: 22.23
-comparePrice: 24.0 EUR
-prodname: 'Estrella Damm Cerveza - 24 Botellas'
+price: 22.65
+comparePrice: 22.65 EUR
+prodname: 'Estrella Damm Cerveza 5 4% Caja de 24 Botellas 33 cl | Receta original de 1876. 100% ingredientes naturales: agua malta de cebada arroz y lúpulo. Sin aditivos.'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CZP3G6H/?tag=tolees-21'
-descuento: '7.37'
-average: '28.2866666666667'
+descuento: '0.00'
+average: '26.877500000000026'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El origen de Estrella se remonta 140 años atrás, cuando el joven maestro cervecero August K. Damm emigró de Alsacia hacia la costa Mediterránea.
-- Consumirla a unos 4-6 grados, para poder disfrutar de su sabor y su carácter refrescante.
-- Es el resultado de la combinación de malta, arroz y lúpulo, ingredientes 100% naturales que descubren una cerveza versátil, ligera, refrescante y con un aroma limpio y respetuoso con la cebada.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07CZP3G6H{{</world>}}

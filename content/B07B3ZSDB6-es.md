@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Debe agitarse antes de servir
 - Combina tradición e innovación para darle una verdadera explosión de sabor
 - Sano y delicioso
-- Producto sometido a estrictos controles de calidad
+- Debe agitarse antes de servir
 - Base de caldo de carne con sofrito para cocinar paella
+- Producto sometido a estrictos controles de calidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07B3ZSDB6{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rexona Maximum Protection Clean Scent - Desodorante en crema Antitranspirante para hombre 45ml'
-date: 2026-11-26 22:16:08
+date: 2026-11-28 13:57:21
 image: 'https://m.media-amazon.com/images/I/31D8p8tfA5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00763AAUO/?tag=tolees-21'
 descuento: '32.04'
-average: '4.5040000000000005'
+average: '4.3366666666666669'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

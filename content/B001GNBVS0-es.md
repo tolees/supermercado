@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseñado para ofrecer una excelente experiencia al cliente
 - Diseño funcional
+- Diseñado para ofrecer una excelente experiencia al cliente
 - Creado siguiendo los más altos estándares de la marca Max Factor
 - Tipo de piel: Normal
 

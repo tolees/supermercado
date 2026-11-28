@@ -29,12 +29,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Sensación en boca: Con mucho cuerpo, ácido carbónico chispeante y espumoso, la nota lupulada completa un sabor duradero en la boca.
-- Apariencia: De color amarillo fresco y brillante, turbidez fina propia de la levadura, espuma compacta.
-- La cerveza de trigo clásica combina finos aromas especiados de malta con un suave amargor lupulado. Su secreto reside en nuestras exclusivas levaduras de cerveza ERDINGER.
-- Aportan las notas afrutadas y un sabor inconfundiblemente fresco. La cerveza de trigo ERDINGER recibe el toque final de otra particularidad: Le damos tiempo para que madure.
 - Sabor: Aromas de malta delicadamente especiados, notas afrutadas, dulzor sutil, suave y elegante, ligeramente lupulado, nota ácida refrescantemente picante en el paladar.
-- Aroma: Aromas de malta y levadura, fresco y aromático con una fina nota floral.
+- La cerveza de trigo clásica combina finos aromas especiados de malta con un suave amargor lupulado. Su secreto reside en nuestras exclusivas levaduras de cerveza ERDINGER.
 - Durante la fermentación tradicional en botella, nuestra cerveza puede esplegar con toda tranquilidad su maravillosa efervescencia y el harmonioso juego de aromas.
+- Aportan las notas afrutadas y un sabor inconfundiblemente fresco. La cerveza de trigo ERDINGER recibe el toque final de otra particularidad: Le damos tiempo para que madure.
+- Apariencia: De color amarillo fresco y brillante, turbidez fina propia de la levadura, espuma compacta.
+- Aroma: Aromas de malta y levadura, fresco y aromático con una fina nota floral.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B004JNVKYO{{</world>}}

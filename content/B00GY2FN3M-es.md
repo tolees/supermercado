@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Limpia en profundidad para un cabello visiblemente más saludable.
 - Respeta todo tipo de cuero cabelludo y de cabello, incluido el frágil y delicado.
+- Limpia en profundidad para un cabello visiblemente más saludable.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00GY2FN3M{{</world>}}

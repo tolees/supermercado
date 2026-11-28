@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Flor de Pingus
-- Vino Tinto Ribera del Duero
-- Funda envoltorio de yute de gran calidad para regalo (Rojo, Beige, Azul)
 - Pingus
 - Botella de Vino de 75 cl
+- Vino Tinto Ribera del Duero
+- Funda envoltorio de yute de gran calidad para regalo (Rojo, Beige, Azul)
+- Flor de Pingus
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B095V2NQH7{{</world>}}

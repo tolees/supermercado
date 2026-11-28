@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Real Techniques Eye Shade + Blend Set Pinceles para Sombras de Ojos 3 Uds | Kit de Brochas de Belleza con Cepillo para Cejas para Aplicar y Difuminar Productos de Maquillaje en Crema y en Polvo'
-date: 2026-11-19 07:39:49
+date: 2026-11-27 20:31:38
 image: 'https://m.media-amazon.com/images/I/31pT+E5uyOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N1MKXEM/?tag=tolees-21'
 descuento: '50.05'
-average: '6.7422222222222201'
+average: '6.423636363636362'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

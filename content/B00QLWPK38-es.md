@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El juego de escritorio premium de 6 piezas ofrece todo lo que necesitas para mantener tu escritorio limpio y organizado.
 - Cinta para bolígrafo, clips no incluidos
+- El juego de escritorio premium de 6 piezas ofrece todo lo que necesitas para mantener tu escritorio limpio y organizado.
 - Color: blanco y negro
 - Incluye: dispensador de clips de papel, dispensador de cinta, soporte para bolígrafos, perforador, grapadora y soporte para notas
 

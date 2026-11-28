@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Proteger de la luz solar y olores agresivos
 - No congelar
 - Evitar el contacto directo con suelo
+- Proteger de la luz solar y olores agresivos
 - Conservar en lugar limpio, fresco seco
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Alivia inmediatamente la sensación de tirantez de la piel, proporcionando un confort instantáneo.
+- Con una fórmula reparadora con Dexpantenol.
 - Calma y protege durante todo el día.
 - Enriquecido con aceites protectores.
-- Con una fórmula reparadora con Dexpantenol.
 - Mira en profundidad.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

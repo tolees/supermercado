@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'RENOVA Papel Higiénico Super Blanco Doble Capa Suave - 32 Rollos | 32 rollos Super doble capa 130 servicios por rollo papel blanco formato ahorro familiar uso diario certificado FSC'
-date: 2026-11-26 15:22:06
+date: 2026-11-28 15:35:47
 image: 'https://m.media-amazon.com/images/I/519TH0dvqPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0185ZKXD0/?tag=tolees-21'
 descuento: '27.72'
-average: '8.5335'
+average: '8.4522727272727263'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

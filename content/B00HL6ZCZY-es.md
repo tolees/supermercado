@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Eficacia antitranspirante 7 días.
 - Desodorante en crema de Vichy: controla la sudoración intensa sin irritar la piel. Fórmula con agentes antitranspirantes micro-finos que respetan las pieles sensibles. Dura hasta 7 días. Apto para todo tipo de piel.
+- Eficacia antitranspirante 7 días.
 - Aplicar la crema en las axilas limpias y secas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aplícatelo cuando quieras y destaca entre la multitud
 - Es una fragancia ganadora que añade un último toque a tu estilo desenfadado
+- Aplícatelo cuando quieras y destaca entre la multitud
 - Aporta un delicioso y cálido aroma que refresca tu día
 - Axe Eau de Toilette Dark Temptation 100 ml
 - Con Axe Eau de Toilette Dark Temptation vuélvete tan irresistible como el chocolate

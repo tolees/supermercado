@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Resistente al agua. Fórmula biodegradable y envase reciclable.
-- Gracias a su exclusiva fórmula con vitEox 80, protege contra las quemaduras solares y refuerza las defensas antioxidantes de la piel.
-- Protección UVB + UVA y del efecto de los infrarrojos.
 - Eficacia clínica probada.
+- Protección UVB + UVA y del efecto de los infrarrojos.
+- Gracias a su exclusiva fórmula con vitEox 80, protege contra las quemaduras solares y refuerza las defensas antioxidantes de la piel.
 - Ecran Sunnique spray FPS 50 100ml.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

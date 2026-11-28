@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Aplícala en el rostro y difumínala con las yemas de los dedos o con una esponja
-- Base duradera, ligera y resistente al sudor y transferencia; piel radiante, sin brillos, con efecto mate que dura todo el día
-- Base mate luminosa con duración de hasta 30 horas*, cobertura modulable y sensación ligera en la piel; *Autoevaluación 120 sujetos
 - Contenido: 1x Maybelline New York Base de Maquillaje Lumi Matte Tono 119
+- Base duradera, ligera y resistente al sudor y transferencia; piel radiante, sin brillos, con efecto mate que dura todo el día
 - Duración hasta 30h; tecnología ligera como el aire
+- Base mate luminosa con duración de hasta 30 horas*, cobertura modulable y sensación ligera en la piel; *Autoevaluación 120 sujetos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D8JJ9DTW{{</world>}}

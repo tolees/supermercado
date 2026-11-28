@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Finish Ultimate Infinity Shine Pastillas para lavavajillas - 160 cápsulas | Combaten las manchas resecas otorgan limpieza profunda y eficaz. Protegen tu cristalería Detergente para lavavajillas'
-date: 2026-11-24 14:03:58
+date: 2026-11-27 15:54:14
 image: 'https://m.media-amazon.com/images/I/51go5PZ9kNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08X5CK7DK/?tag=tolees-21'
 descuento: '28.80'
-average: '29.586666666666776'
+average: '29.45831578947379'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

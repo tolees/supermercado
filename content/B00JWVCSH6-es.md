@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- También tiene un aplicador de agarre ergonómico
 - Marca: Garnier
 - Kit de coloración del cabello
+- También tiene un aplicador de agarre ergonómico
 - Contiene: crema para desarrolladores, crema colorante y acondicionador
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

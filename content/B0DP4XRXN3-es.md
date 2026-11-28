@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El color es un rosa brillante y claro
 - Es refrescante y dulce al paladar
-- Apto como ingrediente para cócteles
-- Tiene un sabor suave y delicado gracias a los cítricos mediterráneos y las fresas
-- Conservar en lugar fresco y seco
+- El color es un rosa brillante y claro
 - La siguiente información se aplica a cada unidad del paquete
+- Conservar en lugar fresco y seco
+- Tiene un sabor suave y delicado gracias a los cítricos mediterráneos y las fresas
+- Apto como ingrediente para cócteles
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DP4XRXN3{{</world>}}

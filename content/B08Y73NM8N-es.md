@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nature s Variety No Grain Pienso para Gatos Esterilizados con Pollo - 3kg'
-date: 2026-11-22 12:50:52
+date: 2026-11-27 16:20:42
 image: 'https://m.media-amazon.com/images/I/41O8tTi-SXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08Y73NM8N/?tag=tolees-21'
 descuento: '20.59'
-average: '23.133478260869573'
+average: '23.122000000000007'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

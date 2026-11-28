@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Delicioso mix de diferentes piezas
 - Surtido de caramelos de goma
+- Delicioso mix de diferentes piezas
 - Bolsa de 1 kg
 - Varias formas y sabores
 

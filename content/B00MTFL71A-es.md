@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'J&B Reserve Aged 15 Years whisky escocés blended 700 ml'
-date: 2026-11-12 09:06:58
+date: 2026-11-28 08:55:11
 image: 'https://m.media-amazon.com/images/I/41f+8-32OwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MTFL71A/?tag=tolees-21'
 descuento: '44.27'
-average: '20.460095238095207'
+average: '20.449439252336418'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Descubre la edición especial de HARIBO Harry Potter - HERMIONE GRANGER, inspirada en la bruja más brillante de su generación. Esta selección de chuches de goma es única, con una combinación mágica de sabores que te ayudarán a resolver cualquier enigma… o simplemente a disfrutar de un momento dulce e inolvidable.
-- Formato cómodo y fácil
 - Conservar en lugar fresco y seco
 - Disfruta con alegría y diversión en cualquier momento
+- Descubre la edición especial de HARIBO Harry Potter - HERMIONE GRANGER, inspirada en la bruja más brillante de su generación. Esta selección de chuches de goma es única, con una combinación mágica de sabores que te ayudarán a resolver cualquier enigma… o simplemente a disfrutar de un momento dulce e inolvidable.
+- Formato cómodo y fácil
 - Variedad multicolor para grandes y pequeños.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

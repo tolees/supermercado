@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nestlé Caja Roja Bombones 800g | bombones de chocolate con leche en estuche ideal para compartir o regalar'
-date: 2026-11-13 16:34:43
+date: 2026-11-27 14:32:41
 image: 'https://m.media-amazon.com/images/I/41QN7hvu7kL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XACQH1Q/?tag=tolees-21'
 descuento: '21.61'
-average: '16.89000000000004'
+average: '16.927931034482796'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

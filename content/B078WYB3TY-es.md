@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Aromático, intenso y fresco con gran carga frutal
 - Aromas de frutas rojas, compota, cerezas y ciruelas
+- Contenido de alcohol (alc/vol): 14.0 percent by volume; designaciónes varietales: Monastrell; procedencia: Spain; como servir: Temperatura de servicio entre 14 y 16 C; tipo de alcohol: Wines
 - Ahumados, pollo, arroz y platos de pasta.
 - Color rojo púrpura brillante
-- Aromático, intenso y fresco con gran carga frutal
-- Contenido de alcohol (alc/vol): 14.0 percent by volume; designaciónes varietales: Monastrell; procedencia: Spain; como servir: Temperatura de servicio entre 14 y 16 C; tipo de alcohol: Wines
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B078WYB3TY{{</world>}}

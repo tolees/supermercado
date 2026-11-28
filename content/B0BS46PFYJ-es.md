@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sabor: Ginebra de fresas naturales, con un sabor suave y dulce
-- En nariz: Inconfundible aroma a fresas naturales de Huelva
-- Nota de cata: inconfundible aroma a fresas naturales con amplios matices de fresa y enebro con ligeros toques cítricos.
 - A la vista: Color brillante salmón
+- En nariz: Inconfundible aroma a fresas naturales de Huelva
+- Sabor: Ginebra de fresas naturales, con un sabor suave y dulce
+- Nota de cata: inconfundible aroma a fresas naturales con amplios matices de fresa y enebro con ligeros toques cítricos.
 - La botella de Puerto de Indias celebra el Amor con esta edición ilimitada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

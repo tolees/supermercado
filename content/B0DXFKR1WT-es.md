@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Caramelos duros refrescantes sin azúcar
-- Conservar en lugar fresco y seco
 - Su intenso frescor y sabor te ayudará a refrescarte en cualquier momento del día
 - Un consumo excesivo puede producir efectos laxantes
 - Caja de 20 sticks de caramelos, práctico formato bolsillo
+- Conservar en lugar fresco y seco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DXFKR1WT{{</world>}}

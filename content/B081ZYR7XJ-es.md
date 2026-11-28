@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Después del champú, aplicar en cabello mojado, masajear suavemente, dejar actuar 1 minuto y aclarar.
 - El cabello se desenreda, quedando más fuerte y resistente, menos quebradizo y más fortalecido contra la caída.
+- Después del champú, aplicar en cabello mojado, masajear suavemente, dejar actuar 1 minuto y aclarar.
 - Acondicionador que disminuye la caída del cabello causada por la rotura. Es el complemento idóneo para el champú estimulante de Dercos Technique. Desenreda sin apelmazar el cabello.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

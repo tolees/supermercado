@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin amoniaco
-- Duración de 4 a 5 lavados
-- Coloración temporal
 - Mascarilla que deposita particulas de color para mantener o transformar tu color en casa.
+- Coloración temporal
 - Cero daño
+- Duración de 4 a 5 lavados
+- Sin amoniaco
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08NF9BRK9{{</world>}}

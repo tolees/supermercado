@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Forma optima para diferentes partes del rostro
-- Esponjas suaves para aplicar el maquillaje
 - Nos oponemos a los experimentos con animales; cosnova aparece internacionalmente con essence y CATRICE tanto en PETA Alemania como en PETA
+- Esponjas suaves para aplicar el maquillaje
 - Para texturas cremosas y en polvo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

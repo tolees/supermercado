@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Material de calidad
 - Sencillo de aplicar
-- Lápiz de ojos de la marca Max factor
 - Color: Avellana
+- Lápiz de ojos de la marca Max factor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B008X6VVGA{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Té verde
+- 500 g de té verde suelto
 - Fabricado con 4 generación de conocimientos y experiencia de Tea Master.
 - Té suelto de calidad exclusiva
-- 500 g de té verde suelto
+- Té verde
 - Ahmad Tea Green Té verde , hojas sueltas 500g
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

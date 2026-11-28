@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Halls Extra Fuerte Caramelo Sin Azúcar Caja de 20 Sticks de 32g | Caramelos sin azúcar con sabor extra fuerte y efecto refrescante perfectos para disfrutar de frescor en cualquier momento'
-date: 2026-11-26 13:46:53
+title: 'Halls Extra Strong Caramelos de Menta sin Azúcar 20 x 32 g | Sabor refrescante a mentol y eucalipto calma el dolor de garganta y la tos prácticos sticks de bolsillo'
+date: 2026-11-28 13:22:11
 image: 'https://m.media-amazon.com/images/I/417w-iuA0HL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00WOGXRLC-es Halls Extra Fuerte Caramelo Sin Azúcar Caja de 20 Sticks...'
+slug: 'B00WOGXRLC-es Halls Extra Strong Caramelos de Menta sin Azúcar 20 x 32 g...'
 sku: 'B00WOGXRLC-es'
-tags: [ 'azúcar','caramelo','🇪🇸', ]
+tags: [ 'azúcar','🇪🇸', ]
 actualPrice: 10.35 EUR
 currency: EUR
 price: 10.35
 comparePrice: 13.98 EUR
-prodname: 'Halls Extra Fuerte Caramelo Sin Azúcar Caja de 20 Sticks de 32g | Caramelos sin azúcar con sabor extra fuerte y efecto refrescante perfectos para disfrutar de frescor en cualquier momento'
+prodname: 'Halls Extra Strong Caramelos de Menta sin Azúcar 20 x 32 g | Sabor refrescante a mentol y eucalipto calma el dolor de garganta y la tos prácticos sticks de bolsillo'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WOGXRLC/?tag=tolees-21'
 descuento: '25.97'
-average: '12.091395348837201'
+average: '12.013999999999992'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

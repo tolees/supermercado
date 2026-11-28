@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B Pro 3D White Clinical Dentífrico Blanqueante 3x75ml | Pasta de Dientes Blanqueadora con Sabor a Menta Siempreverde Elimina Las Manchas Superficiales Blanqueamiento Intensivo'
-date: 2026-11-23 21:27:54
+date: 2026-11-27 17:28:48
 image: 'https://m.media-amazon.com/images/I/41kSQF0Z0sL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FTTG6JNC/?tag=tolees-21'
 descuento: '54.82'
-average: '7.7864705882352991'
+average: '7.7288888888888936'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

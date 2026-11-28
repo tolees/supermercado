@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cricut taza de cerámica set de tazas de café blancas 340ml'
-date: 2026-11-23 07:23:18
+date: 2026-11-28 12:35:15
 image: 'https://m.media-amazon.com/images/I/31ex3G3vSDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08TT1CPQD/?tag=tolees-21'
 descuento: '30.01'
-average: '15.423333333333378'
+average: '15.417272727272765'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

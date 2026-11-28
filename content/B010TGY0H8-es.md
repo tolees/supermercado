@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Champú en seco dry me (1) 65 ml
 - Producto de la marca wella
 - Producto que combina tradición e innovación
+- Champú en seco dry me (1) 65 ml
 - El mejor producto para el cuidado de tu pelo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

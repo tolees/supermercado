@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Aporta protección antioxidante gracias a su contenido de vitamina E
-- Alivia el agrietamiento de los labios
 - Ayuda a hidratar y suavizar los labios
+- Alivia el agrietamiento de los labios
 - Ayuda a proteger contra los efectos dañinos de la exposición a los rayos UV con SPF 15
 
 [🛒 Visítala!!!]({{< param buyurl >}})

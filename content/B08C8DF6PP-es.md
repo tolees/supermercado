@@ -1,25 +1,25 @@
 ---
 layout: post
 title: 'Vanish Oxi Action Multipoder - Quitamanchas multibeneficio blanqueador y potenciador de lavado para ropa blanca en polvo sin lejía 400gr'
-date: 2026-10-10 00:14:06
-image: 'https://m.media-amazon.com/images/I/51VHXrRYwmL._SL500_._SL400_.jpg'
+date: 2026-11-28 00:14:56
+image: 'https://m.media-amazon.com/images/I/51dceqdJUGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08C8DF6PP-es Vanish Oxi Action Multipoder - Quitamanchas multibeneficio...'
 sku: 'B08C8DF6PP-es'
 tags: [ 'lejía','vanish','🇪🇸', ]
-actualPrice: 5.49 EUR
+actualPrice: 5.81 EUR
 currency: EUR
-price: 5.49
-comparePrice: 5.49 EUR
+price: 5.81
+comparePrice: 5.81 EUR
 prodname: 'Vanish Oxi Action Multipoder - Quitamanchas multibeneficio blanqueador y potenciador de lavado para ropa blanca en polvo sin lejía 400gr'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08C8DF6PP/?tag=tolees-21'
 descuento: '0.00'
-average: '5.09785714285715'
+average: '5.1453333333333404'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

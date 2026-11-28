@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Orlando Tomate Frito Clásico Frasco Sin Gluten Ni Conservantes. 340g'
-date: 2026-10-18 07:43:46
+date: 2026-11-27 18:28:52
 image: 'https://m.media-amazon.com/images/I/41zI9R0KN+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0D7934XJS-es Orlando Tomate Frito Clásico Frasco Sin Gluten Ni...'
 sku: 'B0D7934XJS-es'
 tags: [ 'gluten','orlando','sin','🇪🇸', ]
-actualPrice: 1.0 EUR
+actualPrice: 1.76 EUR
 currency: EUR
-price: 1.0
-comparePrice: 1.35 EUR
+price: 1.76
+comparePrice: 1.76 EUR
 prodname: 'Orlando Tomate Frito Clásico Frasco Sin Gluten Ni Conservantes. 340g'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D7934XJS/?tag=tolees-21'
-descuento: '25.93'
-average: '1.11833333333334'
+descuento: '0.00'
+average: '1.2100000000000057'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

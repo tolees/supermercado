@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Patatas fritas con sabor a pimentón
 - Este envase contiene aproximadamente 6 porciones
 - Conservar en un lugar fresco y seco
 - Envasado en Alemania
+- Patatas fritas con sabor a pimentón
 - Apto para dietas vegetarianas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

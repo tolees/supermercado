@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Moler como se recomienda para tu tipo de máquina de café. Asegúrate siempre de seguir las instrucciones del fabricante de la máquina.
-- Certificado Rainforest Alliance. Descubre más en ra.org.
-- Almacenar en un lugar fresco y seco. Una vez abierto, mantener refrigerado en un recipiente hermético, lejos de olores fuertes y consumir en 14 días. Para mejor antes, ver la parte posterior del paquete.
 - Adecuado para dietas vegetarianas y veganas
+- Moler como se recomienda para tu tipo de máquina de café. Asegúrate siempre de seguir las instrucciones del fabricante de la máquina.
+- Almacenar en un lugar fresco y seco. Una vez abierto, mantener refrigerado en un recipiente hermético, lejos de olores fuertes y consumir en 14 días. Para mejor antes, ver la parte posterior del paquete.
+- Certificado Rainforest Alliance. Descubre más en ra.org.
 - Granos de café tostados descafeinados, 100 % arábica, fuerza 2, suave
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

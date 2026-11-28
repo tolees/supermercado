@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Alto contenido en fibra: muesli rico en fibra que contribuye al bienestar digestivo.
 - Bajo en grasas saturadas y en sal: opción equilibrada para un desayuno diario nutritivo.
 - Todo el sabor de Alpen Original sin azúcar añadido: conserva sus ingredientes característicos con la dulzura natural de pasas jugosas.
-- Fuente de cereales integrales: muesli elaborado con copos de avena y hojuelas de trigo integral, ideal como desayuno saludable.
 - Ingredientes 100% naturales: muesli sin conservantes artificiales, con frutos secos seleccionados y cereales integrales.
+- Fuente de cereales integrales: muesli elaborado con copos de avena y hojuelas de trigo integral, ideal como desayuno saludable.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B000FQVPLC{{</world>}}

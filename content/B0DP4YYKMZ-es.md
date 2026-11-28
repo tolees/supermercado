@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sin gluten
-- Espumas dulces
-- Irresistible mix de sabores
 - La siguiente información se aplica a cada unidad del paquete
+- Espumas dulces
 - Un aperitivo divertido para personas de todas las edades
+- Sin gluten
+- Irresistible mix de sabores
 - Deliciosas y esponjosas nubes
 
 [🛒 Comprar!!!]({{< param buyurl >}})

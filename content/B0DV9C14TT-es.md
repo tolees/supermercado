@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Base de maquillaje compacta en crema emoliente e iluminadora con SPF 20, ideal para pieles de normales a secas
 - La fórmula está enriquecida con ácido hialurónico y vitamina C
-- El color puro y luminoso disimula las imperfecciones, para una tez de aspecto homogéneo, liso y fresco
-- Probado dermatológicamente, no comedogénico
+- Base de maquillaje compacta en crema emoliente e iluminadora con SPF 20, ideal para pieles de normales a secas
 - La textura fundente regala una aplicación sencilla y deslizante
+- Probado dermatológicamente, no comedogénico
+- El color puro y luminoso disimula las imperfecciones, para una tez de aspecto homogéneo, liso y fresco
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DV9C14TT{{</world>}}

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ya llegan las navidades y con ellas los turrones Nestlé, prueba todas sus deliciosas variedades
+- 100% Cacao de cultivo sostenible seleccionado a través de Nestlé Cocoa Plan
 - Fabricado en La Penilla, España
 - Turrón con cobertura de chocolate Nestlé Extrafino
+- Ya llegan las navidades y con ellas los turrones Nestlé, prueba todas sus deliciosas variedades
 - La siguiente información se aplica a cada unidad del paquete
 - Turrón de chocolate con leche con relleno, galleta y almendras
-- 100% Cacao de cultivo sostenible seleccionado a través de Nestlé Cocoa Plan
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0G59GZTSY{{</world>}}

@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Fuente de calcio, vitaminas d y proteínas
 - Batidos puleva, ningún batido es más saludable y divertido
-- Para disfrutarlo en cualquier lugar gracias a su envase especial
 - Con un sabor sensacional
+- Para disfrutarlo en cualquier lugar gracias a su envase especial
 - 90% de leche, 30% menos de azúcar y sin edulcorantes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

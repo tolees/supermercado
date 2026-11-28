@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Aperitivo de patatas fritas
 - Formato de 150 gramos, optimo tanto para compartir como para comer de manera individual
-- Las patatas crujientes de siempre ahora con sabor a cebolla
 - Lays cebolla son las patatas optimas para disfrutar en cualquier momento en familia
+- Las patatas crujientes de siempre ahora con sabor a cebolla
 - Prueba a preparar la tortilla de patatas con Lays cebolla, para una receta rápida y sencilla
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

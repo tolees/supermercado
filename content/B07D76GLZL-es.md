@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cuidado de la piel Visible Glow Gradual Tan Body Lotion - Fair/Medium de Dove
-- Productos de Cuidado de la piel para unisex adulto
 - Los productos de la marca Dove están fabricados con ingredientes de la mejor calidad.
+- Productos de Cuidado de la piel para unisex adulto
+- Cuidado de la piel Visible Glow Gradual Tan Body Lotion - Fair/Medium de Dove
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07D76GLZL{{</world>}}

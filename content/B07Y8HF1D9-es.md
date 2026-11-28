@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El paladar equilibrado, armónico y de gran persistencia
-- En boca es suave y amable, c
 - Notas elegantes de coco y vainilla
+- En boca es suave y amable, c
+- El paladar equilibrado, armónico y de gran persistencia
 - Con uvas de la variedad Malbec
 - Color rojo brillante profundo con matices púrpuras
 

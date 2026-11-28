@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Formato individual: bolsa de 80g, ideal para picar en cualquier momento
 - Textura crujiente: pequeños bocados llenos de sabor y diversión
 - Perfecto para cualquier ocasión: en casa, en el trabajo o como snack rápido
-- Formato individual: bolsa de 80g, ideal para picar en cualquier momento
 - Sabor a queso irresistible: el toque Tex Mex con queso que conquista desde el primer bocado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

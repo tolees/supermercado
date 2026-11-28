@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'YOSOY Bebida Vegetal de Soja 0% Azúcar - sin gluten pack de 6 x 1L'
-date: 2026-11-20 18:32:58
+date: 2026-11-28 15:45:49
 image: 'https://m.media-amazon.com/images/I/41J0Ty3pm2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

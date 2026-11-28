@@ -30,10 +30,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Este paquete de cartón está hecho con min. 80% de fibra reciclada.
 - 100% completo y equilibrado
-- Sin colorantes, tan irresistible
 - Fuente de ácidos grasos Omega-6
-- Vitaminas D & E
+- Sin colorantes, tan irresistible
 - Sin aromas artificiales añadidos y conservantes artificiales añadidos
+- Vitaminas D & E
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09HCN9BM6{{</world>}}

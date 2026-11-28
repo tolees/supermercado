@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Presentado en un práctico tarro de cristal de 57 g, optimo para un almacenamiento cómodo y para preservar el aroma y la frescura durante más tiempo
 - Compuesto por azúcar molido muy fino y almidón de maíz; se disuelve fácilmente en líquidos y se mezcla bien en masas
-- 100 años dando sabor y color a tu vida. El diseño puede cambiar, pero el sabor y la calidad siguen siendo los mismos
 - Disfruta de un producto versátil de manera rápida y sencilla, la elección indicada para realzar y dar vida a tus comidas
+- 100 años dando sabor y color a tu vida. El diseño puede cambiar, pero el sabor y la calidad siguen siendo los mismos
 - Espolvorea en tus postres y añade un sabor suave, transformando cualquier receta simple en un dulce especial
 - Azúcar glass de Carmencita es la opción indicada para crear deliciosos postres y todo tipo de bebidas
 

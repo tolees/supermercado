@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 49430
 - 4001504494308
+- 49430
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BSFRJWL1{{</world>}}

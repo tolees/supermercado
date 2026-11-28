@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Este producto está indicado para hSombras.
-- Contiene 100 ml.
 - De la marca Paco Rabanne.
 - Las notas olfativas principales de este producto son fresco acuático, cítrico y floral.
+- Contiene 100 ml.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00DAUYQX4{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La siguiente información se aplica a cada unidad del paquete
 - Dermatológicamente comprobado
-- Contiene 1/4 de crema hidratante
 - Gel de ducha delicado
+- Contiene 1/4 de crema hidratante
+- La siguiente información se aplica a cada unidad del paquete
 - Apto para el uso diario
 - Apto para piel normal e seca
 

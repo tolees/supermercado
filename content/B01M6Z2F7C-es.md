@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sucedáneo del azúcar para cocinar y hornear, adecuado para: algodón de azúcar, requesón, yogures, café, smoothies, leche, batidos, helados, comidas dietéticas, muesli o agua
-- Alternativa líquida a los cubos de azúcar, pastillas, jarabe de azúcar, dulces y polvos
 - Gotas de azúcar puras de Stevia Original sin otros edulcorantes, el dulzor se obtiene de hojas puras de Stevia
 - Edulcorante natural vegano sin azúcar, carbohidratos ni grasa | Sin colorantes y libre de OGM
+- Alternativa líquida a los cubos de azúcar, pastillas, jarabe de azúcar, dulces y polvos
+- Sucedáneo del azúcar para cocinar y hornear, adecuado para: algodón de azúcar, requesón, yogures, café, smoothies, leche, batidos, helados, comidas dietéticas, muesli o agua
 - Sostenible en frasco de vidrio farmacéutico con pipeta como dosificador
 
 [🛒 Visítala!!!]({{< param buyurl >}})

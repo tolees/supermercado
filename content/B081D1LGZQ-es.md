@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CORAZÓN SALUD: nutrición equilibrada para el bienestar del corazón.
 - CARNE FRESCA COMO INGREDIENTE PRINCIPAL: fuente de proteínas de alta calidad.
 - Aparato digestivo saludable: favorece la salud intestinal con fibras naturales.
+- CORAZÓN SALUD: nutrición equilibrada para el bienestar del corazón.
 - BAJO EN CARBOHIDRATOS Y SIN CEREALES: receta adecuada para dietas equilibradas.
 - Alimento natural hipoalergénico para perros: apoya la salud sin ingredientes comunes alérgenos.
 

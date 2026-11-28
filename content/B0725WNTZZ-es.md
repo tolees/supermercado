@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Las galletas Oreo Doble Crema están compuestas por dos galletas de cacao y el doble de rica crema sabor vainilla
+- El tentempié hecho para cualquier momento del día y para compartir con la familia y amigos, una merienda o el acompañante imperdible para un café o un rico vaso de leche y galletas
 - Con el doble de crema, harán las delicias de los más golosos
 - A lo largo de los últimos 100 años, las emblemáticas galletas de chocolate en forma de sándwich Oreo han sido una de las meriendas preferidas por jóvenes y adultos en todo el mundo
-- El tentempié hecho para cualquier momento del día y para compartir con la familia y amigos, una merienda o el acompañante imperdible para un café o un rico vaso de leche y galletas
 - El sabor único de las galletas Oreo comienza con el cacao auténtico que define con fuerza el color de la base de la galleta
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vileda 3 Action recambio de escoba para interiores color rojo y negro | Recambio de escoba | limpieza de interiores | sistema 3 Action | en rojo y negro'
-date: 2026-11-21 20:21:19
+date: 2026-11-27 16:13:39
 image: 'https://m.media-amazon.com/images/I/41fNiOWOiVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00F6BRWA4/?tag=tolees-21'
 descuento: '25.03'
-average: '5.7782352941176471'
+average: '5.8005263157894733'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Ajuste cómodo
-- Estilo clásico de mezclilla
 - Versátil básico de roble
+- Estilo clásico de mezclilla
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D87JHWZQ{{</world>}}
