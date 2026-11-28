@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'Amazon Basics Molinillo de café eléctrico negro'
+date: 2026-11-24 10:20:45
+image: 'https://m.media-amazon.com/images/I/311nRAA3K2L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B07XMD25RT-es Amazon Basics Molinillo de café eléctrico negro'
+sku: 'B07XMD25RT-es'
+tags: [ 'café','🇪🇸', ]
+actualPrice: 13.23 EUR
+currency: EUR
+price: 13.23
+comparePrice: 15.56 EUR
+prodname: 'Amazon Basics Molinillo de café eléctrico negro'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B07XMD25RT/?tag=tolees-21'
+descuento: '14.97'
+average: '12.478181818181808'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B07XMD25RT{{</world>}}

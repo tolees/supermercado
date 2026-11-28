@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'RENOVA Rollo De Cocina Gigaroll Ecológico 260 g'
+date: 2026-10-07 20:25:07
+image: 'https://m.media-amazon.com/images/I/41R4RAcKbkL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B00EZMIMPO-es RENOVA Rollo De Cocina Gigaroll Ecológico 260 g'
+sku: 'B00EZMIMPO-es'
+tags: [ 'renova','🇪🇸', ]
+actualPrice: 3.24 EUR
+currency: EUR
+price: 3.24
+comparePrice: 3.9 EUR
+prodname: 'RENOVA Rollo De Cocina Gigaroll Ecológico 260 g'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B00EZMIMPO/?tag=tolees-21'
+descuento: '16.92'
+average: '3.40731707317073'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B00EZMIMPO{{</world>}}
